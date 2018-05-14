@@ -1,0 +1,84 @@
+[VERSION] 38.22
+[NEWS]
+[BOLD]New map area added! The spawn-point town of Riverside, the nearby Knox Heights Country Club, Spa and Golf Course, and many/varied wilderness areas are now ripe and ready for exploration.
+[DOT2]Found west of West Point, and is of equivalent size.
+[DOT2]Contains new building types, architecture and item tiles.
+[DOT2]Includes Riverside lootable map
+[BOLD]World View update
+[DOT2]The homes, businesses, advertizing hoardings and outhouses are now seen in all their glory - rooftops and all. Building levels above the player are ONLY hidden for the 'current building'.
+[DOT2]Windows must now be peeked through by walking up to them, and looking through.
+[DOT2]Higher levels blocking your view are removed on approach, and hen zombie hazards are present.
+[DOT2]Exterior walls are no longer stencilled to transparent when you're outside unless they are actually blocking the view of your character.
+[BOLD]MP and Co-op Improvements
+[DOT2]Zombie placement and movement data shared between players heavily optimized to address cases of zombie lag, zed teleportation, unfair bites and general server strain.
+[DOT2]'Server Save' pause server option for larger servers that pauses the action when saving, reducing instances of sudden zombie lag.
+[DOT2]Added a "Level Up" button on the player stats UI to quickly level up a perk without using global point.
+[DOT2]Added an UI for admin to manage player's inventory.
+Added a n easy way for modders to add columns to their scrolling lists.
+Added 'deadzone' options to settings to alleviate problems with gamepad players sleeping.
+[BOLD]Corpse Management
+[DOT2]You can now dig graves with a shovel and bury multiple corpses inside.
+[DOT2]New carpentry crafting items: wooden cross, a cairn and a wooden memorial picket to go alongside the graves you dig.
+[DOT2]Large piles of rotten corpses will make you feel ill and sad if you stay close to them for extended periods.
+[BOLD]Added new Sandbox options:
+[DOT2]Generator Spawn: Increase/decrease the chance of electrical generators spawning on the map.
+[DOT2]Generator Fuel Consumption: Impacts how much fuel is consumed by generators. A generator that needs no fuel should be set to 0.0. (Replaces GeneratorFuelConsumed server option)
+[DOT2]Randomized House Chance: Increase/decrease probability of discovering randomized safe houses on the map: either burnt out, containing loot stashes, dead survivor bodies etc.
+[DOT2]Annotated Map Chance: Impacts on how often a looted map will have annotations marked on it by a deceased survivor.
+[DOT2]Zombie Construction Damage: Governs whether or not zombies can destroy player constructions and defences.
+[DOT2]Free Trait Points: Adds free points during character creation.
+[DOT2]Player-built Construction Strength: Gives player-built constructions extra hit points so they are more resistant to zombie damage.
+[DOT2]Day/Night Active Zombies: Governs whether zombies are more active during the day, or whether they act more nocturnally. Inactive zombies will be slower, and tend not to give chase.
+[DOT2]Nocturnal Darkness: Governs how dark it gets at night.
+[DOT2]Injury Severity: Increase and decrease the impact that injuries have on your body, and their healing time.
+[DOT2]Bone Fracture: Enable or disable broken limbs when survivors receive injuries from impacts, zombie damage and falls.
+[DOT2]Time Before Corpse Removal: Number of in-game hours before zombie corpses are automatically removed from the map. (Replaces former HoursForCorpseRemoval server option).
+[DOT2]Decaying Corpse Health Impact: Governs impact that nearby decaying bodies has on the player's health and emotions
+[DOT2]Clothing Degradation: Governs how quickly clothing degrades, becomes dirty and bloodied - or if it does at all.
+[DOT2]Randomization of zombie Speed, Strength, Toughness and Cognition. (Or just Strength, Toughness and Cognition.)
+[DOT2]Fire spread (previously 'No Fire spread' in server options): governs whether or not fire can spread.
+[BOLD]Clothing Degradation
+[DOT2]Clothing can now become dirty over extended periods, dependant on your activities.
+[DOT2]Fighting zombies will make your clothing bloody.
+[DOT2]If you're wearing dirty or bloody clothing over an open wound then chances of infection (normal infection, not zombie) will increase.
+[DOT2]Clothing now also has durability, every time you get hit you'll lose a little.
+[DOT2]Some clothing is more resistant than others.
+[BOLD]Optimization - in preparation for incoming Vehicles build
+[DOT2]Optimized Garbage Collection.
+[DOT2]LightingJNI optimized.
+[DOT2]Fixed surge in memory usage of 2-300 MB that can stall the game.
+[DOT2]Optimized map loading.
+[BOLD]Custom Map Loading change
+[DOT2]New "Select spawn location" screen after map mod selection
+[DOT2]All map mods now load, including spawnpoints.
+[DOT2]A 'multi-map' mod no longer needs to be created. 'Map Mod Priority order' setting added to highlight which maps are given precedence if there are geographical overlaps and conflicts, with warnings also given to player.
+[BALANCE]
+Increased nutrition values of fish and berries slightly.
+Increased player construction hit points.
+Removed Starting Year sandbox option.
+TV and Radio programmes now have an impact on the character's moodles. If watching an instructional show then an XP multiplier is received.
+Sleeping outside in rain will wake players up, unless they are in a tent or under a player made structure with roof.
+First aid kits now spawn with sterilized bandages, rather than regular bandages.
+Can now sterilize bandages in a boiling pot of water.
+Mattresses can now be made using a suture needle as well as a regular needle.
+Spices now usable as the first item in pasta/rice (eg. marinara).
+[BUG FIX]
+Fixed water pouring bug.
+Fixed zombie memory "none" sandbox option not working.
+Fixed a bug with phases of the moon not affecting ambient light at night.
+Fixed street lights still being active when electricity was down.
+Fixed being able to access rival player's safehouses through cheeky carpentry cheating.
+Fixed being able to climb through windows into a player's safehouse.
+Fixed multiple aspects of UI not working with a gamepad (foraging, lootable maps, sandbox options etc.)
+Large amounts of small items will now correctly fill up container space available.
+Fixed Book Reading interrupted when player aims a weapon.
+Fixed Characters losing fraction of XP on save.
+Added missing "spawn point" options in the server settings GUI.
+Added missing 'world filler' sprite visuals.
+Fixed possible bug with alarm being reset.
+Fixed always raining when loading/starting a game.
+Fixed rare bug with the crafting UI.
+Fixed a bug with the getLightFoodMod() calculation.
+Fixed evolved recipe drinks not being able to be drunk when an item could be added to it (the coffee bug).
+Fixed Voice Manager being enabled in SP. (Should give slight improvement in FPS, especially on slower systems)
+Fixed crafting issue with Hot Cuppa.

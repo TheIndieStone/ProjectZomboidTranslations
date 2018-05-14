@@ -1,0 +1,213 @@
+Moodles_RU = {
+	-- Moodle type :
+	-- Endurance
+	Moodles_endurance_lvl1 = "Умеренное напряжение",
+	Moodles_endurance_lvl2 = "Сильное напряжение",
+	Moodles_endurance_lvl3 = "Чрезмерное напряжение",
+	Moodles_endurance_lvl4 = "Истощение",
+	-- Heavy Load
+	Moodles_heavyload_lvl1 = "Довольно тяжёлый груз",
+	Moodles_heavyload_lvl2 = "Тяжёлый груз",
+	Moodles_heavyload_lvl3 = "Очень тяжёлый груз",
+	Moodles_heavyload_lvl4 = "Неподъемный груз",
+	-- Angry
+	Moodles_angry_lvl1 = "Нервность",
+	Moodles_angry_lvl2 = "Раздражение",
+	Moodles_angry_lvl3 = "Злость",
+	Moodles_angry_lvl4 = "Ярость",
+	-- Stress
+	Moodles_stress_lvl1 = "Волнение",
+	Moodles_stress_lvl2 = "Тревога",
+	Moodles_stress_lvl3 = "Стресс",
+	Moodles_stress_lvl4 = "Нервный срыв",
+	-- Thirst
+	Moodles_thirst_lvl1 = "Лёгкая жажда",
+	Moodles_thirst_lvl2 = "Жажда",
+	Moodles_thirst_lvl3 = "Мучительная жажда",
+	Moodles_thirst_lvl4 = "Критическое истощение",
+	-- Tired
+	Moodles_tired_lvl1 = "Сонливость",
+	Moodles_tired_lvl2 = "Усталость",
+	Moodles_tired_lvl3 = "Сильная усталость",
+	Moodles_tired_lvl4 = "Изнурение",
+	-- Hungry
+	Moodles_hungry_lvl1 = "Лёгкий голод",
+	Moodles_hungry_lvl2 = "Голод",
+	Moodles_hungry_lvl3 = "Сильный голод",
+	Moodles_hungry_lvl4 = "Изнурение голодом",
+	-- Panic
+	Moodles_panic_lvl1 = "Лёгкая паника",
+	Moodles_panic_lvl2 = "Паника",
+	Moodles_panic_lvl3 = "Сильная паника",
+	Moodles_panic_lvl4 = "Чрезвычайная паника",
+	-- Sick
+	Moodles_sick_lvl1 = "Лёгкая тошнота",
+	Moodles_sick_lvl2 = "Тошнота",
+	Moodles_sick_lvl3 = "Болезнь",
+	Moodles_sick_lvl4 = "Лихорадка",
+	-- Bored
+	Moodles_bored_lvl1 = "Проявление скуки",
+	Moodles_bored_lvl2 = "Скука",
+	Moodles_bored_lvl3 = "Сильная скука",
+	Moodles_bored_lvl4 = "Очень сильная скука",
+	-- Unhappy
+	Moodles_unhappy_lvl1 = "Лёгкая печаль",
+	Moodles_unhappy_lvl2 = "Отчаяние",
+	Moodles_unhappy_lvl3 = "Депрессия",
+	Moodles_unhappy_lvl4 = "Глубокая депрессия",
+	-- Bleeding
+	Moodles_bleeding_lvl1 = "Незначительное кровотечение",
+	Moodles_bleeding_lvl2 = "Кровотечение",
+	Moodles_bleeding_lvl3 = "Серьёзное кровотечение",
+	Moodles_bleeding_lvl4 = "Обильное кровотечение",
+	-- Wet
+	Moodles_wet_lvl1 = "Сырость",
+	Moodles_wet_lvl2 = "Промокли",
+	Moodles_wet_lvl3 = "До нитки",
+	Moodles_wet_lvl4 = "Одежда пропитана водой",
+	-- Has a cold
+	Moodles_hascold_lvl1 = "Лёгкий насморк",
+	Moodles_hascold_lvl2 = "Заложенный нос",
+	Moodles_hascold_lvl3 = "Простуда",
+	Moodles_hascold_lvl4 = "Скверная простуда",
+	-- Injured
+	Moodles_injured_lvl1 = "Незначительные повреждения",
+	Moodles_injured_lvl2 = "Ранения",
+	Moodles_injured_lvl3 = "Серьёзные ранения",
+	Moodles_injured_lvl4 = "Критические ранения",
+	-- Pain
+	Moodles_pain_lvl1 = "Незначительная боль",
+	Moodles_pain_lvl2 = "Боль",
+	Moodles_pain_lvl3 = "Нестерпимая боль",
+	Moodles_pain_lvl4 = "Агония",
+	-- Drunk
+	Moodles_drunk_lvl1 = "Лёгкое опьянение",
+	Moodles_drunk_lvl2 = "Нетрезвость",
+	Moodles_drunk_lvl3 = "Пьяны",
+	Moodles_drunk_lvl4 = "Ну вконец нажрались",
+	-- Dead
+	Moodles_dead_lvl1 = "Покойник",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Заражение",
+	-- Food eaten
+	Moodles_foodeaten_lvl1 = "Перекусил",
+	Moodles_foodeaten_lvl2 = "Сытно поел",
+	Moodles_foodeaten_lvl3 = "Наелся вдоволь",
+	Moodles_foodeaten_lvl4 = "Полный желудок",
+	-- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "Жарко",
+	Moodles_hyperthermia_lvl2 = "Перегрев",
+	Moodles_hyperthermia_lvl3 = "Серьёзный перегрев",
+	Moodles_hyperthermia_lvl4 = "Опасный перегрев",
+	-- Hypothermia
+	Moodles_hypothermia_lvl1 = "Зябко",
+	Moodles_hypothermia_lvl2 = "Холод",
+	Moodles_hypothermia_lvl3 = "Сильный холод",
+	Moodles_hypothermia_lvl4 = "Обморожение",
+
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "Передохните.",
+	Moodles_endurance_desc_lvl2 = "Трудно бежать.",
+	Moodles_endurance_desc_lvl3 = "Трудно идти.",
+	Moodles_endurance_desc_lvl4 = "Трудно сдвинуться с места.",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "Что-то действует Вам на нервы.",
+	Moodles_angry_desc_lvl2 = "В очень плохом настроении.",
+	Moodles_angry_desc_lvl3 = "Доведены до ярости.",
+	Moodles_angry_desc_lvl4 = "Напрашиваетесь на драку.",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "На взводе.",
+	Moodles_stress_desc_lvl2 = "Нервы расшатаны.",
+	Moodles_stress_desc_lvl3 = "Вспотевшие ладони. Обильные признаки тревоги.",
+	Moodles_stress_desc_lvl4 = "Встревожены до смерти.",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "Сухость во рту.",
+	Moodles_thirst_desc_lvl2 = "Хочется пить.",
+	Moodles_thirst_desc_lvl3 = "Чувство слабости и головокружения.",
+	Moodles_thirst_desc_lvl4 = "Обезвоживание.",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "Нужно прилечь.",
+	Moodles_tired_desc_lvl2 = "Сильная усталость, рассеяность.",
+	Moodles_tired_desc_lvl3 = "Валитесь с ног от усталости.",
+	Moodles_tired_desc_lvl4 = "Опасность упасть в обморок.",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "Можно слегка перекусить.",
+	Moodles_hungry_desc_lvl2 = "Слона бы съели. Сила и заживление понижены.",
+	Moodles_hungry_desc_lvl3 = "Скрутило живот от голода. Серьезное понижение сил и заживления.",
+	Moodles_hungry_desc_lvl4 = "В шаге от голодного обморока. Возможен смертельный исход.",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "Делайте всё возможное чтобы успокоиться.",
+	Moodles_panic_desc_lvl2 = "Руки дрожат от страха.",
+	Moodles_panic_desc_lvl3 = "Вас всего трясёт от страха. Соберитесь!",
+	Moodles_panic_desc_lvl4 = "Это бесполезно! Мне никто не поможет! Я здесь помру!",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "Неважно себя чувствуете.",
+	Moodles_sick_desc_lvl2 = "Слабость по всему телу. Похоже, что Вы заболели. Заживление понижено.",
+	Moodles_sick_desc_lvl3 = "Силы иссякают, Вас знобит, выступает пот. Раны не заживают.",
+	Moodles_sick_desc_lvl4 = "Повышенная опасность летального исхода.",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "Займитесь чем-нибудь, найдите развлечение.",
+	Moodles_bored_desc_lvl2 = "Опасность вогнать себя в тоску.",
+	Moodles_bored_desc_lvl3 = "Высокий шанс впасть в депрессию.",
+	Moodles_bored_desc_lvl4 = "Очень высокий шанс впасть в депрессию.",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Найдите способ повысить настроение.",
+	Moodles_unhappy_desc_lvl2 = "Развлекитесь, поговорите с кем-нибудь.",
+	Moodles_unhappy_desc_lvl3 = "Отчаяние берёт верх. Неужели вы одни?",
+	Moodles_unhappy_desc_lvl4 = "Вы одиноки в этом новом мире.",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "Требуется перевязка.",
+	Moodles_bleed_desc_lvl2 = "Кровь обильно покидает вас. Силы и скорость снижены.",
+	Moodles_bleed_desc_lvl3 = "Похоже, что задели артерию. Серьезное понижение сил и скорости.",
+	Moodles_bleed_desc_lvl4 = "Как вообще возможно потерять так много крови?!",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "Спрячьтесь от дождя, если не хотите заболеть.",
+	Moodles_wet_desc_lvl2 = "Промокли и озябли. Скорость слегка снижена.",
+	Moodles_wet_desc_lvl3 = "Промокли до нитки. Можете простудиться. Скорость снижена.",
+	Moodles_wet_desc_lvl4 = "Промокли - хоть выжимай. Простуда неминуема. Скорость серьезно снижена.",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Першит в горле.",
+	Moodles_hasacold_desc_lvl2 = "Насморк.",
+	Moodles_hasacold_desc_lvl3 = "Насморк и кашель. Скорость и регенерация снижены.",
+	Moodles_hasacold_desc_lvl4 = "Нос не дышит, громкий кашель. Скорость и регенерация сильно снижены.",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "Необходима первая помощь.",
+	Moodles_injured_desc_lvl2 = "Самочувствие ниже допустимой нормы. Сила и скорость снижены.",
+	Moodles_injured_desc_lvl3 = "Требуется срочное администрирование первой помощи. Сила и скорость серьезно снижены.",
+	Moodles_injured_desc_lvl4 = "Надеюсь, что вы купили белые тапочки заранее...",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "Чувствуется слабая боль.",
+	Moodles_pain_desc_lvl2 = "Очень больно. Сложно сосредоточиться. Скорость слегка снижена.",
+	Moodles_pain_desc_lvl3 = "Боль по всему телу. Скорость и меткость снижены.",
+	Moodles_pain_desc_lvl4 = "Невыносимая боль! Скорость и меткость серьезно снижены.",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "Взяли больше чем можете унести.",
+	Moodles_heavyload_desc_lvl2 = "Перегружены. Смотрите, не надорвитесь. Скорость движения снижена.",
+	Moodles_heavyload_desc_lvl3 = "Так перегружены, что еле передвигаете ноги.",
+	Moodles_heavyload_desc_lvl4 = "Надрываете спину. Движение под угрозой.",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "Вы немного пьяны. Настроение улучшается.",
+	Moodles_drunk_desc_lvl2 = "Координация слегка ухудшена.",
+	Moodles_drunk_desc_lvl3 = "Язык заплетается, в глазах двоится... Щас спою!",
+	Moodles_drunk_desc_lvl4 = "А теперь точно спою.. Ой тааам, нааа гооори..",
+	-- Dead
+	Moodles_dead_desc_lvl1 = "Высокий риск стать крысиной едой.",
+	-- Zombified
+	Moodles_zombified_desc_lvl1 = "Неожиданное желание есть людей.",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "Неплохо поели. Легкое повышение заживления и сил.",
+	Moodles_foodeaten_desc_lvl2 = "Сыты и веселы. Чувствуете прилив сил. Повышение заживления.",
+	Moodles_foodeaten_desc_lvl3 = "Наелись до отвала. Хорошо-то как! Долгое повышение заживления и сил.",
+	Moodles_foodeaten_desc_lvl4 = "Объелись так, что одежда не налазит. Очень долгое повышение заживления и сил.",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Жара. Может стоит надеть более лёгкую одежду? Хочется пить более часто.",
+	Moodles_hyperthermia_desc_lvl2 = "Духота. Летом можно ходить и без майки, мёртвые не осудят.",
+	Moodles_hyperthermia_desc_lvl3 = "Тошнота, трудно сконцентрироваться, потребление воды организмом увеличено вдвое.",
+	Moodles_hyperthermia_desc_lvl4 = "Кружит голову и тошнит. Признаки гипертермии.",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Прохладно, небольшой озноб.",
+	Moodles_hypothermia_desc_lvl2 = "Зубы стучат от холода. Ищите способ согреться.",
+	Moodles_hypothermia_desc_lvl3 = "Тело и разум зациклены на холоде. Здоровье под угрозой.",
+	Moodles_hypothermia_desc_lvl4 = "Обморожение конечностей, признаки гипотермии. Серьезная угроза вашему здоровью.",
+}

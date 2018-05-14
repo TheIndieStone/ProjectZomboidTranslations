@@ -1,0 +1,45 @@
+Challenge_PTBR = {
+Challenge_YouHaveOneDay_name = "1. Você tem um Dia",
+Challenge_YouHaveOneDay_desc = "Você está de volta em Knox County. Você está novamente aonde a infecção do Projeto Zomboid começou. <LINE> <LINE> Você tem um dia de relativa segurança. Os zumbis vão aparecer em grandes números, e eles vão te achar. Aonde você costumava se esconder mesmo? Aonde você costumava se esconder naquela época? Melhor lembrar logo. <LINE> <LINE> [Nossos agradecimentos BobHeckling da nossa comunidade por recriar o mapa da versão 0.1.5 usando as ferramentas atuais.]",
+Challenge_WinterIsComing_name = "3. O Inverno Está Chegando",
+Challenge_WinterIsComing_desc = "É meio do verão, mas de repente um vento gelado chega. Em apenas três dias um inverno chegará como nenhum outro. <LINE> <LINE> Você acorda em uma local isolado. Você tem suprimentos escassos, e a horda zumbi pode ficar mais lenta por conta do frio - mas não menos mortal. <LINE> <LINE> Se agasalhe, sobrevivente...",
+Challenge_OpeningHours_name = "2. Horário de Funcionamento",
+Challenge_OpeningHours_desc = "O Shopping está cercado. Em algum momento foi um lugar importante na nossa vida. O instinto os levou para as portas do Shopping. Uma memória do que eles costumavam fazer... <LINE> <LINE> Você está sozinho, mas não por muito tempo. as 9 da manhã o Shopping já está pronto para funcionar: as portas abriram e as hordas de zumbis entrarão. <LINE> <LINE> Se prepare para elas.",
+Challenge_AReallyCDDAy_name = "6. Um Belo Dia",
+Challenge_AReallyCDDAy_desc = "Você sai do banheiro e tropeça. Você está chapado e com uma bela gripe. <LINE> <LINE> Alem de tudo isso, a sua casa está pegando fogo! Hoje definitivamente não é o seu dia. <LINE> <LINE> [Um desafio inspirado pela missão A Really Bad Day do incrível jogo Cataclysm: Dark Days Ahead] ",
+Challenge_Challenge1_name = "4. A Cabana na Floresta - Última Batalha",
+Challenge_Challenge1_desc = "Você pode ouvir eles chegando. Hordas de zumbis se aproximando da sua cabana por todos os lados. A morte é inevitável, mas você tem uma escopeta por perto. <LINE> <LINE> O modo Última Batalha conta com ondas infinitas de zumbis que aumentam conforme o tempo. Sobreviva o máximo que conseguir contra todas as probabilidades.",
+Challenge_Challenge2_name = "5. A Cabana na Floresta - Última Batalha Acumulada",
+Challenge_Challenge2_desc = "Outro dia, outra cabana está pronta para o banho de sangue. As hordas estão chegando até você, e a sua morte vai ser um tanto quanto dolorosa. Então vá e lute... <LINE> <LINE> O modo Última Batalha conta com ondas infinitas de zumbis que aumentam conforme o tempo. Use dinheiro acumulado por matar zumbis e compre equipamentos, melhore suas habilidades e repare suas armas ensopadas de sangue.",
+-- On-screen UI
+Challenge_Challenge2_PressKey = "Aperte 'o' para o bônus permanente e para gastar algum dinheiro.",
+Challenge_Challenge2_WaveStart = "Onda %1 em : %2 (Aperte Enter para pular)",
+Challenge_Challenge2_WaveDuration = "Onda %1 : %2",
+Challenge_Challenge2_ZombiesLeft = "Zumbis restantes : %1",
+Challenge_Challenge2_Money = "Dinheiro : %1",
+Challenge_Challenge2_Money2 = "Dinheiro do Jogador %1 : %2",
+Challenge_Challenge2_WaveFinished = "Onda %1 finalizada em : %2",
+Challenge_Challenge2_MoneyGained = "Dinheiro ganho : %1",
+Challenge_Challenge2_XPGained = "Experiência adquirida : %1",
+-- Window
+Challenge_Challenge2_WindowTitle = "Última Batalha",
+Challenge_Challenge2_TabPlayer = "Jogador",
+Challenge_Challenge2_Weapons = "Armas",
+Challenge_Challenge2_TabItems = "Itens",
+Challenge_Challenge2_TabRepair = "Consertar",
+-- PlayerUpWindow
+Challenge_Challenge2_Skills = "Habilidades",
+Challenge_Challenge2_PermanentBonus = "Bônus Permanentes",
+-- VariousItemWindow
+Challenge_Challenge2_Carpentry = "Carpintaria",
+Challenge_Challenge2_Health = "Saúde",
+Challenge_Challenge2_ItemButton = "%1 - %2",
+Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+-- WeaponRepairWindow
+Challenge_Challenge2_RepairWeapon = "Consertar Arma",
+-- WeaponUpWindow
+Challenge_Challenge2_Health = "Saúde",
+Challenge_OpeningHoursInfoBox = " <CENTRE> O shopping abre as 9 da manhã. <LINE> <LINE> Se prepare para multidões...",
+Challenge_WinterIsComingInfoBox = " <CENTRE> Em três dias o inverno inacabável vai começar. <LINE> <LINE> Se agasalhe...",
+Challenge_YouHaveOneDayInfoBox = " <CENTRE> Em 24 horas a sua viagem de volta a Knox County vai se transformar no Inferno na Terra...",
+}

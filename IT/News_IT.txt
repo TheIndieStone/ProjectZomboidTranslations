@@ -1,0 +1,33 @@
+[VERSION] 37
+[NEWS]
+Aggiunta l'opzione "attiva/disattiva corsa" all'assegnazione tasti. Ti permette di continuare a correre senza tenere premuto il tasto corsa e può essere attivato o disattivato.
+E' stato integrato un sistema migliore per la traduzione del file News_EN.txt nella schermata del menù. Ora può essere usato per ogni versione nuova.
+Aggiunto alla schermata del menù il pulsante "Informazioni Versione"
+[BOLD]Forni e microonde migliorati:
+[DOT2]Ora hai accesso ad una nuova interfaccia per le impostazioni di forni e microonde facendo click con il pulsante destro e selezionando 'Impostazioni'.
+[DOT2]Puoi cambiare la temperatura ed usare il tastierino del timer. I forni faranno 'ding' al termine del tempo impostato, i microonde invece si spegneranno.
+[DOT2]Mettere oggetti di metallo nei microonde possono far partire degli incendi.
+[DOT2]Aggiunti nuovi suoni per forni e microonde.
+[DOT2]Aggiunta luce di funzionamento ai forni/microonde.
+[BOLD]Cambiamenti al cibo:
+[DOT2]Alcuni cibi diventeranno meno appetibili quando scaldati al microonde, causando aumento di tristezza del personaggio.
+[DOT2]Mangiare cibo caldo/freddo avrà un impatto rilevante sulla felicità/tristezza del personaggio.
+[BOLD]Mappe delle città:
+[DOT2]Ora le mappe delle zone urbane all'interno della Zona di Esclusione dell'Evento di Knox possono essere trovate nei paesi principali, in particolare si tovano nelle stazioni di rifornimento.
+[DOT2]Le mappe che puoi trovare coprono Muldraugh, West Point, Rosewood e March Ridge.
+[DOT2]Per consultare una mappa cliccala con il tasto destro e seleziona "Consulta mappa".
+[DOT2]Usando la nuova interfaccia della mappa puoi ingrandirla con la rotella del mouse, aggiungere note e alcuni simboli.
+[DOT2]Puoi scrivere in 4 colori diversi: grigio, nero, rosso e blu - ma devi trovare prima le penne colorate!
+[DOT2]Gli errori possono essere cancellati selezionando "Rimuovi Elemento" e scegliendo ciò che vuoi cancellare.
+[DOT2]Le mappe annotate possono essere condivise con amici e membri delle fazioni nella modalità multigiocatore.
+[BILANCIAMENTO]
+Ridotto il raggio del rumore delle gocce d'acqua dei lavandini.
+[BUG FIX]
+Il rumore dei tuoi ora viene governato dal volume ambientale.
+Risolto un problema in UI_EN.txt.
+Risolto problema dei punti di spawn del giocatore che resettavano anche spawn_region.
+Risolto problema che impediva di ricaricare le armi in difficoltà normale/difficile.
+Risolto problema con alcune lingue che avevano i pulsanti del menù spostati.
+Risolto un problema che impediva di aggiungere ingredienti a ricette evolute già cucinate (aggiungere sugo dopo aver cotto la pasta ecc)
+Risolto palo delle scale non settato come muro portante.
+Risolto nullpointer in BodyDamage.

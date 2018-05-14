@@ -1,0 +1,59 @@
+Farming_PTBR = {
+-- vegetables name (type of seed)
+Farming_Carrots = "Cenouras",
+Farming_Broccoli = "Brócolis",
+Farming_Radishes = "Rabanetes",
+Farming_Strawberry_plant = "Pé de morango",
+Farming_Tomato_Vine = "Pé de tomate",
+Farming_Potatoes = "Batatas",
+Farming_Cabbages = "Repolhos",
+-- growing phase
+Farming_Seedling = "Plântula",
+Farming_Young = "Vegetativa",
+Farming_Ready_for_Harvest = "Pronto para a colheita",
+Farming_In_bloom = "Florescendo",
+Farming_Seed-bearing = "Com sementes",
+Farming_Receding = "Retrocedendo",
+Farming_Rotten = "Podre",
+Farming_Destroyed = "Destruída",
+-- farming info text
+-- title
+Farming_Plant_Information = "Informações Sobre a Planta",
+Farming_Current_growing_phase = "Estado de Crescimento Atual",
+Farming_Next_growing_phase = "Proximo Estado de Crescimento",
+Farming_Last_time_watered = "Última Vez Regada",
+Farming_Fertilized = "Fertilizada",
+Farming_Health = "Saúde",
+Farming_Disease = "Doente",
+Farming_Water_levels = "Nível d'água",
+-- water
+Farming_Well_watered = "Bem regada",
+Farming_Fine = "Bem",
+Farming_Thirsty = "Ficando Seca",
+Farming_Dry = "Seca",
+Farming_Parched = "Sedenta",
+-- growing phase
+Farming_Seedling = "Plântula",
+Farming_Fully_grown = "Planta Adulta",
+Farming_Ready_to_harvest = "Pronto Para a Colheita",
+-- disease
+Farming_Mildew = "Com Mofo",
+Farming_Pest_Flies = "Praga de insetos",
+Farming_Devil_Water_Fungi = "Com Fungos",
+-- hours
+Farming_Hours = "Horas",
+-- health
+Farming_Flourishing = "Florescendo",
+Farming_Verdant = "Desabrochando",
+Farming_Healthy = "Saudável",
+Farming_Sickly = "Doente",
+Farming_Stunted = "Definhando",
+Farming_Tooltip_MinWater = "Mínimo d'água: ",
+Farming_Tooltip_MaxWater = "Máximo d'água: ",
+Farming_Tooltip_TimeOfGrow = "Tempo médio de crescimento: ",
+Farming_Tooltip_AverageWater = "Necessidade média de água: ",
+Farming_Tooltip_RequiredSeeds = "Sementes necessárias: ",
+Farming_Strawberry plant = "Pé de morango",
+Farming_Tomato = "Tomate",
+Farming_Plowed_Land = "Terreno arado",
+}

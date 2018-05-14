@@ -1,0 +1,222 @@
+[VERSION] 37
+[NEWS]
+Se agregó la opción "activar para correr" en la configuración de teclas. Esto permite correr constantemente sin mantener pulsada la tecla, y se puede activar o desactivar.
+Integrado un sistema mejorado para la traducción del News_EN.txt en la pantalla de menú, que ahora se puede utilizar para cada nueva versión.
+Se agregó un botón "Info de versión" en la pantalla del menú.
+[BOLD]Hornos y microondas mejorados:
+[DOT2]Ahora tienes acceso a una nueva interfaz de configuración de hornos y microondas, haciendo clic derecho y seleccionando 'Ajustes'.
+[DOT2]Puedes cambiar la temperatura y usar el dial del temporizador. Los hornos harán 'ding' cuando el tiempo se acabe y los microondas se apagarán.
+[DOT2]Poner metal en un microondas puede provocar un incendio.
+[DOT2]Se agregaron nuevos sonidos a hornos y microondas.
+[DOT2]Añadida luz de "funcionamiento" a hornos y microondas.
+[BOLD]Cambios en los alimentos:
+[DOT2]Algunos alimentos se volverán menos comestibles cuando se cocinen en un microondas, aumentando la tristeza del personaje.
+[DOT2]Comer alimentos calientes o fríos tendrán un impacto relevante en la felicidad y tristeza del personaje.
+[BOLD]Mapas del mundo:
+[DOT2]Mapas de zonas urbanas se pueden encontrar ahora en el juego, especialmente en gasolineras.
+[DOT2]Los mapas que actualmente puedes encontrar son Muldraugh, West Point, Rosewood y March Ridge.
+[DOT2]Para mirar un mapa haz clic derecho en él y luego selecciona "Ver mapa".
+[DOT2]En la nueva interfaz del mapa puedes hacer zoom con la rueda del ratón, añadir tus propias notas y un montón de símbolos.
+[DOT2]Puedes escribir en 4 colores diferentes: gris, negro, rojo y azul, ¡pero tendrás que encontrar los bolígrafos correspondientes!
+[DOT2]Los errores se pueden borrar con el botón "Eliminar elemento" y seleccionando lo que quieras borrar.
+[DOT2]Puedes compartir tus mapas anotados con tus amigos y miembros de la facción en el multijugador.
+[BALANCE]
+Reducido el radio sonoro de los goteos de agua del grifo.
+[BUG FIX]
+El sonido del trueno ahora está vinculado al volumen ambiental.
+Solucionado un problema en UI_EN.txt.
+Solucionado un error con los puntos de reaparición del jugador en Rosewood.
+Solucionado un problema que impedía recargar las armas de fuego en los niveles normal y extremo.
+Solucionados algunos problemas de botones desplazados en otros idiomas.
+Se ha solucionado un error por el que no se podían añadir ingredientes a las recetas evolucionadas que ya habían sido cocinadas (añadiendo salsa después de cocinar la pasta, etc.)
+Corregido un error con los pilares de las escaleras que no se establecían como muros de carga.
+Corregido un nullPointer en BodyDamage.
+[VERSION] 37.1
+[VERSION] 37.2
+[BUG FIX]
+Ahora se detienen todas las acciones actuales antes de poder comerciar.
+Corregido un error que podía causar la duplicación de objetos al caminar mientras se comerciaba.
+Corregido que al filetear un pescado cocinado daba como resultado filetes crudos.
+Corregido nullPointer con ciertas recetas evolucionadas.
+Corregido un error con el sándwich de cacahuete/queso que no tenían valores nutritivos.
+[VERSION] 37.3
+[NEWS]
+Actualizado Windows JRE a 8u121.
+[BOLD]Añadido sistema de "mapa anotado":
+[DOT2]En ocasiones puedes encontrar mapas anotados, son como los mapas básicos pero con anotaciones de otros supervivientes. Se encuentran sobre todo en zombis.
+[DOT2]Pueden llevarte a alimentos, herramientas, armas, te dan información de lugares interesantes... ¡Pero también pueden guiarte a una gran horda de zombis o a casas infestadas!
+[DOT2]Los alijos pueden estar en el armario, en cajas, mochilas en el suelo o incluso escondidos debajo de las ¡tablas del suelo!
+[DOT2]No está terminado aún, por lo que su tasa de aparición puede ser algo alta por ahora. Se balanceará durante las pruebas en IWBUMS.
+[BALANCE]
+Reducido el número de edificios al azar (quemados, barricados...) de 20% al 10%.
+[BUG FIX]
+Corregido los bloques de hormigón de la carretera que bloqueaban la visión.
+Corregido el menú de metalistería que aparecía incluso si no se podía construir algo.
+Corregidos varios errores sobre algunas recetas evolucionadas.
+Corregidas las barricadas de barrotes colocadas en el lado este que se mostraban por debajo de las ventanas.
+Corregido el número incorrecto de zombis que reaparecían en las casas seguras.
+Corregido que no se permitía cortar en filetes pescados pequeños (peso menor de 1.0).
+Corregidas algunas referencias de pintura erróneas para la carpintería.
+Se arregló un nullpointerExpection con la toalla seca.
+[VERSION] 37.4
+[NEWS]
+Se añadió una receta para "Hacer chapa metálica pequeña", usando chapa metálica + soplete de gas y máscara de soldar. Proporciona 3 chapas metálicas pequeñas.
+Se ha añadido la nueva opción de servidor "HoursForWorldItemRemoval": Esto es el número de horas que tardan en desaparecer los objetos sueltos en el suelo (no en contenedores). Se pretende evitar la acumulación de objetos que crean una sobrecarga innecesaria en los servidores.
+Se agregó una nueva interfaz de usuario al rebuscar que te permitirá elegir lo que estás buscando (champiñones, bayas, plantas medicinales, animales, materiales...). También tiene la intención de evitar la acumulación de objetos que sobrecargan innecesariamente los servidores.
+Añadida traducción de la comunidad brasileña portuguesa por HiveFuse.
+[BALANCE]
+Reducido el volumen de sonido del crujido de los suelos.
+Mejora de las distribuciones de alijos para los mapa anotados.
+La elaboración de un techo de metal ahora requiere 1 uso del soplete de gas.
+[BUG FIX]
+Arreglada la versión de 64 bits que no funcionaba al cargar de la versión 37.2 a 37.3.
+Arreglado el sonido de crujidos en contenedores que no estaban sobre madera.
+Arreglado algunos pescados que tenían cálculo incorrecto del peso (lucios demasiado pesados, etc.).
+Arreglado los truenos que eran escuchados por personajes sordos.
+Se ha solucionado un bloqueo del juego causado por un evento nocturno de zombis mientras el personaje dormía.
+Añadido código de verificación para evitar hacerse daño de caída al correr por las escaleras en los servidores con latencia alta. Muerte por escaleras evitadas.
+Arreglado un error que con lejía en el inventario impedía comer recetas evolucionadas de más de 3 ingredientes.
+Solucionado un bloqueo al quemar un objeto IsoCompost.
+Arreglada la desaparición del soplete de gas al vaciarse por completo.
+Se ha corregido la tecla de contexto "e" que no funcionaba para bajar una soga de tela.
+Solucionado un bloqueo de servidor al eliminar una zona no-pvp.
+Corregido un error en el cálculo del tiempo de reanimación haciendo que cada reanimación a zombi fuese casi instantánea.
+Eliminar arbustos ahora es posible con un hacha de piedra.
+Arreglado el bloqueo de visión de las puertas metálicas para vallas.
+Arreglada la visión que no se actualizaba cuando un jugador construía una barricada.
+El personaje se acerca a las cenizas cuando ejecutamos la acción "eliminar cenizas".
+Se ha corregido un cálculo incorrecto del tamaño de zona no-pvp al crearla.
+Corregidas las propiedades de la lechuga.
+Se corrigió que al hacer clic en "Detalles" en la pantalla principal varias veces, se abrçian múltiples ventanas.
+Se arreglaron las duplicaciones de facciones.
+Ahora se eliminan las plantas y datos de la erosión al colocar un suelo.
+Opciones de servidor para la transmisión de radio para miembros del equipo/jugadores invitados.
+Algunas correcciones de tiledef.
+Corregido que horno y microondas no se podían controlar con un mando.
+Corregido que no se podía detener la alarma si el despertador estaba en el suelo. El jugador no podía activar la alarma con mando.
+Solucionado los estados positivos y negativos del jugador que se superponían entre sí al jugar 4 jugadores (local).
+[VERSION] 37.6
+[NEWS]
+[BALANCE]
+[BUG FIX]
+Posible solución para la duplicación de objetos recolectores de agua en el suelo al llover.
+Corregido nullpointer al probar la visión de un elemento inexistente.
+Solucionada la lógica del modo sueño en los jugadores. El jugador verá el "reloj de sueño" si duerme. Cada jugador se despierta independientemente de otros jugadores. Cada jugador puede despertarse si presiona las teclas de movimiento.
+Añadida la falta de sincronización entre los jugadores: cortinas, luces, ventanas, despertadores.
+El jugador ahora puede seleccionar la opción inactiva (dormir) desde el mando.
+El mando no tiene control en la ventana de unirse al servidor.
+Corregido el café que aparecía 2 veces en la receta de bebida caliente (Base.Coffee ahora es obsoleto).
+La bebida caliente ahora otorga reducción de sed.
+Corregido al renombrar algo siempre ponía la velocidad del juego en 1.
+El personaje ya no bebe automáticamente de objetos con agua contaminada.
+Solucionado cuelgue del juego con alarma de despertadores y la opción -nosound.
+[VERSION] 37.7
+[BALANCE]
+Se cambió la cruz del botiquín de color rojo a azul.
+[VERSION] 37.8
+[BALANCE]
+Cambiada la posibilidad de conseguir mapas anotados del 50% al 20%
+[BUG FIX]
+Corregido algunas de las descripciones de estados.
+Corregido agregar combustible a una barbacoa que aparecía como "agregar gasolina".
+Corregida la distribución incorrecta de objetos en el bar.
+El compostador ahora se puede saltar por encima.
+[VERSION] 37.9
+[BUG FIX]
+Se ha solucionado un posible cuelgue por zombi.
+Corregida la capacidad de los contenedores que construía el jugador (baldas, estanterías...).
+Ahora se puede caminar sobre el compostador, pero irás más lento.
+[VERSION] 37.10
+[BUG FIX]
+Solucionado un cuelgue al lanzar una bomba con un poder explosivo superior a 100 (Hydrocraft).
+[VERSION] 37.11
+[VERSION] 37.12
+[NEWS]
+[MP] Agregada la opción GeneratorFuelConsumed en servidores. El valor predeterminado es 1.0, si lo configuras en 0.5, los generadores consumirán la mitad de combustible. Con 2.0 consumirán el doble.
+[MP] Agregada la opción WorldItemRemovalExlusionList en servidores. Usar para excluir ciertos objetos eliminados por la opción HoursForWorldItemRemoval. Por defecto troncos y contenedores de agua.
+[BALANCE]
+Un bidón de gasolina completo ahora llena un generador al 80% (antes 40%).
+Reducida a la mitad la posibilidad de perder condición de los generadores mientras funcionan.
+Se cambió la capacidad de la tostadora de 50 a 3.
+[BUG FIX]
+Al destruir un generador ahora se desactiva.
+Se corrigió que al verter en objetos se creaba una entrada duplicada en el menú contextual.
+Se corrigió que al verter en objetos no se actualizaba el peso de los objetos.
+Se corrigió que al verter en objetos que no tenían nombre en la barra de acción, no se actualizaba el resultado final.
+El botón de inventario "Transferir todo" está bloqueado al tamaño del panel de inventario.
+Se agregó el evento faltante "OnTileRemoved".
+Solucionado los iconos desplazados de las mochilas al iniciar una partida.
+Corregidas las luces que no funcionaban en los edificios conectados a un generador.
+[VERSION] 37.13
+[VERSION] 37.14
+[VERSION] 38.2
+[NEWS]
+[MP] Se agregó un botón de "Subir de nivel" en la interfaz de usuario para subir rápidamente de nivel una habilidad sin usar el punto global.
+Se agregó un sistema más sencillo para los modders para agregar columnas a sus listas de desplazamiento.
+[MP] Agregada una interfaz de usuario para administradores para gestionar el inventario de los jugadores.
+Grandes pilas de cadáveres en descomposición te harán sentir mal y triste si te quedas cerca durante largos periodos de tiempo.
+[BOLD]Ahora puedes cavar tumbas con una pala y enterrar varios cadáveres en ellas (5 cadáveres por tumba).
+[DOT2]Si llevas encima un cadáver, puedes enterrarlo en una tumba vacía.
+[DOT2]Empezarás a oír moscas si se amontonan muchos cadáveres juntos.
+[BOLD]Se añadió un nuevo menú en carpintería ("Otros").
+[DOT2]En "Otros" encontrarás una cruz de madera, un hito de piedras y un piquete conmemorativo de madera para colocar junto a las tumbas que caves.
+[BOLD]Cambios en la ropa:
+[DOT2]La ropa puede ensuciarse tras largos periodos, dependiendo de tus actividades.
+[DOT2]Luchar contra zombis hará que tu ropa se manche de sangre.
+[DOT2]Si estás usando ropa sucia o ensangrentada y tienes una herida abierta, las posibilidades de infección (infección normal, no zombificación) aumentarán.
+[DOT2]La ropa ahora tiene también durabilidad. Cada vez que te golpeen se deteriorará un poco.
+[DOT2]Algunas prendas son más resistentes que otras.
+[BOLD]Se han añadido nuevas opciones para mundo abierto:
+[DOT2]Reaparición de generadores: aumenta o disminuye la probabilidad de aparición de generadores eléctricos en el mapa.
+[DOT2]Consumo de combustible del generador: ajusta la cantidad de combustible que consumen los generadores.
+[DOT2]Probabilidad de casas aleatorias: aumenta o disminuye la probabilidad de encontrar casas seguras aleatorias en el mapa: quemadas, con alijos secretos, con supervivientes muertos, etc.
+[DOT2]Aparición de mapas anotados: determina la frecuencia con la que un mapa encontrado tendrá anotaciones marcadas en él por un superviviente muerto.
+[DOT2]Daños en construcciones: ajusta si los zombis pueden o no destruir las construcciones y defensas de los jugadores.
+[DOT2]Puntos gratis para rasgos: añade puntos gratis durante la creación del personaje.
+[DOT2]Resistencia de las construcciones: proporciona a las construcciones del jugador puntos de resistencia adicionales ante el daño de los zombis.
+[DOT2]Actividad zombi diurna/nocturna: ajusta si los zombis son más activos durante el día o durante la noche. Los zombis inactivos serán más lentos y no tenderán a perseguirte.
+[DOT2]Oscuridad en la noche: determina cómo de oscuras serán las noches. No olvides tu linterna.
+[DOT2]Gravedad de las lesiones: aumenta y disminuye la gravedad de las lesiones en el personaje, y su tiempo de curación.
+[DOT2]Fractura ósea: habilita o deshabilita la posibilidad de fracturas óseas cuando los personajes sufren lesiones por impactos, daños por zombis o caídas.
+[DOT2]Desaparición automática de cadáveres: número de horas de juego antes de que los cadáveres de zombis se eliminen automáticamente del mapa. (Reemplaza la anterior opción de servidores HoursForCorpseRemoval).
+[DOT2]Impacto de los cadáveres en descomposición: ajusta el impacto que tendrá en la salud y las emociones del personaje los cadáveres en descomposición cercanos a él.
+[DOT2]Degradación de la ropa: regula la rapidez a la que la ropa se degrada, ensucia o se llena de sangre.
+[DOT2]Añadida selección aleatoria en zombis: velocidad, fuerza, dureza y cognición.
+Los programas de TV y Radio ahora tienen un impacto en el jugador. Si estás viendo un programa instructivo recibirás un multiplicador de XP.
+[BALANCE]
+Se aumentó un poco los valores nutricionales de peces y bayas.
+Aumento en la defensa de las construcciones del jugador.
+Eliminada la opción "Año de inicio" en el modo mundo abierto.
+[BUG FIX]
+Corregida la opción "Ninguna" referente al ajuste de memoria de los zombis en el modo mundo abierto.
+Corregido un fallo con los ciclos lunares que no afectaban a la luz ambiental nocturna.
+Solucionado un error al verter agua.
+Corregidas las farolas que se iluminaban aún sin electricidad.
+Se corrigió la capacidad para construir algo dentro del refugio del jugador.
+Se corrigió la posibilidad de escalar cuerdas de soga en el refugio del jugador.
+[VERSION] 38.8
+[NEWS]
+[BOLD]Cambiado cómo se cargan los mapas personalizados:
+[DOT2]Después de seleccionar su mod, ahora llegará a la pantalla de "Elija zona de aparición" y no a la de "seleccionar mapa" para evitar confusión.
+[DOT2]Cada mod de mapa habilitado ahora se carga, incluyendo sus puntos de aparición.
+[DOT2]Esto significa que no necesita codificar su propio mod de mapas múltiples para cargar más de uno.
+[DOT2]Se agregó una interfaz para ordenar mods, úsala si tienes conflictos (copia una celda sobre la existente) en tu mapa modificado!
+[BOLD]Cambios en la visión del mundo:
+[DOT2]Los niveles de construcción por encima del jugador están SÓLO ocultos para el "edificio actual".
+[DOT2]"Edificio actual" se define como el edificio en el que estás dentro O si está fuera, el edificio que bloquea nuestra vista del personaje O un edificio el cual miras a través de su ventana.
+[DOT2]Los niveles de construcción también se ocultan cuando el zombi visible más cercano está detrás de un edificio. Así que si tu personaje está detrás de la pared trasera de un edificio y hay un zombie allí, los pisos del edificio se ocultarán como lo harían si caminaras detrás del edificio.
+[DOT2]Las paredes exteriores de la construcción ya no se transparentan automáticamente cuando estás afuera, a menos que estén bloqueando la vista de tu personaje.
+[VERSION] 38.9
+[BALANCE]
+Dormir en el exterior mientras llueve despertará al personaje, a menos que esté en una tienda de campaña o bajo una estructura con techo fabricada por el jugador.
+[BUG FIX]
+Corregidos los errores en el nuevo mapa de Riverside.
+Corregidos muchos errores en la interfaz de usuario que no funcionaban con un mando.
+Grandes cantidades de pequeños objetos ahora rellenan correctamente el espacio disponible en los contenedores.
+Corregido la interrupción al leer libros mientras el personaje apunta con un arma.
+Corregido los personajes que perdían fracciones de EXP al guardar.
+[VERSION] 38.10
+[BUG FIX]
+Agregados los puntos de aparición que faltaban en la interfaz de configuración de servidor.
+Agregado relleno de mundo que faltaba.
+Corregido un posible error con el reinicio de la alarma.

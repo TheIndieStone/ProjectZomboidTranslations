@@ -1,0 +1,51 @@
+Challenge_ES = {
+
+	-- Build 32.27
+	-- 07-09-2015
+	-- Autor: ditoseadio
+
+	Challenge_YouHaveOneDay_name = "1. Tienes un día",
+	Challenge_YouHaveOneDay_desc = "Estás de vuelta en el condado de Knox. Has vuelto al mapa donde se inició la infección de Project Zomboid. <LINE> <LINE> Tienes un día de relativa seguridad. Los zombis llegarán en gran cantidad, y te encontrarán. ¿Dónde te esconderás para resistir de nuevo? ¿Dónde te escondiste la última vez? Mejor encuéntralo rápido. <LINE> <LINE> [Nuestro agradecimiento a BobHeckling por recrear el mapa de la versión 0.1.5 con las herramientas actuales de PZ.]",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu regreso al condado de Knox se convertirá en un infierno...",
+
+	Challenge_OpeningHours_name = "2. Hora de apertura",
+	Challenge_OpeningHours_desc = "El centro comercial está rodeado. Hace tiempo, fue un lugar importante en sus vidas. El instinto les ha llevado a sus puertas. Un recuerdo de lo que solían hacer... <LINE> <LINE> Estás solo, pero no por mucho tiempo. A las 9AM el centro comercial estará preparado para comenzar el día: las puertas se abrirán, y las hordas entrarán. <LINE> <LINE> Prepárate para ello.",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> El centro comercial abre a las 9AM. <LINE> <LINE> Prepárate para la avalancha...",
+
+	Challenge_WinterIsComing_name = "3. El invierno se acerca",
+	Challenge_WinterIsComing_desc = "Estás a mediados de Julio, pero de repente hace una brisa escalofriante. En apenas tres días el invierno comenzará como ninguno otro antes. <LINE> <LINE> Te despiertas en un lugar aislado. Tienes pocas provisiones, y las hordas de zombis pueden ser ralentizadas por el intenso frío, pero no las hace menos mortales. <LINE> <LINE> Abrígate superviviente...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres días comienza el invierno sin fin. <LINE> <LINE> Abrígate...",
+
+	Challenge_Challenge1_name = "4. Casa en el bosque",
+	Challenge_Challenge1_desc = "Prepárate para una pequeña e intensa dosis de Zomboid.  Los zombis se acercan desde todos los lados. <LINE> Vas a comprobar, muy pronto, cuanto tiempo puedes resistir una horda. <LINE> Prepara la escopeta... <BR> Interminables oleadas de zombis cada vez mayores. <LINE> Sobrevive lo máximo posible usando los recursos limitados que encuentres.",
+
+	Challenge_Challenge2_name = "5. Casa en el bosque 2",
+	Challenge_Challenge2_desc = "Prepárate para una pequeña e intensa dosis de Zomboid.  Los zombis se acercan desde todos los lados. <LINE> Vas a comprobar, muy pronto, cuanto tiempo puedes resistir una horda. <LINE> Prepara la escopeta... <BR> Interminables oleadas de zombis cada vez mayores. <LINE> Consigue dinero matando zombis y úsalo para comprar y reparar equipamiento, o para subir de nivel.",
+
+	Challenge_AReallyCDDAy_name = "6. Una muerte inminente",
+	Challenge_AReallyCDDAy_desc = "Tienes que salir de la ducha y te caes.  Estás borracho, y tienes un frío de muerte. <LINE> Además de todo esto, ¡la casa está ardiendo!  Definitivamente hoy no es tu día.",
+
+
+	Challenge_Challenge2_Carpentry = "Carpintería",
+	Challenge_Challenge2_Health = "Salud",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	Challenge_Challenge2_Money = "Dinero : %1",
+	Challenge_Challenge2_Money2 = "Player %1 money : %2",
+	Challenge_Challenge2_MoneyGained = "Dinero ganado : %1",
+	Challenge_Challenge2_PermanentBonus = "Bonus permanente",
+	Challenge_Challenge2_PressKey = "Pulsa 'o' para un aumento permanente y gastar algo de dinero.",
+	Challenge_Challenge2_RepairWeapon = "Reparar arma",
+	Challenge_Challenge2_Skills = "Habilidades",
+	Challenge_Challenge2_TabItems = "Items",
+	Challenge_Challenge2_TabPlayer = "Jugador",
+	Challenge_Challenge2_TabRepair = "Reparar",
+	Challenge_Challenge2_WaveDuration = "Oleada %1 : %2",
+	Challenge_Challenge2_WaveFinished = "Oleada %1 exterminada en : %2",
+	Challenge_Challenge2_WaveStart = "Oleada %1 en : %2 (pulsa INTRO para saltar)",
+	Challenge_Challenge2_Weapons = "Armas",
+	Challenge_Challenge2_WindowTitle = "Desafío",
+	Challenge_Challenge2_XPGained = "Experiencia ganada : %1",
+	Challenge_Challenge2_ZombiesLeft = "Zombis restantes : %1",
+
+}

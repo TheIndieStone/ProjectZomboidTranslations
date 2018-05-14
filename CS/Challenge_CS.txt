@@ -1,0 +1,47 @@
+Challenge_CS = {
+	Challenge_AReallyCDDAy_name = "Obravdu špatný den",
+	Challenge_AReallyCDDAy_desc = "Vylezeš z vany a upadneš.  Jsi totálnì namol a ještì k tomu trpíš chøipkou. <LINE> Aby toho nebylo málo, tak ti hoøí dùm!  Dnešek rozhodnì není tvým dnem.",
+
+	Challenge_Challenge1_name = "Dùm v lese - Poslední vzdor",
+	Challenge_Challenge1_desc = "Pøiprav se na krátkou a ostrou dávku Zomboidu.  Mrtváci pøicházejí ze všech smìrù. <LINE> Brzy to sám zjistíš, ale na jak dlouho vydržíš odolávat hordì? <LINE> Pøiprav si tu brokovnici... <BR> Obsahuje nekoneèné vlny spoleènì rostoucími poèty zombií. <LINE> Snaž se pøežívat, co možná nejdéle, za pomoci omezených zdrojù, které ve svìtì nalezneš.",
+
+	Challenge_Challenge2_name = "Dùm v lese 2 - Poslední vzdor",
+	Challenge_Challenge2_desc = "Pøiprav se na krátkou a ostrou dávku Zomboidu.  Mrtváci pøicházejí ze všech smìrù. <LINE> Brzy to sám zjistíš, ale na jak dlouho vydržíš odolávat hordì? <LINE> Pøiprav si tu brokovnici... <BR> Obsahuje nekoneèné vlny spoleènì rostoucími poèty zombií. <LINE> Použij peníze získané ze zabíjení zombií, na nákup èi opravu vybavení a také pro získání vyšší úrovnì.",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Stiskni 'o' pro doèasné posílení a utracení nìkolika penìz.",
+	Challenge_Challenge2_WaveStart = "Vlna: %1 z %2 (stiskni Enter pro pøeskoèení)",
+	Challenge_Challenge2_WaveDuration = "Vlna %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zbývá zombií : %1",
+	Challenge_Challenge2_Money = "Peníze : %1",
+	Challenge_Challenge2_Money2 = "Hráè : %1, peníze : %2",
+	Challenge_Challenge2_WaveFinished = "Vlna %1 dokonèena v : %2",
+	Challenge_Challenge2_MoneyGained = "Získáno penìz : %1",
+	Challenge_Challenge2_XPGained = "Získáno zkušeností : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Poslední vzdor",
+	Challenge_Challenge2_TabPlayer = "Hráè",
+	Challenge_Challenge2_Weapons = "Zbranì",
+	Challenge_Challenge2_TabItems = "Pøedmìty",
+	Challenge_Challenge2_TabRepair = "Opravování",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Dovednosti",
+	Challenge_Challenge2_PermanentBonus = "Doèasný bonus",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Tesaøství",
+	Challenge_Challenge2_Health = "Zdraví",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Opravit zbraò",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Zdraví",
+	Challenge_YouHaveOneDay_name = "1. Máš jeden den",
+	Challenge_YouHaveOneDay_desc = "Jsi zpátky v Knox County. Jsi zpátky na mapì, kde vypukla první infekce v Project Zomboid. <LINE> <LINE> Máš jeden den relativního bezpeèí. Zombíci dorazí v obrovské množství a najdou si tì. Kde že jsi to byl naposledy? Kde že jsi to kdysi dávno byl? Najdi to a rychle. <LINE> <LINE> [Naše díky patøí komunitnímu mapperovi BobHeckling za pøedìlání staré 0.1.5 mapy s pomocí aktuálních PZ nástrojù.]",
+	Challenge_WinterIsComing_name = "3. Pøichází zima",
+	Challenge_WinterIsComing_desc = "Je pùlka èervence, ale z nièeho nic zafouká neobvyklý mrazivý vánek. Za pouhé tøi dny pøijde zima jako nikdy pøedtím. <LINE> <LINE> Probouzíš se v izolované oblasti. Výbavy máš po skrovnu a i když jsou hordy mrtvákù spomaleny zimou, tak jsou stále stejnì smrtící. <LINE> <LINE> Oblékni se teple, pøeživší...",
+	Challenge_OpeningHours_name = "2. Otevírací doba",
+	Challenge_OpeningHours_desc = "Obchoïák je obklíèen. Kdysi dávno to bylo jejich dùležité místo k životu. Instinkty je vedly k jejich dveøím. Vzpomínka na to, co døíve dìlali... <LINE> <LINE> Jsi sám, ale né na dlouho. V 9 dopoledne (AM) bude obchoïák pøipraven na nápor: dveøe se otevøou a masy vstoupí. <LINE> <LINE> Pøiprav se na nì.",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Obchoïák otevøe v 9 dopoledne. <LINE> <LINE> Pøiprav se na davy...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Za tøi dny pøijde nekoneèná zima. <LINE> <LINE> Oblékni se teple...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Za 24 hodin se z tvého výletu do Knox County stane Peklo na Zemi...",
+}

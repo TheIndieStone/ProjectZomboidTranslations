@@ -1,0 +1,62 @@
+// Translation By：Sky_Orc_Mm
+// Special Thanks：半夏微凉.柒染
+// Last updated：March 7, 2016 20:05
+// Without the author's permission is prohibited edit following content
+// 未经作者许可，禁止编辑/转载/拷贝/传播/以下内容！
+*****************************************
+
+SurvivalGuide_CN = {
+    SurvivalGuide_entrie1title = "生存指南 #1 - 角色控制",
+    SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #1 - 控制自己 <LINE> <IMAGE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 放松一下,并学习以下的知识",
+    SurvivalGuide_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在Project Zomboid中, 使用WASD键来移动.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
+            "按住左SHIFT键可以加速奔跑. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <TEXT> 另外,按住鼠标右键移动视角可以观察四周. <BR> <IMAGECENTRE:media/ui/tutimages/walkright.png> <LINE>  <BR> <H1> "..
+            "战斗 <BR> <TEXT> 进入攻击模式? 按住鼠标右键即可进入攻击模式. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  按住鼠标右键来准备攻击. 用鼠标箭头位置来瞄准攻击方向. 有经验的幸存者会在攻击时同时使用WASD方向键来躲避僵尸的攻击."..
+            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 按住鼠标左键将对目标进行攻击. <LINE> 请切记,近战武器距离越远,攻击越高, <LINE>  <LINE> 所以所不停的点鼠标左键是没用的.  <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> 如果你不想引起一群僵尸的注意,请按住LCTRL进入潜行模式,请善用这个功能 .  <BR> <H1> 互动 <BR> "..
+            "<H2> 滑鼠左键 <BR> <TEXT> 使用滑鼠左键来进行互动,例如开门，开衣柜，拾取等等.. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
+            "<H2> 互动键 <BR> <TEXT> 另外,按E键亦可以作为互动键来开关门窗. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> 这方式可以让你在攻击模式下开门. <BR>  <TEXT> 在关键时刻,及时的使用E键可以救你一命,当你被一群僵尸追着想打开窗户进入房屋中,使用E键就是你最好的选择 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+            " <LINE> <H2> 互动功能 <BR> <TEXT> 还有很多功能都可以使用右键来进行,例如合成，制造，建筑等等. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
+
+    SurvivalGuide_entrie2title = "生存指南 #2 - 不要乱跑",
+    SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #2 - 不要乱跑 <LINE> <IMAGE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> 噪音越大，越容易吸引僵尸注意。 <LINE> <LINE> 当然你也会死的更快！",
+    SurvivalGuide_entrie2moreinfo = " <H1> 僵尸感官 <BR> <TEXT> 在生存模式中，僵尸有视力以及听力. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 跑步会制造噪音,引起僵尸的注意. <BR> 你跑得快过僵尸,但不是永远. <BR> "..
+    " 一个明智的生存者会善用LCTRL (或者左键,如果他们坚持这样的话). 这会启用潜行/攻击模式. 潜行减低你行走时的噪音,从而减低被僵尸的发现. 轻轻的步伐确保没有东西来咬你一口. <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid不是一个名声竞赛.简单地说, 僵尸只想吃你,不是拥抱你.",
+
+    SurvivalGuide_entrie3title = "生存指南 #3 - 有效的攻击!",
+    SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #3 - 有效的攻击! <LINE> <IMAGE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 在与僵尸战斗中. 一定要攻击它们的要害! <LINE> <LINE> 记住: 按住按住鼠标左键 <LINE> <LINE> 让近身武器进入有效攻击范围!",
+    SurvivalGuide_entrie3moreinfo = " <H1> 战斗系统 <BR> <TEXT> 每一个武器都有一个特定的伤害力.",不过,真正的伤害力取决於你的技能和个人技术.",或者,你两者都缺乏. <BR> <H2> 精准.",
+            " <BR> <TEXT> 近战武器爆头的力量都是取决於你的技能等级. 不过,另一个重要的因素是你为这一下攻击准备了多久(挥动距离).记住,每一下攻击都要按住左键数秒後才好放手, 这会确保你每一下的攻击都是挥动最大的攻击力(储气攻击).<BR> 储气攻击比不停按挥动更有效, frequent blows . In this new dawn of the deadheads mouse-spamming takes lives! <BR> <H2> RANGE <BR> <TEXT> 攻击距离都是一个重要的元素 ━ 尽管你使用的武器是有效地击杀僵尸的一个关键. <BR> 一般而言, 摆动武器例如棒球棒和斧头的优点是它们的攻击距离.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> 而餐刀,刺刀等武器的优点是近距离的攻击速度和推开力.不过,不要对牛油刀期望太高. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+            " <H2> 俯卧攻击 <BR> <TEXT> 最有效杀的僵尸的方法是把它们推跌到地下上 ━ 再不停地攻击它的头部. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 有力的挥动武器或推趺它们即可令它们躺在地上. 当僵尸在玩家的最低攻击范围内,玩家将会自然进行推趺攻击或者在无武器之下. <BR> 当僵尸躺在地上後: 你每一下的攻击将会自动向地上的僵尸方向攻击.然後就只有血淋淋的脑浆在地上. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
+
+    SurvivalGuide_entrie4title = "生存指南 #4 - 水是很重要的",
+    SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #4 - 水源 <LINE> <IMAGE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 干净的饮水是很重要的.",
+    SurvivalGuide_entrie4moreinfo = " <H1> 水 <BR> <TEXT> 供水系统就像电力一样,不会用之不竭. 如果你不想出现食用水短缺情况,请储存好找到的水瓶,... <BR> 你的角色会自动饮用物品栏里的饮料. <BR> 按右键来进行饮水或装水等动作. 你可以在水槽，浴缸，水龙头里装水. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
+
+    SurvivalGuide_entrie5title = "生存指南 #5 - 制作和合成",
+    SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #5 - 制作和合成 <LINE> <IMAGE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 僵尸会抓破门窗! <LINE> <LINE> 如果有觉得害怕的话，请加固门窗! <LINE> <LINE> ",
+    SurvivalGuide_entrie5moreinfo = " <H1> 物品合成 <BR> <TEXT> 在物品栏中对你需要合成的物品按右键进行合成. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 可合成的物品将会在物品信息里提示你! <BR> 烹饪，木工，医疗等合成物将会变成你生存更久的关键. <BR> <H1> BARRICADING <BR> <TEXT> 你可以用木板坚固你的门窗(按右键),但事前,你需要有铁锤，木板和钉子. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE> 一对门或窗最多可以用三块木坚固. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
+            " <H1> 木工 <BR> <TEXT> 当你找到更多资源和更熟悉你的铁锤後,你最终可以构建一个更加坚固的建筑物.所以建设者都需要有一个铁锤,在想兴建的地下上按右键即可显示建筑目录. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 在建筑目标,你会看见你木工技能和拥有的资源下可建筑的物品. <BR> 当选择好要建筑的物品後,一个半透明的样本会出现,你可以用滑鼠移动它,决定好理想位置後再按左键摆放. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> PZ是一个真实度高的游戏,所以建筑物是需要时间建筑的.(不想等吗?在游戏里做一杯茶,边饮边等吧). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 在安设以建筑的物品前,你可以按R键来回转一个合适的角度. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 紧记: 建筑越多,你的木工技术越高. 高木工技能令你可以制造更高品质和更有用的物品..",
+
+    SurvivalGuide_entrie6title = "生存指南 #6 - 小心僵尸的视力",
+    SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 小心僵尸的视力 <LINE> <IMAGE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们已经算是死人了 <LINE> <LINE> 但它们还可以从窗外通过窗口看见你 <LINE> <LINE> 没有窗帘吗? 做一个吧 <LINE> <LINE>  ",
+    SurvivalGuide_entrie6moreinfo = " <H1> 阻挡他们的视觉 <BR> <TEXT> 在僵尸生存中一个最常见的错误就是忽视了关窗帘的重要性. 不关闭窗帘等同於邀请僵尸进入你的房间,吃掉你的脑袋. <BR> 用关闭窗帘或用物品阻挡窗口的视野:按右键来进行. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 用木板可以阻挡僵尸发现屋内的光线和动静. <BR> 如果这里没有窗帘, 而你又没有木板可用, 那就想办法找些代替品吧!",
+
+    SurvivalGuide_entrie7title = "生存指南 #7 - 不要乱吃东西",
+    SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #7 - 不要乱吃东西 <LINE> <IMAGE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 在求生时, <LINE> <LINE> 食物中毒可不是那么有趣的事情 <LINE> <LINE> <LINE> <LINE> 吃一个热腾腾的饭菜吧.",
+    SurvivalGuide_entrie7moreinfo = " <H1> 烹饪 <BR> <TEXT> 牛排,鸡肉等食物都先要煮熟才可安心地食用.<BR> 除了可以减低食物中毒的机会之外,已煮熟食物的营养和饱和度都比其他食物高,从而减低饥饿速度. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 把食物放在电磁炉或微波炉就可以开始煮食了- 或者营火,如果你已逃离城市的话. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 按右键控制器具开关, 使用後紧记要关闭火炉!. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+            " <H1> 耕作 <BR> <TEXT> 你需要一把泥铲和种子方可种植.犁土跟放入种子後再浇水.就快你就有不会断绝的食物了. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+            " <H1> 觅食 <BR> <TEXT> 在森林里找些浆果和其他水果吧. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
+            " <H1> 不要死 <BR> <TEXT> 尽量在任何时候都不要死.",
+
+    SurvivalGuide_entrie8title = "生存指南 #8 - 精明的生存家",
+    SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #8 - 精明的生存者 <LINE> <IMAGE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 有效地管理你的背包可以帮助你节省时间， <LINE> <LINE> 更会救你一命! <LINE> <LINE> ",
+    SurvivalGuide_entrie8moreinfo = " <H1> 选择 <BR> <TEXT> 怎样去拿,取出,丢掉和使用呢? 在Project Zomboid,我们有大部份时间都是在做这些动作! <BR> 主要方法就是直接用滑鼠拉放物品 - 或者可以按右键来开始目录. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+            " 按住LSHIFT可以同时选择多样物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者,你可以直接按住左键拉出一个大正方型去选择一个范围 <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+            " 或者,快速地按左键两下来进行拾取. 或者在按物品栏右边的目录键. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  喔!如果你太兴奋的想一键拾取所有东西,这里还一个拾取全部的选择. <LINE> "..
+            " <H1> 有用的背包/袋子 <BR> <TEXT> 各种袋子和背包是非常重要的物品. 它可帮你携带更多的物品. <BR> 如要装备袋子或背包: 按右键选择装备(左手),装备(右手) 或背上(背包才可以背上). "..
+            " <BR> 装备后,你就会看见背包在你的物品栏里 - 准备好可以直接把物品放入背包. 重要的是, 背包可以减轻你总体的重量. 那不是非常有用吗? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+            " <H1> 熟练使用快捷键  <BR> <TEXT> 在设定里可以设定快捷键, 已经预设了一部分快捷键. "..
+            " <BR> 1 : 装备伤害最高的武器. " ..
+            " <BR> 2 : 装备伤害最高的枪械. (不要忘记R键是装填弹药!)  " ..
+            " <BR> 3 : 装置伤害最高的近战武器,为近战攻击作好准备. " ..
+            " <BR> F : 装备(开启)可作为照明的道具. ",
+}

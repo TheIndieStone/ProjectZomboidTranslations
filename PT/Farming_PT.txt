@@ -1,0 +1,51 @@
+Farming_PT = {
+  -- Nome dos vegetais (tipo de semente)
+  Farming_Carrots = "Cenouras",
+  Farming_Broccoli = "Brócolos",
+  Farming_Radishes = "Rabanete",
+  Farming_Strawberry_plant = "Morangueiro",
+  Farming_Tomato_Vine = "Tomate",
+  Farming_Potatoes = "Batatas",
+  Farming_Cabbages = "Repolho",
+  -- fase de crescimento
+  Farming_Seedling = "Rebentos",
+  Farming_Young = "Verde",
+  Farming_Ready_for_Harvest = "Pronto a colher",
+  Farming_In_bloom = "Em flor",
+  Farming_Seed-bearing = "Com semente",
+  Farming_Receding = "A murchar",
+  Farming_Rotten = "Podre",
+  Farming_Destroyed = "Destruído",
+  -- Texto de info agricola
+  -- nome
+  Farming_Plant_Information = "Informação sobre a planta",
+  Farming_Current_growing_phase = "Fase de crescimento atual",
+  Farming_Next_growing_phase = "Próxima fase de crescimento",
+  Farming_Last_time_watered = "Regado pela ultima vez",
+  Farming_Fertilized = "Fertilizado",
+  Farming_Health = "Saúde",
+  Farming_Disease = "Doença",
+  Farming_Water_levels = "Nível de água",
+  -- agua
+  Farming_Well_watered = "Bem regado",
+  Farming_Fine = "Bem",
+  Farming_Thirsty = "Necessita de água",
+  Farming_Dry = "Seco",
+  Farming_Parched = "Ressequido",
+  -- fase de crescimento
+  Farming_Seedling = "Rebento",
+  Farming_Fully_grown = "Maduro",
+  Farming_Ready_to_harvest = "Pronto a colher",
+  -- doença
+  Farming_Mildew = "Bolor",
+  Farming_Pest_Flies = "Pestilento",
+  Farming_Devil_Water_Fungi = "Fungos",
+  -- horas
+  Farming_Hours = "Horas",
+  -- vida
+  Farming_Flourishing = "A florescer",
+  Farming_Verdant = "Verdejante",
+  Farming_Healthy = "Saudável",
+  Farming_Sickly = "Doente",
+  Farming_Stunted = "Atrofiada",
+}

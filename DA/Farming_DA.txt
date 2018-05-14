@@ -1,0 +1,51 @@
+Farming_DA = {
+  -- vegetables name (type of seed)
+  Farming_Carrots = "Gulerødder",
+  Farming_Broccoli = "Broccoli",
+  Farming_Radishes = "Radisser",
+  Farming_Strawberry_plant = "Jordbærplante",
+  Farming_Tomato_Vine = "Tomatplante",
+  Farming_Potatoes = "Kartofler",
+  Farming_Cabbages = "Kål",
+  -- growing phase
+  Farming_Seedling = "Stikling",
+  Farming_Young = "Ung",
+  Farming_Ready_for_Harvest = "Klar til at høste",
+  Farming_In_bloom = "Blomstrer",
+  Farming_Seed-bearing = "frøbærende",
+  Farming_Receding = "Afvigende",
+  Farming_Rotten = "Rådden",
+  Farming_Destroyed = "Ødelagt",
+  -- farming info text
+  -- title
+  Farming_Plant_Information = "Plante Information",
+  Farming_Current_growing_phase = "Nuværende vækstfase",
+  Farming_Next_growing_phase = "Næste vækstfase",
+  Farming_Last_time_watered = "Sidst vandet",
+  Farming_Fertilized = "Gødet",
+  Farming_Health = "Helbred",
+  Farming_Disease = "Sygdom",
+  Farming_Water_levels = "Vand niveauer",
+  -- water
+  Farming_Well_watered = "Rigeligt vandet",
+  Farming_Fine = "Godt",
+  Farming_Thirsty = "Tørstig",
+  Farming_Dry = "Tør",
+  Farming_Parched = "Udtørret",
+  -- growing phase
+  Farming_Seedling = "Stikling",
+  Farming_Fully_grown = "Fuldt udvokset",
+  Farming_Ready_to_harvest = "Klar til at høste",
+  -- disease
+  Farming_Mildew = "Meldug",
+  Farming_Pest_Flies = "Pest fluer",
+  Farming_Devil_Water_Fungi = "Djævelsk vand svamp",
+  -- hours
+  Farming_Hours = "Timer",
+  -- health
+  Farming_Flourishing = "Sprudlende",
+  Farming_Verdant = "Grøn vækst",
+  Farming_Healthy = "Sund",
+  Farming_Sickly = "Syg",
+  Farming_Stunted = "Forkrøblet",
+}

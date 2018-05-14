@@ -1,0 +1,45 @@
+[VERSION] 38.2
+[NOUVEAUTES]
+[MP] Ajout d'un bouton "Monter d'un niveau" sur l'interface des stats du joueur pour augmenter une capacite rapidement, sans utiliser les points globaux.
+Ajout d'un moyen simple pour le moddeurs d'ajouter des colonnes à leurs listes deroulantes.
+[MP] Ajout d'une interface d'admin pour gerer l'inventaire des joueurs.
+Les tas de cadavres en decomposition vous rendront malade et triste si vous en restez trop pres durant trop longtemps.
+[BOLD]Vous pouvez maintenant creuser des tombes avec une pelle. (La possibilite d'enterrer plusieurs corps dans une meme tombe viendra avec la 38.2)
+[DOT2]Si vous transportez un cadavre, vous pouvez l'enterrer dans une tombe vide.
+[DOT2]Vous entendrez des mouches si beaucoup de corps commencent a s'entasser.
+[BOLD]Ajout d'un nouveau sous-menu "Divers" en menuiserie.
+[DOT2]Dans "Divers", vous trouverez une croix en bois, un cairn et un piquet de memorial en bois pour accompagner les tombes que vous creuserez.
+[BOLD]Changement dans les habits !
+[DOT2]Les habits peuvent maintenant se salir avec le temps et selon vos activites.
+[DOT2]Combattre des zombies salira vos vetements.
+[DOT2]Si vous portez des vetements sales ou taches de sang par-dessus une plaie ouverte, les chances d'infecter la plaie (infection normale, pas zombie) augmenteront.
+[DOT2]Les vetements ont aussi une durabilite, qui diminuera a chaque coup que vous prendrez.
+[DOT2]Certains habits sont plus resistants que d'autres.
+[BOLD]Nouvelles options de Bac a Sable :
+[DOT2]APPARITION DE GENERATEURS : Augmente / reduit les chances d'apparition des generateurs electriques sur la map.
+[DOT2]CONSOMMATION D'ESSENCE DES GENERATEURS : Impacte la consommation d'essence par les generateurs. Un generateur qui n'a pas besoin d'essence doit etre regle sur 0.0.
+[DOT2]APPARITION DE MAISONS RANDOMISEES : Augmente / reduit la probabilite de decouvrir des abris randomises sur la map, qu'ils soient brules, remplis de reserves, de cadavres de survivants, etc.
+[DOT2]APPARITION DES CARTES ANNOTEES : Impacte les chances de trouver une carte annotee sur un survivant decede.
+[DOT2]DEGATS AUX CONTRUCTIONS : Determine si les zombies peuvent detruire ou non les constructions et defenses des joueurs.
+[DOT2]POINTS DE TRAITS GRATUITS : Ajoute des points gratuits durant la creation du personnage.
+[DOT2]DURABILITE DES CONSTRUCTIONS DES JOUEURS : Donne des points de resistance supplementaires aux constructions des joueurs, pour qu'elles tiennent plus longtemps face aux attaques des zombies.
+[DOT2]ACTIVITE DIURNE / NOCTURNE : Determine si les zombies sont plutot actifs le jour ou la nuit. Les zombies inactifs sont plus lents, et ne suivent pas beaucoup les joueurs.
+[DOT2]OBSCURITE DURANT LA NUIT : Gere l'obscurite de nuit. N'oubliez pas votre lampe torche.
+[DOT2]GRAVITE DES BLESSURES : Augmente ou diminue l'impact des blessures sur votre corps, et leur temps de guerison.
+[DOT2]FRACTURES : Active ou desactive les fractures des membres lorsque les survivant sont blesses par des impacts, les degats de zombies et les chutes.
+[DOT2]TEMPS AVANT LA DISPARITION DES CORPS : Nombre d'heures dans le jeu avant que les corps des zombies ne soient automatiquement retires de la map (Remplace l'option de serveur HoursForCorpseRemoval).
+[DOT2]IMPACT DES CORPS EN DECOMPOSITION SUR LA SANTE : Determine l'impact de la proximite de corps en decomposition sur la sante et les emotions des joueurs.
+[DOT2]Degradation des vetements : Determine la rapidite a laquelle les vetements s'usent, se salissent et se tachent de sang (peut etre desactive).
+[DOT2]Ajout du choix "aleatoire" pour certains parametres des zombies : vitesse, force, resistance et cognition.
+La TV et les programmes radio ont maintenant un impact sur les moodles du personnage. En regardant une emission educative, un boost d'XP est recu.
+[EQUILIBRAGE]
+Legere augmentation des valeurs nutritionnelles du poisson et des baies.
+Augmentation des points de vie des constructions des joueurs.
+Retrait de l'option "Annee de depart" en Bac a Sable.
+[CORRECTION DE BUGS]
+Correction de l'option "aucune" pour la memoire des zombies, qui ne fonctionnait pas.
+Correction d'un bug lie aux saisons, qui faisait que la lune n'affectait pas la lumiere ambiante la nuit.
+Correction du bug pour verser de l'eau.
+Correction des lanternes encore actives apres l'arret de l'electricite.
+Correction de la possibilite de construire des choses a l'interieur de l'abri d'un joueur.
+Correction de la possibilite de passer par une fenêtre pour entrer dans l'abri d'un joueur.

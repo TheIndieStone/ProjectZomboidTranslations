@@ -1,0 +1,5 @@
+Recipes_EN = {
+    Recipe_Generator = "Generator Maintenance",
+    Recipe_Herbalist = "Herbal Remedies",
+}
+

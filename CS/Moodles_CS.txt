@@ -1,0 +1,213 @@
+Moodles_CS = {
+	-- Moodle type :
+	-- Endurance
+  Moodles_endurance_lvl1 = "Mírná námaha",
+	Moodles_endurance_lvl2 = "Vysoká namáha",
+	Moodles_endurance_lvl3 = "Nadmìrná namáha",
+	Moodles_endurance_lvl4 = "Vyèerpání",
+  -- Heavy Load
+	Moodles_heavyload_lvl1 = "Celkem velké zatíení",
+	Moodles_heavyload_lvl2 = "Velké zatíení",
+	Moodles_heavyload_lvl3 = "Velmi velké zatíení",
+	Moodles_heavyload_lvl4 = "Extrémní zatíení",
+  -- Angry
+	Moodles_angry_lvl1 = "Podrádìní",
+	Moodles_angry_lvl2 = "Otrávení",
+	Moodles_angry_lvl3 = "Rozzlobení",
+	Moodles_angry_lvl4 = "Zuøení",
+  -- Stress
+	Moodles_stress_lvl1 = "Znepokojení",
+	Moodles_stress_lvl2 = "Rozrušení",
+	Moodles_stress_lvl3 = "V poøádném stresu",
+	Moodles_stress_lvl4 = "Nervní troska",
+  -- Thirst
+	Moodles_thirst_lvl1 = "Lehká ízeò",
+	Moodles_thirst_lvl2 = "Trpící ízní",
+	Moodles_thirst_lvl3 = "Trpící vyprahlostí",
+	Moodles_thirst_lvl4 = "Umírající ízní",
+  -- Tired
+	Moodles_tired_lvl1 = "Ospalost",
+	Moodles_tired_lvl2 = "Únava",
+	Moodles_tired_lvl3 = "Velká únava",
+	Moodles_tired_lvl4 = "Utahání",
+  -- Hungry
+	Moodles_hungry_lvl1 = "Mírné hladovìní",
+	Moodles_hungry_lvl2 = "Hladovìní",
+	Moodles_hungry_lvl3 = "Velké hladovìní",
+	Moodles_hungry_lvl4 = "Vyhladovìní",
+  -- Panic
+	Moodles_panic_lvl1 = "Mírné vystrašení",
+	Moodles_panic_lvl2 = "Vystrašení",
+	Moodles_panic_lvl3 = "Silné vystrašení",
+	Moodles_panic_lvl4 = "Extrémní vystrašení",
+  -- Sick
+	Moodles_sick_lvl1 = "Pøecitlivìní",
+	Moodles_sick_lvl2 = "Nevolnost",
+	Moodles_sick_lvl3 = "Mdloby",
+	Moodles_sick_lvl4 = "Horeèka",
+  -- Bored
+	Moodles_bored_lvl1 = "Zaèínající znudìní",
+	Moodles_bored_lvl2 = "Znudìní",
+	Moodles_bored_lvl3 = "Velké znudìní",
+	Moodles_bored_lvl4 = "Extrémní znudìní",
+  -- Unhappy
+	Moodles_unhappy_lvl1 = "Mírná nešastnost",
+	Moodles_unhappy_lvl2 = "Zaèínající plaètivost",
+	Moodles_unhappy_lvl3 = "Deprimování",
+	Moodles_unhappy_lvl4 = "Tìké zdeprimování",
+  -- Bleeding
+	Moodles_bleeding_lvl1 = "Mírné krvácení",
+	Moodles_bleeding_lvl2 = "Krvácení",
+	Moodles_bleeding_lvl3 = "Závané krvácení",
+	Moodles_bleeding_lvl4 = "Masivní ztráta krve",
+  -- Wet
+	Moodles_wet_lvl1 = "Navlhnutí",
+	Moodles_wet_lvl2 = "Zmáèení",
+	Moodles_wet_lvl3 = "Èásteèné promoèení",
+	Moodles_wet_lvl4 = "Úplné promoèení",
+  -- Has a cold
+	Moodles_hascold_lvl1 = "Vıtok z nosu",
+	Moodles_hascold_lvl2 = "Rıma",
+	Moodles_hascold_lvl3 = "Máš zimnici",
+	Moodles_hascold_lvl4 = "Máš hroznou zimnici",
+  -- Injured
+	Moodles_injured_lvl1 = "Lehké poranìní",
+	Moodles_injured_lvl2 = "Poranìní",
+	Moodles_injured_lvl3 = "Tìké zranìní",
+	Moodles_injured_lvl4 = "Kritické zranìní",
+  -- Pain
+	Moodles_pain_lvl1 = "Menší bolesti",
+	Moodles_pain_lvl2 = "Bolesti",
+	Moodles_pain_lvl3 = "Silné bolesti",
+	Moodles_pain_lvl4 = "Agónie",
+  -- Drunk
+	Moodles_drunk_lvl1 = "Lehká opilost",
+	Moodles_drunk_lvl2 = "Opilost",
+	Moodles_drunk_lvl3 = "Pozvracení",
+	Moodles_drunk_lvl4 = "Totální alkoholik",
+  -- Dead
+	Moodles_dead_lvl1 = "Po smrti",
+  -- Zombified
+	Moodles_zombie_lvl1 = "Zombifikace",
+  -- Food eaten
+	Moodles_foodeaten_lvl1 = "Èásteèné zasycení",
+	Moodles_foodeaten_lvl2 = "Zasycení",
+	Moodles_foodeaten_lvl3 = "Vysoké zasycení",
+	Moodles_foodeaten_lvl4 = "Velmi vysoké zasycení",
+  -- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "Lehce zvıšená teplota",
+	Moodles_hyperthermia_lvl2 = "Vysoká teplota",
+	Moodles_hyperthermia_lvl3 = "Závratì z vysoké teploty",
+	Moodles_hyperthermia_lvl4 = "Hypertermie",
+  -- Hypothermia
+	Moodles_hypothermia_lvl1 = "Nachlazení",
+	Moodles_hypothermia_lvl2 = "Podchlazení",
+	Moodles_hypothermia_lvl3 = "Mrznutí",
+	Moodles_hypothermia_lvl4 = "Hypotermie",
+
+  -- Description of moodle
+  -- Endurance
+	Moodles_endurance_desc_lvl1 = "Dej si pøestávku.",
+	Moodles_endurance_desc_lvl2 = "Mùeš sotva bìet.",
+	Moodles_endurance_desc_lvl3 = "Mùeš sotva chodit.",
+	Moodles_endurance_desc_lvl4 = "Mùeš se sotva pohnout.",
+  -- Angry
+	Moodles_angry_desc_lvl1 = "Menší podrádìní.",
+	Moodles_angry_desc_lvl2 = "Jsi ve vánì špatné náladì.",
+	Moodles_angry_desc_lvl3 = "Vztek ti u leze na mozek.",
+	Moodles_angry_desc_lvl4 = "Potøebuješ se vybít.",
+  -- Stress
+	Moodles_stress_desc_lvl1 = "Na hranì.",
+	Moodles_stress_desc_lvl2 = "Nervozita a nejistota jsou ti bliší.",
+	Moodles_stress_desc_lvl3 = "Zpocené dlanì. Trıznivı strach.",
+	Moodles_stress_desc_lvl4 = "Asi tì brzy trefí.",
+  -- Thirsty
+	Moodles_thirst_desc_lvl1 = "Sucho v ústech.",
+	Moodles_thirst_desc_lvl2 = "Trpíš dehydratací.",
+	Moodles_thirst_desc_lvl3 = "Máš závratì a cítíš, e omdlíš.",
+	Moodles_thirst_desc_lvl4 = "Zoufale potøebuješ vodu.",
+  -- Tired
+	Moodles_tired_desc_lvl1 = "Cítíš, e jde na tebe ospalost.",
+	Moodles_tired_desc_lvl2 = "Tvá ostraitost se sníila.",
+	Moodles_tired_desc_lvl3 = "Tvá ostraitost se znaènì sníila.",
+	Moodles_tired_desc_lvl4 = "Hrozí ti, e odpadneš.",
+  -- Hungry
+	Moodles_hungry_desc_lvl1 = "Nepohrdneš nìèím k snìdku.",
+	Moodles_hungry_desc_lvl2 = "Sníila se ti síla a léèení.",
+	Moodles_hungry_desc_lvl3 = "Znaènì se ti sníila síla a léèení.",
+	Moodles_hungry_desc_lvl4 = "Umíráš hlady.",
+  -- Panic
+	Moodles_panic_desc_lvl1 = "Sna se co nejlépe zùstat v klidu.",
+	Moodles_panic_desc_lvl2 = "Pøesnost se ti sníila.",
+	Moodles_panic_desc_lvl3 = "Znaènì se ti ovlivnila pøesnost.",
+	Moodles_panic_desc_lvl4 = "Znaènì se ti ovlivnila pøesnost se zrakem.",
+  -- Sickness
+	Moodles_sick_desc_lvl1 = "Bylo ti ale u hùø.",
+	Moodles_sick_desc_lvl2 = "Síla s léèením se ti zhoršila.",
+	Moodles_sick_desc_lvl3 = "Síla s léèením znaènì sníeny.",
+	Moodles_sick_desc_lvl4 = "Zvyšuje se ti šance na smrt.",
+  -- Bored
+	Moodles_bored_desc_lvl1 = "Najdi si nìjakou zábavu.",
+	Moodles_bored_desc_lvl2 = "Hrozí ti, e se budeš trápit.",
+	Moodles_bored_desc_lvl3 = "Hrozí ti velká šance, e se budeš trápit.",
+	Moodles_bored_desc_lvl4 = "Hrozí ti velmi velká šance, e se budeš trápit.",
+  -- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Pokus se najít nìco, co ti zvedne náladu.",
+	Moodles_unhappy_desc_lvl2 = "Zkus najít nìjaké vzrušení nebo lidskı kontakt.",
+	Moodles_unhappy_desc_lvl3 = "Máš fakt špatnou náladu, to není dobré.",
+	Moodles_unhappy_desc_lvl4 = "Najdi zpùsob, jak se dostat z této reality.",
+  -- Bleeding
+	Moodles_bleed_desc_lvl1 = "Potøebuješ obvaz.",
+	Moodles_bleed_desc_lvl2 = "Síla s rychlostí jsou sníeny.",
+	Moodles_bleed_desc_lvl3 = "Síla s rychlostí jsou znaènì sníeny.",
+	Moodles_bleed_desc_lvl4 = "Smrt u brousí kosu.",
+  -- Wet
+	Moodles_wet_desc_lvl1 = "Nìkam se schovej a poèkej, a se to pøeene.",
+	Moodles_wet_desc_lvl2 = "Rychlost se lehce sníila.",
+	Moodles_wet_desc_lvl3 = "Promáèení tì zpomaluje. Mùeš z toho nastydnout.",
+	Moodles_wet_desc_lvl4 = "Úplné promáèení tì zpomaluje a ještì z nìj mùeš nastydnout.",
+  -- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Pøíleitostnì i kıcháš.",
+	Moodles_hasacold_desc_lvl2 = "Kıcháš docela èasto.",
+	Moodles_hasacold_desc_lvl3 = "Kıcháš a kašleš. Sniila se ti rychlost s léèením.",
+	Moodles_hasacold_desc_lvl4 = "Znaènì se ti sniila rychlost s léèením.",
+  -- Injured
+	Moodles_injured_desc_lvl1 = "Potøebuješ první pomoc.",
+	Moodles_injured_desc_lvl2 = "Síla s rychlostí jsou sníeny.",
+	Moodles_injured_desc_lvl3 = "Síla s rychlostí jsou znaènì sníeny.",
+	Moodles_injured_desc_lvl4 = "Asi se nedoiješ pøíštího rána...",
+  -- Pain
+	Moodles_pain_desc_lvl1 = "Necítíš se zrovna nejlíp.",
+	Moodles_pain_desc_lvl2 = "Rychlost s pøesností se ti lehce sníila.",
+	Moodles_pain_desc_lvl3 = "Sníila se ti rychlost s pøesností.",
+	Moodles_pain_desc_lvl4 = "Znaènì se ti sníila rychlost s pøesností.",
+  -- Heavy load
+	Moodles_heavyload_desc_lvl1 = "Máš toho trochu moc.",
+	Moodles_heavyload_desc_lvl2 = "Rychlost pohybu se sníila.",
+	Moodles_heavyload_desc_lvl3 = "Rychlost pohybu se hodnì sníila.",
+	Moodles_heavyload_desc_lvl4 = "Hrozí ti poranìní zad. Nebudeš moct u chodit vùbec.",
+  -- Drunk
+	Moodles_drunk_desc_lvl1 = "Ještì ale stále víš, co se v okolí dìje.",
+	Moodles_drunk_desc_lvl2 = "Koordinace mírnì sníena.",
+	Moodles_drunk_desc_lvl3 = "Koordinace sníena.",
+	Moodles_drunk_desc_lvl4 = "'Zi to ty a já... proti celımu svjetu. Já tì miluju. VÁNJE MILUJU!.'",
+  -- Dead
+	Moodles_dead_desc_lvl1 = "Vysoká šance, e se staneš krmivem pro okolní zvìr.",
+  -- Zombified
+	Moodles_zombified_desc_lvl1 = "Zaèínáš mít 'vybrané' chutì.",
+  -- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "Krátké léèení a navıšení síly.",
+	Moodles_foodeaten_desc_lvl2 = "Léèení a navıšení síly.",
+	Moodles_foodeaten_desc_lvl3 = "Dlouhé léèení a navıšení síly.",
+	Moodles_foodeaten_desc_lvl4 = "Velmi dlouhé léèení a navıšení síly.",
+  -- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Popøemıšlej nad odpoèinkem nìkde v úkrytu. Jsi íznivìjší.",
+	Moodles_hyperthermia_desc_lvl2 = "Máš ízeò, teèe z tebe pot a slunce ti dává pocit, e tì spaluje.",
+	Moodles_hyperthermia_desc_lvl3 = "Je ti špatnì, nemùeš se koncentrovat a zoufale touíš po tekutinách.",
+	Moodles_hyperthermia_desc_lvl4 = "Jsi v deliriu a hrozí ti smrt z ozáøení.",
+  -- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Zdá se ti, e je více chladno, ne obvykle...",
+	Moodles_hypothermia_desc_lvl2 = "Musíš najít zpùsob, kterım se zahøeješ.",
+	Moodles_hypothermia_desc_lvl3 = "Tìlo a mysl ti posedl chlad. Tvé zdraví je ohroeno.",
+	Moodles_hypothermia_desc_lvl4 = "Jsi v deliriu z teplotního šoku. Tvé zdraví je znaènì ohroeno.",
+}

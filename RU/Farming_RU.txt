@@ -1,0 +1,60 @@
+Farming_RU = {
+	-- vegetables name (type of seed)
+	Farming_Carrots = "морковь",
+	Farming_Broccoli = "брокколи",
+	Farming_Radishes = "редис",
+	Farming_Strawberry_plant = "клубника",
+	Farming_Tomato_Vine = "томатная лоза",
+	Farming_Potatoes = "картофель",
+	Farming_Cabbages = "капуста",
+	-- growing phase
+	Farming_Seedling = "Саженец",
+	Farming_Young = "Молод.",
+	Farming_Ready_for_Harvest = "Готовый к сбору",
+	Farming_In_bloom = "В цвету",
+	Farming_Seed-bearing = "Семенник",
+	Farming_Receding = "Завядающ.",
+	Farming_Rotten = "Сгнивш.",
+	Farming_Destroyed = "Уничтоженн.",
+	-- farming info text
+	-- title
+	Farming_Plant_Information = "Информация о растении",
+	Farming_Current_growing_phase = "Текущая фаза роста",
+	Farming_Next_growing_phase = "Следующая фаза роста",
+	Farming_Last_time_watered = "Последний раз полито",
+	Farming_Fertilized = "Удобрено",
+	Farming_Health = "Здоровье",
+	Farming_Disease = "Болезнь",
+	Farming_Water_levels = "Уровень полива",
+	Farming_Plowed_Land = "Вспаханная земля",
+	-- water
+	Farming_Well_watered = "Хорошо полито",
+	Farming_Fine = "Нормально",
+	Farming_Thirsty = "Иссохшее",
+	Farming_Dry = "Сухое",
+	Farming_Parched = "Пересохшее",
+	-- growing phase
+	Farming_Seedling = "Саженец",
+	Farming_Fully_grown = "Зрелый",
+	Farming_Ready_to_harvest = "Готово к сбору",
+	-- disease
+	Farming_Mildew = "Мучнистая роса",
+	Farming_Pest_Flies = "Тля",
+	Farming_Devil_Water_Fungi = "Фитофтороз",
+	-- hours
+	Farming_Hours = "Час.",
+	-- health
+	Farming_Flourishing = "Процветающее",
+	Farming_Verdant = "Зелёное",
+	Farming_Healthy = "Здоровое",
+	Farming_Sickly = "Болезненное",
+	Farming_Stunted = "Чахлое",
+-- tooltip
+	Farming_Tooltip_MinWater = "Минимальный уровень полива: ",
+	Farming_Tooltip_MaxWater = "Максимальный уровень полива: ",
+	Farming_Tooltip_TimeOfGrow = "Среднее время роста: ",
+	Farming_Tooltip_AverageWater = "Средний уровень полива: ",
+	Farming_Tooltip_RequiredSeeds = "Требуется семян: ",
+	Farming_Strawberry plant = "Клубника",
+	Farming_Tomato = "томата",
+	}

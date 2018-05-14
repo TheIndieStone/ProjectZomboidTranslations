@@ -1,0 +1,45 @@
+Challenge_FR = {
+	Challenge_AReallyCDDAy_name = "6. Un véritable C : DDA",
+	Challenge_AReallyCDDAy_desc = "Vous sortez de votre douche et faites une mauvaise chute.  Vous être ivre mort, et vous avez un sale rhume. <LINE> Pour couronner le tout, la maison est en feu ! Ce n'est définitivement pas votre jour. <LINE> <LINE> [Un challenge inspiré de 'A Really Bad Day' provenant du formidable, du fabuleux, de l'incontournable Cataclysm: Dark Days Ahead]",
+	
+	Challenge_Challenge1_name = "4. La maison dans les bois - Dernier combat",
+	Challenge_Challenge1_desc = "Vous les entendez approcher... Une horde de morts-vivants, prête à envahir votre cabane isolée. La mort est inévitable, mais un fusil est à portée de main... <LINE> <LINE> 'Dernier combat' consiste en une infinité de vagues de zombies, chaque fois plus importantes. Survivez aussi longtemps que vous le pourrez, dans cette situation clairement en votre défaveur.",
+	
+	Challenge_Challenge2_name = "5. La maison dans les bois - Dernier combat (Accumulation)",
+	Challenge_Challenge2_desc = "Une nouvelle journée, une nouvelle cabane à repeindre en rouge sang. La horde fond sur vous, et votre mort sera aussi douloureuse qu'horrible. Sortez donc vous battre... <LINE> <LINE> 'Dernier combat (Accumulation)' consiste en une infinité de vagues de zombies, chaque fois plus importantes. Achetez de l'équipement grâce à l'argent obtenu en tuant des zombies, gagnez des niveaux et réparez vos armes sanguinolentes.",
+	Challenge_Challenge2_PressKey = "Appuyez sur 'o' pour afficher les bonus permanents et dépenser votre argent.",
+	Challenge_Challenge2_WaveStart = "Vague %1 dans : %2 (Appuyez sur Entrée pour passer)",
+	Challenge_Challenge2_WaveDuration = "Vague %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombies restants : %1",
+	Challenge_Challenge2_Money = "Argent : %1",
+	Challenge_Challenge2_Money2 = "Argent du joueur %1  : %2",
+	Challenge_Challenge2_WaveFinished = "Vague %1 finie en : %2",
+	Challenge_Challenge2_MoneyGained = "Argent gagné : %1",
+	Challenge_Challenge2_XPGained = "Expérience gagnée : %1",
+	Challenge_Challenge2_WindowTitle = "Dernier combat",
+	Challenge_Challenge2_TabPlayer = "Joueur",
+	Challenge_Challenge2_Weapons = "Armes",
+	Challenge_Challenge2_TabItems = "Objets",
+	Challenge_Challenge2_TabRepair = "Réparation",
+	Challenge_Challenge2_Skills = "Compétences",
+	Challenge_Challenge2_PermanentBonus = "Bonus permanent",
+	Challenge_Challenge2_Carpentry = "Menuiserie",
+	Challenge_Challenge2_Health = "Santé",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	Challenge_Challenge2_RepairWeapon = "Réparer arme",
+
+	Challenge_YouHaveOneDay_name = "1. Vous avec 24 heures",
+	Challenge_YouHaveOneDay_desc = "Vous revenez à Knox Country. Vous êtes de retour sur la map qui a accueilli la première infection de Project Zomboid. <LINE> <LINE> Vous disposez d'une journée de sécurité relative. Les zombies arriveront en masse, et ils vous trouveront. Où aviez-vous l'habitude de mener votre dernier combat, au bon vieux temps ? Vous feriez mieux de le retrouver rapidement. <LINE> <LINE> [Nos remerciements au mapper de la communauté BobHeckling, qui a recréé la vieille map 0.1.5 avec les outils actuels de PZ.]",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Dans 24 heures, votre retour à Knox Country deviendra un vrai calvaire...",
+	
+	Challenge_WinterIsComing_name = "3. L'hiver vient",
+	Challenge_WinterIsComing_desc = "C'est la mi-juillet, mais il y a subitement comme un frisson dans la brise. En à peine trois jours, un hiver sans précédent va s'installer. <LINE> <LINE> Vous vous réveillez dans un endroit isolé. Vos réserves sont maigres. Si les hordes de morts-vivants devraient être ralenties par le froid intense, elles n'en restent pas moins mortelles. <LINE> <LINE> Couvrez-vous chaudement, survivant...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Dans trois jours, un hiver éternel commencera. <LINE> <LINE> Couvrez-vous chaudement...",
+	
+	Challenge_OpeningHours_name = "2. Heures d'ouverture",
+	Challenge_OpeningHours_desc = "Le centre commercial est encerclé. Dans le temps, c'était un lieu important dans leur vie. C'est l'instinct qui les a menés devant ces portes. Un souvenir de leurs habitudes d'avant... <LINE> <LINE> Vous êtes seul, mais pas pour longtemps. À 9h, le centre commercial sera prêt pour les affaires : les portes s'ouvriront, et la horde entrera. <LINE> <LINE> Soyez prêt à l'accueillir.",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Le centre commercial ouvre à 9h. <LINE> <LINE> Soyez prêt à accueillir la foule...",
+	
+	
+}

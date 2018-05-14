@@ -1,0 +1,212 @@
+Moodles_FR = {
+-- Moodle type :
+-- Endurance
+Moodles_endurance_lvl1 = "Essoufflé",
+Moodles_endurance_lvl2 = "Très essoufflé",
+Moodles_endurance_lvl3 = "À bout de souffle",
+Moodles_endurance_lvl4 = "À bout de forces",
+-- Heavy Load
+Moodles_heavyload_lvl1 = "Charge assez lourde",
+Moodles_heavyload_lvl2 = "Lourde charge",
+Moodles_heavyload_lvl3 = "Très lourde charge",
+Moodles_heavyload_lvl4 = "Charge extrêmement lourde",
+-- Angry
+Moodles_angry_lvl1 = "Irrité",
+Moodles_angry_lvl2 = "Agacé",
+Moodles_angry_lvl3 = "En colère",
+Moodles_angry_lvl4 = "Furieux",
+-- Stress
+Moodles_stress_lvl1 = "Soucieux",
+Moodles_stress_lvl2 = "Inquiet",
+Moodles_stress_lvl3 = "Stressé",
+Moodles_stress_lvl4 = "À bout de nerfs",
+-- Thirst
+Moodles_thirst_lvl1 = "Légère soif",
+Moodles_thirst_lvl2 = "Assoiffé",
+Moodles_thirst_lvl3 = "Desséché",
+Moodles_thirst_lvl4 = "Meurt de soif",
+-- Tired
+Moodles_tired_lvl1 = "Légèrement fatigué",
+Moodles_tired_lvl2 = "Fatigué",
+Moodles_tired_lvl3 = "Très fatigué",
+Moodles_tired_lvl4 = "Exténué",
+-- Hungry
+Moodles_hungry_lvl1 = "A un petit creux",
+Moodles_hungry_lvl2 = "A faim",
+Moodles_hungry_lvl3 = "A très faim",
+Moodles_hungry_lvl4 = "Est affamé",
+-- Panic
+Moodles_panic_lvl1 = "Agité",
+Moodles_panic_lvl2 = "Affolé",
+Moodles_panic_lvl3 = "Paniqué",
+Moodles_panic_lvl4 = "Effrayé",
+-- Sick
+Moodles_sick_lvl1 = "Barbouillé",
+Moodles_sick_lvl2 = "Nauséeux",
+Moodles_sick_lvl3 = "Malade",
+Moodles_sick_lvl4 = "Fièvreux",
+-- Bored
+Moodles_bored_lvl1 = "Commence à s'ennuyer",
+Moodles_bored_lvl2 = "S'ennuie",
+Moodles_bored_lvl3 = "S'ennuie beaucoup",
+Moodles_bored_lvl4 = "Meurt d'ennui",
+-- Unhappy
+Moodles_unhappy_lvl1 = "Triste",
+Moodles_unhappy_lvl2 = "Mélancolique",
+Moodles_unhappy_lvl3 = "Dépressif",
+Moodles_unhappy_lvl4 = "Grosse dépression",
+-- Bleeding
+Moodles_bleeding_lvl1 = "Petits saignements",
+Moodles_bleeding_lvl2 = "Saignements",
+Moodles_bleeding_lvl3 = "Hémorragie",
+Moodles_bleeding_lvl4 = "Hémorragie sévère",
+-- Wet
+Moodles_wet_lvl1 = "Humide",
+Moodles_wet_lvl2 = "Mouillé",
+Moodles_wet_lvl3 = "Trempé",
+Moodles_wet_lvl4 = "Trempé jusqu'aux os",
+-- Has a cold
+Moodles_hascold_lvl1 = "Nez qui coule",
+Moodles_hascold_lvl2 = "Reniflements",
+Moodles_hascold_lvl3 = "Rhume",
+Moodles_hascold_lvl4 = "Mauvais rhume",
+-- Injured
+Moodles_injured_lvl1 = "Blessures légères",
+Moodles_injured_lvl2 = "Blessures",
+Moodles_injured_lvl3 = "Blessures graves",
+Moodles_injured_lvl4 = "Blessures critiques",
+-- Pain
+Moodles_pain_lvl1 = "Légère douleur",
+Moodles_pain_lvl2 = "Douleur",
+Moodles_pain_lvl3 = "Douleur sévère",
+Moodles_pain_lvl4 = "Douleur atroce",
+-- Drunk
+Moodles_drunk_lvl1 = "Éméché",
+Moodles_drunk_lvl2 = "Ivre",
+Moodles_drunk_lvl3 = "Bourré",
+Moodles_drunk_lvl4 = "Totalement défoncé",
+-- Dead
+Moodles_dead_lvl1 = "Décédé",
+-- Zombified
+Moodles_zombie_lvl1 = "Zombifié",
+-- Food eaten
+Moodles_foodeaten_lvl1 = "À peine Nourri",
+Moodles_foodeaten_lvl2 = "Nourri",
+Moodles_foodeaten_lvl3 = "Bien nourri",
+Moodles_foodeaten_lvl4 = "Très bien nourri",
+-- Hyperthermia
+Moodles_hyperthermia_lvl1 = "Désagréablement chaud",
+Moodles_hyperthermia_lvl2 = "Coup de chaud",
+Moodles_hyperthermia_lvl3 = "Insolation",
+Moodles_hyperthermia_lvl4 = "Hyperthermie",
+-- Hypothermia
+Moodles_hypothermia_lvl1 = "Frais",
+Moodles_hypothermia_lvl2 = "Froid",
+Moodles_hypothermia_lvl3 = "Glacé",
+Moodles_hypothermia_lvl4 = "Hypothermie", 
+-- Description of moodle
+-- Endurance
+Moodles_endurance_desc_lvl1 = "A besoin d'une pause.",
+Moodles_endurance_desc_lvl2 = "Peut à peine courir.",
+Moodles_endurance_desc_lvl3 = "Peut à peine marcher.",
+Moodles_endurance_desc_lvl4 = "Peut à peine bouger.",
+-- Angry
+Moodles_angry_desc_lvl1 = "De mauvais poil.",
+Moodles_angry_desc_lvl2 = "De très mauvaise humeur.",
+Moodles_angry_desc_lvl3 = "Dans une colère noire.",
+Moodles_angry_desc_lvl4 = "Cherche la bagarre.",
+-- Stress
+Moodles_stress_desc_lvl1 = "Sur les nerfs.",
+Moodles_stress_desc_lvl2 = "Nerveux et agité.",
+Moodles_stress_desc_lvl3 = "Mains moites. Angoissé.",
+Moodles_stress_desc_lvl4 = "Terrifié.",
+-- Thirsty
+Moodles_thirst_desc_lvl1 = "Bouche sèche.",
+Moodles_thirst_desc_lvl2 = "Déshydraté.",
+Moodles_thirst_desc_lvl3 = "Sensation de faiblesse et vertiges.",
+Moodles_thirst_desc_lvl4 = "Prêt à tout pour de l'eau.",
+-- Tired
+Moodles_tired_desc_lvl1 = "Devrait aller se coucher.",
+Moodles_tired_desc_lvl2 = "Conscience réduite.",
+Moodles_tired_desc_lvl3 = "Conscience fortement réduite.",
+Moodles_tired_desc_lvl4 = "Au bord de l'évanouissement.",
+-- Hungry
+Moodles_hungry_desc_lvl1 = "Devrait avaler quelque chose.",
+Moodles_hungry_desc_lvl2 = "Résistance et capacité de guérison réduites.",
+Moodles_hungry_desc_lvl3 = "Résistance et capacité de guérison fortement réduites.",
+Moodles_hungry_desc_lvl4 = "Santé en péril.",
+-- Panic
+Moodles_panic_desc_lvl1 = "Essayez de garder votre calme.",
+Moodles_panic_desc_lvl2 = "Précision réduite.",
+Moodles_panic_desc_lvl3 = "Précision fortement réduite.",
+Moodles_panic_desc_lvl4 = "Précision et champ de vision fortement réduits.",
+-- Sickness
+Moodles_sick_desc_lvl1 = "Ce n'est pas bien grave.",
+Moodles_sick_desc_lvl2 = "Résistance et capacité de guérison réduites.",
+Moodles_sick_desc_lvl3 = "Résistance et capacité de guérison fortement réduites.",
+Moodles_sick_desc_lvl4 = "Grande chance de mourir.",
+-- Bored
+Moodles_bored_desc_lvl1 = "Occupez-vous, ou cherchez de quoi vous distraire.",
+Moodles_bored_desc_lvl2 = "Risque d'être malheureux.",
+Moodles_bored_desc_lvl3 = "Fort risque d'être malheureux.",
+Moodles_bored_desc_lvl4 = "Très fort risque d'être malheureux.",
+-- Unhappy
+Moodles_unhappy_desc_lvl1 = "Trouvez un moyen d'améliorer votre humeur.",
+Moodles_unhappy_desc_lvl2 = "Vous avez besoin de contact humain.",
+Moodles_unhappy_desc_lvl3 = "Abattu par le deuil et le désespoir.",
+Moodles_unhappy_desc_lvl4 = "Trouvez un moyen d'échapper à la réalité",
+-- Bleeding
+Moodles_bleed_desc_lvl1 = "Bandage nécessaire.",
+Moodles_bleed_desc_lvl2 = "Résistance et vitesse réduites.",
+Moodles_bleed_desc_lvl3 = "Résistance et vitesse fortement réduites.",
+Moodles_bleed_desc_lvl4 = "Mort imminente.",
+-- Wet
+Moodles_wet_desc_lvl1 = "Mettez-vous à l'abri ou vous allez attraper la mort.",
+Moodles_wet_desc_lvl2 = "Vitesse légèrement réduite.",
+Moodles_wet_desc_lvl3 = "Vitesse réduite. Probabilité d'attraper froid.",
+Moodles_wet_desc_lvl4 = "Vitesse fortement réduite. Forte probabilité d'attraper froid.",
+-- Has a cold
+Moodles_hasacold_desc_lvl1 = "Éternuements occasionnels.",
+Moodles_hasacold_desc_lvl2 = "Éternuements fréquents.",
+Moodles_hasacold_desc_lvl3 = "Éternuements et toux. Vitesse et capacité de guérison réduites.",
+Moodles_hasacold_desc_lvl4 = "Vitesse et capacité de guérison fortement réduites.",
+-- Injured
+Moodles_injured_desc_lvl1 = "Premiers secours nécessaires.",
+Moodles_injured_desc_lvl2 = "Résistance et vitesse réduites.",
+Moodles_injured_desc_lvl3 = "Résistance et vitesse fortement réduites.",
+Moodles_injured_desc_lvl4 = "La nuit s'annonce difficile...",
+-- Pain
+Moodles_pain_desc_lvl1 = "Vous ressentez une légère douleur.",
+Moodles_pain_desc_lvl2 = "Vitesse et précision légèrement réduites.",
+Moodles_pain_desc_lvl3 = "Vitesse et précision réduites.",
+Moodles_pain_desc_lvl4 = "Vitesse et précision fortement réduites.",
+-- Heavy load
+Moodles_heavyload_desc_lvl1 = "Vous en portez un peu trop.",
+Moodles_heavyload_desc_lvl2 = "Vitesse de déplacement réduite.",
+Moodles_heavyload_desc_lvl3 = "Vitesse de déplacement fortement réduite.",
+Moodles_heavyload_desc_lvl4 = "Risque de blessure au dos. Mouvement impossible",
+-- Drunk
+Moodles_drunk_desc_lvl1 = "Vous avez un peu picolé.",
+Moodles_drunk_desc_lvl2 = "Coordination légèrement altérée.",
+Moodles_drunk_desc_lvl3 = "Coordination altérée.",
+Moodles_drunk_desc_lvl4 = "'Hips ! C'toi et moi contre l'monde entier. Je t'aime ! JE T'AIME !!'",
+-- Dead
+Moodles_dead_desc_lvl1 = "Forte probabilité de devenir de la bouffe pour rats.",
+-- Zombified
+Moodles_zombified_desc_lvl1 = "Envie soudaine de manger les gens.",
+-- Food eaten
+Moodles_foodeaten_desc_lvl1 = "Santé et résistance boostées durant une courte période.",
+Moodles_foodeaten_desc_lvl2 = "Santé et résistance boostées.",
+Moodles_foodeaten_desc_lvl3 = "Santé et résistance boostées durant une longue période.",
+Moodles_foodeaten_desc_lvl4 = "Santé et résistance boostées durant une très longue période.",
+-- Hyperthermia
+Moodles_hyperthermia_desc_lvl1 = "Se reposer dans un endroit moins exposé serait une bonne idée. Soif accrue.",
+Moodles_hyperthermia_desc_lvl2 = "Votre gorge s'assèche rapidement. Vous êtes en sueur, surexposé, sous un soleil de plomb.",
+Moodles_hyperthermia_desc_lvl3 = "Nauséeux, incapable de vous concentrer, vous avez constamment besoin d'eau.",
+Moodles_hyperthermia_desc_lvl4 = "En plein délire. La chaleur vous conduit vers une mort imminente.",
+-- Hypothermia
+Moodles_hypothermia_desc_lvl1 = "Il fait un peu frisquet ici...",
+Moodles_hypothermia_desc_lvl2 = "Vous devez trouver un moyen pour rester au chaud.",
+Moodles_hypothermia_desc_lvl3 = "Corps et esprit obsedés par le froid. Santé en péril.",
+Moodles_hypothermia_desc_lvl4 = "Délire dû au choc thermique et à l'exposition prolongée au froid. Vous êtes en grave péril.",
+}

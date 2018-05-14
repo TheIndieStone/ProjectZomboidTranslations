@@ -1,0 +1,213 @@
+Moodles_DA = {
+    -- Moodle type :
+    -- Endurance
+    Moodles_endurance_lvl1 = "Moderat anstrengelse",
+    Moodles_endurance_lvl2 = "Høj anstrengelse",
+    Moodles_endurance_lvl3 = "Enorm anstrengelse",
+    Moodles_endurance_lvl4 = "Udmattet",
+    -- Heavy Load
+    Moodles_heavyload_lvl1 = "Rimelig tung byrde",
+    Moodles_heavyload_lvl2 = "Tung byrde",
+    Moodles_heavyload_lvl3 = "Meget tung byrde",
+    Moodles_heavyload_lvl4 = "Ekstrem tung byrde",
+    -- Angry
+    Moodles_angry_lvl1 = "Irriteret",
+    Moodles_angry_lvl2 = "Plaget",
+    Moodles_angry_lvl3 = "Sur",
+    Moodles_angry_lvl4 = "Hidsig",
+    -- Stress
+    Moodles_stress_lvl1 = "Nervøs",
+    Moodles_stress_lvl2 = "Ophidset",
+    Moodles_stress_lvl3 = "Stresset",
+    Moodles_stress_lvl4 = "Nervevrag",
+    -- Thirst
+    Moodles_thirst_lvl1 = "En smule tørstig",
+    Moodles_thirst_lvl2 = "Tørstig",
+    Moodles_thirst_lvl3 = "Udtørret",
+    Moodles_thirst_lvl4 = "Ved at dø af tørst",
+    -- Tired
+    Moodles_tired_lvl1 = "Søvnig",
+    Moodles_tired_lvl2 = "Træt",
+    Moodles_tired_lvl3 = "Meget træt",
+    Moodles_tired_lvl4 = "Udmattet",
+    -- Hungry
+    Moodles_hungry_lvl1 = "Lækkersulten",
+    Moodles_hungry_lvl2 = "Sulten",
+    Moodles_hungry_lvl3 = "Meget sulten",
+    Moodles_hungry_lvl4 = "Sulter",
+    -- Panic
+    Moodles_panic_lvl1 = "Lettere panisk",
+    Moodles_panic_lvl2 = "Panisk",
+    Moodles_panic_lvl3 = "Meget panisk",
+    Moodles_panic_lvl4 = "Helt panisk",
+    -- Sick
+    Moodles_sick_lvl1 = "Utilpas",
+    Moodles_sick_lvl2 = "Kvalm",
+    Moodles_sick_lvl3 = "Syg",
+    Moodles_sick_lvl4 = "Feber",
+    -- Bored
+    Moodles_bored_lvl1 = "Rastløs",
+    Moodles_bored_lvl2 = "Keder sig",
+    Moodles_bored_lvl3 = "Keder sig meget",
+    Moodles_bored_lvl4 = "Keder sig ekstremt",
+    -- Unhappy
+    Moodles_unhappy_lvl1 = "Trist",
+    Moodles_unhappy_lvl2 = "Ked af det",
+    Moodles_unhappy_lvl3 = "Deprimeret",
+    Moodles_unhappy_lvl4 = "Tung depression",
+    -- Bleeding
+    Moodles_bleeding_lvl1 = "Mindre blødning",
+    Moodles_bleeding_lvl2 = "Bløder",
+    Moodles_bleeding_lvl3 = "Styrtbløder",
+    Moodles_bleeding_lvl4 = "Massivt blodtab",
+    -- Wet
+    Moodles_wet_lvl1 = "Fugtig",
+    Moodles_wet_lvl2 = "Våd",
+    Moodles_wet_lvl3 = "Drivende våd",
+    Moodles_wet_lvl4 = "Gennemblødt",
+    -- Has a cold
+    Moodles_hascold_lvl1 = "Næsen løber",
+    Moodles_hascold_lvl2 = "Snøfter",
+    Moodles_hascold_lvl3 = "Forkølet",
+    Moodles_hascold_lvl4 = "Slem forkølelse",
+    -- Injured
+    Moodles_injured_lvl1 = "Mindre skader",
+    Moodles_injured_lvl2 = "Skadet",
+    Moodles_injured_lvl3 = "Alvorlige skader",
+    Moodles_injured_lvl4 = "Kritiske skader",
+    -- Pain
+    Moodles_pain_lvl1 = "Svage smerter",
+    Moodles_pain_lvl2 = "Smerte",
+    Moodles_pain_lvl3 = "Kraftige smerter",
+    Moodles_pain_lvl4 = "Ligger for døden",
+    -- Drunk
+    Moodles_drunk_lvl1 = "En smule omtåget",
+    Moodles_drunk_lvl2 = "Fuld",
+    Moodles_drunk_lvl3 = "Spritstiv",
+    Moodles_drunk_lvl4 = "Helt i hegnet",
+    -- Dead
+    Moodles_dead_lvl1 = "Afgået ved døden",
+    -- Zombified
+    Moodles_zombie_lvl1 = "Zombificeret",
+    -- Food eaten
+    Moodles_foodeaten_lvl1 = "lettere ernæret",
+    Moodles_foodeaten_lvl2 = "Mæt",
+    Moodles_foodeaten_lvl3 = "Meget mæt",
+    Moodles_foodeaten_lvl4 = "Forspist",
+    -- Hyperthermia
+    Moodles_hyperthermia_lvl1 = "Ubehageligt varmt",
+    Moodles_hyperthermia_lvl2 = "Overophedet",
+    Moodles_hyperthermia_lvl3 = "Solstik",
+    Moodles_hyperthermia_lvl4 = "Hedeslag",
+    -- Hypothermia
+    Moodles_hypothermia_lvl1 = "Kølig",
+    Moodles_hypothermia_lvl2 = "Kold",
+    Moodles_hypothermia_lvl3 = "Fryser",
+    Moodles_hypothermia_lvl4 = "Hypotermisk",
+
+    -- Description of moodle
+    -- Endurance
+    Moodles_endurance_desc_lvl1 = "Hold en pause.",
+    Moodles_endurance_desc_lvl2 = "Kan knapt løbe.",
+    Moodles_endurance_desc_lvl3 = "Kan knapt gå.",
+    Moodles_endurance_desc_lvl4 = "Kan knapt bevæge sig.",
+    -- Angry
+    Moodles_angry_desc_lvl1 = "Noget går dig på.",
+    Moodles_angry_desc_lvl2 = "Irritationen er konstant.",
+    Moodles_angry_desc_lvl3 = "Ikke mere pis!",
+    Moodles_angry_desc_lvl4 = "Leder efter en slåskamp.",
+    -- Stress
+    Moodles_stress_desc_lvl1 = "På tæerne.",
+    Moodles_stress_desc_lvl2 = "Nervøs og på vagt.",
+    Moodles_stress_desc_lvl3 = "Svedige håndflader. En gnavende frygt.",
+    Moodles_stress_desc_lvl4 = "Skræmt fra vid og sans.",
+    -- Thirsty
+    Moodles_thirst_desc_lvl1 = "Tør i munden.",
+    Moodles_thirst_desc_lvl2 = "Dehydreret.",
+    Moodles_thirst_desc_lvl3 = "Afkræftet og svimmel.",
+    Moodles_thirst_desc_lvl4 = "Desperat efter væske.",
+    -- Tired
+    Moodles_tired_desc_lvl1 = "Kunne trænge til en lille lur.",
+    Moodles_tired_desc_lvl2 = "Ikke længere så opmærksom.",
+    Moodles_tired_desc_lvl3 = "Slet ikke opmærksom.",
+    Moodles_tired_desc_lvl4 = "Ved at falde om af træthed.",
+    -- Hungry
+    Moodles_hungry_desc_lvl1 = "Har lyst til lidt mad.",
+    Moodles_hungry_desc_lvl2 = "Ikke så stærk og du heler langsommere.",
+    Moodles_hungry_desc_lvl3 = "Styrke og heling stærkt reduceret.",
+    Moodles_hungry_desc_lvl4 = "Dit helbred forfalder.",
+    -- Panic
+    Moodles_panic_desc_lvl1 = "Forhold dig roligt og undgå ophidselse.",
+    Moodles_panic_desc_lvl2 = "Sigte er reduceret.",
+    Moodles_panic_desc_lvl3 = "Sigte er meget reduceret.",
+    Moodles_panic_desc_lvl4 = "Både syn og sigte er voldsomt reduceret.",
+    -- Sickness
+    Moodles_sick_desc_lvl1 = "Doktoren ville ordinere en hjemmedag.",
+    Moodles_sick_desc_lvl2 = "Ikke så stærk og du heler langsommere.",
+    Moodles_sick_desc_lvl3 = "Styrke og heling stærkt reduceret.",
+    Moodles_sick_desc_lvl4 = "Din dødelighed stiger...",
+    -- Bored
+    Moodles_bored_desc_lvl1 = "Find noget at give dig til, eller opsøg noget underholdning",
+    Moodles_bored_desc_lvl2 = "Chance for at blive ked af det.",
+    Moodles_bored_desc_lvl3 = "Stor chance for at blive ked af det.",
+    Moodles_bored_desc_lvl4 = "Grænsende til det ulykkelige.",
+    -- Unhappy
+    Moodles_unhappy_desc_lvl1 = "Find en måde at forbedre dit humør.",
+    Moodles_unhappy_desc_lvl2 = "Søg underholdning eller menneskelig kontakt.",
+    Moodles_unhappy_desc_lvl3 = "Pint af sorg og desperation.",
+    Moodles_unhappy_desc_lvl4 = "Find en flugtvej fra virkeligheden.",
+    -- Bleeding
+    Moodles_bleed_desc_lvl1 = "Forbinding er nødvendig.",
+    Moodles_bleed_desc_lvl2 = "Styrke og hastighed er reduceret.",
+    Moodles_bleed_desc_lvl3 = "Styrke og hastighed er drastisk reduceret.",
+    Moodles_bleed_desc_lvl4 = "Døden står på trapperne.",
+    -- Wet
+    Moodles_wet_desc_lvl1 = "Kom ud af regnen før du flyder væk.",
+    Moodles_wet_desc_lvl2 = "Hastighed er en smule reduceret.",
+    Moodles_wet_desc_lvl3 = "Hastighed reduceret. Chance for at blive forkølet.",
+    Moodles_wet_desc_lvl4 = "Hastighed kraftigt reduceret. Tæt på en forkølelse.",
+    -- Has a cold
+    Moodles_hasacold_desc_lvl1 = "Nyser ind imellem.",
+    Moodles_hasacold_desc_lvl2 = "Nyser ofte.",
+    Moodles_hasacold_desc_lvl3 = "Nyser og hoster. Hastighed og heling reduceret.",
+    Moodles_hasacold_desc_lvl4 = "Hastighed og heling er nu kraftigt reduceret.",
+    -- Injured
+    Moodles_injured_desc_lvl1 = "Førstehjælp er nødvendig.",
+    Moodles_injured_desc_lvl2 = "Styrke og hastighed er reduceret.",
+    Moodles_injured_desc_lvl3 = "Styrke og hastighed er drastisk reduceret.",
+    Moodles_injured_desc_lvl4 = "Det bliver en hård og lang nat...",
+    -- Pain
+    Moodles_pain_desc_lvl1 = "Det gør en smule ondt.",
+    Moodles_pain_desc_lvl2 = "Hastighed og sigte er lettere reduceret.",
+    Moodles_pain_desc_lvl3 = "Hastighed og sigte er reduceret.",
+    Moodles_pain_desc_lvl4 = "Hastighed og sigte er markant reduceret.",
+    -- Heavy load
+    Moodles_heavyload_desc_lvl1 = "Du bærer lidt mere end du kan klare.",
+    Moodles_heavyload_desc_lvl2 = "Du bevæger dig langsommere.",
+    Moodles_heavyload_desc_lvl3 = "Du bevæger dig meget langsommere.",
+    Moodles_heavyload_desc_lvl4 = "Rygskade på horisonten. Bevægelse kompromitteret.",
+    -- Drunk
+    Moodles_drunk_desc_lvl1 = "Har været gavmild med et par afstivere.",
+    Moodles_drunk_desc_lvl2 = "Koordination er en smule hæmmet.",
+    Moodles_drunk_desc_lvl3 = "Koordination hæmmet.",
+    Moodles_drunk_desc_lvl4 = "De' dai HIK ...og mai' moj verden HIK. Je' æælsker dai. JEG ÆLS'CHIER DAI",
+    -- Dead
+    Moodles_dead_desc_lvl1 = "Høj risiko for at ende som rottemad.",
+    -- Zombified
+    Moodles_zombified_desc_lvl1 = "En pludselig trang til at spise hjerne.",
+    -- Food eaten
+    Moodles_foodeaten_desc_lvl1 = "Lille boost af styrke og heling.",
+    Moodles_foodeaten_desc_lvl2 = "Boost af styrke og heling.",
+    Moodles_foodeaten_desc_lvl3 = "Langt boost af styrke og heling.",
+    Moodles_foodeaten_desc_lvl4 = "Langtvarende boost af styrke og heling.",
+    -- Hyperthermia
+    Moodles_hyperthermia_desc_lvl1 = "Overvej at tage en slapper i skyggen. Du er mere tørstig.",
+    Moodles_hyperthermia_desc_lvl2 = "Tørstig. Svedig. For lang tid under en brændende sol.",
+    Moodles_hyperthermia_desc_lvl3 = "Kvalm, ikke i stand til at koncentrere sig og desperat efter væsker.",
+    Moodles_hyperthermia_desc_lvl4 = "Delirium og en frygtindgydende død venter dig.",
+    -- Hypothermia
+    Moodles_hypothermia_desc_lvl1 = "Du skal lige have lynet jakken op...",
+    Moodles_hypothermia_desc_lvl2 = "Du bliver nødt til at finde en måde at holde dig varm på.",
+    Moodles_hypothermia_desc_lvl3 = "Både krop og sind er besat af kulde. Dit helbred er i fare.",
+    Moodles_hypothermia_desc_lvl4 = "Du bliver en yndefuld statue af frost. Bered dig.",
+}

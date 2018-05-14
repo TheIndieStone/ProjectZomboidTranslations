@@ -1,0 +1,220 @@
+// Translation By：Sky_Orc_Mm
+// Special Thanks：半夏微凉.柒染
+// Last updated：March 7, 2016 20:05
+// Without the author's permission is prohibited edit following content
+// 未经作者许可，禁止编辑/转载/拷贝/传播/以下内容！
+*****************************************
+
+Moodles_CN = {
+    -- Moodle type :
+    -- Endurance
+    Moodles_endurance_lvl1 = "喘不上气了",
+    Moodles_endurance_lvl2 = "喘的厉害",
+    Moodles_endurance_lvl3 = "快没气了",
+    Moodles_endurance_lvl4 = "接不上气了",
+    -- Heavy Load
+    Moodles_heavyload_lvl1 = "负重",
+    Moodles_heavyload_lvl2 = "很重",
+    Moodles_heavyload_lvl3 = "非常重",
+    Moodles_heavyload_lvl4 = "特别重",
+    -- Angry
+    Moodles_angry_lvl1 = "有点烦",
+    Moodles_angry_lvl2 = "很烦躁",
+    Moodles_angry_lvl3 = "很愤怒",
+    Moodles_angry_lvl4 = "快爆发了",
+    -- Stress
+    Moodles_stress_lvl1 = "有点焦急",
+    Moodles_stress_lvl2 = "非常激动",
+    Moodles_stress_lvl3 = "压力山大",
+    Moodles_stress_lvl4 = "被压力击垮.",
+    -- Thirst
+    Moodles_thirst_lvl1 = "有点渴",
+    Moodles_thirst_lvl2 = "想喝水",
+    Moodles_thirst_lvl3 = "非常渴",
+    Moodles_thirst_lvl4 = "急需水分",
+    -- Tired
+    Moodles_tired_lvl1 = "有点困了.",
+    Moodles_tired_lvl2 = "想睡觉了",
+    Moodles_tired_lvl3 = "非常困了",
+    Moodles_tired_lvl4 = "精疲力尽",
+    -- Hungry
+    Moodles_hungry_lvl1 = "有点饿了",
+    Moodles_hungry_lvl2 = "需要补充食物",
+    Moodles_hungry_lvl3 = "肚子非常饿",
+    Moodles_hungry_lvl4 = "急需补充食物",
+    -- Panic
+    Moodles_panic_lvl1 = "有点怕",
+    Moodles_panic_lvl2 = "怕怕",
+    Moodles_panic_lvl3 = "好怕",
+    Moodles_panic_lvl4 = "吓坏了",
+    -- Sick
+    Moodles_sick_lvl1 = "想吐",
+    Moodles_sick_lvl2 = "有点恶心",
+    Moodles_sick_lvl3 = "生病了",
+    Moodles_sick_lvl4 = "发高烧",
+    -- Bored
+    Moodles_bored_lvl1 = "有点无聊",
+    Moodles_bored_lvl2 = "很无聊",
+    Moodles_bored_lvl3 = "非常无聊",
+    Moodles_bored_lvl4 = "无聊的要死",
+    -- Unhappy
+    Moodles_unhappy_lvl1 = "有点不开心",
+    Moodles_unhappy_lvl2 = "有点悲伤",
+    Moodles_unhappy_lvl3 = "有点伤心",
+    Moodles_unhappy_lvl4 = "很伤心",
+    -- Bleeding
+    Moodles_bleeding_lvl1 = "轻微流血",
+    Moodles_bleeding_lvl2 = "流血了",
+    Moodles_bleeding_lvl3 = "严重出血",
+    Moodles_bleeding_lvl4 = "大量出血",
+    -- Wet
+    Moodles_wet_lvl1 = "身体有点湿了",
+    Moodles_wet_lvl2 = "身体湿透了",
+    Moodles_wet_lvl3 = "衣服湿透了",
+    Moodles_wet_lvl4 = "衣服和身体全部湿透了",
+    -- Has a cold
+    Moodles_hascold_lvl1 = "流鼻涕",
+    Moodles_hascold_lvl2 = "打喷嚏",
+    Moodles_hascold_lvl3 = "感冒了",
+    Moodles_hascold_lvl4 = "重感冒",
+    -- Injured
+    Moodles_injured_lvl1 = "小伤口",
+    Moodles_injured_lvl2 = "皮外伤",
+    Moodles_injured_lvl3 = "重伤",
+    Moodles_injured_lvl4 = "致命伤",
+    -- Pain
+    Moodles_pain_lvl1 = "有点痛",
+    Moodles_pain_lvl2 = "很痛",
+    Moodles_pain_lvl3 = "非常痛",
+    Moodles_pain_lvl4 = "痛不欲生",
+    -- Drunk
+    Moodles_drunk_lvl1 = "有点醉意",
+    Moodles_drunk_lvl2 = "喝醉了",
+    Moodles_drunk_lvl3 = "醉醺醺",
+    Moodles_drunk_lvl4 = "酩酊大醉",
+    -- Dead
+    Moodles_dead_lvl1 = "死亡",
+    -- Zombified
+    Moodles_zombie_lvl1 = "僵尸化",
+    -- Food eaten
+    Moodles_foodeaten_lvl1 = "差不多饱了",
+    Moodles_foodeaten_lvl2 = "吃饱了",
+    Moodles_foodeaten_lvl3 = "很饱了",
+    Moodles_foodeaten_lvl4 = "非常饱",
+    -- Hyperthermia
+    Moodles_hyperthermia_lvl1 = "有点热",
+    Moodles_hyperthermia_lvl2 = "感觉很热",
+    Moodles_hyperthermia_lvl3 = "快中暑了",
+    Moodles_hyperthermia_lvl4 = "中暑了",
+    -- Hypothermia
+    Moodles_hypothermia_lvl1 = "有点冷",
+    Moodles_hypothermia_lvl2 = "很冷",
+    Moodles_hypothermia_lvl3 = "非常冷",
+    Moodles_hypothermia_lvl4 = "体温过低",
+
+    -- Description of moodle
+    -- Endurance
+    Moodles_endurance_desc_lvl1 = "需要休息.",
+    Moodles_endurance_desc_lvl2 = "已经跑不动了.",
+    Moodles_endurance_desc_lvl3 = "已经不能再跑了.",
+    Moodles_endurance_desc_lvl4 = "实在太累了,移动速度急剧降低.",
+    -- Angry
+    Moodles_angry_desc_lvl1 = "有点不耐烦.",
+    Moodles_angry_desc_lvl2 = "心情很差.",
+    Moodles_angry_desc_lvl3 = "非常愤怒.",
+    Moodles_angry_desc_lvl4 = "需要发泄.",
+    -- Stress
+    Moodles_stress_desc_lvl1 = "面临崩溃.",
+    Moodles_stress_desc_lvl2 = "神经紧绷.",
+    Moodles_stress_desc_lvl3 = "心生恐惧.",
+    Moodles_stress_desc_lvl4 = "极度惊恐.",
+    -- Thirsty
+    Moodles_thirst_desc_lvl1 = "有点口渴.",
+    Moodles_thirst_desc_lvl2 = "需要补充水分.",
+    Moodles_thirst_desc_lvl3 = "非常需要水分.",
+    Moodles_thirst_desc_lvl4 = "需要立即补充水分.",
+    -- Tired
+    Moodles_tired_desc_lvl1 = "有点倦意.",
+    Moodles_tired_desc_lvl2 = "知觉降低了.",
+    Moodles_tired_desc_lvl3 = "知觉严重降低.",
+    Moodles_tired_desc_lvl4 = "有晕倒的可能.",
+    -- Hungry
+    Moodles_hungry_desc_lvl1 = "肚子饿了.",
+    Moodles_hungry_desc_lvl2 = "降低体力,生命值流失.",
+    Moodles_hungry_desc_lvl3 = "大量减少体力,生命值缓慢流失.",
+    Moodles_hungry_desc_lvl4 = "快饿死了,体力生命值快速流失.",
+    -- Panic
+    Moodles_panic_desc_lvl1 = "无法保持冷静.",
+    Moodles_panic_desc_lvl2 = "精准度降低.",
+    Moodles_panic_desc_lvl3 = "精准度严重降低.",
+    Moodles_panic_desc_lvl4 = "精准度和视野严重减少.",
+    -- Sickness
+    Moodles_sick_desc_lvl1 = "无法放轻松.",
+    Moodles_sick_desc_lvl2 = "力量和生命值减少.",
+    Moodles_sick_desc_lvl3 = "力量和生命值严重减少.",
+    Moodles_sick_desc_lvl4 = "死亡的危险增加.",
+    -- Bored
+    Moodles_bored_desc_lvl1 = "找些事来打发时间.",
+    Moodles_bored_desc_lvl2 = "会变的不开心.",
+    Moodles_bored_desc_lvl3 = "高机率变成不开心",
+    Moodles_bored_desc_lvl4 = "非常高机率变成不开心.",
+    -- Unhappy
+    Moodles_unhappy_desc_lvl1 = "找点乐子.",
+    Moodles_unhappy_desc_lvl2 = "找点刺激.",
+    Moodles_unhappy_desc_lvl3 = "被抑郁和悲伤折磨.",
+    Moodles_unhappy_desc_lvl4 = "想办法忘掉现实.",
+    -- Bleeding
+    Moodles_bleed_desc_lvl1 = "需要包扎.",
+    Moodles_bleed_desc_lvl2 = "力量和速度降低.",
+    Moodles_bleed_desc_lvl3 = "力量和速度严重降低.",
+    Moodles_bleed_desc_lvl4 = "接近死亡.",
+    -- Wet
+    Moodles_wet_desc_lvl1 = "远离雨水.",
+    Moodles_wet_desc_lvl2 = "速度降低.",
+    Moodles_wet_desc_lvl3 = "速度降低,有机率感冒.",
+    Moodles_wet_desc_lvl4 = "速度严重降低,有较高的机率感冒.",
+    -- Has a cold
+    Moodles_hasacold_desc_lvl1 = "偶尔会打喷嚏.",
+    Moodles_hasacold_desc_lvl2 = "容易打喷嚏.",
+    Moodles_hasacold_desc_lvl3 = "打喷嚏及咳嗽,并同时减少生命及移动速度.",
+    Moodles_hasacold_desc_lvl4 = "打喷嚏及咳嗽,生命值快速减少,减慢移动速度.",
+    -- Injured
+    Moodles_injured_desc_lvl1 = "需要急救.",
+    Moodles_injured_desc_lvl2 = "速度和体力降低.",
+    Moodles_injured_desc_lvl3 = "速度和体力严重降低.",
+    Moodles_injured_desc_lvl4 = "过不了今晚了...",
+    -- Pain
+    Moodles_pain_desc_lvl1 = "感觉有点痛.",
+    Moodles_pain_desc_lvl2 = "速度和精准度稍微降低.",
+    Moodles_pain_desc_lvl3 = "速度和精准度降低.",
+    Moodles_pain_desc_lvl4 = "速度和精准度严重降低.",
+    -- Heavy load
+    Moodles_heavyload_desc_lvl1 = "拿的有点多.",
+    Moodles_heavyload_desc_lvl2 = "移动速度降低.",
+    Moodles_heavyload_desc_lvl3 = "移动速度严重下降.",
+    Moodles_heavyload_desc_lvl4 = "腰背受损,导致移动速度急剧下降.",
+    -- Drunk
+    Moodles_drunk_desc_lvl1 = "喝了一点酒.",
+    Moodles_drunk_desc_lvl2 = "身体协调能力轻微受影响.",
+    Moodles_drunk_desc_lvl3 = "身体协调能力出现较大的障碍.",
+    Moodles_drunk_desc_lvl4 = "'只有你..和我....抵抗...这一切...世界..爱你..我..爱你.'",
+    -- Dead
+    Moodles_dead_desc_lvl1 = "将会变成老鼠的晚餐.",
+    -- Zombified
+    Moodles_zombified_desc_lvl1 = "我们是他们的奴隶.",
+    -- Food eaten
+    Moodles_foodeaten_desc_lvl1 = "短暂的生命值恢复和体力提升.",
+    Moodles_foodeaten_desc_lvl2 = "较长的生命值恢复和体力提升.",
+    Moodles_foodeaten_desc_lvl3 = "很长的生命值恢复和体力提升.",
+    Moodles_foodeaten_desc_lvl4 = "非常长的生命值恢复和体力提升.",
+    -- Hyperthermia
+    Moodles_hyperthermia_desc_lvl1 = "有点口渴.",
+    Moodles_hyperthermia_desc_lvl2 = "想喝水.",
+    Moodles_hyperthermia_desc_lvl3 = "心跳加快,无法集中注意力,需要喝水.",
+    Moodles_hyperthermia_desc_lvl4 = "需要喝水,不补充水分将面临死亡 .",
+    -- Hypothermia
+    Moodles_hypothermia_desc_lvl1 = "有点冷...",
+    Moodles_hypothermia_desc_lvl2 = "得想点办法保暖..",
+    Moodles_hypothermia_desc_lvl3 = "非常冷,移动速度降低,感觉很危险.",
+    Moodles_hypothermia_desc_lvl4 = "冻僵了,移动速度急剧降低,感觉非常危险.",
+}

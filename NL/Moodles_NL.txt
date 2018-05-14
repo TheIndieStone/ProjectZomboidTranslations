@@ -1,0 +1,212 @@
+Moodles_NL = {
+-- Moodle type :
+-- Endurance
+Moodles_endurance_lvl1 = "Matige inspanning",
+Moodles_endurance_lvl2 = "Hoge inspanning",
+Moodles_endurance_lvl3 = "Overmatige inspanning",
+Moodles_endurance_lvl4 = "Uitgeput",
+-- Heavy Load
+Moodles_heavyload_lvl1 = "Vrij zware lading",
+Moodles_heavyload_lvl2 = "Zware lading",
+Moodles_heavyload_lvl3 = "Zeer zware lading",
+Moodles_heavyload_lvl4 = "Extreem zware lading",
+-- Angry
+Moodles_angry_lvl1 = "Geïrriteerd",
+Moodles_angry_lvl2 = "Geërgerd",
+Moodles_angry_lvl3 = "Kwaad",
+Moodles_angry_lvl4 = "Woedend",
+-- Stress
+Moodles_stress_lvl1 = "Angstig",
+Moodles_stress_lvl2 = "Opgewonden",
+Moodles_stress_lvl3 = "Gestrest",
+Moodles_stress_lvl4 = "Nerveus wrak",
+-- Thirst
+Moodles_thirst_lvl1 = "Beetje dorstig",
+Moodles_thirst_lvl2 = "Dorstig",
+Moodles_thirst_lvl3 = "Uitgedroogd",
+Moodles_thirst_lvl4 = "Gaat dood van de dorst",
+-- Tired
+Moodles_tired_lvl1 = "Slaperig",
+Moodles_tired_lvl2 = "Moe",
+Moodles_tired_lvl3 = "Erg moe",
+Moodles_tired_lvl4 = "Uitgeput",
+-- Hungry
+Moodles_hungry_lvl1 = "Trek",
+Moodles_hungry_lvl2 = "Honger",
+Moodles_hungry_lvl3 = "Erg veel honger",
+Moodles_hungry_lvl4 = "Gaat dood van de honger",
+-- Panic
+Moodles_panic_lvl1 = "Milde paniek",
+Moodles_panic_lvl2 = "Paniek",
+Moodles_panic_lvl3 = "Hoge paniek",
+Moodles_panic_lvl4 = "Extreme paniek",
+-- Sick
+Moodles_sick_lvl1 = "Misselijk",
+Moodles_sick_lvl2 = "Erg misselijk",
+Moodles_sick_lvl3 = "Griep",
+Moodles_sick_lvl4 = "Koorts",
+-- Bored
+Moodles_bored_lvl1 = "Raakt verveeld",
+Moodles_bored_lvl2 = "Verveeld",
+Moodles_bored_lvl3 = "Erg verveeld",
+Moodles_bored_lvl4 = "Extreem verveeld",
+-- Unhappy
+Moodles_unhappy_lvl1 = "Voelt zich een beetje verdrietig",
+Moodles_unhappy_lvl2 = "Voelt zich ongelukkig",
+Moodles_unhappy_lvl3 = "Depressief",
+Moodles_unhappy_lvl4 = "Zeer depressief",
+-- Bleeding
+Moodles_bleeding_lvl1 = "Geringe bloeding",
+Moodles_bleeding_lvl2 = "Bloedende",
+Moodles_bleeding_lvl3 = "Erge bloeding",
+Moodles_bleeding_lvl4 = "Hevig bloedverlies",
+-- Wet
+Moodles_wet_lvl1 = "Vochtig",
+Moodles_wet_lvl2 = "Nat",
+Moodles_wet_lvl3 = "Erg nat",
+Moodles_wet_lvl4 = "Doorweekt",
+-- Has a cold
+Moodles_hascold_lvl1 = "Loopneus",
+Moodles_hascold_lvl2 = "Hevige loopneus",
+Moodles_hascold_lvl3 = "Je bent verkouden",
+Moodles_hascold_lvl4 = "Je hebt een ernstige verkoudheid",
+-- Injured
+Moodles_injured_lvl1 = "Lichte verwondingen",
+Moodles_injured_lvl2 = "Gewond",
+Moodles_injured_lvl3 = "Ernstige verwondingen",
+Moodles_injured_lvl4 = "Kritieke verwondingen",
+-- Pain
+Moodles_pain_lvl1 = "Lichte pijn",
+Moodles_pain_lvl2 = "Pijn",
+Moodles_pain_lvl3 = "Erge pijn",
+Moodles_pain_lvl4 = "Martelende pijn",
+-- Drunk
+Moodles_drunk_lvl1 = "Een beetje aangeschoten",
+Moodles_drunk_lvl2 = "Dronken",
+Moodles_drunk_lvl3 = "Zeer dronken",
+Moodles_drunk_lvl4 = "Volkomen de weg kwijt",
+-- Dead
+Moodles_dead_lvl1 = "Overleden",
+-- Zombified
+Moodles_zombie_lvl1 = "Zombificeerd",
+-- Food eaten
+Moodles_foodeaten_lvl1 = "Een beetje gevoed",
+Moodles_foodeaten_lvl2 = "Gevoed",
+Moodles_foodeaten_lvl3 = "Goed gevoed",
+Moodles_foodeaten_lvl4 = "Zeer goed gevoed",
+-- Hyperthermia
+Moodles_hyperthermia_lvl1 = "Onaangenaam warm",
+Moodles_hyperthermia_lvl2 = "Oververhit",
+Moodles_hyperthermia_lvl3 = "Zonnensteek",
+Moodles_hyperthermia_lvl4 = "Hyperthermie",
+-- Hypothermia
+Moodles_hypothermia_lvl1 = "Fris",
+Moodles_hypothermia_lvl2 = "Koud",
+Moodles_hypothermia_lvl3 = "Ijskoud",
+Moodles_hypothermia_lvl4 = "Hypothermie",
+-- Description of moodle
+-- Endurance
+Moodles_endurance_desc_lvl1 = "Neem wat rust.",
+Moodles_endurance_desc_lvl2 = "Kan amper rennen.",
+Moodles_endurance_desc_lvl3 = "Kan amper lopen.",
+Moodles_endurance_desc_lvl4 = "Kan amper bewegen.",
+-- Angry
+Moodles_angry_desc_lvl1 = "Een beetje geïrriteerd.",
+Moodles_angry_desc_lvl2 = "Serieus slechte bui.",
+Moodles_angry_desc_lvl3 = "Bal van woede.",
+Moodles_angry_desc_lvl4 = "Uit op een gevecht.",
+-- Stress
+Moodles_stress_desc_lvl1 = "Alert.",
+Moodles_stress_desc_lvl2 = "Nerveus en schrikkerig.",
+Moodles_stress_desc_lvl3 = "Zweterige handpalmen, groeiende angst.",
+Moodles_stress_desc_lvl4 = "Doodsbang.",
+-- Thirsty
+Moodles_thirst_desc_lvl1 = "Droge mond.",
+Moodles_thirst_desc_lvl2 = "Uitgedroogd.",
+Moodles_thirst_desc_lvl3 = "Duizelig en slap.",
+Moodles_thirst_desc_lvl4 = "Wanhopig opzoek naar water.",
+-- Tired
+Moodles_tired_desc_lvl1 = "Zou best even kunnen liggen.",
+Moodles_tired_desc_lvl2 = "Waarnemingsvermogen verlaagd.",
+Moodles_tired_desc_lvl3 = "Waarnemingsvermogen extreem verlaagd.",
+Moodles_tired_desc_lvl4 = "In gevaar om flauw te vallen.",
+-- Hungry
+Moodles_hungry_desc_lvl1 = "Zou wel wat eten lusten.",
+Moodles_hungry_desc_lvl2 = "Verminderde kracht en genezing.",
+Moodles_hungry_desc_lvl3 = "Extreem verminderde kracht en genezing.",
+Moodles_hungry_desc_lvl4 = "Gezondheid is aan het verslechteren.",
+-- Panic
+Moodles_panic_desc_lvl1 = "Doe je best rustig te blijven.",
+Moodles_panic_desc_lvl2 = "Nauwkeurigheid verminderd.",
+Moodles_panic_desc_lvl3 = "Nauwkeurigheid extreem verminderd.",
+Moodles_panic_desc_lvl4 = "Nauwkeurigheid en zicht extreem verminderd.",
+-- Sickness
+Moodles_sick_desc_lvl1 = "Doe het rustig aan.",
+Moodles_sick_desc_lvl2 = "Verminderde kracht en genezing.",
+Moodles_sick_desc_lvl3 = "Extreem verminderde kracht en genezing.",
+Moodles_sick_desc_lvl4 = "Toenemende kans om dood te gaan.",
+-- Bored
+Moodles_bored_desc_lvl1 = "Hou jezelf bezig, of zoek vermaak.",
+Moodles_bored_desc_lvl2 = "In gevaar ongelukkig te worden.",
+Moodles_bored_desc_lvl3 = "Grote kans dat je ongelukkig wordt.",
+Moodles_bored_desc_lvl4 = "Extreem grote kans dat je ongelukkig wordt.",
+-- Unhappy
+Moodles_unhappy_desc_lvl1 = "Vind een manier om je stemming te verbeteren.",
+Moodles_unhappy_desc_lvl2 = "Zoek wat opwinding of menselijk contact.",
+Moodles_unhappy_desc_lvl3 = "Geteisterd door rouw en wanhoop.",
+Moodles_unhappy_desc_lvl4 = "Vind een manier om de realiteit te vergeten.",
+-- Bleeding
+Moodles_bleed_desc_lvl1 = "Verband nodig.",
+Moodles_bleed_desc_lvl2 = "Kracht en snelheid verminderd.",
+Moodles_bleed_desc_lvl3 = "Kracht en snelheid extreem verminderd.",
+Moodles_bleed_desc_lvl4 = "Staat op het punt om dood te gaan.",
+-- Wet
+Moodles_wet_desc_lvl1 = "Ga uit de regen, het kan je dood worden.",
+Moodles_wet_desc_lvl2 = "Snelheid iets verlaagd.",
+Moodles_wet_desc_lvl3 = "Snelheid verlaagd, kans op verkoudheid.",
+Moodles_wet_desc_lvl4 = "Snelheid extreem verlaagd, grote kans op verkoudheid.",
+-- Has a cold
+Moodles_hasacold_desc_lvl1 = "Soms nies je.",
+Moodles_hasacold_desc_lvl2 = "Je niest regelmatig.",
+Moodles_hasacold_desc_lvl3 = "Je niest en hoest, snelheid en genezing verminderd.",
+Moodles_hasacold_desc_lvl4 = "Snelheid en genezing zijn nu extreem verminderd.",
+-- Injured
+Moodles_injured_desc_lvl1 = "Eerste hulp nodig.",
+Moodles_injured_desc_lvl2 = "Kracht en snelheid verminderd.",
+Moodles_injured_desc_lvl3 = "Kracht en snelheid extreem verminderd.",
+Moodles_injured_desc_lvl4 = "Je gaat dood aan je wonden...",
+-- Pain
+Moodles_pain_desc_lvl1 = "Voelt lichte pijn.",
+Moodles_pain_desc_lvl2 = "Snelheid en nauwkeurigheid ietsje verminderd.",
+Moodles_pain_desc_lvl3 = "Snelheid en nauwkeurigheid verminderd.",
+Moodles_pain_desc_lvl4 = "Snelheid en nauwkeurigheid extreem verminderd.",
+-- Heavy load
+Moodles_heavyload_desc_lvl1 = "Draagt iets te veel.",
+Moodles_heavyload_desc_lvl2 = "Bewegingssnelheid verminderd.",
+Moodles_heavyload_desc_lvl3 = "Bewegingssnelheid Exreem verminderd.",
+Moodles_heavyload_desc_lvl4 = "Kans op rugklachten. Beweging verhinderd.",
+-- Drunk
+Moodles_drunk_desc_lvl1 = "Wat drank gedronken.",
+Moodles_drunk_desc_lvl2 = "Coördinatie enigszins aangetast.",
+Moodles_drunk_desc_lvl3 = "Coördinatie aangetast.",
+Moodles_drunk_desc_lvl4 = "'Want daar achter de hoge bergen ligt het land van Maasch en Waal!'",
+-- Dead
+Moodles_dead_desc_lvl1 = "Groot risico om rattenvoedsel te worden.",
+-- Zombified
+Moodles_zombified_desc_lvl1 = "Ineens zin om mensen op te eten.",
+-- Food eaten
+Moodles_foodeaten_desc_lvl1 = "Korte genezing en kracht boost.",
+Moodles_foodeaten_desc_lvl2 = "Genezing en kracht boost.",
+Moodles_foodeaten_desc_lvl3 = "Lange genezing en kracht boost.",
+Moodles_foodeaten_desc_lvl4 = "Zeer lange genezing en kracht boost.",
+-- Hyperthermia
+Moodles_hyperthermia_desc_lvl1 = "Overweeg ergens minder bloodgesteld te rusten. Dorst toegenomen.",
+Moodles_hyperthermia_desc_lvl2 = "Dorstig. Zweterig. Te veel blootgesteld aan de brandende zon.",
+Moodles_hyperthermia_desc_lvl3 = "Misselijk, niet in staat zich te concentreren en wanhopig voor drinken.",
+Moodles_hyperthermia_desc_lvl4 = "Ijlend en afschuwelijke dood door blootstelling dreigend.",
+-- Hypothermia
+Moodles_hypothermia_desc_lvl1 = "Het voelt hier een beetje fris.",
+Moodles_hypothermia_desc_lvl2 = "Je moet manieren vinden om warm te blijven.",
+Moodles_hypothermia_desc_lvl3 = "Lichaam en geest bezeten door kou. Gezondheid in gevaar.",
+Moodles_hypothermia_desc_lvl4 = "Ijlend van onderkoeling en blootstelling. Gezondheid in groot gevaar.",
+}

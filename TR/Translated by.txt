@@ -1,0 +1,11 @@
+Turkish Translation Data Information
+Update history
+Build-38.3
+Turkish translation by DemirHerif
+-----------------------------------
+Emeðe saygý duymak bir erdemdir.
+Hepinize iyi oyunlar :)
+-----------------------------------
+It is a virtue to respect to labor.
+Good game to all of you :)
+-----------------------------------
