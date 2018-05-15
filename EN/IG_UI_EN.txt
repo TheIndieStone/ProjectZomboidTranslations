@@ -16,7 +16,7 @@ IGUI_EN = {
 	-- InventoryPage
 	IGUI_invpage_Loot_all = "Loot All",
 	-- Character Screen
-	IGUI_char_Age = "Age",
+	IGUI_char_Age = "Agessss",
 	IGUI_char_Sex = "Sex",
 	IGUI_char_Traits = "Traits",
 	IGUI_char_Favourite_Weapon = "Favourite Weapon",
