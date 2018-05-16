@@ -1,7 +1,7 @@
 Challenge_ES = {
 
-	-- Build 32.27
-	-- 07-09-2015
+	-- Build 39.56
+	-- 06-05-2018
 	-- Autor: ditoseadio
 
 	Challenge_YouHaveOneDay_name = "1. Tienes un día",
@@ -16,14 +16,14 @@ Challenge_ES = {
 	Challenge_WinterIsComing_desc = "Estás a mediados de Julio, pero de repente hace una brisa escalofriante. En apenas tres días el invierno comenzará como ninguno otro antes. <LINE> <LINE> Te despiertas en un lugar aislado. Tienes pocas provisiones, y las hordas de zombis pueden ser ralentizadas por el intenso frío, pero no las hace menos mortales. <LINE> <LINE> Abrígate superviviente...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres días comienza el invierno sin fin. <LINE> <LINE> Abrígate...",
 
-	Challenge_Challenge1_name = "4. Casa en el bosque",
-	Challenge_Challenge1_desc = "Prepárate para una pequeña e intensa dosis de Zomboid.  Los zombis se acercan desde todos los lados. <LINE> Vas a comprobar, muy pronto, cuanto tiempo puedes resistir una horda. <LINE> Prepara la escopeta... <BR> Interminables oleadas de zombis cada vez mayores. <LINE> Sobrevive lo máximo posible usando los recursos limitados que encuentres.",
+	Challenge_Challenge1_name = "4. La casa en el bosque - Última resistencia",
+	Challenge_Challenge1_desc = "Se les oye acercarse. Hordas de muertos invaden tu solitaria cabaña desde todos los ángulos. La muerte es inevitable, pero hay una escopeta al alcance de la mano. <LINE> <LINE> Última resistencia presenta interminables oleadas de zombis cada vez mayores. Sobrevive el mayor tiempo posible a pesar de las circunstancias.",
 
-	Challenge_Challenge2_name = "5. Casa en el bosque 2",
-	Challenge_Challenge2_desc = "Prepárate para una pequeña e intensa dosis de Zomboid.  Los zombis se acercan desde todos los lados. <LINE> Vas a comprobar, muy pronto, cuanto tiempo puedes resistir una horda. <LINE> Prepara la escopeta... <BR> Interminables oleadas de zombis cada vez mayores. <LINE> Consigue dinero matando zombis y úsalo para comprar y reparar equipamiento, o para subir de nivel.",
+	Challenge_Challenge2_name = "5. La casa en el bosque - Última resistencia acumulable",
+	Challenge_Challenge2_desc = "Un día más, otra cabaña lista para la matanza. Las hordas están encima de ti, y tu muerte será tan dolorosa como espantosa. Así que sal a pelear... <LINE> <LINE> Última resistencia acumulable presenta oleadas interminables de zombis cada vez mayores. Usa el dinero ganado matando zombis para comprar equipamiento, subir de nivel y reparar tu armamento.",
 
 	Challenge_AReallyCDDAy_name = "6. Una muerte inminente",
-	Challenge_AReallyCDDAy_desc = "Tienes que salir de la ducha y te caes.  Estás borracho, y tienes un frío de muerte. <LINE> Además de todo esto, ¡la casa está ardiendo!  Definitivamente hoy no es tu día.",
+	Challenge_AReallyCDDAy_desc = "Sales de la ducha y tropiezas. Estás completamente borracho, y tienes un terrible resfriado. <LINE> <LINE> ¡Además la casa está ardiendo! Definitivamente hoy no es tu día. <LINE> <LINE> [Un reto inspirado en A Really Bad Day del impresionante, maravilloso e imprescindible Cataclysm: Dark Days Ahead] ",
 
 
 	Challenge_Challenge2_Carpentry = "Carpintería",
