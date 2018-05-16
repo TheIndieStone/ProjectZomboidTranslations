@@ -1,7 +1,7 @@
 IGUI_FR = {
 -- All the UI text used in game
 
-IGUI_invpanel_Type = "Type",
+IGUI_invpanel_Type = "Tcse",
 IGUI_invpanel_Category = "Catégorie",
 IGUI_invpanel_Pack = "Mettre dans le sac"
 IGUI_invpanel_unpack = "Retirer du sac",
