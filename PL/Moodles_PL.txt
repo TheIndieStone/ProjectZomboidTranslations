@@ -207,7 +207,7 @@ Moodles_hyperthermia_desc_lvl3 = "Nudnoœci, problemy z koncentracj¹, desperacko 
 Moodles_hyperthermia_desc_lvl4 = "Delirium i okropna œmieræ z gor¹ca jest nieuchronna.",
 -- Hypothermia
 Moodles_hypothermia_desc_lvl1 = "Trochê tu zimno...",
-Moodles_hypothermia_desc_lvl2 = "Musisz znaleŸæ sposób, aby siê ogrzaæ",
+Moodles_hypothermia_desc_lvl2 = "Musisz znaleŸæ sposób, aby siê ogrzaæ.",
 Moodles_hypothermia_desc_lvl3 = "Cia³o i umys³ opêtane przeraŸliwym ch³odem. Zdrowie zagro¿one.",
 Moodles_hypothermia_desc_lvl4 = "Delirium od wystawienia na niskie temperatury. Powa¿ne zagro¿enie ¿ycia.",
 }

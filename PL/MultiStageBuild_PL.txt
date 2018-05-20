@@ -1,0 +1,21 @@
+MultiStageBuild_PL = {
+	MultiStageBuild_CreateWoodenWall_1 = "Zbuduj drewnian¹ œcianê poz. 1",
+	MultiStageBuild_UpgradeWoodenWall_1To2 = "Ulepsz drewnian¹ œcianê do poz. 2",
+	MultiStageBuild_CreateWoodenWall_2 = "Zbuduj drewnian¹ œcianê poz. 1",
+	MultiStageBuild_UpgradeWoodenWall_1To3 = "Ulepsz drewnian¹ œcianê do poz. 3",
+	MultiStageBuild_UpgradeWoodenWall_2To3 = "Ulepsz drewnian¹ œcianê do poz. 3",
+	MultiStageBuild_CreateWoodenWall_3 = "Zbuduj drewnian¹ œcianê poz. 3",
+	MultiStageBuild_CreateWoodenWindow_1 = "Zbuduj drewniane okno poz. 1",
+	MultiStageBuild_UpgradeWoodenWindow_1To2 = "Ulepsz drewniane okno do poz. 2",
+	MultiStageBuild_CreateWoodenWindow_2 = "Zbuduj drewniane okno poz. 2",
+	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Ulepsz drewniane okno do poz. 3",
+	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Ulepsz drewniane okno do poz. 3",
+	MultiStageBuild_CreateWoodenWindow_3 = "Zbuduj drewniane okno poz. 3",
+	MultiStageBuild_CreateMetalWall_1 = "Zbuduj metalow¹ œcianê poz. 1",
+	MultiStageBuild_UpgradeMetalWall_1To2 = "Ulepsz metalow¹ œcianê do poz. 2",
+	MultiStageBuild_CreateMetalWall_2 = "Zbuduj metalow¹ œcianê poz. 2",
+	MultiStageBuild_CreateMetalWindow_1 = "Zbuduj metalowe okno poz. 1",
+	MultiStageBuild_UpgradeMetalWindow_1To2 = "Ulepsz metalowe okno do poz. 2",
+	MultiStageBuild_CreateMetalWindow_2 = "Zbuduj metalowe okno poz. 2",
+	
+}

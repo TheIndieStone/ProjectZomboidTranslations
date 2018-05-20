@@ -197,7 +197,7 @@ Recipe_Slice_Watermelon = "Pokrój arbuz na kawa³ki",
 Recipe_Smash_Watermelon = "Rozbij arbuz na kawa³ki",
 Recipe_Soup = "Zupa",
 Recipe_Stew = "Gulasz",
-Recipe_Stir_fry = "Stir fry",
+Recipe_Stir_fry = "Stir-fry",
 Recipe_Unstack_Logs = "Rozwi¹¿ bale",
 
 Recipe_PastaPan = "Makaron w rondlu",
@@ -265,4 +265,12 @@ Recipe_RicePot = "Ry¿ w garnku",
 	Recipe_Make_Small_Metal_Sheet = "Zrób ma³y arkusz blachy"
 	
 	Recipe_Wash_Clothing = "Wyczyœæ ubranie",
+	
+	Recipe_Make_Cold_Cuppa = "Zrób zimny napój",
+	Recipe_Make_Hot_Cuppa = "Zrób gor¹cy napój",
+	
+	Herbalist = "Zio³owe leki"
+
+    Recipe_Advanced_Mechanics = "Zaaw. mechanika samochodowa",
+    Recipe_Intermediate_Mechanics = "Œr. zaaw. mechanika samochodowa",
 }
