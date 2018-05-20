@@ -1,6 +1,5 @@
 Recipe_PL = {
 
-Herbalist = "Zio³owe leki"
 Recipe_Add_Crafted_Trigger = "Dodaj zdalny detonator",
 Recipe_Add_Motion_Sensor_V1 = "Dodaj czujnik ruchu wz.1",
 Recipe_Add_Motion_Sensor_V2 = "Dodaj czujnik ruchu wz.2",
@@ -49,6 +48,7 @@ Recipe_Generator = "Obs³uga agregatu"
 Recipe_Get_Bacon_Bits = "Przygotuj kawa³ki boczku",
 Recipe_Get_Bacon_Rashers = "Przygotuj plasterki boczku",
 Recipe_Get_Wire_Back = "Odzyskaj drut",
+Recipe_Herbalist = "Zio³owe leki"
 Recipe_HotDrink = "Gor¹cy napój",
 Recipe_Insert_Battery_into_Flashlight = "W³ó¿ bateriê do latarki",
 Recipe_Intermediate_Mechanics = "Œrednio zaaw. mechanika samochodowa",
