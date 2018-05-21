@@ -2,7 +2,7 @@ Challenge_PL = {
 
 Challenge_AReallyCDDAy_desc = "Przewracasz siê, wychodz¹c spod prysznica. Od wypitego alkoholu ledwo trzymasz siê na nogach i na dodatek dopad³o ciê przeziêbienie. <LINE><LINE> I jakby by³o tego ma³o - dom stoi w p³omieniach. To zdecydowanie nie jest twój dzieñ. <LINE><LINE> (Wyzwanie zainspirowane 'A Really Bad Day' ze œwietnej gry, w któr¹ ka¿dy powinien zagraæ - Cataclysm: Dark Days Ahead)",
 Challenge_AReallyCDDAy_name = "6. Z³y dzieñ",
-Challenge_Challenge1_desc = "Przygotuj siê na krótk¹, ale intensywn¹ rozgrywkê.  Martwiaki nadchodz¹ ze wszystkich stron. <LINE> Nied³ugo ciê dopadn¹ i pytanie brzmi jak d³ugo zdo³asz utrzymaæ siê przy ¿yciu? <LINE> Przygotuj strzelbê. <BR> Nadchodz¹ z ka¿dym razem liczniejsze, nieskoñczone fale zombiaków. <LINE> Prze¿yj tak d³ugo jak potrafisz, korzystaj¹c z ograniczonych zasobów œwiata.",
+Challenge_Challenge1_desc = "Przygotuj siê na krótk¹, ale intensywn¹ rozgrywkê.  Martwiaki nadchodz¹ ze wszystkich stron. <LINE> Nied³ugo ciê dopadn¹ i pytanie brzmi jak d³ugo zdo³asz utrzymaæ siê przy ¿yciu? <LINE> Przygotuj strzelbê. <BR> Nadchodz¹ coraz liczniejsze, nieskoñczone fale zombiaków. <LINE> Prze¿yj tak d³ugo, jak potrafisz, korzystaj¹c z ograniczonych zasobów œwiata.",
 Challenge_Challenge1_name = "4. Ostatni bastion - dom w lesie",
 Challenge_Challenge2_Carpentry = "Stolarstwo",
 Challenge_Challenge2_Health = "Opatrunki/Leki",
