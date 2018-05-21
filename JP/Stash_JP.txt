@@ -2,9 +2,10 @@
 
 	-- Japanese Translation Data Information
 	-- Update history
-	-- Build-38.9
-	-- Date 08-29-2017
+	-- Build-39.60
+	-- Date 05-19-2018
 	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- E-mail:falcon33jp@gmail.com
 
 	Stash_AnnotedMap = "地図(メモが書かれている)",
 	Stash_MulMap1_Text1 = "ここに、床板。",
@@ -24,15 +25,15 @@
 	Stash_MulMap6_Text21 = "確かここに: 抗生物質、包帯。脚はまだ疲れてないぞクソが、",
 	Stash_MulMap6_Text3 = "ここで彼らの群れを見たわ。 避けて！ あなたを愛しているわ",
 	Stash_MulMap7_Text1 = "プラン B",
-	Stash_MulMap7_Text2 = "ストア？ まだ溢れている",
+	Stash_MulMap7_Text2 = "お店？ まだ溢れている",
 	Stash_MulMap7_Text3 = "めちゃくちゃ",
 	Stash_MulMap8_Text1 = "ここに",
 	Stash_MulMap8_Text2 = "必要な飲料水がここにある",
 	Stash_MulMap8_Text3 = "ここの大きなゾンビ集団は、ここ数日間は移動していない。",
 	Stash_MulMap10_Text1 = "死の家",
-	Stash_MulMap10_Text2 = "Spiffo's",
+	Stash_MulMap10_Text2 = "Spiffo(スピッフォ)",
 	Stash_MulMap10_Text3 = "ここではっきりと見た",
-	Stash_MulMap11_Text1 = "Spiffo'sの銃",
+	Stash_MulMap11_Text1 = "Spiffo(スピッフォ)の銃",
 	Stash_MulMap11_Text2 = "トラブル",
 	Stash_MulMap11_Text3 = "ここではっきり見た",
 	Stash_WpMap1_Text1 = "確か、ここが彼が住んでいた場所",
@@ -92,15 +93,15 @@
 	Stash_MulMap12_Text2 = "医療がクソ",
 	Stash_MulMap12_Text3 = "ゾンビの大きな集団",
 	Stash_MulMap13_Text1 = "中途半端に戻って来た、ここに全て残した - 重過ぎる",
-	Stash_MulMap13_Text2 = "ハードウェア・ストア ここにはまだ多くの道具が",
+	Stash_MulMap13_Text2 = "ホームセンター ここにはまだ多くの道具が",
 	Stash_MulMap13_Text3 = "銃砲店",
-	Stash_WpMap11_Text1 = "Spiffoの店長は店内に散弾銃を保管していた。",
+	Stash_WpMap11_Text1 = "Spiffo(スピッフォ)の店長は店内に散弾銃を保管してる。",
 	Stash_WpMap11_Text11 = "クレイジーな馬鹿は何が来るのか分かっていた。",
 	Stash_WpMap11_Text2 = "手の届かない場所。",
 	Stash_WpMap11_Text3 = "自宅の近くの何処かに避けるつもりだ - ここで私を探しちゃいけない",
 	Stash_WpMap12_Text1 = "仕事場にゾンビが襲った時、皆がそれを作った",
 	Stash_WpMap12_Text11 = "私は彼らが回る前に彼らに乗った",
 	Stash_WpMap12_Text2 = "銃砲店",
-	Stash_WpMap12_Text3 = "ブラックフライデー 群衆いる",
+	Stash_WpMap12_Text3 = "暗黒の金曜日 群衆いる",
 
 }
