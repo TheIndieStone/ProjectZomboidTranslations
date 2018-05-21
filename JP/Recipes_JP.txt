@@ -2,9 +2,10 @@
 
 	-- Japanese Translation Data Information
 	-- Update history
-	-- Build-38.9
-	-- Date 08-29-2017
+	-- Build-39.60
+	-- Date 05-19-2018
 	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- E-mail:falcon33jp@gmail.com
 
 	Recipe_Make_Campfire_Kit = "焚き火のセットを作る",
 	Recipe_GetSteelAndFlint = "火打石と打ち金にする",
@@ -97,8 +98,8 @@
 	Recipe_Make_Stone_Axe = "石の斧を作る",
 	Recipe_Make_Wooden_Lance = "木製の槍を作る",
 	Recipe_Rip_sheets = "布切れを作る",
-	Recipe_Disinfect_Bandage = "アルコールで消毒する",
-	Recipe_Disinfect_Rag = "アルコールで消毒する",
+	Recipe_Disinfect_Bandage = "消毒する",
+	Recipe_Disinfect_Rag = "消毒する",
 	Recipe_Clean_Rag = "水で洗浄する",
 	Recipe_Clean_Bandage = "水で洗浄する",
 	Recipe_Empty_Frying_Pan = "フライパンを空にする",
@@ -170,7 +171,7 @@
 	Recipe_Make_Remote_Trigger = "起爆装置を作る",
 	Recipe_Make_Smoke_Bomb = "発煙弾を作る",
 	Recipe_Make_Timer = "時限装置を作る",
-	Recipe_Generator = "発電機",
+	Recipe_Generator = "発電機の使用",
 	Recipe_Dismantle_CD_Player = "CDプレイヤーを分解する",
 	Recipe_Dismantle_Cordless_Phone = "コードレス電話を分解する",
 	Recipe_Dismantle_Digital_Watch = "デジタル腕時計を分解する",
@@ -325,4 +326,15 @@
 	Recipe_Rip_Clothing = "布切れを作る",
 	Recipe_Make_Small_Metal_Sheet = "金属板(小さい)を作る",
 	Recipe_Wash_Clothing = "衣類を洗濯する",
+	Recipe_Make_Cold_Cuppa = "飲み物を作る",
+	Recipe_Make_Hot_Cuppa = "飲み物を作る",
+	Herbalist = "薬草を使った治療",
+	Recipe_Basic_Mechanics = "標準モデルの整備",
+	Recipe_Intermediate_Mechanics = "商用モデルの整備",
+	Recipe_Advanced_Mechanics = "高性能モデルの整備",
+	Recipe_Make_Metal_Containers = "コンテナを作る",
+	Recipe_Make_Metal_Fences = "フェンスを作る",
+	Recipe_Make_Metal_Roof = "屋根を作る",
+	Recipe_Make_Metal_Walls = "壁を作る",
+
 }
