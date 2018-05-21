@@ -1,6 +1,8 @@
-Japanese Translation Data Information
-Update history
-Build-38.9
-Date 08-29-2017
-Official Japanese Translation by Falcon33jp (Koichi Takebe)
-E-mail:falcon33@weapons-free.com
+
+	-- Japanese Translation Data Information
+	-- Update history
+	-- Build-39.60
+	-- Date 05-19-2018
+	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- E-mail:falcon33jp@gmail.com
+
