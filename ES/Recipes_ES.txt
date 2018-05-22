@@ -1,7 +1,7 @@
 Recipe_ES = {
 
-	-- Build 38.1
-	-- 12-06-2017
+	-- Build 39.58
+	-- 15-05-2018
 	-- Autor: ditoseadio
 
 	Recipe_Add_Crafted_Trigger = "Agregar disparador remoto",
@@ -9,6 +9,8 @@ Recipe_ES = {
 	Recipe_Add_Motion_Sensor_V2 = "Añadir sensor de movimiento V2",
 	Recipe_Add_Motion_Sensor_V3 = "Añadir sensor de movimiento V3",
 	Recipe_Add_Timer = "Agregar temporizador",
+	Recipe_Advanced_Mechanics = "Mecánica avanzada",
+	Recipe_Basic_Mechanics = "Mecánica básica",
 	Recipe_Build_Drawer = "Fabricar cajón",
 	Recipe_Build_Spiked_Baseball_Bat = "Fabricar bate con clavos",
 	Recipe_Build_Spiked_Plank = "Fabricar tablón con clavos",
@@ -84,6 +86,7 @@ Recipe_ES = {
 	Recipe_Make_Cage_Trap = "Hacer jaula",
 	Recipe_Make_Cake_Batter = "Hacer masa para tarta",
 	Recipe_Make_Campfire_Kit = "Construir hoguera",
+	Recipe_Make_Cold_Cuppa = "Preparar bebida fría",
 	Recipe_Make_Comfrey_Poultice = "Hacer cataplasma de consuelda",
 	Recipe_Make_Cooking_Pot = "Hacer olla",
 	Recipe_Make_Crowbar = "Hacer palanqueta",
@@ -99,6 +102,7 @@ Recipe_ES = {
 	Recipe_Make_Hammer = "Hacer martillo",
 	Recipe_Make_Hand_Shovel = "Hacer pala de jardinería",
 	Recipe_Make_Hinge = "Hacer bisagra",
+	Recipe_Make_Hot_Cuppa = "Preparar bebida caliente",
 	Recipe_Make_Hot_Drink = "Preparar bebida caliente",
 	Recipe_Make_Hunting_Knife = "Hacer cuchillo de caza",
 	Recipe_Make_Jar_of_Bell_Peppers = "Hacer conserva de pimientos",
@@ -277,4 +281,5 @@ Recipe_ES = {
 	Recipe_Wash_Clothing = "Lavar la ropa",
 	Recipe_Write_Doodle = "Hacer garabatos",
 	Recipe_Write_Journal = "Escribir un diario",
+    Recipe_Intermediate_Mechanics = "Mecánica intermedia",
 }
