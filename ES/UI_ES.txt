@@ -1,7 +1,7 @@
 UI_ES = {
 
-	-- Build 39.57
-	-- 11-05-2018
+	-- Build 39.60
+	-- 22-05-2018
 	-- Autor: ditoseadio
 
 	UI_Alarm = "Alarma",
@@ -212,11 +212,13 @@ UI_ES = {
 	UI_ServerOption_DisableRadioModerator_tooltip = "Desactiva las transmisiones de radio de los jugadores con nivel de acceso "moderator".",
 	UI_ServerOption_DisableRadioOverseer_tooltip = "DDesactiva las transmisiones de radio de los jugadores con nivel de acceso "overseer".",
 	UI_ServerOption_DisableRadioStaff_tooltip = "Desactiva las transmisiones de radio de los jugadores con cualquier nivel de acceso.",
+	UI_ServerOption_DisableSafehouseWhenPlayerConnected_tooltip  = "Hará que el refugio actúe como una casa normal si alguien de este refugio está conectado.",
 	UI_ServerOption_DisableSafehouseWhenPlayerConnected_tooltip = "Hará que un refugio actúe como una casa normal si alguien del refugio está conectado.",
 	UI_ServerOption_DisplayUserName_tooltip = "Mostrar nombres de usuarios encima de la cabeza del personaje en el juego.",
 	UI_ServerOption_DoLuaChecksum_tooltip = "Expulsa a los jugadores que sus archivos de juego no coinciden con los del servidor.",
 	UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "Eliminar jugador de la lista blanca después de morir.  Evita la creación de un nuevo personaje después de morir en el juego.",
 	UI_ServerOption_FactionDaySurvivedToCreate_tooltip = "Tendrás que sobrevivir X días antes de poder crear una facción.",
+	UI_ServerOption_FactionPlayersRequiredForTag_tooltip  = "Cuántos jugadores se necesitan antes de que el dueño de la facción pueda crear una etiqueta especial.",
 	UI_ServerOption_FactionPlayersRequiredForTag_tooltip = "Cuántos jugadores se necesitan antes de dejar que el propietario de la facción cree una etiqueta especial.",
 	UI_ServerOption_Faction_tooltip = "Si es activado, los jugadores podrán crear facciones.",
 	UI_ServerOption_FastForwardMultiplier_tooltip = "¿Qué tan rápido pasa el tiempo cuando todo el mundo está dormido?",
@@ -280,10 +282,14 @@ UI_ES = {
 	UI_ServerOption_UPnP_tooltip = "Intentará configurar una puerta de enlace a Internet mediante UPnP que configurará automáticamente las reglas de reenvío de puerto.",
 	UI_ServerOption_UseTCPForMapDownloads_tooltip = "Envía datos a los jugadores usando conexiones TCP. Requiere un puerto TCP abierto por jugador a partir de DefaultPort + 1. Debe ayudar al rendimiento cuando muchos jugadores se conectan.",
 	UI_ServerOption_Voice3D_tooltip = "",
+	UI_ServerOption_VoiceBuffering_tooltip  = "Búfer de datos de voz en muestras, los valores más bajos producen un retardo menor pero pueden funcionar de forma inestable en ordenadores lentos (DelayMs * SampleRate / 1000).",
 	UI_ServerOption_VoiceBuffering_tooltip = "El buffer de datos de voz en muestras, los valores más bajos producen menor retraso, pero pueden ser inestables en equipos lentos (DelayMs * SampleRate / 1000).",
 	UI_ServerOption_VoiceComplexity_tooltip = "Calidad de codec de voz de 0 a 10, 0 -  lo mejor, 10 - lo peor.",
+	UI_ServerOption_VoiceEnable_tooltip  = "Si está activado, el VOIP estará habilitado.",
 	UI_ServerOption_VoiceEnable_tooltip = "Si es activado, se habilitará el VOIP.",
+	UI_ServerOption_VoiceMaxDistance_tooltip  = "Distancia máxima en baldosas a la que se puede escuchar el VOIP.",
 	UI_ServerOption_VoiceMaxDistance_tooltip = "",
+	UI_ServerOption_VoiceMinDistance_tooltip  = "Distancia mínima en baldosas a la que se puede escuchar el VOIP.",
 	UI_ServerOption_VoiceMinDistance_tooltip = "",
 	UI_ServerOption_VoicePeriod_tooltip = "En milisegundos, intervalo de tiempo entre las transmisiones de datos de voz, los valores más bajos producen menor retraso, pero mayor carga de la red.",
 	UI_ServerOption_VoiceSampleRate_tooltip = "Velocidad de muestreo de captura de voz, una de 4000, 6000, 8000, 12000, 24000.",
@@ -308,7 +314,6 @@ UI_ES = {
 	UI_ServerSettingGroup_PVP = "PVP",
 	UI_ServerSettingGroup_Players = "Jugadores",
 	UI_ServerSettingGroup_RCON = "RCON",
-	UI_ServerSettingGroup_Respawn = "Reaparición (loot)",
 	UI_ServerSettingGroup_Safehouse = "Refugio",
 	UI_ServerSettingGroup_SpawnRegions = "Zonas de aparición",
 	UI_ServerSettingGroup_Steam = "Steam",
@@ -1082,4 +1087,5 @@ UI_ES = {
 	UI_worldscreen_SavefileVehicle = "No se puede cargar la partida. <LINE> Debido a la magnitud de los cambios necesarios para implementar los vehículos, las partidas de las versiones anteriores no son compatibles. <LINE> Para continuar esta partida: accede a la Build 38.30 pre-vehículos a través de la pestaña betas en Steam. <LINE> Versión de mundo guardada: %1 Versión de mundo actual: %2",
 	UI_worldscreen_deletesave = "¿Estás seguro de que deseas eliminar esta partida?",
 	UI_worldscreen_title = "ELIGE PARTIDA GUARDADA",
+	
 }

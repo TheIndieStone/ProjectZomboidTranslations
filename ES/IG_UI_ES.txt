@@ -1,7 +1,7 @@
 IGUI_ES = {
 
-	-- Build 39.58
-	-- 12-05-2018
+	-- Build 39.60
+	-- 22-05-2018
 	-- Autor: ditoseadio
 
 	IGUI_AdminPanel_AdminPanel = "PANEL DE ADMINISTRADOR",
@@ -187,7 +187,7 @@ IGUI_ES = {
 	IGUI_Gametime_zombiesCount = "Has matado %1 zombis.",
 	IGUI_Generator_Condition = "Condición: %1%",
 	IGUI_Generator_FuelAmount = "Combustible: %1%",
-	IGUI_Generator_IsToxic = "Llenará el edificio de gases tóxicos cuando se use en este lugar.",
+	IGUI_Generator_IsToxic = "Llenará el edificio de gases tóxicos cuando se encienda aquí.",
 	IGUI_Generator_TypeGas = "Generador eléctrico de gasolina",
 	IGUI_HealthTooltip = "Salud",
 	IGUI_HoldButton = "Mantén el botón y mueve el cursor para rotar objetos",
@@ -258,6 +258,7 @@ IGUI_ES = {
 	IGUI_MP_ServerPlayerIDMissing = "Un personaje de una versión anterior del juego no se puede cargar en este servidor.",
 	IGUI_Map_AddNote = "Añadir nota",
 	IGUI_Map_AddSymbol = "Añadir símbolo",
+	IGUI_Map_ChooseSymbol = "Seleccionar símbolo",
 	IGUI_Map_ConfirmRemoveNote = "¿Quieres eliminar esta nota? (%1)",
 	IGUI_Map_ConfirmRemoveSymbol = "¿Quieres eliminar este símbolo?",
 	IGUI_Map_Info = "<CENTRE> <SIZE:medium> LECTURA DEL MAPA <LINE> <LINE> <LEFT> <SIZE:small> Este es el panel de lectura del mapa.  <LINE> <LINE> Puedes hacer zoom en los mapas que encuentres usando la rueda del ratón, y moverlo haciendo clic y arrastrando el puntero. <LINE> <LINE> Si tienes un lápiz o un bolígrafo en tu inventario puedes agregar notas y símbolos. Selecciona "Añadir nota" o "Añadir símbolo" y haz clic en el mapa para dejar tu marca. Los colores disponibles dependen de los bolígrafos que tengas. <LINE> <LINE> Las marcas se pueden eliminar si tienes una goma de borrar, seleccionando "Eliminar elemento". Simplemente mueve el cursor encima de lo que deseas eliminar y haz clic en la cruz roja.",
@@ -442,6 +443,7 @@ IGUI_ES = {
 	IGUI_ScavengeUI_MedicinalPlants = "Plantas medicinales",
 	IGUI_ScavengeUI_Mushrooms = "Champiñones",
 	IGUI_ScavengeUI_Title = "Prioridad",
+	IGUI_Scrap = "Desmontar",
 	IGUI_SeatFrontLeft = "Conductor",
 	IGUI_SeatFrontRight = "Delantero derecho",
 	IGUI_SeatMiddleLeft = "Central izquierdo",
@@ -670,6 +672,7 @@ IGUI_ES = {
 	IGUI_VehiclePartWindshield = "Parabrisas",
 	IGUI_VehiclePartWindshieldRear = "Parabrisas trasero",
 	IGUI_VehicleSeat_Items = "Objeto(s) en el asiento.",
+	IGUI_VehicleSeat_MoveItems = "Los objetos del asiento se moverán a otro asiento.",
 	IGUI_VehicleSeat_Person = "Persona sentada.",
 	IGUI_VehicleSeat_Self = "Estás aquí.",
 	IGUI_VehicleSeat_Uninstalled = "El asiento está desmontado.",
