@@ -674,5 +674,12 @@ Zippee_Market_Sign = 	 "Znak Zippee Market",
 Zippee_Shelves_Rack = 	 "Pó³ki magazynowe Zippee",
 Zippee_Wall_Shelves = 	 "Pó³ki œcienne Zippee",
 
+Lamp_on_Pillar = "Latarka na s³upie",
+Metal_Crate = "Metalowa skrzynia",
+Stone_Pile = "Kamienny kopiec",
+Wooden_Picket = "Drewniany palik",
+Wooden_Stairs = "Drewniane schody",
+Moveable_object = "Przedmiot do przeniesienia",
+Scrapable_object = "Przedmiot do rozmontowania",
 	
 }
