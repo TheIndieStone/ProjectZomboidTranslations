@@ -1,10 +1,10 @@
 Items_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-39.64
+	-- Date 05-25-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	DisplayName_.223_Ammo = "223レミントン実包",
@@ -805,9 +805,5 @@ Items_JP = {
 	DisplayName_Laines_Auto_Manual___Commercial_Models = "レインズ自動車整備マニュアル(商用モデル)",
 	DisplayName_Laines_Auto_Manual___Performance_Models = "レインズ自動車整備マニュアル(高性能モデル)",
 	DisplayName_Laines_Auto_Manual___Standard_Models = "レインズ自動車整備マニュアル(標準モデル)",
-
-	-- System not supported
-
-	-- System not ???
 
 }
