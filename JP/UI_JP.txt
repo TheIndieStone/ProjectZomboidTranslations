@@ -1,10 +1,10 @@
-﻿UI_JP = {
+UI_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-39.64
+	-- Date 05-25-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	-- Main screen (lua)
@@ -25,11 +25,8 @@
 	UI_mainscreen_exit = "終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.60 <2018年05月19日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.60 <2018年05月19日版>   ",
-
-	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.60 <2018年05月19日版>  ",
-	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.60 <2018年05月19日版>  ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.64 <2018年05月25日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.64 <2018年05月25日版>   ",
 
 	UI_Details = "更新情報",
 
@@ -1049,7 +1046,7 @@
 	UI_ServerOption_WorkshopItems_tooltip = "ダウンロードするサーバーのWorkshop Mod IDを表示します。 セミコロンで区切ります。例：WorkshopItems=514427485;513111049",
 	UI_ServerOption_CoopServerLaunchTimeout_tooltip = "記載方法が明文化されていません。変更しないようにしてください。",
 	UI_ServerOption_CoopMasterPingTimeout_tooltip = "記載方法が明文化されていません。変更しないようにしてください。",
-	UI_ServerOption_VoiceEnable_tooltip = "チェックボックスを有効にすると、VOPは有効になります。",
+	UI_ServerOption_VoiceEnable_tooltip = "チェックボックスを有効にすると、VOIPは有効になります。",
 	UI_ServerOption_VoiceComplexity_tooltip = "音声コーデックの品質は、値0～10、0が最高、10が最低です。",
 	UI_ServerOption_VoicePeriod_tooltip = "ミリ秒、音声データ送信間の時間間隔、値が小さいほど遅延は小さくなりますが、ネットワーク負荷が高くなります。",
 	UI_ServerOption_VoiceSampleRate_tooltip = "音声キャプチャサンプルレートは、4000,6000,8000,12000,24000 のいずれかです。",
