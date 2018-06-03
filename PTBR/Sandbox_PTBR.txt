@@ -156,7 +156,7 @@ Sandbox_PTBR = {
 	
 	Sandbox_FireSpread = "PROPAGAÇÃO DO FOGO:",
 	
-	Sandbox_AllowExteriorGenerator = "GERADOR FUNCIONANDO EM LOCAIS EXTERIORES:",
+	Sandbox_AllowExteriorGenerator = "GERADOR FUNCIONANDO EM LOCAIS EXTERNOS:",
     Sandbox_AllowExteriorGenerator_tooltip = "Se habilitado, os geradores funcionarão em azulejos externos, permitindo, por exemplo, energizar a bomba de gasolina.",
 	
 	-- Natureza
@@ -442,7 +442,7 @@ Sandbox_PTBR = {
 	Sandbox_TrafficJam = "CONGESTIONAMENTO DE CARROS ACIDENTADOS/QUEBRADOS:",
 	Sandbox_TrafficJam_tooltip = "Ative ou desative os congestionamentos de tráfego que aparecem nas principais estradas do mapa.",
 	
-	Sandbox_CarAlarmFrequency = "FREQUENCIA DE ALARME DE CARROS:",
+	Sandbox_CarAlarmFrequency = "FREQUÊNCIA DE ALARME DE CARROS:",
 	Sandbox_CarAlarmFrequency_option1 = "Nunca",
 	Sandbox_CarAlarmFrequency_option2 = "Extremamente Rar",
 	Sandbox_CarAlarmFrequency_option3 = "Raro",
@@ -453,7 +453,7 @@ Sandbox_PTBR = {
 	Sandbox_PlayerDamageFromCrash = "JOGADOR MACHUCADO POR BATIDAS:",
 	Sandbox_PlayerDamageFromCrash_tooltip = "Ativar ou desativar o jogador recebendo dano por estar em um acidente de carro.",
 	
-	Sandbox_SirenShutoffHours = "HORAS DE SIRENE ATÉ SE DESLIGAR:",
+	Sandbox_SirenShutoffHours = "HORAS ATÉ A SIRENE SE DESLIGAR:",
 	Sandbox_SirenShutoffHours_tooltip = "Número de horas antes que o som da sirene pare de ser reproduzido. \ N0.0 significa reproduzir até que a bateria esteja esgotada.",
 	
 	Sandbox_CarDamageOnImpact = "DANO AO CARRO NO IMPACTO:",
