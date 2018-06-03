@@ -1,4 +1,5 @@
 Stash_PTBR = {
+	--Build 39.6
 Stash_AnnotedMap = "Mapa Anotado",
 Stash_MulMap1_Text1 = "Aqui. No piso.",
 Stash_MulMap1_Text2 = "machado?",
@@ -35,7 +36,7 @@ Stash_MulMap13_Text1 = "ficou no meio do caminho, mas teve que deixar tudo aqui 
 Stash_MulMap13_Text2 = "muita engrenagem ainda na loja de ferragens",
 Stash_MulMap13_Text3 = "Tiros",
 Stash_WpMap1_Text1 = "Com certeza, era aqui que ele morava",
-Stash_WpMap1_Text2 = "muito forte para usar, não dispare perto daqui pelo amor de Deus";
+Stash_WpMap1_Text2 = "muito forte para usar, não dispare perto daqui pelo amor de Deus",
 Stash_WpMap2_Text1 = "acho que ela morava por aqui",
 Stash_WpMap2_Text2 = "centro médico",
 Stash_WpMap2_Text3 = "encontrei ela andando por aqui, não estava armada",
@@ -95,4 +96,5 @@ Stash_RosewoodStashMap3_Text1 = "Fui e encontrei uns equipamentos para nos ajuda
 Stash_RosewoodStashMap3_Text11 = "Casa antiga da Mãe. Te vejo lá x",
 Stash_RosewoodStashMap3_Text2 = "deve ter armas aqui - provávelmente",
 Stash_RosewoodStashMap3_Text3 = "não vá por este caminho",
-};
+
+}
