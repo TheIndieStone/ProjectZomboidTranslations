@@ -336,5 +336,14 @@ Recipe_TR = {
 	Recipe_Rip_Clothing = "Giysiyi Yýrt",
 	Recipe_Make_Small_Metal_Sheet = "Küçük Metal Sac Yap",
 	Recipe_Wash_Clothing = "Giysiyi Yýka",
+	Recipe_Make_Cold_Cuppa = "Soðuk Ýçecek Hazýrla",
+	Recipe_Make_Hot_Cuppa = "Sýcak Ýçecek Hazýrla",
+	Recipe_Advanced_Mechanics = "Ýleri Seviye Tamircilik",
+	Recipe_Intermediate_Mechanics = "Orta Seviye Tamircilik",
+	Recipe_Basic_Mechanics = "Düþük Seviye Tamircilik",
+	Recipe_Make_Metal_Containers = "Metal Depolama Alaný Yap",
+	Recipe_Make_Metal_Fences = "Metal Çit Yap",
+	Recipe_Make_Metal_Roof = "Metal Çatý Yap",
+	Recipe_Make_Metal_Walls = "Metal Duvar Yap",
 
 }
