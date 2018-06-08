@@ -849,5 +849,7 @@ IGUI_EN = {
     IGUI_VehicleLightbar_WALL = "WALL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Seat Occupied",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "I can not get out of a moving car.",
+    IGUI_ConfirmLeaveGame = "Leave game?",
 }
 

@@ -1,84 +1,315 @@
-[VERSION] 38.22
+[VERSION] 39.66.3
 [NEWS]
-[BOLD]New map area added! The spawn-point town of Riverside, the nearby Knox Heights Country Club, Spa and Golf Course, and many/varied wilderness areas are now ripe and ready for exploration.
-[DOT2]Found west of West Point, and is of equivalent size.
-[DOT2]Contains new building types, architecture and item tiles.
-[DOT2]Includes Riverside lootable map
-[BOLD]World View update
-[DOT2]The homes, businesses, advertizing hoardings and outhouses are now seen in all their glory - rooftops and all. Building levels above the player are ONLY hidden for the 'current building'.
-[DOT2]Windows must now be peeked through by walking up to them, and looking through.
-[DOT2]Higher levels blocking your view are removed on approach, and hen zombie hazards are present.
-[DOT2]Exterior walls are no longer stencilled to transparent when you're outside unless they are actually blocking the view of your character.
-[BOLD]MP and Co-op Improvements
-[DOT2]Zombie placement and movement data shared between players heavily optimized to address cases of zombie lag, zed teleportation, unfair bites and general server strain.
-[DOT2]'Server Save' pause server option for larger servers that pauses the action when saving, reducing instances of sudden zombie lag.
-[DOT2]Added a "Level Up" button on the player stats UI to quickly level up a perk without using global point.
-[DOT2]Added an UI for admin to manage player's inventory.
-Added a n easy way for modders to add columns to their scrolling lists.
-Added 'deadzone' options to settings to alleviate problems with gamepad players sleeping.
-[BOLD]Corpse Management
-[DOT2]You can now dig graves with a shovel and bury multiple corpses inside.
-[DOT2]New carpentry crafting items: wooden cross, a cairn and a wooden memorial picket to go alongside the graves you dig.
-[DOT2]Large piles of rotten corpses will make you feel ill and sad if you stay close to them for extended periods.
-[BOLD]Added new Sandbox options:
-[DOT2]Generator Spawn: Increase/decrease the chance of electrical generators spawning on the map.
-[DOT2]Generator Fuel Consumption: Impacts how much fuel is consumed by generators. A generator that needs no fuel should be set to 0.0. (Replaces GeneratorFuelConsumed server option)
-[DOT2]Randomized House Chance: Increase/decrease probability of discovering randomized safe houses on the map: either burnt out, containing loot stashes, dead survivor bodies etc.
-[DOT2]Annotated Map Chance: Impacts on how often a looted map will have annotations marked on it by a deceased survivor.
-[DOT2]Zombie Construction Damage: Governs whether or not zombies can destroy player constructions and defences.
-[DOT2]Free Trait Points: Adds free points during character creation.
-[DOT2]Player-built Construction Strength: Gives player-built constructions extra hit points so they are more resistant to zombie damage.
-[DOT2]Day/Night Active Zombies: Governs whether zombies are more active during the day, or whether they act more nocturnally. Inactive zombies will be slower, and tend not to give chase.
-[DOT2]Nocturnal Darkness: Governs how dark it gets at night.
-[DOT2]Injury Severity: Increase and decrease the impact that injuries have on your body, and their healing time.
-[DOT2]Bone Fracture: Enable or disable broken limbs when survivors receive injuries from impacts, zombie damage and falls.
-[DOT2]Time Before Corpse Removal: Number of in-game hours before zombie corpses are automatically removed from the map. (Replaces former HoursForCorpseRemoval server option).
-[DOT2]Decaying Corpse Health Impact: Governs impact that nearby decaying bodies has on the player's health and emotions
-[DOT2]Clothing Degradation: Governs how quickly clothing degrades, becomes dirty and bloodied - or if it does at all.
-[DOT2]Randomization of zombie Speed, Strength, Toughness and Cognition. (Or just Strength, Toughness and Cognition.)
-[DOT2]Fire spread (previously 'No Fire spread' in server options): governs whether or not fire can spread.
-[BOLD]Clothing Degradation
-[DOT2]Clothing can now become dirty over extended periods, dependant on your activities.
-[DOT2]Fighting zombies will make your clothing bloody.
-[DOT2]If you're wearing dirty or bloody clothing over an open wound then chances of infection (normal infection, not zombie) will increase.
-[DOT2]Clothing now also has durability, every time you get hit you'll lose a little.
-[DOT2]Some clothing is more resistant than others.
-[BOLD]Optimization - in preparation for incoming Vehicles build
-[DOT2]Optimized Garbage Collection.
-[DOT2]LightingJNI optimized.
-[DOT2]Fixed surge in memory usage of 2-300 MB that can stall the game.
-[DOT2]Optimized map loading.
-[BOLD]Custom Map Loading change
-[DOT2]New "Select spawn location" screen after map mod selection
-[DOT2]All map mods now load, including spawnpoints.
-[DOT2]A 'multi-map' mod no longer needs to be created. 'Map Mod Priority order' setting added to highlight which maps are given precedence if there are geographical overlaps and conflicts, with warnings also given to player.
+[BOLD]VEHICLES!
+[BOLD]PLEASE NOTE: Due to the massive engine and gameplay changes required for vehicles, game saves from the previous build 38.30 are NOT compatible. If you want to continue your game a Steam beta channel for Build 38.30 has been provided.
+[BOLD]PLEASE ALSO NOTE: Due to these huge changes to the PZ engine we can anticipate many bug reports, and also the potential of operational issues on computer set-ups that weren't part of our IWBUMS beta process. Please report any issues here, and thank you for patience.
+[DOT2]Nine different vehicle models are available, not including variants on these such as branded vans, or emergency vehicles. So the PZ garage runs the gamut from family cars to police sedans, to Spiffo restaurant vans.
+[DOT2]They can be found outside homes and in parking lots, while keys can be found in nearby homes, in the vehicle itself or on the floor. Hotwiring is also a skill option.
+[DOT2]Players can replace spare parts, tyres, suspension, brakes and more, all of which can be damaged by situations such as overuse, off-road driving and collisions.
+[DOT2]Vehicles must be topped up with gas, have charged batteries and each variety of vehicle has its own set of replacement parts for players to add to their chosen transport.
+[DOT2]To accompany vehicles a Mechanic profession and skill have also been added to the game, allowing for increased chances of successful part installation, and trickier repairs.
+[DOT2]The PZ map has been expanded, filling in the countryside between Riverside and Rosewood with farmsteads, camp sites and various nooks and crannies to explore in your cars, vans and ambulances. The official PZ online map has been updated with this.
+[DOT2]A lot of optimization has been done under the hood to make way for vehicles: general map streaming performance, garbage collection improvements, UI framerate changes, rendering of non-visible internal tiles to provide smoother play around tall buildings etc.
+[BOLD]Other new stuff:
+New Sandbox options: CarDamageOnImpact, CarGeneralCondition, Enable Car Wreck Congestion etc.
+Player craftable double doors and gates (wooden and metal) added to allow for vehicle storage in player-constructed bases.
+Added darkening to levels below player's z height to help sense of depth between levels.
+Added an AllowExteriorGenerator Sandbox option. This allows generators to power exterior tiles, and for example can get gas pumps working after the electricity has turned off.
+Changed Xmx values to 1200 from 768 for 32/64 clients (should avoid too many pauses due to the garbage collector).
+Switched to a Cellular Automaton (from a Mersenne) algorithm for RNG: this could be tough for players to see an impact, but changes in value should be less erratic). Also changed the seed generation. Now doing 2 seeds, one for Lua, one for Java.
+Changed loot respawning to work at regular intervals. Starting at 7AM on the first day, loot respawns according to the LootRespawn sandbox option (in singleplayer) or the HoursForLootRespawn server option. So if loot is set to respawn every 24 hours, it will respawn at 7AM every day. There is a new sandbox option SeenHoursPreventLootRespawn. When > 0, loot will not respawn at the next loot-respawn time in zones that have been seen within that many hours.
+Display progress when converting an old save to a new world version.
+Added font-size option for inventory (and carpentry) tooltips.
+Added line in literature tooltip to reflect when recipes are already unlocked by Profession and/or Traits.
+Added debug scenarios to help in testing for devs and modders (Create a new character quickly from Main Menu, setup params, sandbox options etc. Check lua/client/DebugUIS/Scenario/DebugScenario, can only be used in Debug).
+Added a -Dnosave argument in the command line for devs and modders. Use it to stop world saves when testing involves the creation of lots of new characters
+Added debug option to display circle around character's feet.
+Added UI for admins to inspect number of network packets sent/received.
+Added tooltip showing Username on the Scoreboard and Mini-Scoreboard.
+Added tooltip to Claim Safehouse context menu option when player hasn't survived long enough to be allowed to join.
+Increase java heap max size on the Mac to match Windows/Linux (1200 MB).
+Added "Quit to Desktop" button for when errors occur while loading a game.
+Added "/safehouse release" command so clients can release a safehouse they own.
+Added Moveables.txt translation file (for moveable-object names).
+Added MultiStageBuild.txt translation file (for creating/upgrading walls).
+UI now displays multi-stage build options even if a required recipe is unknown.
+Added "ReloadWeapon" keybind ('R' by default).
+Added support for duplicate keybindings and made changes to vehicle keybindings.
+ESC key / B-button now cancels timed actions.
+PlayerDownloadServer saves zip files to memory instead of to disk. This may improve lag issues.
+Added CompostTime sandbox option.
+DayLength sandbox option now allows all hours up to 24.
+Added new town zones and foraging zones, especially around Riverside.
+Added mailboxes to Riverside, alongside other general decoration map-wide.
+Added "ItemNumbersLimitPerContainer" server option. It should be used to limit the numbers of items possible into one container.
+In-game UI renders to a separate texture FBO at a lower framerate for optimisation purposes. (This can be disable in Options should it be desired.)
+Doors can now be locked from inside without a key - including commercial buildings.
+Added "Fill Grave" command to fill a grave to its capacity of five corpses.
+Added better zoom in / zoom out radial-menu icons.
+Added ErosionDays sandbox setting. (-1 means no erosion. 0 means use the existing ErosionSpeed option.  Any other value is the number of days until 100% growth. The maximum value is 36,500 days - 100 years).
+Digital-watch alarms now beep for 30 in-game minutes before shutting off.
+Added a warning to the Generator Info window and context-menu tooltips about toxicity.
+Added missing options to the server-settings editor.
+Player must face doors when locking/opening/unlocking.
+Increased max java heap size to 2GB on 64-bit clients.
+Increased map-download timeout from 30 to 60 seconds while connecting.
+Client now downloads 20 chunks at a time while connecting to avoid timeouts.
+Required skill level in the furniture-moving tooltip now shown.
+Added individual translations for most Sandbox option values.
+Added DebugOptions.TranslationPrefix to show an * before translated strings.
+Inventory/loot windows now show a resize indicator when the mouse is between column headers.
+Added context option for placing movables
+Updated credits
+Added a new 'Press 'R' to rotate during construction' tool tip to minimise Sasha's rotation despair
+Made microwave/oven UI background a bit darker to improve visibility.
+Host screen now displays an error and prevents launching servers with unsupported WorldVersion.
+Sprites added to IsoObjectPicker.ThisFrame now limited to those near the mouse.
+Updated server tool box invite player message.
+Added ability to place one oversized item (item bigger than floor capacity) on the floor.
+The multiplayer Tickets UI now handles long and multi-line tickets.
+Updated newtiledefinitions.tiles with new FloorHeightXXX tile properties
+Allow WallOverlay sprites to be used without an underlying wall sprite. (Mash uses these in a number of places but they've never appeared in-game.)
+Game now allows only one faction invite dialog at a time from another user.
+Rooms named emptyoutside (used by roof-hiding) are no longer treated as interior rooms. Emptyoutside rooms were placed in BuildingEd on roof-like bits that stick out from buildings as well as covered areas (at gas stations for example).
 [BALANCE]
-Increased nutrition values of fish and berries slightly.
-Increased player construction hit points.
-Removed Starting Year sandbox option.
-TV and Radio programmes now have an impact on the character's moodles. If watching an instructional show then an XP multiplier is received.
-Sleeping outside in rain will wake players up, unless they are in a tent or under a player made structure with roof.
-First aid kits now spawn with sterilized bandages, rather than regular bandages.
-Can now sterilize bandages in a boiling pot of water.
-Mattresses can now be made using a suture needle as well as a regular needle.
-Spices now usable as the first item in pasta/rice (eg. marinara).
+Reduced zombie corpse weight to 20.
+Increased locations where antibiotics can be found.
+Increased chance of finding plush Spiffo.
+Increased chance/locations where ammunition, shovels, cigarettes, lighters, antibiotics, Canning items, Barbed Wire, Milk and Empty Sandbags spawn.
+Updated close, pin and unpin UI icons.
+Nerfed the speed at which clothes become dirty.
+Increased radio transmission range for walkie-talkies etc. (Since radios were added the map has grown, and the transmission ranges had not been adjusted to fit it.)
+Foraging previously caused both fatigue and sleepiness, but the sleepiness has now been reduced.
+Radio/TV XP increased, and fixed discrepancy in bonus for halo display.
+Equipped umbrellas now prevent player from getting wet when out in the rain.
+Player can remove glass by hand (takes double the amount of time to accomplish than tweezers).
 [BUG FIX]
-Fixed water pouring bug.
-Fixed zombie memory "none" sandbox option not working.
-Fixed a bug with phases of the moon not affecting ambient light at night.
-Fixed street lights still being active when electricity was down.
-Fixed being able to access rival player's safehouses through cheeky carpentry cheating.
-Fixed being able to climb through windows into a player's safehouse.
-Fixed multiple aspects of UI not working with a gamepad (foraging, lootable maps, sandbox options etc.)
-Large amounts of small items will now correctly fill up container space available.
-Fixed Book Reading interrupted when player aims a weapon.
-Fixed Characters losing fraction of XP on save.
-Added missing "spawn point" options in the server settings GUI.
-Added missing 'world filler' sprite visuals.
-Fixed possible bug with alarm being reset.
-Fixed always raining when loading/starting a game.
-Fixed rare bug with the crafting UI.
-Fixed a bug with the getLightFoodMod() calculation.
-Fixed evolved recipe drinks not being able to be drunk when an item could be added to it (the coffee bug).
-Fixed Voice Manager being enabled in SP. (Should give slight improvement in FPS, especially on slower systems)
-Fixed crafting issue with Hot Cuppa.
+Fixed not being able to click on carpentry crates south and east of the player.
+Fixed garbage collection issue in Spiffo tutorial window. [Spiffo was a villain all along :(
+Fixed rendering of railings caused by incorrect tile property.
+Fixed shoved zombies being drawn behind walls.
+Fixed walls obscuring the player when on a staircase.
+Fixed amount of rotten spice used.
+Fixed not being able to rotate furniture.
+Fixed the game displaying (fresh) after item names in recipe tooltips in the inventory window.
+Fixed obsolete farming.Milk item being in two recipes.
+Fixed traps not catching animals.
+Fixed zombies not seeing a player that respawned after death in-game.
+Fixed player respawning in safehouse when SafehouseAllowRespawn=false.
+Fixed crafting sometimes taking tool from a bag when one is in main inventory.
+Fixed player facing the wrong way when turning a stove on/off.
+Fixed Loot Window displaying the "Transfer All" button which does nothing.
+Fixed "ran out of unique zombie id numbers" by limiting real zombies to 32768.
+Fixed "ERROR sendItemsToContainer invalid object index" in console.
+Fixed radio/TV static sounds not respecting different framerates.
+Fixed Override:true not working for recipes with "." in the name.
+Fixed zombies being attracted to lightswitches at night when the lightswitch was loaded/synced.
+Fixed Obsolete:true in recipes not working with translated recipe names.
+Fixed burnt/survivor/stash houses not always spawning.
+Fixed position of game-speed controls in splitscreen.
+Fixed post-death UI not being removed in splitscreen.
+Fixed multiple generators interfering with each other.
+Fixed keys not working on exterior doors with roofs over them.
+Fixed trees being on blends_natural floor tiles and being invisible.
+Fixed ZombieLore and ZombieConfig sandbox settings resetting.
+Fixed thread contention between WorldStreamer and main thread.
+Fixed plant info mysteriously saying "???". Now states "Unknown" instead.
+Fixed context menu for curtains showing when standing outside a building.
+Fixed server logs being spamming by Zzzzzz & radio static sounds.
+Fixed resetting server option to default value in admin UI.
+Fixed IsoSprite.canBeRemoved not being set.
+Fixed UIManager.useUIFBO getting set to true in MainScreenState
+Fixed WindowN/W sprite properties changing from String to IsoFlagType.
+Fixed Disassemble option showing for partially-destroyed multi-tile objects.
+Fixed pathfinding info not updating when objects are destroyed by fire.
+Fixed player sneak animation playing too rapidly at certain angles with the controller.
+Fixed flickering door highlight when a key-tooltip is displayed.
+Fixed zombies pushing the player they're attacking.
+Fixed boolean server options accepting any string.
+Fixed savefiles from newer versions of the game throwing errors - instead they just won't be loaded.
+Fixed reloadVehicles() debug command not reloading textures.
+Fixed pressing Escape key in chat cancelling actions.
+Fixed path-smoothing for zombies to improve performance of hordes.
+Fixed not being able to right-click on other players in multiplayer.
+Fixed walking-on-the-spot when zombies move through hedges.
+Fixed malformed SuburbsDistributions causing exceptions in ItemPickerJava
+Fixed some controller issues with map UI.
+Fixed inventory highlight color when using a controller with off-screen rendering.
+Fixed zombies playing multiple idle sounds in multiplayer.
+Fixed exception right-clicking a Mug of Water with Sugar in inventory.
+Fixed UI colors so that they're closer to what's seen when not drawing the UI into an offscreen image.
+Fixed building walls not being possible behind staircases.
+Fixed column order in server whitelist tables.
+Fixed "connection lost" message when client's Lua files don't match the server's.
+Fixed alarm clocks only waking players on levels 0,1,2 inside pre-existing buildings.
+Fixed IsoWindowFrame working for IsoThumpable.
+Fixed microwave/stove timers not counting down.
+Fixed hot/cold background colors of food being faded compared to earlier versions.
+Fixed recipe food ingredients appearing available when multiples are required.
+Fixed usernames showing for splitscreen players when "Show your username" is false.
+Fixed UI confusion by renaming "Generator" to "Generator Maintenance", "Herbalist" to "Herbal Remedies"
+Fixed crafting UI rendering parts of itself when collapsed.
+Fixed gunshots/screams/dog-bark events happening when MetaEvent sandbox options is set to 'Never'
+Fixed move-furniture tooltip texture position.
+Fixed some untranslated controller prompts.
+Fixed Wire Fence and Big Wire Fence not being buildable with ISBuildMenu.cheat=true
+Fixed digging graves not being allowed on level 7.
+Fixed container overlays not updating when rotten food is destroyed.
+Fixed radio/TV broadcasts not giving bonuses to all players in splitscreen.
+Fixed TV broadcasts not always giving bonuses like radios do.
+Fixed grocerystorage garbage being stocked with fresh food.
+Fixed missing overlay sprite on corner shelf furniture_shelving_01_8
+Fixed various map bugs by placing a floor tile on level 0 if there isn't already one
+Fixed zombie visibility not working right in splitscreen.
+Fixed position of skull icon in load-game UI.
+Fixed map-loading errors when there are unknown types of items on the ground.
+Fixed game freezing when hundreds of nearby zombies play footstep sounds.
+Fixed metal-barricade sound not playing in MP, or for IsoThumpables.
+Fixed chop-tree action stopping too soon when the player's endurance is low.
+Fixed food cooking for too long once it has been removed from heat.
+Fixed hardcore difficulty using the wrong XP multiplier on Beginner/FirstWeek.
+Fixed prone zombies being pushed by non-prone zombies on the client.
+Fixed solidtrans objects adjacent to window frames (without windows) blocking movement
+Fixed zombie sprite being set to null when creating corpses. This could cause errors when the same zombie was reused later.
+Fixed object modData not being sent to other clients (number of corpses in a grave wasn't synced)
+Fixed SoundBankEmitter occlusion when first starting a sound
+Fixed digital-watch alarm-sound restarting when transferring items.
+Fixed inconsistent use of IsoCell.ProcessItems and ProcessItemsRemove
+Fixed some useful methods from Food not also being in InventoryItem
+Fixed IsoWaveSignal.AddDeviceText() null pointer on the server.
+Fixed new MP players spawning with extra loot from lower difficulty levels.
+Fixed new Sandbox games using whatever difficulty was last selected.
+Fixed 'exterior' flag not being removed for squares under roofs when loading a fresh chunk.
+Fixed being able to lock/unlock doors that require a key by right-click while under a roof.
+Fixed sound not working in split-screen when player 1 has the Deaf trait.
+Fixed sounds of some actions not attracting zombies.
+Fixed Server not terminating early if WorldVersion is unsupported.
+Fixed ISBarricadeAction using the wrong perk to determine the amount of noise made.
+Fixed right-clicking on things being glitchy in split-screen.
+Fixed server not preloading areas of the map while clients are connecting.
+Fixed world not redrawing when the window is resized.
+Fixed Deaf people hearing radio or TV.
+Fixed read option being available while sleeping.
+Fixed frozen food being usable in recipes from crafting menu.
+Fixed layout of the Reloading options
+Fixed NumChasingZombies being incremented for the wrong player in splitscreen.
+Fixed sleeping players panicking from seeing zombies.
+Fixed DrainableComboItem.updateWeight() possibly using an invalid item type.
+Fixed issues with stove and microwave power checks.
+Fixed "Press R to rotate" position in carpentry tooltips.
+Fixed stacking/unstacking logs giving carpentry XP.
+Fixed three bugs with chunk checksums - one of which was in IsoChunk: if HoursForLootRespawn=0 (the default)
+Fixed multi-tile objects not checking if sibling positions have power.
+Fixed bug in DeviceData concerning worldsounds.
+Fixed sound emitters being created for IsoSurvivor
+Fixed zombies not responding to some sounds.
+Fixed pathfinding garbage collection
+Fixed IsoWorld.emitterUpdate from being OnceEvery to counting milliseconds to avoid built up sounds.
+Fixed mod .tiles sprite property values being wrong (Issue 1376)
+Fixed collision/pathfinding/vision when loading chunks.
+Fixed Moveables.txt translations not being used in Disassemble menu or inventory window.
+Fixed player's "Survived For" time, which was increasing twice as fast as it should in MP.
+Fixed visibility/pathfinding glitch along chunk boundaries.
+Fixed roof-hiding code not updating when players build new floors.
+Fixed position of skull icon in load-game UI.
+Fixed map-loading errors when there are unknown types of items on the ground.
+Fixed nullPointer when uninstalling a vehicle part.
+Fixed a bug with -dnosave.
+Fixed game freezing when hundreds of nearby zombies play footstep sounds.
+Fixed metal-barricade sound not playing in MP, or for IsoThumpables.
+Fixed chop-tree action stopping too soon when the player's endurance is low.
+Fixed food cooking for too long once it has been removed from heat.
+Fixed Hardcore difficulty using the wrong XP multiplier on Beginner/FirstWeek.
+Fixed prone zombies being pushed by non-prone zombies on the client.
+Fixed solidtrans objects adjacent to window frames (without windows) blocking movement.
+Fixed accounts with access level other than "none" counting towards MaxAccountsPerUser.
+Fixed wrong translation being used in quit-faction dialog.
+Fixed invisible players being pushed by zombies to make admin testing easier
+Fixed newly-built floors not always being rendered right away.
+Fixed television appearing to be powered when it was loaded after the power shuts off.
+Fixed map UI issues when using a controller.
+Fixed some dialogs accessed from the inventory window not being closeable using a controller.
+Fixed exception locking/unlocking player-made doors.
+Fixed double-object furniture giving full material for each object when disassembled.
+Fixed multiplayer user panel button saying 'Quit' when 'Close' is more appropriate
+Fixed server exception when rotten food becomes compost.
+Fixed a missing wall near 6126,6724,1.
+Fixed GC issues by wiping the large 'objects' tables (the list of zones)
+Fixed some roof-hiding glitches by updating some cells
+Fixed ping@ping being printed to console when hosting a game.
+Fixed lighting on 1/3 and 2/3 height flat roof tiles.
+Fixed bugged Recipe_Make_Metal_Sheet in Recipes_FR.txt
+Fixed only wooden player-made floors being hidden when they block sight of the player.
+Fixed IsoZombie.itemsToSpawnAtDeath not being cleared when reusing zombies.
+Fixed -debugtranslation prints missing recipe names from TeachedRecipes in items.
+Fixed translationProblems.txt was missing the name after MultiStageBuild_ lines.
+Fixed News_XX.txt file not being closed after reading, being read twice with English translation
+
+[VERSION] 39.67.2
+[NEWS]
+Added Linux version of libPZBullet64 without OpenGL for headless servers.
+Added Linux version of libPZBullet64 without OpenGL for headless servers.
+Added proper physics to open double doors.
+Added "Pan camera while aiming" display option.
+Cell grid now drawn in the lua debugger map.
+Pressing 'T' in the lua debugger map now teleports player 0 to that location.
+Added the ability to smash the car window that a player is facing using right click in the car's context menu.
+Added "remove vehicle" using the right click context menu if you are in debug or an admin.
+Admins or people in debug mode can now open the Vehicle Mechanics screen instantly while inside a car.
+Added a Car Battery Charger item. It is used to charge your car battery if you have electricity around you (generator included).
+Added PZBullet and trove.jar to various Steam build scripts.
+Added 32bit PZBullet for Linux.
+Show Dig Graves in context menu when clicking on appropriate ground tiles only.
+Dirty Rags may be used as tinder or fuel in campfires.
+Vehicle key is returned to the keyring it came from when removing it from the ignition.
+[BALANCE]
+Increased the spawn rate of mechanic tools in car trunks.
+Lowered the panic increase caused by zombies when player is in a vehicle.
+Increased the knockback done to car when ramming zombies.
+[BUG FIX]
+Fixed VOIP not working.
+Fixed issues with players riding shotgun in MP being teleported to elsewhere on the map by preventing drivers from entering areas of the map that haven't been loaded in their passengers' game.
+Fixed client doing collision checks for zombies that should only be done on a server.
+Fixed zombie positions not updating on the client correctly.
+Fixed zombie animations not updating on the client when near a vehicle.
+Fixed trove.jar not being on Mac StartServer scripts.
+Fixed Server not directing admins to 38.30(pre-vehicles) branch when trying to load an old world.
+Fixed potential slowdown by not calling getResourceAsStream() in IndieFileLoader.
+Fixed "Bad file descriptor" bug on Linux (hopefully, please let us know if you see this)
+Fixed linux issues by rebuilding Linux libZNetJNI64.so
+Fixed "Auth failed response" message on server when a client disconnects.
+Fixed issues around server sending map_zone.bin to clients.
+Fixed pzbullet/CMakeLists.txt
+Fixed linux issues by updating Linux PZBullet.so and PZBulletNoOpenGL64.so
+Fixed unpinned inventory/loot window time auto-collapsing at different framerates.
+Fixed zombies near player 1 overlapping each other when player 2 was far away in split-screen.
+Fixed longstanding visual glitch when climbing over something onto a staircase below.
+Fixed potential infinite loops by adding sanity checks when loading map_zone.bin.
+Fixed VoiceManager.DeinitVMClient() not terminating the thread properly.
+Fixed exception cooking items with both BadInMicrowave and ReplaceOnCooked.
+Fixed line spacing in the in-game changelog.
+Fixed exception causing return to main menu with Bedford Falls and other maps with buggy .lotheader files.
+Fixed missing RCON .class files.
+Fixed clothes becoming dirty even if the sandbox option was disabled.
+Fixed some debug messages players don't need.
+Fixed checking doors to enter a vehicle checking hood/bonnet.
+Fixed checking windows to enter a vehicle not seeing if a window had been smashed.
+Fixed car batteries being created at 50% charge on most spawns.
+Fixed Driving on player-made wood floor being considered as offroad and damaging vehicle.
+Fixed VehicleInterpolationData objects not being reused.
+Fixed in-game changelog not displaying changes to previous versions of the game.
+Fixed issues with vertical force to vehicles after collisions with objects/zombies.
+Fixed vehicle headlights being slow to turn on and off.
+Fixed vehicle positions not updating for passengers after a collision.
+Fixed Multi-core rendering not working on Linux.
+Fixed linux server issues by removinf -XX:-CreateCoredumpOnCrash from Linux server .json.
+Fixed seeing key icon above another player's head when near a vehicle.
+Fixed further linux issues by adding -XX:-CreateMinidumpOnCrash -XX:-CreateCoredumpOnCrash -XX:-OmitStackTraceInFastThrow to server .bat/.json.
+Fixed collisions between vehicles and zombies being counted when the vehicle is stationary.
+Fixed small car's plate number being stretched.
+Fixed flat building roofs being hidden when the player was obscured by player-built floors.
+Fixed roof on lot_house_small_36.tbx.
+Fixed a missing wall in a house near 13814,4682.
+Fixed trunk capacity not always updating when it should on the client.
+Fixed wrong end of a vehicle taking damage after a collision in multiplayer sometimes.
+Fixed DropOffWhiteListAfterDeath only working for accesslevel that isn't "none" (reverse of what was intented).
