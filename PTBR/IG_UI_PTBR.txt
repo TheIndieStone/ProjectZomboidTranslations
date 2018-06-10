@@ -881,5 +881,7 @@ IGUI_TradingUI_YourOffer = "Sua oferta",
     IGUI_VehicleLightbar_WALL = "PAREDE",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Assento ocupado",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "Eu não posso sair de um carro em movimento.",
+    IGUI_ConfirmLeaveGame = "Deixar o jogo?",
 	IGUI_RadialMenuKeyToggle = "Exibir/ocultar o menu radial sempre que você pressionar a tecla",
 }
