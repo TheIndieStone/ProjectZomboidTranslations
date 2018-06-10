@@ -166,8 +166,8 @@ IGUI_PTBR = {
 	IGUI_Controller_Interact = "Interagir",
 	IGUI_Controller_Inventory = "Inventário",
 	IGUI_Controller_Loot = "Pegar",
-	IGUI_Controller_RotateLeft = "Rodar para a esquerda",
-	IGUI_Controller_RotateRight = "Rodar para a direita",
+	IGUI_Controller_RotateLeft = "Girar para a esquerda",
+	IGUI_Controller_RotateRight = "Girar para a direita",
 	
 	-- Sleep dialog
 	IGUI_Sleep_Prompt = "Dormir por quanto tempo?",
@@ -368,13 +368,13 @@ IGUI_PTBR = {
 	--movables
 	IGUI_Pickup = "Levantar",
 	IGUI_Place = "Colocar",
-	IGUI_Rotate = "Rodar",
+	IGUI_Rotate = "Girar",
 	IGUI_Scrap = "Desmontar",
 	IGUI_Exit = "Sair",
 	IGUI_Cycle1 = "escolher entre objetos no piso",
 	IGUI_Cycle2 = "escolher entre objetos no inventário",
 	IGUI_Cycle3 = "escolher entre possíveis faces",
-	IGUI_HoldButton = "Segure o botão e mova a seta do mouse para rodar o objeto",
+	IGUI_HoldButton = "Segure o botão e mova a seta do mouse para girar o objeto",
 	IGUI_ToggleMode = "Aperte '%1' para mudar o modo.",
 	
 	IGUI_PickupItem = "Levantar objeto",
