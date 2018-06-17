@@ -901,4 +901,5 @@ DisplayName_Car_Battery = "Bateria do carro",
 DisplayName_Laines_Auto_Manual___Commercial_Models = "Guia para veículos comerciais",
 DisplayName_Laines_Auto_Manual___Performance_Models = "Guia para veículos esportivos",
 DisplayName_Laines_Auto_Manual___Standard_Models = "Guia para veículos padrão",
+DisplayName_Car_Battery_Charger = "Carregador de Bateria de Carro"
 }
