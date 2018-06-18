@@ -2,8 +2,8 @@ IGUI_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.64
-	-- Date 05-25-2018
+	-- Build-39.67.5
+	-- Date 06-15-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -867,5 +867,9 @@ IGUI_JP = {
 	IGUI_Scrap = "アイテムの解体",
 	IGUI_Map_ChooseSymbol = "記号を選択する",
 	IGUI_VehicleSeat_MoveItems = "シートにあるアイテムは別のシートに移動されます。",
-
+	IGUI_PlayerText_CanNotExitFromMovingCar = "動いている車両から外に出ることはできません。",
+	IGUI_ConfirmLeaveGame = "ゲームから離れますか？",
+	IGUI_PlayerText_DoorBarricaded = "ドアがバリケードで塞がれています。",
+	IGUI_PlayerText_DoorBlocked = "ドアが塞がれています。",
+	IGUI_SafehouseUI_Title = "タイトル：",
 }
