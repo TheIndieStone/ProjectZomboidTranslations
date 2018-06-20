@@ -1,4 +1,4 @@
-Farming_JP = {
+﻿Farming_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history

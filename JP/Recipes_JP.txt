@@ -1,4 +1,4 @@
-Recipe_JP = {
+﻿Recipe_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history

@@ -1,4 +1,4 @@
-Stash_JP = {
+﻿Stash_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history

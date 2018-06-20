@@ -1,4 +1,4 @@
-ContextMenu_JP = {
+﻿ContextMenu_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history

@@ -1,4 +1,4 @@
-Moodles_JP = {
+﻿Moodles_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history

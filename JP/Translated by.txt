@@ -2,8 +2,9 @@
 	-- Update history
 	-- Build-39.67.5
 	-- Date 06-15-2018
-	-- â€»ã‚·ã‚¹ãƒ†ãƒ ãŒæ—¥æœ¬èªžã«å¯¾å¿œã—ã¦ã„ãªã„éƒ¨åˆ†ãŒè‹±èªžã§è¡¨è¨˜ã•ã‚Œã‚‹å ´åˆãŒã‚ã‚Šã¾ã™ã€‚
-	-- â€»ã‚¨ãƒ©ãƒ¼ã€è„±å­—ã‚„ã”æ„è¦‹ã€ã”æ„Ÿæƒ³ãŒã‚ã‚‹æ–¹ã¯ã€ä¸‹è¨˜ã®ãƒ•ã‚©ãƒ¼ãƒ©ãƒ ã«ç™»éŒ²ã—ã¦æ›¸ãè¾¼ã‚€ã‹ç›´æŽ¥ä¸‹ã®ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã«ã”é€£çµ¡ãã ã•ã„ã€‚
+	-- ¦ƒVƒXƒeƒ€‚ª“ú–{Œê‚É‘Î‰ž‚µ‚Ä‚¢‚È‚¢•”•ª‚ª‰pŒê‚Å•\‹L‚³‚ê‚éê‡‚ª‚ ‚è‚Ü‚·B
+	-- ¦ƒGƒ‰[A’EŽš‚â‚²ˆÓŒ©A‚²Š´‘z‚ª‚ ‚é•û‚ÍA‰º‹L‚ÌƒtƒH[ƒ‰ƒ€‚É“o˜^‚µ‚Ä‘‚«ž‚Þ‚©’¼Ú‰º‚Ìƒ[ƒ‹ƒAƒhƒŒƒX‚É‚²˜A—‚­‚¾‚³‚¢B
 	-- https://theindiestone.com/forums/index.php?/topic/5405-japanese-translation/&page=1
 	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
+

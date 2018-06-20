@@ -1,4 +1,4 @@
-UI_JP = {
+﻿UI_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
@@ -27,6 +27,10 @@ UI_JP = {
 
 	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>   ",
 	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>   ",
+
+	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>  ",
+	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>  ",
+
 	UI_Details = "更新情報",
 
 	-- Intro (lua)

@@ -1,4 +1,4 @@
-Items_JP = {
+﻿Items_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
