@@ -330,6 +330,8 @@ IGUI_EN = {
 	IGUI_PlayerText_VehicleSomeoneInSeat = "Someone is sitting there.",
 	IGUI_PlayerText_VehicleItemInSeat = "Items are on the seat.",
 	IGUI_PlayerText_VehicleSeatRemoved = "The seat is missing.",
+	IGUI_PlayerText_DoorBarricaded = "The door is barricaded.",
+	IGUI_PlayerText_DoorBlocked = "The door is blocked.",
 
 	IGUI_GamePaused = "- Game Paused -",
 	IGUI_UnknownBerry = "Unknown Berry",
@@ -502,7 +504,7 @@ IGUI_EN = {
     IGUI_AdminPanel_EnableBuildCheat = "Enable Build Cheat Mode",
     IGUI_AdminPanel_TooltipBuildCheat = "Instant build anything in carpentry menu, don't need any material",
     IGUI_AdminPanel_SeeServerOptions = "See Server Options",
-    IGUI_AdminPanel_ModalAdminPower = "YOU CURRENTLY HAVE ADMIN POWER, CLICK HERE TO BECOME A SURVIVOR AGAIN",
+    IGUI_AdminPanel_ModalAdminPower = "YOU CURRENTLY HAVE ADMIN POWER.<br>CLICK HERE TO BECOME A SURVIVOR AGAIN.",
     IGUI_DbViewer_DbViewer = "DB VIEWER",
     IGUI_DbViewer_Refresh = "Refresh",
     IGUI_DbViewer_Modify = "Modify",
@@ -534,6 +536,7 @@ IGUI_EN = {
     IGUI_PlayerStats_ReloadOptionsTooltip = "Click on this to directly reload the options for all clients, otherwise you need to reboot the server or do a /reloadoptions",
     IGUI_PlayerStats_ChangeServerOptionTitle = "CHANGE SERVER OPTION",
     IGUI_PlayerStats_ResetToDefault = "Reset to default",
+    IGUI_SafehouseUI_Title = "Title:",
     IGUI_SafehouseUI_Owner = "Owner:",
     IGUI_SafehouseUI_Release = "Release Safehouse",
     IGUI_SafehouseUI_ConnectedPlayers = "Connected Players",
@@ -849,5 +852,7 @@ IGUI_EN = {
     IGUI_VehicleLightbar_WALL = "WALL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Seat Occupied",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "I can not get out of a moving car.",
+    IGUI_ConfirmLeaveGame = "Leave game?",
 }
 

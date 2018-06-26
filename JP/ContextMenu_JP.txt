@@ -1,9 +1,9 @@
-ContextMenu_JP = {
+﻿ContextMenu_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.64
-	-- Date 05-25-2018
+	-- Build-39.67.5
+	-- Date 06-15-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -26,9 +26,9 @@ ContextMenu_JP = {
 	ContextMenu_Barricade = "バリケードを築く(木板)",
 	ContextMenu_Unbarricade = "バリケードを解体する",
 	ContextMenu_Add_sheet = "布シートを取り付ける",
-	ContextMenu_Open_window = "窓を開ける",
-	ContextMenu_Close_window = "窓を閉める",
-	ContextMenu_Smash_window = "窓を破壊する",
+	ContextMenu_Open_window = "開ける",
+	ContextMenu_Close_window = "閉める",
+	ContextMenu_Smash_window = "叩き割る",
 	ContextMenu_Open_curtains = "カーテンを開ける",
 	ContextMenu_Close_curtains = "カーテンを閉める",
 	ContextMenu_Remove_curtains = "カーテンを取り外す",
@@ -364,7 +364,12 @@ ContextMenu_JP = {
 	ContextMenu_VehicleAddGas = "燃料を入れる",
 	ContextMenu_VehicleSiphonGas = "燃料を抜く",
 	ContextMenu_VehicleRefuelFromPump = "車両に給油する",
-	ContextMenu_VehicleMechanicsStopCar = "車両整備ウィンドウにアクセスするには、車両を止めてください。",
+	ContextMenu_VehicleMechanicsStopCar = "車両整備ウィンドウにアクセスするには、車両を停車させてください。",
 	ContextMenu_NoOptionSleeping = "睡眠を摂っている間は、操作を行うことはできません。",
+	ContextMenu_Vehicle_Smashwindow = "%1を叩き割る",
+	ContextMenu_Vehicle_Closewindow = "%1を閉める",
+	ContextMenu_Vehicle_Openwindow = "%1を開ける",
+	ContextMenu_Vehicle_PlugGenerator = "発電機を車両に接続する",
+	ContextMenu_ChargeCarBattery = "車両バッテリーを充電する",
 
 }

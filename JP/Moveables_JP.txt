@@ -1,9 +1,9 @@
-Moveables_JP = {
+﻿Moveables_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.64
-	-- Date 05-25-2018
+	-- Build-39.67.5
+	-- Date 06-15-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -678,14 +678,8 @@ Moveables_JP = {
 	Zippee_Market_Sign = "看板",
 	Zippee_Shelves_Rack = "商品棚",
 	Zippee_Wall_Shelves = "商品棚",
-
-	-- ISMoveableSpriteProps names
-
 	Moveable_object = "可動するオブジェクト",
 	Scrapable_object = "分解が可能なオブジェクト",
-
-	-- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
-
 	Lamp_on_Pillar = "街灯の柱",
 	Metal_Crate = "金属クレート",
 	Stone_Pile = "石積",
