@@ -344,6 +344,8 @@ IGUI_PTBR = {
 	IGUI_PlayerText_VehicleSomeoneInSeat = "Alguém está sentado lá.",
 	IGUI_PlayerText_VehicleItemInSeat = "Itens estão no assento.",
 	IGUI_PlayerText_VehicleSeatRemoved = "O assento foi removido.",
+	IGUI_PlayerText_DoorBarricaded = "A porta está barricada.",
+	IGUI_PlayerText_DoorBlocked = "A porta está Bloqueada.",
 	
 	IGUI_GamePaused = "- Jogo Pausado -",
 	IGUI_UnknownBerry = "Fruta Desconhecida",
