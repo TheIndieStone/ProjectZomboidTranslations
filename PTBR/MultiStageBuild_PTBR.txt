@@ -1,0 +1,24 @@
+SurvivalGuide_PTBR = {
+    -- Muros de Madeira
+    MultiStageBuild_CreateWoodenWall_1 = "Criar muro de Madeira lvl 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Atualizar muro de madeira para o Lvl 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Criar muro de Madeira lvl 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Atualizar muro de madeira para o Lvl 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Atualizar muro de madeira para o Lvl 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Criar muro de Madeira lvl 3",
+	-- Janelas de Madeira
+    MultiStageBuild_CreateWoodenWindow_1 = "Criar janela de madeira Lvl 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Atualizar janela de madeira para o Lvl 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Criar janela de madeira Lvl 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Atualizar janela de madeira para o Lvl 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Atualizar janela de madeira para o Lvl 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Criar janela de madeira Lvl 3",
+	-- Muros de Metal
+    MultiStageBuild_CreateMetalWall_1 = "Create Metal Wall Lvl 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Atualizar muro de metal para o Lvl 2",
+    MultiStageBuild_CreateMetalWall_2 = "Criar muro de metal Lvl 2",
+    -- Janela de Metal
+    MultiStageBuild_CreateMetalWindow_1 = "Criar janela de metal Lvl 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Atualizar janela de metal para o Lvl 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Criar janela de metal Lvl 2",
+}
