@@ -245,9 +245,8 @@ Fixed -debugtranslation prints missing recipe names from TeachedRecipes in items
 Fixed translationProblems.txt was missing the name after MultiStageBuild_ lines.
 Fixed News_XX.txt file not being closed after reading, being read twice with English translation
 
-[VERSION] 39.67.2
+[VERSION] 39.67.5
 [NEWS]
-Added Linux version of libPZBullet64 without OpenGL for headless servers.
 Added Linux version of libPZBullet64 without OpenGL for headless servers.
 Added proper physics to open double doors.
 Added "Pan camera while aiming" display option.
@@ -262,10 +261,18 @@ Added 32bit PZBullet for Linux.
 Show Dig Graves in context menu when clicking on appropriate ground tiles only.
 Dirty Rags may be used as tinder or fuel in campfires.
 Vehicle key is returned to the keyring it came from when removing it from the ignition.
+Added better support for large fonts.
+Replaced the placeholder car battery charger.
+Added mechanics profession icon.
 [BALANCE]
 Increased the spawn rate of mechanic tools in car trunks.
 Lowered the panic increase caused by zombies when player is in a vehicle.
 Increased the knockback done to car when ramming zombies.
+Decreased the consumption of fuel by generator.
+Lowered the impact of timeSinceApo sandbox & world hour age on spawning car battery.
+Increased a tad the number of cars spawning on Low sandbox setting.
+Increased the spawn rate of remote control.
+Increased the odds to find an animal with trapping.
 [BUG FIX]
 Fixed VOIP not working.
 Fixed issues with players riding shotgun in MP being teleported to elsewhere on the map by preventing drivers from entering areas of the map that haven't been loaded in their passengers' game.
@@ -279,7 +286,6 @@ Fixed "Bad file descriptor" bug on Linux (hopefully, please let us know if you s
 Fixed linux issues by rebuilding Linux libZNetJNI64.so
 Fixed "Auth failed response" message on server when a client disconnects.
 Fixed issues around server sending map_zone.bin to clients.
-Fixed pzbullet/CMakeLists.txt
 Fixed linux issues by updating Linux PZBullet.so and PZBulletNoOpenGL64.so
 Fixed unpinned inventory/loot window time auto-collapsing at different framerates.
 Fixed zombies near player 1 overlapping each other when player 2 was far away in split-screen.
@@ -302,14 +308,37 @@ Fixed issues with vertical force to vehicles after collisions with objects/zombi
 Fixed vehicle headlights being slow to turn on and off.
 Fixed vehicle positions not updating for passengers after a collision.
 Fixed Multi-core rendering not working on Linux.
-Fixed linux server issues by removinf -XX:-CreateCoredumpOnCrash from Linux server .json.
 Fixed seeing key icon above another player's head when near a vehicle.
-Fixed further linux issues by adding -XX:-CreateMinidumpOnCrash -XX:-CreateCoredumpOnCrash -XX:-OmitStackTraceInFastThrow to server .bat/.json.
+Added -XX:-CreateMinidumpOnCrash -XX:-OmitStackTraceInFastThrow to the Windows server .bat/.json.
+Added -XX:-OmitStackTraceInFastThrow to the Linux server .json. 
 Fixed collisions between vehicles and zombies being counted when the vehicle is stationary.
 Fixed small car's plate number being stretched.
 Fixed flat building roofs being hidden when the player was obscured by player-built floors.
-Fixed roof on lot_house_small_36.tbx.
 Fixed a missing wall in a house near 13814,4682.
 Fixed trunk capacity not always updating when it should on the client.
 Fixed wrong end of a vehicle taking damage after a collision in multiplayer sometimes.
 Fixed DropOffWhiteListAfterDeath only working for accesslevel that isn't "none" (reverse of what was intented).
+Fixed client not updating vehicle stats when part condition changes.
+Fixed Linux server failure with libPZBulletNoOpenGL*.so
+Fixed text such as "The door is blocked." being visible above other player's heads in splitscreen.
+Fixed translation for "You failed to produce any usable materials" not being used.
+Fixed words not appearing above the player's head when trying to open barricaded or blocked doors.
+Fixed C/F/R keys activating if identical to the "Toggle Crafting UI" key when displaying the crafting ui.
+Fixed crafting UI appearing in the main menu if the assigned key is pressed.
+Fixed VehicleManager error when more than 64 players are connected.
+Fixed error compiling ProjectZomboid.exe with UNICODE defined.
+Fixed both halves of a grave not being destroyed when using a sledgehammer.
+Fixed pathfinding (and other) data not being updated when remote clients added objects to the map.
+Fixed not being able to climb through carpentry window frames above ground level by holding the E key for half a second.
+Fixed not being able to hop over fences using the controller B button above ground level.
+Fixed not being able to climb down sheetropes when tapping the 'E' key.
+Fixed remote players juddering up and down while climbing sheetropes.
+Fixed display not updating when climbing sheetropes.
+Fixed player not facing fence/window when adding/removing sheetropes.
+Fixed controller context menu missing commands to climb over and add/remove sheetropes to fences.
+Fixed double-tile carpentry objects (like Bed) not consuming materials.
+Fixed scrollbars not working in the options ui when a controller was active.
+Fixed using the controller A-button on a vehicle hood not opening the mechanics ui.
+Fixed aspects of many UIs to handle different font sizes.
+Fixed font-rendering bug from last January.
+Fixed ui not updating when an error occurs setting vsync.

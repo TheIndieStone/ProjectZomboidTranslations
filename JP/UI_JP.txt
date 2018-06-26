@@ -1,9 +1,9 @@
-UI_JP = {
+﻿UI_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.64
-	-- Date 05-25-2018
+	-- Build-39.67.5
+	-- Date 06-15-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,8 +25,11 @@ UI_JP = {
 	UI_mainscreen_exit = "終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.64 <2018年05月25日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.64 <2018年05月25日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>   ",
+
+	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>  ",
+	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>  ",
 
 	UI_Details = "更新情報",
 
@@ -1129,5 +1132,9 @@ UI_JP = {
 	UI_ServerOption_DisableRadioOverseer_tooltip = "チェックボックスを有効にすると、「overseer」アクセスレベルのプレイヤーからの無線送信を無効にします。",
 	UI_ServerOption_DisableRadioModerator_tooltip = "チェックボックスを有効にすると、「moderator」アクセスレベルのプレイヤーからの無線送信を無効にします。",
 	UI_ServerOption_DisableRadioInvisible_tooltip = "チェックボックスを有効にすると、見えないプレーヤーからの無線送信を無効にします。",
+	UI_optionscreen_panCameraWhileAiming = "照準を合わせながらパンカメラ",
+	UI_optionscreen_vehicle_engine_volume = "車両エンジン音量",
+	UI_optionscreen_vehicle_engine_volume_tt = "車両エンジン音の再生音量を設定します。",
+	UI_NewsVersion = "バージョン",
 
 }

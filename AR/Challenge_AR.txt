@@ -1,0 +1,52 @@
+Challenge_ES = {
+
+	-- Build 39.56
+	-- 06-05-2018
+	-- Autor: ditoseadio
+	-- Modificaciones Español-Argentina: zolfuz
+
+	Challenge_YouHaveOneDay_name = "1. Tienes un día",
+	Challenge_YouHaveOneDay_desc = "Estás de vuelta en el condado de Knox. Has vuelto al mapa donde se inició la infección de Project Zomboid. <LINE> <LINE> Tienes un día de relativa seguridad. Los zombies llegarán en gran cantidad, y te encontrarán. ¿Dónde te esconderás para resistir de nuevo? ¿Dónde te escondiste la última vez? Mejor encuéntralo rápido. <LINE> <LINE> [Nuestro agradecimiento a BobHeckling por recrear el mapa de la versión 0.1.5 con las herramientas actuales de PZ.]",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu regreso al condado de Knox se convertirá en un infierno...",
+
+	Challenge_OpeningHours_name = "2. Hora de apertura",
+	Challenge_OpeningHours_desc = "El centro comercial está rodeado. Hace tiempo, fue un lugar importante en sus vidas. El instinto les ha llevado a sus puertas. Un recuerdo de lo que solían hacer... <LINE> <LINE> Estás solo, pero no por mucho tiempo. A las 9AM el centro comercial estará preparado para comenzar el día: las puertas se abrirán, y las hordas entrarán. <LINE> <LINE> Prepárate para ello.",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> El centro comercial abre a las 9AM. <LINE> <LINE> Prepárate para la avalancha...",
+
+	Challenge_WinterIsComing_name = "3. El invierno se acerca",
+	Challenge_WinterIsComing_desc = "Estás a mediados de Julio, pero de repente hace una brisa escalofriante. En apenas tres días el invierno comenzará como ninguno otro antes. <LINE> <LINE> Te despiertas en un lugar aislado. Tienes pocas provisiones, y las hordas de zombies pueden ser ralentizadas por el intenso frío, pero no las hace menos mortales. <LINE> <LINE> Abrígate superviviente...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres días comienza el invierno sin fin. <LINE> <LINE> Abrígate...",
+
+	Challenge_Challenge1_name = "4. La casa en el bosque - Última resistencia",
+	Challenge_Challenge1_desc = "Se les oye acercarse. Hordas de muertos invaden tu solitaria cabaña desde todos los ángulos. La muerte es inevitable, pero hay una escopeta al alcance de la mano. <LINE> <LINE> Última resistencia presenta interminables oleadas de zombies cada vez mayores. Sobrevive el mayor tiempo posible a pesar de las circunstancias.",
+
+	Challenge_Challenge2_name = "5. La casa en el bosque - Última resistencia acumulable",
+	Challenge_Challenge2_desc = "Un día más, otra cabaña lista para la matanza. Las hordas están encima de ti, y tu muerte será tan dolorosa como espantosa. Así que sal a pelear... <LINE> <LINE> Última resistencia acumulable presenta oleadas interminables de zombies cada vez mayores. Usa el dinero ganado matando zombies para comprar equipamiento, subir de nivel y reparar tu armamento.",
+
+	Challenge_AReallyCDDAy_name = "6. Una muerte inminente",
+	Challenge_AReallyCDDAy_desc = "Sales de la ducha y tropiezas. Estás completamente borracho, y tienes un terrible resfriado. <LINE> <LINE> ¡Además la casa está ardiendo! Definitivamente hoy no es tu día. <LINE> <LINE> [Un reto inspirado en A Really Bad Day del impresionante, maravilloso e imprescindible Cataclysm: Dark Days Ahead] ",
+
+
+	Challenge_Challenge2_Carpentry = "Carpintería",
+	Challenge_Challenge2_Health = "Salud",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	Challenge_Challenge2_Money = "Dinero : %1",
+	Challenge_Challenge2_Money2 = "Player %1 money : %2",
+	Challenge_Challenge2_MoneyGained = "Dinero ganado : %1",
+	Challenge_Challenge2_PermanentBonus = "Bonus permanente",
+	Challenge_Challenge2_PressKey = "Pulsa 'o' para un aumento permanente y gastar algo de dinero.",
+	Challenge_Challenge2_RepairWeapon = "Reparar arma",
+	Challenge_Challenge2_Skills = "Habilidades",
+	Challenge_Challenge2_TabItems = "Items",
+	Challenge_Challenge2_TabPlayer = "Jugador",
+	Challenge_Challenge2_TabRepair = "Reparar",
+	Challenge_Challenge2_WaveDuration = "Oleada %1 : %2",
+	Challenge_Challenge2_WaveFinished = "Oleada %1 exterminada en : %2",
+	Challenge_Challenge2_WaveStart = "Oleada %1 en : %2 (pulsa INTRO para saltar)",
+	Challenge_Challenge2_Weapons = "Armas",
+	Challenge_Challenge2_WindowTitle = "Desafío",
+	Challenge_Challenge2_XPGained = "Experiencia ganada : %1",
+	Challenge_Challenge2_ZombiesLeft = "Zombies restantes : %1",
+
+}
