@@ -359,4 +359,9 @@ ContextMenu_TR = {
 	ContextMenu_VehicleSiphonGas = "Depodan Benzin Çek",
 	ContextMenu_VehicleRefuelFromPump = "Pompadan Benzin Al",
 	ContextMenu_VehicleMechanicsStopCar = "Tamir ekranýna eriþmek için,<br>aracý durdurun.",
+	ContextMenu_Vehicle_Smashwindow = "%1'ý Kýr",
+	ContextMenu_Vehicle_Closewindow = "%1'ý Kapat",
+	ContextMenu_Vehicle_Openwindow = "%1'ý Aç",
+	ContextMenu_Vehicle_PlugGenerator = "Jeneratörü Araca Baðlayýn",
+	ContextMenu_ChargeCarBattery = "Arabanýn Aküsünü Þarj Et",
 }

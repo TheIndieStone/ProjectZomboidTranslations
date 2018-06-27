@@ -850,5 +850,6 @@ Items_TR = {
 	DisplayName_Mechanics_for_Beginners = "Yeni Baþlayanlar Ýçin Tamircilik",
 	DisplayName_Mechanics_for_Intermediates = "Düþük Seviye Tamircilik",
 	DisplayName_Car_Battery = "Araba Aküsü",
+	DisplayName_Car_Battery_Charger = "Araç Þarj Cihazý",
 
 }
