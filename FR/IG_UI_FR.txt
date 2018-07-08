@@ -866,4 +866,8 @@ IGUI_Vehicle_SeatOccupied = "Siège occupé",
 	IGUI_PlayerText_CanNotExitFromMovingCar = "Je ne peux pas sortir d'un véhicule en mouvement.",
 	IGUI_ConfirmLeaveGame = "Quitter le jeu ?",
 
+	IGUI_PlayerText_DoorBarricaded = "La porte est barricadée.",
+	IGUI_PlayerText_DoorBlocked = "La porte est bloquée.",
+	IGUI_SafehouseUI_Title = "Titre :",
+
 }
