@@ -368,4 +368,10 @@ ContextMenu_FoodType_Tea = "Herbata",
 	ContextMenu_VehicleMechanicsStopCar = "Aby otworzyæ menu mechanika, zatrzymaj samochód.",
 	
 	ContextMenu_NoOptionSleeping = "Nie mo¿esz tego zrobiæ podczas snu.",
+	
+	ContextMenu_Vehicle_Smashwindow = "Rozbij %1",
+	ContextMenu_Vehicle_Closewindow = "Zamknij %1",
+	ContextMenu_Vehicle_Openwindow = "Otwórz %1",
+	ContextMenu_Vehicle_PlugGenerator = "Pod³¹cz agregat do pojazdu",
+	ContextMenu_ChargeCarBattery = "Na³aduj akumulator pojazdu",
 }

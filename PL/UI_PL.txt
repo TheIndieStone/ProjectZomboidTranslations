@@ -1079,4 +1079,9 @@ UI_ServerOption_DisableRadioGM_tooltip = "Wy³¹cza transmisje radiowe od graczy z
 UI_ServerOption_DisableRadioOverseer_tooltip = "Wy³¹cza transmisje radiowe od graczy z poziomem dostêpu „overseer”.",
 UI_ServerOption_DisableRadioModerator_tooltip = "Wy³¹cza transmisje radiowe od graczy z poziomem dostêpu „moderator”.",
 UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od niewidzialnych graczy.",
+
+	UI_optionscreen_panCameraWhileAiming = "Przesuwanie kamery podczas celowania",
+	UI_optionscreen_vehicle_engine_volume = "G³oœnoœæ silników pojazdów",
+	UI_optionscreen_vehicle_engine_volume_tt = "Brum! Brum! BRUM!",
+	UI_NewsVersion = "Wersja",
 }
