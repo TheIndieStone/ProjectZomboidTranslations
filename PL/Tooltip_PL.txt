@@ -194,4 +194,5 @@ Tooltip_weapon_Sling = "Pas",
 Tooltip_weapon_Stock = "Kolba",
 Tooltip_weapon_Type = "Rodzaj",
 Tooltip_weapon_Unusable_at_max_exertion = "Nie mo¿na u¿ywaæ przy maksymalnym wysi³ku",
+Tooltip_removeBurntVehicle = "Dziêki rozmontowaniu wraku samochodu przy u¿yciu palnika i maski spawalniczej otrzymasz metalowe czêœci i usuniesz wrak z drogi. <LINE> Im wy¿szy poziom spawania tym wiêcej uzyskasz czêœci.",
 }

@@ -374,4 +374,6 @@ ContextMenu_FoodType_Tea = "Herbata",
 	ContextMenu_Vehicle_Openwindow = "Otwórz %1",
 	ContextMenu_Vehicle_PlugGenerator = "Pod³¹cz agregat do pojazdu",
 	ContextMenu_ChargeCarBattery = "Na³aduj akumulator pojazdu",
+	
+	ContextMenu_RemoveBurntVehicle = "Rozmontuj wrak samochodu",
 }

@@ -827,4 +827,6 @@
 	IGUI_SafehouseUI_Title = "Nazwa:",
 	IGUI_PlayerText_CanNotExitFromMovingCar = "Nie mogê wysi¹œæ z jad¹cego samochodu.",
 	IGUI_ConfirmLeaveGame = "Wyjœæ z gry?",
+	
+	IGUI_AdminPanel_SandboxOptions = "Opcje Sandbox",
 }
