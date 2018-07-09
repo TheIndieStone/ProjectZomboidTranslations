@@ -603,6 +603,7 @@ IGUI_EN = {
     IGUI_AdminPanel_TooltipMiniScoreboard = "Self Updating list of players, right click on a player in the list to bring a quick context menu",
     IGUI_AdminPanel_PacketCounts = "Packet Counts",
     IGUI_AdminPanel_TooltipPacketCounts = "Displays number of packets sent and received.",
+    IGUI_AdminPanel_SandboxOptions = "Sandbox Options",
     IGUI_ItemEditor_Title = "Item Editor",
     IGUI_Color = "Color",
     IGUI_ItemEditor_MinDmg = "Damage Minimum",

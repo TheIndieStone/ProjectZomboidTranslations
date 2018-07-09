@@ -247,23 +247,22 @@ Fixed News_XX.txt file not being closed after reading, being read twice with Eng
 
 [VERSION] 39.67.5
 [NEWS]
-Added Linux version of libPZBullet64 without OpenGL for headless servers.
 Added proper physics to open double doors.
 Added "Pan camera while aiming" display option.
 Cell grid now drawn in the lua debugger map.
-Pressing 'T' in the lua debugger map now teleports player 0 to that location.
 Added the ability to smash the car window that a player is facing using right click in the car's context menu.
 Added "remove vehicle" using the right click context menu if you are in debug or an admin.
 Admins or people in debug mode can now open the Vehicle Mechanics screen instantly while inside a car.
 Added a Car Battery Charger item. It is used to charge your car battery if you have electricity around you (generator included).
-Added PZBullet and trove.jar to various Steam build scripts.
-Added 32bit PZBullet for Linux.
 Show Dig Graves in context menu when clicking on appropriate ground tiles only.
 Dirty Rags may be used as tinder or fuel in campfires.
 Vehicle key is returned to the keyring it came from when removing it from the ignition.
 Added better support for large fonts.
 Replaced the placeholder car battery charger.
 Added mechanics profession icon.
+Pressing 'T' in the lua debugger map now teleports player 0 to that location.
+Added Linux version of libPZBullet64 without OpenGL for headless servers.
+Added 32bit PZBullet for Linux.
 [BALANCE]
 Increased the spawn rate of mechanic tools in car trunks.
 Lowered the panic increase caused by zombies when player is in a vehicle.
@@ -283,11 +282,9 @@ Fixed trove.jar not being on Mac StartServer scripts.
 Fixed Server not directing admins to 38.30(pre-vehicles) branch when trying to load an old world.
 Fixed potential slowdown by not calling getResourceAsStream() in IndieFileLoader.
 Fixed "Bad file descriptor" bug on Linux (hopefully, please let us know if you see this)
-Fixed linux issues by rebuilding Linux libZNetJNI64.so
 Fixed "Auth failed response" message on server when a client disconnects.
-Fixed issues around server sending map_zone.bin to clients.
-Fixed linux issues by updating Linux PZBullet.so and PZBulletNoOpenGL64.so
-Fixed unpinned inventory/loot window time auto-collapsing at different framerates.
+Fixed issues around server not sending map_zone.bin to clients.
+Fixed unpinned inventory/loot window time to auto-collapse at different framerates.
 Fixed zombies near player 1 overlapping each other when player 2 was far away in split-screen.
 Fixed longstanding visual glitch when climbing over something onto a staircase below.
 Fixed potential infinite loops by adding sanity checks when loading map_zone.bin.

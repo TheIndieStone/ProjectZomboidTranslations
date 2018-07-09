@@ -21,5 +21,8 @@ MultiStageBuild_EN = {
     MultiStageBuild_CreateMetalWindow_1 = "Create Metal Window Lvl 1",
     MultiStageBuild_UpgradeMetalWindow_1To2 = "Upgrade to Metal Window Lvl 2",
     MultiStageBuild_CreateMetalWindow_2 = "Create Metal Window Lvl 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Upgrade to Wooden Door Frame Lvl 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Upgrade to Wooden Door Frame Lvl 3",
 }
 
