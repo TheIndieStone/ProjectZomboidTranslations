@@ -1026,7 +1026,7 @@ UI_TR = {
 	UI_optionscreen_select_gamepad = "Kontrolcü Seç",
 	UI_ControllerTest_AY4exit = "Çýkmak için A ve Y tuþuna basýn",
 	UI_Close = "Kapat",
-	UI_optionscreen_flies_volume = "Haþere Sesi",
+	UI_optionscreen_flies_volume = "Haþere Sesi Yüksekliði",
 	UI_optionscreen_flies_volume_tt = "Cesetlerin çevresinde oluþan haþere seslerinin seviyesi.",
 	UI_ModsConflicts_ButtonMoveUp_tooltip = "Seçili haritanýn önceliðini yükselt.",
 	UI_ModsConflicts_ButtonMoveDown_tooltip = "Seçili haritanýn önceliðini düþür.",
@@ -1092,5 +1092,9 @@ UI_TR = {
 	UI_ServerOption_DisableRadioOverseer_tooltip = "'Ýdareci' eriþim düzeyine sahip oyunculardan radyo yayýnlarýný almayý devre dýþý býrakýr.",
 	UI_ServerOption_DisableRadioModerator_tooltip = "'Moderatör' eriþim düzeyine sahip oyunculardan radyo yayýnlarýný almayý devre dýþý býrakýr.",
 	UI_ServerOption_DisableRadioInvisible_tooltip = "Görünmez oyunculardan radyo yayýnlarýný almayý devre dýþý býrakýr.",
+	UI_optionscreen_panCameraWhileAiming = "Niþan alýrken kamera hareketine izin ver",
+	UI_optionscreen_vehicle_engine_volume = "Araç Motor Sesi Yüksekliði",
+	UI_optionscreen_vehicle_engine_volume_tt = "Výnnn! Výnnn! VINNN!",
+	UI_NewsVersion = "Versiyon",
 
 }

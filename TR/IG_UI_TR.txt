@@ -842,4 +842,9 @@ IGUI_TR = {
 	IGUI_ServerToolBox_ExternalIP = "Harici IP'niz: %1",
 	IGUI_ServerToolBox_IPUnknown = "Bilinmiyor (router yok?)",
 	IGUI_ServerToolBox_UserConnecting = "%1 baðlanýyor",
+	IGUI_PlayerText_DoorBarricaded = "Kapý barikatlý.",
+	IGUI_PlayerText_DoorBlocked = "Kapýnýn önü týkalý.",
+	IGUI_SafehouseUI_Title = "Ýsim:",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "Hareket eden bir arabadan dýþarý çýkamam.",
+	IGUI_ConfirmLeaveGame = "Oyundan çýkmak istiyor musunuz?",
 }
