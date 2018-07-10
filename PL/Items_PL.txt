@@ -792,4 +792,6 @@ DisplayName_x2_Scope = "Celownik optyczny x2",
 DisplayName_x4_Scope = "Celownik optyczny x4",
 DisplayName_x8_Scope = "Celownik optyczny x8",
 
+DisplayName_Car_Battery_Charger = "Prostownik do akumulatorów",
+
 }
