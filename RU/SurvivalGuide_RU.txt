@@ -37,7 +37,7 @@ SurvivalGuide_RU = {
     SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> УЧЕБНИК ВЫЖИВАНИЯ ZOMBOID <LINE> <SIZE:large> #7 - НЕ ЕШЬ СЫРЫМ! <LINE> <IMAGE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> Выжить так долго для того, чтобы умереть от пищевого отравления? <LINE> <LINE> Приготовленная еда прослужит долго.",
     SurvivalGuide_entrie7moreinfo = " <H1> ГОТОВКА <BR> <TEXT> Курица, лосось и другая пища требует приготовления перед едой. (Ах, опять эти чертовы видеоигры) <BR> Приготовленная еда не только безопасна, она так же повышает настроение, сытость и отгонит голод надолго. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> Чтобы приготовить еду, просто положите её на плиту или в микроволновку. Так же можно использовать костёр, если Вы покинули пределы города. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> Включите плиту правой кнопкой мыши, потом забирайте еду, после её приготовления. Не забудьте выключить плиту после этого. На всякий случай. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
             " <H1> САДОВОДСТВО <BR> <TEXT> Чтобы вырастить собственную еду, найдите совок и немного семян. Выройте яму и посадите семена, и уже скоро Вы будете сыты плодами своего сада. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-            " <H1> ФУРАЖИРОВКА <BR> <TEXT> Ищите ягоды и другие фрукты в лесу. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
+            " <H1> СОБИРАТЕЛЬСТВО <BR> <TEXT> Ищите ягоды и другие фрукты в лесу. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
             " <H1> НЕ УМИРАЙТЕ <BR> <TEXT> Старайтесь не умирать.",
  
     SurvivalGuide_entrie8title = "УЧЕБНИК ВЫЖИВАНИЯ #8 - ДОБЫЧА ПРИПАСОВ",
