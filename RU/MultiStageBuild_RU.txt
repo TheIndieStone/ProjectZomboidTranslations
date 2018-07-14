@@ -24,4 +24,4 @@ MultiStageBuild_CreateMetalWindow_2 = "Построить  металлическое окно 2 уровня",
 -- wooden door frame 
 MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Обновить дверную раму до 2 уровня", 
 MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Обновить дверную раму до 3 уровня", 
-} 
+}
