@@ -2,28 +2,30 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.67.5
-	-- Date 06-15-2018
+	-- Build-39.68
+	-- Date 07-13-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	MultiStageBuild_CreateWoodenWall_1 = "木製の壁を作成する(レベル1)",
-	MultiStageBuild_UpgradeWoodenWall_1To2 = "木製の壁を補強する(レベル2)",
+	MultiStageBuild_UpgradeWoodenWall_1To2 = "木製の壁を補強する(レベル1→レベル2)",
 	MultiStageBuild_CreateWoodenWall_2 = "木製の壁を作成する(レベル2)",
-	MultiStageBuild_UpgradeWoodenWall_1To3 = "木製の壁を補強する(レベル3)",
-	MultiStageBuild_UpgradeWoodenWall_2To3 = "木製の壁を補強する(レベル3)",
+	MultiStageBuild_UpgradeWoodenWall_1To3 = "木製の壁を補強する(レベル1→レベル3)",
+	MultiStageBuild_UpgradeWoodenWall_2To3 = "木製の壁を補強する(レベル2→レベル3)",
 	MultiStageBuild_CreateWoodenWall_3 = "木製の壁を作成する(レベル3)",
 	MultiStageBuild_CreateWoodenWindow_1 = "木製の窓を作成する(レベル1)",
-	MultiStageBuild_UpgradeWoodenWindow_1To2 = "木製の窓枠を補強する(レベル2)",
+	MultiStageBuild_UpgradeWoodenWindow_1To2 = "木製の窓枠を補強する(レベル1→レベル2)",
 	MultiStageBuild_CreateWoodenWindow_2 = "木製の窓枠を作成する(レベル2)",
-	MultiStageBuild_UpgradeWoodenWindow_1To3 = "木製の窓枠を補強する(レベル3)",
-	MultiStageBuild_UpgradeWoodenWindow_2To3 = "木製の窓枠を補強する(レベル3)",
+	MultiStageBuild_UpgradeWoodenWindow_1To3 = "木製の窓枠を補強する(レベル1→レベル3)",
+	MultiStageBuild_UpgradeWoodenWindow_2To3 = "木製の窓枠を補強する(レベル2→レベル3)",
 	MultiStageBuild_CreateWoodenWindow_3 = "木製の窓枠を作成する(レベル3)",
 	MultiStageBuild_CreateMetalWall_1 = "金属製の壁を作成する(レベル1)",
-	MultiStageBuild_UpgradeMetalWall_1To2 = "金属製の壁を補強する(レベル2)",
+	MultiStageBuild_UpgradeMetalWall_1To2 = "金属製の壁を補強する(レベル1→レベル2)",
 	MultiStageBuild_CreateMetalWall_2 = "金属製の壁を作成する(レベル2)",
 	MultiStageBuild_CreateMetalWindow_1 = "金属製の窓枠を作成する(レベル1)",
-	MultiStageBuild_UpgradeMetalWindow_1To2 = "金属製の窓枠を補強する(レベル2)",
+	MultiStageBuild_UpgradeMetalWindow_1To2 = "金属製の窓枠を補強する(レベル1→レベル2)",
 	MultiStageBuild_CreateMetalWindow_2 = "金属製の窓枠を作成する(レベル2)",
+	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "木製のドア枠を補強する(レベル1→レベル2)",
+	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "木製のドア枠を補強する(レベル2→レベル3)",
 
 }
