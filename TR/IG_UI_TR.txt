@@ -847,4 +847,5 @@ IGUI_TR = {
 	IGUI_SafehouseUI_Title = "Ýsim:",
 	IGUI_PlayerText_CanNotExitFromMovingCar = "Hareket eden bir arabadan dýþarý çýkamam.",
 	IGUI_ConfirmLeaveGame = "Oyundan çýkmak istiyor musunuz?",
+	IGUI_AdminPanel_SandboxOptions = "Sandbox Seçenekleri",
 }

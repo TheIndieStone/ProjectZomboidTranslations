@@ -671,6 +671,7 @@ Moveables_TR = {
 	Zippee_Market_Sign = "Zippee Market Tabelasý",
 	Zippee_Shelves_Rack = "Zippee Bölmeli Raf",
 	Zippee_Wall_Shelves = "Zippee Duvar Rafý",
+	Large_Metal_Shelves = "Büyük Metal Raf",
 
 
         -- ISMoveableSpriteProps names

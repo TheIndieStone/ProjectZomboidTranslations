@@ -1,6 +1,6 @@
 Turkish Translation Data Information
 Update history
-Build-39.60
+Build-39.68
 Turkish translation by DemirHerif
 -----------------------------------
 Emeðe saygý duymak bir erdemdir.
