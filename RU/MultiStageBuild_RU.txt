@@ -1,0 +1,27 @@
+MultiStageBuild_EN = { 
+-- Wooden Wall 
+MultiStageBuild_CreateWoodenWall_1 = "Построить деревянную стену 1 уровня", 
+MultiStageBuild_UpgradeWoodenWall_1To2 = "Обновить деревянную стену до 2 уровня", 
+MultiStageBuild_CreateWoodenWall_2 = "Построить деревянную стену 2 уровня", 
+MultiStageBuild_UpgradeWoodenWall_1To3 = "Обновить деревянную стену до 3 уровня", 
+MultiStageBuild_UpgradeWoodenWall_2To3 = "Обновить деревянную стену до 3 уровня", 
+MultiStageBuild_CreateWoodenWall_3 = "Построить деревянную стену 3 уровня", 
+-- Wooden Window 
+MultiStageBuild_CreateWoodenWindow_1 = "Построить деревянное окно 1 уровня", 
+MultiStageBuild_UpgradeWoodenWindow_1To2 = "Обновить деревянное окно до 2 уровня", 
+MultiStageBuild_CreateWoodenWindow_2 = "Построить деревянное окно 2 уровня", 
+MultiStageBuild_UpgradeWoodenWindow_1To3 = "Обновить деревянное окно до 3 уровня", 
+MultiStageBuild_UpgradeWoodenWindow_2To3 = "Обновить деревянное окно до 3 уровня", 
+MultiStageBuild_CreateWoodenWindow_3 = "Построить деревянное окно 3 уровня", 
+-- Metal Wall 
+MultiStageBuild_CreateMetalWall_1 = "Построить металическую стену 1 уровня", 
+MultiStageBuild_UpgradeMetalWall_1To2 = "Обновить металическую стену до 2 уровня", 
+MultiStageBuild_CreateMetalWall_2 = "Построить металическую стену 2 уровня", 
+-- Metal Window 
+MultiStageBuild_CreateMetalWindow_1 = "Построить металическое окно 1 уровня", 
+MultiStageBuild_UpgradeMetalWindow_1To2 = "Обновить металическое окно до 2 уровня", 
+MultiStageBuild_CreateMetalWindow_2 = "Построить  металлическое окно 2 уровня", 
+-- wooden door frame 
+MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Обновить дверную раму до 2 уровня", 
+MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Обновить дверную раму до 3 уровня", 
+}
