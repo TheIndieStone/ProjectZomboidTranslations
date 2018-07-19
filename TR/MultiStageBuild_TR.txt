@@ -18,3 +18,5 @@ MultiStageBuild_TR = {
 	MultiStageBuild_CreateMetalWindow_1 = "Metal Pencere Ýnþa Et (Seviye 1)",
 	MultiStageBuild_UpgradeMetalWindow_1To2 = "Metal Pencereyi Yükselt (Seviye 2'ye)",
 	MultiStageBuild_CreateMetalWindow_2 = "Metal Pencere Ýnþa Et (Seviye 2)",
+	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Ahþap Kapý Çerçevesini Yükselt (Seviye 2'ye)",
+	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Ahþap Kapý Çerçevesini Yükselt (Seviye 3'e)",

@@ -193,4 +193,5 @@ Tooltip_TR = {
 	Tooltip_craft_doubleWoodenDoorDesc = "Araçlarýn geçmesi için yeterince büyük bir çift parçalý kapý.",
 	Tooltip_Vehicle_EngineCondition = "Motor Durumu: %1",
 	Tooltip_craft_pressToRotate = "Ýnþa esnasýnda döndürmek için '%1' tuþuna basýn",
+	Tooltip_removeBurntVehicle = "Hurda araçlarý, bir kaynak maskesi ve kaynak hamlacý yardýmýyla sökerseniz, araçlarý yol üzerinden kaldýrýr ve kullanýþlý metal yapý malzemeleri elde edersiniz. <LINE> Yüksek metal iþleme becerisine sahip olmak, daha kullanýþlý malzemeler elde etmenizi saðlar.",
 }

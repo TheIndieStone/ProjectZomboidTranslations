@@ -1096,5 +1096,8 @@ UI_TR = {
 	UI_optionscreen_vehicle_engine_volume = "Araç Motor Sesi Yüksekliði",
 	UI_optionscreen_vehicle_engine_volume_tt = "Výnnn! Výnnn! VINNN!",
 	UI_NewsVersion = "Versiyon",
+	UI_optionscreen_context_menu_font = "Ýþlem Menüsü Yazý Tipi",
+	UI_GameLoad_KickChecksum = "Oyundan atýldýnýz, çünkü oyun dosyalarýnýz sunucununki ile eþleþmiyor.",
+	UI_GameLoad_TimedOut = "Ýþlem, sunucunun yanýt vermesini beklerken zaman aþýmýna uðradý.",
 
 }

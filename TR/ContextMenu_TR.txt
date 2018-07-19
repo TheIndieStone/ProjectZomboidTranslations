@@ -364,4 +364,5 @@ ContextMenu_TR = {
 	ContextMenu_Vehicle_Openwindow = "%1'ý Aç",
 	ContextMenu_Vehicle_PlugGenerator = "Jeneratörü Araca Baðlayýn",
 	ContextMenu_ChargeCarBattery = "Arabanýn Aküsünü Þarj Et",
+	ContextMenu_RemoveBurntVehicle = "Hurda Aracý Sök",
 }
