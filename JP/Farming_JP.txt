@@ -1,10 +1,10 @@
-Farming_JP = {
+﻿Farming_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-39.68
+	-- Date 07-13-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	-- vegetables name (type of seed)
@@ -52,7 +52,7 @@ Farming_JP = {
 	Farming_Parched = "干上がっている",
 
 	-- growing phase
-
+,
 	Farming_Fully_grown = "完全に成熟",
 	Farming_Ready_to_harvest = "収穫期",
 

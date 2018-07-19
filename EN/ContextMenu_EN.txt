@@ -355,4 +355,10 @@ ContextMenu_EN = {
 	ContextMenu_VehicleSiphonGas = "Siphon Gasoline",
 	ContextMenu_VehicleRefuelFromPump = "Refuel From Gas Pump",
     ContextMenu_VehicleMechanicsStopCar = "To access the mechanics window, stop the car.",
+    ContextMenu_Vehicle_Smashwindow = "Smash %1",
+    ContextMenu_Vehicle_Closewindow = "Close %1",
+    ContextMenu_Vehicle_Openwindow = "Open %1",
+    ContextMenu_Vehicle_PlugGenerator = "Plug generator to vehicle",
+    ContextMenu_ChargeCarBattery = "Charge car battery",
+    ContextMenu_RemoveBurntVehicle = "Dismantle Car Wreck",
 }

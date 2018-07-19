@@ -325,7 +325,6 @@ Recipe_Make_Letter_Opener = "Fabriquer un coupe-papier",
 Recipe_Make_Metal_Bar = "Fabriquer une barre métallique",
 Recipe_Make_Metal_Drum = "Fabriquer un baril métallique",
 Recipe_Make_Metal_Pipe = "Fabriquer un tuyau en métal",
-Recipe_Make_Metal_Sheet = Fabriquer une plaque en métal"",
 Recipe_Make_Nails = "Fabriquer des clous",
 Recipe_Make_Pan = "Fabriquer un plat à rôtir",
 Recipe_Make_Paperclips = "Fabriquer des trombones",
@@ -355,10 +354,24 @@ Recipe_Open_Box_of_Jars = "Ouvrir la boîte de bocaux",
 
 Recipe_Rip_Clothing = "Déchirer les vêtements",
 
-Recipe_Make_Metal_Sheet = "Fabriquer une plaque de métal",
-
 Recipe_Make_Small_Metal_Sheet = "Fabriquer une petite plaque de métal",
 
 Recipe_Wash_Clothing = "Laver les vêtements",
+
+Recipe_Make_Cold_Cuppa = "Préparer une boisson fraîche",
+Recipe_Make_Hot_Cuppa = "Préparer une boisson chaude",
+
+Generator = "Entretien des générateurs",
+Herbalist = "Remèdes à base d'herbes",
+
+	Recipe_Advanced_Mechanics = "Mécanique avancée",
+	Recipe_Basic_Mechanics = "Mécanique de base",
+	Recipe_Intermediate_Mechanics = "Mécanique intermédiaire",
+	Recipe_Make_Metal_Containers = "Fabriquer des conteneurs en métal",
+	Recipe_Make_Metal_Fences = "Fabriquer un grillage en métal",
+	Recipe_Make_Metal_Roof = "Fabriquer un toit en métal",
+	Recipe_Make_Metal_Sheet = "Fabriquer une plaque de métal",
+	Recipe_Make_Metal_Walls = "Fabriquer un mur en métal",
+
 
 }

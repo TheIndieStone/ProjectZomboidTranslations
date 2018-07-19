@@ -1,10 +1,10 @@
-IGUI_JP = {
+﻿IGUI_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-39.68
+	-- Date 07-13-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	-- InventoryPane
@@ -854,7 +854,7 @@ IGUI_JP = {
 	IGUI_MP_RequestMapData = "サーバーにマップデータを要求しています。",
 	IGUI_MP_DownloadedMapData = "マップデータをダウンロード %1 / %2 マップデータ総量",
 	IGUI_ServerToolBox_Invite1 = "あなたの友人を招待するには：",
-	IGUI_ServerToolBox_Invite2 = "1. ESCを押して、フレンド招待（左下）をクリックします。",
+	IGUI_ServerToolBox_Invite2 = "1. ESCを押して「フレンド招待」ボタンをクリックします。",
 	IGUI_ServerToolBox_Invite3 = "2.招待したい友人の名前をダブルクリックして招待状を送信します。",
 	IGUI_ServerToolBox_Invite4 = "あなたの友人がプロジェクトゾンボイドを閉じていれば、Steamはゲームを起動します。",
 	IGUI_ServerToolBox_Invite5 = "招待状は、特別なパラメータやチャットボックスでPZを起動するように求めるダイアログボックスとして表示されます。",
@@ -864,5 +864,14 @@ IGUI_JP = {
 	IGUI_ServerToolBox_ExternalIP = "現在の外部IP: %1",
 	IGUI_ServerToolBox_IPUnknown = "IP 不明",
 	IGUI_ServerToolBox_UserConnecting = "%1 に接続しています。",
+	IGUI_Scrap = "アイテムの解体",
+	IGUI_Map_ChooseSymbol = "記号を選択する",
+	IGUI_VehicleSeat_MoveItems = "シートにあるアイテムは別のシートに移動されます。",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "動いている車両から外に出ることはできません。",
+	IGUI_ConfirmLeaveGame = "ゲームから離れますか？",
+	IGUI_PlayerText_DoorBarricaded = "ドアがバリケードで塞がれています。",
+	IGUI_PlayerText_DoorBlocked = "ドアが塞がれています。",
+	IGUI_SafehouseUI_Title = "タイトル：",
+	IGUI_AdminPanel_SandboxOptions = "サンドボックス オプション",
 
 }
