@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.67.5
-	-- Date 06-15-2018
+	-- Build-39.68
+	-- Date 07-13-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -206,5 +206,6 @@
 	Tooltip_craft_doubleWoodenDoorDesc = "車両を通過させるのに十分な大きさのゲートです。",
 	Tooltip_Vehicle_EngineCondition = "エンジン状態：%1",
 	Tooltip_craft_pressToRotate = "%1キーを押して回転させます。",
+	Tooltip_removeBurntVehicle = "車両の残骸を溶接マスクと溶接プロパントーチで解体すると、車両が道路から取り除かれて屑鉄になります。 <LINE> 溶接加工の技能が高いほど、より多くの使用可能な鉄屑が出ます。",
 
 }

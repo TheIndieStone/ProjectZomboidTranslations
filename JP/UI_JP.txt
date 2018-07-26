@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.67.5
-	-- Date 06-15-2018
+	-- Build-39.68
+	-- Date 07-13-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,11 +25,11 @@
 	UI_mainscreen_exit = "終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>   ",
 
-	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>  ",
-	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.67.5 <2018年06月16日版>  ",
+	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>  ",
+	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>  ",
 
 	UI_Details = "更新情報",
 
@@ -409,7 +409,7 @@
 
 	UI_laststand_title = "ラストスタンドのチャレンジを選択してください。",
 	UI_characreation_random = "ランダム",
-	UI_ClickToSkip = ">>> マウスクリックでタイトルスキップ <<<",
+	UI_ClickToSkip = ">>> クリックで開始 <<<",
 	UI_Loading = "ゲームデータを読み込み中...",
 	UI_ConvertWorld = "ゲームデータを新しいゲームバージョンへ変換しています...。古い保存データの初回読み込み時には、少し時間が掛かることがあります。",
 	UI_servers_servername = "サーバー名 ",
@@ -708,7 +708,7 @@
 	UI_NewGame_Sandbox = "サンドボックス",
 	UI_NewGame_Sandbox_desc = "ゾンビの世界をあなた独自で作ってください！あなたの望む方法で <LINE> 死んでください...",
 	UI_NewGame_Challenges = "チャレンジ",
-	UI_NewGame_StartingCondition = "難易度の設定",
+	UI_NewGame_StartingCondition = "開始条件",
 	UI_StarterCondition_Easy = "初心者",
 	UI_StarterCondition_Easy_desc = "XP 取得経験値の加算 x 2 <LINE> 生き残るために必要とする特性：非常に低い <LINE> スタート時の所持品：野球バット ノコギリ スクールバック 金槌 水 食料",
 	UI_StarterCondition_Normal = "普通",
@@ -1136,5 +1136,8 @@
 	UI_optionscreen_vehicle_engine_volume = "車両エンジン音量",
 	UI_optionscreen_vehicle_engine_volume_tt = "車両エンジン音の再生音量を設定します。",
 	UI_NewsVersion = "バージョン",
+	UI_optionscreen_context_menu_font = "コンテキストメニューのフォントサイズ",
+	UI_GameLoad_KickChecksum = "あなたのゲームファイルがサーバーと一致しないため、あなたはキックされました。",
+	UI_GameLoad_TimedOut = "サーバーの応答中にタイムアウトしました。",
 
 }

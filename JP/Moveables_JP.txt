@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.67.5
-	-- Date 06-15-2018
+	-- Build-39.68
+	-- Date 07-13-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -685,5 +685,5 @@
 	Stone_Pile = "石積",
 	Wooden_Picket = "柵",
 	Wooden_Stairs = "梯子",
-
+	Large_Metal_Shelves = "大型金属棚",
 }
