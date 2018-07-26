@@ -1054,6 +1054,10 @@ UI_RU = " {
 	UI_OnConnectFailed_ModRequired = "Мод "%1" не установлен",
 	UI_GameLoad_UnexpectedError1 = "Произошла неизвестная ошибка. Просим извинения за неудобство.  Нажмите Escape или левую кнопку мыши, чтобы выйти.",
 	UI_GameLoad_UnexpectedError2 = "Указанный файл может иметь полезную информацию об этой ошибке:",
+   	UI_GameLoad_HowToExit = "Нажмите Escape или левую кнопку мышки чтобы выйти.",
+    	UI_GameLoad_MapDownloadFailed = "Ошибка загрузки карты с сервера.",
+    	UI_GameLoad_KickChecksum = "Вы были изгнанны, т.к ваши игровые файлы не соответствуют серверным",
+    	UI_GameLoad_TimedOut = "Таймаут ожидания ответа от сервера.",
 
 -- vehicle messages
 	UI_Vehicle_HeaterNeedKey = "Заведите транспорт или вставьте ключ в замок зажигания чтобы включить отопитель/кондиционер.",
