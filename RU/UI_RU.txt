@@ -236,8 +236,8 @@ UI_RU = " {
 	UI_worldscreen_MapNotFound = "Ќевозможно найти карту.  ѕроверьте правильность установки соответствующего мода.",
 	UI_worldscreen_SavefileCorrupt = "—охранение было повреждено.  ¬ерси€ мира равна нулю.",
 	UI_worldscreen_SavefileOld = "Ёто сохранение слишком устарело дл€ загрузки.",
-	UI_worldscreen_SavefileVehicle = "Є„-„– бв’я’ЁЎ Ў„№’Ё’ЁЎў, Ё’ё—её‘Ў№ле ‘џп “Ё’‘а’ЁЎп ва–ЁбяёавЁле ба’‘бв“, бёеа–Ё’ЁЎп Ў„ а–ЁЁЎе “’абЎў Ё’ бё“№’бвЎ№л. <LINE> <LINE> іџп вё”ё, звё—л яаё‘ёџ÷Ўвм Ў”аг: „–‘’ўбв“гов pre-vehicles Build 38.30 з’а’„ ёЏЁё яё‘Џџоз’ЁЎў —’в–-“’абЎў <LINE> <LINE> SavedGameWorldVersion: %1 CurrentWorldVersion: %2",
-	UI_worldscreen_SaveCannotBeLoaded = "Ѕёеа–Ё’ЁЎ’ Ё’ №ё÷’в —лвм „–”аг÷’Ёё. <LINE> ",
+    	UI_worldscreen_SavefileVehicle = "»з за объема изменений, требуемых дл€ введени€ транспортных средств, ранние сохранени€ не совместимы<LINE> <LINE> „тобы продолжить игру: откатитесь до предварительной версии транспортных средств Build 38.30 через вкладку бета версии. <LINE> <LINE> SavedGameWorldVersion: %1 CurrentWorldVersion: %2",
+	UI_worldscreen_SaveCannotBeLoaded = "—охранение не может быть загружено.<LINE> ",
 
 -- login screen (lua)
 	UI_loginscreen_desurakey = " люч Desura:",
@@ -755,6 +755,10 @@ UI_RU = " {
 	UI_NewGame_Sandbox_desc = "Ќастройте ваш собственный зомби апокалипсис! ”мрите наиболее интересным дл€ вас способом...",
 	UI_NewGame_Challenges = "»спытани€",
 	UI_NewGame_SelectDifficulty = "¬ыберите уровень сложности дл€ продолжени€.",
+   	UI_NewGame_SurvivalMore = " - –екомендуемый игровой опыт",
+    	UI_NewGame_OneWeekLater = "Ќедел€ спуст€",
+    	UI_NewGame_OneWeekLaterMore = " - ƒл€ казуалов",
+    	UI_NewGame_SixMonthsMore = " - ƒл€ профессионалов",
 	
 -- mods
 	UI_mods_ConflictDetected = "ћежду выбранными вами пользовательскими картами есть совпадени€. „тобы определить, кака€ карта будет отображаетс€ при перекрытии, используйте функцию ѕор€док приоритета карт.",
