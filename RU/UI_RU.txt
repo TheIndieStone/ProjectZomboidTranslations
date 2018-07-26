@@ -303,6 +303,7 @@ UI_RU = " {
 	UI_prof_Lumberjack = "Дровосек",
 	UI_prof_Mechanics = "Механик",
 	UI_prof_MetalWorker = "Металлист",
+	UI_prof_MetalWorker = "Металлист",
 	UI_prof_Nurse = "Медперсонал",
 	UI_prof_parkranger = "Парковый смотритель",
 	UI_prof_policeoff = "Полицейский",
