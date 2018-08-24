@@ -47,6 +47,7 @@ ContextMenu_ES = {
 	ContextMenu_InsertMagazine = "Insertar cargador",
 	ContextMenu_Pour_into = "Verter en",
 	ContextMenu_Pour_on_Ground = "Verter en el suelo",
+	ContextMenu_AddWaterFromItem = "Añadir agua del elemento",
 	ContextMenu_Take_pills = "Tomar píldoras",
 	ContextMenu_Read = "Leer",
 	ContextMenu_Wear = "Vestir",
@@ -359,6 +360,8 @@ ContextMenu_ES = {
 	ContextMenu_Vehicle_Closewindow = "Cerrar %1",
 	ContextMenu_Vehicle_Openwindow = "Abrir %1",
 	ContextMenu_Vehicle_PlugGenerator = "Conectar el generador al vehículo",
-	ContextMenu_ChargeCarBattery = "Cargar la batería del coche",
+	ContextMenu_CarBatteryCharger_ConnectBattery = "Conectar la batería del coche",
+	ContextMenu_CarBatteryCharger_Place = "Colocar cargador de batería del coche",
+	ContextMenu_CarBatteryCharger_Take = "Recoger cargador de batería del coche",
 	ContextMenu_RemoveBurntVehicle = "Desmontar restos de automóviles",	
 }
