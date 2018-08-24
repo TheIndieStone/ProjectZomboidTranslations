@@ -1,9 +1,4 @@
 Sandbox_ES = {
-
-	-- Build 39.58
-	-- 12-05-2018
-	-- Autor: ditoseadio
-
 	Sandbox_ActiveOnly = "ACTIVIDAD DÍA/NOCHE:",
 	Sandbox_ActiveOnly_option1 = "Ambos",
 	Sandbox_ActiveOnly_option2 = "Noche",
@@ -52,9 +47,10 @@ Sandbox_ES = {
 	Sandbox_CarGeneralCondition_tooltip = "En que condiciones se producirá la aparición del nuevo vehículo.",
 	Sandbox_CarSpawnRate = "TASA DE REAPARICIÓN DE VEHÍCULOS:",
 	Sandbox_CarSpawnRate_option1 = "Ninguno",
-	Sandbox_CarSpawnRate_option2 = "Bajo",
-	Sandbox_CarSpawnRate_option3 = "Normal",
-	Sandbox_CarSpawnRate_option4 = "Alto",
+	Sandbox_CarSpawnRate_option2 = "Muy bajo",
+	Sandbox_CarSpawnRate_option3 = "Bajo",
+	Sandbox_CarSpawnRate_option4 = "Normal",
+	Sandbox_CarSpawnRate_option5 = "Alto",
 	Sandbox_ChanceHasGas = "PROBABILIDAD DE COMBUSTIBLE:",
 	Sandbox_ChanceHasGas_option1 = "Bajo",
 	Sandbox_ChanceHasGas_option2 = "Normal",
@@ -522,4 +518,11 @@ Sandbox_ES = {
 	Sandbox_ZombieRespawnPercent_option9 = "90%",
 	Sandbox_ZombieRespawnPercent_tooltip = "Porcentaje de zombis de inicio que reaparecen en cada intervalo.",
 	Sandbox_ZombieRespawn_tooltip = "Una zona no debe ser visitada el tiempo seleccionado con el fin de reaparecer zombis.",
+	Sandbox_DamageToPlayerFromHitByACar = "DAÑOS POR ATROPELLO DE UN COCHE:",
+    Sandbox_DamageToPlayerFromHitByACar_tooltip = "Daños sufridos por el jugador en caso de atropello.",
+    Sandbox_DamageToPlayerFromHitByACar_option1 = "Ninguno",
+    Sandbox_DamageToPlayerFromHitByACar_option2 = "Bajo",
+    Sandbox_DamageToPlayerFromHitByACar_option3 = "Normal",
+    Sandbox_DamageToPlayerFromHitByACar_option4 = "Alto",
+    Sandbox_DamageToPlayerFromHitByACar_option5 = "Muy alto",
 }

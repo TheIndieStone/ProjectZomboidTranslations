@@ -13,6 +13,8 @@ IGUI_ES = {
 	IGUI_invpanel_Cooking = "Cocinándose",
 	IGUI_invpanel_Burning = "Quemándose",
 	IGUI_invpanel_Burnt = "Quemado",
+	IGUI_invpanel_Melting = "Derritiendo",
+	IGUI_invpanel_FreezingTime = "Tiempo de congelación",
 	-- InventoryPage
 	IGUI_invpage_Loot_all = "Coger todo",
 	-- Character Screen
@@ -384,6 +386,7 @@ IGUI_ES = {
 	IGUI_ChanceToBreak = "Probabilidad de romperse",
 	IGUI_ToHeavy = "Demasiado pesado para el inventario.",
 	IGUI_ItemsSurface = "Tiene objetos encima.",
+	IGUI_Moveables_DoorBarricaded = "La puerta está barricada.",
 	IGUI_WindowOpen = "La ventana está abierta.",
 	IGUI_WindowBarricaded = "La ventana está barricada.",
 	IGUI_NeedToBeStandingInside = "Tienes que estar dentro.",
@@ -839,6 +842,8 @@ IGUI_ES = {
 	IGUI_DeflateTire = "Desinflar neumático",
 	IGUI_TakeEngineParts = "Coger partes del motor",
 	IGUI_RepairEngine = "Reparar motor",
+	IGUI_HeadlightFocusingUp = "Aumentar enfoque",
+	IGUI_HeadlightFocusingDown = "Desminuir enfoque",
 	IGUI_WheelFriction = "Fricción de la rueda",
 	IGUI_Open = "Abierto",
 	IGUI_TotalBreakingForce = "Fuerza total de frenado",
@@ -855,5 +860,13 @@ IGUI_ES = {
 	IGUI_Vehicle_SeatOccupied = "Asiento ocupado",
 	IGUI_PlayerText_CanNotExitFromMovingCar = "No puedo salir de un coche en marcha.",
 	IGUI_ConfirmLeaveGame = "¿Dejar la partida?",
+	IGUI_AdminPanel_AdminPower = "Editar tus privilegios de administrador",
+    IGUI_AdminPanel_TooltipEditAdminPower = "Cambia tus privilegios de administrador como ser invisible, transporte ilimitado, carpintería ilimitada, etc.",
+    IGUI_AdminPanel_BuildCheat = "Construcción ilimitada",
+    IGUI_AdminPanel_MechanicsCheat = "Mecánica ilimitada",
+    IGUI_AdminPanel_HealthCheat = "Panel de salud ilimitado",
+    IGUI_AdminPanel_ShowAdminTag = "Si no se selecciona nada en la lista, no se mostrará la etiqueta roja de Admin encima de tu cabeza.",
+    IGUI_AdminPanel_ItemList = "Buscador de objetos",
+    IGUI_ItemList_Info = "Haz doble clic en un objeto de la lista o en el botón de abajo para agregarlo a tu inventario."
 }
 

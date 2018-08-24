@@ -16,6 +16,12 @@ Challenge_ES = {
 
 	Challenge_Challenge2_name = "5. La casa en el bosque - Última resistencia acumulable",
 	Challenge_Challenge2_desc = "Un día más, otra cabaña lista para la matanza. Las hordas están encima de ti, y tu muerte será tan dolorosa como espantosa. Así que sal a pelear... <LINE> <LINE> Última resistencia acumulable presenta oleadas interminables de zombis cada vez mayores. Usa el dinero ganado matando zombis para comprar equipamiento, subir de nivel y reparar tu armamento.",
+	
+	Challenge_AStormIsComing_name = "7. Se avecina una tormenta",
+	Challenge_AStormIsComing_desc = "Las nubes se ciernen sobre Kentucky. El estruendo de los truenos se oye a lo lejos. <LINE> <LINE> A medida que el cielo se oscurece, los muertos que vagan por las calles se inquietan. <LINE> <LINE> Es una tempestad que aumentará y disminuirá en su magnitud, pero que nunca terminará.",
+
+    Challenge_TheDescendingFog_name = "8. La niebla descendente",
+    Challenge_TheDescendingFog_desc = "La gente la vio por primera vez en el agua. Una débil manta blanca sobre el río Ohio. <LINE> <LINE> Comenzó como una neblina. Luego envolvió la ciudad. Los habitantes del pueblo murieron mientras gritaban en la oscuridad. Ahora ellos deambulan por ahí. <LINE> <LINE> Invisibles, inadvertidos e implacables en su búsqueda de los supervivientes.",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Pulsa 'o' para un aumento permanente y para gastar algo de dinero.",
 	Challenge_Challenge2_WaveStart = "Oleada %1 en : %2 (presiona Intro para saltar)",
@@ -48,4 +54,6 @@ Challenge_ES = {
 	Challenge_OpeningHoursInfoBox = " <CENTRE> El centro comercial abre a las 9AM. <LINE> <LINE> Prepárate para la avalancha...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> En tres días comienza un invierno interminable. <LINE> <LINE> Abrígate...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu regreso al condado de Knox se convertirá en un infierno...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Se avecina una incesante tormenta...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Se está poniendo nebuloso...",
 }
