@@ -517,7 +517,7 @@ Sandbox_ZombieRespawnPercent_tooltip = "Procent pocz¹tkowej iloœci zombie, która
 Sandbox_ZombieRespawn_tooltip = "Obszar musi pozostaæ nieodwiedzony przez okreœlony czas, aby pojawi³y siê w nim nowe zombie.",
 
 Sandbox_ErosionDays = "DNI POSTÊPU EROZJI:",
-Sandbox_ErosionDays_tooltip = "Liczba dni potrzebna do osi¹gniêcia 100% erozji.\n-1 oznacza brak erozji.\nZero oznacza u¿ycie opcji „Szybkoœæ erozji”.\nMaksimum 36500 dni (100 lat).",
+Sandbox_ErosionDays_tooltip = "Liczba dni potrzebna do osi¹gniêcia 100% erozji.\n-1 oznacza brak erozji.\nZero oznacza u¿ycie opcji 'Szybkoœæ erozji'.\nMaksimum 36500 dni (100 lat).",
 Sandbox_CarDamageOnImpact_tooltip = "Reguluje iloœæ uszkodzeñ, jakie samochody otrzymuj¹ w razie zderzenia.",
 
 	Sandbox_DamageToPlayerFromHitByACar = "OBRA¯ENIA GRACZA UDERZONEGO SAMOCHODEM:",
