@@ -10,9 +10,11 @@ IGUI_EN = {
 	IGUI_invpanel_Nutrition = "Nutrition",
 	IGUI_invpanel_Remaining = "Remaining",
 	IGUI_invpanel_Condition = "Condition",
-	IGUI_invpanel_Cooking = "Cooking"
-	IGUI_invpanel_Burning = "Burning"
-	IGUI_invpanel_Burnt = "Burnt"
+	IGUI_invpanel_Cooking = "Cooking",
+	IGUI_invpanel_Burning = "Burning",
+	IGUI_invpanel_Burnt = "Burnt",
+	IGUI_invpanel_Melting = "Melting",
+	IGUI_invpanel_FreezingTime = "Freezing time",
 	-- InventoryPage
 	IGUI_invpage_Loot_all = "Loot All",
 	-- Character Screen
@@ -384,6 +386,7 @@ IGUI_EN = {
     IGUI_ChanceToBreak = "Chance to break",
     IGUI_ToHeavy = "Too heavy for inventory.",
     IGUI_ItemsSurface = "Has item on surface.",
+    IGUI_Moveables_DoorBarricaded = "Door is barricaded.",
     IGUI_WindowOpen = "Window is open.",
     IGUI_WindowBarricaded = "Window is barricaded.",
     IGUI_NeedToBeStandingInside = "You need to be standing inside.",
@@ -839,6 +842,8 @@ IGUI_EN = {
     IGUI_DeflateTire = "Deflate Tire",
     IGUI_TakeEngineParts = "Take Engine Parts",
     IGUI_RepairEngine = "Repair Engine",
+	IGUI_HeadlightFocusingUp = "Focusing up",
+	IGUI_HeadlightFocusingDown = "Focusing down",
     IGUI_WheelFriction = "Wheel friction",
     IGUI_Open = "Open",
     IGUI_TotalBreakingForce = "Total braking force",
@@ -855,5 +860,13 @@ IGUI_EN = {
     IGUI_Vehicle_SeatOccupied = "Seat Occupied",
     IGUI_PlayerText_CanNotExitFromMovingCar = "I can not get out of a moving car.",
     IGUI_ConfirmLeaveGame = "Leave game?",
+    IGUI_AdminPanel_AdminPower = "Edit your Admin Powers",
+    IGUI_AdminPanel_TooltipEditAdminPower = "Change your admin power such as being invisible, unlimited carry, unlimited carpentry, etc.",
+    IGUI_AdminPanel_BuildCheat = "Build Cheat mode",
+    IGUI_AdminPanel_MechanicsCheat = "Mechanics Cheat mode",
+    IGUI_AdminPanel_HealthCheat = "Health panel Cheat mode",
+    IGUI_AdminPanel_ShowAdminTag = "If nothing in the list is selected the red Admin tag above your head won't be displayed.",
+    IGUI_AdminPanel_ItemList = "Items List Viewer",
+    IGUI_ItemList_Info = "Double click an item in the list or the button bellow to add it to your inventory."
 }
 

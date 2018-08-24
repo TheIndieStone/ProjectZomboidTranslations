@@ -96,6 +96,7 @@ Tooltip_EN = {
     Tooltip_UseOnHealthPanel = "Right click on your health panel to use.",
     Tooltip_tainted = "Tainted ",
     Tooltip_Generator = "Portable power supply. Place near safehouse and connect.<br>Requires high Electrical level and is fuelled with gas cans.<br>Do not operate indoors.",
+	Tooltip_CarBatteryCharger = "Place on the ground, then use the context menu to attach a battery.<br>Requires a power source to operate.",
     Tooltip_ItemTraps = "Used in improvised defensive devices. Requires known recipe or Engineer profession.",
     Tooltip_Literature_TeachedRecipes = "Teaches Recipe: %1",
     Tooltip_TrapControllerID = "Remote ID:",

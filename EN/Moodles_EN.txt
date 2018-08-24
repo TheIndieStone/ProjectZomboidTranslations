@@ -104,6 +104,16 @@ Moodles_EN = {
 	Moodles_hypothermia_lvl2 = "Cold",
 	Moodles_hypothermia_lvl3 = "Freezing",
 	Moodles_hypothermia_lvl4 = "Hypothermic",
+    -- CoolingDown
+    Moodles_coolingdown_lvl1 = "Cooling down",
+    Moodles_coolingdown_lvl2 = "Cooling down",
+    Moodles_coolingdown_lvl3 = "Cooling down",
+    Moodles_coolingdown_lvl4 = "Cooling down",
+    -- WarmingUp
+    Moodles_warmingup_lvl1 = "Warming up",
+    Moodles_warmingup_lvl2 = "Warming up",
+    Moodles_warmingup_lvl3 = "Warming up",
+    Moodles_warmingup_lvl4 = "Warming up",
 
 	-- Description of moodle
 	-- Endurance
@@ -210,4 +220,14 @@ Moodles_EN = {
 	Moodles_hypothermia_desc_lvl2 = "You need to find ways to keep warm.",
 	Moodles_hypothermia_desc_lvl3 = "Man alive. It is SO cold."
 	Moodles_hypothermia_desc_lvl4 = "Body and mind obsessed by the cold.",
+    -- Cooling down
+    Moodles_coolingdown_desc_lvl1 = "You feel yourself cooling down slightly.",
+    Moodles_coolingdown_desc_lvl2 = "You feel yourself cooling down.",
+    Moodles_coolingdown_desc_lvl3 = "You feel yourself cooling down slightly fast.",
+    Moodles_coolingdown_desc_lvl4 = "You feel yourself cooling down fast.",
+    -- Warming up
+    Moodles_warmingup_desc_lvl1 = "You feel yourself warming up slightly.",
+    Moodles_warmingup_desc_lvl2 = "You feel yourself warming up.",
+    Moodles_warmingup_desc_lvl3 = "You feel yourself warming up slightly fast."
+    Moodles_warmingup_desc_lvl4 = "You feel yourself warming up fast.",
 }
