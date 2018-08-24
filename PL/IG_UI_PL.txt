@@ -767,11 +767,8 @@
 	IGUI_health_zombified = "ZOMBIFIKACJA!",
 	IGUI_invpage_Loot_all = "WeŸ wszystko",
 	IGUI_invpage_Transfer_all = "Przenieœ wszystko",
-	IGUI_invpanel_Burning = "Przypalanie"
-	IGUI_invpanel_Burnt = "Przypalone"
 	IGUI_invpanel_Category = "Kategoria",
 	IGUI_invpanel_Condition = "Stan",
-	IGUI_invpanel_Cooking = "Gotowanie"
 	IGUI_invpanel_Nutrition = "Po¿ywnoœæ",
 	IGUI_invpanel_Pack = "Spakuj",
 	IGUI_invpanel_Remaining = "Pozosta³o",
@@ -828,5 +825,22 @@
 	IGUI_PlayerText_CanNotExitFromMovingCar = "Nie mogê wysi¹œæ z jad¹cego samochodu.",
 	IGUI_ConfirmLeaveGame = "Wyjœæ z gry?",
 	
-	IGUI_AdminPanel_SandboxOptions = "Opcje Sandbox",
+	IGUI_invpanel_Melting = "Rozmra¿anie",
+	IGUI_invpanel_FreezingTime = "Czas do zamro¿enia",
+	IGUI_Moveables_DoorBarricaded = "Drzwi s¹ zabarykadowane.",
+	IGUI_AdminPanel_SandboxOptions = "Opcje sandbox",
+	IGUI_HeadlightFocusingUp = "Bardziej skupione",
+	IGUI_HeadlightFocusingDown = "Mniej skupione",
+	IGUI_AdminPanel_AdminPower = "Edytuj moce administratora",
+	IGUI_AdminPanel_TooltipEditAdminPower = "Zmieñ moce administratora, np.: niewidzialnoœæ, nieograniczony udŸwig, maksymalne stolarstwo itp.",
+	IGUI_AdminPanel_BuildCheat = "Budowanie: menu oszukiwania",
+	IGUI_AdminPanel_MechanicsCheat = "Mechanika: menu oszukiwania",
+	IGUI_AdminPanel_HealthCheat = "Zdrowie: menu oszukiwania",
+	IGUI_AdminPanel_ShowAdminTag = "Jeœli nic nie wybierzesz, nad twoj¹ g³ow¹ nie pojawi siê czerwony znacznik administratora.",
+	IGUI_AdminPanel_ItemList = "Wyœwietlacz list przedmiotów",
+	IGUI_ItemList_Info = "Kliknij dwukrotnie przedmiot z listy lub przycisk poni¿ej, by dodaæ przedmiot do ekwipunku.",
+	
+	IGUI_invpanel_Cooking = "Przygotowywanie",
+	IGUI_invpanel_Burning = "Przypalanie",
+	IGUI_invpanel_Burnt = "Przypalone",
 }

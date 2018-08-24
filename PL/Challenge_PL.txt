@@ -37,4 +37,10 @@ Challenge_YouHaveOneDayInfoBox = " <CENTRE> W czasie 24 godzin twoja wycieczka p
 Challenge_YouHaveOneDay_desc = "Twój powrót do Knox County nie by³ ³atwy. Jesteœ z powrotem w miejscu, gdzie infekcja Project Zomboid zaczê³a siê po raz pierwszy. <LINE> <LINE> Jeden dzieñ masz wzglêdnie bezpieczny. PóŸniej, w ogromnej liczbie przybêd¹ i odnajd¹ ciê zombie. Przypomnij sobie, gdzie ostatnim razem by³ twój ostatni bastion. Lepiej szybko znajdŸ to miejsce. <LINE> <LINE> [Podziêkowania dla BobHeckling - twórcy mapy z naszej spo³ecznoœci - za odtworzenie starej mapy z wersji 0.1.5 przy u¿yciu aktualnych narzêdzi PZ]",
 Challenge_YouHaveOneDay_name = "1. Masz jeden dzieñ",
 
+	Challenge_AStormIsComing_name = "7. Nadchodzi nawa³nica",
+	Challenge_AStormIsComing_desc = "Nad Kentucky zbieraj¹ siê ciemne chmury. W oddali s³ychaæ grzmoty b³yskawic. <LINE> <LINE> Gdy ciemnieje niebo, szwendaj¹ce siê po œwiecie umarlaki robi¹ siê niespokojne. <LINE> <LINE> Zawierucha bêdzie przybieraæ i traciæ na sile, ale nigdy siê nie skoñczy.",
+	Challenge_TheDescendingFog_name = "8. Nieprzenikniona mg³a",
+	Challenge_TheDescendingFog_desc = "Ludzie najpierw zauwa¿yli j¹ ponad lustrem wody. Delikatna, bia³a ko³derka unosz¹ca siê nad tafl¹ rzeki Ohio. <LINE> <LINE> Na pocz¹tku by³a jedynie mgie³k¹, ale wkrótce potem utonê³o w niej ca³e miasto. Mieszkañcy zaczêli gin¹æ w jej odmêtach, a teraz o¿yli na nowo. <LINE> <LINE> Niewidoczni, bezg³oœni i uparci w swoim powolnym poœcigu za ocala³ymi.",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Z³a pogoda nigdy nie minie...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Nadchodzi mg³a...",
 }
