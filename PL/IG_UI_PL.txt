@@ -477,7 +477,7 @@
 	IGUI_TimerSecondsBeforeExplosion = "Sekundy do eksplozji",
 	IGUI_ToHeavy = "Brak miejsca w ekwipunku.",
 	IGUI_ToggleMode = "Wciœnij '%1', aby zmieniæ tryb.",
-	IGUI_ToggleToRun = "Bieganie prze³¹czysz klawiszem %1",
+	IGUI_ToggleToRun = "Klawisz %1 prze³¹cza bieganie",
 	IGUI_Tool = "Narzêdzie",
 	IGUI_TotalBreakingForce = "Ogólna si³a hamowania",
 	IGUI_TradingUI_AcceptDeal = "Zaakceptuj wymianê",
