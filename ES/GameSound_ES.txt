@@ -1,5 +1,7 @@
 GameSound_ES = {
 	GameSound_ButtonAdvanced = "Avanzado",
+	GameSound_ButtonReload = "Recargar",
+	GameSound_ButtonReload_tt = "Recargar todos los archivos sounds.txt.",
 	GameSound_VolumeControlTooltip = "Volumen: %1%<br>Volumen general: %2 %3%",
 
 	/* These are the names of tabs in the ui. */

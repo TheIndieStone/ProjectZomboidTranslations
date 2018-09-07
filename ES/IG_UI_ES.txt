@@ -325,6 +325,7 @@ IGUI_ES = {
 	IGUI_PlayerText_DontUnderstand = "No lo entiendo...",
 	IGUI_PlayerText_TooComplicated = "Es demasiado complicado para mí.",
 	IGUI_PlayerText_DontGet = "No lo pillo...",
+	IGUI_PlayerText_NoWayToFuelTankInlet = "No puedo encontrar la entrada del tanque de combustible de este coche.",
 	IGUI_PlayerText_Callout1 = "¡Hey!",
 	IGUI_PlayerText_Callout2 = "¡Por aquí!",
 	IGUI_PlayerText_Callout3 = "¡Eh, tú!",
