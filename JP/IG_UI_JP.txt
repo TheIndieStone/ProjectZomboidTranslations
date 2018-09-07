@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.68
-	-- Date 07-13-2018
+	-- Build-40.14
+	-- Date 09-07-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -30,8 +30,8 @@
 	IGUI_char_Sex = "性別",
 	IGUI_char_Traits = "特性",
 	IGUI_char_Favourite_Weapon = "主要武器",
-	IGUI_char_Zombies_Killed = "仕留めたゾンビ数",
-	IGUI_char_Survivor_Killed = "殺害した生存者数",
+	IGUI_char_Zombies_Killed = "仕留めたゾンビの数",
+	IGUI_char_Survivor_Killed = "殺害した生存者の数",
 	IGUI_char_Survived_For = "生存期間",
 	IGUI_char_Male = "男性",
 	IGUI_char_Female = "女性",
@@ -496,7 +496,7 @@
 	IGUI_AdminPanel_DisableBuildCheat = "製作モードを無効にする",
 	IGUI_AdminPanel_EnableBuildCheat = "製作モードを有効にする",
 	IGUI_AdminPanel_TooltipBuildCheat = "壁やドア等を即座に作成可能となります。材料は一切必要ありません。",
-	IGUI_AdminPanel_SeeServerOptions = "サーバー設定",
+	IGUI_AdminPanel_SeeServerOptions = "サーバーの設定",
 	IGUI_AdminPanel_ModalAdminPower = "現在、あなたは管理者モードにいます。 <br>実行ボタンを押すと再び通常プレイヤーに戻ることができます。",
 	IGUI_DbViewer_DbViewer = "データベース表示",
 	IGUI_DbViewer_Refresh = "更新",
@@ -523,10 +523,10 @@
 	IGUI_PlayerStats_AddLogOn = "%1 に対してログを追加",
 	IGUI_PlayerStats_RemoveLogConfirm = "ログを削除しても宜しいですか？",
 	IGUI_PlayerStats_WarningPointTitle = "警告ポイントを追加",
-	IGUI_PlayerStats_ServerOptionTitle = "サーバー設定",
+	IGUI_PlayerStats_ServerOptionTitle = "サーバーの設定",
 	IGUI_PlayerStats_ReloadOptions = "変更を適用",
 	IGUI_PlayerStats_ReloadOptionsTooltip = "サーバーの再起動や /reloadoptions の実行が必要でなければ、 <br>ここをクリックすると全てのクライアントのオプションを直接読み込みます。",
-	IGUI_PlayerStats_ChangeServerOptionTitle = "サーバー設定を変更",
+	IGUI_PlayerStats_ChangeServerOptionTitle = "サーバーの設定を変更",
 	IGUI_PlayerStats_ResetToDefault = "リセット",
 	IGUI_SafehouseUI_Owner = "管理者：",
 	IGUI_SafehouseUI_Release = "セーフハウスを開放",
@@ -576,12 +576,12 @@
 	IGUI_FactionUI_TagAlreadyExist = "タグは既に存在します。",
 	IGUI_FactionUI_TagTooLongShort = "タグの長さは1～4文字以内でなければなりません。",
 	IGUI_FactionUI_TagMembersIncorrect = "タグを作成するには、あなたの派閥に少なくとも %1 人のプレイヤーがいなければなりません。",
-	IGUI_AdminPanel_SeeFaction = "派閥一覧",
+	IGUI_AdminPanel_SeeFaction = "派閥の一覧",
 	IGUI_FactionUI_Invitation = "%1 はあなたを %2 派閥に招待していますが受け入れますか？",
 	IGUI_FactionUI_InvitationSent = "招待状を %1 に送信しました。",
 	IGUI_PlayerStats_View = "詳細を表示",
 	IGUI_FactionUI_FactionsListPlayers = "%1 プレイヤー - 所有者：%2",
-	IGUI_AdminPanel_SeeSafehouses = "セーフハウス一覧",
+	IGUI_AdminPanel_SeeSafehouses = "セーフハウスの一覧",
 	IGUI_PlayerStats_Teleport = "テレポート",
 	IGUI_TicketUI_AddTicket = "派閥招待",
 	IGUI_AdminPanel_SeeTickets = "派閥招待の確認",
@@ -872,6 +872,20 @@
 	IGUI_PlayerText_DoorBarricaded = "ドアがバリケードで塞がれています。",
 	IGUI_PlayerText_DoorBlocked = "ドアが塞がれています。",
 	IGUI_SafehouseUI_Title = "タイトル：",
-	IGUI_AdminPanel_SandboxOptions = "サンドボックス オプション",
+	IGUI_AdminPanel_SandboxOptions = "サンドボックス設定",
+	IGUI_HeadlightFocusingUp = "焦点を上げる",
+	IGUI_HeadlightFocusingDown = "焦点を下げる",
+	IGUI_AdminPanel_AdminPower = "管理者権限の編集",
+	IGUI_AdminPanel_TooltipEditAdminPower = "見えない設定、持ち運びの無制限、無制限の木工などの管理者権限を変更します。",
+	IGUI_AdminPanel_BuildCheat = "ビルドチートモード",
+	IGUI_AdminPanel_MechanicsCheat = "車両チートモード",
+	IGUI_AdminPanel_HealthCheat = "健康パネルチートモード",
+	IGUI_AdminPanel_ShowAdminTag = "何も選択されていない場合、キャラクターの頭上に「Admin」タグは表示されません。",
+	IGUI_invpanel_Melting = "解凍",
+	IGUI_invpanel_FreezingTime = "凍結時間",
+	IGUI_Moveables_DoorBarricaded = "ドアはバリケード塞がれています。",
+	IGUI_AdminPanel_ItemList = "アイテムリストの表示",
+	IGUI_ItemList_Info = "アイテムリスト内の項目もしくは下のボタンをダブルクリックしてインベントリにアイテムを追加します。",
+	IGUI_PlayerText_NoWayToFuelTankInlet = "燃料タンクの給油口を見つけることができませんでした。",
 
 }

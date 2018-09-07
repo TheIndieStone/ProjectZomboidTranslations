@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.68
-	-- Date 07-13-2018
+	-- Build-40.14
+	-- Date 09-07-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -370,7 +370,10 @@
 	ContextMenu_Vehicle_Closewindow = "%1を閉める",
 	ContextMenu_Vehicle_Openwindow = "%1を開ける",
 	ContextMenu_Vehicle_PlugGenerator = "発電機を車両に接続する",
-	ContextMenu_ChargeCarBattery = "車両バッテリーを充電する",
 	ContextMenu_RemoveBurntVehicle = "車両の残骸を解体する",
+	ContextMenu_AddWaterFromItem = "アイテムに水を追加する",
+	ContextMenu_CarBatteryCharger_ConnectBattery = "車両バッテリーを接続する",
+	ContextMenu_CarBatteryCharger_Place = "車両バッテリー充電器を置く",
+	ContextMenu_CarBatteryCharger_Take = "車両バッテリー充電器を取る",
 
 }

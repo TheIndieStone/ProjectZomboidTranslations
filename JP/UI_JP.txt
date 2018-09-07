@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.68
-	-- Date 07-13-2018
+	-- Build-40.14
+	-- Date 09-07-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -12,9 +12,9 @@
 	UI_mainscreen_tutorial = "チュートリアルモード",
 	UI_mainscreen_beginner = "初心者モード",
 	UI_mainscreen_laststand = "ラストスタンドモード",
-	UI_mainscreen_option = "ゲームの設定",
-	UI_mainscreen_debug = "デバッグ",
-	UI_mainscreen_demoBtn = "デモ",
+	UI_mainscreen_option = "オプションの設定",
+	UI_mainscreen_debug = "デバッグモード",
+	UI_mainscreen_demoBtn = "デモモード",
 	UI_mainscreen_challenges = "チャレンジモード",	
 	UI_mainscreen_sandbox = "サンドボックスモード",
 	UI_mainscreen_survival = "サバイバルモード",
@@ -22,14 +22,11 @@
 	UI_mainscreen_online = "サーバー接続",
 	UI_mainscreen_scoreboard = "プレイヤー一覧",
 	UI_mainscreen_continue = "コンテニュー",
-	UI_mainscreen_exit = "終了",
+	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>   ",
-
-	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>  ",
-	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト運用ためのファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 39.68 <2018年07月13日版>  ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.14 <2018年09月07日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.14 <2018年09月07日版>   ",
 
 	UI_Details = "更新情報",
 
@@ -84,6 +81,11 @@
 	UI_optionscreen_player2 = "プレイヤー 2",
 	UI_optionscreen_player3 = "プレイヤー 3",
 	UI_optionscreen_player4 = "プレイヤー 4",
+
+	UI_NewGame_SurvivalMore = " - おすすめのゾンビ体験",
+	UI_NewGame_OneWeekLater = "一週間後",
+	UI_NewGame_OneWeekLaterMore = " - カジュアルプレイヤー向け",
+	UI_NewGame_SixMonthsMore = " - プロプレーヤー向け",
 
 	-- Map selecter (lua)
 
@@ -379,6 +381,10 @@
 	UI_trait_Mechanics = "車両整備",
 	UI_trait_MechanicsDesc = "車両のメンテナンスと修理をすることができます。",
 	UI_trait_Mechanics2Desc = "道路にあるすべての車両のメンテナンスと修理に精通しています。",
+	UI_trait_RoadRage = "ロードレイジ",
+	UI_trait_RoadRageDesc = "速い運転をします。",
+	UI_trait_SundayDriver = "サンデードライバー",
+	UI_trait_SundayDriverDesc = "遅い運転をします。",
 
 	--
 
@@ -826,7 +832,7 @@
 	UI_ServerOption_UPnPLeaseTime_tooltip = "ポートリース時間(86400 == 24時間)",
 	UI_ServerOption_UPnPZeroLeaseTimeFallback_tooltip = "チェックボックスを有効にすると、ポートマッピングが失敗した場合(一部のルータで役立ちます)、 <br>自動的にゼロリース時間指定を行い再試行を行います。",
 	UI_ServerOption_UPnPForce_tooltip = "チェックボックスを有効にすると、既存のポートマッピングを削除します。",
-	UI_ServerSettingGroup_Other = "その他",
+	UI_ServerSettingGroup_Other = "その他の設定",
 	UI_ServerOption_DoLuaChecksum = "クライアント",
 	UI_ServerOption_DoLuaChecksum_tooltip = "クライアントのゲームファイルがホストサーバーとマッチしない場合、クライアントを強制排除する設定オプションです。",
 	UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "チェックボックスを有効にするとクライアントが建築物を破壊することができるようになります。",
@@ -1139,5 +1145,58 @@
 	UI_optionscreen_context_menu_font = "コンテキストメニューのフォントサイズ",
 	UI_GameLoad_KickChecksum = "あなたのゲームファイルがサーバーと一致しないため、あなたはキックされました。",
 	UI_GameLoad_TimedOut = "サーバーの応答中にタイムアウトしました。",
+	UI_coopscreen_ServerWorkshopItemsCancelled = "キャンセル... サーバーが終了するのを待っています。",
+	UI_optionscreen_NewRoofHiding = "家屋の表示方法",
+	UI_optionscreen_NewRoofHiding_tt = "プレーヤーを隠す建物の屋根の表示方法を制御します。<br><br>はい：個々の建物の上位レベルの家屋をすべて表示にします。<br>見た目が良くなります。メモリ使用量が増えてパフォーマンスが低下することがあります。<br><br>いいえ：すべての建物の上位レベルの家屋を非表示にします。<br>見た目が悪くなります。メモリ使用量が減ってパフォーマンスが向上します。",
+	UI_ConfirmMonitorSettings_Prompt = "画面設定を保持しますか？",
+	UI_ConfirmMonitorSettings_RevertIn = "%1 秒後に元に戻します。",
+	UI_ServerWorkshopItemErrorDetail_VersionMismatch = "サーバーのバージョンが古く、サーバーを再起動する必要があります。<br>バージョンが古い場合は、Steamを再起動して最新バージョンを入手してください。",
+	UI_ConnectToServer_TitleDedicated = "サーバーに接続",
+	UI_ConnectToServer_TitleCoop = "ホストに接続",
+	UI_ConnectToServer_ServerName = "サーバー名:",
+	UI_ConnectToServer_ServerIP = "サーバーIP:",
+	UI_ConnectToServer_UserName = "ユーザー名:",
+	UI_ConnectToServer_ReminderSteam = "注意：このSteamクライアントは、Steamサーバーにのみ接続できます。<br>LANまたはWANサーバーに接続するには、サーバーのパブリックIPが必要です。",
+	UI_ConnectToServer_ReminderNoSteam = "注意：この非スチームクライアントは、非スチームサーバにしか接続できません。",
+	UI_ServerSettingGroup_Discord = "Discordの設定",
+	UI_ServerOption_DiscordEnable_tooltip = "Discordとの統合を有効にする",
+	UI_ServerOption_DiscordToken_tooltip = "Discordのボットアクセストークン",
+	UI_ServerOption_DiscordChannel_tooltip = "Discordのチャンネル名",
+	UI_ServerOption_BloodSplatLifespanDays = "血痕の消滅日数",
+	UI_ServerOption_BloodSplatLifespanDays_tooltip = "古い血痕が消滅するまでの日数。<br>マップチャンクが読み込まれると血痕が削除されます。<br>0は、血痕を削除しないことを意味します。",
+	UI_command_arg_parse_failed = "'%1'コマンドの引数が間違っています。",
+	UI_chat_main_tab_title_id = "チャット",
+	UI_chat_faction_tab_title_id = "派閥",
+	UI_chat_safehouse_tab_title_id = "セーフハウス",
+	UI_chat_radio_tab_title_id = "無線機",
+	UI_chat_admin_tab_title_id = "管理者",
+	UI_chat_general_chat_title_id = "全体",
+	UI_chat_faction_chat_title_id = "派閥",
+	UI_chat_safehouse_chat_title_id = "セーブハウス",
+	UI_chat_radio_chat_title_id = "無線機",
+	UI_chat_admin_chat_title_id = "管理者",
+	UI_chat_local_chat_title_id = "ローカル",
+	UI_chat_server_chat_title_id = "サーバーメッセージ",
+	UI_chat_private_chat_title_id = "プライベート",
+	UI_chat_wrong_tab = "チャットコマンド '%3' はタブ '%1' で利用できません。代わりにタブ '%2' を使用してください。",
+	UI_chat_chat_disabled_msg = "チャット '%1' が無効です。 <LINE> 利用可能なチャット: <LINE> ",
+	UI_chat_general_chat_disabled = "サーバーのチャットが無効になっています。サーバー管理者に連絡してください。",
+	UI_chat_whisper_message_to_yourself_error = "自分にはメッセージを送ることはできません。",
+	UI_chat_whisper_player_not_found_error = "プレーヤー '%1' が見つかりません。",
+	UI_chat_context_enable_timestamp = "タイムスタンプ有効",
+	UI_chat_context_disable_timestamp = "タイムスタンプ無効",
+	UI_chat_context_enable_tags = "タグ有効",
+	UI_chat_context_disable_tags = "タグ無効",
+	UI_chat_context_font_submenu_name = "フォントサイズ",
+	UI_chat_context_font_small = "小",
+	UI_chat_context_font_medium = "中",
+	UI_chat_context_font_large = "大",
+	UI_chat_context_opaque_min = "不透明度 設定",
+	UI_chat_context_opaque_max = "不透明度 最大設定",
+	UI_chat_context_opaque_fade_time_submenu_name = "フェード時間",
+	UI_chat_context_opaque_on_focus = "フォーカスに不透明度",
+	UI_chat_context_disable = "無効",
+	UI_chat_context_enable = "有効",
+	UI_servers_needPwd = "アカウントを保護するために、パスワードを入力してください。",
 
 }

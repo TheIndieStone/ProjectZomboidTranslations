@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.68
-	-- Date 07-13-2018
+	-- Build-40.14
+	-- Date 09-07-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -653,8 +653,8 @@
 	DisplayName_Cyan_Light_Bulb = "白熱電球(明るい青色)",
 	DisplayName_Electric_Wire = "電線",
 	DisplayName_Green_Light_Bulb = "白熱電球(緑色)",
-	DisplayName_Guerilla_Radio_Vol._1 = "雑誌(ラジオの製作) Vol.1",
-	DisplayName_Guerilla_Radio_Vol._2 = "雑誌(トランシーバーの製作) Vol.2",
+	DisplayName_Guerilla_Radio_Vol._1 = "雑誌(無線機の製作) Vol.1",
+	DisplayName_Guerilla_Radio_Vol._2 = "雑誌(無線機の製作) Vol.2",
 	DisplayName_Guerilla_Radio_Vol._3 = "雑誌(無線機の製作) Vol.3",
 	DisplayName_Magenta_Light_Bulb = "白熱電球(明るい赤紫色)",
 	DisplayName_Makeshift_Ham_Radio = "無線機(手製)",
@@ -813,6 +813,10 @@
 	DisplayName_The_Hunter_Magazine_Vol._1 = "雑誌(狩猟の友) Vol.1",
 	DisplayName_The_Hunter_Magazine_Vol._2 = "雑誌(狩猟の友) Vol.2",
 	DisplayName_The_Hunter_Magazine_Vol._3 = "雑誌(狩猟の友) Vol.3",
-
+	DisplayName_Baking_Tray_With_Bread = "ベーキングトレイ(パン生地)",
+	DisplayName_Open_Canned_Beans = "開封済の缶詰(豆)",
+	DisplayName_Open_Canned_Soup = "開封済の缶詰(スープ)",
+	DisplayName_Open_Tin_of_Tuna = "開封済の缶詰(ツナ)",
+	DisplayName_Tuna = "缶詰(ツナ)",
 
 }
