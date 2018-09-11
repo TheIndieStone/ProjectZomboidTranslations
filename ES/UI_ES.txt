@@ -1151,4 +1151,9 @@ UI_ES = {
 	UI_chat_context_disable = "Deshabilitar",
 	UI_chat_context_enable = "Habilitar",
 	UI_servers_needPwd = "Por favor, introduce una contraseña para proteger tu cuenta.",
+	UI_optionscreen_temperature_display = "Indicador de temperatura",
+	UI_optionscreen_temperature_celsius = "Celsius",
+	UI_optionscreen_temperature_fahrenheit = "Fahrenheit",
+	UI_trait_SpeedDemon = "Demonio de la velocidad",
+	UI_trait_SpeedDemonDesc = "El conductor más rápido",
 }

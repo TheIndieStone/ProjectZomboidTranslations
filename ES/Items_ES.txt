@@ -835,4 +835,5 @@ Items_ES = {
 	DisplayName_Laines_Auto_Manual___Performance_Models = "Guía para vehículos deportivos",
 	DisplayName_Laines_Auto_Manual___Standard_Models = "Guía para vehículos estándares",
 	DisplayName_Car_Battery_Charger = "Cargador de batería de coche",
+	DisplayName_Plastic_Pipe = "Tubo de plástico",
 }
