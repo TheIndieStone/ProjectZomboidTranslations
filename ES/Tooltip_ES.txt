@@ -96,6 +96,7 @@ Tooltip_ES = {
     Tooltip_UseOnHealthPanel = "Haz clic derecho en tu panel de salud para usarlo.",
     Tooltip_tainted = "Contaminado ",
     Tooltip_Generator = "Fuente de alimentación portátil. Colócalo cerca de un refugio y conéctalo.<br>Requiere un alto nivel eléctrico y se alimenta con bidones de combustible.<br>No usar en interiores.",
+	Tooltip_CarBatteryCharger = "Colócalo en el suelo y, a continuación, utiliza el menú contextual para conectar una batería.<br>Requiere de energía eléctrica para funcionar.",
     Tooltip_ItemTraps = "Utilizado en dispositivos improvisados de defensa. Requiere conocer la receta o la profesión de ingeniero.",
     Tooltip_Literature_TeachedRecipes = "Enseña la receta: %1",
     Tooltip_TrapControllerID = "Identificación remota:",
@@ -194,4 +195,5 @@ Tooltip_ES = {
     Tooltip_craft_doubleWoodenDoorDesc = "Una puerta doble lo suficientemente grande como para permitir el paso de vehículos.",
     Tooltip_craft_pressToRotate = "Presiona '%1' para rotar durante la construcción",
 	Tooltip_removeBurntVehicle = "Desmontar los restos de automóviles con una máscara de soldar y un soplete de gas los eliminará de tu camino y te proporcionará materiales de metal para la construcción. <LINE> Un alto nivel de metalistería te permitirá obtener una mayor cantidad de recursos.",
+    Tooltip_lightFireNoStick = "Requiere palo de madera o rama para encender el fuego.",
 }
