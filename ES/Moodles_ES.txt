@@ -104,16 +104,11 @@ Moodles_ES = {
 	Moodles_hypothermia_lvl2 = "Frío",
 	Moodles_hypothermia_lvl3 = "Congelado",
 	Moodles_hypothermia_lvl4 = "Hipotermia",
-	-- CoolingDown
-	Moodles_coolingdown_lvl1 = "Enfriamiento",
-	Moodles_coolingdown_lvl2 = "Enfriamiento",
-	Moodles_coolingdown_lvl3 = "Enfriamiento",
-	Moodles_coolingdown_lvl4 = "Enfriamiento",
-	-- WarmingUp
-	Moodles_warmingup_lvl1 = "Calentamiento",
-	Moodles_warmingup_lvl2 = "Calentamiento",
-	Moodles_warmingup_lvl3 = "Calentamiento",
-	Moodles_warmingup_lvl4 = "Calentamiento",
+	-- Windchill
+    Moodles_windchill_lvl1 = "Ligero escalofrío",
+    Moodles_windchill_lvl2 = "Escalofrío incómodo",
+    Moodles_windchill_lvl3 = "Escalofrío helado",
+    Moodles_windchill_lvl4 = "Escalofrío horripilante",
 	
 	-- Description of moodle
 	-- Endurance
@@ -220,14 +215,9 @@ Moodles_ES = {
 	Moodles_hypothermia_desc_lvl2 = "Necesitas encontrar formas de mantenerte caliente.",
 	Moodles_hypothermia_desc_lvl3 = "Hace MUCHO frío.",
 	Moodles_hypothermia_desc_lvl4 = "Cuerpo y mente obsesionados por el frío.",
-	-- Cooling down
-	Moodles_coolingdown_desc_lvl1 = "Sientes un ligero descenso de temperatura.",
-	Moodles_coolingdown_desc_lvl2 = "Te notas con frío.",
-	Moodles_coolingdown_desc_lvl3 = "Sientes un rápido enfriamiento.",
-	Moodles_coolingdown_desc_lvl4 = "Sientes una bajada acelerada de temperatura.",
-	-- Warming up
-	Moodles_warmingup_desc_lvl1 = "Sientes un ligero aumento de temperatura.",
-	Moodles_warmingup_desc_lvl2 = "Te notas entrando en calor.",
-	Moodles_warmingup_desc_lvl3 = "Sientes un rápido acaloramiento."
-	Moodles_warmingup_desc_lvl4 = "Sientes una subida acelerada de temperatura.",
+	-- Windchill
+    Moodles_windchill_desc_lvl1 = "La sensación es de 5 a 10 grados más fría de lo que realmente es.",
+    Moodles_windchill_desc_lvl2 = "La sensación es de 10 a 15 grados más fría de lo que realmente es.",
+    Moodles_windchill_desc_lvl3 = "La sensación es de 15 a 20 grados más fría de lo que realmente es.",
+    Moodles_windchill_desc_lvl4 = "La sensación es de más de 20 grados más fría de lo que realmente es.",
 }
