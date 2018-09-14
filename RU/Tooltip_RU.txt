@@ -117,6 +117,7 @@ Tooltip_RU = {
 	Tooltip_Journal_UnLock = "Открыть доступ к редактированию текста",
 	Tooltip_Laser = "Увеличивает шанс попадания",
 	Tooltip_LemonGrass = "Употреблять для лечения пищевого отравления.",
+	Tooltip_lightFireNoStick = "Требуется деревянная палка или ветка чтобы разжечь огонь",
 	Tooltip_literature_AlreadyKnown = "Некоторые рецепты уже известны от профессии.",
 	Tooltip_literature_Boredom_Reduction = "Уменьшение скуки",
 	Tooltip_literature_HasBeenRead = "Вы это уже прочитали.",
