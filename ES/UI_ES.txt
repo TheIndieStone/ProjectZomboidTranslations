@@ -1156,4 +1156,5 @@ UI_ES = {
 	UI_optionscreen_temperature_fahrenheit = "Fahrenheit",
 	UI_trait_SpeedDemon = "Demonio de la velocidad",
 	UI_trait_SpeedDemonDesc = "El conductor más rápido",
+	UI_has_no_right_to_execute_command = "El jugador '%1' no tiene permiso para ejecutar el comando '%2'",
 }
