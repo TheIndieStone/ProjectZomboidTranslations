@@ -182,4 +182,12 @@ Moodles_zombified_desc_lvl1 = "Nag³a chêæ do jedzenia ludzkiego miêsa.",
 	Moodles_warmingup_desc_lvl3 = "Czujesz, ¿e ca³kiem szybko siê rozgrzewasz.",
 	Moodles_warmingup_desc_lvl4 = "Czujesz, ¿e szybko siê rozgrzewasz.",
 
+	Moodles_windchill_lvl1 = "Lekki czynnik ch³odz¹cy wiatru",
+	Moodles_windchill_lvl2 = "Œredni czynnik ch³odz¹cy wiatru",
+	Moodles_windchill_lvl3 = "Wysoki czynnik ch³odz¹cy wiatru",
+	Moodles_windchill_lvl4 = "Bardzo wysoki czynnik ch³odz¹cy wiatru",
+	Moodles_windchill_desc_lvl1 = "Temperatura odczuwalna jest o 5-10 stopni ni¿sza od temp. powietrza.",
+	Moodles_windchill_desc_lvl2 = "Temperatura odczuwalna jest o 10-15 stopni ni¿sza od temp. powietrza.",
+	Moodles_windchill_desc_lvl3 = "Temperatura odczuwalna jest o 15-20 stopni ni¿sza od temp. powietrza.",
+	Moodles_windchill_desc_lvl4 = "Temperatura odczuwalna jest o ponad 20 stopni ni¿sza od temp. powietrza.",
 }

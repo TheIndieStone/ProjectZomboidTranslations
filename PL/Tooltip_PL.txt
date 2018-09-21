@@ -198,4 +198,6 @@ Tooltip_PL = {
 
 	Tooltip_CarBatteryCharger = "Umieœæ na ziemi i u¿yj menu kontekstowego, aby pod³¹czyæ akumulator.<br>Wymaga Ÿród³a zasilania.",
 	Tooltip_removeBurntVehicle = "Dziêki rozmontowywaniu wraków samochodów palnikiem gazowym i mask¹ spawalnicz¹ uzyskasz metalowe czêœci i usuniesz wrak z drogi.<LINE> Im wy¿szy poziom spawania, tym wiêcej zdobêdziesz przydatnych czêœci.",
+	
+	Tooltip_lightFireNoStick = "Do rozpalenia ognia potrzebujesz ga³¹zki lub ga³êzi.",
 }

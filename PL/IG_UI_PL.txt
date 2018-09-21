@@ -843,4 +843,18 @@
 	IGUI_invpanel_Cooking = "Przygotowywanie",
 	IGUI_invpanel_Burning = "Przypalanie",
 	IGUI_invpanel_Burnt = "Przypalone",
+	
+	IGUI_CraftUI_SourceDestroy = "Zniszczysz:",
+	IGUI_CraftUI_SourceKeep = "Zatrzymasz:",
+	IGUI_CraftUI_SourceUse = "Zu¿yjesz:",
+	IGUI_CraftUI_SourceDestroyOneOf = "Zniszczysz jedno z:",
+	IGUI_CraftUI_SourceKeepOneOf = "Zatrzymasz jedno z:",
+	IGUI_CraftUI_SourceUseOneOf = "Zu¿yjesz jedno z:",
+	IGUI_PlayerText_NoWayToFuelTankInlet = "Nie mogê dojœæ do wlewu paliwa tego samochodu.",
+	IGUI_Adm_Weather_ClimateControl = "Kontrola pogody",
+	IGUI_Adm_Weather_Climate = "Klimat",
+	IGUI_Adm_Weather_Weather = "Pogoda",
+	IGUI_Adm_Weather_Triggers = "Wyzwalacze",
+	IGUI_Adm_Weather_ClimateEnabled = "W³¹cz symulacjê klimatu",
+	IGUI_Adm_Weather_ClimateEnabledInfo = "Jeœli zaznaczysz, wprowadzone zmiany nadpisz¹ system klimatu.",
 }

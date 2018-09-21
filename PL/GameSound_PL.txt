@@ -72,4 +72,7 @@ GameSound_PL = {
 	GameSound_HumanFootstepWood = "DŸwiêk kroków (na drewnie)",
 	GameSound_VehicleStarted = "Rozruch silnika",
 	GameSound_ZombieSurprisedPlayer = "Zombie zaskakuje gracza",
+	
+	GameSound_ButtonReload = "Wczytaj ponownie",
+	GameSound_ButtonReload_tt = "Wczytaj ponownie wszystkie pliki sounds.txt.",
 }

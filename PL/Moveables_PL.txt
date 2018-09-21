@@ -294,7 +294,6 @@ Island_Beach_Painting = 	 "Obraz Island Beach",
 Jolly_Good_Sign = 	 "Znak Jolly Good",
 Jorge_Foreguy_Barbecue = 	 "Grill Jorge Foreguy",
 Kaboom_Arcade_Machine = 	 "Automat do gier Kaboom",
-Large_Metal_Shelves = 	 "Du¿e metalowe pó³ki",
 Lakeside_Painting = 	 "Obraz Lakeside",
 Large_Bleached_Table = 	 "Du¿y wybielony stó³",
 Large_Brown_Table = 	 "Du¿y br¹zowy stó³",
@@ -681,5 +680,7 @@ Wooden_Picket = "Drewniany palik",
 Wooden_Stairs = "Drewniane schody",
 Moveable_object = "Przedmiot do przeniesienia",
 Scrapable_object = "Przedmiot do rozmontowania",
+
+Large_Metal_Shelves = "Du¿a metalowa pó³ka",
 	
 }
