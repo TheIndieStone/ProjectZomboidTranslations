@@ -1156,4 +1156,10 @@ UI_ES = {
 	UI_optionscreen_temperature_fahrenheit = "Fahrenheit",
 	UI_trait_SpeedDemon = "Demonio de la velocidad",
 	UI_trait_SpeedDemonDesc = "El conductor más rápido",
+	UI_has_no_right_to_execute_command = "El jugador '%1' no tiene permiso para ejecutar el comando '%2'",
+	UI_optionscreen_shaders2 = "Post-procesado",
+	UI_OnConnectFailed_NonAsciiCharacters = "El nombre de usuario contiene caracteres que no son Ascii.",
+	UI_ServerOption_AllowNonAsciiUsername =  "Permitir un nombre de usuario sin caracteres Ascii.",
+	UI_ServerOption_AllowNonAsciiUsername_tooltip = "Permitir o no el uso de caracteres no Ascii (cirílico...) en el nombre de usuario",
+	UI_servers_notvalid_username = "El nombre de usuario debe tener una longitud mínima de 3 caracteres y no debe contener ninguno de los siguientes elementos: ; . ' ? \",
 }
