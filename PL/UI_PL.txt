@@ -1156,4 +1156,8 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	UI_optionscreen_temperature_fahrenheit = "Stopnie Fahrenheita",
 	UI_trait_SpeedDemon = "Demon prêdkoœci",
 	UI_trait_SpeedDemonDesc = "Gaz do dechy.",
+	
+	UI_optionscreen_shaders2 = "Post-processing",
+	UI_OnConnectFailed_NonAsciiCharacters = "Nazwa u¿ytkownika zawiera niestandardowe znaki.",
+	UI_ServerOption_AllowNonAsciiUsername =  "Zezwól na niestandardowe znaki",
 }
