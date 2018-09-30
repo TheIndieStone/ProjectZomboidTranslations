@@ -1,5 +1,4 @@
 Items_PL = {
-
 	DisplayName_223_Bullets_Mold = "Forma odlewnicza kal. .233 cala",
 	DisplayName_308_Bullets_Mold = "Forma odlewnicza kal. .308 cala",
 	DisplayName_9mm_Bullets_Mold = "Forma odlewnicza kal. 9 mm",
@@ -771,9 +770,7 @@ Items_PL = {
 	DisplayName_x2_Scope = "Celownik optyczny x2",
 	DisplayName_x4_Scope = "Celownik optyczny x4",
 	DisplayName_x8_Scope = "Celownik optyczny x8",
-
 	DisplayName_Car_Battery_Charger = "Prostownik do akumulatorów",
-
 	DisplayName_Angler_USA_Magazine_Vol._1 = "Czasopismo 'Amerykañski Wêdkarz' nr 1",
 	DisplayName_Angler_USA_Magazine_Vol._2 = "Czasopismo 'Amerykañski Wêdkarz' nr 2",
 	DisplayName_Dog_Food = "Puszka karmy dla psów",
@@ -790,7 +787,6 @@ Items_PL = {
 	DisplayName_The_Smithing_Magazine_Vol._2 = "Czasopismo 'Kowal' nr 2",
 	DisplayName_The_Smithing_Magazine_Vol._3 = "Czasopismo 'Kowal' nr 3",
 	DisplayName_The_Smithing_Magazine_Vol._4 = "Czasopismo 'Kowal' nr 4",
-	
 	DisplayName_Electronics_Magazine_Vol._2 = "Czasopismo 'Elektronika' nr 2",
 	DisplayName_Electronics_Magazine_Vol._3 = "Czasopismo 'Elektronika' nr 3",
 	DisplayName_Electronics_Magazine_Vol._4 = "Czasopismo 'Elektronika' nr 4",
@@ -805,5 +801,4 @@ Items_PL = {
 	DisplayName_The_Hunter_Magazine_Vol._1 = "Czasopismo 'Myœliwy' nr 1",
 	DisplayName_The_Hunter_Magazine_Vol._2 = "Czasopismo 'Myœliwy' nr 2",
 	DisplayName_The_Hunter_Magazine_Vol._3 = "Czasopismo 'Myœliwy' nr 3",
-	
 }
