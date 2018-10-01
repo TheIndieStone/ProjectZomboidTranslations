@@ -1,10 +1,10 @@
-Challenge_JP = {
+﻿Challenge_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-40.14
+	-- Date 09-07-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	Challenge_YouHaveOneDay_name = "1．あなたの1日",
@@ -19,6 +19,12 @@ Challenge_JP = {
 	Challenge_Challenge1_desc = "ゾンビは短い間に急速に増え、あらゆる方向から襲って来る。 <LINE> 襲撃に備えろ！あなたは、きっと死ぬことになるだろう。しかし、 <LINE> あたなたは、ゾンビの群れにどの程度まで抵抗することができる <LINE> のだろうか？ 銃を準備するんだ... <LINE> 終わりがない、絶えずゾンビが増え続けるモード。 <LINE> あなたは、この世界で見つけられる限られたアイテムを使って <LINE> 可能な限り、生き残れ。",
 	Challenge_Challenge2_name = "6．森林の家 - 最後の抵抗 モード2",
 	Challenge_Challenge2_desc = "ゾンビは短い間に急速に増え、あらゆる方向から襲って来る。 <LINE> 襲撃に備えろ！あなたは、きっと死ぬことになるだろう。しかし、 <LINE> あたなたは、ゾンビの群れにどの程度まで抵抗することができる <LINE> のだろうか？ 銃を準備するんだ... <LINE> 一定時刻毎にゾンビが発生し、絶えずゾンビが増え続けるモード。 <LINE> ゾンビを倒せば、お金が入る。お金を使ってアイテムを買い、 <LINE> アイテムを修理し、レベルを上げろ。",
+	Challenge_AStormIsComing_name = "7. 嵐の到来",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> 終わりのない悪天候を前に...",
+	Challenge_AStormIsComing_desc = "ケンタッキー州に雲が集まっている。遠くから雷鳴が聞こえる。 <LINE> 空が暗くなるにつれて、地上の死者たちはざわめき始める。 <LINE> これは発達して凶悪な嵐になり、決して終わらないだろう。",
+	Challenge_TheDescendingFog_name = "8. 霧が降りてくる",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> それは霧になる...",
+	Challenge_TheDescendingFog_desc = "人々は、最初に水面でそれを見た。オハイオ川の水面に掛かった、 <LINE> かすかな白い毛布。それは、やがて霧となり、町を包み込んだ。 <LINE> 暗闇の中で町の人々の悲鳴。今、彼らはそこを徘徊している。 <LINE> 目が見えず、耳が聞こえず、生きようとする探求は執念深い。",
 	Challenge_Challenge2_PressKey = "'o' キーを押すことでメニュー画面が表示されます。メニュー内で武器やアイテムの購入、修理等ができます。",
 	Challenge_Challenge2_WaveStart = "ウェーブ 第 %1 波が開始されるまでの時間：%2 (Enterキーで待ち時間スキップ)",
 	Challenge_Challenge2_WaveDuration = "ウェーブ 第 %1 波 経過時間：%2",

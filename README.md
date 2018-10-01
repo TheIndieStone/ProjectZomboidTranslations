@@ -17,6 +17,8 @@ The master branch acts as the default branch and reflects the live version of wh
 
 It is wise to seek out if contribution is actively happening with a language and join that effort, before starting up one on your own.
 
+TAKE NOTE: We treat forks and branches as work in progress and we will not merge in these locations without a pull request.
+
 ## Joining As Contributor
 
 If you want to join as a contributor instead of forking, then create an issue and notify Connall, send me a message on theindiestone.com or through Discord. There are numerous ways to get a hold of me.

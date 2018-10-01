@@ -1,10 +1,10 @@
 ﻿Moodles_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-40.14
+	-- Date 09-07-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	-- Moodle type
@@ -261,5 +261,22 @@
 	Moodles_hypothermia_desc_lvl2 = "体を保温する必要がある。",
 	Moodles_hypothermia_desc_lvl3 = "心と体が寒さに取り付かれている。健康が危険にさらされている。",
 	Moodles_hypothermia_desc_lvl4 = "寒さによる麻痺と低温が原因の意識障害。恐ろしい死の危険が迫っている。",
+
+	Moodles_coolingdown_lvl1 = "涼しくなる",
+	Moodles_coolingdown_lvl2 = "涼しくなる",
+	Moodles_coolingdown_lvl3 = "涼しくなる",
+	Moodles_coolingdown_lvl4 = "涼しくなる",
+	Moodles_warmingup_lvl1 = "暖まる",
+	Moodles_warmingup_lvl2 = "暖まる",
+	Moodles_warmingup_lvl3 = "暖まる",
+	Moodles_warmingup_lvl4 = "暖まる",
+	Moodles_coolingdown_desc_lvl1 = "体が少し冷めているように感じている。",
+	Moodles_coolingdown_desc_lvl2 = "体が冷めているように感じている。",
+	Moodles_coolingdown_desc_lvl3 = "体が速く冷めているように感じている。",
+	Moodles_coolingdown_desc_lvl4 = "体が急速に冷めているように感じている。",
+	Moodles_warmingup_desc_lvl1 = "体が少し暖まる感じている。",
+	Moodles_warmingup_desc_lvl2 = "体が暖かく感じている。",
+	Moodles_warmingup_desc_lvl3 = "体がやや早く暖まる感じがしてる。",
+	Moodles_warmingup_desc_lvl4 = "体が急速に暖かくなっている感じがしている。",
 
 }

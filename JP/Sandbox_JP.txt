@@ -1,10 +1,10 @@
 ﻿Sandbox_JP = {
 
-	-- Japanese Translation Data Information
+	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-39.60
-	-- Date 05-19-2018
-	-- Official Japanese Translation by Falcon33jp (Koichi Takebe)
+	-- Build-40.14
+	-- Date 09-07-2018
+	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	Sandbox_SavedPresets = "保存した設定",
@@ -230,7 +230,6 @@
 
 	Sandbox_ErosionDays = "浸食日数",
 	Sandbox_ErosionDays_tooltip = "100％浸食するまでの日数を細かく設定することができます。\n設定を-1にすると浸食が無効になります。\n設定を0にした場合は、(侵食の早さ)の設定に依存します。\n1=(1日) 365=(1年) 最大数値 36500=(100年)",
-	Sandbox_CarDamageOnImpact_tooltip = "車両がクラッシュした際に受けるダメージ量を設定します。",
 
 	Sandbox_FarmingSpeed = "農作物の成長速度",
 	Sandbox_FarmingSpeed_option1 = "とても速い",
@@ -425,7 +424,8 @@
 	Sandbox_CarSpawnRate_option1 = "無効",
 	Sandbox_CarSpawnRate_option2 = "少ない",
 	Sandbox_CarSpawnRate_option3 = "普通",
-	Sandbox_CarSpawnRate_option4 = "多い",
+	Sandbox_CarSpawnRate_option4 = "少し多い",
+	Sandbox_CarSpawnRate_option5 = "とても多い",
 
 	Sandbox_ZombieAttractionMultiplier = "車両のエンジン音量",
 	Sandbox_ZombieAttractionMultiplier_tooltip = "ゾンビの反応に影響を与えるエンジン音量の増減を設定します。",
@@ -438,7 +438,7 @@
 
 	Sandbox_InitialGas = "車両の燃料積載量の比率",
 	Sandbox_InitialGas_tooltip = "発見された車両にどれくらいの燃料があるのか設定します。",
-	Sandbox_InitialGas_option1 = "非常に少ない",
+	Sandbox_InitialGas_option1 = "とても少ない",
 	Sandbox_InitialGas_option2 = "少ない",
 	Sandbox_InitialGas_option3 = "普通",
 	Sandbox_InitialGas_option4 = "多い",
@@ -474,18 +474,27 @@
 	Sandbox_CarAlarmFrequency_option5 = "少し多い",
 	Sandbox_CarAlarmFrequency_option6 = "とても多い",
 
-	Sandbox_PlayerDamageFromCrash = "車両事故における損傷",
-	Sandbox_PlayerDamageFromCrash_tooltip = "車両事故による人体に対する損傷を有効または無効にします。",
+	Sandbox_PlayerDamageFromCrash = "車両事故でプレーヤーが受ける損傷",
+	Sandbox_PlayerDamageFromCrash_tooltip = "車両事故でプレーヤー受けるダメージを有効または無効にします。",
 
 	Sandbox_SirenShutoffHours = "サイレン停止時間",
 	Sandbox_SirenShutoffHours_tooltip = "車両のサイレン音が停止するまでの時間を設定します。\n0に設定した場合は車両のバッテリが無くなるまで鳴り続けます。",
 
-	Sandbox_CarDamageOnImpact = "車両の損傷",
-	Sandbox_CarDamageOnImpact_option1 = "非常に低い",
+	Sandbox_CarDamageOnImpact = "車両が受ける損傷",
+	Sandbox_CarDamageOnImpact_tooltip = "車両が損傷する際に受ける車体へのダメージ量を設定します。",
+	Sandbox_CarDamageOnImpact_option1 = "とても低い",
 	Sandbox_CarDamageOnImpact_option2 = "低い",
 	Sandbox_CarDamageOnImpact_option3 = "普通",
 	Sandbox_CarDamageOnImpact_option4 = "高い",
-	Sandbox_CarDamageOnImpact_option5 = "非常に高い",
+	Sandbox_CarDamageOnImpact_option5 = "とても高い",
+
+	Sandbox_DamageToPlayerFromHitByACar = "車両がプレーヤーに与える損傷",
+	Sandbox_DamageToPlayerFromHitByACar_tooltip = "車両がプレーヤーに衝突した際に与えるダメージ量を設定します。",
+	Sandbox_DamageToPlayerFromHitByACar_option1 = "無効",
+	Sandbox_DamageToPlayerFromHitByACar_option2 = "低い",
+	Sandbox_DamageToPlayerFromHitByACar_option3 = "普通",
+	Sandbox_DamageToPlayerFromHitByACar_option4 = "高い",
+	Sandbox_DamageToPlayerFromHitByACar_option5 = "とても高い",
 
    --
 
