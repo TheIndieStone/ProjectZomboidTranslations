@@ -16,6 +16,12 @@ Challenge_EN = {
 
 	Challenge_Challenge2_name = "5. House in the Woods - Last Stand Accumulator",
 	Challenge_Challenge2_desc = "Another day, another cabin ready to be bloodied. The hordes are upon you, and your death will be as painful as it is gruesome. So go out fighting... <LINE> <LINE> Last Stand – Accumulator features endless waves of zombies in ever-increasing numbers. Use money earned by killing zeds to buy equipment, level up and repair your blood-soaked weaponry.",
+
+    Challenge_AStormIsComing_name = "7. (NEW) A Storm Is Coming",
+	Challenge_AStormIsComing_desc = "Clouds are gathering over Kentucky. The crackle of thunder can be heard in the distance. <LINE> <LINE> As skies darken, the dead that stumble over the earth grow restless. <LINE> <LINE> This is a storm that will grow and fall back in its ferocity, but it will never end.",
+
+    Challenge_TheDescendingFog_name = "8. (NEW) The Descending Fog",
+    Challenge_TheDescendingFog_desc = "People first saw it on the water. A faint white blanket over the Ohio river. <LINE> <LINE> It began as a mist. Then it enveloped the town. The townsfolk died screaming in the gloom. Now they walk out there. <LINE> <LINE> Unseen, unheard and relentless in the pursuit of the living.",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Press 'o' for permanent boost and to spend some money.",
 	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (press Enter to skip)",
@@ -48,4 +54,6 @@ Challenge_EN = {
 	Challenge_OpeningHoursInfoBox = " <CENTRE> The Mall opens at 9AM. <LINE> <LINE> Get ready for the crowds...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> In three days the endless winter begins. <LINE> <LINE> Wrap up warm...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> In 24 hours your trip back to Knox County will become Hell on Earth...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Endless bad weather ahead...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Its getting misty...",
 }
