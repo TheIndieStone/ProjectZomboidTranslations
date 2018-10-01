@@ -17,5 +17,7 @@ MultiStageBuild_PL = {
 	MultiStageBuild_CreateMetalWindow_1 = "Zbuduj metalowe okno poz. 1",
 	MultiStageBuild_UpgradeMetalWindow_1To2 = "Ulepsz metalowe okno do poz. 2",
 	MultiStageBuild_CreateMetalWindow_2 = "Zbuduj metalowe okno poz. 2",
+	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Ulepsz framugê drzwi do poz. 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Ulepsz framugê drzwi do poz. 3",
 	
 }

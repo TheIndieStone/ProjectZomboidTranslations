@@ -373,5 +373,10 @@ ContextMenu_FoodType_Tea = "Herbata",
 	ContextMenu_Vehicle_Closewindow = "Zamknij %1",
 	ContextMenu_Vehicle_Openwindow = "Otwórz %1",
 	ContextMenu_Vehicle_PlugGenerator = "Pod³¹cz agregat do pojazdu",
-	ContextMenu_ChargeCarBattery = "Na³aduj akumulator pojazdu",
+	
+	ContextMenu_AddWaterFromItem = "Dolej wody ze zbiornika",
+	ContextMenu_CarBatteryCharger_ConnectBattery = "Pod³¹cz akumulator",
+	ContextMenu_CarBatteryCharger_Place = "Po³ó¿ prostownik do akumulatorów",
+	ContextMenu_CarBatteryCharger_Take = "WeŸ prostownik do akumulatorów",
+	ContextMenu_RemoveBurntVehicle = "Rozmontuj wrak samochodu",
 }
