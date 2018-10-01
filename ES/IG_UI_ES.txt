@@ -875,5 +875,12 @@ IGUI_ES = {
     IGUI_AdminPanel_ShowAdminTag = "Si no se selecciona nada en la lista, no se mostrará la etiqueta roja de Admin encima de tu cabeza.",
     IGUI_AdminPanel_ItemList = "Buscador de objetos",
     IGUI_ItemList_Info = "Haz doble clic en un objeto de la lista o en el botón de abajo para agregarlo a tu inventario."
+
+	IGUI_Adm_Weather_ClimateControl = "Control del clima",
+	IGUI_Adm_Weather_Climate = "Clima",
+	IGUI_Adm_Weather_Weather = "Tiempo",
+	IGUI_Adm_Weather_Triggers = "Activadores",
+	IGUI_Adm_Weather_ClimateEnabled = "Activar simulación climática",
+	IGUI_Adm_Weather_ClimateEnabledInfo = "Si está marcada, los valores personalizados anularán el sistema de climatización.",
 }
 
