@@ -1,5 +1,7 @@
 GameSound_RU = {
 	GameSound_ButtonAdvanced = "Дополнительно",
+	GameSound_ButtonReload = "Перезагрузить",
+	GameSound_ButtonReload_tt = "Перезагрузить все звуки файла sounds.txt.",
 	GameSound_VolumeControlTooltip = "Громкость: %1%<br>Общая громкость: %2 %3%",
 
 	/* These are the names of tabs in the ui. */

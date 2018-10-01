@@ -114,6 +114,11 @@ Moodles_RU = {
 	Moodles_warmingup_lvl2 = "Согревание",
 	Moodles_warmingup_lvl3 = "Согревание",
 	Moodles_warmingup_lvl4 = "Согревание",
+	-- Windchill
+    Moodles_windchill_lvl1 = "Лёгкий холодок",
+    Moodles_windchill_lvl2 = "Неприятный озноб",
+    Moodles_windchill_lvl3 = "Жгучий холод",
+    Moodles_windchill_lvl4 = "Адский холод",
 
 	-- Description of moodle
 	-- Endurance
@@ -211,23 +216,28 @@ Moodles_RU = {
 	Moodles_foodeaten_desc_lvl3 = "Наелись до отвала. Хорошо-то как! Долгое повышение заживления и сил.",
 	Moodles_foodeaten_desc_lvl4 = "Объелись так, что одежда не налазит. Очень долгое повышение заживления и сил.",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "Жара. Может стоит надеть более лёгкую одежду? Хочется пить более часто.",
+	Moodles_hyperthermia_desc_lvl1 = "Жарковато. Может стоит надеть более лёгкую одежду? Повышенная жажда.",
 	Moodles_hyperthermia_desc_lvl2 = "Духота. Летом можно ходить и без майки, мёртвые не осудят.",
 	Moodles_hyperthermia_desc_lvl3 = "Тошнота, трудно сконцентрироваться, потребление воды организмом увеличено вдвое.",
 	Moodles_hyperthermia_desc_lvl4 = "Кружит голову и тошнит. Признаки гипертермии.",
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "Прохладно, небольшой озноб.",
-	Moodles_hypothermia_desc_lvl2 = "Зубы стучат от холода. Ищите способ согреться.",
+	Moodles_hypothermia_desc_lvl2 = "Зубы стучат от холода. Найдите способ согреться.",
 	Moodles_hypothermia_desc_lvl3 = "Тело и разум зациклены на холоде. Здоровье под угрозой.",
 	Moodles_hypothermia_desc_lvl4 = "Обморожение конечностей, признаки гипотермии. Серьезная угроза вашему здоровью.",
 	-- Cooling down
-	Moodles_coolingdown_desc_lvl1 = "Вы чувствуете, что слегка охлаждаетесь.",
+	Moodles_coolingdown_desc_lvl1 = "Вы чувствуете небольшое падение температуры.",
 	Moodles_coolingdown_desc_lvl2 = "Вы чувствуете, что охлаждаетесь.",
-	Moodles_coolingdown_desc_lvl3 = "Вы чувствуете, что охлаждаетесь немного быстрее.",
-	Moodles_coolingdown_desc_lvl4 = "Вы чувствуете, что быстро охлаждаетесь.",
+	Moodles_coolingdown_desc_lvl3 = "Вы чувствуете быстрое охлаждение.",
+	Moodles_coolingdown_desc_lvl4 = "Вы чувствуете быстрое падение температуры.",
 	-- Warming up
-	Moodles_warmingup_desc_lvl1 = "Вы чувствуете, что слегка согреваетесь.",
+	Moodles_warmingup_desc_lvl1 = "Вы чувствуете небольшое повышение температуры.",
 	Moodles_warmingup_desc_lvl2 = "Вы чувствуете, что согреваетесь.",
-	Moodles_warmingup_desc_lvl3 = "Вы чувствуете, что согреваетесь немного быстрее."
-	Moodles_warmingup_desc_lvl4 = "Вы чувствуете, что быстро согреваетесь.",
+	Moodles_warmingup_desc_lvl3 = "Вы чувствуете быстрое нагревание."
+	Moodles_warmingup_desc_lvl4 = "Вы чувствуете быстрое повышение температуры.",
+	-- Windchill
+    Moodles_windchill_desc_lvl1 = "По ощущению на 5-10 градусов холоднее, чем есть на самом деле.",
+    Moodles_windchill_desc_lvl2 = "По ощущению на 10-15 градусов холоднее, чем есть на самом деле.",
+    Moodles_windchill_desc_lvl3 = "По ощущению на 15-20 градусов холоднее, чем есть на самом деле.",
+    Moodles_windchill_desc_lvl4 = "По ощущению на более чем 20 градусов холоднее, чем есть на самом деле.",
 }
