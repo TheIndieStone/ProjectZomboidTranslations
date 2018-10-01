@@ -63,5 +63,15 @@ SurvivalGuide_ES = {
 
 	SurvivalGuide_entrie10title = "GUÍA DE SUPERVIVENCIA #10 - CLIMATOLOGÍA",
     SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> GUÍA DE SUPERVIVENCIA ZOMBOID <LINE> <SIZE:large> NUEVO - CLIMATOLOGÍA <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> La niebla, las tormentas y la nieve hacen que la amenaza de los zombis sea aún más desafiante. Abrígate cuando llegue el invierno...",
-    SurvivalGuide_entrie10moreinfo = "",
+    SurvivalGuide_entrie10moreinfo = "<H1> CAMBIO CLIMÁTICO <BR> <TEXT> Los patrones climáticos en Project Zomboid son realistas. Un sistema climático simulado utiliza la época del año y frentes meteorológicos virtuales para crear la lluvia, la nieve, la niebla y las tormentas eléctricas en las épocas relevantes del año. <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> El efecto de las temperaturas frías y cálidas tiene un impacto en tu supervivencia. <LINE> " ..
+                                      " Cuando el invierno se aproxime, tu resistencia al frío será mayor si estás bien alimentado, no cansado y usando ropa apropiada de invierno. También ayudará mantenerte activo y en forma. La humedad y la enfermedad aumentarán la probabilidad de que sufras el frío. <LINE> <BR> " ..
+                                      " Durante los períodos de frío extremo es mejor calentarse con una fuente de calor o dentro de un edificio: las hogueras, los calentadores de coche y las estufas te mantendrán calentito. <LINE> "..
+                                      " Cuando se sobrevive en climas calurosos, es recomendable mantenerse bien hidratado y usar ropa ligera. <LINE> <BR>" ..
+                                      " <H1> CONOCER LA TEMPERATURA <BR> <TEXT> Si deseas saber la temperatura en tu área cercana, puedes usar los relojes digitales para mostrar la temperatura en tu interfaz de usuario. <LINE> <BR> " ..
+                                      " <H1> VIENTO FRÍO <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> Durante los meses de invierno, especialmente, la sensación térmica exterior también se convertirá en un factor, y las fuertes lluvias también agravarán esta situación. Las ventiscas a mediados del invierno pueden disminuir severamente la temperatura debido al fuerte viento y a la baja temperatura. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> El viento helado afecta a tu cuerpo, pero no mostrará una diferencia directa de temperatura en tu reloj digital. Vigila tu estado de ánimo para ver cuándo te está afectando. <LINE> <BR> " ..
+                                      " ¡Abrígate bien superviviente!",
+
+
 }
