@@ -2,8 +2,8 @@ SurvivalGuide_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.14
-	-- Date 09-07-2018
+	-- Build-40.21
+	-- Date 10-01-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -23,8 +23,8 @@ SurvivalGuide_JP = {
 	SurvivalGuide_entrie2moreinfo = " <H1> ゾンビの認識能力 <BR> <TEXT> サバイバルモードでの死者は、見える物と音に反応します。 <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 走ると音がしてより気づかれやすくなります。  奴らを振り切ることはできますが、それも永遠とはいきません。"..
     "<BR> 賢い生存者は「左 CTRL」と仲が良いです。(マウスの右ボタンが大好きなら良いです)   これは、スニーク/攻撃モードを有効にします。  こっそり動くと気付かれづらくなり、あなたの絶望に満ちた足音を弱めます。  同様に向きを変えることをもっと簡単にします。  そのため、確実にあなたの首から肉塊を奪おうとする者はいません。 <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> プロジェクト・ゾンボイド は人気コンテストではありません。影に潜みましょう。  ゾンビはあなたを食べたいのです。奴らは抱き合いませんよ。 <BR>",
 
-	SurvivalGuide_entrie3title = "サバイバルガイド #3 - 操作は正確に！",
-	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> #3 - 操作は正確に！ <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:small> 生ける屍との戦いでゾンビの頭蓋骨を 破裂するには努力を要します！ <LINE> <LINE> 重要なのは：チャージして攻撃！",
+	SurvivalGuide_entrie3title = "サバイバルガイド #3 - 操作は正確に",
+	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> #3 - 操作は正確に <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:small> 生ける屍との戦いでゾンビの頭蓋骨を 破裂するには努力を要します！ <LINE> <LINE> 重要なのは：チャージして攻撃！",
 	SurvivalGuide_entrie3moreinfo = " <H1> 戦闘システム <BR> <TEXT> 全ての武器は、それぞれ決まったダメージを与えます。  しかし、実際に与えるダメージを決めるのは、あなたの技能と手際の良さです。  ダメージが低い場合は、あなたの技能が足りないのかも知れません。 <BR> <H2> 正確性 "..
             " <BR> <TEXT> 脳をグチャグチャにすり潰す近接攻撃の力は、技能レベルにも左右されます。  しかし、もうひとつの重要な要因は、どの程度「チャージして」武器を振るかです。  攻撃の前にマウス右ボタンを何秒か押し続けると狙いを定めて集中して倒します。  チャージ攻撃はとても強力ですが、攻撃頻度は下がります。 <BR>  このゾンビ世界では、マウスの連打は命取りです！ <BR> <H2> 攻撃距離 <BR> <TEXT> 攻撃距離は、もうひとつの重要な要因です。  攻撃に最適な距離は、所持している武器の種類によって決まります。 <BR> 一般的に、バットや斧のような武器は、最大攻撃距離で殴ると効果が上がります。 <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> サバイバルナイフや包丁のような刺突武器は、近距離で突き刺すと非常に効果的です。  とは言っても、バターナイフに多くを期待しないでください。 <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
             " <H2> 地面攻撃 <BR> <TEXT>  死者を再び殺す最善の方法は、地面に打ち倒し、奴らの脳をぶっ叩くことです。 <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> これを行うには、ゾンビを強打するかもしくは押し退けます。  押し退けは自動で行われます。  それが起きる条件は、武器の最小攻撃距離よりも近くにゾンビがいる場合や  (消化斧やバット等と同じ種類の武器を振り回すと起こります。)  ゾンビを押し倒した時です。 <BR> ゾンビが倒れたら、攻撃は下に向かって行われダメージを与えるでしょう。  そこで脳みそが見つかるはずです。 <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
@@ -63,11 +63,37 @@ SurvivalGuide_JP = {
 			" <BR> 「F」: 最も良い光源を装備する(そして照明を点ける)。 ",
 
     SurvivalGuide_entrie9title = "サバイバルガイド #9 - 車両",
-    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> サバイバルガイド #9 - 車両 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:small>  車両は、生存の便益をもたらしますが、 エンジンは騒音を発生させます！ エンジンの音は、遠くから ゾンビの群れを引きつれてきます...",
+    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> #9 - 車両 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:small>  車両は、生存の便益をもたらしますが、 エンジンは騒音を発生させます！ エンジンの音は、遠くから ゾンビの群れを引きつれてきます...",
     SurvivalGuide_entrie9moreinfo = " <H1> 飛び込む <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> あなたが幸運であれば、車両のグローブボックスに鍵があるかも知れません。  あるいは、車両の近くに鍵が落ちてるかも知れません。  それとも、車両が駐車された近くの家屋の室内に鍵があるかも知れません。  ありそうな場所を探してみましょう。 <BR> 鍵が見つけられませんか？なぜ、車両に侵入しようとしないのですか？  車両の窓を壊してロックを解除することができます。  車両整備と電気工学の技能が十分にあれば、点火装置をショートさせて  エンジンを掛けることができます。 <BR> " ..
             " <H1> 運転の時間 <BR> <TEXT> ダッシュボードのイグニッションをクリックしてエンジンを始動させます。  または、前方キー「W」を押して始動させます。 <BR> 車両のエンジン状態が良くない場合は、始動しないことがあります。  何度も始動しない場合は、車両整備の技能が必要な時かもしれません... <BR> 慎重に運転してください！  車両のエンジン音は大きくゾンビが集まりやすくなります... <BR> " ..
             " <H1> ダッシュボード <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> ダッシュボードには、燃料計、速度、エンジン回転数などの情報が表示されています。 <BR> ダッシュボードにあるアイコンは、エンジン状態、トランク開閉、ヘッドライトなど  の車両の動作状態を知らせます。 <BR> これらのアイコンをクリックすると利用可能なオプションウィンドウが表示されます。  例えば、ヒーターをクリックするとヒーター設定のウィンドウが開きます。 <BR> " ..
             " <H1> 車両ラジアルメニュー <BR> <TEXT> 車両の中、車両の横や近くにいる時に、「V」を押してみてください。  対象となる車両の車両ラジアルメニューが開くはずです。 <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> ここから、座席位置の切り替え、ドアの施錠、ヘッドライトの操作、車両整備などの  ウィンドウを開くことができます。 <BR> " ..
             " <H1> 車両整備 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 車両整備の技能を持たない者は、バッテリーがまだ正常であるかどうかをチェックし、  燃料の残量を見て、車両の部品が損傷していないかを確認すると良いでしょう。 <BR> 車両整備の技能を持つ者は、いろいろな部品を交換することができます。 <BR> 詳細は、車両整備ウィンドウの左上隅にある情報アイコンをクリックしてください。",
+
+	SurvivalGuide_entrie10title = "サバイバルガイド #10 - 天候",
+	SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> #10 - 天候 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:small> 霧、暴風雨、雪は、死者の脅威がさら  に挑戦的にします！  冬が始まり、暖かい服を着込みます...",
+	SurvivalGuide_entrie10moreinfo = "",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
 

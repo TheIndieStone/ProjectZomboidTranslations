@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.14
-	-- Date 09-07-2018
+	-- Build-40.21
+	-- Date 10-01-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,8 +25,8 @@
 	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.14 <2018年09月07日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.14 <2018年09月07日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.21 <2018年10月01日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.21 <2018年10月01日版>   ",
 
 	UI_Details = "更新情報",
 
@@ -54,7 +54,7 @@
 	UI_optionscreen_resolution = "解像度",
 	UI_optionscreen_zoom = "ズームを有効にする",
 	UI_optionscreen_inventory_font = "インベントリのフォントサイズ",
-	UI_optionscreen_clock_format = "日時表示",
+	UI_optionscreen_clock_format = "日時表示方式",
 	UI_optionscreen_clock_month_day = "月 / 日",
 	UI_optionscreen_clock_day_month = "日 / 月",
 	UI_optionscreen_language = "言語表示",
@@ -164,7 +164,7 @@
 
 	-- professions and Traits
 
-	UI_prof_unemployed = "無職",
+	UI_prof_unemployed = "失業者",
 	UI_prof_fireoff = "消防士",
 	UI_prof_policeoff = "警察官",
 	UI_prof_parkranger = "自然保護官",
@@ -172,9 +172,9 @@
 	UI_prof_securityguard = "警備員",
 	UI_prof_Carpenter = "大工",
 	UI_prof_Burglar = "泥棒",
-	UI_prof_Chef = "調理師",
+	UI_prof_Chef = "コック",
 	UI_prof_Repairman = "修理工",
-	UI_prof_Farmer = "農夫",
+	UI_prof_Farmer = "農家",
 	UI_prof_Fisherman = "漁師",
 	UI_prof_Doctor = "医師",
 	UI_prof_Veteran = "退役軍人",
@@ -207,7 +207,7 @@
 	UI_trait_handy = "軽便",
 	UI_trait_handydesc = "バリケード建築速度が増加します。",
 	UI_trait_thickskinned = "厚い皮膚",
-	UI_trait_thickskinneddesc = "怪我や感染する危険性が低くなります。",
+	UI_trait_thickskinneddesc = "引っ掻きや噛まれる危険性が低くなります。",
 	UI_trait_patient = "忍耐強い",
 	UI_trait_patientdesc = "あまり怒りません。",
 	UI_trait_shorttemper = "短気",
@@ -319,9 +319,9 @@
 	UI_trait_Insomniac = "浅い眠り",
 	UI_trait_InsomniacDesc = "睡眠中の疲労回復が遅くなります。",
 	UI_trait_Pacifist = "平和主義者",
-	UI_trait_PacifistDesc = "武器全般の威力が低下します。",
+	UI_trait_PacifistDesc = "武器全般の経験値取得が低下します。",
 	UI_trait_ThinSkinned = "薄い皮膚",
-	UI_trait_ThinSkinnedDesc = "怪我や細菌に感染する危険性が高くなります。",
+	UI_trait_ThinSkinnedDesc = "引っ掻きや噛まれる危険性や感染のリスクが高くなります。",
 	UI_trait_Dexterous = "器用",
 	UI_trait_DexterousDesc = "アイテムの移動が早くなります。",
 	UI_trait_AllThumbs = "不器用",
@@ -366,8 +366,8 @@
 	UI_trait_nutritionist = "栄養学",
 	UI_trait_nutritionistdesc = "食べ物の栄養価が判るようになります。",
 	UI_trait_deafdesc = "音が全く聞こえません。",
-	UI_trait_Cook = "料理人",
-	UI_trait_cook = "料理人",
+	UI_trait_Cook = "調理",
+	UI_trait_cook = "料理",
 	UI_trait_Cook2Desc = "料理を作ることができます。",
 	UI_trait_CookDesc = "色々な料理の作り方を知っています。",
 	UI_trait_Blacksmith = "鍛冶技術者",
@@ -378,11 +378,11 @@
 	UI_trait_Smoker = "愛煙家",
 	UI_trait_SmokerDesc = "煙草を吸うとストレスと不幸が減少します。<br>煙草を吸わないとストレスと不幸が上がります。",
 	UI_trait_MetalworkerDesc = "アイテムやバリケードを作成するために金属を溶接することができます。",
-	UI_trait_Mechanics = "車両整備",
+	UI_trait_Mechanics = "アマチュア整備",
 	UI_trait_MechanicsDesc = "車両のメンテナンスと修理をすることができます。",
 	UI_trait_Mechanics2Desc = "道路にあるすべての車両のメンテナンスと修理に精通しています。",
-	UI_trait_RoadRage = "ロードレイジ",
-	UI_trait_RoadRageDesc = "速い運転をします。",
+	UI_trait_SpeedDemon = "スピード狂",
+	UI_trait_SpeedDemonDesc = "速い運転をします。",
 	UI_trait_SundayDriver = "サンデードライバー",
 	UI_trait_SundayDriverDesc = "遅い運転をします。",
 
@@ -392,7 +392,7 @@
 	UI_characreation_BuildSavePrompt = "保存する名前を入力",
 	UI_characreation_BuildDeletePrompt = "「%1」を削除しますか？",
 	UI_characreation_SavedBuilds = "保存したファイル名：",
-	UI_characreation_SelectToLoad = "保存データを選択",
+	UI_characreation_SelectToLoad = "保存ファイルを選択",
 	UI_characreation_BuildSave = "保存",
 	UI_characreation_BuildDel = "削除",
 
@@ -569,9 +569,12 @@
 	UI_mods_ExplanationJoypad = "MDO の有効 / 無効化の設定    インストールされた MOD →",
 	UI_mainscreen_invite = "フレンド招待",
 	UI_mainscreen_return = "戻る",
-	UI_optionscreen_clock_24_or_12 = "時間表示 24時間 / 12時間",
-	UI_optionscreen_clock_24_hour = "24時間表示",
-	UI_optionscreen_clock_12_hour = "12時間表示",
+	UI_optionscreen_clock_24_or_12 = "時間表示方式",
+	UI_optionscreen_clock_24_hour = "24時間",
+	UI_optionscreen_clock_12_hour = "12時間",
+	UI_optionscreen_temperature_display = "温度表示方式",
+	UI_optionscreen_temperature_celsius = "摂氏(°C)",
+	UI_optionscreen_temperature_fahrenheit = "華氏(°F)",
 	UI_btn_accept = "承諾",
 	UI_btn_cancel = "取り消し",
 	UI_btn_close = "閉じる",
@@ -1170,8 +1173,8 @@
 	UI_chat_safehouse_tab_title_id = "セーフハウス",
 	UI_chat_radio_tab_title_id = "無線機",
 	UI_chat_admin_tab_title_id = "管理者",
-	UI_chat_general_chat_title_id = "全体",
-	UI_chat_faction_chat_title_id = "派閥",
+	UI_chat_general_chat_title_id = "全員",
+	UI_chat_faction_chat_title_id = "派閥メンバー",
 	UI_chat_safehouse_chat_title_id = "セーブハウス",
 	UI_chat_radio_chat_title_id = "無線機",
 	UI_chat_admin_chat_title_id = "管理者",
@@ -1198,5 +1201,11 @@
 	UI_chat_context_disable = "無効",
 	UI_chat_context_enable = "有効",
 	UI_servers_needPwd = "アカウントを保護するために、パスワードを入力してください。",
+	UI_has_no_right_to_execute_command = "プレーヤー '%1'は、'%2'コマンドを実行する権利がありません。",
+	UI_optionscreen_shaders2 = "ポストプロセッシング",
+	UI_OnConnectFailed_NonAsciiCharacters = "ユーザー名にASCII以外の文字コードが含まれています。",
+	UI_ServerOption_AllowNonAsciiUsername =  "非ASCIIユーザ名を許可する",
+	UI_ServerOption_AllowNonAsciiUsername_tooltip = "ユーザー名にASCII(キリル文字)以外の文字コードを使用するかどうかを指定します。",
+	UI_servers_notvalid_username = "ユーザー名は、少なくとも3文字以上、次のいずれかの文字を含んではいけません。(: ; . ' ? \ /) ",
 
 }

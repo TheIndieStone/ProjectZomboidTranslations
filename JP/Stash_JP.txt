@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.14
-	-- Date 09-07-2018
+	-- Build-40.21
+	-- Date 10-01-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -31,9 +31,9 @@
 	Stash_MulMap8_Text2 = "必要な飲料水がここにある",
 	Stash_MulMap8_Text3 = "ここの大きなゾンビ集団は、ここ数日間は移動していない。",
 	Stash_MulMap10_Text1 = "死の家",
-	Stash_MulMap10_Text2 = "Spiffo(スピッフォ)",
+	Stash_MulMap10_Text2 = "Spiffo",
 	Stash_MulMap10_Text3 = "ここではっきりと見た",
-	Stash_MulMap11_Text1 = "Spiffo(スピッフォ)の銃",
+	Stash_MulMap11_Text1 = "Spiffoの銃",
 	Stash_MulMap11_Text2 = "トラブル",
 	Stash_MulMap11_Text3 = "ここではっきり見た",
 	Stash_WpMap1_Text1 = "確か、ここが彼が住んでいた場所",
@@ -95,7 +95,7 @@
 	Stash_MulMap13_Text1 = "中途半端に戻って来た、ここに全て残した - 重過ぎる",
 	Stash_MulMap13_Text2 = "ホームセンター ここにはまだ多くの道具が",
 	Stash_MulMap13_Text3 = "銃砲店",
-	Stash_WpMap11_Text1 = "Spiffo(スピッフォ)の店長は店内に散弾銃を保管してる。",
+	Stash_WpMap11_Text1 = "Spiffoの店長は店内に散弾銃を保管してる。",
 	Stash_WpMap11_Text11 = "クレイジーな馬鹿は何が来るのか分かっていた。",
 	Stash_WpMap11_Text2 = "手の届かない場所。",
 	Stash_WpMap11_Text3 = "自宅の近くの何処かに避けるつもりだ - ここで私を探しちゃいけない",

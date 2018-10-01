@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.14
-	-- Date 09-07-2018
+	-- Build-40.21
+	-- Date 10-01-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -93,10 +93,10 @@
 	Moodles_hascold_lvl4 = "風邪を引いた",
 
 	-- Injured
-	Moodles_injured_lvl1 = "軽度の傷",
-	Moodles_injured_lvl2 = "中度の傷",
-	Moodles_injured_lvl3 = "重度の傷",
-	Moodles_injured_lvl4 = "危機的な傷",
+	Moodles_injured_lvl1 = "軽度のダメージ",
+	Moodles_injured_lvl2 = "中度のダメージ",
+	Moodles_injured_lvl3 = "重度のダメージ",
+	Moodles_injured_lvl4 = "危機的なダメージ",
 
 	-- Pain
 	Moodles_pain_lvl1 = "軽い痛み",
@@ -266,17 +266,30 @@
 	Moodles_coolingdown_lvl2 = "涼しくなる",
 	Moodles_coolingdown_lvl3 = "涼しくなる",
 	Moodles_coolingdown_lvl4 = "涼しくなる",
+
 	Moodles_warmingup_lvl1 = "暖まる",
 	Moodles_warmingup_lvl2 = "暖まる",
 	Moodles_warmingup_lvl3 = "暖まる",
 	Moodles_warmingup_lvl4 = "暖まる",
-	Moodles_coolingdown_desc_lvl1 = "体が少し冷めているように感じている。",
-	Moodles_coolingdown_desc_lvl2 = "体が冷めているように感じている。",
-	Moodles_coolingdown_desc_lvl3 = "体が速く冷めているように感じている。",
-	Moodles_coolingdown_desc_lvl4 = "体が急速に冷めているように感じている。",
-	Moodles_warmingup_desc_lvl1 = "体が少し暖まる感じている。",
-	Moodles_warmingup_desc_lvl2 = "体が暖かく感じている。",
-	Moodles_warmingup_desc_lvl3 = "体がやや早く暖まる感じがしてる。",
-	Moodles_warmingup_desc_lvl4 = "体が急速に暖かくなっている感じがしている。",
+
+	Moodles_coolingdown_desc_lvl1 = "体が少し冷めているように感じる。",
+	Moodles_coolingdown_desc_lvl2 = "体が冷めているように感じる。",
+	Moodles_coolingdown_desc_lvl3 = "体がやや早く冷めているように感じる。",
+	Moodles_coolingdown_desc_lvl4 = "体が急速に冷めているように感じる。",
+
+	Moodles_warmingup_desc_lvl1 = "体が少し暖まるように感じる。",
+	Moodles_warmingup_desc_lvl2 = "体が暖かくなっているように感じる。",
+	Moodles_warmingup_desc_lvl3 = "体がやや早く暖まるように感じる。",
+	Moodles_warmingup_desc_lvl4 = "体が急速に暖かくなっているように感じる。",
+
+	Moodles_windchill_lvl1 = "軽い風冷え",
+	Moodles_windchill_lvl2 = "やっかいな風冷え",
+	Moodles_windchill_lvl3 = "凍りつく風冷え",
+	Moodles_windchill_lvl4 = "ものすごい風冷え",
+
+	Moodles_windchill_desc_lvl1 = "実際よりも5-10度くらい冷たく感じる。",
+	Moodles_windchill_desc_lvl2 = "実際よりも10-15度くらい冷たく感じる。",
+	Moodles_windchill_desc_lvl3 = "実際よりも15-20度くらい冷たく感じる。",
+	Moodles_windchill_desc_lvl4 = "実際よりも20度以上冷たく感じる。",
 
 }
