@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.21
-	-- Date 10-01-2018
+	-- Build-40.25
+	-- Date 10-05-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,8 +25,8 @@
 	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.21 <2018年10月01日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.21 <2018年10月01日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.25 <2018年10月05日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.25 <2018年10月05日版>   ",
 
 	UI_Details = "更新情報",
 
@@ -49,7 +49,6 @@
 	UI_optionscreen_lighting_fps = "秒間ライティングフレームレート",
 	UI_optionscreen_lighting_fps_tt = "秒間ライティングフレームレートの設定です。",
 	UI_optionscreen_needreboot = "設定を有効にするには再起動が必要です。",
-	UI_optionscreen_shaders = "シェーダー",
 	UI_optionscreen_shadersunsupported = "ハードウェア非対応",
 	UI_optionscreen_resolution = "解像度",
 	UI_optionscreen_zoom = "ズームを有効にする",
@@ -979,7 +978,6 @@
 	UI_ServerOptionDesc_CreateHorde = "これを使うとプレイヤーの近くにゾンビの大群をスポーンさせることができます。使用方法：/createhorde count \"username\", 使用例： /createhorde 150 \"rj\", サーバーコンソール上からの入力時以外はユーザー名の入力は任意となります。",
 	UI_ServerOptionDesc_Players = "接続しているプレイヤーをリスト化します。",
 	UI_ServerOptionDesc_ServerMsg = "これを使うと接続しているプレイヤー全員にメッセージを送信できます。使用方法：/servermsg my message ! ",
-	UI_ServerOptionDesc_NightModifier = "夜の長さの変更値をセットします。(1.0 = 通常の長さ、0.5 = 半分の長さ、 0.0 = 夜にならない）使用方法：/nightlengthmodifier <delta>",
 	UI_ServerOptionDesc_AddXp = "プレイヤーに経験値ポイントを追加します。使用方法：/addxp \"playername\" perkname=xp, 使用例：/addxp \"rj\" Woodwork=2 ",
 	UI_ServerOptionDesc_Teleport = "プレイヤーのいる場所にてレポートします。一度テレポートするとマップの表示に約 2 秒を要します。 使用方法：/teleport \"playername\" もしくは /teleport \"player1\" \"player2\" 使用例： /teleport \"rj\" or /teleport \"rj\" \"toUser\" ",
 	UI_ServerOptionDesc_SendPulse = "このクライアントに送信するサーバーパフォーマンス情報を切り替えます。使用方法：/sendpulse ",
@@ -988,7 +986,6 @@
 	UI_ServerOptionDesc_UnBanSteamId = "Steam ID の排除を解除します。使用方法：/unbanid SteamID ",
 	UI_ServerOptionDesc_ReloadLua = "Lua スクリプトを再読み込みします。使用方法：/reloadlua \"filename\" ",
 	UI_ServerOptionDesc_Connections = "全ての接続に関する情報を表示します。",
-	UI_ServerOptionDesc_Disconnect = "接続番号にてクライアントをキックします。接続番号は /connections を使って確認できます。使用方法：/disconnect index, 使用例： /disconnect 2",
 	UI_ServerOptionDesc_TeleportTo = "設定した座標にテレポートします。使用方法：/teleportto x,y,z, 使用例： /teleportto 100098,189980,0",
 	UI_ServerOptionDesc_SetAccessLevel = "プレイヤーに新たなアクセスレベルを設定できます。アクセスレベル：admin, moderator, overseer, gm, observer. 使用方法：/setaccesslevel \"username\" \"accesslevel\", 使用例： /setaccesslevel \"rj\" \"moderator\" ",
 	UI_ServerOptionDesc_ChangePwd = "このコマンドを使うことでパスワードの変更が行えます。使用方法：/changepwd \"previouspwd\" \"newpwd\" ",
@@ -1114,7 +1111,7 @@
 	UI_mapspawn_Safehouse = "セーフハウス",
 	UI_ServerOptionDesc_AddVehicle = "新しい車両を配置する場合: /addvehicle \"script\" \"user or x,y,z\", ex /addvehicle \"Base.VanAmbulance\" \"rj\"",
 	UI_GameLoad_HowToExit = "Escキーもしくはマウスの左ボタンを押してゲームを終了します。",
-	UI_ServerOptionDesc_SafeHouse = "あなたが所有している金庫を解除するする場合: /safehouse release",
+	UI_ServerOptionDesc_SafeHouse = "あなたが所有しているセーフハウスを解除するする場合: /releasesafehouse",
 	UI_optionscreen_UIFBO = "UI オフスクリーン レンダリング",
 	UI_optionscreen_UIFBO_tt = "パフォーマンスを向上させるために低いフレームレートで <br>UIをオフスクリーンイメージにレンダリングするかの設定です。",
 	UI_optionscreen_UIRenderFPS = "UI レンダリング FPS",
@@ -1207,5 +1204,8 @@
 	UI_ServerOption_AllowNonAsciiUsername =  "非ASCIIユーザ名を許可する",
 	UI_ServerOption_AllowNonAsciiUsername_tooltip = "ユーザー名にASCII(キリル文字)以外の文字コードを使用するかどうかを指定します。",
 	UI_servers_notvalid_username = "ユーザー名は、少なくとも3文字以上、次のいずれかの文字を含んではいけません。(: ; . ' ? \ /) ",
+	UI_optionscreen_perf_skybox = "ダイナミック スカイボックス",
+	UI_optionscreen_perf_reflections = "環境反射",
+	UI_restart_game_to_apply = "変更を適用するにはゲームを再起動する必要があります。",
 
 }

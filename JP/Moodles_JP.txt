@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.21
-	-- Date 10-01-2018
+	-- Build-40.25
+	-- Date 10-05-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -262,25 +262,7 @@
 	Moodles_hypothermia_desc_lvl3 = "心と体が寒さに取り付かれている。健康が危険にさらされている。",
 	Moodles_hypothermia_desc_lvl4 = "寒さによる麻痺と低温が原因の意識障害。恐ろしい死の危険が迫っている。",
 
-	Moodles_coolingdown_lvl1 = "涼しくなる",
-	Moodles_coolingdown_lvl2 = "涼しくなる",
-	Moodles_coolingdown_lvl3 = "涼しくなる",
-	Moodles_coolingdown_lvl4 = "涼しくなる",
-
-	Moodles_warmingup_lvl1 = "暖まる",
-	Moodles_warmingup_lvl2 = "暖まる",
-	Moodles_warmingup_lvl3 = "暖まる",
-	Moodles_warmingup_lvl4 = "暖まる",
-
-	Moodles_coolingdown_desc_lvl1 = "体が少し冷めているように感じる。",
-	Moodles_coolingdown_desc_lvl2 = "体が冷めているように感じる。",
-	Moodles_coolingdown_desc_lvl3 = "体がやや早く冷めているように感じる。",
-	Moodles_coolingdown_desc_lvl4 = "体が急速に冷めているように感じる。",
-
-	Moodles_warmingup_desc_lvl1 = "体が少し暖まるように感じる。",
-	Moodles_warmingup_desc_lvl2 = "体が暖かくなっているように感じる。",
-	Moodles_warmingup_desc_lvl3 = "体がやや早く暖まるように感じる。",
-	Moodles_warmingup_desc_lvl4 = "体が急速に暖かくなっているように感じる。",
+	-- Windchill
 
 	Moodles_windchill_lvl1 = "軽い風冷え",
 	Moodles_windchill_lvl2 = "やっかいな風冷え",

@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.21
-	-- Date 10-01-2018
+	-- Build-40.25
+	-- Date 10-05-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -209,5 +209,6 @@
 	Tooltip_removeBurntVehicle = "車両の残骸を溶接マスクと溶接プロパントーチで解体すると、車両が道路から取り除かれて屑鉄になります。 <LINE> 溶接加工の技能が高いほど、より多くの使用可能な鉄屑が出ます。",
 	Tooltip_CarBatteryCharger = "地面に置いて、コンテキストメニューを使用してバッテリーに接続します。<br>動作させるには電源のある場所が必要です。",
 	Tooltip_lightFireNoStick = "木の棒や枝に火を付ける必要があります。",
+	Tooltip_item_Insulation = "断熱効果",
 
 }
