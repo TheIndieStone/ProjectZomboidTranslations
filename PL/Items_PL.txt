@@ -414,9 +414,6 @@ DisplayName_Green_Light_Bulb = "¯arówka - zielona",
 DisplayName_Green_Paint = "Farba - zielona",
 DisplayName_Grey_Paint = "Farba - szara",
 DisplayName_Grilled_Cheese_Sandwich = "Grillowana kanapka z serem",
-DisplayName_Guerrilla_Radio_Vol._1 = "Czasopismo 'Radiowy Korsarz' nr 1",
-DisplayName_Guerrilla_Radio_Vol._2 = "Czasopismo 'Radiowy Korsarz' nr 2",
-DisplayName_Guerrilla_Radio_Vol._3 = "Czasopismo 'Radiowy Korsarz' nr 3",
 DisplayName_Gunpowder = "Proch strzelniczy",
 DisplayName_Hairspray = "Lakier do w³osów",
 DisplayName_Ham = "Szynka",
@@ -801,6 +798,15 @@ DisplayName_Metal_Pipe = "Rura - metalowa",
 DisplayName_Opened_Canned_Soup = "Puszka z zup¹ - otwarta",
 DisplayName_Plastic_Pipe = "Rura - plastikowa",
 DisplayName_Raspberry_Shortbread = "Chlebek malinowy",
+<<<<<<< HEAD
+DisplayName_The_Hunter_Magazine_Vol._2 = "Czasopismo 'My�liwy' nr 2",
+DisplayName_The_Hunter_Magazine_Vol._3 = "Czasopismo 'My�liwy' nr 3",
+
+DisplayName_Guerilla_Radio_Vol._1 = "Czasopismo 'Radiowy Korsarz' nr 1",
+DisplayName_Guerilla_Radio_Vol._2 = "Czasopismo 'Radiowy Korsarz' nr 2",
+DisplayName_Guerilla_Radio_Vol._3 = "Czasopismo 'Radiowy Korsarz' nr 3",
+=======
 DisplayName_The_Hunter_Magazine_Vol._2 = "Czasopismo 'Myœliwy' nr 2",
 DisplayName_The_Hunter_Magazine_Vol._3 = "Czasopismo 'Myœliwy' nr 3",
+>>>>>>> cfa396bb190fb5420233cb8cfa1251969cd27cef
 }
