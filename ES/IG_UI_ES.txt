@@ -338,6 +338,7 @@ IGUI_ES = {
 	IGUI_PlayerText_CalloutTutorial = "¡Oye! ¡Estoy aquí!",
 	IGUI_PlayerText_VehicleSomeoneInSeat = "Alguien está sentado ahí.",
 	IGUI_PlayerText_VehicleItemInSeat = "Hay objetos en el asiento.",
+	IGUI_PlayerText_VehicleLockIsBroken = "La cerradura está rota.",
 	IGUI_PlayerText_VehicleSeatRemoved = "Falta el asiento.",
 	IGUI_PlayerText_DoorBarricaded = "La puerta está barricada.",
 	IGUI_PlayerText_DoorBlocked = "La puerta está bloqueada.",
@@ -910,5 +911,5 @@ IGUI_ES = {
     IGUI_climate_weather_dur = "Clima actual, duración en horas = ",
     IGUI_climate_total_progress = "Progreso total del período meteorológico actual.",
     IGUI_climate_segment_progress = "Progreso del segmento meteorológico actual.",
-	}
+}
 
