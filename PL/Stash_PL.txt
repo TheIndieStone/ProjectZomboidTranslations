@@ -1,5 +1,5 @@
 Stash_PL = {
-	Stash_AnnotedMap = "Mapa ze wskazówkami",
+	Stash_AnnotedMap = "Mapa z oznaczeniami",
 	Stash_MulMap1_Text1 = "Tutaj. Pod pod³og¹.",
 	Stash_MulMap1_Text2 = "siekiera?",
 	Stash_MulMap1_Text3 = "spory t³um",
