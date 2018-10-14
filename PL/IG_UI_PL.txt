@@ -817,7 +817,7 @@
 	IGUI_ServerToolBox_UserConnecting = "%1 do³¹cza",
 	IGUI_Scrap = "Rozmontuj",
 	IGUI_Map_ChooseSymbol = "Wybierz symbol",
-	IGUI_VehicleSeat_MoveItems = "Przedmiot(y) na siedzeniu zostan¹ przeniesione na inne siedzenie.",
+	IGUI_VehicleSeat_MoveItems = "Przedmioty na siedzeniu zostan¹<br>przeniesione na inne siedzenie.",
 
 	IGUI_PlayerText_DoorBarricaded = "Drzwi s¹ zabarykadowane.",
 	IGUI_PlayerText_DoorBlocked = "Drzwi s¹ zablokowane.",
