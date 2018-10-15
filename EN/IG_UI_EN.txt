@@ -338,6 +338,7 @@ IGUI_EN = {
 	IGUI_PlayerText_CalloutTutorial = "Hey! I'm over here!",
 	IGUI_PlayerText_VehicleSomeoneInSeat = "Someone is sitting there.",
 	IGUI_PlayerText_VehicleItemInSeat = "Items are on the seat.",
+	IGUI_PlayerText_VehicleLockIsBroken = "The lock is broken.",
 	IGUI_PlayerText_VehicleSeatRemoved = "The seat is missing.",
 	IGUI_PlayerText_DoorBarricaded = "The door is barricaded.",
 	IGUI_PlayerText_DoorBlocked = "The door is blocked.",
