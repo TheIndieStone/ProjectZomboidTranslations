@@ -886,4 +886,5 @@
 	IGUI_climate_weather_dur = "Czas trwania aktualnej pogody w godzinach = ",
 	IGUI_climate_total_progress = "Postêp aktualnego cyklu pogodowego.",
 	IGUI_climate_segment_progress = "Postêp aktualnego segmentu pogodowego.",
+	IGUI_PlayerText_VehicleLockIsBroken = "Ten zamek jest zepsuty.",
 }

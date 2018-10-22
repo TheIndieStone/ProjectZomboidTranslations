@@ -803,4 +803,8 @@ DisplayName_The_Hunter_Magazine_Vol._3 = "Czasopismo 'Myœliwy' nr 3",
 DisplayName_Guerilla_Radio_Vol._1 = "Czasopismo 'Radiowy Korsarz' nr 1",
 DisplayName_Guerilla_Radio_Vol._2 = "Czasopismo 'Radiowy Korsarz' nr 2",
 DisplayName_Guerilla_Radio_Vol._3 = "Czasopismo 'Radiowy Korsarz' nr 3",
+DisplayName_Jacket = "Kurtka",
+DisplayName_Long_Shorts = "Spodnie - shorty",
+DisplayName_Padded_Jacket = "Kurtka zimowa",
+DisplayName_Padded_Pants = "Spodnie zimowe",
 }
