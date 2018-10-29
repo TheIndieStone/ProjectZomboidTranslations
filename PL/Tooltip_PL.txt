@@ -194,10 +194,9 @@ Tooltip_PL = {
 	Tooltip_weapon_Stock = "Kolba",
 	Tooltip_weapon_Type = "Rodzaj",
 	Tooltip_weapon_Unusable_at_max_exertion = "Nie mo¿na u¿ywaæ przy maksymalnym wysi³ku",
-	Tooltip_removeBurntVehicle = "Dziêki rozmontowaniu wraku samochodu przy u¿yciu palnika i maski spawalniczej otrzymasz metalowe czêœci i usuniesz wrak z drogi.<LINE> Im wy¿szy poziom spawania tym wiêcej uzyskasz czêœci.",
+	Tooltip_removeBurntVehicle = "Rozmontowanie wraku samochodu palnikiem i mask¹ spawalnicz¹ zapewnia metalowe czêœci i usuwa wrak z drogi. <LINE> Im wy¿szy poziom spawania tym wiêcej uzyskasz czêœci.",
 
 	Tooltip_CarBatteryCharger = "Umieœæ na ziemi i u¿yj menu kontekstowego, aby pod³¹czyæ akumulator.<br>Wymaga Ÿród³a zasilania.",
-	Tooltip_removeBurntVehicle = "Dziêki rozmontowywaniu wraków samochodów palnikiem gazowym i mask¹ spawalnicz¹ uzyskasz metalowe czêœci i usuniesz wrak z drogi.<LINE> Im wy¿szy poziom spawania, tym wiêcej zdobêdziesz przydatnych czêœci.",
 	
 	Tooltip_lightFireNoStick = "Do rozpalenia ognia potrzebujesz ga³¹zki lub ga³êzi.",
 	
