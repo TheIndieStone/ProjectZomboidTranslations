@@ -1165,4 +1165,5 @@ UI_ES = {
 	UI_optionscreen_perf_skybox = "Cielo dinámico",
 	UI_optionscreen_perf_reflections = "Reflejos del entorno",
 	UI_restart_game_to_apply = "Necesitas reiniciar el juego para aplicar los cambios",
+	UI_optionscreen_do_wind_sprite_effects = "Efectos del viento en sprites",
 }
