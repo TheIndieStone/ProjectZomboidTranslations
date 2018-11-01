@@ -339,3 +339,443 @@ Fixed using the controller A-button on a vehicle hood not opening the mechanics 
 Fixed aspects of many UIs to handle different font sizes.
 Fixed font-rendering bug from last January.
 Fixed ui not updating when an error occurs setting vsync.
+
+[VERSION] 40.30
+[NEWS]
+Simulated weather and climate system - recreating true-to-life weather patterns through 365 days of the year
+New shaders for times of day and seasonal effects
+Storms that move over the map
+Fog and mist that clears during the day
+Rain and snow now look like they hit the ground. Rain then disappears, and snow fades out.
+Improved snow and snow effects.
+New isoRegions system to detect an enclosed area - player-made or dev-created - to keep weather effects on the outside
+New player character temperature system
+New Chatbox. Primary features include separate chat streams (safehouse, local, global, etc), customizable chat and more intuitive usage and commands. It's hopefully a lot more convenient now.
+New system to convert objects placed by mappers so they can be used as functional game objects. This covers items like barricades, campfires, rain barrels, traps, composters, crops etc.
+New functionalities for the PZ sound system. Formerly modders couldn't override sounds in PZ FMOD soundbanks, so when players find certain sounds are too loud or annoying (heartbeat, zombie alert, flies, level up noise etc) it was hard to raise/lower them independently. Details about all the game sounds now go into media/scripts/sounds.txt. A new in-game UI allows users change the volume of any sound they feel is too oppressive.
+Winter is Coming game mode now works with new climate system. Seasons still impact on this mode - 'Summer' highest temperature is 0 degrees centigrade, and winters may drop to -30. After 3 full days a powerful weather period is generated, that will always feature a blizzard.
+New MP Admin UI added: an Items list viewer in the admin panel. It can be used to quickly search through, and spawn, items.
+New C++ version of ZombiePopulationManager. This system is what governs the placement and movement of zombies when they’re not directly on your screen, and this updated version should be an optimization for SP and MP – hopefully helping out lower spec machines and busy servers.
+Reflective windows on vehicles
+Skybox generation for vehicle reflective windows. This takes into account: the time of day, the Global illumination color, fog, cloudiness, precipitation intensity, wind direction, wind speed and the temperature of the ambient air (as in winter the clouds are lower than the ground)
+Added 'sway' wind sprite effects for trees and vegetation that increases/decreases with wind speeds(default on, can be toggled off in options)
+Added 'shake' sprite effects for hits on doors, chops on trees and zeds/players walking through vegetation.
+Added new Spiffo survival guide entries about weather.
+Added new clothes: Long shorts, Jacket, Padded Pants, Padded Jacket
+Thunder sound now plays to all players when an admin bans a player banned, a thunder rumble is heard when one is kicked.
+Game now saves the last five console logs in a /logs/ zip so users can easily upload errors even after they've restarted a game
+Added more checks to online usernames. They now must be three characters long, and not contain any of the following character: ; . ' ? \
+Added new server option AllowNonAsciiUsername (default false). This can be set to true to allow the use of non-ascii characters in the username, such as the Cyrillic alphabet etc..)
+Game now checks username in lowercase when accessing the database. So if your name is BLARG, but you type BLaRG you will still join.
+Commands can now be temporaly disabled with DisabledCommand annotation. Disabled connections, grantadmin, removeadmin, servermessage and thunder commands. Help also disabled for these commands by annotation
+Added climate and weather MP admin panels. Many climate values can be now be ticked to override what's happening on the map. Values set by admin will override any values set by climate system, weather and mods. System also shows current weather information, and gives options to stop it.
+Added BloodSplatLifespanDays server option to remove old blood-splats.
+Added a 'Revert screen settings' feature after 20 seconds for when newly selected resolution settings are incompatible.
+Added a way to edit admin powers (invisible, godmod, no clip, unlimited carry, various cheat...) in the MP admin panel.
+Added in-game Sandbox options editor for server admins - this will allow server admins to change in-game settings that do not require a restart.
+Updated community translations. Also updated translations with the display names to aid the process.
+Added a way for outside signs to have light (check room under it if they have electricity).
+Added lights to neon signs.
+Added buttons to server-disconnect screen to return to Main Menu or Quit to Desktop.
+Added separate Shadow extents from vehicle extents to allow for better shadows
+Updated fonts to bold to aid readability.
+Added a way to edit Admin powers (invisible, godmode, no clip, unlimited carry etc) in the in-game admin panel
+Added back the Lowest lighting-quality display option. [Lowest lighting quality now doesn't use the circle-stencil and doesn't draw a
+second pass of floor shading, so it is a help to low-spec users.]
+Added Display option to disable the new roof-hiding feature for low-spec users.
+Shaders now used to draw wall + stencil + lighting in a single pass. Difficult to tell how much FPS boost this results in, but could help.
+Client now displays the first lua or script file that does not match one on the server to aid user diagnosis of things going wrong with MP
+Updated menu screen with vertical rather than horizontal options - due to problems with taskbar in latest Windows Updates.
+Added a UI to display status and error messages when attempting to connect to a server.
+Vehicle dashboard now displays headlight icon in red if headlights are switched on but aren't working.
+Added tooltip for Light Fire when Notched Plank is in inventory but not the other item required for lighting a fire.
+Added Loot All and Transfer All commands to the inventory context menu when using a controller.
+[BALANCE]
+Reduced the the impact of loot modifier sandbox option on easier difficulty.
+Increased the height of tooltip progressbars.
+Added being able to rest/sleep on picnic table (considered as a bad bed.)
+Added missing Raspberry Shortbread, CookieChocolateChip" & Candycane items to the loot table.
+Added a way to dismantle car wrecks (burnt car) with a propane torch & a welding mask. Gathered metal material will depend on your metalwork skill.
+Added missing nutrition values to medicinal herbs and condiments.
+Disabled zombies sprinters in MP (if speed is set to Sprinter, it'll be set back to Fast Shamblers)
+Lowered the alarm clocks a and digital watch wake up distance.
+Added "Very Low" choice to CarSpawnRate Sandbox option.
+Increased VOIP range  (fade and falloff)
+Bowls of soup now affect thirst.
+Wood barricades require two nails. Previously in SP 2 nails would be used, while in MP only 1 would be used.
+Changed in-vehicle visibility cone for when player drives through weather effects. Cone now extends based on darkness value.
+Player can now sleep in a car that has its engine running.
+Added Packaged=TRUE to Remoulade so nutrition info is visible.
+Renamed Disinfect Bandage recipes to Dinsinfect Rag for Ripped Sheets.
+Increased the distance zombies spawn in newly-seen rooms when the player is in the same building. This is to fix zombies spawning right in front of (or sometimes around) the player in the large open rooms in the Mall.
+Renamed Metal Tube into Metal Pipe.
+Removed Pipe (plastic one) from recipes/dropping table, and now use Metal Pipe instead.
+Improved the appearance of crafting tooltips.
+Frozen food no longer allowed as the primary ingredient in evolved recipes.
+Can no longer use rotten bread slices when cooking level is less than 7.
+Added several missing vehicles zones (McCoy, Fossoil) & improved gas station vehicles spawning.
+Car-battery charger is now placed on the ground and interacted with using a context menu.
+Transferring water from an object to an inventory item now requires equipping that item. The amount of water to transfer is calculated in start() instead of when the action is queued.
+Repair Engine and Take Engine Parts now show progress bars and flash Success/Failure.
+Drunk moodle now has an impact on driver steering input
+Updated map to improve zombie density in some farmland and rural areas.
+Changed First Week in One Week Later and adjusted settings to make sure that new players aren't given too easy a ride.
+You can now improve wooden door frames as you would walls. (This won't work on previously built frames though).
+Players can now be harmed when hit by a car. DamageToPlayerFromHitByACar sandbox option added
+Added chevrons on character screen next to the weight to indicate if weight is increasing or decreasing.
+All vehicle doors may be locked/unlocked from inside without requiring a key.
+Single tile doors can now be blocked from opening/closing by obstacles - as it is with double doors.
+Piped items (sinks, toilets, baths..) now require a wrench to be moved.
+A moveable item requiring no skill now have a 25% chance of breaking instead of 75%.
+After placing a water piped item you now need to plumb it back before being able to use it (require a wrench & a building or fully enclosed player built house).
+Weather now impacts on chances of starting the car (specially on low quality engine, the colder, the harder is to start).
+[MODDING]
+LoadVehicleModel lua function and re-calc spawn chance added to aid players who want to mod in new/individual cars.
+Mapper-placed generators are now functional objects when first loaded
+Changed spawnchance for vehicle type definition from an Int to a Float.
+Added mod options for climatemanager
+[BUG FIX]
+Fixed character info UI exception when admin assigns a profession to a formerly profession-less player.
+Fixed mousewheel not scrolling the ServerWelcomeMessage textbox in the server-settings editor.
+Fixed ancient font kerning bug.
+Fixed "Loading..." message appearing briefly when continuing an existing save.
+Fixed resize bug with the server browser that made the tabs unclickable.
+Fixed missing scrollbar in the New Game screen.
+Fixed duplicate scrollbars in some server-settings editor lists.
+Fixed "Lage Metal Shelves" typo.
+Fixed house with missing walls near 14070,5200.
+Fixed rendering hidden moodles every frame.
+Fixed unused duplicate ISInventoryPage.refreshBackpacks()
+Fixed UIElement.DrawText(x,y,alpha) not using FBO_ALPHA_MULT.
+Fixed bug that could result in invisible 3D corpses.
+Fixed invalid RGB values used in TextManager.DrawString(x,y,str)
+Fixed GC created while loading files and some related to textures loading.
+Fixed unoptimized TextManager.getFontFromEnum()
+Fixed splitscreen players not being able to wake themselves up with less than two controllers active.
+Fixed exception playing zombie sounds when a zombie's current square is null.
+Fixed server sending smash-window packets to distant clients.
+Fixed outright carmageddon when vehicle ids become negative after a long time running.
+Fixed "Drop" option appearing for non-droppable moveable objects in inventory.
+Fixed not being able to pick up corpses behind tall windows.
+Fixed previously-clicked buttons sometimes remaining highlighted when redisplayed.
+Fixed "Peanut Butter and  Sandwich".
+Fixed the info button in the character-info screen titlebar not displaying the help text for the current tab.
+Fixed syncing of the remaining uses of ingredients with CanBeDoneFromFloor recipes.
+Fixed calculation of the amount of condition restored when fixing things.
+Fixed syncing items in vehicles or containers with CanBeDoneFromFloor recipes.
+Fixed sledgehammer being primary weapon over axe or baseballbat when pressing the "equip handweapon" hotkey (default 1).
+Fixed being able to equip weapon while running.
+Fixed lack of ability to plaster and paint a wooden pillar.
+Fixed campfire spawning items.
+Fixed painting a wall not removing a blood splat on it.
+Fixed progress bar not showing when adding an ingredient in an evolved recipe.
+Fixed not being to craft battery connector for some movable items.
+Fixed GameClient.receiveItemListNet() using short instead of int ids.
+Fixed "Level Up" button in Player Stats admin UI not updating target player.
+Fixed IsoObject.save() handling of Attached sprites.
+Fixed exception reading a map chunk when an object without a sprite was saved.
+Fixed client exception taking a bag off the ground shortly after transferring items to/from it.
+Fixed being able to dig graves from a vehicle.
+Fixed wrong nutrition value for PanFish.
+Fixed various wrong container items spawning.
+Fixed not being allowed to take more dirt from the same spot.
+Fixed appropriate tiles not being seen as "Gravel".
+Fixed carpentry/metalwork/walkto context option being available while inside a vehicle.
+Fixed being able to dig with hands and shovel from a car.
+Fixed a bug when trying to eat an item that was no longer there.
+Fixed carpentry door option not being disabled if nothing could be built.
+Fixed typo "You killed 0 zombie" into "You killed 0 zombies".
+Fixed server sending (most but not all) vehicle packets to distant clients.
+Fixed server sending multiple packets when brake lights turn on/off.
+Fixed deaf players being able to hear car radios, players with deaf trait can still read/hear TVs if facing them due to closed captions. In splitscreen, text displayed above a non-deaf player is visible to a deaf player.
+Fixed "buffer overrun" error after sitting on the server-disconnect screen for a while.
+Fixed players becoming trapped upstairs by forbidding building floors (and metal roofs) above/over stairs.
+Fixed being able to move the health body status everywhere.
+Fixed some wrong/missing parking lot zones.
+Fixed campfire container icon not being displayed.
+Fixed speed controls clock button being too fast.
+Fixed client sending 20KB checksum string to the server.
+Fixed the the first spawned vehicle not having a schematic in Vehicle Mechanics and having a very basic "switch seat" image
+Fixed zone mask textures for all vehicles - ensuring correct doors, rear view mirrors and hoods.
+Fixed wrong calculation of WaterShutModifier & ElecShutModifier sandbox options.
+Fixed SystemDisabler.doAllowDebugConnections being set to true
+Fixed headlights on Sportscar being incorrectly positioned
+Fixed bounding rectangle for character collisions being smaller than physics collisions for vehicles. Also Remade transfer areas vertically, and not parallel to the vehicle. Also also Changed the shift of areas. Now the hood and trunk area is shifted in parallel of vehicle. The areas of doors and tires shift vertical.
+Fixed physicsDelay and physicsDelayServer transmitting incorrectly
+Fixed Function UpdateLimit.Check incorrectly calculating delay time.
+Fixed the game client periodically requesting a full update of the car for which the coordinates are transmitted from the server. This caused the car to twitch.
+Fixed Van sliding around map even without brakes and tires
+Fixed debug log message "VID=__ force=__" on server
+Fixed vehicles that can be rammed to turn over and float above zombies
+Fixed shell texture being set to null for special vehicles
+Fixed vehicles missing uninstalled Trunk lid / Hood textures; when uninstalled, these parts look visually repaired
+Fixed 'Cone of light' from vehicle headlights being too narrow
+Fixed not being able to get into cars that are tightly packed in parking lots
+Fixed getting in a car door on the southern side causing the car to overlap the player entirely for a brief second
+Fixed the game becoming unresponsive when standing next to a vehicle that is turned on its side
+Fixed Van/VanSeats missing textures for uninstalled rear doors
+Fixed Van/VanSeats missing textures for uninstalled middle doors
+Fixed stationary cars getting hit by another car in MP rubber-banding back to their old position This involved Yuri changing the algorithm for synchronizing cars on the network.
+Fixed NullPointerException in zombie.iso.objects.IsoWaveSignal.AddDeviceText(IsoWaveSignal.java:152)
+Fixed plants clipping through the car
+Fixed trash sprite being rendered above the car
+Fixed visual anomaly after re-loading a Host server and driving
+Fixed passengers sometimes not being able to exit from vehicle after travel.
+Fixed the wrong render of "Random" - Button In "Customise Character" menu
+Fixed colliding with a zombie head on, while they're in their walking state, letting you push them indefinitely
+Fixed zombies hit by a turning car snapping to a different position
+Fixed how, on a dedicated server hosted remotely, zombies take a very long time to react to vehicle sounds and movement
+Fixed issues with how Zombies walk between several sources of sounds.
+Fixed incorrectly displayed position of vehicle after collision with another car.
+Fixed cars floating to the ground when spawned
+Fixed some car texture issues
+Fixed the game sometimes not reacting to some keys (V and Esc)
+Fixed horn (Q or V menu) causing popping sound, as if several were being played at once
+Fixed clicking repeatedly while the game is saving can causing it to lock up
+Fixed the missing hood and rear view mirror being incorrectly displayed on PickUp vehicle.
+Fixed cars showing damage texture on parts but not in Mechanics menu
+Fixed some standing zombies not reacting to collisions with vehicle in MP.
+Fixed the 'Hours until death from zombie infection' not starting at the exact moment infection occurs.
+Fixed ambient sound emitters being played every frame and clogging the FMOD command queue.
+Fixed sound file name instead of GameSound name in AttackVehicleState.
+Fixed UIElements not getting onMouseMoveOutside callbacks sometimes.
+Fixed selecting text in UITextBox2 with the mouse.
+Fixed BaseVehicle.emitter not being removed from SoundManager.emitters.
+Fixed "0-12 hours" Sandbox setting killing instantly.
+Fixed server database editor not handling special characters in strings.
+Fixed some vehicle sounds not being sent to remote clients when the local player has the Deaf trait.
+Fixed vehicle exit positions not being blocked by obstacles properly.
+Fixed various door and window sounds not playing for remote clients.
+Fixed metalwork crafting sounds not using GameSound name.
+Fixed players with Deaf trait sending repeated sounds to other clients for some actions and creating HORRIBLE NOISE.
+Fixed mechanics UI delay in showing textures when opened for the first time.
+Fixed UIElement.DrawTextScaledUniform when textures are in a .pack file.
+Fixed multithreading bug with animation loading.
+Fixed missing RotateObject GameSound.
+Fixed inventory tooltips overlapping the mouse pointer near the bottom-right corner of the screen.
+Fixed street signs not showing the collided-with sprites
+Fixed NullPointerException in WorldSoundManager.getBiggestSoundZomb()
+Fixed game characters with names in different registers being loaded as one and the same character
+Fixed usernames being case-sensitive, leading to duplicates (Hicks, hicks, hICKs . . . ) in the database
+Fixed position of Toggle Stove button in loot window titlebar with larger fonts.
+Fixed the new GameSounds UI not working with the controller.
+Fixed the lack of SFX when attempting to push a stationary vehicle out of the way.
+Fixed getting out of the van ejecting you a tile or two away
+Fixed admin commands not working with ' " '.
+Fixed setaccesslevel not working anymore.
+Fixed not being able to modify steamid column in whitelist viewer.
+Fixed not being able to see some columns (including steamid) in the admin's whitelist viewer.
+Fixed setaccesslevel not being usable on a non connected player who's present in the whitelist.
+Fixed it not being possible to enter vans through rear doors.
+Fixed issues with adding/removing gas from a vehicle. Previously the time wasn't proportional to the amount of gas being transferred and Gas Can didn't need to be equipped first.
+Fixed equipped empty Gas Can was remaining equipped as an empty gas can after siphoning.
+Fixed the Server Workshop Items connect-to-server UI having issues when the scrollbar is visible.
+Fixed farming tooltip rendering with different font sizes.
+Fixed ac/heater draining the battery when the engine isn't running.
+Fixed LayoutManager making a window visible without adding it to the list of windows.
+Fixed host losing admin accessLevel in splitscreen.
+Fixed swinging a weapon at a broken window granting the player XP.
+Fixed ac/heater draining the battery when the engine isn't running.
+Fixed Stick Trap using the wrong "closed" sprite.
+Fixed bad things happening when using the "Level Up" button in the player-stats admin panel.
+Fixed player not facing campfires when performing various actions on them.
+Fixed player animation not playing when opening a barricaded window from the non-barricaded side.
+Fixed missing context-menu option to remove metal-bar barricades.
+Fixed second farm-plant sprites not being used.
+Fixed not being able to place medicine cabinets over low objects like toilets.
+Fixed exception with sprites that have one of lightR/lightG/lightB properties equal to zero.
+Fixed many duplicate invisible sprites being created for unspawned erosion objects.
+Fixed erroneous "user XXX will be kicked because Lua/script checksums do not match" message.
+Fixed not being able to set access level on yourself
+Fixed the Admin cannot not being able to edit item and containers on players in admin inventory view screen.
+Fixed game crashing in FMOD_Studio_EventDescription_GetPath function with exception: getPath() != FMOD_OK
+Fixed Admin can removing an item from a player's hand, but it not removing the item from the game character.
+Fixed an Admin not being able to open bags in the players inventory from the admin inventory view screen
+Fixed the character's appearance not updating when the admin removes clothing from the inventory.
+Fixed IsoGridSquare.haveElectricity() sometimes returning true when it shouldn't. Previously the IsoGridSquare.haveElectricity variable didn't work correctly when two or more generators touched the same square.
+Fixed calculation of food age/freezing/thawing when the player turns a generator on/off.
+Fixed exception when zombie climbs through a window or over a fence and the chunk on the other side is unloaded.
+Fixed Survival sandbox presets having car locked & car alarm to "Never".
+Fixed "Base" module not being selected by default when using the items list UI.
+Fixed wrong calculation of unlimited capacity.
+Fixed BodyDamage.RestoreToFullHealth() not setting temperature to 37.0 degrees. -
+Fixed old lighting bug that caused flickering in some situations.
+Fixed evolved recipes using WaterPot as base item - they now require the WaterPot to be at least 3/4 full
+Fixed not being able to place or build things through an open doorway.
+Fixed creating ".project_zomboid_2.9.9.17" hidden folder on Linux
+Fixed target-picking cursors (such as the moveable-tools cursor) getting in the way when the player attacks. …
+Fixed SGlobalObjectSystem error when a thumpable is destroyed.
+Fixed name of sound that plays when a carpentry objects break.
+Fixed barricaded doors being disassembled and leaving the barricade behind. …
+Fixed Multiplayer Players UI and invite-friends UI being too transparent
+Fixed lighting not updating after teleporting in multiplayer.
+Fixed vehicles texture names in scripts being lowercase and uppercase in file system
+Fixed LoadGameScreen exception with the demo.
+Fixed bug with lightR/lightG/lightB sprite property value "0".
+Fixed update() getting called for MainScreen (and all its descendant UIElements) while in-game.
+Fixed FMOD Occlusion parameter not being set to zero when starting sounds.
+Fixed engine speed not setting to the engineIdleSpeed value when player press the brake button.
+Fixed vehicle turning radius when accelerating is very large
+Fixed not being able to add players to Factions when they were connected before you on the server.
+Fixed the /createhorde function crashing servers by limiting zed spawn to 500
+Fixed AddItem command needing username to generate an item. Username and count no longer required. It's optional now.
+Fixed small car idling at 2000 RPM
+Fixed profession change by Admin transmitting to all players in MP.
+Fixed addvehicle "Base.SportsCar" "EnigmaGrey" command not working without quotes
+Fixed player not needing an account password when connecting to a server.
+Fixed not having the "edit admin power" button in the admin panel.
+Fixed some spawned tiles by Erosion not being able to be removed.
+Fixed commands that have no parameters send 'wrong arguments' message
+Fixed Items List Viewer layout with larger fonts.
+Fixed profession icon overlapping trait icons in the Info panel.
+Fixed missingpzexe.jar and sqlite-jdbc-3.8.10.1.jar
+Fixed presence of old unused java libs
+Fixed co-op host being allowed to enter commands in the Lua debug console when not admin.
+Fixed car/tire_explode -> VehicleTireExplode.
+Fixed headlights providing a cone of lights even if they're off / broken.
+Fixed empty wine bottles not being refillable with water.
+Fixed sound delays and volume issues by rebuilding .bank files. Changed short sounds from Streaming to Compressed and longer sounds to Streaming.
+Fixed Server Toolbox appearing underneath the top-left icons.
+Fixed resetting fatigue, endurance, and body temperature to default unless in God Mode.
+Fixed connect-to-server ui not resetting the game to singleplayer in case of error.
+Fixed connect-to-server and xp-bonus arrows animating at high speeds at different framerates.
+Fixed obsolete items showing in the Items List Viewer.
+Fixed nutrition info in Food tooltips in debug mode showing when the Tooltip.Info debug option is checked.
+Fixed potentially having more water than was available at the start when cancelling the pour-on-ground action.
+Fixed water bottles not filling to capacity when less than 1 unit could be added.
+Fixed vehicle brake-light texture indicating working brake lights when the battery is dead/uninstalled.
+Fixed vehicle radial menu allowing headlights to be switched on/off when the battery is dead or missing.
+Fixed the game unpausing after hiding the changelog UI.
+Fixed missing vehicles_pickupvanlightsburnt.png
+Fixed issues with vehicle horn, lights, alarm and siren when the battery is dead or uninstalled.
+Fixed "ERROR: model texture "f_hair_White" wasn't found" on Linux and Mac.
+Fixed NullPointerException in IsoWindow.handleAlarm().
+Fixed player equipping an already-equipped water bottle when filling it.
+Fixed Stone hammer not being usable when upgrading wooden walls.
+Fixed sheet rope typo.
+Fixed garbage-creating debug code in ZombieUpdatePacker.
+Fixed player not being able to see nearby zombies when very tired and/or panicked.
+Fixed frozen food spawning in freezers long after the power goes out.
+Fixed Invisible checkbox in Admin Powers ui not setting GhostMode on the server and several other places set GhostMode=invisible.
+Fixed gc with WorldSoundManager.getBiggestSoundZomb()
+Fixed zombies hearing players from far away.
+Fixed upgraded door frames blocking player movement.
+Fixed the delay before right-clicking starts aiming being shorter at higher framerates. (At 120fps, right-clicking to bring up the context menu could often initiate aiming.)
+Fixed player entering attack stance when pressing the Control key while the mouse is over the inventory window.
+Fixed the player aiming when the mouse is over the inventory tooltip
+Fixed fire and smoke sprites being drawn as part of the floor - being covered by snow etc
+Fixed items that should spawn in bags sometimes spawning in the container the bag is inside.
+Fixed adding bait to traps not working.
+Fixed 'Plays Baseball' trait not working properly.
+Fixed not being able to make a pot of soup with a canned mushroom soup.
+Fixed not being able to refill an empty Propane Torch
+Fixed 'GameServer.hitZombie() doesn't handle vehicles being hit by players' issue
+Fixed BodyDamage.FoodSicknessLevel going below zero.
+Fixed slices of Cake and Pie not inheriting stats from the original item.
+Fixed sound-related exception when smoking cigarettes or drinking from a bottle.
+Fixed a second-story room in the Mall that wasn't considered a room for plumbing/electricity purposes.
+Fixed zombies being immune to attacks while staggering backwards. (This is an OLD much-complained about issue in MP, so yay.)
+Fixed zombies with 3D models not facing the player when shoved.
+Fixed News.txt not being read from mods.
+Fixed passengers being able to fall out of a moving car in MP and be run over if they disconnect briefly
+Fixed a bug in SetPlayerLocation() which caused unnecessary work to be done.
+Fixed some tile properties in newtiledefinitions.tiles. Window frames with HoppableW/HoppableN. Wooden Bench -> Sturdy Bench. White Simple Chair -> Grey Plastic Chair
+Fixed seahorse cafe windows with invalid smashed / glass-removed offsets
+Fixed being able to display duplicates of some admin panels.
+Fixed gun sounds not being heard far enough away in multiplayer. (The radius is only set to 20 in FMOD.  Setting 'distanceMax' in sounds.txt. Overrides the value in the .bank file. Mods will need to set this value as well.)
+Fixed barricades not being removed when a window is destroyed by a sledgehammer.
+Fixed players with Deaf trait hearing house alarms.
+Fixed position of speed-controls in debug mode (which forces the clock to be visilble).
+Fixed player not facing microwave or stove when checking its settings.
+Fixed two bugs with spawning a random zombie in a barricaded bathroom.
+Fixed clean/disinfect crafting tooltips saying "Destroy" rather than "Use" for bandages/rags.
+Fixed two exceptions when pressing keys while the game is loading.
+Fixed speed controls briefly appearing in the wrong position when starting a game.
+Fixed not being able to sleep when not tired or recently slept when the server option SleepNeeded is false.
+Fixed being able to place multi-tile furniture where walls intersect the furniture.
+Fixed being able to place tents on squares that are blocked by vehicles.
+Fixed failing to check for trees when building some carpentry objects.
+Fixed learning from TV/radio when asleep
+Fixed not being able to create new username.
+Fixed unnecessary 'ban steam id' when banuser is preferable
+Fixed Coordinates parameter being used with 'add vehicle' command
+Fixed wrong calcul in Nutrition values (it'll be now easier to gain more weight if eating high carbs or lipids food)
+Fixed "Survived For" showing on the character screen if the player doesn't have a watch.
+Fixed weight display from being a float to being an int (no more 80.14 but only 80.)
+Fixed 'add vehicle' command not giving a vehicle to a player who hadn't included their name.
+Fixed wrong calcul in startEngine process.
+Fixed multiple VehicleFailingToStart sounds playing.
+Fixed scaling of lines when zooming indoors.
+Fixed some map issues: A house had a grass floor, a trailer had a TV on the same square as a kitchen counter, a building had no light switches in two upper floor rooms.
+Fixed doors/radios/tvs/windows sometimes having different states on clients and the server.
+Fixed ReleaseSafehouse command
+Fixed and refactored Grant Admin and Remove Admin commands
+Fixed incorrect trunk size of vans with seats.
+Fixed wrong calcul in chance of uninstalling part resulting in sometimes damaging the part where it should be impossible.
+Fixed some ingredients left at -1 hunger reduction when adding them to a recipe.
+Fixed exception when a vehicle crashes near a fire.
+Fixed loot sometimes respawning too soon.
+Fixed "map_zone.bin could not be saved" multiplayer error.
+Fixed weight-gain and weight-loss indicators appearing at the same time. Also fixed increased weight-gain.
+Fixed McCoy vehicles not spawning.
+Fixed red font for system messages and shout being hard to read
+Fixed exception when plastering walls.
+Fixed wrong calcul in failure of damaging part when installing it.
+Fixed missing some vehicles definitions (Fossoil wasn't spawning + a few variant of existing models)
+Fixed wrong distributions table for some vehicles (postal vans weren't spawning anything)
+Fixed positions zombies stand at when surrounding a vehicle.
+Fixed some soap items not being able to clean clothing.
+Fixed crowds of zombies launching vehicles like bottle rockets. Vehicles can still be jostled around by large hordes, but shouldn't go flyingoff at high speed anymore.
+Fixed errors loading vehicles whose script is no longer defined by picking a random script.
+Fixed coop server not starting if -cachedir= didn't end in "/Zomboid"
+Fixed ISEquippedItem exception when not in debug mode.
+Fixed not being able to open a vehicle's trunk at certain angles.
+Fixed exception when a zombie's square is null.
+Fixed an old SpriteRenderer bug, not sure if it hurt anything.
+Fixed appearance of selected hot/cold items in the inventory/loot windows.
+Fixed food temperature possibly going above/below container temperature.
+Fixed some UI layout issues with jumbo fonts.
+Fixed long strings overlowing comboboxes.
+Fixed some minor map bugs - light switches, doubled-up TVs, a building with no wall on second floor
+Fixed using string.match (string contains) instead of stringStart for the item list.
+Fixed some map bugs: missing walls, missing lightswitches, duplicate TVs.
+Fixed covered gas station that was considered interior.
+Fixed unnecessary old chat-transparency display option.
+Fixed issues with on-screen server messages (using /servermsg command) - horizontal position was relative to the chat window, display time was depended on framerate, font now larger.
+Fixed missing "Ticking clock" animation while the char sleeps is missing
+Fixed some debug code running that is disabled in multiplayer.
+Fixed vehicle skid sound not playing in multiplayer. It only plays for the driver currently; remote clients won't hear it.
+Fixed vehicle damage to prone zombies being too low in multiplayer.
+Fixed broken vehicle door locks being lockable/unlockable using the dashboard icon (and vehicle menu).
+Fixed car collision box blocking a door even if a char can come up to it
+Fixed wash clothing recipe not working.
+Fixed file encodings in translation files.
+Fixed dropped items are drawn above the car
+Fixed empty water container staying equipped when pouring water from one item to another.
+Fixed propane tank remaining equipped after inserting into a bbq
+Fixed rendering issue with Physics.Render debug option as other things such as vehicle areas wouldn't render.
+Fixed vehicle y-coordinates when spawning in long horizontal zones. (The long horizontal zones at gas-stations were spawning vehicles at the wrong y-coordinate)
+Fixed unused vehicle code.
+Fixed issues with adding/removing gas using gas cans.
+Fixed unnecessary allocations and file access related to non-existent textures.
+Fixed zones overlapping any cells in a map directory not being removed before loading that map's objects.lua file.
+Fixed speech from second player in splitscreen being displayed over first player.
+Fixed small trees causing crashes but not being removable
+Fixed car engine turning off as soon as battery is removed
+Fixed crafting recipes losing their favourite status when game language is changed
+Fixed police sign showing higher on tile when placed
+Fixed radio saving last lines of broadcast so broadcasts didn't replay in full upon load
+Fixed bushes only draw with floor when in a car.
+Fixed too few vehicles spawning in some places.
+Fixed vehicles being usable through closed doors, fences and walls.
+Fixed removing a metal-bar barricade giving a metal pipe.
+Fixed metal-bar barricades requiring three bars but only using one.
+Fixed error message when having no perks to move an item in tiledef.
+Fixed collapsed stacks of food not splitting into separate stacks when freshness changes.
+Fixed berry/mushrooms not being sorted into separate stacks by freshness.
+Fixed Delete key not working in the load-game screen.
+Fixed problem with a DuffelBag items distribution.
+
+
+
+

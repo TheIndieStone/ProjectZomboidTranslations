@@ -364,4 +364,5 @@ ContextMenu_EN = {
 	ContextMenu_CarBatteryCharger_Place = "Place Car-Battery Charger",
 	ContextMenu_CarBatteryCharger_Take = "Take Car-Battery Charger",
     ContextMenu_RemoveBurntVehicle = "Dismantle Car Wreck",
+    ContextMenu_PlumbItem = "Plumb %1",
 }

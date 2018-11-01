@@ -197,4 +197,5 @@ Tooltip_EN = {
     Tooltip_removeBurntVehicle = "Dismantling car wrecks with a welding mask and propane torch will remove them from your path, and provide metal construction materials. <LINE> Higher Metalwork skills will retrieve more usable salvage.",
     Tooltip_lightFireNoStick = "Requires stick or branch to light fire.",
     Tooltip_item_Insulation = "Insulation",
+    Tooltip_NeedWrench = "You need a %1 to do this.",
 }

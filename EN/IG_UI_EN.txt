@@ -911,5 +911,6 @@ IGUI_EN = {
     IGUI_climate_weather_dur = "Current weather, duration in hours = ",
     IGUI_climate_total_progress = "Current weather period total progress.",
     IGUI_climate_segment_progress = "Current weather segment progress.",
+    IGUI_AdminPanel_MoveableCheat = "Moveable Cheat",
 }
 
