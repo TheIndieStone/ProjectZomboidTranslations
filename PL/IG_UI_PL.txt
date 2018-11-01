@@ -887,4 +887,5 @@
 	IGUI_climate_total_progress = "Postêp aktualnego cyklu pogodowego.",
 	IGUI_climate_segment_progress = "Postêp aktualnego segmentu pogodowego.",
 	IGUI_PlayerText_VehicleLockIsBroken = "Ten zamek jest zepsuty.",
+	IGUI_AdminPanel_MoveableCheat = "Cheaty do przenoszenia mebli",
 }
