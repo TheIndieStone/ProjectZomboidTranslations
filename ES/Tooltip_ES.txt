@@ -197,4 +197,5 @@ Tooltip_ES = {
 	Tooltip_removeBurntVehicle = "Desmontar los restos de automóviles con una máscara de soldar y un soplete de gas los eliminará de tu camino y te proporcionará materiales de metal para la construcción. <LINE> Un alto nivel de metalistería te permitirá obtener una mayor cantidad de recursos.",
     Tooltip_lightFireNoStick = "Requiere palo de madera o rama para encender el fuego.",
 	Tooltip_item_Insulation = "Aislamiento",
+	Tooltip_NeedWrench = "Necesitas %1 para hacer esto.",
 }

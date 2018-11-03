@@ -363,5 +363,6 @@ ContextMenu_ES = {
 	ContextMenu_CarBatteryCharger_ConnectBattery = "Conectar la batería del coche",
 	ContextMenu_CarBatteryCharger_Place = "Colocar cargador de batería del coche",
 	ContextMenu_CarBatteryCharger_Take = "Recoger cargador de batería del coche",
-	ContextMenu_RemoveBurntVehicle = "Desmontar restos de automóviles",	
+	ContextMenu_RemoveBurntVehicle = "Desmontar restos de automóviles",
+    ContextMenu_PlumbItem = "Plumb %1",
 }
