@@ -379,4 +379,5 @@ ContextMenu_FoodType_Tea = "Herbata",
 	ContextMenu_CarBatteryCharger_Place = "Po³ó¿ prostownik do akumulatorów",
 	ContextMenu_CarBatteryCharger_Take = "WeŸ prostownik do akumulatorów",
 	ContextMenu_RemoveBurntVehicle = "Rozmontuj wrak samochodu",
+	ContextMenu_PlumbItem = "Pod³¹cz %1 do rur",
 }
