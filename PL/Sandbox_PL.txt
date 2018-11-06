@@ -527,4 +527,16 @@ Sandbox_CarDamageOnImpact_tooltip = "Reguluje iloœæ uszkodzeñ, jakie samochody o
 	Sandbox_DamageToPlayerFromHitByACar_option3 = "Normalne",
 	Sandbox_DamageToPlayerFromHitByACar_option4 = "Wysokie",
 	Sandbox_DamageToPlayerFromHitByACar_option5 = "Bardzo wysokie",
+	
+	Sandbox_MaxFogIntensity = "MAKSYMALNA GÊSTOŒÆ MG£Y",
+	Sandbox_MaxFogIntensity_option1 = "Normalna",
+	Sandbox_MaxFogIntensity_option2 = "Œrednia",
+	Sandbox_MaxFogIntensity_option3 = "Niska",
+	Sandbox_MaxRainFxIntensity = "MAKSYMALNA INTENSYWNOŒÆ DESZCZU",
+	Sandbox_MaxRainFxIntensity_option1 = "Normalna",
+	Sandbox_MaxRainFxIntensity_option2 = "Œrednia",
+	Sandbox_MaxRainFxIntensity_option3 = "Niska",
+	Sandbox_EnableSnowOnGround = "W£¥CZ ŒNIEG NA ZIEMI:",
+	Sandbox_EnableSnowOnGround_tooltip = "Jeœli opcja jest wy³¹czona, œnieg nie bêdzie zbiera³ siê na ziemi, lecz jedynie na roœlinach i dachach budynków.",
+
 }
