@@ -267,7 +267,7 @@
 	IGUI_NeedToBeStandingInside = "Musisz staæ wewn¹trz.",
 	IGUI_NoMovable = "Niemo¿liwe do przeniesienia",
 	IGUI_None = "brak",
-	IGUI_Open = "Otwórz",
+	IGUI_Open = "Otwarte",
 	IGUI_OpenHood = "Otwórz maskê",
 	IGUI_OpenTrunk = "Otwórz baga¿nik",
 	IGUI_Oven = "Ustawienia piekarnika",
