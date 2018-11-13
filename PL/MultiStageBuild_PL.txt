@@ -1,7 +1,7 @@
 MultiStageBuild_PL = {
 	MultiStageBuild_CreateWoodenWall_1 = "Zbuduj drewnian¹ œcianê poz. 1",
 	MultiStageBuild_UpgradeWoodenWall_1To2 = "Ulepsz drewnian¹ œcianê do poz. 2",
-	MultiStageBuild_CreateWoodenWall_2 = "Zbuduj drewnian¹ œcianê poz. 1",
+	MultiStageBuild_CreateWoodenWall_2 = "Zbuduj drewnian¹ œcianê poz. 2",
 	MultiStageBuild_UpgradeWoodenWall_1To3 = "Ulepsz drewnian¹ œcianê do poz. 3",
 	MultiStageBuild_UpgradeWoodenWall_2To3 = "Ulepsz drewnian¹ œcianê do poz. 3",
 	MultiStageBuild_CreateWoodenWall_3 = "Zbuduj drewnian¹ œcianê poz. 3",
