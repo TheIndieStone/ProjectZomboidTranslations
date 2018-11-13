@@ -1171,4 +1171,5 @@ UI_ES = {
 	UI_optionscreen_binding_Toggle chat = " Activar chat",
 	UI_optionscreen_binding_Alt toggle chat = " Alternar chat",
 	UI_optionscreen_binding_Switch chat stream = " Cambiar de canal de chat",
+	UI_optionscreen_do_door_sprite_effects = "Temblor de la puerta tras un golpe",
 }
