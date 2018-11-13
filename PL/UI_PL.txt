@@ -1172,4 +1172,6 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	UI_optionscreen_binding_Alt toggle chat = " Prze³¹cz czat (alternatywne)",
 	UI_optionscreen_binding_Switch chat stream = " Zmieñ Ÿród³o czatu",
 	UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "Jeœli jest w³¹czone i uruchomi siê usuwanie zw³ok, usunie tak¿e zw³oki postaci graczy.",
+	
+	UI_optionscreen_do_door_sprite_effects = "Trzêsienie siê drzwi przy uderzeniu",
 }
