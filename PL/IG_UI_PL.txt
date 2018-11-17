@@ -219,7 +219,7 @@
 	IGUI_ItemEditor_UsedDelta = "Iloœæ zu¿ywana na raz",
 	IGUI_ItemEditor_UsedDeltaTooltip = "0 oznacza pusty, 1 oznacza pe³ny",
 	IGUI_ItemNameControllerLinked = "%1 (po³¹czony)",
-	IGUI_ItemNameMechanicalType = "%1 typu: %2",
+	IGUI_ItemNameMechanicalType = "%1 do aut typu: %2",
 	IGUI_ItemNaming = "%2 (%1)",
 	IGUI_ItemsInContainer = "Posiada przedmioty wewn¹trz.",
 	IGUI_ItemsSurface = "Coœ stoi na tym obiekcie.",
