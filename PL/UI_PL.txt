@@ -1174,4 +1174,5 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "Jeœli jest w³¹czone i uruchomi siê usuwanie zw³ok, usunie tak¿e zw³oki postaci graczy.",
 	
 	UI_optionscreen_do_door_sprite_effects = "Trzêsienie siê drzwi przy uderzeniu",
+	UI_ServerOption_DiscordChannelID_tooltip = "ID kana³u Discorda. Niewymagane. U¿yj w razie problemów z nazw¹ kana³u.",
 }
