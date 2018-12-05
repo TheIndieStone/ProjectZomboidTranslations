@@ -1,3 +1,9 @@
+	-- Official Portuguese Translation Data Information
+	-- Update history
+	-- Build-40.35
+	-- Date 12-05-2018
+	-- Translation by DuMa, JohnySouzac, MantoanR and JokerQuinn
+
 [VERSÃO] 37
 [NOVIDADES]
 Opção de "modo de correr" adicionado nas opções. Permite que você corra automaticamente sem precisar segurar o botão de correr, pode ser ligado ou desligado.
