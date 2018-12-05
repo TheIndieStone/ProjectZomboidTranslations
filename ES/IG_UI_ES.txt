@@ -196,6 +196,7 @@ IGUI_ES = {
 	IGUI_Gametime_zombieCount = "Asesinaste %1 zombi.",
 	IGUI_FoodNaming = "%2 (%1)",
 	IGUI_ItemNaming = "%2 (%1)",
+	IGUI_ItemNameTaintedWater = "%1 (Contaminada)",
 	IGUI_ItemNameControllerLinked = "%1 (Vinculado)",
 	IGUI_Sleep_NotTiredEnough = "Aún no estás lo suficientemente cansado para dormir.",
 	IGUI_Sleep_OutsideRain = "No puedes dormir en una cama en el exterior mientras llueve.",
