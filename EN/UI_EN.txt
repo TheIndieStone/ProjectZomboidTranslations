@@ -127,6 +127,7 @@ UI_EN = {
 	UI_optionscreen_temperature_celsius = "Celsius",
 	UI_optionscreen_temperature_fahrenheit = "Fahrenheit",
 	UI_optionscreen_do_wind_sprite_effects = "Wind sprite effects",
+	UI_optionscreen_do_door_sprite_effects = "Door shaking on hit",
 	UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
 	UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
 	-- Map selecter (lua)
@@ -921,7 +922,8 @@ UI_EN = {
     UI_ServerOption_RCONPassword_tooltip  = "RCON password",
     UI_ServerOption_DiscordEnable_tooltip  = "Enable integration with Discord",
     UI_ServerOption_DiscordToken_tooltip  = "Discord bot access token",
-    UI_ServerOption_DiscordChannel_tooltip  = "Discord channel name",
+    UI_ServerOption_DiscordChannel_tooltip  = "Discord channel name. If you got some troubles with it use channel ID instead",
+	UI_ServerOption_DiscordChannelID_tooltip  = "Discord channel ID. Not required. Use in case troubles with channel name",
     UI_ServerOption_SteamPort1_tooltip  = "UDP port for Steam. This port must be forwarded for Steam-enabled servers.",
     UI_ServerOption_SteamPort2_tooltip  = " Second UDP port for Steam. Currently unused",
     UI_ServerOption_WorkshopItems_tooltip  = "List Workshop Mod IDs for the server to download. Separated by a semicolon. Example WorkshopItems=514427485;513111049",
