@@ -34,7 +34,7 @@
 	IGUI_BackButton_Play = "Graj",
 	IGUI_BackButton_PlayerInfo = "Informacje o postaci",
 	IGUI_BackButton_Zoom = "Przybliøenie %1%",
-	IGUI_Berry = "Owoc leúny",
+	IGUI_Berry = "Owoce leúne",
 	IGUI_CanNotRotate = "Nie moøna obracaÊ",
 	IGUI_CanRotate = "Moøna obracaÊ",
 	IGUI_CarKey = "Kluczyk do %1",
@@ -219,7 +219,7 @@
 	IGUI_ItemEditor_UsedDelta = "IloúÊ zuøywana na raz",
 	IGUI_ItemEditor_UsedDeltaTooltip = "0 oznacza pusty, 1 oznacza pe≥ny",
 	IGUI_ItemNameControllerLinked = "%1 (po≥πczony)",
-	IGUI_ItemNameMechanicalType = "%1 typu: %2",
+	IGUI_ItemNameMechanicalType = "%1 do aut typu: %2",
 	IGUI_ItemNaming = "%2 (%1)",
 	IGUI_ItemsInContainer = "Posiada przedmioty wewnπtrz.",
 	IGUI_ItemsSurface = "Coú stoi na tym obiekcie.",
@@ -341,7 +341,7 @@
 	IGUI_PlayerText_VehicleItemInSeat = "Na siedzeniu sa jakies graty.",
 	IGUI_PlayerText_VehicleSeatRemoved = "Nie ma siedzenia.",
 	IGUI_PlayerText_VehicleSomeoneInSeat = "Ktos juz tam siedzi.",
-	IGUI_PoisonousBerry = "Trujπcy owoc leúny",
+	IGUI_PoisonousBerry = "Trujπce owoce leúne",
 	IGUI_PoisonousMushroom = "Trujπcy grzyb",
 	IGUI_PostDeath_Exit = "WYJDè DO MENU",
 	IGUI_PostDeath_Quit = "WYJDè DO PULPITU",
@@ -888,4 +888,6 @@
 	IGUI_climate_segment_progress = "PostÍp aktualnego segmentu pogodowego.",
 	IGUI_PlayerText_VehicleLockIsBroken = "Ten zamek jest zepsuty.",
 	IGUI_AdminPanel_MoveableCheat = "Cheaty do przenoszenia mebli",
+	
+	IGUI_ItemNameTaintedWater = "%1 (skaøona)",
 }

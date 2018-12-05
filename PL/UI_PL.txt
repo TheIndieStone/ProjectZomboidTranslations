@@ -599,7 +599,7 @@ UI_optionscreen_PlayerOnly = "Tylko gracz",
 UI_optionscreen_SandboxOptions = "OPCJE SANDBOX",
 UI_optionscreen_Small="Ma³a",
 UI_optionscreen_UIFBO = "Renderowanie UI poza ekranem",
-UI_optionscreen_UIFBO_tt = "Renderuje UI w ekranie poza gr¹, o ni¿szej liczbie klatek na sekundê ni¿ gra, aby zwiêkszyæ wydajnoœæ..",
+UI_optionscreen_UIFBO_tt = "Renderuje UI w ekranie poza gr¹, o ni¿szej liczbie klatek na sekundê ni¿ gra, aby zwiêkszyæ wydajnoœæ.",
 UI_optionscreen_UIRenderFPS = "Klatki na sek. renderowania UI",
 UI_optionscreen_UIRenderFPS_tt = "Liczba odœwie¿eñ na sekundê poza-ekranowego obrazu UI.",
 UI_optionscreen_ambient_volume = "G³oœnoœæ dŸwiêków t³a",
@@ -1160,7 +1160,7 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	UI_ServerOption_AllowNonAsciiUsername =  "Zezwól na niestandardowe znaki",
 	
 	UI_optionscreen_perf_skybox = "Dynamiczne niebo",
-	UI_optionscreen_perf_reflections = "Odbicie nieba w szybach samochodów",
+	UI_optionscreen_perf_reflections = "Odbicie nieba w œrodowisku",
 	UI_restart_game_to_apply = "Wprowadzenie zmian wymaga ponownego uruchomienia gry",
 	UI_ServerOption_AllowNonAsciiUsername_tooltip = "Zezwól/odmów u¿ywania znaków nienale¿¹cych do Ascii (cyrylica...) w nazwach graczy",
 	UI_has_no_right_to_execute_command = "Gracz '%1' nie ma uprawnieñ do wprowadzenia komendy '%2'",
@@ -1172,4 +1172,7 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	UI_optionscreen_binding_Alt toggle chat = " Prze³¹cz czat (alternatywne)",
 	UI_optionscreen_binding_Switch chat stream = " Zmieñ Ÿród³o czatu",
 	UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "Jeœli jest w³¹czone i uruchomi siê usuwanie zw³ok, usunie tak¿e zw³oki postaci graczy.",
+	
+	UI_optionscreen_do_door_sprite_effects = "Trzêsienie siê drzwi przy uderzeniu",
+	UI_ServerOption_DiscordChannelID_tooltip = "ID kana³u Discorda. Niewymagane. U¿yj w razie problemów z nazw¹ kana³u.",
 }
