@@ -913,5 +913,6 @@ IGUI_ES = {
     IGUI_climate_total_progress = "Progreso total del período meteorológico actual.",
     IGUI_climate_segment_progress = "Progreso del segmento meteorológico actual.",
     IGUI_AdminPanel_MoveableCheat = "Mover mobiliario",
+	IGUI_Safehouse_AlreadyHaveSafehouse = "Ya eres miembro o propietario de un refugio",
 	}
 
