@@ -1,4 +1,4 @@
-Tooltip_ES = {
+Tooltip_ES = {
 	-- Item tooltip
 	Tooltip_food_Uncooked = "crudo",
 	Tooltip_food_Rotten = "podrido",
@@ -198,4 +198,5 @@ Tooltip_ES = {
     Tooltip_lightFireNoStick = "Requiere palo de madera o rama para encender el fuego.",
 	Tooltip_item_Insulation = "Aislamiento",
 	Tooltip_NeedWrench = "Necesitas %1 para hacer esto.",
+	Tooltip_BagOnSeat = "%1 en %2",
 }
