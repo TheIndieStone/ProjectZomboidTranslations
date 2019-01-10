@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.25
-	-- Date 10-05-2018
+	-- Build-40.43
+	-- Date 12-22-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -357,8 +357,8 @@
 	ContextMenu_VehicleHotwireSkill = "車両キーが無い状態で<br>エンジンを始動させるには<br>電気技師レベル2と<br>車両整備レベル2が<br>必要です。",
 	ContextMenu_VehicleHeadlightsOn = "ヘッドライトを点灯する",
 	ContextMenu_VehicleHeadlightsOff = "ヘッドライトを消灯する",
-	ContextMenu_VehicleHeaterOn = "エアコン/ヒーターを入れる",
-	ContextMenu_VehicleHeaterOff = "エアコン/ヒーターを切る",
+	ContextMenu_VehicleHeaterOn = "ヒーター/クーラーを入れる",
+	ContextMenu_VehicleHeaterOff = "ヒーター/クーラーを切る",
 	ContextMenu_VehicleHorn = "クラクションを鳴らす",
 	ContextMenu_VehicleLightbar = "散光式警光灯を設定する",
 	ContextMenu_VehicleAddGas = "燃料を入れる",
@@ -375,5 +375,6 @@
 	ContextMenu_CarBatteryCharger_ConnectBattery = "車両バッテリーを接続する",
 	ContextMenu_CarBatteryCharger_Place = "車両バッテリー充電器を置く",
 	ContextMenu_CarBatteryCharger_Take = "車両バッテリー充電器を取る",
+	ContextMenu_PlumbItem = "%1の配管をする",
 
 }

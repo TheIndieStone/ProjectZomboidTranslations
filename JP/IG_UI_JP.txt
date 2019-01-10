@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.25
-	-- Date 10-05-2018
+	-- Build-40.43
+	-- Date 12-22-2018
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -454,7 +454,7 @@
 	IGUI_Furnace_Bellows = "温度を上げるには鞴(ふいご)を使用してください。",
 	IGUI_ConfirmSleep = "睡眠を摂っても宜しいですか？",
 	IGUI_Gametime_zombieCount = "あなたは %1 体のゾンビを倒しました。",
-	IGUI_ServerToolBox_AdminPanel = "ESCキーを押すと管理者パネルから管理者モードに入れます。",
+	IGUI_ServerToolBox_AdminPanel = "ESCキーを押すと管理者パネルから管理者モードに入れ ます。",
 	IGUI_ServerToolBox_Invite = "ESCキーを押すとフレンドからフレンドを招待できます。 <br>招待されていない他のプレイヤーは参加できません。",
 	IGUI_ServerToolBox_SteamID = "サーバー Steam ID：%1",
 	IGUI_ServerToolBox_ServerAddress = "外部サーバーアドレス：%1",
@@ -854,10 +854,10 @@
 	IGUI_MP_RequestMapData = "サーバーにマップデータを要求しています。",
 	IGUI_MP_DownloadedMapData = "マップデータをダウンロード %1 / %2 マップデータ総量",
 	IGUI_ServerToolBox_Invite1 = "あなたの友人を招待するには：",
-	IGUI_ServerToolBox_Invite2 = "1. ESCを押して「フレンド招待」ボタンをクリックします。",
-	IGUI_ServerToolBox_Invite3 = "2.招待したい友人の名前をダブルクリックして招待状を送信します。",
-	IGUI_ServerToolBox_Invite4 = "あなたの友人がプロジェクトゾンボイドを閉じていれば、Steamはゲームを起動します。",
-	IGUI_ServerToolBox_Invite5 = "招待状は、特別なパラメータやチャットボックスでPZを起動するように求めるダイアログボックスとして表示されます。",
+	IGUI_ServerToolBox_Invite2 = "1.ESCを押して「フレンド招待」ボタンをクリックし ます。 ",
+	IGUI_ServerToolBox_Invite3 = "2.招待したい友人の名前をダブルクリックして招待状 を送信します。",
+	IGUI_ServerToolBox_Invite4 = "あなたの友人がプロジェクトゾンボイドを閉じていれ ば、Steamはゲームを起動します。",
+	IGUI_ServerToolBox_Invite5 = "招待状は、特別なパラメータやチャットボックスでPZ を起動するように求めるダイアログボックスとして表 示されます。",
 	IGUI_RadialMenuKeyToggle = "キーを押す度にラジアルメニューの表示/非表示",
 	IGUI_Generator_IsToxic = "この場所で作動させると排気ガスで屋内が汚染されます。",
 	IGUI_ServerToolBox_Title = "サーバー接続ツール",
@@ -880,7 +880,7 @@
 	IGUI_AdminPanel_BuildCheat = "ビルドチートモード",
 	IGUI_AdminPanel_MechanicsCheat = "車両チートモード",
 	IGUI_AdminPanel_HealthCheat = "健康パネルチートモード",
-	IGUI_AdminPanel_ShowAdminTag = "何も選択されていない場合、キャラクターの頭上に「Admin」タグは表示されません。",
+	IGUI_AdminPanel_ShowAdminTag = "何も選択していない場合、キャラクターの頭上に「Admin」タグが表示されません。",
 	IGUI_invpanel_Melting = "解凍",
 	IGUI_invpanel_FreezingTime = "凍結時間",
 	IGUI_Moveables_DoorBarricaded = "ドアはバリケード塞がれています。",
@@ -927,5 +927,9 @@
 	IGUI_climate_weather_dur = "現在の気象、時間(時単位) = ",
 	IGUI_climate_total_progress = "現在の気象予報の総合進行状況",
 	IGUI_climate_segment_progress = "現在の気象セグメントの進行状況",
+	IGUI_PlayerText_VehicleLockIsBroken = "鍵が壊れています。",
+	IGUI_AdminPanel_MoveableCheat = "移動チートモード",
+	IGUI_ItemNameTaintedWater = "%1 (汚染された)",
+	IGUI_Safehouse_AlreadyHaveSafehouse = "あなたは既にセーフハウスのメンバーまたは所有者です。",
 
 }

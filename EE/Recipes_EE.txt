@@ -1,0 +1,5 @@
+Recipes_EE = {
+    Recipe_Generator = "Generator Maintenance",
+    Recipe_Herbalist = "Herbal Remedies",
+}
+
