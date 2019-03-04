@@ -1,4 +1,0 @@
-Project Zomboid Thai Translation
-Build : 34.14
-Date : 02-04-2016
-Thai translation by Artdekdok

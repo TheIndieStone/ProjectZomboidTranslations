@@ -1,2 +1,0 @@
-Moveables_CN = {
-}
