@@ -1,4 +1,12 @@
 Moodles_DE = {
+	Moodles_windchill_lvl1 = "Leichter Wind",
+	Moodles_windchill_lvl2 = "Unbequemer Wind",
+	Moodles_windchill_lvl3 = "Frostiger Wind",
+	Moodles_windchill_lvl4 = "Schrecklicher Wind",
+	Moodles_windchill_desc_lvl1 = "Es fühlt sich 5 bis 10 Grad kälter an, als es tatsächlich ist.",
+	Moodles_windchill_desc_lvl2 = "Es fühlt sich 10 bis 15 Grad kälter an, als es tatsächlich ist.",
+	Moodles_windchill_desc_lvl3 = "Es fühlt sich 15 bis 20 Grad kälter an, als es tatsächlich ist.",
+	Moodles_windchill_desc_lvl4 = "Es fühlt sich mehr als 20 Grad kälter an, als es tatsächlich ist.",
 	Moodles_angry_desc_lvl1 = "Ein wenig genervt.",
 	Moodles_angry_desc_lvl2 = "Richtig schlecht gelaunt.",
 	Moodles_angry_desc_lvl3 = "Rasend vor Wut.",
