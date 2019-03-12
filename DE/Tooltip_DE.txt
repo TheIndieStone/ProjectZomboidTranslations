@@ -1,4 +1,5 @@
 Tooltip_DE = {
+	Tooltip_removeBurntVehicle = "Die Demontage von Autowracks mit einer Schweißmaske und einem Propanbrenner entfernt sie von Ihrem Weg und stellt Metallbaumaterialien zur Verfügung. <LINE> Höhere Metallarbeitsfertigkeiten werden zu einer besseren Verwertung führen.",
 	Tooltip_CarBatteryCharger = "Auf den Boden stellen und dann über das Kontextmenü eine Batterie anschließen. <br> Für den Betrieb wird eine Stromquelle benötigt.",
 	Tooltip_lightFireNoStick = "Stock oder Zweig wird benötigt, um ein Feuer zu entzünden.",
 	Tooltip_item_Insulation = "Isolierung",

@@ -1,4 +1,5 @@
 ContextMenu_DE = {
+	
 	ContextMenu_AddWaterFromItem = "Wasser von einem Gegenstand hinzufügen",
 	ContextMenu_CarBatteryCharger_ConnectBattery = "Autobatterie anschließen",
 	ContextMenu_CarBatteryCharger_Place = "Autobatterie-Ladegerät einsetzen",
