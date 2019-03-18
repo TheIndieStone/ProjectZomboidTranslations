@@ -1,4 +1,10 @@
-Challenge_DE = {	
+Challenge_DE = {
+	Challenge_AStormIsComing_name = "7. (NEU) Ein Sturm zieht auf.",
+	Challenge_AStormIsComing_desc = "Über Kentucky sammeln sich Wolken. Das Knistern des Donners ist in der Ferne zu hören. <LINE> <LINE> Während sich der Himmel verdunkelt, werden die Toten, die über die Erde stolpern, unruhig. <LINE> <LINE>  Dies ist ein Sturm, der wachsen und in seiner Schärfe zurückgehen wird, aber er wird nie enden.",
+	Challenge_TheDescendingFog_name = "8. (NEU) Der absteigende Nebel",
+	Challenge_TheDescendingFog_desc = "Die Leute sahen es zum ersten Mal auf dem Wasser. Eine schwache weiße Decke über dem Ohio River. <LINE> <LINE> Es begann als Nebel. Dann umhüllte es die Stadt. Die Stadtbewohner starben schreiend in der Dunkelheit. Jetzt gehen sie da raus. <LINE> <LINE> Unsichtbar, ungehört und unerbittlich bei der Suche nach den Lebenden.",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Endloses schlechtes Wetter vor uns.....",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Es wird neblig.....",
 	Challenge_AReallyCDDAy_desc = "Stockbesoffen und mit einer fiesen Erkältung geplagt, kommst du gerade aus der Dusche und fällst dabei schmerzhaft. <LINE> Zu allem Überfluss, brennt auch noch deine Bude! Heute ist definitiv nicht dein Tag.",
 	Challenge_AReallyCDDAy_name = "Ein schöner Tag",
 	Challenge_Challenge1_desc = "Bereite dich auf eine kurze und scharfe Dosis Zomboid vor! Beißer nähern sich aus jedem Blickwinkel. <LINE> Wie lange kannst Du der Horde widerstehen? <LINE> Also los, mach deine Schrotflinte einsatzbereit... <BR> - Endlose Wellen von Zombies in immer größerer anzahl. <LINE> - Überlebe so lange wie nur möglich mit begrenzten Ressourcen, die du finden kannst.",

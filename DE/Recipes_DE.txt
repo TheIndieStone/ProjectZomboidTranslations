@@ -1,5 +1,15 @@
 Recipes_DE = {
-
+	Recipe_Advanced_Mechanics = "Fortgeschrittene Mechanik",
+	Recipe_Basic_Mechanics = "Anf‰nger Mechanik",
+	Recipe_Intermediate_Mechanics = "Nicht-mehr-Anf‰nger Mechanik"
+	Recipe_Make_Metal_Containers = "Metallbeh‰lter",
+	Recipe_Make_Metal_Fences = "Metallz‰une",
+	Recipe_Make_Metal_Roof = "Metalldach",
+	Recipe_Make_Metal_Walls = "Metallw‰nde",
+	Generator = "Generator Wartung",
+	Herbalist = "Pflanzliche Heilmittel",
+	Recipe_Make_Cold_Cuppa = "Kalte Tasse zubereiten",
+	Recipe_Make_Hot_Cuppa = "Heisse Tasse zubereiten",
 	Recipe_Make_Small_Metal_Sheet = "Metallplatte herstellen",
 	Recipe_Wash_Clothing = "Kleidung waschen",
 	Recipe_Rip_Clothing = "Kleidung zerreiﬂen",
