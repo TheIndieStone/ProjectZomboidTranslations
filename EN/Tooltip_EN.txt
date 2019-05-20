@@ -198,5 +198,4 @@ Tooltip_EN = {
     Tooltip_lightFireNoStick = "Requires stick or branch to light fire.",
     Tooltip_item_Insulation = "Insulation",
     Tooltip_NeedWrench = "You need a %1 to do this.",
-    Tooltip_BagOnSeat = "%1 on %2",
 }

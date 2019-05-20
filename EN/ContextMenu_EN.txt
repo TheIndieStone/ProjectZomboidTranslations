@@ -365,4 +365,10 @@ ContextMenu_EN = {
 	ContextMenu_CarBatteryCharger_Take = "Take Car-Battery Charger",
     ContextMenu_RemoveBurntVehicle = "Dismantle Car Wreck",
     ContextMenu_PlumbItem = "Plumb %1",
+    ContextMenu_RipClothing = "Rip Clothing",
+    ContextMenu_CraftSheetRope = "Craft Sheet Rope",
+    ContextMenu_UpHoodie = "Wear Hood",
+    ContextMenu_DownHoodie = "Remove Hood",
+    ContextMenu_ReplaceClothing = "Replace %1 with %2",
+    ContextMenu_ReverseCap = "Reverse Cap",
 }
