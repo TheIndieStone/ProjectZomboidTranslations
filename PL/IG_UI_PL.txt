@@ -694,8 +694,6 @@
 	IGUI_XP_Health = "Zdrowie",
 	IGUI_XP_Info = "Informacje",
 	IGUI_XP_Locked = "Zablokowane",
-	IGUI_XP_Next_skill_point = "Nastêpny punkt: ",
-	IGUI_XP_Skill_point_available = "Dostêpne punkty: ",
 	IGUI_XP_Skills = "Umiejêtnoœci",
 	IGUI_XP_UnLocked = "Odblokowane",
 	IGUI_XP_level = " poziom ",
@@ -890,4 +888,15 @@
 	IGUI_AdminPanel_MoveableCheat = "Cheaty do przenoszenia mebli",
 	
 	IGUI_ItemNameTaintedWater = "%1 (ska¿ona)",
+	
+	IGUI_health_Pain = "Ból",
+	IGUI_health_HeavyPain = "Ciê¿ki ból",
+	IGUI_perks_Blunt = "D³ugie obuchy",
+	IGUI_perks_SmallBlunt = "Krótkie obuchy",
+	IGUI_perks_LongBlade = "D³ugie ostrza",
+	IGUI_perks_SmallBlade = "Krótkie ostrza",
+	IGUI_perks_Axe = "Siekiera",
+	IGUI_perks_Spear = "W³ócznia",
+	IGUI_Safehouse_AlreadyHaveSafehouse = "Jesteœ ju¿ cz³onkiem lub w³aœcicielem schronienia.",
+    IGUI_health_Cut = "Rana ciêta",
 }

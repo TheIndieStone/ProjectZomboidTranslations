@@ -43,4 +43,7 @@ Challenge_YouHaveOneDay_name = "1. Masz jeden dzieñ",
 	Challenge_TheDescendingFog_desc = "Ludzie najpierw zauwa¿yli j¹ ponad lustrem wody. Delikatna, bia³a ko³derka unosz¹ca siê nad tafl¹ rzeki Ohio. <LINE> <LINE> Na pocz¹tku by³a jedynie mgie³k¹, ale wkrótce potem utonê³o w niej ca³e miasto. Mieszkañcy zaczêli gin¹æ w jej odmêtach, a teraz o¿yli na nowo. <LINE> <LINE> Niewidoczni, bezg³oœni i uparci w swoim powolnym poœcigu za ocala³ymi.",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> Z³a pogoda nigdy nie minie...",
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> Nadchodzi mg³a...",
+
+Challenge_Kingsmouth_name = "9. Kingsmouth",
+Challenge_Kingsmouth_desc = "Trwaj¹ prace nad opisem.",
 }

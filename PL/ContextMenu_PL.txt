@@ -380,4 +380,11 @@ ContextMenu_FoodType_Tea = "Herbata",
 	ContextMenu_CarBatteryCharger_Take = "WeŸ prostownik do akumulatorów",
 	ContextMenu_RemoveBurntVehicle = "Rozmontuj wrak samochodu",
 	ContextMenu_PlumbItem = "Pod³¹cz %1 do rur",
+	
+	ContextMenu_RipClothing = "Podrzyj ubranie",
+    ContextMenu_CraftSheetRope = "Zrób linê z materia³u",
+    ContextMenu_UpHoodie = "Za³ó¿ kaptur",
+    ContextMenu_DownHoodie = "Zdejmij kaptur",
+    ContextMenu_ReplaceClothing = "Zmieñ %1 na %2",
+    ContextMenu_ReverseCap = "Odwróæ czapkê z daszkiem",
 }
