@@ -79,13 +79,13 @@ IGUI_ES = {
 	IGUI_health_Infected = "Infectado",
 	IGUI_health_LodgedBullet = "Bala alojada",
 	IGUI_health_LodgedGlassShards = "Fragmentos de vidrio alojados",
+	IGUI_health_Pain = "Dolor",
+	IGUI_health_HeavyPain = "Dolor intenso",						   
 	-- Skills
 	IGUI_skills_Multiplier = "Multiplicador: %1",
-	IGUI_XP_Next_skill_point = "Siguiente punto disponible",
 	IGUI_XP_xp = " xp",
 	IGUI_XP_tooltipxp = "XP : %1 / %2",
 	IGUI_XP_tooltipxpboost = "Aumento XP: +%1",
-	IGUI_XP_Skill_point_available = "Puntos de habilidad disponibles",
 	IGUI_XP_Locked = "Bloqueado",
 	IGUI_XP_UnLocked = "Desbloqueado",
 	IGUI_XP_level = " nivel ",
@@ -94,8 +94,12 @@ IGUI_ES = {
 	IGUI_XP_Info = "Información",
 	-- Perks
 	IGUI_perks_Combat = "Combate",
-	IGUI_perks_Blunt = "Armas contundentes",
-	IGUI_perks_Blade = "Armas blancas",
+	IGUI_perks_Blunt = "Arma larga contundente",
+	IGUI_perks_SmallBlunt = "Arma corta contundente",
+	IGUI_perks_LongBlade = "Arma larga de hoja",									   
+	IGUI_perks_SmallBlade = "Arma corta de hoja",
+	IGUI_perks_Axe = "Hacha",
+	IGUI_perks_Spear = "Lanza",						
 	IGUI_perks_Aiming = "Puntería",
 	IGUI_perks_Reloading = "Recarga",
 	IGUI_perks_Crafting = "Elaboración",
@@ -914,5 +918,6 @@ IGUI_ES = {
     IGUI_climate_segment_progress = "Progreso del segmento meteorológico actual.",
     IGUI_AdminPanel_MoveableCheat = "Mover mobiliario",
 	IGUI_Safehouse_AlreadyHaveSafehouse = "Ya eres miembro o propietario de un refugio",
-	}
+	IGUI_health_Cut = "Corte",							
+}
 
