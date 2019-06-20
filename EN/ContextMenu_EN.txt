@@ -371,4 +371,7 @@ ContextMenu_EN = {
     ContextMenu_DownHoodie = "Remove Hood",
     ContextMenu_ReplaceClothing = "Replace %1 with %2",
     ContextMenu_ReverseCap = "Reverse Cap",
+    ContextMenu_AddRandom = "Add Random %1",
+    ContextMenu_FromRandom = "From Random %1",
+    ContextMenu_FoodType_NoExplicit = "Condiment",
 }

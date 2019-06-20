@@ -25,6 +25,9 @@ Challenge_EN = {
 
     Challenge_Kingsmouth_name = "9. Kingsmouth",
     Challenge_Kingsmouth_desc = "Debug stuff!",
+
+    Challenge_Studio_name = "10. Studio",
+    Challenge_Studio_desc = "Debug stuff!",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Press 'o' for permanent boost and to spend some money.",
 	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (press Enter to skip)",
