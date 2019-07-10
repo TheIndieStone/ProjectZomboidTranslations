@@ -691,6 +691,7 @@ IGUI_EN = {
     IGUI_ScavengeUI_MedicinalPlants = "Medicinal Plants",
     IGUI_PlayerStats_ManageInventory = "Manage %1's Inventory",
     IGUI_PlayerStats_AddItem = "Add Item (Module.ItemType)",
+    IGUI_RequiresWaterSupply = "Requires a source of water.",
     IGUI_ClothingNaming = "%2 (%1)",
     IGUI_PlayerStats_LevelUp = "Level Up",
     IGUI_SeatFrontRight = "Front Right",
