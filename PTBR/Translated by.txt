@@ -3,6 +3,9 @@ Official Brazilian Translation
 Translated by Project Zomboid Brasil
 
 - Build: 40.35
+- Date: 11/07/2019
+- ZonaryQuasar
+
 - Date: 12/05/2018
 - Translation Team:
 	Bruno Duarte Machado (DuMa)
