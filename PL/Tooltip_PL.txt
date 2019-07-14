@@ -197,4 +197,7 @@ Tooltip_PL = {
 	Tooltip_lightFireNoStick = "Do rozpalenia ognia potrzebujesz ga³¹zki lub ga³êzi.",
 	Tooltip_item_Insulation = "Ochrona przed zimnem",
 	Tooltip_NeedWrench = "Aby to zrobiæ, potrzebujesz %1.",
+	
+	Tooltip_clothing_wet = "Wilgotne",
+    Tooltip_clothing_soaked = "Mokre",
 }

@@ -899,4 +899,6 @@
 	IGUI_perks_Spear = "W³ócznia",
 	IGUI_Safehouse_AlreadyHaveSafehouse = "Jesteœ ju¿ cz³onkiem lub w³aœcicielem schronienia.",
     IGUI_health_Cut = "Rana ciêta",
+	
+	IGUI_RequiresWaterSupply = "Wymaga Ÿród³a wody.",
 }
