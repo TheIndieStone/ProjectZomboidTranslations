@@ -68,7 +68,7 @@ Moveables_PTBR = {
     Blue_Cross_Sign = "Placa de X Azul",
     Blue_Curtain = "Cortinas Azuis",
     Blue_Dumpster = "Caçamba Azul",
-    Blue_Fossoil_Floor = "Assoalho Azul" ,
+    Blue_Fossoil_Floor = "Assoalho Azul",
     Blue_Fridge = "Geladeira Azul",
     Blue_Hospital_Curtain_A = "Cortina Azul de Hospital A",
     Blue_Hospital_Curtain_B = "Cortina Azul de Hospital B",
@@ -95,7 +95,7 @@ Moveables_PTBR = {
     Brown_Carpet = "Carpete Marrom",
     Brown_Curtain = "Cortinas Marrom",
     Brown_Lazy_Chair = "Espreguiçadeira Marrom",
-    Brown_Lazy_Couch = "Sofá Marrom”,
+    Brown_Lazy_Couch = "Sofá Marrom",
     Brown_Low_Table = "Mesinha Marrom",
     Brown_Motel_Floor = "Piso Marrom de Motel",
     Brown_Picknic_Table = "Mesa Marrom de Piquenique",
@@ -567,7 +567,7 @@ Moveables_PTBR = {
     Tall_Corner_Hedge = "Cerca Viva Alta de Canto",
     Tall_Hedge = "Cerca Viva Alta",
     Tall_Mirror = "Espelho Alto",
-    Tattoo_Parlor_Sign = "Placa Tattoo Parlor",
+    Tattoo_Parlor_Sign = "Placa de Estúdio de Tatuagem",
     The_Drake_Sign = "Placa The Drake",
     The_Forgotten_Element_Poster = "Pôster The Forgotten Element",
     Theater_Corner_Counter = "Balcão de Canto de Cinema",
@@ -603,7 +603,7 @@ Moveables_PTBR = {
     Wall_Vault = "Cofre de Parede",
     Wanted_Notices = "Cartazes de Procurados",
     Washing_Bin = "Cesto de Roupas",
-    Water_Dispenser = "Dispersor de Água",
+    Water_Dispenser = "Bebedouro",
     Waterbeach_Hills_Painting = "Quadro Waterbeach Hills",
     Weathered_Notices = "Recados Desgastados",
     Weighing_Scale = "Balança",
@@ -670,16 +670,13 @@ Moveables_PTBR = {
     Zippee_Market_Sign = "Placa Zippee Market",
     Zippee_Shelves_Rack = "Prateleiras Altas Zippee",
     Zippee_Wall_Shelves = "Prateleiras Zippee",
-
-    -- ISMoveableSpriteProps names
     Moveable_object = "Objeto Móvel",
     Scrapable_object = "Objeto Desmontável",
-    
-    -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
     Lamp_on_Pillar = "Pilar de Lâmpada",
     Metal_Crate = "Caixa de Metal",
     Stone_Pile = "Pilha de Pedras",
     Wooden_Picket = "Cerca de Madeira",
     Wooden_Stairs = "Escadas de Madeira",
-
+    White_Clothing_Dryer = "Secador de Roupa",
+    White_Washing_Machine = "Máquina de Lavar Roupa",
 }

@@ -1,0 +1,3 @@
+ItemName_PTBR = {
+    ItemName_Base.Apron_IceCream = "Avental de Servidor de Sorvete",
+}
