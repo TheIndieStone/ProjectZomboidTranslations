@@ -19,6 +19,8 @@ It is wise to seek out if contribution is actively happening with a language and
 
 TAKE NOTE: We treat forks and branches as work in progress and we will not merge in these locations without a pull request.
 
+Contributing to this repository is voluntary and abides (https://projectzomboid.com/blog/2013/09/terms-conditions/)[by the Project Zomboid Terms & Conditions]
+
 ## Joining As Contributor
 
 If you want to join as a contributor instead of forking, then create an issue and notify Connall, send me a message on theindiestone.com or through Discord. There are numerous ways to get a hold of me.
