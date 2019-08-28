@@ -29,9 +29,9 @@ SurvivalGuide_CN = {
 	SurvivalGuide_entrie5moreinfo = " <H1> 合成 <BR> <TEXT> 在物品栏中对你需要合成的物品按右键进行合成. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 可合成的物品将会在物品信息里提示你! <BR> 烹饪，木工，医疗等合成物品将会变成你生存更久的关键. <BR> <H1> BARRICADING <BR> <TEXT> 你可以用木板加固你的门窗(按右键),前提是,你需要有铁锤，木板和钉子. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE> 门或窗最多可以用三块木板加固. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
 	" <H1> 木工 <BR> <TEXT> 当你找到更多资源和更加熟悉你的铁锤,你便可以构建一个更加坚固的防御工事.所以木工们都需要有一个铁锤,在想要建筑的地面上按右键即可显示建筑条目. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 在选定的建筑目标上,你会看见当前可建的建筑. <BR> 当选择好要建筑的物品后,一个半透明的样本会出现,你可以用鼠标移动它,决定好理想位置后再按左键摆放. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> Project Zomboid是一个真实度极高的游戏,所以建筑的建造是需要时间的.(不想等吗?在游戏里泡一杯茶,边喝茶边等吧). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 在建造你的建筑前,你可以按R键来选一个合适的角度. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 切记: 你建造的建筑越多,你的木工技能就会越高. 高等级木工使你可以制造更高品质和更有用的物品..",
 
-	SurvivalGuide_entrie6title = "生存指南 #6 - 小心僵尸的眼睛",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 小心僵尸的视线 <LINE> <IMAGE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们已经是死人了 <LINE> <LINE> 但它们还可以从窗外通过窗口看见你 <LINE> <LINE> 没有窗帘吗? 做一个吧 <LINE> <LINE>  ",
-	SurvivalGuide_entrie6moreinfo = " <H1> 阻挡它们的视线 <BR> <TEXT> 在僵尸生存中一个最常见的错误就是忽视了关窗帘的重要性. 不关闭窗帘等同于邀请僵尸进入你的房间,然后吃掉你的脑袋. <BR> 关闭窗帘或用物品阻挡窗口的视野:按右键来进行. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 用木板可以阻挡僵尸发现屋内的光线和动静. <BR> 如果这里没有窗帘, 而你又没有木板可用, 那就想办法找些代替品吧!",
+	SurvivalGuide_entrie6title = "生存指南 #6 - 回避偷窥狂",
+	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 回避偷窥狂 <LINE> <IMAGE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们可能已经死了 <LINE> <LINE> 但它们还是能看透窗户。 <LINE> <LINE> 没有窗帘？即兴弄吧。 <LINE> <LINE>  ",
+	SurvivalGuide_entrie6moreinfo = " <H1> 阻挡它们的视线 <BR> <TEXT> 在僵尸末日中一个最常见的错误就是让窗帘开着。 忘记关窗帘会招致徘徊的僵尸沿着你的花园小径直奔你的脑干。 <BR> 要关闭窗帘或百叶窗：用右键菜单。 <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 封锁窗户也能阻止死人头看到光线和动静。 <BR> 如果那没有窗帘，而你又没有备用木板， 或许你可以挂点什么来代替？来吧，试试看。",
 
 	SurvivalGuide_entrie7title = "生存指南 #7 - 不要乱吃东西",
 	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #7 - 不要乱吃东西 <LINE> <IMAGE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 在求生时, <LINE> <LINE> 食物中毒可不是那么有趣的事情 <LINE> <LINE> <LINE> <LINE> 吃一个热腾腾的饭菜吧.",
