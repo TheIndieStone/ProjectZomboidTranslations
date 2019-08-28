@@ -387,7 +387,7 @@ IGUI_CN = {
 	IGUI_ItemsSurface = "表面有物品",
 	IGUI_RadioSelectInner = "选择内部菜单",
 	IGUI_RadioSelectOuter = "退出内部菜单选择",
-	IGUI_RemainingPercent = "储水量：%1%",
+	IGUI_RemainingPercent = "剩余：%1%",
 	IGUI_RadioReleaseFocus = "取消选择",
 	IGUI_JobType_ApplyCataplasm = "敷上药膏",
 	IGUI_RainCollectorHasWater = "内有水源",
@@ -881,4 +881,6 @@ IGUI_CN = {
 	IGUI_climate_total_progress = "当前天气总进度。",
 	IGUI_climate_segment_progress = "当前天气部分进度。",
 	IGUI_AdminPanel_MoveableCheat = "可动作家具作弊",
+    IGUI_ItemNameTaintedWater = "%1 (污染)",
+	IGUI_Safehouse_AlreadyHaveSafehouse = "你已是安全屋的成员或所有者",
 }
