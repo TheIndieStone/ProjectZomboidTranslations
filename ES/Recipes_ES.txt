@@ -1,9 +1,4 @@
 Recipe_ES = {
-
-	-- Build 39.58
-	-- 15-05-2018
-	-- Autor: ditoseadio
-
 	Recipe_Add_Crafted_Trigger = "Agregar disparador remoto",
 	Recipe_Add_Motion_Sensor_V1 = "Añadir sensor de movimiento V1",
 	Recipe_Add_Motion_Sensor_V2 = "Añadir sensor de movimiento V2",
@@ -282,4 +277,23 @@ Recipe_ES = {
 	Recipe_Write_Doodle = "Hacer garabatos",
 	Recipe_Write_Journal = "Escribir un diario",
     Recipe_Intermediate_Mechanics = "Mecánica intermedia",
+	Recipe_Add_Bread_Knife_on_Spear = "Añadir cuchillo para pan a la lanza",
+	Recipe_Add_Butter_Knife_on_Spear = "Añadir cuchillo para mantequilla a la lanza",
+	Recipe_Add_Fork_on_Spear = "Añadir tenedor a la lanza",
+	Recipe_Add_Hand_Fork_on_Spear = "Añadir tenedor de jardinería a la lanza",
+	Recipe_Add_Hunting_Knife_on_Spear = "Añadir cuchillo de caza a la lanza",
+	Recipe_Add_Ice_Pick_on_Spear = "Añadir picahielos a la lanza",
+	Recipe_Add_Letter_Opener_on_Spear = "Añadir abrecartas a la lanza",
+	Recipe_Add_Machete_on_Spear = "Añadir machete a la lanza",
+	Recipe_Add_Scalpel_on_Spear = "Añadir escapelo a la lanza",
+	Recipe_Add_Scissors_on_Spear = "Añadir tijeras a la lanza",
+	Recipe_Add_Screwdriver_on_Spear = "Añadir destornillador a la lanza",
+	Recipe_Add_Spoon_on_Spear = "Añadir cuchara a la lanza",
+	Recipe_Create_Spear = "Hacer lanza",
+	Recipe_Open_Box_of_.38_Special_Bullets = "Abrir caja de munición .38 Special",
+	Recipe_Open_Box_of_.44_Magnum_Bullets = "Abrir caja de munición .44 Magnum",
+	Recipe_Open_Box_of_.45_Auto_Bullets = "Abrir caja de munición .45 ACP",
+	Recipe_Place_.38_Speciam_Bullets_in_Box = "Poner munición .38 Special en una caja",
+	Recipe_Place_.44_Magnum_Bullets_in_Box = "Poner munición .44 Magnum en una caja",
+	Recipe_Place_.45_Auto_Bullets_in_Box = "Poner munición .45 ACP en una caja",
 }
