@@ -211,4 +211,6 @@ Tooltip_EN = {
     Tooltip_CombatSpeedModifier = "Combat speed modifier",
     Tooltip_NoBeard = "No beard, wait for it to grow.",
     Tooltip_NoHair = "No hair, wait for it to grow."
+    Tooltip_CombatSpeed = "Combat Speed",
+    Tooltip_EquipFirst = "Need to be worn.",
 }
