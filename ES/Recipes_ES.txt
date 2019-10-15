@@ -296,4 +296,6 @@ Recipe_ES = {
 	Recipe_Place_.38_Speciam_Bullets_in_Box = "Poner munición .38 Special en una caja",
 	Recipe_Place_.44_Magnum_Bullets_in_Box = "Poner munición .44 Magnum en una caja",
 	Recipe_Place_.45_Auto_Bullets_in_Box = "Poner munición .45 ACP en una caja",
+	Recipe_Make_Stake = "Hacer estaca",
+	Recipe_Smash_Bottle = "Romper botella",
 }

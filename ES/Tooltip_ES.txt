@@ -211,4 +211,5 @@ Tooltip_ES = {
     Tooltip_RunSpeedModifier = "Modificador de velocidad de carrera",
     Tooltip_CombatSpeedModifier = "Modificador de velocidad de combate",
 	Tooltip_CombatSpeed = "Velocidad de combate",
+	Tooltip_EquipFirst = "Necesita ser usado.",
 }

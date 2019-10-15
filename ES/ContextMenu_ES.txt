@@ -386,4 +386,8 @@ ContextMenu_ES = {
     ContextMenu_UnloadMagazine = "Vaciar el cargador",
     ContextMenu_ShaveHair = "Rapado completo",
     ContextMenu_InsertBullets = "Cargar %1 %2 en el arma",
+	ContextMenu_Wash = "Lavar",
+	ContextMenu_Yourself = "A ti mismo",
+	ContextMenu_WashAllClothing = "Toda la ropa",
+	ContextMenu_WashClothing = "%1",
 }

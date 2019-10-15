@@ -699,7 +699,7 @@ UI_ES = {
     UI_optionscreen_enableVehicle = "Habilitar vehículos",
     UI_optionscreen_flies_volume = "Zumbido de las moscas",
     UI_optionscreen_flies_volume_tt = "El sonido de las moscas zumbando alrededor de los cadáveres.",
-    UI_optionscreen_framerate = "Fijar framerate ",
+    UI_optionscreen_framerate = "Fotogramas máximos ",
     UI_optionscreen_fullscreen = "Pantalla completa",
     UI_optionscreen_game = "JUGABILIDAD",
     UI_optionscreen_gameoption = "OPCIONES DEL JUEGO",
@@ -1190,5 +1190,6 @@ UI_ES = {
     UI_optionscreen_DblTapRunToSprintTooltip = "Si está activado, al pulsar dos veces el botón de trote se iniciará la carrera. Mantén pulsado el botón Shift para seguir corriendo.",
     UI_ClothingType_Sweater = "Suéter",
     UI_optionscreen_binding_Sprint = " Correr",
-	UI_optionscreen_accessibility = "ACCESIBILIDAD",
+    UI_optionscreen_accessibility = "ACCESIBILIDAD",
+    UI_optionscreen_binding_Toggle Clothing Protection Panel = " Mostrar panel de protección",
 }

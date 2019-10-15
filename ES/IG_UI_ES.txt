@@ -881,7 +881,7 @@ IG_UI_ES = {
     IGUI_climate_segment_progress = "Progreso del segmento meteorológico actual.",
     IGUI_AdminPanel_MoveableCheat = "Mover mobiliario",
     IGUI_Safehouse_AlreadyHaveSafehouse = "Ya eres miembro o propietario de un refugio",
-    IGUI_health_Cut = "Corte",
+    IGUI_health_Cut = "Laceración",
     IGUI_Hair_OverEye = "Flequillo",
     IGUI_char_HairStyle = "Pelo",
     IGUI_Beard_LongScruffy = "Desarreglada",
@@ -917,4 +917,5 @@ IG_UI_ES = {
     IGUI_Hair_Long2 = "Melena larga",
 	IGUI_ToggleToSprint = "Tecla %1 para correr",
 	IGUI_XP_Protection = "Protección",
+	IGUI_FilterAll = "Filtrar todo",
 }

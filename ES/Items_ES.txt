@@ -1180,4 +1180,10 @@ Items_ES = {
 	DisplayName_Sawn_Off_JS_2000_Shotgun = "Escopeta recortada JS-2000",
 	DisplayName_White_Fireman_Tshirt = "Camiseta blanca de bombero",
 	DisplayName_White_Police_Tshirt = "Camiseta blanca de policía",
+	DisplayName_Griddle_Pan = "Sartén grill",
+	DisplayName_Keytar = "Keytar",
+	DisplayName_Meat_Cleaver = "Cuchillo de carnicero",
+	DisplayName_Nightstick = "Tonfa",
+	DisplayName_Smashed_Bottle = "Botella rota",
+	DisplayName_Stake = "Estaca",
 }
