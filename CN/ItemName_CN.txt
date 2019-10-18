@@ -1,0 +1,3 @@
+ItemName_CN = {
+    ItemName_Base.Apron_IceCream = "冰淇淋工作围裙",
+}
