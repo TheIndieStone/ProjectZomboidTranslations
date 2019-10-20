@@ -153,7 +153,7 @@ Recipe_ES = {
 	Recipe_Make_Splint = "Hacer férula",
 	Recipe_Make_Spoon = "Hacer cuchara",
 	Recipe_Make_Stick_Trap = "Hacer trampa para aves",
-	Recipe_Make_Stone_Axe = "Hacer hacha rudimentaria",  
+	Recipe_Make_Stone_Axe = "Hacer hacha de piedra",  
 	Recipe_Make_Stone_Hammer = "Hacer martillo de piedra",
 	Recipe_Make_Sturdy_Stick = "Hacer palo de madera",
 	Recipe_Make_Suture_Needle = "Hacer aguja de sutura",
@@ -276,7 +276,7 @@ Recipe_ES = {
 	Recipe_Wash_Clothing = "Lavar la ropa",
 	Recipe_Write_Doodle = "Hacer garabatos",
 	Recipe_Write_Journal = "Escribir un diario",
-    Recipe_Intermediate_Mechanics = "Mecánica intermedia",
+	Recipe_Intermediate_Mechanics = "Mecánica intermedia",
 	Recipe_Add_Bread_Knife_on_Spear = "Añadir cuchillo para pan a la lanza",
 	Recipe_Add_Butter_Knife_on_Spear = "Añadir cuchillo para mantequilla a la lanza",
 	Recipe_Add_Fork_on_Spear = "Añadir tenedor a la lanza",
@@ -298,4 +298,6 @@ Recipe_ES = {
 	Recipe_Place_.45_Auto_Bullets_in_Box = "Poner munición .45 ACP en una caja",
 	Recipe_Make_Stake = "Hacer estaca",
 	Recipe_Smash_Bottle = "Romper botella",
+	Rip sheets = "Rasgar tela",
+	
 }
