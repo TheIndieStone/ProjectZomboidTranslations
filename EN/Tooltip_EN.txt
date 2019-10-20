@@ -200,4 +200,17 @@ Tooltip_EN = {
     Tooltip_lightFireNoStick = "Requires stick or branch to light fire.",
     Tooltip_item_Insulation = "Insulation",
     Tooltip_NeedWrench = "You need a %1 to do this.",
+    Tooltip_weapon_Jammed = "Weapon Jammed, rack it.",
+    Tooltip_weapon_ContainsClip = "Contains Magazine.",
+    Tooltip_weapon_NoClip = "Need magazine to operate."
+    Tooltip_BiteDefense = "Bite Defense",
+    Tooltip_ScratchDefense = "Scratch Defense",
+    Tooltip_requireRazorOrScissors = "Require a Razor or Scissors";
+    Tooltip_RequireScissors = "Require Scissors",
+    Tooltip_RunSpeedModifier = "Run speed modifier",
+    Tooltip_CombatSpeedModifier = "Combat speed modifier",
+    Tooltip_NoBeard = "No beard, wait for it to grow.",
+    Tooltip_NoHair = "No hair, wait for it to grow."
+    Tooltip_CombatSpeed = "Combat Speed",
+    Tooltip_EquipFirst = "Need to be worn.",
 }
