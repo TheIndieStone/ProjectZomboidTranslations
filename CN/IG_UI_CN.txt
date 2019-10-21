@@ -910,6 +910,6 @@ IGUI_CN = {
 	IGUI_Hair_Bun = "圆发髻",
 	IGUI_char_BeardStyle = "胡须",
 	IGUI_Hair_Long2 = "长发",
-	IGUI_XP_Protection = "防御",
+	IGUI_XP_Protection = "保护",
 	IGUI_Hair_Bald = "光头",
 }
