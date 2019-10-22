@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.14
+	-- Date 10-22-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -686,4 +686,7 @@
 	Wooden_Picket = "柵",
 	Wooden_Stairs = "梯子",
 	Large_Metal_Shelves = "大型金属棚",
+	White_Clothing_Dryer = "衣類乾燥機",
+	White_Washing_Machine = "洗濯機",
+
 }
