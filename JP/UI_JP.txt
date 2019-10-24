@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.14
+	-- Date 10-22-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,8 +25,12 @@
 	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.43 <2018年12月22日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 40.43 <2018年12月22日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>   ",
+
+	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト用ファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>  ",
+	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト用ファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>  ",
+
 
 	UI_Details = "更新情報",
 
@@ -456,7 +460,7 @@
 	UI_WorldVersion = "ゲームバージョン：",
 	UI_Map = "ゲームマップ：",
 	UI_Loading_Lua = "Lua を読み込み中...",
-	UI_Loading_Texturepack = "%1 Texturepack を読み込み中...",
+	UI_Loading_Texturepack = "%1 テクスチャパックを読み込み中...",
 	UI_optionscreen_pressKeyToBind = "%1 のキーをバインドします。 <br>任意のキーを押してください。",
 	UI_optionscreen_keyAlreadyBinded = "キー %1 は既に %2 に使用されています。",
 	UI_optionscreen_reloadDifficulty = "銃器操作の難易度",
@@ -481,7 +485,7 @@
 	UI_optionscreen_binding_Right = "右 移動",
 	UI_optionscreen_binding_Aim = "攻撃体勢",
 	UI_optionscreen_binding_Run = "走る",
-	UI_optionscreen_binding_Interact = "アクションボタン",
+	UI_optionscreen_binding_Interact = "操作",
 	UI_optionscreen_binding_Rotate building = "装填操作/建築物の方向転換",
 	UI_optionscreen_binding_Change Graphics = "グラフィックス変更",
 	UI_optionscreen_binding_Toggle UI = "インターフェイスの表示 オン/オフ",
@@ -712,7 +716,7 @@
 	UI_NewGame_Survival = "生き残り",
 	UI_NewGame_Survival_desc = "設定日時：1993年7月9日 <LINE> <LINE> 筋金入りの経験。至る所に巨大なゾンビの群れ、高いリスクと死。 <LINE> どの程度、あなたは生き残ることができるのだろうか？",
 	UI_NewGame_Sandbox = "サンドボックス",
-	UI_NewGame_Sandbox_desc = "ゾンビの世界をあなた独自で作ってください！あなたの望む方法で <LINE> 死んでください...",
+	UI_NewGame_Sandbox_desc = "ゾンビの世界をあなた独自で作ってください！ <LINE> あなたの望む方法で死んでください...",
 	UI_NewGame_Challenges = "チャレンジ",
 	UI_NewGame_StartingCondition = "開始条件",
 	UI_StarterCondition_Easy = "初心者",
@@ -932,11 +936,11 @@
 	UI_ServerSettings_AddSpawnPoint_tooltip = "座標( x, y, z,)を入力し、スポーンする場所を調整します。",
 	UI_ServerSettings_UnemployedRequired = "プレイヤーの職業がリスト内に存在しない場合、デフォルトとして無職が指定されます。また、同時に少なくとも1つ以上のスポーンする場所を指定しておく必要があります。",
 	UI_InfoBtn = "情報",
-	UI_InventoryInfo = " <CENTRE> <SIZE:medium> インベントリ・パネル <LINE> <LINE> <LEFT> <SIZE:small> 右クリックで食べる、飲む、装備する、アイテム作成等ができます。 <LINE> <LINE> ここで、バッグやコンテナからアイテムを見つけることができるでしょう。 <LINE> <LINE> バッグに入れたアイテムは移動時の荷物の重量を軽減します。 <LINE> <LINE> クリックすると中身を見ることができ、ドラッグしてアイテムを移動し、収納することができます。 <LINE> <LINE> 小さな矢印をクリックして、持ち運びするアイテム数を増やしてみましょう。<LINE> <LINE> <IMAGE:media/ui/icon.png> このアイコンは、現在アイテムを装備しているということを表しています。",
-	UI_LootInfo = " <CENTRE> <SIZE:medium> ルート・パネル <LINE> <LINE> <LEFT> <SIZE:small>ルート・パネルは、キャラクターの手に届く範囲内のあらゆる容器と棚を確認することができます。 <LINE> <LINE> 右側に表示されたアイコンをクリックするとアイテムが見れます。 <LINE> <LINE> 近くの地面に置かれているアイテムも見ることができます。 <LINE> <LINE> 全てのアイテムをクリックすると、全てのコンテナ内のアイテムがインベントリに移動します。 <LINE> <LINE> ドラッグしてアイテムを一つにまとめることも可能です。",
+	UI_InventoryInfo = " <CENTRE> <SIZE:medium> インベントリ・パネル <LINE> <LINE> <LEFT> <SIZE:small> このパネルでは右クリックで食べる、飲む、装備する、アイテム作成等ができます。 <LINE> <LINE> ここで、バッグやコンテナからアイテムを見つけることができるでしょう。 <LINE> <LINE> バッグに入れたアイテムは移動時の荷物の重量を軽減します。 <LINE> <LINE> クリックすると中身を見ることができ、ドラッグしてアイテムを移動し、収納することができます。 <LINE> <LINE> 小さな矢印をクリックして、持ち運びするアイテム数を増やしてみましょう。<LINE> <LINE> <IMAGE:media/ui/icon.png> このアイコンは、現在アイテムを装備しているということを表しています。",
+	UI_LootInfo = " <CENTRE> <SIZE:medium> ルート・パネル <LINE> <LINE> <LEFT> <SIZE:small>このルート・パネルは、キャラクターの手に届く範囲内のあらゆる容器と棚を確認することができます。 <LINE> <LINE> 右側に表示されたアイコンをクリックするとアイテムが見れます。 <LINE> <LINE> 近くの地面に置かれているアイテムも見ることができます。 <LINE> <LINE> 全てのアイテムをクリックすると、全てのコンテナ内のアイテムがインベントリに移動します。 <LINE> <LINE> ドラッグしてアイテムを一つにまとめることも可能です。",
 	UI_HealthPanel = " <CENTRE> <SIZE:medium> 健康状態・パネル <LINE> <LINE> <SIZE:small> <LEFT> このパネルでは身体の状態や怪我を確認することができます。 <LINE> <LINE> 怪我を治療するには、医療関連アイテムを持っている必要があります。(例：包帯、消毒アルコール) <LINE> <LINE> 包帯や消毒、傷口を縫う場合、傷に対して右クリックを行います。 <LINE> <LINE> <CENTRE> <SIZE:medium> 治療の基本 <LINE> <LINE> <SIZE:small> <LEFT> 切り傷、引っ掻き傷、火傷は、創傷感染する可能性があります。 <LINE> <LINE> 消毒アルコールかアルコール消毒布などで傷口を消毒すると創傷感染を回避することができます。 <LINE> <LINE> 包帯は、煮沸消毒もしくは消毒アルコールで消毒すると治療に効果的です。 <LINE> <LINE> ゾンビから回収した衣服（汚れ、血液）を使った布切れは、洗濯や消毒せずに包帯に使うと感染 <LINE> <LINE> （ゾンビになる）する可能性があります。 <LINE> <LINE> <CENTRE> <SIZE:medium> 深い創傷 <LINE> <LINE> <SIZE:small> <LEFT>深い創傷の場合は、糸付縫合針、縫合持針器で傷口を塞ぎ、包帯を巻きます。 <LINE> <LINE> <CENTRE> <SIZE:medium> ガラス片 <LINE> <LINE> <SIZE:small> <LEFT>ガラス片は、医療ピンセット又は縫合持針器を使ってガラス片を取り除いてから包帯を巻きます。 <LINE> <LINE> <CENTRE> <SIZE:medium> 止血 <LINE> <LINE> <SIZE:small> <LEFT> 止血するには包帯を巻きます。定期的に包帯を交換する必要があります。 <LINE> <LINE> 包帯を汚れたままにすると、回復に時間が掛かります。 <LINE> <LINE> <CENTRE> <SIZE:medium> 骨折 <LINE> <LINE> <SIZE:small> <LEFT> 骨折を治療するには、添え木が必要になります。添え木は、布シート、木板で作れます。 <LINE> <LINE> 添え木を使って骨折からの回復を待ちます。 <LINE> <LINE> <CENTRE> <SIZE:medium> 創傷感染 <LINE> <LINE> <SIZE:small> <LEFT> 創傷感染を防ぐには、傷口をアルコールなどで消毒し、消毒した清潔な包帯で処置します。 <LINE> <LINE> 創傷感染を予防するために抗生物質を飲むと更に効果的です。 <LINE> <LINE> <CENTRE> <SIZE:medium> 銃傷 <LINE> <LINE> <SIZE:small> <LEFT> 銃傷は、医療ピンセット又は縫合持針器で弾頭を取り除き、糸付縫合針もしくは縫合持針器で傷口 <LINE> <LINE> を塞ぎ、消毒して包帯を巻きます。 <LINE> <LINE> <CENTRE> <SIZE:medium> 噛みつき <LINE> <LINE> <SIZE:small> <LEFT> 包帯か布切れなどを巻いて神に祈りましょう～！",
-	UI_SkillPanel = " <CENTRE> <SIZE:medium> 技能・パネル <LINE> <LINE> <SIZE:small> <LEFT> それぞれの習得可能な技能を確認することができます。 <LINE> <LINE> 習得に掛かる時間はあなたのキャラクターの職業や特性により変わります。 <LINE> <LINE> 本を読むことにより習得時間を早めることができます。 <LINE> <LINE> (※読書すると、特定のスキルに対してボーナス XP が配分されます。) <LINE> <LINE> XPは自動的にあなたの起こした行動を通して上昇し、キャラクターの動作の質を向上させます。 <LINE> <LINE> 技能の向上により平行してグローバルXPも加算されます。 <LINE> <LINE> グローバルXPが一定量を超えると次の技能レベルを解除できるようになります。 <LINE> <LINE> 解除すると技能を習得することができます。",
-	UI_CraftingUI = " <CENTRE> <SIZE:medium> 製作・パネル <LINE> <LINE> <SIZE:small> <LEFT> タブの中の全ての製作可能なアイテムは、様々な技能によって反映しています。 <LINE> <LINE> インベントリにあるアイテム、自動的に回収した足元にあったアイテム、コンテナの中になどにある <LINE> <LINE> アイテムから製作することができます。 <LINE> <LINE> 沢山のレシピの中で特に料理は、複数のアイテムを必要とします。 <LINE> <LINE> 例としてサンドウィッチは、パン(薄切り)と色々な食材を使って作ることができます。 <LINE> <LINE> 更に複雑なアイテムは、職業によっては作ることができません。 <LINE> <LINE> しかし、読書を通して必要な技能に到達すると習得が可能になります。 <LINE> <LINE> 製作レシピは、検索もしくは、お気に入り登録で確認することができます。",
+	UI_SkillPanel = " <CENTRE> <SIZE:medium> 技能・パネル <LINE> <LINE> <SIZE:small> <LEFT> このパネルではそれぞれの習得可能な技能を確認することができます。 <LINE> <LINE> 習得に掛かる時間はあなたのキャラクターの職業や特性により変わります。 <LINE> <LINE> 本を読むことにより習得時間を早めることができます。 <LINE> <LINE> (※読書すると、特定のスキルに対してボーナス XP が配分されます。) <LINE> <LINE> XPは自動的にあなたの起こした行動を通して上昇し、キャラクターの動作の質を向上させます。 <LINE> <LINE> 技能の向上により平行してグローバルXPも加算されます。 <LINE> <LINE> グローバルXPが一定量を超えると次の技能レベルを解除できるようになります。 <LINE> <LINE> 解除すると技能を習得することができます。",
+	UI_CraftingUI = " <CENTRE> <SIZE:medium> 製作・パネル <LINE> <LINE> <SIZE:small> <LEFT> このパネルではタブの中の全ての製作可能なアイテムは、様々な技能によって反映しています。 <LINE> <LINE> インベントリにあるアイテム、自動的に回収した足元にあったアイテム、コンテナの中になどにある <LINE> <LINE> アイテムから製作することができます。 <LINE> <LINE> 沢山のレシピの中で特に料理は、複数のアイテムを必要とします。 <LINE> <LINE> 例としてサンドウィッチは、パン(薄切り)と色々な食材を使って作ることができます。 <LINE> <LINE> 更に複雑なアイテムは、職業によっては作ることができません。 <LINE> <LINE> しかし、読書を通して必要な技能に到達すると習得が可能になります。 <LINE> <LINE> 製作レシピは、検索もしくは、お気に入り登録で確認することができます。",
 	UI_CharacterCreation = " <CENTRE> <SIZE:medium> キャラクター作成画面 <LINE> <LINE> <SIZE:small> <LEFT> キャラクターの有利点と不利点の特性ポイントが差し引き 0 になるまでバランスを取ります。 <LINE> <LINE> 緑色の能力上昇ポイントと同数の赤色のマイナス能力ポイントが必要となります。 <LINE> <LINE> キャラクターにポイントを足す場合、ダブルクリックをします。 <LINE> <LINE> 職業を選択すると職業にあった技能が最初から習得した形になります。 <LINE> <LINE> 無職のキャラクターは、通常よりより多くのポイントを割り振ることができます。 <LINE> <LINE> 設定したキャラクターのデータは、画面下で保存もしくは読み込むことができます。",
 	UI_Scoreboard_Stats = "状態",
 	UI_mainscreen_adminpanel = "ホスト管理",
@@ -1117,7 +1121,7 @@
 	UI_optionscreen_KeybindClear = "キーを割り当てません。",
 	UI_optionscreen_KeybindDefault = "デフォルトにリセットします。",
 	UI_optionscreen_KeybindKeep = "両方のキーを保ちます。",
-	UI_optionscreen_binding_CancelAction = "アクションを取り消す",
+	UI_optionscreen_binding_CancelAction = "操作を取り消す",
 	UI_worldscreen_SavefileVehicle = "保存データを読み出しすることができません。 <LINE>車両の導入に必要な変更ため、以前のゲームバージョンから保存データの互換性がありません。 <LINE>この保存データでゲームを続行するには、Steamベータのタブから、車両が入っていないビルド38.30を導入してください。 <LINE> 保存ゲームバージョン：%1 現在のゲームバージョン：%2",
 	UI_worldscreen_SaveCannotBeLoaded = "保存データを読み出しすることができません。 <LINE> ",
 	UI_GameLoad_MapDownloadFailed = "サーバーからマップデータをダウンロードすることができませんでした。",
@@ -1213,5 +1217,55 @@
 	UI_optionscreen_binding_Alt toggle chat = " チャットの入力",
 	UI_optionscreen_binding_Switch chat stream = " streamチャットの切り替え",
 	UI_optionscreen_do_door_sprite_effects = "ドアにヒット時した際にドアが揺れる",
+	UI_optionscreen_water = "水面の表現",
+	UI_optionscreen_puddles = "水溜まりの表現",
+	UI_optionscreen_perf_puddles = "動的な水面の表現",
+	UI_All = "全て",
+	UI_GroundWithRuts = "轍のある地表",
+	UI_GroundOnly = "地表のみ",
+	UI_None = "無し",
+	UI_Loading_ModelsAnimations = "モデルとアニメーションを読み込み中...",
+	UI_optionscreen_binding_Crouch = "忍び足",
+	UI_optionscreen_binding_Sprint = "疾走",
+	UI_optionscreen_binding_Toggle Clothing Protection Panel = "被服保護パネルの切り替え",
+	UI_optionscreen_binding_PanCamera = " パンカメラ",
+	UI_ServerOption_ZombieUpdateDelta_tooltip = "ゾンビの一括更新が送信される間隔（秒）",
+	UI_ServerOption_ZombieUpdateRadius_tooltip = "ゾンビの一括更新が送信される半径、古い動作の場合は0.0に設定",
+
+	--UI_ProtectionPanel = "被服保護パネル",
+	UI_ProtectionPanel = " <CENTRE> <SIZE:medium> 被服保護・パネル <LINE> <LINE> <SIZE:small> <LEFT> テスト ",
+
+	UI_ServerOptionDesc_NightModifier = "夜間の長さを設定します。1.0=通常、0.5 =半分、0.0 =夜間なし。使用方法：/nightlengthmodifier <delta>",
+	UI_ServerOptionDesc_Disconnect = "接続番号に従ってクライアントをキックします。接続番号は/ connectionsで確認できます。使用方法：/disconnect index、ex /disconnect 2",
+	UI_worldscreen_SavefileAnimation = "アニメーションの実装による変更により、以前のバージョンの保存データには互換性がありません。<LINE> <LINE> サーバーファイル ワールドバージョン：%1 <LINE>現在のワールドバージョン：%2",
+	UI_ClothingType_TankTop = "ベスト",
+	UI_ClothingType_Shirt = "ワイシャツ",
+	UI_ClothingType_Tshirt = "Ｔシャツ",
+	UI_ClothingType_Sweater = "セーター",
+	UI_ClothingType_Pants = "ズボン",
+	UI_ClothingType_Skirt = "スカート",
+	UI_ClothingType_Socks = "靴下",
+	UI_ClothingType_Shoes = "靴",
+	UI_ClothingType_Eyes = "眼鏡",
+	UI_ClothingType_Hat = "帽子",
+	UI_ClothingType_TorsoExtra = "その他",
+	UI_ClothingType_Hands = "手袋",
+	UI_ClothingType_Jacket = "ジャケット",
+	UI_ClothingType_Neck = "ネック",
+	UI_ClothingType_FullSuit = "カバーオール",
+	UI_optionscreen_DblTapRunToSprint = "ダブルタップで疾走",
+	UI_optionscreen_DblTapRunToSprintTooltip = "チェックを入れると、ジョグボタンをダブルタップすると疾走が開始されます。<br>シフトを押し続けると疾走を続けます。",
+	UI_Loading_InitPublicServers = "パブリックサーバーの初期化。",
+	UI_Loading_OnGameBoot = "ゲームの起動。",
+	UI_optionscreen_accessibility = "アクセシビリティの設定",
+	UI_NewGame_PlayStyle = "プレイスタイル",
+	UI_NewGame_Survivor = "生存者",
+	UI_NewGame_Survivor_desc = "しばしば、現実的で致命的な戦闘を避けるプレイヤー設定。",
+	UI_NewGame_Fighter = "暴れ者",
+	UI_NewGame_Fighter_desc = "以前のビルドに馴染みのあるプレイヤー設定",
+	UI_NewGame_Builder = "建設者",
+	UI_NewGame_Builder_desc = "建築、略奪、農業に重点をおいたプレイヤー。",
+	UI_NewGame_Sandbox_desc2 = "独自の難易度とプレイスタイルの調整が設定できます。",
+	UI_News_Anim = "<H1> ビルド 41 パブリックベータへようこそ！ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <CENTRE> <SIZE:large> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。<LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。",
 
 }

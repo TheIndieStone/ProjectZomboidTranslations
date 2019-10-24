@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.14
+	-- Date 10-22-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -17,11 +17,12 @@
 
 	Sandbox_ZombieCount = "ゾンビの固体数",
 	Sandbox_ZombieCount_tooltip = "ゾンビの個体数を細かく調整したい場合は「ゾンビのオプション設定」で調整を行ってください。",
-	Sandbox_ZombieCount_option1 = "狂気",
+	Sandbox_ZombieCount_option1 = "猛気",
 	Sandbox_ZombieCount_option2 = "多い",
 	Sandbox_ZombieCount_option3 = "普通",
 	Sandbox_ZombieCount_option4 = "少ない",
-	Sandbox_ZombieCount_option5 = "無し",
+	Sandbox_ZombieCount_option5 = "疎ら",
+	Sandbox_ZombieCount_option6 = "無し",
 
 	Sandbox_ZombieDistribution = "ゾンビの配分",
 	Sandbox_ZombieDistribution_option1 = "都市集中型",
@@ -411,12 +412,24 @@
 	Sandbox_BoneFracture = "骨折の再現",
 	Sandbox_BoneFracture_tooltip = "手足を骨折で負傷した際に手足を使えないように設定します。",
 
-	Sandbox_ClothingDegradation = "衣類の劣化速度",
-	Sandbox_ClothingDegradation_tooltip = "どの程度の速さで服が劣化し、汚れ、血液の影響がでるか設定します。",
+	Sandbox_ClothingDegradation = "被服の劣化速度",
+	Sandbox_ClothingDegradation_tooltip = "どの程度の速さで被服が劣化し、汚れ、血液の影響がでるか設定します。",
 	Sandbox_ClothingDegradation_option1 = "無効",
 	Sandbox_ClothingDegradation_option2 = "遅い",
 	Sandbox_ClothingDegradation_option3 = "普通",
 	Sandbox_ClothingDegradation_option4 = "速い",
+
+	Sandbox_RearVulnerability = "背後の貧弱性",
+	Sandbox_RearVulnerability_tooltip = "背後からゾンビに攻撃された時に噛まれる可能性を設定します。",
+	Sandbox_RearVulnerability_option1 = "低い",
+	Sandbox_RearVulnerability_option2 = "普通",
+	Sandbox_RearVulnerability_option3 = "高い",
+
+	Sandbox_MultiHitZombies = "近接武器の複数攻撃",
+	Sandbox_MultiHitZombies_tooltip = "近接武器の複数攻撃を有効にすると、1回の攻撃で複数のゾンビを倒すことができます。",
+
+	Sandbox_AttackBlockMovements = "近接攻撃中の歩行",
+	Sandbox_AttackBlockMovements_tooltip = "近接攻撃中は邪魔されずに歩くことができなくなります。",
 
 	--
 
@@ -606,6 +619,9 @@
 
 	Sandbox_TriggerHouseAlarm = "住宅防犯アラームの設定",
 	Sandbox_TriggerHouseAlarm_tooltip = "ゾンビが窓やドアを突破した際に住宅防犯アラームが動作するか設定します。",
+
+	Sandbox_ZombiesDragDown = "引き寄せ",
+	Sandbox_ZombiesDragDown_tooltip = "有効にすると、複数のゾンビが攻撃している場合、あなたを引き寄せます。 \nゾンビの強さに依存します。",
 
 	--
 

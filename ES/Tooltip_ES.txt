@@ -212,4 +212,5 @@ Tooltip_ES = {
     Tooltip_CombatSpeedModifier = "Modificador de velocidad de combate",
 	Tooltip_CombatSpeed = "Velocidad de combate",
 	Tooltip_EquipFirst = "Necesita ser usado.",
+	Tooltip_OpenCloseCurtains = "Teclado: Pulsa SHIFT-%1<br>Ratón: SHIFT-clic-izquierdo.",
 }

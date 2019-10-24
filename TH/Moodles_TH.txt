@@ -104,8 +104,13 @@ Moodles_TH = {
 	Moodles_hypothermia_lvl2 = "หนาว",
 	Moodles_hypothermia_lvl3 = "หนาวมาก",
 	Moodles_hypothermia_lvl4 = "หนาวจนสั่นไปทั้งตัว",
-
--- Description of moodle
+	-- Windchill
+	Moodles_windchill_lvl1 = "เริ่มเย็น",
+	Moodles_windchill_lvl2 = "เย็น",
+	Moodles_windchill_lvl3 = "เย็นจัด",
+	Moodles_windchill_lvl4 = "จะแข็งตายแล้ว",
+	
+	-- Description of moodle
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "เหนื่อย เริ่มหมดแรง",
 	Moodles_endurance_desc_lvl2 = "เหนื่อยมาก วิ่งแทบไม่ไหว",
@@ -210,4 +215,10 @@ Moodles_TH = {
 	Moodles_hypothermia_desc_lvl2 = "ควรทำร่างกายให้อบอุ่น ต้านทานความหนาวเย็น",
 	Moodles_hypothermia_desc_lvl3 = "สมาธิ และการรับรู้ลดลงจากความหนาวเย็น",
 	Moodles_hypothermia_desc_lvl4 = "เพ้อคลั่ง จากความหนาวเย็น อันตรายต่อชีวิต",
+	-- Windchill
+	Moodles_windchill_desc_lvl1 = "รู้สึกเหมือนเย็นกว่าปกติ 5 ถึง 10 องศา",
+	Moodles_windchill_desc_lvl2 = "รู้สึกเหมือนเย็นกว่าปกติ 10 ถึง 15 องศา",
+	Moodles_windchill_desc_lvl3 = "รู้สึกเหมือนเย็นกว่าปกติ 15 ถึง 20 องศา",
+	Moodles_windchill_desc_lvl4 = "รู้สึกเหมือนเย็นกว่าปกติ เกิน 20 องศา",
+	
 }
