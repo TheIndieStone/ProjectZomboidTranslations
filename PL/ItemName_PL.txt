@@ -1,0 +1,3 @@
+ItemName_PL = {
+	Base.Apron_IceCream = "Fartuch lodziarni",
+}
