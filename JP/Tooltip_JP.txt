@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.14
-	-- Date 10-22-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -28,9 +28,9 @@
 	Tooltip_item_Temperature = "体温",
 	Tooltip_item_Fatigue = "疲労",
 	Tooltip_weapon_Condition = "消耗度",
-	Tooltip_weapon_Repaired = "状態",
+	Tooltip_weapon_Repaired = "修理回数",
 	Tooltip_weapon_Damage = "威力",
-	Tooltip_weapon_Ammo = "実包",
+	Tooltip_weapon_Ammo = "使用弾薬",
 	Tooltip_weapon_Unusable_at_max_exertion = "全力を出している時には使えません。",
 	Tooltip_container_Capacity = "最大容量",
 	Tooltip_container_Weight_Reduction = "重量減少",
@@ -81,8 +81,8 @@
 	Tooltip_Vitamins = "飲むと疲労感を減らします。",
 	Tooltip_potentialRepair = "修理の回復率：",
 	Tooltip_chanceSuccess = "成功の可能性：",
-	Tooltip_broken = "使用不可",
-	Tooltip_never = "使用可能",
+	Tooltip_broken = "壊れた",
+	Tooltip_never = "0x",
 	Tooltip_item_Spices = "調味料：",
 	Tooltip_IronSight = "視野が最大になります。",
 	Tooltip_Scope = "射程が最大まで延びますが視野が狭くなります。",
@@ -206,7 +206,7 @@
 	Tooltip_craft_doubleWoodenDoorDesc = "車両を通過させるのに十分な大きさのゲートです。",
 	Tooltip_Vehicle_EngineCondition = "エンジン状態：%1",
 	Tooltip_craft_pressToRotate = "%1キーを押して回転させます。",
-	Tooltip_removeBurntVehicle = "車両の残骸を溶接マスクと溶接プロパントーチで解体すると、車両が道路から取り除かれて屑鉄になります。 <LINE> 溶接加工の技能が高いほど、より多くの使用可能な鉄屑が出ます。",
+	Tooltip_removeBurntVehicle = "車両の残骸を溶接マスクと溶接プロパントーチで解体すると、車両が道路から取り除かれて屑鉄になります。 <br> 溶接加工の技能が高いほど、より多くの使用可能な鉄屑が出ます。",
 	Tooltip_CarBatteryCharger = "地面に置いて、コンテキストメニューを使用してバッテリーに接続します。<br>動作させるには電源のある場所が必要です。",
 	Tooltip_lightFireNoStick = "木の棒や枝に火を付ける必要があります。",
 	Tooltip_item_Insulation = "断熱効果",
@@ -227,5 +227,5 @@
 	Tooltip_NoHair = "髪毛が生えていません。髪毛が伸びるまで待ってください。",
 	Tooltip_CombatSpeed = "戦闘速度",
 	Tooltip_EquipFirst = "着用する必要があります。",
-
+	Tooltip_OpenCloseCurtains = "キーボード: SHIFT-%1 を押します。<br>マウス: SHIFT-左クリックをします。",
 }

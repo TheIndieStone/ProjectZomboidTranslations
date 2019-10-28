@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.14
-	-- Date 10-22-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -376,7 +376,7 @@
 	ContextMenu_CarBatteryCharger_Place = "車両バッテリー充電器を置く",
 	ContextMenu_CarBatteryCharger_Take = "車両バッテリー充電器を取る",
 	ContextMenu_PlumbItem = "%1の配管をする",
-	ContextMenu_RipClothing = "被服を裂く",
+	ContextMenu_RipClothing = "布切れを作る",
 	ContextMenu_CraftSheetRope = "シートロープを作る",
 	ContextMenu_UpHoodie = "帽子を被る",
 	ContextMenu_DownHoodie = "帽子を脱ぐ",

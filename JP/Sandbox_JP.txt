@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.14
-	-- Date 10-22-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -612,7 +612,7 @@
 	Sandbox_ThumpOnConstruction_tooltip = "プレイヤーが作成した建築物やバリケードをゾンビが破壊するかどうか設定します。",
 
 	Sandbox_ActiveOnly = "昼間 / 夜間の活動",
-	Sandbox_ActiveOnly_tooltip = "ゾンビが昼間に活発に行動するか、あるいは夜間に活発に行動するかどうかを制御します。 \n非アクティブな状況ではゾンビは不活動となり、プレイヤーを追いかけをしない傾向になります。",
+	Sandbox_ActiveOnly_tooltip = "ゾンビが昼間に活発に行動するか、あるいは夜間に活発に行動するかどうかを制御します。\n非アクティブな状況ではゾンビは不活動となり、プレイヤーを追いかけをしない傾向になります。",
 	Sandbox_ActiveOnly_option1 = "昼夜関係無く行動",
 	Sandbox_ActiveOnly_option2 = "夜間に行動",
 	Sandbox_ActiveOnly_option3 = "昼間に行動",
@@ -620,8 +620,8 @@
 	Sandbox_TriggerHouseAlarm = "住宅防犯アラームの設定",
 	Sandbox_TriggerHouseAlarm_tooltip = "ゾンビが窓やドアを突破した際に住宅防犯アラームが動作するか設定します。",
 
-	Sandbox_ZombiesDragDown = "引き寄せ",
-	Sandbox_ZombiesDragDown_tooltip = "有効にすると、複数のゾンビが攻撃している場合、あなたを引き寄せます。 \nゾンビの強さに依存します。",
+	Sandbox_ZombiesDragDown = "引き下ろす",
+	Sandbox_ZombiesDragDown_tooltip = "複数ゾンビから攻撃を受けた場合、ゾンビの強さにより引きずられて捕食される可能性があります。",
 
 	--
 
@@ -657,7 +657,7 @@
 	Sandbox_FollowSoundDistance_help = "ゾンビが最後に音の聞こえた地点に歩いて行こうとする距離。",
 
 	Sandbox_RallyGroupSize = "ゾンビ集団の大きさ",
-	Sandbox_RallyGroupSize_help = "通常時にゾンビが形成する集団の大きさ。0であればゾンビは集団を形成しません。 \nまた、建物の中や森林地域ではゾンビの集団は形成されません。",
+	Sandbox_RallyGroupSize_help = "通常時にゾンビが形成する集団の大きさ。0であればゾンビは集団を形成しません。\nまた、建物の中や森林地域ではゾンビの集団は形成されません。",
 
 	Sandbox_RallyTravelDistance = "ゾンビ集団形成の距離",
 	Sandbox_RallyTravelDistance_help = "通常時にゾンビが集団を形成しようと移動する距離。",

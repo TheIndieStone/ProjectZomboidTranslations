@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.14
-	-- Date 10-22-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,11 +25,11 @@
 	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.16 <2019年10月24日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.16 <2019年10月24日版>   ",
 
-	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト用ファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>  ",
-	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト用ファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.14 <2019年10月22日版>  ",
+	--UI_mainscreen_version_steam = "※注意 この公式日本語翻訳はIWBUMS版のテスト用ファイルです。正式リリース版には導入しないで下さい！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.16 <2019年10月24日版>  ",
+	--UI_mainscreen_version = "※注意 この公式日本語翻訳はIWBUMS版のテスト用ファイルです。正式リリース版には導入しないで下さい！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.16 <2019年10月24日版>  ",
 
 
 	UI_Details = "更新情報",
@@ -1254,18 +1254,19 @@
 	UI_ClothingType_Neck = "ネック",
 	UI_ClothingType_FullSuit = "カバーオール",
 	UI_optionscreen_DblTapRunToSprint = "ダブルタップで疾走",
-	UI_optionscreen_DblTapRunToSprintTooltip = "チェックを入れると、ジョグボタンをダブルタップすると疾走が開始されます。<br>シフトを押し続けると疾走を続けます。",
+	UI_optionscreen_DblTapRunToSprintTooltip = "キーボードをダブルタップすると疾走が開始されます。<br>SHIFTキーを押し続けると走り続けます。",
 	UI_Loading_InitPublicServers = "パブリックサーバーの初期化。",
 	UI_Loading_OnGameBoot = "ゲームの起動。",
 	UI_optionscreen_accessibility = "アクセシビリティの設定",
 	UI_NewGame_PlayStyle = "プレイスタイル",
 	UI_NewGame_Survivor = "生存者",
-	UI_NewGame_Survivor_desc = "しばしば、現実的で致命的な戦闘を避けるプレイヤー設定。",
+	UI_NewGame_Survivor_desc = "しばしば、現実的で致命的な戦闘を避けるプレイヤー向けの設定",
 	UI_NewGame_Fighter = "暴れ者",
-	UI_NewGame_Fighter_desc = "以前のビルドに馴染みのあるプレイヤー設定",
+	UI_NewGame_Fighter_desc = "以前のビルドに馴染みのあるプレイヤー向けの設定",
 	UI_NewGame_Builder = "建設者",
-	UI_NewGame_Builder_desc = "建築、略奪、農業に重点をおいたプレイヤー。",
-	UI_NewGame_Sandbox_desc2 = "独自の難易度とプレイスタイルの調整が設定できます。",
+	UI_NewGame_Builder_desc = "建築、略奪、農業に重点をおいたプレイヤー向けの設定",
+	UI_NewGame_Sandbox_desc2 = "独自の難易度とプレイスタイルの設定",
 	UI_News_Anim = "<H1> ビルド 41 パブリックベータへようこそ！ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <CENTRE> <SIZE:large> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。<LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。",
+	UI_optionscreen_iso_cursor = " ISO カーソルの可視性",
 
 }

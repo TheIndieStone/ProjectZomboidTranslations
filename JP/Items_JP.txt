@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.14
-	-- Date 10-22-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -1042,10 +1042,10 @@
 	DisplayName_Police_Deputy_T_Shirt = "Ｔシャツ(警察官用)",
 	DisplayName_Police_Motorcycle_Helmet = "ヘルメット(警察官用)",
 	DisplayName_Police_Shirt = "シャツ(警察官用)",
-	DisplayName_Police_Trooper_Hat = "ハット(州警察官用)",
-	DisplayName_Police_Trooper_Pants = "ズボン(州警察官用)",
-	DisplayName_Police_Trooper_Shirt = "シャツ(州警察官用)",
-	DisplayName_Police_Trooper_T_Shirt = "Ｔシャツ(州警察官用)",
+	DisplayName_Police_Trooper_Hat = "ハット(警察官用)",
+	DisplayName_Police_Trooper_Pants = "ズボン(警察官用)",
+	DisplayName_Police_Trooper_Shirt = "シャツ(警察官用)",
+	DisplayName_Police_Trooper_T_Shirt = "Ｔシャツ(警察官用)",
 	DisplayName_Polo_Neck_Sweater = "ポロネックセーター",
 	DisplayName_Poncho = "ポンチョ",
 	DisplayName_Priest_Shirt = "プリーストシャツ",
