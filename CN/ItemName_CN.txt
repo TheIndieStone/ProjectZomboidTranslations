@@ -1,0 +1,7 @@
+/* 所有项目名称都应该放在这里而不是放在 Items_XX.txt。
+ * 显示名_<英文名> 会因英文的显示名被改变而失效。
+ * 此文件应由新物品编辑器生成。
+ */
+ItemName_CN = {
+	ItemName_Base.Apron_IceCream = "冰淇淋服务员围裙",
+}
