@@ -216,4 +216,7 @@ Tooltip_PL = {
 	Tooltip_EquipFirst = "Musi byæ wyposa¿one.",
 	
 	Tooltip_OpenCloseCurtains = "Klawiatura: Wciœnij SHIFT-%1<br>Myszka: SHIFT-LPM.",
+	
+	Tooltip_CanBeAttached = "Mo¿na zamontowaæ na: ",
+	Tooltip_item_FireMode = "Tryb ognia",
 }

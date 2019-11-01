@@ -937,4 +937,13 @@
 	IGUI_Beard_LongScruffy = "Bujna broda",
 	IGUI_XP_Protection = "Ochrona",
 	IGUI_FilterAll = "Filtruj wszystko",
+	
+	IGUI_anim_Idle = "Stoi",
+	IGUI_anim_Walk = "Idzie",
+	IGUI_anim_Run = "Biegnie",
+	IGUI_HotbarAttachment_HolsterLeft = "Lewa kabura",
+	IGUI_HotbarAttachment_HolsterRight = "Prawa kabura",
+	IGUI_HotbarAttachment_SmallBeltLeft = "Prawy pasek",
+	IGUI_HotbarAttachment_SmallBeltRight = "Lewy pasek",
+	IGUI_HotbarAttachment_Back = "Plecy",
 }
