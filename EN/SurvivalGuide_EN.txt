@@ -62,7 +62,7 @@ SurvivalGuide_EN = {
             " <H1> MECHANIC WINDOW <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> An unskilled survivor can check if your battery is still ok, see fuel levels and notice whether certain parts of the car appear damaged. A survivor with Mechanic skills will be able to see extra details, and install and uninstall parts. <BR> For more information on this and the Mechanic skill, click the info icon in the top left corner of the Mechanic window.",
 
     SurvivalGuide_entrie10title = "SURVIVAL GUIDE #10 - WEATHER",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> NEW - WEATHER <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Fog, storms and snow make the undead threat even more challenging! Wrap up warm when Winter starts drawing in...",
+    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> WEATHER <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Fog, storms and snow make the undead threat even more challenging! Wrap up warm when Winter starts drawing in...",
     SurvivalGuide_entrie10moreinfo = "<H1> CLIMATE CHANGE <BR> <TEXT> Weather patterns in Project Zomboid are realistic. A simulated climate system uses the time of year, and virtual weather fronts, to create the rain, snow, fog and thunderstorms at the relevant times of year. <LINE> " ..
                                       " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> The impact of cold, and warm, temperatures have an impact on your survival. <LINE> " ..
                                       " When winter draws in your resistance to the cold be highest if you're well fed, not tired and wearing proper winter clothing. It will also help to keep active and be physically fit. Wetness and sickness will both increase the likelihood of you suffering from the cold. <LINE> <BR> " ..
@@ -73,5 +73,13 @@ SurvivalGuide_EN = {
                                       " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Wind chill affects your body, but won’t show a direct difference in temperature on your digital watch. Keep an eye on your moodles to see when it's impacting on you. <LINE> <BR> " ..
                                       " Wrap up warm survivor!",
 
+    SurvivalGuide_entrie11title = "SURVIVAL GUIDE #11 - DUCK AND COVER",
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> NEW - DUCK AND COVER <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - Sneak <LINE> %2 - Sprint <LINE> %3 - Jog"
+    SurvivalGuide_entrie11moreinfo = "<H1> CROUCH <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> Survivors can now crouch behind walls and fences to reduce their visibility! <LINE> You can also Jog while in this state. <LINE> <BR> " ..
+                                        "<H1> SPRINT <BR> <TEXT> If Jogging isn't fast enough - then there's Sprinting too! <LINE> Press %1 to Sprint - although be careful as panicked collisions could make you fall. <LINE> <BR> " ..
+                                        "<H1> AUTO-CLIMB <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> To climb over fences, simply Jog or Sprint towards them. <LINE> <BR> " ..
+                                        "<H1> STOMP THE HEAD <BR> <TEXT> When a zombie has been downed: aim for the head! Hitting its lower body is less likely to have the desired effect. <LINE> <BR> " ..
+                                        "<H1> SPEARS <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> Spears require good timing and a well-managed distance. Also, why not try Sprinting with a spear to charge down a lone zombie? <LINE> <BR> " ..
+                                        "<H1> CLOTHING PROTECTION <BR> <TEXT> Wearing the right clothing could protect you from bites, scratches and lacerations. Press %2 to open the Clothing Protection Panel and see an overview of your survivor's current protection levels. <LINE> <BR> ",
 
 }

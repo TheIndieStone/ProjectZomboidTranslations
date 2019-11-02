@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -105,8 +105,8 @@
 	-- Perks
 
 	IGUI_perks_Combat = "戦闘技能",
-	IGUI_perks_Blunt = "鈍器技能",
-	IGUI_perks_Blade = "刃物技能",
+	IGUI_perks_Blunt = "鈍器(大型)",
+	IGUI_perks_Blade = "刃物",
 	IGUI_perks_Aiming = "精確な照準",
 	IGUI_perks_Reloading = "装填速度",
 	IGUI_perks_Crafting = "製作技能",
@@ -142,7 +142,7 @@
 	IGUI_ItemCat_Drainable = "消耗品",
 	IGUI_ItemCat_Weapon = "武器",
 	IGUI_ItemCat_WeaponPart = "武器パーツ",
-	IGUI_ItemCat_Clothing = "衣類",
+	IGUI_ItemCat_Clothing = "被服",
 	IGUI_ItemCat_Container = "入物",
 	IGUI_ItemCat_Literature = "書籍",
 	IGUI_ItemCat_Ammo = "実包",
@@ -931,5 +931,49 @@
 	IGUI_AdminPanel_MoveableCheat = "移動チートモード",
 	IGUI_ItemNameTaintedWater = "%1 (汚染された)",
 	IGUI_Safehouse_AlreadyHaveSafehouse = "あなたは既にセーフハウスのメンバーまたは所有者です。",
+	IGUI_health_Pain = "痛み",
+	IGUI_health_HeavyPain = "強い痛み",
+	IGUI_perks_SmallBlunt = "鈍器(小型)",
+	IGUI_perks_LongBlade = "刃物(長)",
+	IGUI_perks_SmallBlade = "刃物(短)",
+	IGUI_perks_Axe = "斧",
+	IGUI_perks_Spear = "槍",
+	IGUI_ToggleToSprint = "%1 キーを疾走に切り替える",
+	IGUI_RequiresWaterSupply = "水が必要です。",
+	IGUI_health_Cut = "裂傷",
+	IGUI_char_HairStyle = "髪型 ",
+	IGUI_char_BeardStyle = "髭型 ",
+	IGUI_Hair_Bald = "スキンヘッド",
+	IGUI_Hair_Picard = "ピカード",
+	IGUI_Hair_CrewCut = "クールカット",
+	IGUI_Hair_Baldspot = "ハゲ",
+	IGUI_Hair_Recede = "オールバック",
+	IGUI_Hair_Hat = "ハット",
+	IGUI_Hair_Messy = "メッシ―",
+	IGUI_Hair_Short = "ショート",
+	IGUI_Hair_Donny = "ドニー",
+	IGUI_Hair_Mullet = "ボラ",
+	IGUI_Hair_Metal = "ストレートロング",
+	IGUI_Hair_Fabian = "ファビアン",
+	IGUI_Hair_PonyTail = "ポニーテール",
+	IGUI_Hair_Demi = "クールカット",
+	IGUI_Hair_Spike = "スパイク",
+	IGUI_Hair_OverEye = "オーバーアイ",
+	IGUI_Hair_Bob = "ボブ",
+	IGUI_Hair_Bun = "バン",
+	IGUI_Hair_Back = "プルバック",
+	IGUI_Hair_Long = "ロング",
+	IGUI_Hair_Kate = "ボラ",
+	IGUI_Hair_Long2 = "ロング",
+	IGUI_Beard_None = "無し",
+	IGUI_Beard_Chops = "ほほ髭",
+	IGUI_Beard_Moustache = "口髭",
+	IGUI_Beard_Goatee = "ラウンド髭",
+	IGUI_Beard_BeardOnly = "顎髭",
+	IGUI_Beard_Full = "完全な髭",
+	IGUI_Beard_Long = "長髭",
+	IGUI_Beard_LongScruffy = "無精髭",
+	IGUI_XP_Protection = "被服保護",
+	IGUI_FilterAll = "全てをフィルター",
 
 }

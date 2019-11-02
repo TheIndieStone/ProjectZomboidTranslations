@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -49,5 +49,10 @@
 	Challenge_OpeningHoursInfoBox = " <CENTRE> 午前9時に自動ドアが開く！ <LINE> <LINE> ゾンビの襲撃に備えろ...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> あと3日で終りのない冬が来る。",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> あと24時間でこの世の地獄が始まる...",
+
+	Challenge_Kingsmouth_name = "(New) キングスマス",
+	Challenge_Kingsmouth_desc = "デバック スタッフ！",
+	Challenge_Studio_name = "(New) スタジオ",
+	Challenge_Studio_desc = "デバック スタッフ！",
 
 }

@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -28,9 +28,9 @@
 	Tooltip_item_Temperature = "体温",
 	Tooltip_item_Fatigue = "疲労",
 	Tooltip_weapon_Condition = "消耗度",
-	Tooltip_weapon_Repaired = "状態",
+	Tooltip_weapon_Repaired = "修理回数",
 	Tooltip_weapon_Damage = "威力",
-	Tooltip_weapon_Ammo = "実包",
+	Tooltip_weapon_Ammo = "使用弾薬",
 	Tooltip_weapon_Unusable_at_max_exertion = "全力を出している時には使えません。",
 	Tooltip_container_Capacity = "最大容量",
 	Tooltip_container_Weight_Reduction = "重量減少",
@@ -81,8 +81,8 @@
 	Tooltip_Vitamins = "飲むと疲労感を減らします。",
 	Tooltip_potentialRepair = "修理の回復率：",
 	Tooltip_chanceSuccess = "成功の可能性：",
-	Tooltip_broken = "壊れてる",
-	Tooltip_never = "使える",
+	Tooltip_broken = "壊れた",
+	Tooltip_never = "0x",
 	Tooltip_item_Spices = "調味料：",
 	Tooltip_IronSight = "視野が最大になります。",
 	Tooltip_Scope = "射程が最大まで延びますが視野が狭くなります。",
@@ -161,7 +161,7 @@
 	Tooltip_SheetRope = "簡易の脱出ロープとして使うことができます。1枚のシートで1階分になります。<br>設置には金槌と釘が必要になります。上り降りには「E」キーを押します。",
 	Tooltip_Fertilizer = "作物の成長速度と収穫量を増やすのに効果があります。",
 	Tooltip_item_RainFromGround = "屋外に置くと雨水を集めることができます。",
-	Tooltip_item_Radio = "ラジオを操作するにはメイン装備もしくはサブ装備にする必要があります。",
+	Tooltip_item_Radio = "操作するにはメイン装備もしくはサブ装備にする必要があります。",
 	Tooltip_Map_CantWrite = "ボールペンや鉛筆が必要です。",
 	Tooltip_Map_CantErase = "消しゴムが必要です。",
 	Tooltip_Map_NeedBlackPen = "ボールペン(黒色)が必要です。",
@@ -206,11 +206,26 @@
 	Tooltip_craft_doubleWoodenDoorDesc = "車両を通過させるのに十分な大きさのゲートです。",
 	Tooltip_Vehicle_EngineCondition = "エンジン状態：%1",
 	Tooltip_craft_pressToRotate = "%1キーを押して回転させます。",
-	Tooltip_removeBurntVehicle = "車両の残骸を溶接マスクと溶接プロパントーチで解体すると、車両が道路から取り除かれて屑鉄になります。 <LINE> 溶接加工の技能が高いほど、より多くの使用可能な鉄屑が出ます。",
+	Tooltip_removeBurntVehicle = "車両の残骸を溶接マスクと溶接プロパントーチで解体すると、車両が道路から取り除かれて屑鉄になります。 <br> 溶接加工の技能が高いほど、より多くの使用可能な鉄屑が出ます。",
 	Tooltip_CarBatteryCharger = "地面に置いて、コンテキストメニューを使用してバッテリーに接続します。<br>動作させるには電源のある場所が必要です。",
 	Tooltip_lightFireNoStick = "木の棒や枝に火を付ける必要があります。",
 	Tooltip_item_Insulation = "断熱効果",
 	Tooltip_NeedWrench = "これを行うには %1 が必要です。",
 	Tooltip_BagOnSeat = "%2の中にある%1",
-
+	Tooltip_clothing_wet = "湿っている",
+	Tooltip_clothing_soaked = "ずぶ濡れ",
+	Tooltip_weapon_Jammed = "装填不良です。",
+	Tooltip_weapon_ContainsClip = "弾倉が入っています。",
+	Tooltip_weapon_NoClip = "使用するには弾倉が必要です。",
+	Tooltip_BiteDefense = "咬傷防御",
+	Tooltip_ScratchDefense = "擦傷防御",
+	Tooltip_requireRazorOrScissors = "剃るには剃刀またはハサミが必要です。",
+	Tooltip_RequireScissors = "散髪にはハサミが必要です。",
+	Tooltip_RunSpeedModifier = "動きやすさ",
+	Tooltip_CombatSpeedModifier = "戦闘時の動きやすさ",
+	Tooltip_NoBeard = "髭毛が生えていません。髭毛が伸びるまで待ってください。",
+	Tooltip_NoHair = "髪毛が生えていません。髪毛が伸びるまで待ってください。",
+	Tooltip_CombatSpeed = "戦闘速度",
+	Tooltip_EquipFirst = "着用する必要があります。",
+	Tooltip_OpenCloseCurtains = "キーボード: SHIFT-%1 を押します。<br>マウス: SHIFT-左クリックをします。",
 }

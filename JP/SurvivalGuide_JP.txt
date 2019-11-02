@@ -2,11 +2,10 @@ SurvivalGuide_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-40.43
-	-- Date 12-22-2018
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
-
 
 	SurvivalGuide_entrie1title = "サバイバルガイド #1 - 操作方法",
 	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 操作方法 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:small> 少し息を抜いて基礎を学びましょう。 そうしないと長く生き残れません。 ",
@@ -75,12 +74,22 @@ SurvivalGuide_JP = {
 
 	SurvivalGuide_entrie10moreinfo = " <H1> 気候変動 <BR> <TEXT>  プロジェクト ゾンボイドの天候パターンは現実的です。 シミュレートされた気候システムは季節や時間で雨、雪、霧、雷雨を発生させます。 <LINE> " ..
 			" <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 暑い、寒い気温の影響は、あなたの生存に影響します。 <LINE> " ..
-			" 寒さへの耐性を引き出すには、あなたが十分な食料を食べていれば最高です。 疲れていなくて、積極的に身体的に合った適切な衣服を着てください。 また、湿気と病気は、あなたを寒さで更に苦しめる可能性があります。 <LINE> <BR> " ..
+			" 寒さへの耐性を引き出すには、あなたが十分な食料を食べていれば最高です。 疲れていなくて、積極的に身体的に合った適切な被服を着てください。 また、湿気と病気は、あなたを寒さで更に苦しめる可能性があります。 <LINE> <BR> " ..
 			" 極端な寒さの続く間は、熱源や建物内で暖まるのが最善です。 キャンプファイヤー、車両ヒーター、ストーブなどで暖まります。 <LINE> "..
-			" 暑い時期に生き残るには、十分な水分を摂り、軽い衣服を着ることをお勧めします。 <LINE> <BR>" ..
+			" 暑い時期に生き残るには、十分な水分を摂り、軽い被服を着ることをお勧めします。 <LINE> <BR>" ..
 			" <H1> 気温を知ること <BR> <TEXT> 周囲の気温を知るには、デジタル時計を使用してUIに温度を表示することができます。 <LINE> <BR> " ..
 			" <H1> 風の寒さ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 冬の間は、特に屋外の風が寒さの要因となります。 大雨でも似たようなことが起こります。 冬の吹雪は、強風と低い気温のために体温をひどく下げる可能性があります。 <LINE> <BR> " ..
 			" <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 風の寒さはあなたの体に影響しますが、デジタル時計の温度と違いはありません。 あなたに影響を与えているかどうかを知るには、右上のアイコンを見てください。 <LINE> <BR> " ..
-		" 生存者よ暖かい服を着て!",
+			" 生存者よ暖かい服を着て!",
+
+	SurvivalGuide_entrie11title = "サバイバルガイド #11 - 頭を低くする",
+	SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 保護と頭を低くする <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:small> %1 - 忍び足 <LINE> %2 - 疾走 <LINE> %3 - 走る",
+
+	SurvivalGuide_entrie11moreinfo = "<H1> しゃがむ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 生存者は壁やフェンスにしゃがみ込んでゾンビの視界から隠れることができます！ <LINE> この状態で移動することもできます。 <LINE> <BR> " ..
+			" <H1> 疾走 <BR> <TEXT> 走りが十分に速くない場合-疾走することもできます！ <LINE> %1を押して疾走-パニック状態の時に衝突すると転倒する可能性があるので注意 <LINE> してください。 <LINE> <BR> " ..
+			" <H1> 自動で登る <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> フェンスや柵を乗り越えるには、走るまたは疾走でフェンスや柵に向かってください。 <LINE> <BR> " ..
+			" <H1> 頭を踏みつける <BR> <TEXT> ゾンビが倒れた時：頭を狙え！ 身体を踏みつけると、望ましい効果が得られにくくなります。 <LINE> <BR> " ..
+			" <H1> 槍 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 槍には、適切なタイミングと適切な距離が必要です。 <LINE> また、槍で疾走して、1匹のゾンビを倒してみませんか？ <LINE> <BR> " ..
+			" <H1> 被服で保護する <BR> <TEXT> 適切な被服を着用すると、噛傷、傷、裂傷から身を守ることができます。 <LINE> %2キーを押して、被服保護パネルを開き、現在の被服保護レベルの概要を確認します。 <LINE> <BR> ",
 
 }
