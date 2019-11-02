@@ -81,6 +81,9 @@ IGUI_EN = {
 	IGUI_health_LodgedGlassShards = "Lodged Glass Shards",
 	IGUI_health_Pain = "Pain",
 	IGUI_health_HeavyPain = "Heavy Pain",
+	IGUI_health_Part = "Part",
+	IGUI_health_Bite = "Bite",
+	IGUI_health_Scratch = "Scratch",
 	-- Skills
 	IGUI_skills_Multiplier = "Multiplier: %1",
 	IGUI_XP_xp = " xp",
@@ -104,6 +107,7 @@ IGUI_EN = {
 	IGUI_perks_Reloading = "Reloading",
 	IGUI_perks_Crafting = "Crafting",
 	IGUI_perks_Carpentry = "Carpentry",
+	IGUI_perks_Woodwork = "Carpentry",
 	IGUI_perks_Cooking = "Cooking",
 	IGUI_perks_Farming = "Farming",
 	IGUI_perks_Agility = "Agility",
@@ -955,5 +959,15 @@ IGUI_EN = {
     IGUI_Beard_LongScruffy = "Scruffy",
     IGUI_XP_Protection = "Protection",
     IGUI_FilterAll = "Filter All",
+    IGUI_anim_Idle = "Idle",
+    IGUI_anim_Walk = "Walk",
+    IGUI_anim_Run = "Run"
+    IGUI_HotbarAttachment_HolsterLeft = "Holster Left",
+    IGUI_HotbarAttachment_HolsterRight = "Holster Right",
+    IGUI_HotbarAttachment_SmallBeltLeft = "Belt Left",
+    IGUI_HotbarAttachment_SmallBeltRight = "Belt Right",
+    IGUI_HotbarAttachment_Back = "Back",
+    IGUI_Washing_NeedSoap = "Need Soap",
+
 }
 

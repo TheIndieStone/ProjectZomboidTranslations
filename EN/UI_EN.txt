@@ -431,6 +431,7 @@ UI_EN = {
     UI_optionscreen_Small = "Small",
     UI_optionscreen_ConfirmPrompt = "Options were changed.  Apply the changes?",
     UI_optionscreen_blood_decals = "Blood Decals",
+    UI_optionscreen_iso_cursor = "Iso Cursor Visibility",
     UI_BloodDecals0 = "None",
     UI_BloodDecals1 = "10%",
     UI_BloodDecals2 = "20%",
@@ -1144,6 +1145,7 @@ UI_EN = {
     UI_command_arg_parse_failed = "Can't parse arguments of command '%1'",
     UI_has_no_right_to_execute_command = "Player '%1' has not right to execute '%2' command",
     UI_worldscreen_SavefileVehicle = "Due to the extent of changes required to implement vehicles, saves from earlier versions are non-compatible. <LINE> <LINE> To continue this game: access the pre-vehicles Build 38.30 via the Steam betas tab. <LINE> <LINE> SavedGameWorldVersion: %1 CurrentWorldVersion: %2",
+    UI_worldscreen_SavefileAnimation = "Due to the extent of changes required to implement animations, saves from earlier versions are not compatible. <LINE> <LINE> Savefile World Version: %1 <LINE> Current World Version: %2",
     UI_worldscreen_SaveCannotBeLoaded = "Save cannot be loaded. <LINE> ",
     UI_NewGame_SurvivalMore = " - The Recommended Zomboid Experience",
     UI_NewGame_OneWeekLater = "One Week Later",
@@ -1203,5 +1205,25 @@ UI_EN = {
 	UI_optionscreen_DblTapRunToSprintTooltip = "If ticked, double tapping the jog button will start sprint \n Keep shift pressed to keep sprinting.",
 	UI_Loading_InitPublicServers = "Initialize Public Servers.",
 	UI_Loading_OnGameBoot = "Game Booting.",
-	UI_optionscreen_accessibility = "ACCESSIBILITY"
+	UI_optionscreen_accessibility = "ACCESSIBILITY",
+	UI_NewGame_PlayStyle = "Playstyle",
+	UI_NewGame_Survivor = "Apocalypse",
+	UI_NewGame_Survivor_desc = "Stealth focus. Short lifespan. Combat best avoided.",
+	UI_NewGame_Fighter = "Survivor",
+	UI_NewGame_Fighter_desc = "Powerful combat. Longer lifespan. A challenging playstyle based on PZ's previous Survival mode.",
+    UI_NewGame_Builder = "Builder",
+    UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
+    UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style",
+    UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
+                    "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
+                    "<CENTRE> Some features have been temporarily disabled. <LINE><LINE> " ..
+                    "<CENTRE> If you have issues: don't get mad, get involved. Let us know on our forums.",
+    UI_optionscreen_binding_Hotbar 1 = "Hotbar 1",
+    UI_optionscreen_binding_Hotbar 2 = "Hotbar 2",
+    UI_optionscreen_binding_Hotbar 3 = "Hotbar 3",
+    UI_optionscreen_binding_Hotbar 4 = "Hotbar 4",
+    UI_optionscreen_binding_Hotbar 5 = "Hotbar 5",
+    UI_multiplayer_Disabled = "Multiplayer is currently disabled.",
+    UI_optionscreen_Uncapped = "Uncapped",
 }

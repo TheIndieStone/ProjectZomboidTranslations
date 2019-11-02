@@ -2,6 +2,7 @@ Sandbox_EN = {
     Sandbox_SavedPresets = "Saved Presets:",
     Sandbox_SaveButton = "SAVE",
     Sandbox_SavePrompt = "Save this sandbox preset",
+    Sandbox_PresetName_Error = "Cannot use characters: /  \\  :  ;  \  .",
     --
     Sandbox_PopulationOptions = "Population",
     Sandbox_ZombieCount = "ZOMBIE COUNT:",
@@ -539,14 +540,14 @@ Sandbox_EN = {
     Sandbox_EnableSnowOnGround = "ENABLE SNOW ON GROUND:",
     Sandbox_EnableSnowOnGround_tooltip = "If disabled snow will not accumulate on ground but will still be visible on vegetation and rooftops.",
     Sandbox_MultiHitZombies = "WEAPON MULTI HIT:",
-    Sandbox_MultiHitZombies_tooltip = "If true, your melee weapons will be able to strike more than one zombies in one hit (depend on the weapon)."
+    Sandbox_MultiHitZombies_tooltip = "When enabled certain melee weapons will be able to strike multiple zombies in one hit."
     Sandbox_RearVulnerability = "REAR VULNERABILITY:",
-    Sandbox_RearVulnerability_tooltip = "Chance of having a bite if a zombie attacks you from behind",
+    Sandbox_RearVulnerability_tooltip = "Chance of being bitten when a zombie attacks from behind",
     Sandbox_RearVulnerability_option1 = "Low",
     Sandbox_RearVulnerability_option2 = "Medium",
     Sandbox_RearVulnerability_option3 = "High",
     Sandbox_ZombiesDragDown = "DRAG DOWN:",
-    Sandbox_ZombiesDragDown_tooltip = "If enabled, depending on zombie's strength if enough zombies are attacking you they'll drag you down to eat you.",
-    Sandbox_AttackBlockMovements = "ATTACKS BLOCK MOVEMENTS:",
-    Sandbox_AttackBlockMovements_tooltip = "Disable this to be able to walk fully while melee attacking, otherwise after an attack you'll be stopped to avoid infinite kitting.",
+    Sandbox_ZombiesDragDown_tooltip = "When enabled if multiple zombies are attacking they can drag you down to feed. Dependent on zombie strength.",
+    Sandbox_AttackBlockMovements = "MELEE MOVEMENT DISRUPTION:",
+    Sandbox_AttackBlockMovements_tooltip = "Disable to walk unimpeded while melee attacking.",
 }

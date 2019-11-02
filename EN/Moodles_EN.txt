@@ -71,7 +71,7 @@ Moodles_EN = {
 	Moodles_hascold_lvl3 = "You have a cold",
 	Moodles_hascold_lvl4 = "You have a nasty cold",
 	-- Injured
-	Moodles_injured_lvl1 = "Minor Injuries",
+	Moodles_injured_lvl1 = "Discomfort",
 	Moodles_injured_lvl2 = "Injured",
 	Moodles_injured_lvl3 = "Severe Injuries",
 	Moodles_injured_lvl4 = "Critical Injuries",
@@ -177,7 +177,7 @@ Moodles_EN = {
 	Moodles_hasacold_desc_lvl3 = "Sneezing and coughing. Speed and healing reduced.",
 	Moodles_hasacold_desc_lvl4 = "Speed and healing now severely reduced.",
 	-- Injured
-	Moodles_injured_desc_lvl1 = "First Aid required.",
+	Moodles_injured_desc_lvl1 = "Something doesn't feel right...",
 	Moodles_injured_desc_lvl2 = "Strength and speed reduced.",
 	Moodles_injured_desc_lvl3 = "Strength and speed severely reduced.",
 	Moodles_injured_desc_lvl4 = "Not going gently into that good night...",
