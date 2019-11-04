@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.16
-	-- Date 10-24-2019
+	-- Build-41.18
+	-- Date 11-03-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -932,12 +932,11 @@
 	DisplayName_Green_Camo_Hunting_Vest = "ハンティングベスト(迷彩)",
 	DisplayName_Green_Hair_Dye = "染毛剤(緑色)",
 	DisplayName_Green_Ranger_Tshirt = "Ｔシャツ(自然保護官用)",
-	DisplayName_Green_Santa_Hat = "サンタ帽子",
+	DisplayName_Green_Santa_Hat = "サンタスーツ 帽子",
 	DisplayName_Green_Santa_Suit_Jacket = "サンタスーツ ジャケット",
 	DisplayName_Green_Santa_Suit_Pants = "サンタスーツ ズボン",
 	DisplayName_Green_Veteran_Tshirt = "Ｔシャツ",
 	DisplayName_Grey_Hunting_Vest = "ハンティングベスト(グレー)",
-	DisplayName_Griddle_Pan = "グリドルパン",
 	DisplayName_Hand_Axe = "手斧",
 	DisplayName_Hand_Fork = "鋤",
 	DisplayName_Hand_Scythe = "鎌",
@@ -1157,5 +1156,12 @@
 	DisplayName_Workman_Shirt = "作業シャツ",
 	DisplayName_Z_Hurricanes_Baseball_Helmet = "ヘルメット(野球用)",
 	DisplayName_Z_Hurricanes_Baseball_Shirt = "野球シャツ",
+	DisplayName_.556_Ammo = "5.56mm実包",
+	DisplayName_.556_Magazine = "M16アサルトライフル(弾倉)",
+	DisplayName_Box_of_.556_Bullets = "5.56mm実包(箱入)",
+	DisplayName_Double_Barrel_Shotgun = "水平2連散弾銃",
+	DisplayName_Double_Holster = "ダブルホルスター",
+	DisplayName_Holster = "ホルスター",
+	DisplayName_Griddle_Pan = "グリドルパン(空っぽ)",
 
 }

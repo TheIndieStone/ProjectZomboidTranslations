@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.16
-	-- Date 10-24-2019
+	-- Build-41.18
+	-- Date 11-03-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -185,7 +185,7 @@
 	Recipe_Douse_Cotton_in_Alcohol = "綿球をアルコールに浸す",
 	Recipe_Put_Alcohol_on_Cotton = "綿球をアルコールに浸す",
 	Recipe_Gather_Gunpowder = "火薬を取り出す",
-	Recipe_Insert_Battery_into_Flashlight = "電池を取り出す",
+	Recipe_Insert_Battery_into_Flashlight = "電池を入れる",
 	Recipe_Make_Molotov_Cocktail = "火炎瓶を作る",
 	Recipe_Open_Box_of_.223_Ammo = "箱を開ける",
 	Recipe_Open_Box_of_.308_Ammo = "箱を開ける",
@@ -342,20 +342,28 @@
 	Recipe_Place_.38_Speciam_Bullets_in_Box = "箱に入れる",
 	Recipe_Place_.44_Magnum_Bullets_in_Box = "箱に入れる",
 	Recipe_Place_.45_Auto_Bullets_in_Box = "箱に入れる",
-	Recipe_Add_Bread_Knife_on_Spear = "槍にパン切りナイフを取り付ける",
-	Recipe_Add_Butter_Knife_on_Spear = "槍にバターナイフを取り付ける",
-	Recipe_Add_Fork_on_Spear = "槍にフォークを取り付ける",
-	Recipe_Add_Hand_Fork_on_Spear = "槍に鋤を取り付ける",
-	Recipe_Add_Hunting_Knife_on_Spear = "槍にハンティングナイフを取り付ける",
-	Recipe_Add_Ice_Pick_on_Spear = "槍にアイスピックを取り付ける",
-	Recipe_Add_Letter_Opener_on_Spear = "槍にレターオープナーを取り付ける",
-	Recipe_Add_Machete_on_Spear = "槍に鉈を取り付ける",
-	Recipe_Add_Scalpel_on_Spear = "槍にメスを取り付ける",
-	Recipe_Add_Scissors_on_Spear = "槍にハサミを取り付ける",
-	Recipe_Add_Screwdriver_on_Spear = "槍にスクリュードライバーを取り付ける",
-	Recipe_Add_Spoon_on_Spear = "槍にスプーンを取り付ける",
 	Recipe_Create_Spear = "槍を製作する",
 	Recipe_Make_Stake = "杭を作る",
 	Recipe_Smash_Bottle = "割れたボトルを作る",
+	Recipe_Attach_Bread_Knife_to_Spear = "槍にパン切りナイフを取り付ける",
+	Recipe_Attach_Butter_Knife_to_Spear = "槍にバターナイフを取り付ける",
+	Recipe_Attach_Fork_to_Spear = "槍にフォークを取り付ける",
+	Recipe_Attach_Hand_Fork_to_Spear = "槍に鋤を取り付ける",
+	Recipe_Attach_Hunting_Knife_to_Spear = "槍にハンティングナイフを取り付ける",
+	Recipe_Attach_Ice_Pick_to_Spear = "槍にアイスピックを取り付ける",
+	Recipe_Attach_Letter_Opener_to_Spear = "槍にレターオープナーを取り付ける",
+	Recipe_Attach_Machete_to_Spear = "槍に鉈を取り付ける",
+	Recipe_Attach_Scalpel_to_Spear = "槍にメスを取り付ける",
+	Recipe_Attach_Scissors_to_Spear = "槍にハサミを取り付ける",
+	Recipe_Attach_Screwdriver_to_Spear = "槍にスクリュードライバーを取り付ける",
+	Recipe_Attach_Spoon_to_Spear = "槍にスプーンを取り付ける",
+	Recipe_Open_Box_of_.556_Ammo = "箱を開ける",
+	Recipe_Place_.556_Ammo_in_Box = "箱に入れる",
+	Recipe_Make_Bowl_of_Cereal = "シリアルをボウルに入れる",
+	Recipe_Make_Bowl_of_Oatmeal = "オートミールをボウルに入れる",
+	Recipe_Empty_Whiskey_Bottle = "ウィスキーボトルを空にする",
+	Recipe_Empty_Whisky_Bottle = "ウィスキーボトルを空にする",
+	Recipe_Stir_fry_Griddle_Pan = "ソテー",
+	Recipe_Dismantle_Flashlight = "懐中電灯を解体する",
 
 }
