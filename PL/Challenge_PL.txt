@@ -46,4 +46,7 @@ Challenge_YouHaveOneDay_name = "1. Masz jeden dzieñ",
 
 Challenge_Kingsmouth_name = "9. Kingsmouth",
 Challenge_Kingsmouth_desc = "Trwaj¹ prace nad opisem.",
+
+	Challenge_Studio_name = "(NOWOŒÆ) Studio",
+	Challenge_Studio_desc = "Trwaj¹ prace nad opisem.",
 }
