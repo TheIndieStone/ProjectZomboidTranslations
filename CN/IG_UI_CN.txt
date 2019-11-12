@@ -31,6 +31,7 @@ IGUI_CN = {
 	-- Health panel
 	IGUI_health_Scratched = "刮伤",
 	IGUI_health_Wounded = "受伤",
+	IGUI_health_Cut = "撕裂伤",
 	IGUI_health_Bitten = "咬伤",
 	IGUI_health_Bleeding = "流血",
 	IGUI_health_Bandaged = "已包扎",
