@@ -360,7 +360,7 @@ Items_ES = {
 	DisplayNameRed_Wine = "Vino tinto",
 	DisplayNameRemoulade = "Remoulade",
 	DisplayNameRing = "Anillo",
-	DisplayNameRipped_Sheets = "Trozo de tela",
+	DisplayNameRipped_Sheets = "Retales de tela",
 	DisplayNameRoasting_Pan = "Bandeja de horno",
 	DisplayNameRolled_Dough = "Masa estirada",
 	DisplayNameRolled_Dough= "Masa aplanada",
@@ -1191,4 +1191,8 @@ Items_ES = {
 	DisplayName_.556_Ammo = "Munición .556",
 	DisplayName_.556_Magazine = "Cargador .556",
 	DisplayName_Box_of_.556_Bullets = "Caja de munición .556",
+	DisplayName_Denim_Strips = "Retales de tela vaquera",
+	DisplayName_Dirty_Denim_Strips = "Retales vaqueros sucios",
+	DisplayName_Dirty_Leather_Strips = "Retales de cuero sucios",
+	DisplayName_Leather_Strips = "Retales de cuero",
 }
