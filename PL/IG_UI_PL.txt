@@ -81,9 +81,9 @@ IGUI_PL = {
 	IGUI_health_LodgedGlassShards = "Tkwi¹cy kawa³ek szk³a",
 	IGUI_health_Pain = "Ból",
 	IGUI_health_HeavyPain = "Ciê¿ki ból",
-	-- lost IGUI_health_Part = "Part",
-	-- lost IGUI_health_Bite = "Bite",
-	-- lost IGUI_health_Scratch = "Scratch",
+	IGUI_health_Part = "Czêœæ",
+	IGUI_health_Bite = "Ugryzienie",
+	IGUI_health_Scratch = "Zadrapanie",
 	-- Skills
 	IGUI_skills_Multiplier = "Mno¿nik: %1",
 	IGUI_XP_xp = " PD",
@@ -107,7 +107,6 @@ IGUI_PL = {
 	IGUI_perks_Reloading = "Prze³adowywanie",
 	IGUI_perks_Crafting = "Rzemios³o",
 	IGUI_perks_Carpentry = "Stolarstwo",
-	-- lost IGUI_perks_Woodwork = "Carpentry",
 	IGUI_perks_Cooking = "Gotowanie",
 	IGUI_perks_Farming = "Uprawa roœlin",
 	IGUI_perks_Agility = "Zrêcznoœæ",
@@ -967,6 +966,8 @@ IGUI_PL = {
     IGUI_HotbarAttachment_SmallBeltLeft = "Prawy pasek",
     IGUI_HotbarAttachment_SmallBeltRight = "Lewy pasek",
     IGUI_HotbarAttachment_Back = "Plecy",
-    IGUI_Washing_NeedSoap = "Potrzeba myd³a",
+    IGUI_Washing_NeedSoap = "Wymaga myd³a",
+	IGUI_perks_Woodwork = "Stolarstwo",
 
+	
 }

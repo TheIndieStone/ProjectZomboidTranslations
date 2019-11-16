@@ -1226,4 +1226,7 @@ UI_PL = {
     UI_optionscreen_binding_Hotbar 5 = "Pasek 5",
     UI_multiplayer_Disabled = "Tryb dla wielu graczy jest aktualnie wy³¹czony.",
     UI_optionscreen_Uncapped = "Bez limitu",
+	
+	UI_optionscreen_binding_VehicleHeater = "Ogrzewanie samochodu",
+	UI_prof_MetalWorker = "Spawacz",
 }
