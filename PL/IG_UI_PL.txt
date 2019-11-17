@@ -166,7 +166,7 @@ IGUI_PL = {
     IGUI_Fish_PanFish = "Leszcz",
     IGUI_Fish_Perch = "Okoñ",
     -- Controller
-    IGUI_Controller_TakeOverPlayer = "Przejmij kontrolê nad graczem nr 1",
+    IGUI_Controller_TakeOverPlayer = "Kontroluj gracza nr 1",
     IGUI_Controller_AddNewPlayer = "Dodaj nowego gracza",
     IGUI_Controller_AddSavedPlayer = "Dodaj %1 %2",
     IGUI_Controller_Interact = "Interakcja",
