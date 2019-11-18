@@ -398,4 +398,6 @@ ContextMenu_ES = {
     ContextMenu_PickupBrokenGlass = "Recoger los cristales rotos",
     ContextMenu_SitGround = "Sentarse en el suelo",
     ContextMenu_NeedSoap = "Necesitas jabón",
+    ContextMenu_Patch = "Sastrería",
+    ContextMenu_CantRepair = "Se requiere tela, aguja e hilo para la reparación de la ropa.",
 }

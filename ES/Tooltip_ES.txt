@@ -215,4 +215,7 @@ Tooltip_ES = {
     Tooltip_OpenCloseCurtains = "Teclado: Pulsa SHIFT-%1<br>Ratón: SHIFT-clic-izquierdo.",
     Tooltip_item_FireMode = "Modo de disparo",
     Tooltip_CanBeAttached = "Se puede acoplar a: ",
+    Tooltip_item_Waterresist = "Impermeabilidad",
+    Tooltip_GetPatchBack = "%1 %  de probabilidad de recuperar el remiendo",
+    Tooltip_item_Windresist = "Resistencia al viento",
 }
