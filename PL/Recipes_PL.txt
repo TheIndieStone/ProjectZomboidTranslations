@@ -313,5 +313,7 @@ Recipe_Make_Metal_Walls = "Zrób metalowe œciany",
 	Recipe_Make_Bowl_of_Oatmeal = "Na³ó¿ p³atki owsiane do miski",
 	Recipe_Open_Box_of_.556_Ammo = "Otwórz pude³ko nabojów 5,56 mm",
 	Recipe_Place_.556_Ammo_in_Box = "W³ó¿ naboje 5,56 mm do pude³ka",
-	Recipe_Stir_fry_Griddle_Pan = "Zrób stir-fry",
+	Recipe_Stir_fry_Griddle_Pan = "Zrób stir-fry",+
+	
+	Recipe_Attach_Kitchen_Knife_to_Spear = "Zamontuj nó¿ kuchenny na w³óczniê",
 }
