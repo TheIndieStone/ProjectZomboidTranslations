@@ -218,4 +218,8 @@ Tooltip_ES = {
     Tooltip_item_Waterresist = "Impermeabilidad",
     Tooltip_GetPatchBack = "%1 %  de probabilidad de recuperar el remiendo",
     Tooltip_item_Windresist = "Resistencia al viento",
+    Tooltip_NothingToUpgrade = "Nada que mejorar",
+    Tooltip_NothingToRepair = "Ningún defecto que reparar",
+    Tooltip_FullyRestore = "Se reparará completamente.",
+    Tooltip_NothingToRemove = "Nada para quitar",
 }
