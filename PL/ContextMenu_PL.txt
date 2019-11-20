@@ -399,4 +399,7 @@ ContextMenu_PL = {
     ContextMenu_FireMode_Auto = "Ci¹g³y",
     ContextMenu_SitGround = "Usi¹dŸ na ziemi",
     ContextMenu_NeedSoap = "Potrzebujesz myd³a",
+	
+	ContextMenu_Patch = "Szycie",
+	ContextMenu_CantRepair = "Do naprawy ubrañ potrzebujesz ig³y i nici.",
 }
