@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.16
-	-- Date 10-24-2019
+	-- Build-41.20
+	-- Date 11-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -328,7 +328,7 @@
 	ContextMenu_CantAddFrozenFood = "冷凍された食品は追加することができません。",
 	ContextMenu_GetCloserToTrade = "あなたは取引するために %1 に近づく必要があります。",
 	ContextMenu_Trade = "%1 と交換する",
-	ContextMenu_EditItem = "アイテムを編集する",
+	ContextMenu_EditItem = "アイテムの編集",
 	ContextMenu_Require = "必要アイテム：%1",
 	ContextMenu_RenameMap = "名称を変更する",
 	ContextMenu_DigGraves = "墓穴を掘る",
@@ -371,7 +371,7 @@
 	ContextMenu_Vehicle_Openwindow = "%1を開ける",
 	ContextMenu_Vehicle_PlugGenerator = "発電機を車両に接続する",
 	ContextMenu_RemoveBurntVehicle = "車両の残骸を解体する",
-	ContextMenu_AddWaterFromItem = "アイテムに水を追加する",
+	ContextMenu_AddWaterFromItem = "水を加える",
 	ContextMenu_CarBatteryCharger_ConnectBattery = "車両バッテリーを接続する",
 	ContextMenu_CarBatteryCharger_Place = "車両バッテリー充電器を置く",
 	ContextMenu_CarBatteryCharger_Take = "車両バッテリー充電器を取る",
@@ -411,5 +411,9 @@
 	ContextMenu_FireMode_Single = "セミオート(単発)",
 	ContextMenu_FireMode_Burst = "バースト(3発制限点射)",
 	ContextMenu_FireMode_Auto = "フルオート(連発)",
+	ContextMenu_SitGround = "地面に座る",
+	ContextMenu_NeedSoap = "石鹸が必要です。",
+	ContextMenu_Patch = "修繕及び改良",
+	ContextMenu_CantRepair = "被服の修繕には、布地もしくは革、縫い針、手縫い糸が必要です。",
 
 }

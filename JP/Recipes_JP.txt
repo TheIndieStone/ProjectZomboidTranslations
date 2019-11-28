@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.18
-	-- Date 11-03-2019
+	-- Build-41.20
+	-- Date 11-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -353,10 +353,11 @@
 	Recipe_Attach_Ice_Pick_to_Spear = "槍にアイスピックを取り付ける",
 	Recipe_Attach_Letter_Opener_to_Spear = "槍にレターオープナーを取り付ける",
 	Recipe_Attach_Machete_to_Spear = "槍に鉈を取り付ける",
-	Recipe_Attach_Scalpel_to_Spear = "槍にメスを取り付ける",
+	Recipe_Attach_Scalpel_to_Spear = "槍にメス(医療用)を取り付ける",
 	Recipe_Attach_Scissors_to_Spear = "槍にハサミを取り付ける",
 	Recipe_Attach_Screwdriver_to_Spear = "槍にスクリュードライバーを取り付ける",
 	Recipe_Attach_Spoon_to_Spear = "槍にスプーンを取り付ける",
+	Recipe_Attach_Kitchen_Knife_to_Spear = "槍に包丁を取り付ける",
 	Recipe_Open_Box_of_.556_Ammo = "箱を開ける",
 	Recipe_Place_.556_Ammo_in_Box = "箱に入れる",
 	Recipe_Make_Bowl_of_Cereal = "シリアルをボウルに入れる",

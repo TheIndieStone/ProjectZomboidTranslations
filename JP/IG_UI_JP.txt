@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.18
-	-- Date 11-03-2019
+	-- Build-41.20
+	-- Date 11-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -983,5 +983,16 @@
 	IGUI_anim_Idle = "何もしない",
 	IGUI_anim_Walk = "歩く",
 	IGUI_anim_Run = "実行",
+	IGUI_health_Part = "部位",
+	IGUI_health_Bite = "咬傷防御",
+	IGUI_health_Scratch = "擦傷防御",
+	IGUI_perks_Woodwork = "大工仕事",
+	IGUI_Washing_NeedSoap = "石鹸が必要です。",
+	IGUI_health_Back = "背中",
+	IGUI_XP_ClothingIns = "被服断熱",
+	IGUI_perks_Tailoring = "裁縫",
+	IGUI_FabricType_1 = "布切れ",
+	IGUI_FabricType_2 = "布地",
+	IGUI_FabricType_3 = "革",
 
 }
