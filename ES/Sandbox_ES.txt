@@ -260,7 +260,7 @@ Sandbox_ES = {
     Sandbox_PlayerDamageFromCrash = "DAÑOS EN EL JUGADOR POR UN ACCIDENTE:",
     Sandbox_PlayerDamageFromCrash_tooltip = "Habilitar o deshabilitar que el jugador sufra daños por un accidente con el vehículo.",
     Sandbox_PopulationMultiplier = "Multiplicador de población",
-    Sandbox_PopulationMultiplier_help = "Igual que  \Cantidad de zombis\ de Mundo Abierto.\n4.0",
+    Sandbox_PopulationMultiplier_help = "Establecido por la opción de población \"Cantidad de zombis\". \n4.0 = Zombicidio, 3.0 = Muy alto, 2.0 = Alto, 1.0 = Normal, 0.35 = Bajo, 0.0 = Nada.",
     Sandbox_PopulationOptions = "Opciones de población",
     Sandbox_PopulationPeakDay = "Día del pico de población",
     Sandbox_PopulationPeakDay_help = "El día cuando la población llega a su punto máximo.",
