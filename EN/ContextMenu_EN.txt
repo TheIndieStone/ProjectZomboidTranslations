@@ -400,4 +400,9 @@ ContextMenu_EN = {
     ContextMenu_FireMode_Auto = "Full Auto",
     ContextMenu_SitGround = "Sit On Ground",
     ContextMenu_NeedSoap = "Need Soap",
+    ContextMenu_Patch = "Tailoring",
+    ContextMenu_CantRepair = "Fabric, needle and thread required for clothing repair.",
+    ContextMenu_PatchHole = "Patch Hole",
+    ContextMenu_RemovePatch = "Remove Patch",
+    ContextMenu_AddPadding = "Add Padding",
 }

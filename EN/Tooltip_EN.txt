@@ -216,4 +216,11 @@ Tooltip_EN = {
     Tooltip_EquipFirst = "Need to be worn.",
     Tooltip_CanBeAttached = "Can be attached to: ",
     Tooltip_item_FireMode = "Fire mode",
+    Tooltip_item_Windresist = "Wind resistance",
+    Tooltip_item_Waterresist = "Water resistance",
+    Tooltip_GetPatchBack = "%1 % chance to get patch back",
+    Tooltip_FullyRestore = "Will be fully restored.",
+    Tooltip_NothingToRepair = "No Holes to repair",
+    Tooltip_NothingToRemove = "Nothing to remove",
+    Tooltip_NothingToUpgrade = "Nothing to upgrade",
 }
