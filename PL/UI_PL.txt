@@ -1202,7 +1202,7 @@ UI_PL = {
 	UI_ClothingType_Neck = "Szyja",
 	UI_ClothingType_FullSuit = "Kombinezon",
 	UI_optionscreen_DblTapRunToSprint = "Wciœniêcie biegu 2 razy rozpoczyna sprint",
-	UI_optionscreen_DblTapRunToSprintTooltip = "Jeœli opcja jest zaznaczona, wciœniêcie biegu 2 razy rozpocznie sprint. \n By sprintowaæ, przytrzymuj klawisz shift.",
+	UI_optionscreen_DblTapRunToSprintTooltip = "Jeœli opcja jest zaznaczona, wciœniêcie biegu 2 razy rozpocznie sprint. \n By biec sprintem, przytrzymaj klawisz shift.",
 	UI_Loading_InitPublicServers = "Uruchamianie serwerów publicznych.",
 	UI_Loading_OnGameBoot = "Uruchamianie gry...",
 	UI_optionscreen_accessibility = "DOSTÊPNOŒÆ",
@@ -1229,4 +1229,8 @@ UI_PL = {
 	
 	UI_optionscreen_binding_VehicleHeater = "Ogrzewanie samochodu",
 	UI_prof_MetalWorker = "Spawacz",
+	
+	UI_trait_Tailor = "Szwacz",
+	UI_trait_TailorDesc = "Lubi przeplataæ nici przez igielne ucha.",
+	UI_ClothingInsPanel = " <CENTRE> <SIZE:medium> Oto okno izolacji cieplnej ubrañ. <LINE> <LINE> <SIZE:small> <LEFT> Wyœwietlone s¹ tutaj poziomy izolacji cieplnej Twojego cia³a. <LINE> <LINE> Wychodz¹c na zimn¹ pogodê pamiêtaj, by ciep³o siê ubraæ. <LINE> <LINE> W upale lata jednak radzimy za³o¿yæ coœ l¿ejszego, by siê nie przegrzaæ.",
 }
