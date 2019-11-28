@@ -839,10 +839,7 @@ Items_ES = {
 	DisplayName_Jacket = "Chaqueta",
 	DisplayName_Long_Shorts = "Bermudas largas",
 	DisplayName_Padded_Jacket = "Chaqueta acolchada",
-	DisplayName_Padded_Pants = "Pantalones acolchados",
-	
-	-- ANIMACIONES --
-	
+	DisplayName_Padded_Pants = "Pantalones acolchados",	
 	DisplayName_Acoustic_Guitar = "Guitarra acústica",
 	DisplayName_Airforce_Coveralls = "Uniforme de Fuerza Aérea",
 	DisplayName_Airforce_Helmet = "Casco de la Fuerza Aérea ",
@@ -1195,4 +1192,9 @@ Items_ES = {
 	DisplayName_Dirty_Denim_Strips = "Retales vaqueros sucios",
 	DisplayName_Dirty_Leather_Strips = "Retales de cuero sucios",
 	DisplayName_Leather_Strips = "Retales de cuero",
+	DisplayName_Advanced_Tailoring = "Sastrería avanzada",
+	DisplayName_Expert_Tailoring = "Sastrería para expertos",
+	DisplayName_Master_Tailoring = "Sastrería para maestros",
+	DisplayName_Tailoring_for_Beginners = "Sastrería para novatos",
+	DisplayName_Tailoring_for_Intermediates = "Sastrería intermedia",
 }

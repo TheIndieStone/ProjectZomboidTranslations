@@ -1211,4 +1211,8 @@ UI_ES = {
     UI_optionscreen_binding_Hotbar 3 = "Barra de acceso rápido 3",
     UI_optionscreen_binding_Hotbar 5 = "Barra de acceso rápido 5",
     UI_optionscreen_iso_cursor = "Visibilidad del cursor isométrico",
+    UI_ClothingInsPanel = "<CENTRE> <SIZE:medium> Este es el panel de aislamiento de la ropa. <LINE> <LINE> <SIZE:small> <LEFT> Esta pantalla muestra cómo de bien aisladas están tus partes del cuerpo. <LINE> <LINE> Cuando se está en ambientes fríos se requiere un buen aislamiento. <LINE> <LINE> Aunque en verano puede que quieras refrescarte.",
+    UI_trait_TailorDesc = "",
+    UI_trait_Tailor = "Costurero",
+    UI_optionscreen_aim_outline = "Contorno de objetivos",
 }
