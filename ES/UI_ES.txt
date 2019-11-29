@@ -65,7 +65,7 @@ UI_ES = {
     UI_Cancel = "Cancelar",
     UI_CharacterCreation = " <CENTRE> <SIZE:medium> Esta es la pantalla de creación de personajes. <LINE> <LINE> <SIZE:small> <LEFT> Los rasgos negativos y positivos deben estar balanceados. Los puntos negativos generados por rasgos 'verdes' deben ser compensados con puntos positivos generados por rasgos 'rojos'. Haz doble clic en un rasgo para añadirlo a tu personaje. <LINE> <LINE> Algunas profesiones proporcionan aumentos de habilidad y, a menudo, desbloquean recetas de elaboración propias, a costa de tener menos puntos para rasgos. Un personaje desempleado tendrá más puntos para gastar en rasgos. <LINE> <LINE> Se pueden guardar y cargar diversas configuraciones de personaje en la parte inferior de la pantalla.",
     UI_ChestHair = "Vello corporal",
-    UI_ClickToSkip = "Clic para saltar",
+    UI_ClickToSkip = "Clic para comenzar",
     UI_Close = "Cerrar",
     UI_ControllerTest_AY4exit = "Presiona los botones A y Y para salir",
     UI_ControllerTest_Axis = "Eje %1:",
@@ -1215,4 +1215,5 @@ UI_ES = {
     UI_trait_TailorDesc = "",
     UI_trait_Tailor = "Costurero",
     UI_optionscreen_aim_outline = "Contorno de objetivos",
+	UI_optionscreen_binding_ToggleLuaConsole = "Alternar consola Lua",
 }

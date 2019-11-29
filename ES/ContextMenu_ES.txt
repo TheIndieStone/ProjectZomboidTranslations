@@ -383,7 +383,7 @@ ContextMenu_ES = {
     ContextMenu_CutHair = "Cortar pelo",
     ContextMenu_UnloadMagazine = "Vaciar el cargador",
     ContextMenu_ShaveHair = "Rapado completo",
-    ContextMenu_InsertBullets = "Cargar %1 %2 en el arma",
+    ContextMenu_InsertBullets = "Insertar %1 %2 en %3",
     ContextMenu_Wash = "Lavar",
     ContextMenu_Yourself = "A ti mismo",
     ContextMenu_WashAllClothing = "Toda la ropa",
@@ -400,4 +400,8 @@ ContextMenu_ES = {
     ContextMenu_NeedSoap = "Necesitas jabón",
     ContextMenu_Patch = "Sastrería",
     ContextMenu_CantRepair = "Se requiere tela, aguja e hilo para la reparación de la ropa.",
+    ContextMenu_PatchHole = "Remendar agujero",
+    ContextMenu_RemovePatch = "Quitar remiendo",
+    ContextMenu_AddPadding = "Añadir protección",
+	ContextMenu_HotbarRadialRemove = "Quitar<br>%1",
 }
