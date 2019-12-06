@@ -113,7 +113,7 @@ Moodles_EN = {
 	-- Description of moodle
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "Take a break.",
-	Moodles_endurance_desc_lvl2 = "Can barely run.",
+	Moodles_endurance_desc_lvl2 = "Can barely jog.",
 	Moodles_endurance_desc_lvl3 = "Can barely walk.",
 	Moodles_endurance_desc_lvl4 = "Can barely move.",
 	-- Angry
