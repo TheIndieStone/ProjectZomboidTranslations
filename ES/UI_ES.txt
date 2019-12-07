@@ -1216,4 +1216,6 @@ UI_ES = {
     UI_trait_Tailor = "Costurero",
     UI_optionscreen_aim_outline = "Contorno de objetivos",
 	UI_optionscreen_binding_ToggleLuaConsole = "Alternar consola Lua",
+	UI_trait_BurglarDesc = "Puede puentear vehículos, menos posibilidades de romper la cerradura de una ventana.",
+	UI_profdesc_burglar = "Puede puentear vehículos, menos posibilidades de romper la cerradura de una ventana.",
 }
