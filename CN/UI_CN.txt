@@ -1231,15 +1231,15 @@ UI_CN = {
 	UI_ClothingType_Sweater = "毛衣",
 	UI_ServerOption_ZombieUpdateRadius_tooltip = "僵尸批量刷新半径，设置0.0为使用旧版特性",
 	UI_optionscreen_binding_Sprint = "冲刺",
-	UI_NewGame_Builder = "工程师",
-	UI_NewGame_Fighter = "斗士",
-	UI_NewGame_Survivor_desc = "躲躲藏藏，尽力避免残酷的正面战斗",
-	UI_NewGame_Sandbox_desc2 = "按自己喜欢的方式配置难度和游玩方式",
-	UI_NewGame_Builder_desc = "更喜欢花时间进行建造，搜刮，以及耕种，对于战斗不感兴趣",
-	UI_NewGame_Survivor = "幸存者",
-	UI_worldscreen_SavefileAnimation = "由于实现动画所需的更改，与早期版本的存档不兼容。 <LINE> <LINE>保存文件的世界版本：%1 <LINE>当前的世界版本：%2",
-	UI_NewGame_Fighter_desc = "喜欢挑战，更专注于之前版本玩家熟悉的战斗",
 	UI_NewGame_PlayStyle = "游戏风格",
+	UI_NewGame_Survivor = "大灾变",
+	UI_NewGame_Survivor_desc = "专注躲猫猫。寿命短。最好避免战斗。",
+	UI_NewGame_Fighter = "幸存者",
+	UI_NewGame_Fighter_desc = "强大的战斗力。 寿命更长。 基于PZ先前的生存模式的具有挑战性的游戏风格。",
+	UI_NewGame_Builder = "工程师",
+	UI_NewGame_Builder_desc = "以建设、探索和种田为重点。更轻松的体验。",
+	UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格",
+	UI_worldscreen_SavefileAnimation = "由于实现动画所需的更改，与早期版本的存档不兼容。 <LINE> <LINE>保存文件的世界版本：%1 <LINE>当前的世界版本：%2",
 	UI_News_Anim = "<H1> 欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
 				   "<CENTRE> <SIZE:large> 这是PZ有史以来最大的正在进行中的代码更新版本。 <LINE><LINE> " ..
 				   "<CENTRE> 会有漏洞和平衡性问题。优化改进同步正在进行中。 <LINE><LINE> " ..
