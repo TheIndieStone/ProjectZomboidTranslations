@@ -403,5 +403,6 @@ ContextMenu_ES = {
     ContextMenu_PatchHole = "Remendar agujero",
     ContextMenu_RemovePatch = "Quitar remiendo",
     ContextMenu_AddPadding = "Añadir protección",
-	ContextMenu_HotbarRadialRemove = "Quitar<br>%1",
+    ContextMenu_HotbarRadialRemove = "Quitar<br>%1",
+    ContextMenu_NoWeaponsAvailable = "No hay armas disponibles.",
 }
