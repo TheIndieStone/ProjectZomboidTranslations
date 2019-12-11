@@ -31,6 +31,7 @@ IGUI_CN = {
 	-- Health panel
 	IGUI_health_Scratched = "刮伤",
 	IGUI_health_Wounded = "受伤",
+	IGUI_health_Cut = "撕裂伤",
 	IGUI_health_Bitten = "咬伤",
 	IGUI_health_Bleeding = "流血",
 	IGUI_health_Bandaged = "已包扎",
@@ -898,7 +899,7 @@ IGUI_CN = {
 	IGUI_char_HairStyle = "发型",
 	IGUI_RequiresWaterSupply = "需要水源。",
 	IGUI_Hair_Mullet = "胭脂鱼发",
-	IGUI_ToggleToSprint = "将 %1 键切换为冲刺",
+	IGUI_ToggleToSprint = "将 %1 冲刺键改为切换模式",
 	IGUI_Beard_LongScruffy = "邋遢长胡子",
 	IGUI_Beard_Goatee = "山羊胡",
 	IGUI_Hair_CrewCut = "平头",
