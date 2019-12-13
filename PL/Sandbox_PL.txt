@@ -550,4 +550,13 @@ Sandbox_PL = {
     Sandbox_ZombiesDragDown_tooltip = "Jeœli opcja jest w³¹czona i atakuje Ciê kilka zombie, mog¹ powaliæ Ciê na ziemiê i zjeœæ. Opcja zale¿na od si³y zombie.",
     Sandbox_AttackBlockMovements = "ATAK WRÊCZ PRZERYWA RUCH:",
     Sandbox_AttackBlockMovements_tooltip = "Wy³¹cz, by poruszaæ siê swobodnie podczas atakowania wrêcz.",
+	
+	Sandbox_LootSurvivalGears = "NARZÊDZIA PRZETRWANIA:",
+	Sandbox_LootSurvivalGears_tooltip = "Nasiona, pi³y, gwoŸdzie, narzêdzia, przedmioty naprawcze, wêdki...",
+	Sandbox_LootMedical = "MEDYCZNE:",
+	Sandbox_LootLiterature = "LITERATURA:",
+	Sandbox_LootCannedFood = "PUSZKI Z JEDZENIEM:",
+	Sandbox_LootRangedWeapon = "BROÑ DYSTANSOWA:",
+	Sandbox_LootAmmo = "AMUNICJA:",
+	Sandbox_LootMechanics = "MECHANIKA:",
 }
