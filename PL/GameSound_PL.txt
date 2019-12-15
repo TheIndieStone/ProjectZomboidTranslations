@@ -1,9 +1,17 @@
 GameSound_PL = {
 	GameSound_ButtonAdvanced = "Zaawansowane",
+	GameSound_ButtonReload = "Wczytaj ponownie",
+	GameSound_ButtonReload_tt = "Wczytaj ponownie wszystkie pliki sounds.txt.",
 	GameSound_VolumeControlTooltip = "Poziom g³oœnoœci: %1%<br>G³oœnoœæ ogólna: %2 %3%",
+
+	/* These are the names of tabs in the ui. */
+	/* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
 	GameSound_Category_AUTO = "AUTO",
+
+	/* You can provide translations for every GameSound if you want to. */
 	GameSound_DoorIsLocked = "Zamkniête drzwi",
 	GameSound_DoorIsBlocked = "Zablokowane drzwi",
+
 	GameSound_AmbientMusic_BrassAmbient = "DŸwiêk t³a: Brass",
 	GameSound_AmbientMusic_CreepyAmbient = "DŸwiêk t³a: Creepy",
 	GameSound_AmbientMusic_IntenseAmbient = "DŸwiêk t³a: Intense",
@@ -11,6 +19,7 @@ GameSound_PL = {
 	GameSound_AmbientMusic_RhythmicAmbient = "DŸwiêk t³a: Rhythmic",
 	GameSound_AmbientMusic_VoiceAmbient = "DŸwiêk t³a: Voice",
 	GameSound_AmbientMusic_ZombieAmbient = "DŸwiêk t³a: Zombie",
+
 	GameSound_NewMusic_Alone = "Oficjalne: Alone",
 	GameSound_NewMusic_Barricading = "Oficjalne: Barricading",
 	GameSound_NewMusic_Chase = "Oficjalne: Chase",
@@ -37,6 +46,7 @@ GameSound_PL = {
 	GameSound_NewMusic_AmbientLow = "Oficjalne: Ambient (Low)",
 	GameSound_NewMusic_AmbientPiano = "Oficjalne: Ambient (Piano)",
 	GameSound_NewMusic_AmbientRaider = "Oficjalne: Ambient (Raider)",
+	
 	GameSound_OldMusic_alone = "Wczesny dostêp: Alone",
 	GameSound_OldMusic_barricading = "Wczesny dostêp: Barricading",
 	GameSound_OldMusic_chase = "Wczesny dostêp: Chase",
@@ -66,13 +76,13 @@ GameSound_PL = {
 	GameSound_OldMusic_long_ambient = "Wczesny dostêp: Ambient (Long)",
 	GameSound_OldMusic_piano = "Wczesny dostêp: Ambient (Piano)",
 	GameSound_OldMusic_raider = "Wczesny dostêp: Ambient (Raider)",
+
 	GameSound_HumanFootstepConcrete = "DŸwiêk kroków (na betonie)",
 	GameSound_HumanFootstepGrass = "DŸwiêk kroków (na trawie)",
 	GameSound_HumanFootstepUpstairs = "DŸwiêk kroków (na piêtrze)",
 	GameSound_HumanFootstepWood = "DŸwiêk kroków (na drewnie)",
+
 	GameSound_VehicleStarted = "Rozruch silnika",
+
 	GameSound_ZombieSurprisedPlayer = "Zombie zaskakuje gracza",
-	
-	GameSound_ButtonReload = "Wczytaj ponownie",
-	GameSound_ButtonReload_tt = "Wczytaj ponownie wszystkie pliki sounds.txt.",
 }

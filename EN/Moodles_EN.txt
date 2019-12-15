@@ -61,7 +61,7 @@ Moodles_EN = {
 	Moodles_bleeding_lvl3 = "Severe Bleeding",
 	Moodles_bleeding_lvl4 = "Massive Blood Loss",
 	-- Wet
-	Moodles_wet_lvl1 = "Damp",
+	Moodles_wet_lvl1 = "Moist",
 	Moodles_wet_lvl2 = "Wet",
 	Moodles_wet_lvl3 = "Soaking",
 	Moodles_wet_lvl4 = "Drenched",
@@ -113,7 +113,7 @@ Moodles_EN = {
 	-- Description of moodle
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "Take a break.",
-	Moodles_endurance_desc_lvl2 = "Can barely run.",
+	Moodles_endurance_desc_lvl2 = "Can barely jog.",
 	Moodles_endurance_desc_lvl3 = "Can barely walk.",
 	Moodles_endurance_desc_lvl4 = "Can barely move.",
 	-- Angry
@@ -167,10 +167,10 @@ Moodles_EN = {
 	Moodles_bleed_desc_lvl3 = "Strength and speed severely reduced.",
 	Moodles_bleed_desc_lvl4 = "Death imminent.",
 	-- Wet
-	Moodles_wet_desc_lvl1 = "Get out of the rain or you'll catch your death.",
-	Moodles_wet_desc_lvl2 = "Speed slightly reduced.",
-	Moodles_wet_desc_lvl3 = "Speed reduced. Chance of catching a cold.",
-	Moodles_wet_desc_lvl4 = "Speed severely reduced. High chance of catching a cold.",
+	Moodles_wet_desc_lvl1 = "Slightly damp. Rain, or sweat?",
+	Moodles_wet_desc_lvl2 = "Sweatier, or even more rained on?",
+    Moodles_wet_desc_lvl3 = "Chance of catching a cold.",
+    Moodles_wet_desc_lvl4 = "High chance of catching a cold.",
 	-- Has a cold
 	Moodles_hasacold_desc_lvl1 = "Occasional sneezing.",
 	Moodles_hasacold_desc_lvl2 = "Prone to sneezing.",
