@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.18
-	-- Date 11-03-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -974,14 +974,6 @@
 	IGUI_Beard_Long = "長髭",
 	IGUI_Beard_LongScruffy = "無精髭",
 	IGUI_XP_Protection = "被服保護",
-	IGUI_FilterAll = "全てフィルター",
-	IGUI_HotbarAttachment_HolsterLeft = "左ホルスター",
-	IGUI_HotbarAttachment_HolsterRight = "右ホルスター",
-	IGUI_HotbarAttachment_SmallBeltLeft = "左ベルト",
-	IGUI_HotbarAttachment_SmallBeltRight = "右ベルト",
-	IGUI_HotbarAttachment_Back = "背中",
-	IGUI_anim_Idle = "何もしない",
-	IGUI_anim_Walk = "歩く",
-	IGUI_anim_Run = "実行",
+	IGUI_FilterAll = "全てをフィルター",
 
 }

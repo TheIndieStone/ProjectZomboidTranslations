@@ -42,8 +42,4 @@ Challenge_ES = {
     Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu regreso al condado de Knox se convertirá en un infierno...",
     Challenge_AStormIsComingInfoBox = " <CENTRE> Se avecina una incesante tormenta...",
     Challenge_TheDescendingFogInfoBox = " <CENTRE> Se está poniendo nebuloso...",
-    Challenge_Studio_desc = "¡En pruebas!",
-    Challenge_Studio_name = "(NUEVO) Estudio",
-    Challenge_Kingsmouth_desc = "¡En pruebas!",
-    Challenge_Kingsmouth_name = "(NUEVO) Kingsmouth",
 }

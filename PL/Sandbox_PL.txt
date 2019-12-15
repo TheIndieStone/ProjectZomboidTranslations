@@ -551,7 +551,5 @@ Sandbox_CarDamageOnImpact_tooltip = "Reguluje iloœæ uszkodzeñ otrzymywanych prze
 	Sandbox_ZombiesDragDown_tooltip = "Jeœli opcja jest w³¹czona i atakuje Ciê kilka zombie, mog¹ powaliæ Ciê na ziemiê i zjeœæ. Opcja zale¿na od si³y zombie.",
 	Sandbox_AttackBlockMovements = "ATAK WRÊCZ PRZERYWA RUCH:",
 	Sandbox_AttackBlockMovements_tooltip = "Wy³¹cz, by poruszaæ siê swobodnie podczas atakowania wrêcz.",
-	
-	Sandbox_PresetName_Error = "Nazwa nie mo¿e zawieraæ nastêpuj¹cych znaków: /  \\  :  ;  \  .",
 
 }

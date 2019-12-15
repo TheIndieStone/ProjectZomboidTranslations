@@ -1210,7 +1210,7 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	UI_ClothingType_FullSuit = "Kombinezon",
 	UI_optionscreen_DblTapRunToSprint = "Wciœniêcie biegu 2 razy rozpoczyna sprint",
 	UI_optionscreen_DblTapRunToSprintTooltip = "Jeœli opcja jest zaznaczona, wciœniêcie biegu 2 razy rozpocznie sprint. \n By sprintowaæ, przytrzymuj klawisz shift.",
-	UI_Loading_InitPublicServers = "Uruchamianie serwerów publicznych.",
+	UI_Loading_InitPublicServers = "Inicjalizacja serwerów publicznych.",
 	UI_Loading_OnGameBoot = "Uruchamianie gry...",
 	UI_optionscreen_accessibility = "DOSTÊPNOŒÆ",
 	UI_NewGame_PlayStyle = "Rodzaj rozgrywki",
@@ -1225,10 +1225,4 @@ UI_ServerOption_DisableRadioInvisible_tooltip = "Wy³¹cza transmisje radiowe od n
 	
 	UI_prof_Metalworker = "Spawacz",
 	UI_optionscreen_iso_cursor = "Widocznoœæ kursora izometrycznego",
-	
-	UI_optionscreen_binding_Hotbar 1 = "Pasek 1",
-	UI_optionscreen_binding_Hotbar 2 = "Pasek 2",
-	UI_optionscreen_binding_Hotbar 3 = "Pasek 3",
-	UI_optionscreen_binding_Hotbar 4 = "Pasek 4",
-	UI_optionscreen_binding_Hotbar 5 = "Pasek 5",
 }

@@ -2,8 +2,8 @@ SurvivalGuide_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.18
-	-- Date 11-03-2019
+	-- Build-41.16
+	-- Date 10-24-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
