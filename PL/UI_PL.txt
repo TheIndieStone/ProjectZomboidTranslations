@@ -12,7 +12,7 @@ UI_PL = {
 	UI_mainscreen_scoreboard = "GRACZE"
 	UI_mainscreen_invite = "ZNAJOMI",
 	UI_mainscreen_return = "WR”∆",
-	UI_mainscreen_exit = "WYJåCIE",
+	UI_mainscreen_exit = "WYJDè",
 	UI_mainscreen_ErrorLoadingSavefile = "Podczas wczytywania stanu gry wystπpi≥ b≥πd.",
 	UI_mainscreen_SavefileNotFound = "Stan zapisu gry jest uszkodzony / nie istnieje.",
 	UI_mainscreen_SavefileName = "Zapis gry: %1",
@@ -1231,6 +1231,12 @@ UI_PL = {
 	UI_prof_MetalWorker = "Spawacz",
 	
 	UI_trait_Tailor = "Szwacz",
-	UI_trait_TailorDesc = "Lubi przeplataÊ nici przez igielne ucha.",
+	UI_trait_TailorDesc = "åwietnie radzi sobie z ig≥π i niciπ.",
 	UI_ClothingInsPanel = " <CENTRE> <SIZE:medium> Oto okno izolacji cieplnej ubraÒ. <LINE> <LINE> <SIZE:small> <LEFT> Wyúwietlone sπ tutaj poziomy izolacji cieplnej Twojego cia≥a. <LINE> <LINE> Wychodzπc na zimnπ pogodÍ pamiÍtaj, by ciep≥o siÍ ubraÊ. <LINE> <LINE> W upale lata jednak radzimy za≥oøyÊ coú løejszego, by siÍ nie przegrzaÊ.",
+	
+	UI_optionscreen_aim_outline = "WidocznoúÊ celownika",
+	UI_optionscreen_binding_ToggleLuaConsole = "Pokaø/ukryj konsolÍ lua",
+	
+	UI_trait_BurglarDesc = "Potrafi odpalaÊ pojazdy na krÛtko. Mniejsza szansa na uszkodzenie zamkÛw w oknach.",
+	UI_profdesc_burglar = "Potrafi odpalaÊ pojazdy na krÛtko. Mniejsza szansa na uszkodzenie zamkÛw w oknach.",
 }

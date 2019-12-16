@@ -373,13 +373,13 @@ ContextMenu_PL = {
     ContextMenu_AddRandom = "Dodaj losowe %1",
     ContextMenu_FromRandom = "Z losowego %1",
     ContextMenu_FoodType_NoExplicit = "Przyprawa",
-    ContextMenu_InsertBulletsInMagazine = "WprowadŸ %1 nabojów do magazynka",
+    ContextMenu_InsertBulletsInMagazine = "WprowadŸ %1 sztuk amunicji do magazynka",
     ContextMenu_NoBullets = "Brak nabojów",
     ContextMenu_UnloadMagazine = "Roz³aduj magazynek",
     ContextMenu_NoMagazineFound = "Nie znaleziono: %1 lub jest pusty.",
     ContextMenu_Rack = "Zarepetuj %1",
     ContextMenu_Unjam = "%1: usuñ zaciêcie",
-    ContextMenu_InsertBullets = "WprowadŸ %1 %2 do broni",
+    ContextMenu_InsertBullets = "WprowadŸ %1 %2 do: %3",
     ContextMenu_TrimBeard = "Zgól brodê",
     ContextMenu_TrimBeard_For = "Przystrzy¿ brodê na %1",
     ContextMenu_CutHair = "Zetnij w³osy",
@@ -392,7 +392,7 @@ ContextMenu_PL = {
     ContextMenu_WashAllClothing = "Wszystko",
     ContextMenu_WashClothing = "%1",
     ContextMenu_Attach = "Zamontuj",
-    ContextMenu_RemoveFromHotbar = "Zdjemij: %1 z: %2",
+    ContextMenu_RemoveFromHotbar = "Zdejmij: %1 z: %2",
     ContextMenu_ChangeFireMode = "Zmieñ tryb ognia",
     ContextMenu_FireMode_Single = "Pojedynczy",
     ContextMenu_FireMode_Burst = "Seria",
@@ -402,4 +402,11 @@ ContextMenu_PL = {
 	
 	ContextMenu_Patch = "Szycie",
 	ContextMenu_CantRepair = "Do naprawy ubrañ potrzebujesz ig³y i nici.",
+	
+	ContextMenu_HotbarRadialRemove = "Usuñ<br>%1",
+	ContextMenu_PatchHole = "Za³ataj dziurê",
+	ContextMenu_RemovePatch = "Usuñ ³atkê",
+	ContextMenu_AddPadding = "Dodaj materia³",
+	
+	ContextMenu_NoWeaponsAvailable = "Brak dostêpnej broni.",
 }
