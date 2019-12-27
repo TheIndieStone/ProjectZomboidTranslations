@@ -970,4 +970,5 @@ IG_UI_ES = {
 	IGUI_garment_GlbDirt = "Suciedad",
 	IGUI_garment_Blood = "- Sangre ",
 	IGUI_garment_Hole = "- Agujero",
+	IGUI_DropItemsOnSquareCenter = "Tirar los objetos cerca del cuadrado central",
 }
