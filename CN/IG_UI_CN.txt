@@ -933,6 +933,7 @@ IGUI_CN = {
     IGUI_FabricType_2 = "牛仔布条",
     IGUI_FabricType_3 = "皮革条",
     --Temperature Panel
+	IGUI_SkinTemperature = "体温"
     IGUI_Temp_SkinTemperature = "表皮温度",
     IGUI_Temp_BloodVessels = "血管",
     IGUI_Temp_ShiverPerspiration = "寒战 / 出汗",

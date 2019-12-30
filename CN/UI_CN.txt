@@ -17,7 +17,7 @@ UI_CN = {
 	UI_mainscreen_SavefileNotFound = "无法找到存档文件或该存档已无效…",
 	UI_mainscreen_SavefileName = "存档: %1",
 	UI_mainscreen_coop = "建立服务器",
-	UI_mainscreen_version = "官方[v41.23]版简中 <2019年12月20日更新> —— 当前游戏版本：%1",
+	UI_mainscreen_version = "官方[v41.24]版简中 <2019年12月30日更新> —— 当前游戏版本：%1",
 	UI_mainscreen_version_steam = "官方[v41.24]版简中 <2019年12月30日更新> —— 当前游戏版本：%1 （Steam）",
 	UI_mainscreen_InviteInGame = "游戏时不能接受邀请！",
 	UI_mainscreen_InviteMainMenu = "请在接受邀请前返回主菜单！",
@@ -1252,4 +1252,5 @@ UI_CN = {
     UI_optionscreen_binding_Hotbar 5 = "快捷栏 5",
     UI_multiplayer_Disabled = "联机模式暂时屏蔽。",
     UI_optionscreen_Uncapped = "不设上限",
+	UI_Loading_Mods = "载入MOD中…"
 }
