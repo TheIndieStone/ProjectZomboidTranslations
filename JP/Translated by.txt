@@ -1,8 +1,8 @@
 ﻿
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.16
-	-- Date 10-24-2019
+	-- Build-41.20
+	-- Date 11-19-2019
 	-- ※システムが日本語に対応していない部分が英語で表記される場合があります。
 	-- ※エラー、脱字やご意見、ご感想がある方は、下記のフォーラムに登録して書き込むか直接下のメールアドレスにご連絡ください。
 	-- https://theindiestone.com/forums/index.php?/topic/5405-japanese-translation/&page=1

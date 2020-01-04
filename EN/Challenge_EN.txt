@@ -23,11 +23,11 @@ Challenge_EN = {
     Challenge_TheDescendingFog_name = "The Descending Fog",
     Challenge_TheDescendingFog_desc = "People first saw it on the water. A faint white blanket over the Ohio river. <LINE> <LINE> It began as a mist. Then it enveloped the town. The townsfolk died screaming in the gloom. Now they walk out there. <LINE> <LINE> Unseen, unheard and relentless in the pursuit of the living.",
 
-    Challenge_Kingsmouth_name = "(NEW) Kingsmouth",
-    Challenge_Kingsmouth_desc = "Debug stuff!",
+    Challenge_Kingsmouth_name = "Kingsmouth",
+    Challenge_Kingsmouth_desc = "Enjoy a relaxing stay on Kingsmouth Island!",
 
-    Challenge_Studio_name = "(NEW) Studio",
-    Challenge_Studio_desc = "Debug stuff!",
+    Challenge_Studio_name = "Studio",
+    Challenge_Studio_desc = "Where all the best movies are filmed!",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Press 'o' for permanent boost and to spend some money.",
 	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (press Enter to skip)",

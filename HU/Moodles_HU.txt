@@ -61,7 +61,7 @@ Moodles_HU = {
 	Moodles_bleeding_lvl3 = "Erõsen vérzik",
 	Moodles_bleeding_lvl4 = "Nagy vérveszteség",
 	-- Wet
-	Moodles_wet_lvl1 = "Nyirkos",
+	Moodles_wet_lvl1 = "Nedves",
 	Moodles_wet_lvl2 = "Vizes",
 	Moodles_wet_lvl3 = "Átázott",
 	Moodles_wet_lvl4 = "Csuromvíz",
