@@ -310,7 +310,7 @@ Sandbox_EN = {
     Sandbox_TimeSinceApo_option12 = "11",
     Sandbox_TimeSinceApo_option13 = "12",
     Sandbox_PlantResilience = "PLANT RESILIENCE:",
-    Sandbox_PlantResilience_tooltip = "Will influence how many water the plant will lose per day and their ability to avoid disease.",
+    Sandbox_PlantResilience_tooltip = "Will influence how many waters the plant will lose per day and their ability to avoid disease.",
     Sandbox_PlantResilience_option1 = "Very high",
     Sandbox_PlantResilience_option2 = "High",
     Sandbox_PlantResilience_option3 = "Normal",
@@ -340,7 +340,7 @@ Sandbox_EN = {
     Sandbox_RallyGroupSeparation = "Rally Group Separation",
     Sandbox_RallyGroupRadius = "Rally Group Radius",
     -- Zombie Config tooltips and zombie.ini comments
-    Sandbox_PopulationMultiplier_help = "Set by the \"Zombie Count\" population option.\n4.0 = Insane, 2.0 = High, 1.0 = Normal, 0.35 = Low, 0.0 = None.",
+    Sandbox_PopulationMultiplier_help = "Set by the \"Zombie Count\" population option.\n4.0 = Insane, Very High = 3.0, 2.0 = High, 1.0 = Normal, 0.35 = Low, 0.0 = None.",
     Sandbox_PopulationStartMultiplier_help = "Adjusts the desired population at the start of the game.",
     Sandbox_PopulationPeakMultiplier_help = "Adjusts the desired population on the peak day.",
     Sandbox_PopulationPeakDay_help = "The day when the population reaches it's peak.",

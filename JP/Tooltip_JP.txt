@@ -2,13 +2,12 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.16
-	-- Date 10-24-2019
+	-- Build-41.20
+	-- Date 11-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
 	-- Item tooltip
-
 	Tooltip_food_Uncooked = "未調理の",
 	Tooltip_food_Rotten = "腐敗した",
 	Tooltip_food_Fresh = "新鮮な",
@@ -228,4 +227,14 @@
 	Tooltip_CombatSpeed = "戦闘速度",
 	Tooltip_EquipFirst = "着用する必要があります。",
 	Tooltip_OpenCloseCurtains = "キーボード: SHIFT-%1 を押します。<br>マウス: SHIFT-左クリックをします。",
+	Tooltip_CanBeAttached = "装備位置変更: ",
+	Tooltip_item_FireMode = "発射モード",
+	Tooltip_item_Windresist = "耐風性",
+	Tooltip_item_Waterresist = "耐水性",
+	Tooltip_GetPatchBack = "%1 %の確率で修復されます。",
+	Tooltip_FullyRestore = "完全に修復されます。",
+	Tooltip_NothingToRepair = "修理する場所がありません。",
+	Tooltip_NothingToRemove = "取り去る物がありません。",
+	Tooltip_NothingToUpgrade = "改良する物がありません。",
+
 }
