@@ -44,8 +44,8 @@ UI_CN = {
 	UI_coopscreen_btn_start = "启动",
 	UI_coopscreen_btn_abort = "停止",
 	UI_coopscreen_ServerWorkshopItemsCancelled = "已取消。等待服务器关闭。",
-	-- Option screen (lua)
 	UI_CoopConnectPopup_Title = "加入本地合作游戏",
+	-- Option screen (lua)
 	UI_optionscreen_gameoption = "游戏设定",
 	UI_optionscreen_display = "显示",
 	UI_optionscreen_fullscreen = "全屏模式",
@@ -223,9 +223,17 @@ UI_CN = {
 	UI_optionscreen_binding_Toggle mode = " 切换模式",
 	UI_optionscreen_binding_Toggle Moveable Panel Mode = " 切换搬运模式",
 	UI_optionscreen_accessibility = "辅助功能",
+	-- Map selecter (lua)
 	UI_mapselecter_title = "选择地图以开始游戏",
 	UI_mapselecter_savename = "保存名称: ",
-	UI_worldscreen_title = "载入已保存的存档",
+	-- Map spawn region selecter
+	UI_mapspawn_title = "选择出生点",
+	UI_mapspawn_ServerSpawnPoint = "服务器出生点选项",
+	UI_mapspawn_Safehouse = "安全屋",
+	UI_mapspawn_WithPlayer1 = "玩家 1",
+	UI_mapspawn_WithPlayer2 = "玩家 2",
+	UI_mapspawn_WithPlayer3 = "玩家 3",
+	UI_mapspawn_WithPlayer4 = "玩家 4",
 	-- World screen (lua)
 	UI_LoadGameScreen_title = "选择已保存的游戏",
 	UI_LoadGameScreen_Mods = "模组："
@@ -462,7 +470,6 @@ UI_CN = {
 	UI_servers_connecting = "连接中...",
 	UI_servers_connectionfailed = "连接失败!!",
 	UI_chat_local = "[附近] ",
-	UI_mapspawn_title = "选择出生点",
 	UI_ChestHair = "胸毛",
 	UI_Stubble = "胡子",
 	UI_SkinColor = "皮肤颜色",
@@ -842,11 +849,6 @@ UI_CN = {
 	UI_ServerSettings_ButtonRemoveRegion = "移除出生点",
 	UI_ServerOption_Open_tooltip = "没有白名单的用户无法加入服务器.",
 	UI_ServerOption_SteamScoreboard_tooltip = "显示在玩家列表的Steam用户名和头像.\n可设置为true, false, admin.",
-	UI_mapspawn_ServerSpawnPoint = "服务器出生点选项",
-	UI_mapspawn_WithPlayer1 = "玩家 1",
-	UI_mapspawn_WithPlayer2 = "玩家 2",
-	UI_mapspawn_WithPlayer3 = "玩家 3",
-	UI_mapspawn_WithPlayer4 = "玩家 4",
 	UI_servers_NotInvited = "主机必须允许您加入",
 	UI_FriendState_Offline = "离线",
 	UI_FriendState_Online = "在线",
@@ -886,7 +888,7 @@ UI_CN = {
 	UI_ServerOption_SpawnItems_tooltip = "给予新玩家物品\n可使用逗号分隔多个物品:Base.Axe,Base.BigHikingBag",
 	UI_ServerOption_ServerPlayerID_tooltip = "将这个ID写入玩家存档文件\n连接服务器时会检查这个ID（阻止玩家使用其他存档,修改这个值将使玩家存档失效）",
 	UI_ServerOption_UPnP_tooltip = "启用UPnP网关,并自动配置端口转发规则.",
-	UI_ServerOption_UPnPLeaseTime_tooltip = "端口租约时间 (86400 == 24 hours)。 这个不应该被改。",
+	UI_ServerOption_UPnPLeaseTime_tooltip = "端口租约时间 (86400 == 24 小时)。 这个不应该被改。",
 	UI_ServerOption_UPnPZeroLeaseTimeFallback_tooltip = "如果端口映射失败,是否重试.",
 	UI_ServerOption_UPnPForce_tooltip = "移除现有的端口映射.",
 	UI_InviteFriends_Allow = "允许",
@@ -993,7 +995,6 @@ UI_CN = {
 	UI_Details = "更新日志",
 	UI_Close = "关闭",
 	UI_WorldSelecter_title = "地图选择",
-	UI_mapspawn_Safehouse = "安全屋",
 	UI_chat_main_tab_title_id = "一般频道",
 	UI_chat_faction_tab_title_id = "派系频道",
 	UI_chat_safehouse_tab_title_id = "安全屋频道",
@@ -1276,4 +1277,5 @@ UI_CN = {
 	-- Old Strings
 	UI_mods_ExplanationJoypad = " 启用/禁用 MOD. 将您的MOD文件存放于： ",
 	UI_mods_Explaination = "双击信息启用/关闭 MOD目录:",
+	UI_worldscreen_title = "载入已保存的存档",
 }
