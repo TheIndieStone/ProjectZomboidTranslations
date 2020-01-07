@@ -313,7 +313,22 @@ Recipe_Make_Metal_Walls = "Zrób metalowe œciany",
 	Recipe_Make_Bowl_of_Oatmeal = "Na³ó¿ p³atki owsiane do miski",
 	Recipe_Open_Box_of_.556_Ammo = "Otwórz pude³ko nabojów 5,56 mm",
 	Recipe_Place_.556_Ammo_in_Box = "W³ó¿ naboje 5,56 mm do pude³ka",
-	Recipe_Stir_fry_Griddle_Pan = "Zrób stir-fry",+
+	Recipe_Stir_fry_Griddle_Pan = "Zrób stir-fry",
 	
 	Recipe_Attach_Kitchen_Knife_to_Spear = "Zamontuj nó¿ kuchenny na w³óczniê",
+	
+	Recipe_Clean_Denim_Strips = "Wyczyœæ kawa³ki jeansu",
+	Recipe_Clean_Leather_Strips = "Wyczyœæ kawa³ki skóry",
+	Recipe_Reclaim_Bread_Knife_from_Spear = "Zdejmij nó¿ do chleba z w³óczni",
+	Recipe_Reclaim_Butter_Knife_from_Spear = "Zdejmij nó¿ do mas³a z w³óczni",
+	Recipe_Reclaim_Fork_from_Spear = "Zdejmij widelec z w³óczni",
+	Recipe_Reclaim_Hand_Fork_from_Spear = "Zdejmij widelec ogrodniczy z w³óczni",
+	Recipe_Reclaim_Hunting_Knife_from_Spear = "Zdejmij nó¿ myœliwski z w³óczni",
+	Recipe_Reclaim_Ice_Pick_from_Spear = "Zdejmij szpikulec do lodu z w³óczni",
+	Recipe_Reclaim_Letter_Opener_from_Spear = "Zdejmij otwieracz do kopert z w³óczni",
+	Recipe_Reclaim_Machete_from_Spear = "Zdejmij maczetê z w³óczni",
+	Recipe_Reclaim_Scalpel_from_Spear = "Zdejmij skalpel z w³óczni",
+	Recipe_Reclaim_Scissors_from_Spear = "Zdejmij no¿yczki z w³óczni",
+	Recipe_Reclaim_Screwdriver_from_Spear = "Zdejmij œrubokrêt z w³óczni",
+	Recipe_Reclaim_Spoon_from_Spear = "Zdejmij ³y¿kê z w³óczni",
 }

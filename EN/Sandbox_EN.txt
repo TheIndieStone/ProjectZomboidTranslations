@@ -207,13 +207,21 @@ Sandbox_EN = {
     Sandbox_CompostTime_option8 = "12 Weeks",
     --
     Sandbox_LootRarity = "Loot Rarity",
-    Sandbox_LootFood = "FOOD:",
+    Sandbox_LootSurvivalGears = "SURVIVAL GEARS:",
+    Sandbox_LootSurvivalGears_tooltip = "Seeds, saw, nails, various tools, fixing items, fishing rod..."
+    Sandbox_LootMedical = "MEDICAL:",
+    Sandbox_LootFood = "FRESH FOOD:",
+    Sandbox_LootLiterature = "LITERATURE:",
+    Sandbox_LootCannedFood = "CANNED FOOD:",
     Sandbox_Rarity_option1 = "Extremely rare",
     Sandbox_Rarity_option2 = "Rare",
     Sandbox_Rarity_option3 = "Normal",
     Sandbox_Rarity_option4 = "Common",
     Sandbox_Rarity_option5 = "Abundant",
-    Sandbox_LootWeapon = "WEAPON:",
+    Sandbox_LootWeapon = "MELEE WEAPONS:",
+    Sandbox_LootRangedWeapon = "RANGED WEAPONS:",
+    Sandbox_LootAmmo = "AMMO:",
+    Sandbox_LootMechanics = "MECHANICS:",
     Sandbox_LootOther = "OTHER:",
     --
     Sandbox_Character = "Character",
@@ -550,4 +558,5 @@ Sandbox_EN = {
     Sandbox_ZombiesDragDown_tooltip = "When enabled if multiple zombies are attacking they can drag you down to feed. Dependent on zombie strength.",
     Sandbox_AttackBlockMovements = "MELEE MOVEMENT DISRUPTION:",
     Sandbox_AttackBlockMovements_tooltip = "Disable to walk unimpeded while melee attacking.",
+
 }
