@@ -405,4 +405,5 @@ ContextMenu_ES = {
     ContextMenu_AddPadding = "Añadir protección",
     ContextMenu_HotbarRadialRemove = "Quitar<br>%1",
     ContextMenu_NoWeaponsAvailable = "No hay armas disponibles.",
+	ContextMenu_CantRemovePatch = "Se necesita una aguja.",
 }

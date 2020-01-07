@@ -405,5 +405,7 @@ ContextMenu_EN = {
     ContextMenu_CantRepair = "Fabric, needle and thread required for clothing repair.",
     ContextMenu_PatchHole = "Patch Hole",
     ContextMenu_RemovePatch = "Remove Patch",
+    ContextMenu_CantRemovePatch = "Needle required.",
     ContextMenu_AddPadding = "Add Padding",
+    ContextMenu_NoWeaponsAvailable = "No weapons available.",
 }

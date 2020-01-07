@@ -1197,4 +1197,5 @@ Items_ES = {
 	DisplayName_Master_Tailoring = "Sastrería para maestros",
 	DisplayName_Tailoring_for_Beginners = "Sastrería para novatos",
 	DisplayName_Tailoring_for_Intermediates = "Sastrería intermedia",
+	DisplayName_Sewing_Kit = "Kit de costura",
 }
