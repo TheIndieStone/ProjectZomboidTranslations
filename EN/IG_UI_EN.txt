@@ -32,7 +32,7 @@ IGUI_EN = {
 	-- Health panel
 	IGUI_health_Scratched = "Scratched",
 	IGUI_health_Wounded = "Wounded",
-    IGUI_health_Cut = "Laceration",
+	IGUI_health_Cut = "Laceration",
 	IGUI_health_Bitten = "Bitten",
 	IGUI_health_Bleeding = "Bleeding",
 	IGUI_health_Bandaged = "Bandaged",
@@ -87,7 +87,7 @@ IGUI_EN = {
 	IGUI_health_Part = "Part",
 	IGUI_health_Bite = "Bite",
 	IGUI_health_Scratch = "Scratch",
-    IGUI_health_Burned = "Burned",
+	IGUI_health_Burned = "Burned",
 	-- Skills
 	IGUI_skills_Multiplier = "Multiplier: %1",
 	IGUI_XP_xp = " xp",
@@ -134,10 +134,10 @@ IGUI_EN = {
 	IGUI_perks_Fitness = "Fitness",
 	IGUI_perks_Electricity = "Electrical",
 	IGUI_perks_Mechanics = "Mechanics",
-    IGUI_perks_Blacksmith = "Smithing",
-    IGUI_perks_MetalWelding = "Metalworking",
-    IGUI_perks_Metalworking = "Metalworking",
-    IGUI_perks_Melting = "Smelting",
+	IGUI_perks_Blacksmith = "Smithing",
+	IGUI_perks_MetalWelding = "Metalworking",
+	IGUI_perks_Metalworking = "Metalworking",
+	IGUI_perks_Melting = "Smelting",
 	-- Item category
 	IGUI_ItemCat_Trap = "Trap",
 	IGUI_ItemCat_Key = "Key",
