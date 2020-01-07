@@ -970,4 +970,10 @@ IG_UI_ES = {
 	IGUI_garment_GlbDirt = "Suciedad",
 	IGUI_garment_Blood = "- Sangre ",
 	IGUI_garment_Hole = "- Agujero",
+	IGUI_DropItemsOnSquareCenter = "Tirar los objetos cerca del cuadrado central",
+	IGUI_Washing_Soap = "Jabón",
+	IGUI_Gametime_Survivor = "Apocalipsis",
+	IGUI_Gametime_Fighter = "Superviviente",
+	IGUI_Gametime_Builder = "Constructor",
+	IGUI_PlayerStats_LevelDown = "Bajar de nivel",
 }
