@@ -911,7 +911,7 @@ IGUI_CN = {
 	IGUI_climate_ColdFront = "冷锋（平静的天气）",
 	IGUI_climate_Generate = "生成",
 	IGUI_climate_weather_none = "当前天气（无）",
-	IGUI_climate_weather_dur = "当前天气，持续小时",
+	IGUI_climate_weather_dur = "当前天气，持续小时 = ",
 	IGUI_climate_total_progress = "当前天气总进度。",
 	IGUI_climate_segment_progress = "当前天气部分进度。",
 	IGUI_AdminPanel_MoveableCheat = "可动作家具作弊",
