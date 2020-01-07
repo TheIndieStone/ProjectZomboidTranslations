@@ -623,7 +623,7 @@ IGUI_CN = {
 	IGUI_ItemEditor_OffAge = "新鲜时间",
 	IGUI_ItemEditor_OffAgeMax = "腐烂时间",
 	IGUI_ItemEditor_UsedDelta = "使用量",
-	IGUI_ItemEditor_UsedDeltaTooltip = "0",
+	IGUI_ItemEditor_UsedDeltaTooltip = "0 = 空，1 = 满",
 	IGUI_TradingUI_Title = "交易界面",
 	IGUI_TradingUI_RequestTrade = "玩家 %1 想和你交易，是否接受？",
 	IGUI_TradingUI_WaitingAnswer = "等待玩家 %1 回应。",
