@@ -317,5 +317,5 @@ Recipes_ES = {
 	Recipe_Reclaim_Scissors_from_Spear = "Recuperar tijeras de la lanza",
 	Recipe_Reclaim_Screwdriver_from_Spear = "Recuperar destornillador de la lanza",
 	Recipe_Reclaim_Spoon_from_Spear = "Recuperar cuchara de la lanza",
-	Recipe_Make_Flint_Knife = "Hacer cuchillo de piedra",
+	Recipe_Make_Stone_Knife = "Hacer cuchillo de piedra",
 }

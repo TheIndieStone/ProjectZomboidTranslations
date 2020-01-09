@@ -976,4 +976,5 @@ IG_UI_ES = {
 	IGUI_Gametime_Fighter = "Superviviente",
 	IGUI_Gametime_Builder = "Constructor",
 	IGUI_PlayerStats_LevelDown = "Bajar de nivel",
+	IGUI_HeadlightFocusing = "Enfoque",
 }
