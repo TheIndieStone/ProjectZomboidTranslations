@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.19
-	-- Date 11-17-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -472,7 +472,7 @@
 	DisplayName_Salt = "食塩",
 	DisplayName_Sand_Bag = "土嚢(砂)",
 	DisplayName_Sandwich = "サンドイッチ",
-	DisplayName_Saw = "ノコギリ",
+	DisplayName_Saw = "鋸",
 	DisplayName_Sawn_Off_Shotgun = "散弾銃(銃身を切り詰めた)",
 	DisplayName_Schoolbag = "スクールバック",
 	DisplayName_Scissors = "ハサミ",

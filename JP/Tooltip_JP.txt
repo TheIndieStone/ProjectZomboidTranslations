@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.20
-	-- Date 11-19-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -200,7 +200,7 @@
 	Tooltip_Dashboard_TrunkUnlocked = "トランクが開いています。",
 	Tooltip_Dashboard_Trunk = "トランクが閉まっています。",
 	Tooltip_Dashboard_TrunkOpen = "トランクが開いています。",
-	Tooltip_CantCraftDriving = "運転中は何も製作できません。",
+	Tooltip_CantCraftDriving = "運転中は何も製作することができません。",
 	Tooltip_outoffuel = "燃料切れ",
 	Tooltip_craft_doubleWoodenDoorDesc = "車両を通過させるのに十分な大きさのゲートです。",
 	Tooltip_Vehicle_EngineCondition = "エンジン状態：%1",
@@ -231,10 +231,10 @@
 	Tooltip_item_FireMode = "発射モード",
 	Tooltip_item_Windresist = "耐風性",
 	Tooltip_item_Waterresist = "耐水性",
-	Tooltip_GetPatchBack = "%1 %の確率で修復されます。",
+	Tooltip_GetPatchBack = "%1%の確率で修復されます。",
 	Tooltip_FullyRestore = "完全に修復されます。",
-	Tooltip_NothingToRepair = "修理する場所がありません。",
-	Tooltip_NothingToRemove = "取り去る物がありません。",
+	Tooltip_NothingToRepair = "修繕する場所がありません。",
+	Tooltip_NothingToRemove = "取り去る所がありません。",
 	Tooltip_NothingToUpgrade = "改良する物がありません。",
 
 }
