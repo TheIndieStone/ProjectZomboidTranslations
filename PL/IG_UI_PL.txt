@@ -968,7 +968,7 @@ IGUI_PL = {
 	
 	IGUI_health_Back = "Wróæ",
 	IGUI_XP_ClothingIns = "Temperatura - DEBUGOWANIE",
-	IGUI_perks_Tailoring = "Szycie",
+	IGUI_perks_Tailoring = "Krawiectwo",
 	IGUI_FabricType_1 = "Kawa³ki materia³u",
 	IGUI_FabricType_2 = "Kawa³ki jeansu",
 	IGUI_FabricType_3 = "Kawa³ki skóry",
