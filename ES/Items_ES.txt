@@ -905,7 +905,6 @@ Items_ES = {
 	DisplayName_Firefighter_Helmet = "Casco de bombero",
 	DisplayName_Firefighter_Jacket = "Chaqueta de bombero",
 	DisplayName_Firefighter_Pants = "Pantalones de bombero",
-	DisplayName_Flint_Knife = "Cuchillo de piedra",
 	DisplayName_Flute = "Flauta",
 	DisplayName_Football_Helmet = "Casco de fútbol americano",
 	DisplayName_Foreman_Vest = "Chaleco de capataz",
@@ -1198,4 +1197,5 @@ Items_ES = {
 	DisplayName_Tailoring_for_Beginners = "Sastrería para novatos",
 	DisplayName_Tailoring_for_Intermediates = "Sastrería intermedia",
 	DisplayName_Sewing_Kit = "Kit de costura",
+	DisplayName_Stone_Knife = "Cuchillo de piedra",
 }
