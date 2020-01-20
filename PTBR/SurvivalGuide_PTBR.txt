@@ -29,4 +29,7 @@ SurvivalGuide_PTBR = {
     SurvivalGuide_entrie10title = "GUIA DO SOBREVIVENTE #10 - CLIMA",
     SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> GUIA DO SOBREVIVENTE <LINE> <SIZE:large> NOVIDADE - CLIMA <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Tempestades, neblina ou neve tornam a ameaça zumbi muito mais intensa! Se agasalhe bem quando o inverno dar sinais que está chegando...",
     SurvivalGuide_entrie10moreinfo = "<H1> MUDANÇA DE CLIMA <BR> <TEXT> Padrões climáticos são realistas em Project Zomboid. Um sistema simulado de clima usa a parte do ano, e frentes climáticas virtuais, para criar chuva, neblina, neve e trovoadas em seus respectivos períodos do ano <LINE>  ..",
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> GUIA DO SOBREVIVENTE <LINE> <SIZE:large> NOVO - CORRIDA RÁPIDA E MODO FURTIVO <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - Modo Furtivo <LINE> %2 - Corrida Rápida <LINE> %3 - Corrida",
+    SurvivalGuide_entrie11moreinfo = "<H1> AGACHE-SE <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> Sobreviventes agora podem se agachar atrás de muros e cercas para reduzir sua visibilidade! <LINE> Você também pode correr nesta posição <LINE> <BR>  ..",
+    SurvivalGuide_entrie11title = "GUIA DO SOBREVIVENTE #11 - CORRIDA RÁPIDA E MODO FURTIVO",
 }
