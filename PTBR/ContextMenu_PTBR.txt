@@ -1,6 +1,6 @@
 ContextMenu_PTBR = {
-    ContextMenu_VehicleHotwireSkill = "Você precisa das chaves ou<br>Elétrica nível 1 e<br>Mecânica nível 2<br>para uma ligação direta.",
-    ContextMenu_GetCloserToTrade = "Você precisa chegar mais perto de %1 para negociar.",
+    ContextMenu_VehicleHotwireSkill = "Você precisa das chaves ou<br>Elétrica nível 1 e<br>Mecânica nível 2<br>para uma ligação direta",
+    ContextMenu_GetCloserToTrade = "Você precisa chegar mais perto de %1 para negociar",
     ContextMenu_ReverseCap = "Virar Boné",
     ContextMenu_UpHoodie = "Vestir Capuz",
     ContextMenu_Wear = "Vestir",
