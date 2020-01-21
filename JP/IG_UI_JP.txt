@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.20
-	-- Date 11-19-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -690,13 +690,13 @@
 	IGUI_VehiclePartTireRearLeft = "左リヤタイヤ",
 	IGUI_VehiclePartTireRearRight = "右リヤタイヤ",
 	IGUI_VehiclePartSeatFrontLeft = "運転席シート",
-	IGUI_VehiclePartSeatFrontRight = "前部左シート",
-	IGUI_VehiclePartSeatMiddleLeft = "中央右シート",
-	IGUI_VehiclePartSeatMiddleRight = "中央左シート",
-	IGUI_VehiclePartSeatRearLeft = "後部右シート",
-	IGUI_VehiclePartSeatRearRight = "後部左シート",
-	IGUI_VehiclePartSeatRear2Left = "中央左シート",
-	IGUI_VehiclePartSeatRear2Right = "中央右シート",
+	IGUI_VehiclePartSeatFrontRight = "前部右シート",
+	IGUI_VehiclePartSeatMiddleLeft = "中央左シート",
+	IGUI_VehiclePartSeatMiddleRight = "中央右シート",
+	IGUI_VehiclePartSeatRearLeft = "後部左シート",
+	IGUI_VehiclePartSeatRearRight = "後部右シート",
+	IGUI_VehiclePartSeatRear2Left = "後部左シート2",
+	IGUI_VehiclePartSeatRear2Right = "後部右シート2",
 	IGUI_VehiclePartGasTank = "燃料タンク",
 	IGUI_VehiclePartRadio = "ラジオ",
 	IGUI_VehiclePartHeadlightLeft = "ヘッドライト左",
@@ -841,10 +841,10 @@
 	IGUI_Vehicle_ContainerCapacity_Other = "%1：%2",
 	IGUI_Vehicle_SeatOccupied = "シート使用中",
 	IGUI_VehicleLightbar_Title = "散光式警光灯",
-	IGUI_VehicleLightbar_ALARM = "ALARM音",
 	IGUI_VehicleLightbar_STANDBY = "サイレン停止",
-	IGUI_VehicleLightbar_WALL = "WALL音",
+	IGUI_VehicleLightbar_ALARM = "ALARM音",
 	IGUI_VehicleLightbar_YELP = "YELP音",
+	IGUI_VehicleLightbar_WAIL = "WAIL音",
 	IGUI_VehicleNameAmbulanceBurnt = "シェバリア ステップ バン",
 	IGUI_VehicleNameLuxuryCarBurnt = "マーシーアー ラング 4000",
 	IGUI_VehicleNameNormalCarBurntPolice = "シェバリア ニアラ",
@@ -994,5 +994,42 @@
 	IGUI_FabricType_1 = "布切れ",
 	IGUI_FabricType_2 = "布地",
 	IGUI_FabricType_3 = "革",
+	IGUI_invpanel_Inspect = "状態を詳しく見る",
+
+	--Temperature Panel
+
+	IGUI_Temp_SkinTemperature = "温度",
+	IGUI_Temp_BloodVessels = "血管",
+	IGUI_Temp_ShiverPerspiration = "震え / 汗",
+	IGUI_Temp_BodyWetness = "身体の濡れ",
+	IGUI_Temp_ClothingWetness = "被服の濡れ",
+	IGUI_Temp_Insulation = "断熱",
+	IGUI_Temp_WindResistance = "耐風",
+	IGUI_Temp_Vasoconstriction = "血管収縮",
+	IGUI_Temp_Vasodilation = "血管拡張",
+	IGUI_Temp_Shivering = "震え",
+	IGUI_Temp_Perspiring = "汗",
+	IGUI_Temp_Cold = "低い",
+	IGUI_Temp_Normal = "普通",
+	IGUI_Temp_Hot = "高い",
+	IGUI_Temp_Dry = "乾燥",
+	IGUI_Temp_Soaked = "濡れ",
+	IGUI_Temp_Low = "低",
+	IGUI_Temp_Med = "中",
+	IGUI_Temp_High = "高",
+	IGUI_Temp_BodyResponse = "身体反応",
+	IGUI_Temp_FightCold = "低い",
+	IGUI_Temp_FightHot = "高い",
+	IGUI_Temp_AdvView = "詳細表示",
+	IGUI_Temp_DefView = "通常表示",
+	IGUI_Temp_CoreTemp = "体温",
+	IGUI_Temp_BodyHeat = "体熱",
+
+	IGUI_garment_CantRepair = "修繕することができません。",
+	IGUI_garment_BodyPart = "部位",
+	IGUI_garment_GlbBlood = "血液付着の程度",
+	IGUI_garment_GlbDirt = "汚れの程度",
+	IGUI_garment_Blood = "- 血液 ",
+	IGUI_garment_Hole = "- 破損",
 
 }
