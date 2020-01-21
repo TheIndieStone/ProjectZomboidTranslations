@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.20
-	-- Date 11-19-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -57,9 +57,9 @@
 	ContextMenu_Unequip = "装備から外す",
 	ContextMenu_Apply_Bandage = "使う",
 	ContextMenu_Dry_myself = "身体を拭く",
-	ContextMenu_Drop = "地面に置く",
+	ContextMenu_Drop = "置く",
 	ContextMenu_Full = "最大(%1)",
-	ContextMenu_Dig = "耕す",
+	ContextMenu_Dig = "掘る",
 	ContextMenu_Fertilize = "肥料を撒く",
 	ContextMenu_Sow_Seed = "種子を蒔く",
 	ContextMenu_Info = "情報",
@@ -259,7 +259,7 @@
 	ContextMenu_RemoveLightbulb = "電球を取り外す",
 	ContextMenu_SetAlarm = "アラームを設定する",
 	ContextMenu_StopAlarm = "アラームを停止する",
-	ContextMenu_DigWithHands = "手で耕す",
+	ContextMenu_DigWithHands = "手で掘る",
 	ContextMenu_DigWithHandsTT = "手を負傷する可能性がある",
 	ContextMenu_Wooden_Wall_Frame = "木枠",
 	ContextMenu_MetalWallFrame = "金属枠",
@@ -306,7 +306,7 @@
 	ContextMenu_Blacksmith = "鍛造",
 	ContextMenu_Stone_Furnace = "石炉",
 	ContextMenu_Anvil = "金床",
-	ContextMenu_UseBellows = "鞴(ふいご)を使う",
+	ContextMenu_UseBellows = "鞴を使う",
 	ContextMenu_LitDrum = "ドラム缶に火を付ける",
 	ContextMenu_RemoveCharcoal = "木炭を取る",
 	ContextMenu_MetalBarBarricade = "バリケードを築く(金属棒)",
@@ -390,7 +390,7 @@
 	ContextMenu_NoMagazineFound = "%1の弾倉がありません",
 	ContextMenu_Rack = "%1から1発の実包を抜き取る",
 	ContextMenu_Unjam = "%1の装填不良を直す",
-	ContextMenu_InsertBullets = "%2を%1発装填する",
+	ContextMenu_InsertBullets = "%3に%2を%1発装填する",
 	ContextMenu_TrimBeard = "髭を剃る",
 	ContextMenu_TrimBeard_For = "%1の形に剃る",
 	ContextMenu_CutHair = "髪毛を切る",
@@ -415,5 +415,10 @@
 	ContextMenu_NeedSoap = "石鹸が必要です。",
 	ContextMenu_Patch = "修繕及び改良",
 	ContextMenu_CantRepair = "被服の修繕には、布地もしくは革、縫い針、手縫い糸が必要です。",
+	ContextMenu_HotbarRadialRemove = "移動する<br>%1",
+	ContextMenu_PatchHole = "継ぎ合わせをする",
+	ContextMenu_RemovePatch = "継ぎ合わせを外す",
+	ContextMenu_AddPadding = "継ぎ合わせを追加する",
+	ContextMenu_NoWeaponsAvailable = "武器がありません。",
 
 }

@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.20
-	-- Date 11-19-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -139,7 +139,7 @@
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "一息入れるべきだ。",
 	Moodles_endurance_desc_lvl2 = "かろうじて走れる。",
-	Moodles_endurance_desc_lvl3 = "かろうじて歩ける。",
+	Moodles_endurance_desc_lvl3 = "かろうじて歩るける。",
 	Moodles_endurance_desc_lvl4 = "息途絶え途絶え。",
 
 	-- Angry
@@ -203,10 +203,10 @@
 	Moodles_bleed_desc_lvl4 = "死が差し迫っている。",
 
 	-- Wet
-	Moodles_wet_desc_lvl1 = "雨を避けよう。",
-	Moodles_wet_desc_lvl2 = "移動速度がわずかに低下した。",
-	Moodles_wet_desc_lvl3 = "移動速度が低下した。風邪を引く危険性がある。",
-	Moodles_wet_desc_lvl4 = "移動速度が大幅に低下した。風邪を引く危険性大！",
+	Moodles_wet_desc_lvl1 = "少し湿っている。汗をかいているか、雨が降っている。",
+	Moodles_wet_desc_lvl2 = "湿っている。汗をかいているか、雨が降っている。",
+	Moodles_wet_desc_lvl3 = "濡れている。風邪を引く危険性がある。",
+	Moodles_wet_desc_lvl4 = "ずぶ濡れ。風邪を引く危険性大！",
 
 	-- Has a cold
 	Moodles_hasacold_desc_lvl1 = "肌寒く感じる。",

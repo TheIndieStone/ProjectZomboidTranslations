@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.20
-	-- Date 11-19-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -27,7 +27,7 @@
 	Recipe_Craft_Spiked_Plank = "釘板を作る",
 	Recipe_Empty_Whisky_Bottle = "ウィスキーボトルを空にする",
 	Recipe_Rip_bandages = "破って包帯にする",
-	Recipe_Saw_Logs = "丸太をノコギリで切る",
+	Recipe_Saw_Logs = "丸太を鋸で切る",
 	Recipe_Make_Pot_of_Soup = "缶詰(スープ)を調理鍋に入れる",
 	Recipe_Slice_Watermelon = "スイカを薄切りにする",
 	Recipe_Smash_Watermelon = "スイカを割る",
@@ -306,7 +306,7 @@
 	Recipe_Make_Paperclips = "クリップを作る",
 	Recipe_Make_Roasting_Pan = "ローストパン(空っぽ)を作る",
 	Recipe_Make_Saucepan = "ソースパン(空っぽ)を作る",
-	Recipe_Make_Saw = "ノコギリを作る",
+	Recipe_Make_Saw = "鋸を作る",
 	Recipe_Make_Scissors = "ハサミを作る",
 	Recipe_Make_Sheet_Metal = "金属板(大きい)を作る",
 	Recipe_Make_Shotgun_Shells = "弾頭(散弾実包)を作る",
@@ -345,6 +345,14 @@
 	Recipe_Create_Spear = "槍を製作する",
 	Recipe_Make_Stake = "杭を作る",
 	Recipe_Smash_Bottle = "割れたボトルを作る",
+	Recipe_Open_Box_of_.556_Ammo = "箱を開ける",
+	Recipe_Place_.556_Ammo_in_Box = "箱に入れる",
+	Recipe_Make_Bowl_of_Cereal = "シリアルをボウルに入れる",
+	Recipe_Make_Bowl_of_Oatmeal = "オートミールをボウルに入れる",
+	Recipe_Empty_Whiskey_Bottle = "ウィスキーボトルを空にする",
+	Recipe_Empty_Whisky_Bottle = "ウィスキーボトルを空にする",
+	Recipe_Stir_fry_Griddle_Pan = "ソテー",
+	Recipe_Dismantle_Flashlight = "懐中電灯を解体する",
 	Recipe_Attach_Bread_Knife_to_Spear = "槍にパン切りナイフを取り付ける",
 	Recipe_Attach_Butter_Knife_to_Spear = "槍にバターナイフを取り付ける",
 	Recipe_Attach_Fork_to_Spear = "槍にフォークを取り付ける",
@@ -358,13 +366,20 @@
 	Recipe_Attach_Screwdriver_to_Spear = "槍にスクリュードライバーを取り付ける",
 	Recipe_Attach_Spoon_to_Spear = "槍にスプーンを取り付ける",
 	Recipe_Attach_Kitchen_Knife_to_Spear = "槍に包丁を取り付ける",
-	Recipe_Open_Box_of_.556_Ammo = "箱を開ける",
-	Recipe_Place_.556_Ammo_in_Box = "箱に入れる",
-	Recipe_Make_Bowl_of_Cereal = "シリアルをボウルに入れる",
-	Recipe_Make_Bowl_of_Oatmeal = "オートミールをボウルに入れる",
-	Recipe_Empty_Whiskey_Bottle = "ウィスキーボトルを空にする",
-	Recipe_Empty_Whisky_Bottle = "ウィスキーボトルを空にする",
-	Recipe_Stir_fry_Griddle_Pan = "ソテー",
-	Recipe_Dismantle_Flashlight = "懐中電灯を解体する",
+	Recipe_Reclaim_Bread_Knife_from_Spear = "槍からパン切りナイフを取り外す",
+	Recipe_Reclaim_Butter_Knife_from_Spear = "槍からバターナイフを取り外す",
+	Recipe_Reclaim_Fork_from_Spear = "槍からフォークを取り外す",
+	Recipe_Reclaim_Hand_Fork_from_Spear = "槍から鋤を取り外す",
+	Recipe_Reclaim_Hunting_Knife_from_Spear = "槍からハンティングナイフを取り外す",
+	Recipe_Reclaim_Ice_Pick_from_Spear = "槍からアイスピックを取り外す",
+	Recipe_Reclaim_Letter_Opener_from_Spear = "槍からレターオープナーを取り外す",
+	Recipe_Reclaim_Machete_from_Spear = "槍から鉈を取り外す",
+	Recipe_Reclaim_Scalpel_from_Spear = "槍からメス(医療用)を取り外す",
+	Recipe_Reclaim_Scissors_from_Spear = "槍からハサミを取り外す",
+	Recipe_Reclaim_Screwdriver_from_Spear = "槍からスクリュードライバーを取り外す",
+	Recipe_Reclaim_Spoon_from_Spear = "槍からスプーンを取り外す",
+	Recipe_Reclaim_Kitchen_Knife_to_Spear = "槍から包丁を取り外す",
+	Recipe_Clean_Denim_Strips = "布地を洗う",
+	Recipe_Clean_Leather_Strips = "革を洗う",
 
 }
