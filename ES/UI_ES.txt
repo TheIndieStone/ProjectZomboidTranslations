@@ -1232,4 +1232,12 @@ UI_ES = {
 	UI_mods_ModOptions = "Opciones...",
 	UI_NewGame_Mods = "Mods",
 	UI_NewGame_ChooseMods = "Elegir mods...",
+	UI_LoadGameScreen_ButtonChooseMods = "Elegir mods...",
+	UI_LoadGameScreen_ChooseModsText = "Puedes cambiar los mods que utiliza esta partida guardada. Cambiar los mods ahora puede afectar negativamente a la partida. Añadir o quitar mapas no está soportado.",
+	UI_LoadGameScreen_ButtonBrowseFiles = "Abrir ubicación del archivo",
+	UI_LoadGameScreen_BrowseFilesText = "Mostrar el contenido de esta partida guardada en tu ordenador.",
+	UI_LoadGameScreen_ButtonConfig = "MÁS...",
+	UI_LoadGameScreen_ButtonFiles = "PARTIDAS",
+	UI_ModsNagPanel_Title = "Acerca de los Mods",
+	UI_ModsNagPanel_Text = "Los mods son creados por miembros de la comunidad de Project Zomboid. <BR> Los mods creados para una versión anterior del juego pueden no funcionar con versiones más recientes.  Especialmente cuando se juega en la rama I-Will-Back-Up-My-Save (IWBUMS). <BR> Si encuentras errores al jugar a Project Zomboid, por favor, intenta jugar una partida sin usar ningún mod antes de informar de los problemas en nuestros foros.",
 }
