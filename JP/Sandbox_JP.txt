@@ -2,8 +2,8 @@
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.20
-	-- Date 11-19-2019
+	-- Build-41.23
+	-- Date 12-19-2019
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -353,17 +353,23 @@
 	--
 
 	Sandbox_LootRarity = "戦利品の設定",
+	Sandbox_LootFood = "食品",
+	Sandbox_LootCannedFood = "缶詰食品",
+	Sandbox_LootWeapon = "近接武器",
+	Sandbox_LootAmmo = "弾薬",
+	Sandbox_LootMedical = "医薬品",
+	Sandbox_LootSurvivalGears = "サバイバル用品",
+	Sandbox_LootSurvivalGears_tooltip = "種子、鋸、釘、道具、工具、釣り竿...",
+	Sandbox_LootLiterature = "書籍",
+	Sandbox_LootRangedWeapon = "遠隔武器",
+	Sandbox_LootMechanics = "車両部品",
+	Sandbox_LootOther = "日用品その他",
 
-	Sandbox_LootFood = "食料品",
 	Sandbox_Rarity_option1 = "とても少ない",
 	Sandbox_Rarity_option2 = "少ない",
 	Sandbox_Rarity_option3 = "普通",
 	Sandbox_Rarity_option4 = "多い",
 	Sandbox_Rarity_option5 = "物凄く多い",
-
-	Sandbox_LootWeapon = "武器類",
-
-	Sandbox_LootOther = "日用品その他",
 
 	--
 
@@ -630,7 +636,7 @@
 	Sandbox_ZombieOptions = "ゾンビ数の設定",
 
 	Sandbox_PopulationMultiplier = "ゲーム開始時のゾンビ数",
-	Sandbox_PopulationMultiplier_help = "サンドボックスモードでのゾンビカウント数の設定",
+	Sandbox_PopulationMultiplier_help = "ゲーム開始時のゾンビ数の増減を設定します。\n狂気 = 4.0、非常に多い = 3.0、多い = 2.0、普通 = 1.0、少ない = 0.35、無し = 0.0",
 
 	Sandbox_PopulationStartMultiplier = "スタート時の最大ゾンビ数",
 	Sandbox_PopulationStartMultiplier_help = "ゲーム開始時のゾンビを希望に応じて増減させます。",
@@ -668,7 +674,7 @@
 	Sandbox_RallyGroupRadius = "ゾンビ集団内の密度",
 	Sandbox_RallyGroupRadius_help = "ゾンビ集団のリーダーとメンバーとの距離を設定します。",
 
-	Sandbox_MinMaxDefault = "\n設定数値 最大 = %2 通常 = %3 最小 = %1",
+	Sandbox_MinMaxDefault = "\n設定数値 最大値 = %2 通常値 = %3 最小値 = %1",
 
 
 	Sandbox_ZombieRespawn = "ゾンビの再配置間隔",

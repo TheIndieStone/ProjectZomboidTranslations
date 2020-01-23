@@ -1,0 +1,3 @@
+ItemName_NL = {
+    ItemName_Base.Apron_IceCream = "Ice Cream Server Schort",
+}
