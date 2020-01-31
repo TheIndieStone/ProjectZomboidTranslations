@@ -222,4 +222,7 @@ Tooltip_ES = {
     Tooltip_NothingToRepair = "Ningún defecto que reparar",
     Tooltip_FullyRestore = "Se reparará completamente.",
     Tooltip_NothingToRemove = "Nada para quitar",
+	Tooltip_Dashboard_PutKeysInIgnition = "Poner llave en contacto",
+	Tooltip_Dashboard_NoKey = "No se ha encontrado la llave de este coche",
+	Tooltip_Dashboard_Hotwired = "Puenteado",
 }

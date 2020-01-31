@@ -206,7 +206,7 @@ Tooltip_EN = {
     Tooltip_weapon_NoClip = "Need magazine to operate."
     Tooltip_BiteDefense = "Bite Defense",
     Tooltip_ScratchDefense = "Scratch Defense",
-    Tooltip_requireRazorOrScissors = "Require a Razor or Scissors",
+    Tooltip_requireRazorOrScissors = "Require a Razor or Scissors";
     Tooltip_RequireScissors = "Require Scissors",
     Tooltip_RunSpeedModifier = "Run speed modifier",
     Tooltip_CombatSpeedModifier = "Combat speed modifier",
@@ -223,4 +223,7 @@ Tooltip_EN = {
     Tooltip_NothingToRepair = "No Holes to repair",
     Tooltip_NothingToRemove = "Nothing to remove",
     Tooltip_NothingToUpgrade = "Nothing to upgrade",
+    Tooltip_Dashboard_PutKeysInIgnition = "Put Key in Ignition",
+    Tooltip_Dashboard_NoKey = "No Key for this car found",
+    Tooltip_Dashboard_Hotwired = "Hotwired",
 }
