@@ -1240,4 +1240,7 @@ UI_ES = {
 	UI_LoadGameScreen_ButtonFiles = "PARTIDAS",
 	UI_ModsNagPanel_Title = "Acerca de los Mods",
 	UI_ModsNagPanel_Text = "Los mods son creados por miembros de la comunidad de Project Zomboid. <BR> Los mods creados para una versión anterior del juego pueden no funcionar con versiones más recientes.  Especialmente cuando se juega en la rama I-Will-Back-Up-My-Save (IWBUMS). <BR> Si encuentras errores al jugar a Project Zomboid, por favor, intenta jugar una partida sin usar ningún mod antes de informar de los problemas en nuestros foros.",
+	UI_optionscreen_zombie_update_optimization = "Zombis actualizados escalonadamente",
+	UI_optionscreen_binding_ToggleGodModeInvisible = "Alternar modo Dios e invisible",
+	UI_optionscreen_render_rain_indoors = "Renderizar lluvia al estar en interiores",
 }
