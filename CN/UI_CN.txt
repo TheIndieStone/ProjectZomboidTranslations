@@ -1265,7 +1265,7 @@
 	UI_NewGame_Builder = "工程师",
 	UI_NewGame_Builder_desc = "以建设、探索和种田为重点。更轻松的体验。",
 	UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格",
-	UI_News_Anim = "<H1> 欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <LINE> <CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个进行中版本。 <BR> 会出现错误和平衡问题。优化改进正在进行中。 <BR> 一部分功能已暂时禁用。 <BR> 如果您遇到问题：请不要生气，参与进来。请在我们的论坛上让我们知道。 <LINE> <LINE> 我们正在招募汉化组成员，有意者请加Q群：492973342， <BR> 或直接在Github上参与进来，感谢！ <BR> 同时也欢迎各位玩家加群一起联机体验最新的内容！",
+	UI_News_Anim = "<H1> 欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <LINE> <CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本。 <BR> 会出现错误和平衡问题。 优化改进正在进行中。 一部分功能已暂时禁用。 <BR> 如果您遇到问题：请不要生气，参与进来。 请在我们的论坛或Q群上让咱们知道。 <LINE> <BR> <LINE> 我们正在招募汉化组成员，有意者如发现汉化问题或有任何建议， <BR> 请加Q群： 492973342 反馈，或直接在 Github 上参与进来，感谢！ <BR> 同时也欢迎各位玩家加群一起联机体验最新版本的内容！",
 	UI_optionscreen_binding_Hotbar 1 = "快捷栏 1",
 	UI_optionscreen_binding_Hotbar 2 = "快捷栏 2",
 	UI_optionscreen_binding_Hotbar 3 = "快捷栏 3",
