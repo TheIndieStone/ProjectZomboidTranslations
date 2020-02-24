@@ -556,4 +556,5 @@ Sandbox_ES = {
 	Sandbox_LootRangedWeapon = "ARMAS DE FUEGO:",
 	Sandbox_LootAmmo = "MUNICIÓN:",
 	Sandbox_LootMechanics = "MECÁNICA:",
+	Sandbox_VehicleStoryChance = "HISTORIAS DE VEHÍCULOS AL AZAR:",
 }
