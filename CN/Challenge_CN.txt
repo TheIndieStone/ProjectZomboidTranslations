@@ -46,7 +46,7 @@ Challenge_CN = {
 	Challenge_Challenge2_TabRepair = "修理",
 	-- PlayerUpWindow
 	Challenge_Challenge2_Skills = "技能",
-	Challenge_Challenge2_PermanentBonus = "永久奖励",
+	Challenge_Challenge2_PermanentBonus = "永久加成",
 	-- VariousItemWindow
 	Challenge_Challenge2_Carpentry = "木工",
 	Challenge_Challenge2_Health = "医疗",
