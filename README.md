@@ -25,6 +25,8 @@ Contributing to the repository is voluntary and abides by the Project Zomboid Te
 
 If you want to join as a contributor instead of forking, then create an issue and notify Connall, send me a message on theindiestone.com or through Discord. There are numerous ways to get a hold of me.
 
+If you have questions you can click the link below to get to the Discord server and post to the #translations channel.
+
 
 ## Links
 
