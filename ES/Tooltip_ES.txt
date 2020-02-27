@@ -225,4 +225,5 @@ Tooltip_ES = {
 	Tooltip_Dashboard_PutKeysInIgnition = "Poner llave en contacto",
 	Tooltip_Dashboard_NoKey = "No se ha encontrado la llave de este coche",
 	Tooltip_Dashboard_Hotwired = "Puenteado",
+	Tooltip_weapon_NoRoundChambered = "Ningún proyectil en la recámara. Amartilla el arma.",
 }
