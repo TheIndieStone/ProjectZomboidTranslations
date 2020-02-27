@@ -1027,6 +1027,11 @@ IGUI_EN = {
     IGUI_garment_Blood = "- Blood ",
     IGUI_garment_Hole = "- Hole",
     IGUI_HouseKey = "House Key",
+    IGUI_Lights = "Lights",
+    IGUI_PowerConsumption = "Power Consumption",
+    IGUI_Total = "Total",
+    IGUI_StartSprint = "Sprint",
+    IGUI_StopSprint = "Jog",
 }
 
 
