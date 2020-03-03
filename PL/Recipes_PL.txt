@@ -331,4 +331,8 @@ Recipe_Make_Metal_Walls = "Zrób metalowe œciany",
 	Recipe_Reclaim_Scissors_from_Spear = "Zdejmij no¿yczki z w³óczni",
 	Recipe_Reclaim_Screwdriver_from_Spear = "Zdejmij œrubokrêt z w³óczni",
 	Recipe_Reclaim_Spoon_from_Spear = "Zdejmij ³y¿kê z w³óczni",
+	
+	Recipe_Make_Stone_Knife = "Zrób nó¿ z kamienia",
+	Recipe_Reclaim_Kitchen_Knife_from_Spear = "Zdejmij nó¿ kuchenny z w³óczni",
+
 }

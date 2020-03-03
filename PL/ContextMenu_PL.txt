@@ -409,4 +409,6 @@ ContextMenu_PL = {
 	ContextMenu_AddPadding = "Dodaj materia³",
 	
 	ContextMenu_NoWeaponsAvailable = "Brak dostêpnej broni.",
+	
+	ContextMenu_CantRemovePatch = "Potrzebujesz ig³y.",
 }
