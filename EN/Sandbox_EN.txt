@@ -392,6 +392,7 @@ Sandbox_EN = {
     Sandbox_GeneratorSpawning_option5 = "Very often",
     Sandbox_GeneratorFuelConsumption = "GENERATOR FUEL CONSUMPTION:",
     Sandbox_GeneratorFuelConsumption_tooltip = "Impacts how much fuel is consumed by generators. A generator that needs no fuel should be set to 0.0.",
+    Sandbox_VehicleStoryChance = "RANDOMIZED VEHICLE STORIES CHANCE:",
     Sandbox_SurvivorHouseChance = "RANDOMIZED HOUSE CHANCE:",
     Sandbox_SurvivorHouseChance_tooltip = "Increase/decrease probability of discovering randomized safe houses on the map: either burnt out, containing loot stashes, dead survivor bodies etc.",
     Sandbox_SurvivorHouseChance_option1 = "Never",
