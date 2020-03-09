@@ -972,8 +972,7 @@ IG_UI_ES = {
 	IGUI_garment_Hole = "- Agujero",
 	IGUI_DropItemsOnSquareCenter = "Tirar los objetos cerca del cuadrado central",
 	IGUI_Washing_Soap = "Jabón",
-	IGUI_Gametime_Survivor = "Apocalipsis",
-	IGUI_Gametime_Fighter = "Superviviente",
+	IGUI_Gametime_Survivor = "Superviviente",
 	IGUI_Gametime_Builder = "Constructor",
 	IGUI_PlayerStats_LevelDown = "Bajar de nivel",
 	IGUI_HeadlightFocusing = "Enfoque",
@@ -993,4 +992,7 @@ IG_UI_ES = {
 	IGUI_Total = "Total",
 	IGUI_StartSprint = "Correr",
 	IGUI_StopSprint = "Trotar",
+	IGUI_IsOperational = "Necesita ser apagado.",
+	IGUI_Gametime_Apocalypse = "Apocalipsis",
+	IGUI_Washing_WithoutSoap = "No hay suficiente jabón (más lento)",
 }
