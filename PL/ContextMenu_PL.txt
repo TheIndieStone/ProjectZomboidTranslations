@@ -411,4 +411,9 @@ ContextMenu_PL = {
 	ContextMenu_NoWeaponsAvailable = "Brak dostêpnej broni.",
 	
 	ContextMenu_CantRemovePatch = "Potrzebujesz ig³y.",
+	
+	ContextMenu_Add_escape_rope = "Zamontuj linê",
+	ContextMenu_Remove_escape_rope = "Zdejmij linê",
+	ContextMenu_Add_escape_rope_sheet = "Zamontuj linê z przeœcierad³a",
+	ContextMenu_Remove_escape_rope_sheet = "Zdejmij linê linê z przeœcierad³a",
 }

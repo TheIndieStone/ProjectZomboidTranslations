@@ -1265,4 +1265,7 @@ UI_PL = {
 	UI_optionscreen_DblTapRunToSprint = "Wciœniêcie 2 razy %1 rozpoczyna sprint",
 	UI_optionscreen_DblTapRunToSprintTooltip = "Jeœli opcja jest zaznaczona, wciœniêcie 2 razy %1 rozpocznie sprint. \n By biec dalej sprintem, przytrzymuj %1.",
 	UI_optionscreen_render_rain_indoors = "Wyœwietlanie deszczu, bêd¹c w pomieszczeniu",
+	
+	UI_NewGame_Apocalypse = "Apokalipsa",
+	UI_NewGame_Apocalypse_desc = "Nacisk na skradanie siê. Krótki przewidywany czas prze¿ycia. Zaleca siê unikanie walki.",
 }

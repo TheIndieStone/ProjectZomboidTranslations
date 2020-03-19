@@ -1033,4 +1033,8 @@ IGUI_PL = {
 	IGUI_StartSprint = "Sprint",
 	IGUI_StopSprint = "Bieg",
 	
+	IGUI_Gametime_Apocalypse = "Apokalipsa",
+	IGUI_VehiclePartlightbar = "Lampa ostrzegawcza",
+	IGUI_Washing_WithoutSoap = "Czyszczenie bez myd³a (wolniejsze)",
+	
 }
