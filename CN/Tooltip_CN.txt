@@ -202,6 +202,7 @@ Tooltip_CN = {
 	Tooltip_item_Insulation = "保温性能",
 	Tooltip_NeedWrench = "你需要一个 %1 来做这个。",
 	Tooltip_weapon_Jammed = "武器卡壳，手动退膛。",
+	Tooltip_weapon_NoRoundChambered = "枪膛内没有子弹。 上膛。",
 	Tooltip_weapon_ContainsClip = "内含弹匣。",
 	Tooltip_weapon_NoClip = "需要弹匣来操作。",
 	Tooltip_BiteDefense = "咬伤防御",
@@ -222,5 +223,8 @@ Tooltip_CN = {
 	Tooltip_FullyRestore = "会完全恢复。",
 	Tooltip_NothingToRepair = "无洞可补",
 	Tooltip_NothingToRemove = "没东西可拿掉",
-	Tooltip_NothingToUpgrade = "没东西升级",
+	Tooltip_NothingToUpgrade = "没东西可升级",
+	Tooltip_Dashboard_PutKeysInIgnition = "把钥匙插到点火开关里",
+	Tooltip_Dashboard_NoKey = "找不到这辆车的钥匙",
+	Tooltip_Dashboard_Hotwired = "已短接",
 }
