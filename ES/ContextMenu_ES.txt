@@ -406,4 +406,8 @@ ContextMenu_ES = {
     ContextMenu_HotbarRadialRemove = "Quitar<br>%1",
     ContextMenu_NoWeaponsAvailable = "No hay armas disponibles.",
 	ContextMenu_CantRemovePatch = "Se necesita una aguja.",
+	ContextMenu_Add_escape_rope = "Colocar cuerda",
+	ContextMenu_Remove_escape_rope = "Quitar cuerda",
+	ContextMenu_Add_escape_rope_sheet = "Colocar cuerda (sábana)",
+	ContextMenu_Remove_escape_rope_sheet = "Quitar cuerda (sábana)",
 }

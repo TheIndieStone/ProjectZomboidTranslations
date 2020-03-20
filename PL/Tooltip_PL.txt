@@ -224,4 +224,9 @@ Tooltip_PL = {
 	Tooltip_NothingToRepair = "Brak dziur do zaszycia",
 	Tooltip_NothingToRemove = "Brak elementów do usuniêcia",
 	Tooltip_NothingToUpgrade = "Brak elementów do ulepszenia",
+	
+	Tooltip_weapon_NoRoundChambered = "Brak naboju w komorze. Zarepetuj broñ.",
+	Tooltip_Dashboard_PutKeysInIgnition = "W³ó¿ kluczyk do stacyjki",
+	Tooltip_Dashboard_NoKey = "Nie masz klucza do tego samochodu",
+	Tooltip_Dashboard_Hotwired = "Odpalanie na krótko",
 }
