@@ -95,4 +95,6 @@ Stash_PL = {
     Stash_RosewoodStashMap3_Text11 = "Stary dom mamy. Tu siê spotkamy :*",
     Stash_RosewoodStashMap3_Text2 = "tu mo¿e byæ broñ - warto sprawdziæ",
     Stash_RosewoodStashMap3_Text3 = "nie idŸ tam",
+	
+	Stash_MarchRidgeMap6_Text3 = "rozpêta³o siê tu piek³o",
 };
