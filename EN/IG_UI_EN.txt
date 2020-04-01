@@ -190,8 +190,8 @@ IGUI_EN = {
     IGUI_Gametime_Multiplayer = "Multiplayer",
     IGUI_Gametime_Sandbox = "Sandbox",
     IGUI_Gametime_Survival = "Survival",
-    IGUI_Gametime_Survivor = "Apocalypse",
-    IGUI_Gametime_Fighter = "Survivor",
+    IGUI_Gametime_Apocalypse = "Apocalypse",
+    IGUI_Gametime_Survivor = "Survivor",
     IGUI_Gametime_Builder = "Builder",
     IGUI_Gametime_Tutorial = "Tutorial",
     IGUI_Gametime_month = "month",
@@ -416,6 +416,7 @@ IGUI_EN = {
     IGUI_NeedToBeStandingInside = "You need to be standing inside.",
     IGUI_MustPlaceRoomRoof = "Must be placed in room with a roof.",
     IGUI_RainCollectorHasWater = "Has water inside.",
+    IGUI_IsOperational = "Needs to be turned off.",
 
     --radio
     IGUI_DeviceOptions = "Device options",
@@ -988,6 +989,7 @@ IGUI_EN = {
     IGUI_HotbarAttachment_Back = "Back",
     IGUI_Washing_NeedSoap = "Need Soap",
     IGUI_Washing_Soap = "Soap",
+    IGUI_Washing_WithoutSoap = "Not Enough Soap (Slower)",
     IGUI_perks_Tailoring = "Tailoring",
     IGUI_FabricType_1 = "Ripped Sheets",
     IGUI_FabricType_2 = "Denim Strips",

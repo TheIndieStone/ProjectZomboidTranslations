@@ -210,7 +210,7 @@ ContextMenu_PL = {
     ContextMenu_EvolvedRecipe_Burger = "Burger",
     ContextMenu_EvolvedRecipe_Salad = "Sa³atka",
     ContextMenu_EvolvedRecipe_FruitSalad = "Sa³atka",
-    ContextMenu_EvolvedRecipe_RecipeName = "%1 %2 ",
+    ContextMenu_EvolvedRecipe_RecipeName = "%2 %1 ",
     ContextMenu_EvolvedRecipe_and = "i",
     ContextMenu_EvolvedRecipe_PastaPan = "Makaron",
     ContextMenu_EvolvedRecipe_RicePan = "Ry¿",
@@ -370,14 +370,14 @@ ContextMenu_PL = {
     ContextMenu_DownHoodie = "Zdejmij kaptur",
     ContextMenu_ReplaceClothing = "Zmieñ %1 na %2",
     ContextMenu_ReverseCap = "Odwróæ czapkê z daszkiem",
-    ContextMenu_AddRandom = "Dodaj losowe %1",
-    ContextMenu_FromRandom = "Z losowego %1",
+    ContextMenu_AddRandom = "Dodaj losowe: %1",
+    ContextMenu_FromRandom = "Z losowego: %1",
     ContextMenu_FoodType_NoExplicit = "Przyprawa",
     ContextMenu_InsertBulletsInMagazine = "WprowadŸ %1 sztuk amunicji do magazynka",
     ContextMenu_NoBullets = "Brak nabojów",
     ContextMenu_UnloadMagazine = "Roz³aduj magazynek",
     ContextMenu_NoMagazineFound = "Nie znaleziono: %1 lub jest pusty.",
-    ContextMenu_Rack = "Zarepetuj %1",
+    ContextMenu_Rack = "Zarepetuj: %1",
     ContextMenu_Unjam = "%1: usuñ zaciêcie",
     ContextMenu_InsertBullets = "WprowadŸ %1 %2 do: %3",
     ContextMenu_TrimBeard = "Zgól brodê",
@@ -400,7 +400,7 @@ ContextMenu_PL = {
     ContextMenu_SitGround = "Usi¹dŸ na ziemi",
     ContextMenu_NeedSoap = "Potrzebujesz myd³a",
 	
-	ContextMenu_Patch = "Szycie",
+	ContextMenu_Patch = "Krawiectwo",
 	ContextMenu_CantRepair = "Do naprawy ubrañ potrzebujesz ig³y i nici.",
 	
 	ContextMenu_HotbarRadialRemove = "Usuñ<br>%1",
@@ -409,4 +409,11 @@ ContextMenu_PL = {
 	ContextMenu_AddPadding = "Dodaj materia³",
 	
 	ContextMenu_NoWeaponsAvailable = "Brak dostêpnej broni.",
+	
+	ContextMenu_CantRemovePatch = "Potrzebujesz ig³y.",
+	
+	ContextMenu_Add_escape_rope = "Zamontuj linê",
+	ContextMenu_Remove_escape_rope = "Zdejmij linê",
+	ContextMenu_Add_escape_rope_sheet = "Zamontuj linê z przeœcierad³a",
+	ContextMenu_Remove_escape_rope_sheet = "Zdejmij linê linê z przeœcierad³a",
 }

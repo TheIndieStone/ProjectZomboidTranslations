@@ -559,4 +559,5 @@ Sandbox_PL = {
 	Sandbox_LootRangedWeapon = "BROÑ DYSTANSOWA:",
 	Sandbox_LootAmmo = "AMUNICJA:",
 	Sandbox_LootMechanics = "MECHANIKA:",
+	Sandbox_VehicleStoryChance = "SZANSA NA LOSOWE ZDARZENIE Z POJAZDAMI:",
 }
