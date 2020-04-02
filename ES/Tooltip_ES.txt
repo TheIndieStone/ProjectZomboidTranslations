@@ -226,4 +226,5 @@ Tooltip_ES = {
 	Tooltip_Dashboard_NoKey = "No se ha encontrado la llave de este coche",
 	Tooltip_Dashboard_Hotwired = "Puenteado",
 	Tooltip_weapon_NoRoundChambered = "Ningún proyectil en la recámara. Amartilla el arma.",
+	Tooltip_Dashboard_SpeedRegulator = "Pulsa %1 + %2 para iniciar/aumentar la velocidad de crucero, %1 + %3 para disminuir la velocidad de crucero, al frenar se apagará.",
 }
