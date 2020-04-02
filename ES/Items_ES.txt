@@ -1199,6 +1199,7 @@ Items_ES = {
 	DisplayName_Sewing_Kit = "Kit de costura",
 	DisplayName_Stone_Knife = "Cuchillo de piedra",
 	DisplayName_House_Key = "Llave de la casa",
-	DisplayName_Bandana_Mask = "Pañuelo para la cara",
-	DisplayName_Head_Bandana_White = "Pañuelo blanco para la cabeza",
+	DisplayName_Bandana_(Face) = "Pañuelo (cara)",
+	DisplayName_Bandana_(Head) = "Pañuelo (cabeza)",
+	DisplayName_Garden_Saw = "Sierra de jardín",
 }
