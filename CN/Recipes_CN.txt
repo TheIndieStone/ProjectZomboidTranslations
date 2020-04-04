@@ -351,7 +351,8 @@ Recipes_CN = {
 	Recipe_Make_Metal_Fences = "建造金属栅栏",
 	Recipe_Make_Metal_Roof = "建造金属屋顶",
 	Recipe_Make_Metal_Walls = "建造金属墙",
+	Recipe_Rip_sheets = "撕开衣服",
 	Recipe_Generator = "发电机维护",
 	Recipe_Herbalist = "草药疗法",
-	Recipe_Rip_sheets = "撕开衣服",
+    Recipe_Saw Logs2 = "锯木",
 }
