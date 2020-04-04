@@ -995,4 +995,6 @@ IG_UI_ES = {
 	IGUI_IsOperational = "Necesita ser apagado.",
 	IGUI_Gametime_Apocalypse = "Apocalipsis",
 	IGUI_Washing_WithoutSoap = "No hay suficiente jabón (más lento)",
+	IGUI_VehiclePartlightbar = "Luces de emergencia",
+	IGUI_Controller_CruiseControl = "Velocidad de crucero",
 }
