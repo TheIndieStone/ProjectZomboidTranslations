@@ -12,7 +12,7 @@
 	UI_mainscreen_scoreboard = "在线玩家",
 	UI_mainscreen_invite = "邀请好友",
 	UI_mainscreen_return = "返回",
-	UI_mainscreen_exit = "退出到主菜单",
+	UI_mainscreen_exit = "退出游戏",
 	UI_mainscreen_ErrorLoadingSavefile = "错误： 无法载入存档文件…",
 	UI_mainscreen_SavefileNotFound = "无法找到存档文件或该存档已无效…",
 	UI_mainscreen_SavefileName = "存档: %1",
