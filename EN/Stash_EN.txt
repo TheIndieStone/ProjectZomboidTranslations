@@ -95,4 +95,4 @@ Stash_EN = {
     Stash_RosewoodStashMap3_Text11 = "Mom's old place. I'll see you there x",
     Stash_RosewoodStashMap3_Text2 = "might be weapons here - just in case",
     Stash_RosewoodStashMap3_Text3 = "don't go this way",
-};
+}
