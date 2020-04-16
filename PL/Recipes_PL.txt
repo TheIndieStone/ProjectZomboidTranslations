@@ -334,5 +334,9 @@ Recipe_Make_Metal_Walls = "Zrób metalowe œciany",
 	
 	Recipe_Make_Stone_Knife = "Zrób nó¿ z kamienia",
 	Recipe_Reclaim_Kitchen_Knife_from_Spear = "Zdejmij nó¿ kuchenny z w³óczni",
+	
+	Saw Logs2 = "Pi³uj bal na deski",
+	Recipe_Close_Umbrella = "Otwórz parasol",
+	Recipe_Open_Umbrella = "Z³ó¿ parasol",
 
 }

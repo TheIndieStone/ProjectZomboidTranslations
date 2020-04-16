@@ -610,7 +610,7 @@ UI_PL = {
     UI_trait_IronGut = "Silny ¿o³¹dek",
     UI_trait_IronGutDesc = "Mniejsze prawdopodobieñstwo zatrucia pokarmowego.",
     UI_trait_Hemophobic = "Hemofobia",
-    UI_trait_HemophobicDesc = "Panikuje podczas opatrywania ran.<br>Nie mo¿e udzielaæ pierwszej pomocy innym.",
+    UI_trait_HemophobicDesc = "Panikuje podczas opatrywania ran.<br>Nie mo¿e udzielaæ pierwszej pomocy innym.<br>Krew na ubraniu wywo³uje stres.",
     UI_trait_Asthmatic = "Astma",
     UI_trait_AsthmaticDesc = "Szybciej siê mêczy.",
     UI_trait_Scout = "By³y skaut",
@@ -1268,4 +1268,12 @@ UI_PL = {
 	
 	UI_NewGame_Apocalypse = "Apokalipsa",
 	UI_NewGame_Apocalypse_desc = "Nacisk na skradanie siê. Krótki przewidywany czas prze¿ycia. Zaleca siê unikanie walki.",
+	
+	UI_optionscreen_CannotChangeWhileInGame = "Nie mo¿na zmieniæ w trakcie gry.",
+	UI_optionscreen_FontSize = "Rozmiar czcionki",
+	UI_optionscreen_FontSize0 = "Domyœlny",
+	UI_optionscreen_FontSize1 = "1x",
+	UI_optionscreen_FontSize2 = "2x",
+	UI_optionscreen_FontSize3 = "3x",
+	UI_optionscreen_FontSize4 = "4x",
 }
