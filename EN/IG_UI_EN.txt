@@ -1036,6 +1036,11 @@ IGUI_EN = {
     IGUI_Total = "Total",
     IGUI_StartSprint = "Sprint",
     IGUI_StopSprint = "Jog",
+    IGUI_SelectMakeUp = "Select a Make Up",
+    IGUI_SelectBodyLocation = "Select a body location",
+    IGUI_AddMakeUp = "Add Make Up",
+    IGUI_RemoveMakeUp = "Remove Make Up",
+    IGUI_MakeUp = "Make Up",
 }
 
 
