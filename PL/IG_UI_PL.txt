@@ -1037,4 +1037,6 @@ IGUI_PL = {
 	IGUI_VehiclePartlightbar = "Lampa ostrzegawcza",
 	IGUI_Washing_WithoutSoap = "Czyszczenie bez myd³a (wolniejsze)",
 	
+	IGUI_Controller_CruiseControl = "Tempomat",
+	
 }
