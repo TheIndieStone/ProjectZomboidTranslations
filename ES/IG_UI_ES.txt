@@ -995,4 +995,11 @@ IG_UI_ES = {
 	IGUI_IsOperational = "Necesita ser apagado.",
 	IGUI_Gametime_Apocalypse = "Apocalipsis",
 	IGUI_Washing_WithoutSoap = "No hay suficiente jabón (más lento)",
+	IGUI_VehiclePartlightbar = "Luces de emergencia",
+	IGUI_Controller_CruiseControl = "Velocidad de crucero",
+	IGUI_SelectMakeUp = "Selecciona un maquillaje",
+	IGUI_SelectBodyLocation = "Seleccione un lugar del cuerpo",
+	IGUI_AddMakeUp = "Añadir maquillaje",
+	IGUI_RemoveMakeUp = "Desmaquillar",
+	IGUI_MakeUp = "Maquillarse",
 }

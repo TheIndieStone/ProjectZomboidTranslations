@@ -1243,4 +1243,11 @@ UI_ES = {
 	UI_optionscreen_zombie_update_optimization = "Zombis actualizados escalonadamente",
 	UI_optionscreen_binding_ToggleGodModeInvisible = "Alternar modo Dios e invisible",
 	UI_optionscreen_render_rain_indoors = "Renderizar lluvia al estar en interiores",
+	UI_optionscreen_CannotChangeWhileInGame = "No se puede cambiar mientras se está en el juego.",
+	UI_optionscreen_FontSize = "Tamaño de la fuente",
+	UI_optionscreen_FontSize0 = "Por defecto",
+	UI_optionscreen_FontSize1 = "1x",
+	UI_optionscreen_FontSize2 = "2x",
+	UI_optionscreen_FontSize3 = "3x",
+	UI_optionscreen_FontSize4 = "4x",
 }

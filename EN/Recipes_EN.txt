@@ -3,5 +3,6 @@ Recipes_EN = {
     Recipe_Rip_sheets = "Rip Clothing",
     Recipe_Generator = "Generator Maintenance",
     Recipe_Herbalist = "Herbal Remedies",
+    Recipe_Saw Logs2 = "Saw Logs",
 }
 

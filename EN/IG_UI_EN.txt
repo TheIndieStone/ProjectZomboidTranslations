@@ -178,6 +178,7 @@ IGUI_EN = {
     IGUI_Controller_Loot = "Loot",
     IGUI_Controller_RotateLeft = "Rotate Left",
     IGUI_Controller_RotateRight = "Rotate Right",
+    IGUI_Controller_CruiseControl = "Cruise Control",
     -- Sleep dialog
     IGUI_Sleep_Prompt = "Sleep for how long?",
     IGUI_Sleep_OneHour = "1 hour",
@@ -728,6 +729,7 @@ IGUI_EN = {
     IGUI_EnterVehicle = "Enter Vehicle",
     IGUI_ExitVehicle = "Exit Vehicle",
     IGUI_VehicleApplyBrakes = "Brake",
+    IGUI_VehiclePartlightbar = "Lightbar",
     IGUI_VehiclePartCattrunk = "Trunk",
     IGUI_VehiclePartCatgastank = "Gas Tank",
     IGUI_VehiclePartCattire = "Tires",
@@ -1034,6 +1036,11 @@ IGUI_EN = {
     IGUI_Total = "Total",
     IGUI_StartSprint = "Sprint",
     IGUI_StopSprint = "Jog",
+    IGUI_SelectMakeUp = "Select a Make Up",
+    IGUI_SelectBodyLocation = "Select a body location",
+    IGUI_AddMakeUp = "Add Make Up",
+    IGUI_RemoveMakeUp = "Remove Make Up",
+    IGUI_MakeUp = "Make Up",
 }
 
 
