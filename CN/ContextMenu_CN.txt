@@ -119,6 +119,7 @@ ContextMenu_CN = {
 	ContextMenu_Yellow = "黄色",
 	ContextMenu_Equip_Two_Hands = "装备[双手]",
 	-- Camping menu
+	ContextMenu_CampfireInfo = "营火信息",
 	ContextMenu_Build_a_fire = "放置营火",
 	ContextMenu_Add petrol = "添加汽油",
 	ContextMenu_Light_fire = "点燃",
@@ -422,4 +423,6 @@ ContextMenu_CN = {
 	ContextMenu_CantRemovePatch = "需要针。",
 	ContextMenu_AddPadding = "添加填充",
 	ContextMenu_NoWeaponsAvailable = "没有武器可用。",
+    ContextMenu_TieBandana = "绑头巾",
+    ContextMenu_UntieBandana = "解开头巾",
 }
