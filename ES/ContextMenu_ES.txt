@@ -415,4 +415,5 @@ ContextMenu_ES = {
 	ContextMenu_UntieBandana = "Desenrollar pañuelo",
 	ContextMenu_DyeHair = "Teñir el pelo",
 	ContextMenu_DyeBeard = "Teñir la barba",
+	ContextMenu_TieBandanaFace = "Poner en la cara",
 }
