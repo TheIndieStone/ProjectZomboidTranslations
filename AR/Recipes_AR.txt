@@ -283,6 +283,6 @@ Recipe_ES = {
 	Recipe_Write_Doodle = "Hacer garabatos",
 	Recipe_Write_Journal = "Escribir un diario",
     Recipe_Intermediate_Mechanics = "Mecánica intermedia",
-	Recipe_Rip_sheets = "Rasgar sabanas",
+	Recipe_Rip_sheets = "Cortar en pedazos",
 	Recipe_Saw_logs2 = "Serruchar troncos",
 }
