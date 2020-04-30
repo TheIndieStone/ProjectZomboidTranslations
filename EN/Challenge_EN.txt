@@ -11,7 +11,7 @@ Challenge_EN = {
 	Challenge_AReallyCDDAy_name = "A Really CD DA",
 	Challenge_AReallyCDDAy_desc = "You get out of the shower and fall badly. You're blind drunk, and have a nasty cold. <LINE> <LINE> On top of all this, the house is on fire! Today is definitely not your day. <LINE> <LINE> [A challenge inspired by A Really Bad Day from the awesome, wonderful and MUST-PLAY Cataclysm: Dark Days Ahead] ",
 
-	Challenge_Challenge1_name = "House In The Woods - Last Stand",
+	Challenge_Challenge1_name = "House in the Woods - Last Stand",
 	Challenge_Challenge1_desc = "You can hear them approaching. Hordes of deadheads, encroaching on your isolated cabin from every angle. Death is inevitable, but a shotgun is close-at-hand. <LINE> <LINE> Last Stand features endless waves of zombies in ever-increasing numbers. Survive for as long as possible against the overwhelming odds.",
 
 	Challenge_Challenge2_name = "House in the Woods - Last Stand Accumulator",
@@ -61,5 +61,5 @@ Challenge_EN = {
 	Challenge_WinterIsComingInfoBox = " <CENTRE> In three days the endless winter begins. <LINE> <LINE> Wrap up warm...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> In 24 hours your trip back to Knox County will become Hell on Earth...",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> Endless bad weather ahead...",
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> Its getting misty...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> It's getting misty...",
 }

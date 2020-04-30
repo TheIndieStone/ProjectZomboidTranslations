@@ -413,4 +413,7 @@ ContextMenu_ES = {
 	ContextMenu_CampfireInfo = "Información de la hoguera",
 	ContextMenu_TieBandana = "Enrollar pañuelo",
 	ContextMenu_UntieBandana = "Desenrollar pañuelo",
+	ContextMenu_DyeHair = "Teñir el pelo",
+	ContextMenu_DyeBeard = "Teñir la barba",
+	ContextMenu_TieBandanaFace = "Poner en la cara",
 }
