@@ -286,5 +286,5 @@ Recipe_ES = {
 	Recipe_Write_Journal = "Escribir un diario",
     Recipe_Intermediate_Mechanics = "Mecánica intermedia",
 	Recipe_Rip_sheets = "Cortar en pedazos",
-	Recipe_Saw_logs2 = "Serruchar troncos",
+	Recipe_Saw Logs2 = "Serruchar troncos",
 }
