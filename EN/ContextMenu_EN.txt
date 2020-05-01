@@ -134,6 +134,7 @@ ContextMenu_EN = {
 	ContextMenu_SignUpArrow = "Up Arrow",
 	ContextMenu_Equip_Two_Hands = "Equip in Both Hands",
 	-- Camping menu
+	ContextMenu_CampfireInfo = "Campfire Info",
 	ContextMenu_Build_a_fire = "Build a Fire",
 	ContextMenu_Add_petrol = "Add Petrol",
 	ContextMenu_Light_fire = "Light Fire",
@@ -412,4 +413,8 @@ ContextMenu_EN = {
     ContextMenu_CantRemovePatch = "Needle required.",
     ContextMenu_AddPadding = "Add Padding",
     ContextMenu_NoWeaponsAvailable = "No weapons available.",
+    ContextMenu_TieBandana = "Tie Bandana",
+    ContextMenu_UntieBandana = "Untie Bandana",
+    ContextMenu_DyeHair = "Dye Hair",
+    ContextMenu_DyeBeard = "Dye Beard",
 }

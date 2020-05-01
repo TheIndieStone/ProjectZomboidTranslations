@@ -410,4 +410,10 @@ ContextMenu_ES = {
 	ContextMenu_Remove_escape_rope = "Quitar cuerda",
 	ContextMenu_Add_escape_rope_sheet = "Colocar cuerda (sábana)",
 	ContextMenu_Remove_escape_rope_sheet = "Quitar cuerda (sábana)",
+	ContextMenu_CampfireInfo = "Información de la hoguera",
+	ContextMenu_TieBandana = "Enrollar pañuelo",
+	ContextMenu_UntieBandana = "Desenrollar pañuelo",
+	ContextMenu_DyeHair = "Teñir el pelo",
+	ContextMenu_DyeBeard = "Teñir la barba",
+	ContextMenu_TieBandanaFace = "Poner en la cara",
 }

@@ -416,4 +416,10 @@ ContextMenu_PL = {
 	ContextMenu_Remove_escape_rope = "Zdejmij linê",
 	ContextMenu_Add_escape_rope_sheet = "Zamontuj linê z przeœcierad³a",
 	ContextMenu_Remove_escape_rope_sheet = "Zdejmij linê linê z przeœcierad³a",
+	
+	ContextMenu_CampfireInfo = "Informacje o ogniu",
+	ContextMenu_TieBandana = "Zawi¹¿ bandanê",
+	ContextMenu_UntieBandana = "Odwi¹¿ bandanê",
+	ContextMenu_DyeHair = "Zafarbuj w³osy",
+	ContextMenu_DyeBeard = "Zafarbuj brodê",
 }

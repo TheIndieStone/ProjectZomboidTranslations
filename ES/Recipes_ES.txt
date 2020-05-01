@@ -319,4 +319,8 @@ Recipes_ES = {
 	Recipe_Reclaim_Spoon_from_Spear = "Recuperar cuchara de la lanza",
 	Recipe_Make_Stone_Knife = "Hacer cuchillo de piedra",
 	Recipe_Reclaim_Kitchen_Knife_from_Spear = "Recuperar cuchillo de cocina de la lanza",
+	Recipe_Saw_Logs2 = "Aserrar troncos",
+	Recipe_Close_Umbrella = "Cerrar paraguas",
+	Recipe_Open_Umbrella = "Abrir paraguas",
+
 }
