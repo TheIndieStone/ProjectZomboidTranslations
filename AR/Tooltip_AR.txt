@@ -3,7 +3,7 @@ Tooltip_ES = {
     Tooltip_food_Uncooked = "crudo",
     Tooltip_food_Rotten = "podrido",
     Tooltip_food_Fresh = "fresco",
-    Tooltip_food_Cooked = cocido",
+    Tooltip_food_Cooked = "cocido",
     Tooltip_food_Burnt = "quemado",
     Tooltip_food_Hunger = "Hambre",
     Tooltip_food_Thirst = "Sed",
@@ -229,6 +229,6 @@ Tooltip_ES = {
     Tooltip_Dashboard_Hotwired = "Puntear",
     Tooltip_Dashboard_SpeedRegulator = "Apretar %1 + %2 para activar/aumentar la velocidad de crucero, %1 + %3 para bajar la velocidad de crucero, frenar la apagara.",
     Tooltip_CantSprintEquipped = "No podes correr si lo tenes equipado en la mano.",
-Tooltip_NeedMirror = "Necesitas un espejo o estar frente a un espejo.",
+	Tooltip_NeedMirror = "Necesitas un espejo o estar frente a un espejo.",
 }
 
