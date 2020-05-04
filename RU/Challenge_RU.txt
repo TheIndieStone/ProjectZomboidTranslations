@@ -29,7 +29,7 @@ Challenge_RU = {
 	Challenge_Studio_name = "09. Студия",
 	Challenge_Studio_desc = "Место, где снимаются все лучшие фильмы!",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Нажмите 'o' для распределения ваших очков и покупки оружия.",
+	Challenge_Challenge2_PressKey = "Нажмите «O» для распределения очков опыта и покупки оружия.",
 	Challenge_Challenge2_WaveStart = "Волна %1 через: %2 (нажмите Enter, чтобы пропустить отсчёт)",
 	Challenge_Challenge2_WaveDuration = "Волна %1: %2",
 	Challenge_Challenge2_ZombiesLeft = "Осталось зомби: %1",
