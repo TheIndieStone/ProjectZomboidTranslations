@@ -1039,6 +1039,8 @@ IGUI_ES = {
     IGUI_SelectMakeUp = "Estilo de maquillaje",
     IGUI_AddMakeUp = "Agregar maquillaje",
     IGUI_SelectBodyLocation = "Elegir parte del cuerpo",
+	IGUI_invpage_RemoveAll = "Borrar todo",
+    IGUI_ConfirmDelete = "¿Estas seguro de querer borrar estos items?",
 }
 
 

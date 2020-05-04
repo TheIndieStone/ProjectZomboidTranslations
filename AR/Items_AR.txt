@@ -1223,4 +1223,6 @@ Items_ES = {
     DisplayName_Toolbox = "Caja de herramientas",
     DisplayName_Handbag = "Bolso de mano",
     DisplayName_Lunchbox = "Lonchera",
+	DisplayName_Guitar_Case = "Estuche para guitarra",
+	DisplayName_Fligth_Case = "Estuche riguido para guitarra",
 }
