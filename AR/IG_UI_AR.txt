@@ -989,11 +989,11 @@ IGUI_ES = {
     IGUI_HotbarAttachment_Back = "Espalda",
     IGUI_Washing_NeedSoap = "Necesitas jabón",
     IGUI_Washing_Soap = "Jabón",
-    IGUI_Washing_WithoutSoap = "No te alcanza el jabón para ducharte",
+    IGUI_Washing_WithoutSoap = "No te alcanza el jabón para bañarte",
     IGUI_perks_Tailoring = "Sastrería",
-    IGUI_FabricType_1 = "Pedazos de sabanas",
-    IGUI_FabricType_2 = "Pedazos de jean",
-    IGUI_FabricType_3 = "Pedazos de cuero",
+    IGUI_FabricType_1 = "tela",
+    IGUI_FabricType_2 = "tela de jean",
+    IGUI_FabricType_3 = "cuero",
     --Temperature Panel
     IGUI_Temp_SkinTemperature = "Temperatura de la piel",
     IGUI_Temp_BloodVessels = "Vasos sanguíneos",
@@ -1040,7 +1040,8 @@ IGUI_ES = {
     IGUI_AddMakeUp = "Agregar maquillaje",
     IGUI_SelectBodyLocation = "Elegir parte del cuerpo",
 	IGUI_invpage_RemoveAll = "Borrar todo",
-    IGUI_ConfirmDelete = "¿Estas seguro de querer borrar estos items?",
+    IGUI_ConfirmDeleteItems = "¿Estas seguro de querer borrar estos items?",
+	IGUI_TypeOfPatch = "Parche de %1 ",
 }
 
 
