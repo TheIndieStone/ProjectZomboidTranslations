@@ -1190,4 +1190,10 @@ DisplayName_Padded_Pants = "Spodnie zimowe",
 	DisplayName_Strawberry_Blonde_Hair_Dye = "Farba do w³osów - truskawkowy blond",
 	DisplayName_White_Hair_Dye = "Farba do w³osów - bia³a",
 	DisplayName_Yellow_Hair_Dye = "Farba do w³osów - ¿ó³ta",
+	
+	DisplayName_Bandana_(Tied) = "Bandana - zawi¹zana",
+	DisplayName_Handbag = "Torebka - listonoszka",
+	DisplayName_Lunchbox = "Pude³ko œniadaniowe",
+	DisplayName_Suitcase = "Walizka",
+	DisplayName_Toolbox = "Skrzynka na narzêdzia",
 }

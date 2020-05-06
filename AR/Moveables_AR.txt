@@ -677,7 +677,8 @@ Moveables_ES = {
     Zippee_Market_Sign = "Cartel de Zippee Market",
     Zippee_Shelves_Rack = "Góndola de Zippee",
     Zippee_Wall_Shelves = "Repisa de Zippee",
-	Fence_gate = "Puerta de la valla",
+    Fence_gate = "Puerta de la valla",
+    Broken_Glass = "Pedazos de vidrio",
 
     -- ISMoveableSpriteProps names
     Moveable_object = "Objeto movible",
