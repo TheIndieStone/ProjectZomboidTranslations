@@ -418,4 +418,5 @@ ContextMenu_RU = {
 	ContextMenu_UntieBandana = "На голову (развёрнутой)",
 	ContextMenu_DyeHair = "Покрасить волосы",
 	ContextMenu_DyeBeard = "Покрасить бороду",
+	ContextMenu_Merge = "Добавить к",
 }
