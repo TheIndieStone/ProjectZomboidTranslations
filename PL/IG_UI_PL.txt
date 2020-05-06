@@ -1039,4 +1039,10 @@ IGUI_PL = {
 	
 	IGUI_Controller_CruiseControl = "Tempomat",
 	
+	IGUI_SelectMakeUp = "Wybierz makija¿",
+	IGUI_SelectBodyLocation = "Wybierz miejsce",
+	IGUI_AddMakeUp = "Dodaj makija¿",
+	IGUI_RemoveMakeUp = "Usuñ makija¿",
+	IGUI_MakeUp = "Na³ó¿ makija¿",
+	
 }

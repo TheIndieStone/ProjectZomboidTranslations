@@ -414,7 +414,9 @@ ContextMenu_EN = {
     ContextMenu_AddPadding = "Add Padding",
     ContextMenu_NoWeaponsAvailable = "No weapons available.",
     ContextMenu_TieBandana = "Tie Bandana",
+    ContextMenu_TieBandanaFace = "Put on face",
     ContextMenu_UntieBandana = "Untie Bandana",
     ContextMenu_DyeHair = "Dye Hair",
     ContextMenu_DyeBeard = "Dye Beard",
+    ContextMenu_Merge = "Add to",
 }

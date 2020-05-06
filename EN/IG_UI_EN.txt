@@ -132,10 +132,6 @@ IGUI_EN = {
 	IGUI_perks_Fitness = "Fitness",
 	IGUI_perks_Electricity = "Electrical",
 	IGUI_perks_Mechanics = "Mechanics",
-    IGUI_perks_Blacksmith = "Smithing",
-    IGUI_perks_MetalWelding = "Metalworking",
-    IGUI_perks_Metalworking = "Metalworking",
-    IGUI_perks_Melting = "Smelting",
 	-- Item category
 	IGUI_ItemCat_Trap = "Trap",
 	IGUI_ItemCat_Key = "Key",
@@ -473,6 +469,10 @@ IGUI_EN = {
     IGUI_RadioAddHeadphones = "Add headphones",
     IGUI_RadioUnmuteSpeaker = "Unmute speaker",
     IGUI_RadioMuteSpeaker = "Mute speaker",
+    IGUI_perks_Blacksmith = "Smithing",
+    IGUI_perks_MetalWelding = "Metalworking",
+    IGUI_perks_Metalworking = "Metalworking",
+    IGUI_perks_Melting = "Smelting",
     IGUI_CraftUI_NearItem = "Required Crafting Equipment: %1",
     IGUI_Furnace_Bellows = "Use a Bellows to increase heat."
     IGUI_SetAlarm = "Set Alarm Time",
@@ -908,7 +908,7 @@ IGUI_EN = {
     IGUI_AdminPanel_HealthCheat = "Health panel Cheat mode",
     IGUI_AdminPanel_ShowAdminTag = "If nothing in the list is selected the red Admin tag above your head won't be displayed.",
     IGUI_AdminPanel_ItemList = "Items List Viewer",
-    IGUI_ItemList_Info = "Double click an item in the list or the button below to add it to your inventory.",
+    IGUI_ItemList_Info = "Double-click an item or use a button below to add it to your inventory.",
 
     IGUI_Adm_Weather_ClimateControl = "Climate Control",
     IGUI_Adm_Weather_Climate = "Climate",
@@ -996,6 +996,7 @@ IGUI_EN = {
     IGUI_FabricType_1 = "Ripped Sheets",
     IGUI_FabricType_2 = "Denim Strips",
     IGUI_FabricType_3 = "Leather Strips",
+    IGUI_TypeOfPatch = "%1 patch",
     --Temperature Panel
     IGUI_Temp_SkinTemperature = "Skin Temperature",
     IGUI_Temp_BloodVessels = "Blood Vessels",
@@ -1041,6 +1042,12 @@ IGUI_EN = {
     IGUI_AddMakeUp = "Add Make Up",
     IGUI_RemoveMakeUp = "Remove Make Up",
     IGUI_MakeUp = "Make Up",
+    IGUI_invpage_RemoveAll = "Delete All",
+    IGUI_ConfirmDeleteItems = "Delete all these items?",
+    IGUI_SoundName_Primary = "Primary",
+    IGUI_SoundName_Ambient = "Ambient",
+    IGUI_SoundName_Music = "Music",
+    IGUI_SoundName_VehicleEngine = "Vehicle Engine",
 }
 
 
