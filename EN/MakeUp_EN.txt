@@ -29,9 +29,9 @@ MakeUp_EN = {
     MakeUpType_FullFaceSkull2 = "Skull 2",
 
     MakeUpType_LipsRed = "Red Lipstick",
-    MakeUpType_LipsLightBlue = "Light Blue Libstick",
+    MakeUpType_LipsLightBlue = "Light Blue Lipstick",
     MakeUpType_LipsBlue = "Blue Lipstick",
-    MakeUpType_LipsBlack = "Black Libstick",
+    MakeUpType_LipsBlack = "Black Lipstick",
     MakeUpType_LipsGreen = "Green Lipstick",
     MakeUpType_LipsPink = "Pink Lipstick",
 }
