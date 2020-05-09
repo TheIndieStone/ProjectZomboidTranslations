@@ -1259,4 +1259,5 @@ UI_RU = {
 	UI_optionscreen_FontSize2 = "x2",
 	UI_optionscreen_FontSize3 = "x3",
 	UI_optionscreen_FontSize4 = "x4",
+	UI_optionscreen_TimedActionGameSpeedReset = "Возобновить нормальную скорость, когда запланированные действия выполнены",
 }
