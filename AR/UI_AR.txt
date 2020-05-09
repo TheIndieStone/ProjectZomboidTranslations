@@ -1250,4 +1250,5 @@ UI_ES = {
 	UI_optionscreen_FontSize2 = "2x",
 	UI_optionscreen_FontSize3 = "3x",
 	UI_optionscreen_FontSize4 = "4x",
+	UI_optionscreen_TimedActionGameSpeedReset = "Volver a velocidad normal cuando acciones aceleradas finalicen",
 }
