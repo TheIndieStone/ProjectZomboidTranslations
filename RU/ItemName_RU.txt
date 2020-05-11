@@ -1373,4 +1373,6 @@ ItemName_RU = {
 	ItemName_Base.Hat_BaseballHelmet_Z = "Шлем бейсбольный «Хуриканс Z»",
 	ItemName_Base.Shirt_Baseball_Z = "Рубашка бейсбольная «Хуриканс Z»",
 	ItemName_Base.Zucchini = "Цукини",
+	ItemName_Base.Flightcase = "Дорожный кейс",
+	ItemName_Base.Guitarcase = "Чехол для гитары",
 }
