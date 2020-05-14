@@ -327,4 +327,6 @@ Recipe_ES = {
     Recipe_Dismantle_Flashlight = "Desarmar linterna",
 	Recipe_Make_Stake = "Hacer estaca",
     Recipe_Smash_Bottle = "Romper botella",
+	Recipe_Create_Spear = "Hacer lanza",
+	Recipe_Make_Stone_Knife = "Hacer cuchillo de piedra",
 }

@@ -230,5 +230,6 @@ Tooltip_ES = {
     Tooltip_Dashboard_SpeedRegulator = "Apretar %1 + %2 para activar/aumentar la velocidad de crucero, %1 + %3 para bajar la velocidad de crucero, frenar la apagara.",
     Tooltip_CantSprintEquipped = "No podes correr si lo tenes equipado en la mano.",
 	Tooltip_NeedMirror = "Necesitas un espejo o estar frente a un espejo.",
+	Tooltip_TapKey = "Apretar tecla: %1",
 }
 
