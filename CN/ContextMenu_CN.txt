@@ -424,7 +424,9 @@ ContextMenu_CN = {
 	ContextMenu_AddPadding = "添加填充",
 	ContextMenu_NoWeaponsAvailable = "没有武器可用。",
     ContextMenu_TieBandana = "绑头巾",
+    ContextMenu_TieBandanaFace = "戴在面上",
     ContextMenu_UntieBandana = "解开头巾",
     ContextMenu_DyeHair = "染发",
     ContextMenu_DyeBeard = "染胡子",
+    ContextMenu_Merge = "加到",
 }
