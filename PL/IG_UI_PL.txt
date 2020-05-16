@@ -1045,4 +1045,11 @@ IGUI_PL = {
 	IGUI_RemoveMakeUp = "Usuñ makija¿",
 	IGUI_MakeUp = "Na³ó¿ makija¿",
 	
+	IGUI_TypeOfPatch = "£atka: %1",
+	IGUI_invpage_RemoveAll = "Usuñ wszystko",
+	IGUI_ConfirmDeleteItems = "Usun¹æ wszystkie przedmioty?",
+	IGUI_SoundName_Primary = "G³ówny",
+	IGUI_SoundName_Ambient = "Œrodowisko",
+	IGUI_SoundName_Music = "Muzyka",
+	IGUI_SoundName_VehicleEngine = "Silnik pojazdu",
 }
