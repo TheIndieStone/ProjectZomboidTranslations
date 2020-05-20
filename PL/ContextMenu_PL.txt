@@ -423,4 +423,6 @@ ContextMenu_PL = {
 	ContextMenu_DyeHair = "Zafarbuj w³osy",
 	ContextMenu_DyeBeard = "Zafarbuj brodê",
 	ContextMenu_TieBandanaFace = "Za³ó¿ na twarz",
+	
+	ContextMenu_Merge = "Dodaj do:",
 }

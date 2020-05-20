@@ -234,4 +234,6 @@ Tooltip_PL = {
 	Tooltip_CantSprintEquipped = "Nie mo¿na biec sprintem, trzymaj¹c to w rêce.",
 	
 	Tooltip_NeedMirror = "Potrzebujesz lustra lub stan¹æ przed lustrem.",
+	
+	Tooltip_TapKey = "Klawiatura: naciœnij %1",
 }
