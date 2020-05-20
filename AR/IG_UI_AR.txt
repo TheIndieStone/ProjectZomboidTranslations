@@ -764,7 +764,7 @@ IGUI_ES = {
     IGUI_VehiclePartHeadlightRearLeft = "Optica trasera izquierda",
     IGUI_VehiclePartHeadlightRearRight = "Óptica trasera derecha",
     IGUI_VehiclePartEngine = "Motor",
-    IGUI_VehiclePartHeater = "Heater",
+    IGUI_VehiclePartHeater = "Aire/Calefaccion",
     IGUI_VehiclePartBattery = "Batería",
     IGUI_VehiclePartWindowFrontLeft = "Ventanilla delantera izquierda",
     IGUI_VehiclePartWindowFrontRight = "Ventanilla delantera derecha",
@@ -849,7 +849,7 @@ IGUI_ES = {
     IGUI_ItemNameMechanicalType = "%1 de vehículo %2",
     IGUI_InfoPanel_Mechanics = "<CENTRE> <SIZE:medium> MECANICA <LINE> <LINE> <LEFT> <SIZE:small> Welcome to the Vehicle Mechanics menu! <LINE> <LINE> Here you can find information about your current vehicle: engine power, its general condition and much more besides. <LINE> <LINE> To the right you'll find the parts and systems installed on the vehicle. Right click to investigate what can be removed and installed, and to find out more info. <LINE> <LINE> Left click to get more detailed information from each vehicle part. Vehicles are separated into Standard, Heavy-Duty and Sports categories - and can only have the applicable parts installed. To repair an individual part it must first be removed and placed in your inventory.",
     IGUI_VehicleType_0 = "Quemado",
-    IGUI_VehicleType_1 = "esandar",
+    IGUI_VehicleType_1 = "estandar",
     IGUI_VehicleType_2 = "comercial",
     IGUI_VehicleType_3 = "deportivo",
     IGUI_Vehicle_EngineLoudness = "Sonido del motor: ",
@@ -989,11 +989,11 @@ IGUI_ES = {
     IGUI_HotbarAttachment_Back = "Espalda",
     IGUI_Washing_NeedSoap = "Necesitas jabón",
     IGUI_Washing_Soap = "Jabón",
-    IGUI_Washing_WithoutSoap = "No te alcanza el jabón para ducharte",
+    IGUI_Washing_WithoutSoap = "No te alcanza el jabón para bañarte",
     IGUI_perks_Tailoring = "Sastrería",
-    IGUI_FabricType_1 = "Pedazos de sabanas",
-    IGUI_FabricType_2 = "Pedazos de jean",
-    IGUI_FabricType_3 = "Pedazos de cuero",
+    IGUI_FabricType_1 = "tela",
+    IGUI_FabricType_2 = "tela de jean",
+    IGUI_FabricType_3 = "cuero",
     --Temperature Panel
     IGUI_Temp_SkinTemperature = "Temperatura de la piel",
     IGUI_Temp_BloodVessels = "Vasos sanguíneos",
@@ -1040,7 +1040,8 @@ IGUI_ES = {
     IGUI_AddMakeUp = "Agregar maquillaje",
     IGUI_SelectBodyLocation = "Elegir parte del cuerpo",
 	IGUI_invpage_RemoveAll = "Borrar todo",
-    IGUI_ConfirmDelete = "¿Estas seguro de querer borrar estos items?",
+    IGUI_ConfirmDeleteItems = "¿Estas seguro de querer borrar estos items?",
+	IGUI_TypeOfPatch = "Parche de %1 ",
 }
 
 

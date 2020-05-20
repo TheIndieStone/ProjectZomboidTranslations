@@ -1250,4 +1250,7 @@ UI_ES = {
 	UI_optionscreen_FontSize2 = "2x",
 	UI_optionscreen_FontSize3 = "3x",
 	UI_optionscreen_FontSize4 = "4x",
+	UI_optionscreen_TimedActionGameSpeedReset = "Volver a velocidad normal cuando acciones aceleradas finalicen",
+	UI_optionscreen_aim_outline_tt = "Resalta los zombis a los que el jugador está apuntando con un arma de fuego.",
+    UI_optionscreen_zombie_update_optimization_tt = "Mejora el rendimiento actualizando los zombis fuera de vista con menos frecuencia.",
 }
