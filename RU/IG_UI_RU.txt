@@ -436,7 +436,7 @@ IGUI_RU = {
 	IGUI_MustPlaceRoomRoof = "Необходимо ставить в постройках с крышей.",
 	IGUI_RainCollectorHasWater = "Содержит воду внутри.",
 	IGUI_IsOperational = "Необходимо отключить.",
-	
+	IGUI_RemovePropane = "Необходимо вытащить баллон с пропаном",
 	--radio
 	IGUI_DeviceOptions = "Настройки устройства",
 	IGUI_Hotkey = "ГОРЯЧАЯ КЛАВИША",
@@ -711,11 +711,11 @@ IGUI_RU = {
 	IGUI_Map_ConfirmRemoveSymbol = "Вы хотите стереть этот символ?",
 	IGUI_TextBox_CantBeEmpty = "Не пустой.",
 	IGUI_Map_Info = "<CENTRE> <SIZE:medium> Панель карты <LINE> <LINE> <LEFT> <SIZE:small> На этой панели вы можете рассматривать найденные карты городов. Чтобы передвинуть карту, перемещайте мышь, зажав левую кнопку, чтобы изменить масштаб - прокручивайте колёсико мыши (так же вы можете нажать кнопку «Масштаб 1:1»). <LINE> <LINE> Если у вас есть в инвентаре ручка или карандаш, то вы можете добавить на карту какой-нибудь маркер при помощи кнопок «Добавить запись» или «Добавить символ». Доступные цвета зависят от ручек, которые у вас есть. <LINE> <LINE> Если у вас есть ластик, то вы так же можете стереть ненужный маркер с карты с помощью кнопки «Стереть». Просто переместите курсор на маркер и щёлкните левой кнопкой мыши, когда к курсору добавится красный крестик.",
-	IGUI_FishingUI_FishAbundance = "Изобилие рыбы:",
+	IGUI_FishingUI_FishAbundance = "Изобилие рыбы: ",
 	IGUI_FishingUI_NoRod = "Отсутствует удочка",
 	IGUI_FishingUI_NoLure = "Отсутствует приманка",
 	IGUI_ScavengeUI_Title = "Поиск",
-	IGUI_ScavengeUI_LootAbundance = "Изобилие ресурсов:",
+	IGUI_ScavengeUI_LootAbundance = "Изобилие ресурсов: ",
 	IGUI_ScavengeUI_PutItemInBag = "%1 (%2)",
 	IGUI_ScavengeUI_PutItemInPlayerInv = "Основной инвентарь",
 	IGUI_ScavengeUI_1stHand = "в основ. руке",
