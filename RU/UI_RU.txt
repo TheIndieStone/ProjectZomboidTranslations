@@ -354,6 +354,8 @@ UI_RU = {
 	-- Last stand selecter (lua)
 	UI_challenge_title = "ИСПЫТАНИЯ",
 	UI_challengeplayer_title = "ВЫБЕРИТЕ ИГРОКА",
+	UI_challengeplayer_PlayedTime = "Количество попыток: %1",
+	UI_challengeplayer_XP = "Опыт: %1XP",
 	UI_challengeplayer_delete = "Вы уверены, что хотите удалить этого персонажа?",
 	UI_characreation_random = "СЛУЧАЙНО",
 	UI_characreation_SelectToLoad = "[--Сохранённые настройки--]",
@@ -1262,4 +1264,8 @@ UI_RU = {
 	UI_optionscreen_FontSize3 = "x3",
 	UI_optionscreen_FontSize4 = "x4",
 	UI_optionscreen_TimedActionGameSpeedReset = "Возобновить нормальную скорость, когда запланированные действия выполнены",
+	UI_optionscreen_ShoulderButtonContainerSwitch = "Кнопки переключения панелей",
+	UI_optionscreen_ShoulderButtonContainerSwitch1 = "Левая кнопка - инвентарь, правая - лут",
+	UI_optionscreen_ShoulderButtonContainerSwitch2 = "Левая кнопка - вверх, правая - вниз",
+	UI_optionscreen_ShoulderButtonContainerSwitch3 = "Левая + D-пад - инвентарь, правая + D-пад - лут",
 }
