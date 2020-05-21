@@ -927,7 +927,7 @@ UI_PL = {
     UI_ServerOption_SteamPort1_tooltip = "Port UDP dla Steam. Ten port musi zostaæ otwarty dla serwerów obs³uguj¹cych Steam.",
     UI_ServerOption_SteamPort2_tooltip = "Drugi port UDP dla Steam. Aktualnie niewykorzystywany.",
     UI_ServerOption_WorkshopItems_tooltip = "Tworzy listê ID modów z Warsztatu Steam. ID oddzielone s¹ œrednikiem. Np. WorkshopItems=514427485;513111049",
-    UI_ServerOption_SteamVAC_tooltip = "W³¹cz system Steam VAC.",
+    UI_ServerOption_SteamVAC_tooltip = "W³¹cz system Steam VAC. Obecnie funkcja nie dzia³a.",
     UI_ServerOption_ResetID_tooltip = "Ten numer zmienia siê podczas wykonywania miêkkiego restartu. Zmiana tego numeru powoduje usuniêcie stanów zapisów gry graczy (ale nie usuwa danych postaci).",
     UI_ServerOption_UseTCPForMapDownloads_tooltip = "Wysy³aj dane mapy do klientów, u¿ywaj¹c po³¹czenie TCP. Wymaga jednego otwartego portu na ka¿dego klienta, rozpoczynaj¹c od portu domyœlnego + 1.  Powinno to zwiêkszyæ wydajnoœæ, gdy po³¹czonych jest wielu klientów.",
     UI_ServerOption_MaxAccountsPerUser_tooltip = "Ogranicza liczbê kont, z której mo¿e korzystaæ i stworzyæ pojedynczy u¿ytkownik Steam na tym serwerze. Ignorowane przy tworzeniu serwera Steam.",
@@ -1278,4 +1278,11 @@ UI_PL = {
 	UI_optionscreen_aim_outline_tt = "Podœwietla zombie, do których postaæ celuje broni¹.",
 	UI_optionscreen_zombie_update_optimization_tt = "Zwiêksza p³ynnoœæ gry przez obni¿enie czêstotliwoœci aktualizacji zombie poza polem widzenia.",
 	UI_optionscreen_TimedActionGameSpeedReset = "Przywraca normaln¹ prêdkoœæ czasu po wykonaniu czynnoœci z paskiem postêpu.",
+
+	UI_challengeplayer_PlayedTime = "Czas gry : %1",
+	UI_challengeplayer_XP = "PD : %1",
+	UI_optionscreen_ShoulderButtonContainerSwitch = "Przyciski boczne - zmiana pojemnika",
+	UI_optionscreen_ShoulderButtonContainerSwitch1 = "Lewy przycisk - ekwipunek, prawy przycisk - weŸ przedmiot",
+	UI_optionscreen_ShoulderButtonContainerSwitch2 = "Lewy przycisk - w górê, right button - w dó³",
+	UI_optionscreen_ShoulderButtonContainerSwitch3 = "W lewo + D-pad - ekwipunek, w prawo + D-pad - weŸ przedmiot",
 }

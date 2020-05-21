@@ -334,8 +334,13 @@ IGUI_PL = {
     IGUI_Tutorial1_Fight9 = " <CENTRE> <SIZE:medium> Jest jeszcze jedna sprawa, o której musisz wiedzieæ! <LINE> <LINE> W przypadku ugryzienia przez zombie wciœnij '%1', a twoja postaæ po³knie antidotum przeciwko infekcji. <LINE> <LINE> Wciœnij klawisz %1, aby to wypróbowaæ!",
     IGUI_Tutorial1_Fight10 = " <CENTRE> <SIZE:medium> Ha ha, ¿artowaliœmy! <LINE> <LINE> Nie ma ratunku. Nie istnieje antidotum. <LINE> <LINE> ¯yczymy przyjemnej gry.",
 
+	IGUI_Tutorial1_Fight4New = " <CENTRE> <SIZE:medium> Nie us³ysza³a nas. Œwietnie! <LINE> <LINE> Skradanie siê to dobry sposób na unikniêcie wykrycia. Wciœnij %1 i podkradnij siê do p³otu. ",
+	IGUI_Tutorial1_Fight4NewBis = " <CENTRE> <SIZE:medium> Nie! Us³yszy ciê! <LINE> <LINE> Zacznij siê skradaæ, wciskaj¹c %1, i podejdŸ do p³otu.",
+	IGUI_Tutorial1_Fight5New = " <CENTRE> <SIZE:medium> Widzisz, jak twoja postaæ ni¿ej przykucnê³a przy ogrodzeniach? To dobry sposób na pozostanie w ukryciu. <LINE> <LINE> Nie wstawaj, podejdŸ do furtki i otwórz j¹, wciskaj¹c %1. ",
+	IGUI_Tutorial1_Fight5NewBis = " <CENTRE> <SIZE:medium> Nie! Zobaczy ciê! <LINE> <LINE> Wciœnij %1, podejdŸ do furtki i otwórz j¹, wciskaj¹c %2. ",
+
     IGUI_PlayerText_KnowSkill = "To ju¿ wiem.",
-    IGUI_PlayerText_BookObsolete = "Hmm, juz znam te ksiazke.",
+    IGUI_PlayerText_BookObsolete = "Hmm, znam to.",
     IGUI_PlayerText_DontUnderstand = "Nie rozumiem tego.",
     IGUI_PlayerText_TooComplicated = "To jest dla mnie zbyt skomplikowane.",
     IGUI_PlayerText_DontGet = "To jest dla mnie za trudne do zrozumienia.",
@@ -353,7 +358,7 @@ IGUI_PL = {
 
 	IGUI_GamePaused = "- Pauza -",
 	IGUI_UnknownBerry = "Nieznany owoc leœny",
-	IGUI_PoisonousBerry = "Truj¹ce owoce leœne",
+	IGUI_PoisonousBerry = "Truj¹cy owoc leœny",
 	IGUI_Berry = "Owoce leœne",
 	IGUI_UnknownMushroom = "Nieznany grzyb",
     IGUI_PoisonousMushroom = "Truj¹cy grzyb",
@@ -882,7 +887,7 @@ IGUI_PL = {
     IGUI_AdminPanel_HealthCheat = "Zdrowie: menu oszukiwania",
     IGUI_AdminPanel_ShowAdminTag = "Jeœli nic nie wybierzesz, nad twoj¹ g³ow¹ nie pojawi siê czerwony znacznik administratora.",
     IGUI_AdminPanel_ItemList = "Wyœwietlacz list przedmiotów",
-    IGUI_ItemList_Info = "Kliknij dwukrotnie przedmiot z listy lub przycisk poni¿ej, by dodaæ przedmiot do ekwipunku.",
+    IGUI_ItemList_Info = "Kliknij dwukrotnie przedmiot lub u¿yj przycisku poni¿ej, by dodaæ przedmiot do ekwipunku.",
 
     IGUI_Adm_Weather_ClimateControl = "Kontrola pogody",
     IGUI_Adm_Weather_Climate = "Klimat",
@@ -1052,4 +1057,7 @@ IGUI_PL = {
 	IGUI_SoundName_Ambient = "Œrodowisko",
 	IGUI_SoundName_Music = "Muzyka",
 	IGUI_SoundName_VehicleEngine = "Silnik pojazdu",
+
+
+	IGUI_RemovePropane = "Need to remove propane tank.",
 }

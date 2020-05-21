@@ -38,6 +38,16 @@ Challenge_PL = {
 	Challenge_Challenge2_WaveFinished = "Fala %1 zakoñczy siê w : %2",
 	Challenge_Challenge2_MoneyGained = "Zdobyte fundusze : %1",
 	Challenge_Challenge2_XPGained = "Zdobyte doœwiadczenie : %1",
+	
+	Challenge_Challenge2_CurrentXp = "PD : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 poz. %2 - %3 PD",
+	Challenge_Challenge2_ButtonSkillMax = "%1 poz. maks.",
+	Challenge_Challenge2_GoldBonus = "Premia z³ota",
+	Challenge_Challenge2_XpBonus = "Premia PD",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 PD",
+	Challenge_Challenge2_ButtonBonusMax = "%1 maks.",
+	Challenge_Challenge2_ButtonStartGold = "+%1 z³ota pocz¹tkowego - %2 PD",
+	Challenge_Challenge2_ButtonStartGoldMax = "Maks. z³oto pocz¹tkowe %1",
 	-- Window
 	Challenge_Challenge2_WindowTitle = "Ostatni bastion",
 	Challenge_Challenge2_TabPlayer = "Gracz",
