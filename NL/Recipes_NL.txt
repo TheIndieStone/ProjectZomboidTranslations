@@ -331,4 +331,5 @@ Recipes_NL = {
     Recipe_Wash_Clothing = "Was kleding",
     Recipe_Herbalist = "Kruiden Remedie",
     Recipe_Generator = "Generator Onderhoud",
+    Recipe_Saw Logs2 = "Zaag Stammen",
 }
