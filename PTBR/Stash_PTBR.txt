@@ -35,7 +35,7 @@ Stash_PTBR = {
     Stash_MulMap13_Text2 = "um monte de equipamentos ainda na loja de utensílios",
     Stash_MulMap13_Text3 = "disparos",
     Stash_WpMap1_Text1 = "Com certeza ele morava aqui",
-    Stash_WpMap1_Text2 = "Zumbis demais pra lidar, não dispare perto daqui, pelo amor de Deus";
+    Stash_WpMap1_Text2 = "Zumbis demais pra lidar, não dispare perto daqui, pelo amor de Deus;",
     Stash_WpMap2_Text1 = "acho que ela morava por aqui",
     Stash_WpMap2_Text2 = "centro médico",
     Stash_WpMap2_Text3 = "achei ela vagando aqui. não estava com a arma",
@@ -95,4 +95,5 @@ Stash_PTBR = {
     Stash_RosewoodStashMap3_Text11 = "O lugar da mamãe. Te vejo lá x",
     Stash_RosewoodStashMap3_Text2 = "pode ter armas aqui, só pra garantir",
     Stash_RosewoodStashMap3_Text3 = "não vá por aqui",
-};
+    Stash_MarchRidgeMap6_Text3 = "vazio pra caramba aqui fora",
+}
