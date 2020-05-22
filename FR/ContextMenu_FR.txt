@@ -1,4 +1,7 @@
 ContextMenu_FR = {
+---
+ContextMenu_Create_Spear = "Fabriquer une lance",
+---
 ContextMenu_Destroy = "Détruire ",
 ContextMenu_DestroyFloor = "Détruire le sol",
 ContextMenu_Grab = "Prendre ",
