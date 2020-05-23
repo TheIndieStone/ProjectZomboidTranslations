@@ -1,6 +1,6 @@
 Recipe_FR = {
 ---
-Recipe_Saw Logs2 = "Débiter en bûche",
+Recipe_Saw Logs2 = "Débiter en planches",
 ---
 Recipe_Make_Campfire_Kit = "Fabriquer un kit pour feu de camp",
 Recipe_GetSteelAndFlint = "Récupérer de l'acier et de la pierre à feu",
@@ -22,7 +22,7 @@ Recipe_Sawn-off = "Scier le canon",
 Recipe_Craft_Spiked_Plank = "Fabriquer une planche cloutée",
 Recipe_Empty_Whisky_Bottle = "Vider la bouteille de whisky",
 Recipe_Rip_bandages = "Déchirer en bandages",
-Recipe_Saw_Logs = "Débiter en bûche",
+Recipe_Saw_Logs = "Débiter en planches",
 Recipe_Make_Pot_of_Soup = "Cuisiner une marmite de soupe",
 Recipe_Slice_Watermelon = "Couper la pastèque",
 Recipe_Smash_Watermelon = "Écraser la pastèque",
