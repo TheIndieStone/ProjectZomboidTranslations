@@ -1274,4 +1274,8 @@ UI_PL = {
 	UI_optionscreen_FontSize2 = "2x",
 	UI_optionscreen_FontSize3 = "3x",
 	UI_optionscreen_FontSize4 = "4x",
+	
+	UI_optionscreen_aim_outline_tt = "Podœwietla zombie, do których postaæ celuje broni¹.",
+	UI_optionscreen_zombie_update_optimization_tt = "Zwiêksza p³ynnoœæ gry przez obni¿enie czêstotliwoœci aktualizacji zombie poza polem widzenia.",
+	UI_optionscreen_TimedActionGameSpeedReset = "Przywraca normaln¹ prêdkoœæ czasu po wykonaniu czynnoœci z paskiem postêpu.",
 }
