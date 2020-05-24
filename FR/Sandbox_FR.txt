@@ -528,7 +528,7 @@ Sandbox_CarAlarmFrequency_option5 = "Souvent",
 Sandbox_CarAlarmFrequency_option6 = "Très souvent",
 Sandbox_PlayerDamageFromCrash = "JOUEUR AFFECTÉ PAR LES ACCIDENTS :",
 Sandbox_PlayerDamageFromCrash_tooltip = "Active ou non les dégâts infligés au joueur suite à un accident de voiture.",
-Sandbox_SirenShutoffHours = "HEURES AVANT EXTINCTION DES SIRÈNES :",
+Sandbox_SirenShutoffHours = "DURÉE AVANT EXTINCTION DES SIRÈNES :",
 Sandbox_SirenShutoffHours_tooltip = "Nombre d'heures avant que les sirènes s'arrêtent.\n0.0 signifie qu'elles sont actives jusqu'à ce que la batterie soit vidée.",
 Sandbox_EnableVehicles = "ACTIVATION DES VÉHICULES :",
 --
