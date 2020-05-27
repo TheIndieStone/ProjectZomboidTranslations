@@ -312,6 +312,7 @@ IGUI_CraftCategory_Fishing = "Pêche",
 IGUI_CraftCategory_Trapper = "Trappeur",
 IGUI_CraftCategory_Engineer = "Ingénieur",
 IGUI_CraftCategory_Welding = "Travail des métaux",
+IGUI_CraftCategory_Smithing = "Forge",
 IGUI_CraftUI_Name_Filter = "Nom filtre :",
 -- Tutorial Stuff
 IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Bienvenue sur Project Zomboid ! <LINE> <LINE> <SIZE:medium>Vous allez bientôt connaître une fin horrible. Personne ne viendra vous pleurer, et vous serez rapidement oublié. Tout cela n'aura servi à rien. <LINE> <LINE> Assurons-nous donc que vous sortiez vous battre ! <LINE> <LINE> (Appuyez sur Espace pour continuer)",
