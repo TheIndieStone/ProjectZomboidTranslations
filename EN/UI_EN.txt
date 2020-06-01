@@ -357,6 +357,8 @@ UI_EN = {
     -- Last stand selecter (lua)
     UI_challenge_title = "CHALLENGES",
     UI_challengeplayer_title = "SELECT PLAYER",
+	UI_challengeplayer_PlayedTime = "Played time : %1",
+	UI_challengeplayer_XP = "Xp : %1",
     UI_challengeplayer_delete = "Are you sure you want to delete that player?",
     UI_characreation_random = "RANDOM",
     UI_characreation_SelectToLoad = "[--Select to load--]",
@@ -470,6 +472,10 @@ UI_EN = {
     UI_optionscreen_borderless = "Borderless Window",
     UI_optionscreen_borderless_tt = "Requires restart.",
     UI_optionscreen_TimedActionGameSpeedReset = "Resume normal speed when timed actions complete.",
+    UI_optionscreen_ShoulderButtonContainerSwitch = "Shoulder button container switching",
+    UI_optionscreen_ShoulderButtonContainerSwitch1 = "Left button inventory, right button loot",
+    UI_optionscreen_ShoulderButtonContainerSwitch2 = "Left button up, right button down",
+    UI_optionscreen_ShoulderButtonContainerSwitch3 = "Left + D-pad inventory, right + D-pad loot",
     -- key binding
     UI_optionscreen_binding_Crouch = "Sneak",
     UI_optionscreen_binding_Forward = " Forward",
@@ -1251,10 +1257,10 @@ UI_EN = {
     UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
     UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style.",
     UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
-            "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
-            "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
-            "<CENTRE> Some features have been temporarily disabled. <LINE><LINE> " ..
-            "<CENTRE> If you have issues: don't get mad, get involved. Let us know on our forums.",
+                    "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
+                    "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
+                    "<CENTRE> Some features have been temporarily disabled. <LINE><LINE> " ..
+                    "<CENTRE> If you have issues: don't get mad, get involved. Let us know on our forums.",
     UI_optionscreen_binding_Hotbar 1 = "Hotbar 1",
     UI_optionscreen_binding_Hotbar 2 = "Hotbar 2",
     UI_optionscreen_binding_Hotbar 3 = "Hotbar 3",

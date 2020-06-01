@@ -44,6 +44,15 @@ Challenge_EN = {
 	Challenge_Challenge2_Weapons = "Weapons",
 	Challenge_Challenge2_TabItems = "Items",
 	Challenge_Challenge2_TabRepair = "Repair",
+	Challenge_Challenge2_CurrentXp = "Xp : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 xp"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Gold Bonus",
+	Challenge_Challenge2_XpBonus = "Xp Bonus",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 xp",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Starting Gold - %2 xp",
+	Challenge_Challenge2_ButtonStartGoldMax = "Max Starting Gold %1",
 	-- PlayerUpWindow
 	Challenge_Challenge2_Skills = "Skills",
 	Challenge_Challenge2_PermanentBonus = "Permanent Bonus",
