@@ -209,7 +209,7 @@ Recipes_CN = {
 	Recipe_Make_Molotov_Cocktail = "制作燃烧弹",
 	Recipe_Make_Salad = "烹饪沙拉",
 	Recipe_Make_Sandwich = "制作三明治",
-	Recipe_Make_Sturdy_Stick = "制作硬木棒",
+	Recipe_Make_Sturdy_Stick = "制作结实木棒",
 	Recipe_Make_Three-Log_Stack = "捆起原木[3]",
 	Recipe_Make_Two-Log_Stack = "捆起原木[2]",
 	Recipe_Make_Wooden_Spear = "制作木矛",
@@ -354,5 +354,5 @@ Recipes_CN = {
 	Recipe_Rip_sheets = "撕开衣服",
 	Recipe_Generator = "发电机维护",
 	Recipe_Herbalist = "草药疗法",
-    Recipe_Saw Logs2 = "锯木",
+	Recipe_Saw Logs2 = "锯木",
 }

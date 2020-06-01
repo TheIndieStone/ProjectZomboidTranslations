@@ -228,4 +228,6 @@ Tooltip_CN = {
 	Tooltip_Dashboard_NoKey = "找不到这辆车的钥匙",
 	Tooltip_Dashboard_Hotwired = "已短接",
     Tooltip_Dashboard_SpeedRegulator = "按 %1 + %2 来启动/增加巡航速度， %1 + %3 来降低巡航速度， 刹车就会关掉它。",
+    Tooltip_CantSprintEquipped = "手上拿着的时候无法冲刺。",
+    Tooltip_NeedMirror = "你需要一个镜子物品或者站在镜子前面。",
 }
