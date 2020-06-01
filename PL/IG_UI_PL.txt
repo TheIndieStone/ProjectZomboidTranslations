@@ -960,8 +960,8 @@ IGUI_PL = {
     IGUI_anim_Run = "Biegnie",
     IGUI_HotbarAttachment_HolsterLeft = "Lewa kabura",
     IGUI_HotbarAttachment_HolsterRight = "Prawa kabura",
-    IGUI_HotbarAttachment_SmallBeltLeft = "Prawy pasek",
-    IGUI_HotbarAttachment_SmallBeltRight = "Lewy pasek",
+    IGUI_HotbarAttachment_SmallBeltLeft = "Lewy pasek",
+    IGUI_HotbarAttachment_SmallBeltRight = "Prawy pasek",
     IGUI_HotbarAttachment_Back = "Plecy",
     IGUI_Washing_NeedSoap = "Wymaga myd³a",
 	IGUI_perks_Woodwork = "Stolarstwo",
@@ -1039,4 +1039,17 @@ IGUI_PL = {
 	
 	IGUI_Controller_CruiseControl = "Tempomat",
 	
+	IGUI_SelectMakeUp = "Wybierz makija¿",
+	IGUI_SelectBodyLocation = "Wybierz miejsce",
+	IGUI_AddMakeUp = "Dodaj makija¿",
+	IGUI_RemoveMakeUp = "Usuñ makija¿",
+	IGUI_MakeUp = "Na³ó¿ makija¿",
+	
+	IGUI_TypeOfPatch = "£atka: %1",
+	IGUI_invpage_RemoveAll = "Usuñ wszystko",
+	IGUI_ConfirmDeleteItems = "Usun¹æ wszystkie przedmioty?",
+	IGUI_SoundName_Primary = "G³ówny",
+	IGUI_SoundName_Ambient = "Œrodowisko",
+	IGUI_SoundName_Music = "Muzyka",
+	IGUI_SoundName_VehicleEngine = "Silnik pojazdu",
 }

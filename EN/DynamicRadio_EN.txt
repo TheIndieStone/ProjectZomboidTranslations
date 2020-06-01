@@ -62,9 +62,9 @@ DynamicRadio_EN {
     AEBS_zone_name_e = "East",
     AEBS_zone_name_se = "South-East",
 
-    AEBS_random_0 = "All personel. Temporary communications failure for %s exclusion zone... sectors %i, %i, %i and %i",
+    AEBS_random_0 = "All personnel. Temporary communications failure for %s exclusion zone... sectors %i, %i, %i and %i",
     AEBS_random_1 = "charlie <fzzt> india - alpha, <bzzt> designated zone <bzzt> sector %i <wzzt>",
-    AEBS_random_2 = "all personel <bzzt> order <fzzt> %i has been issued<wzzt>",
+    AEBS_random_2 = "All personnel <bzzt> order <fzzt> %i has been issued<wzzt>",
     AEBS_random_3 = "...%s <fzzt> activity in sector %i <wzzt>",
     --AEBS_random_4 = "<fzzt>",
     AEBS_random_5 = "<bzzt>..elp me! <fzzt> for the love of <szzt> PLEASE NO!! <fzzt> help... <wzzt>",

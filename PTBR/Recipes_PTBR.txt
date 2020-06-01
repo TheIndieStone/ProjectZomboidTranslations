@@ -369,4 +369,5 @@ Recipes_PTBR = {
     Recipe_Write_Journal = "Escrever no Diário",
     Recipes_Get_Wire_Back = "Retirar Arame",
     Recipes_Make_Splint = "Fazer Tala",
+    Recipe_Saw Logs2 = "Serrar Troncos",
 }

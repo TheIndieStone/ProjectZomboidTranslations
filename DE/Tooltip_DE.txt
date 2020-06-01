@@ -227,4 +227,6 @@ Tooltip_DE = {
     Tooltip_OpenCloseCurtains = "Tastatur: Drücke UMSCHALT-%1<br>Maus: UMSCHALT-Linke Maustaste.",
     Tooltip_weapon_NoClip = "Benötigt Magazin um zu funktionieren.",
     Tooltip_RunSpeedModifier = "Renngeschwindigkeit Modifikator",
+    Tooltip_NeedMirror = "Du benötigst einen Spiegel im Inventar oder vor Dir.",
+    Tooltip_CantSprintEquipped = "Kein Sprinten möglich, wenn in der Hand gehalten.",
 }
