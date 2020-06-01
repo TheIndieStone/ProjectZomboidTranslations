@@ -17,7 +17,7 @@ Challenge_RU = {
 	Challenge_Challenge2_name = "07. Одинокая хибара в лесу - Последний рубеж (версия 2)",
 	Challenge_Challenge2_desc = "Приготовьтесь к краткой и боевой игре в Zomboid. Мёртвоголовые лезут со всех дыр. <LINE> Эта лачуга станет вашей могилой, но насколько долго вы продержитесь против полчищ зомби? <LINE> Настало время использовать тот самый дробовик, собирающий пыль... <BR> Характерны полчища зомби, количество которых со временем увеличивается. <LINE> Используйте заработанные деньги для покупки и починки вашего арсенала.",
 	
-	Challenge_AStormIsComing_name = "03. Шторм близко",
+	Challenge_AStormIsComing_name = "03. Надвигается шторм",
 	Challenge_AStormIsComing_desc = "Тучи сгущаются над Кентукки. Вдалеке слышится раскат грома. <LINE> <LINE> Когда темнеет, мёртвые, спотыкаясь о землю, становятся беспокойными. <LINE> <LINE> Эта буря будет то усиливаться, то ослабевать, но она никогда не закончится.",
 	-- On-screen UI
 	Challenge_TheDescendingFog_name = "04. Схождение тумана",
@@ -29,8 +29,8 @@ Challenge_RU = {
 	Challenge_Studio_name = "09. Студия",
 	Challenge_Studio_desc = "Место, где снимаются все лучшие фильмы!",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Нажмите 'o' для распределения ваших очков и покупки оружия.",
-	Challenge_Challenge2_WaveStart = "Волна %1 через: %2 (нажмите Enter, чтобы пропустить отсчёт)",
+	Challenge_Challenge2_PressKey = "Нажмите 'O' для распределения очков опыта и покупки оружия.",
+	Challenge_Challenge2_WaveStart = "Волна %1 начнётся через: %2 (нажмите 'ENTER', чтобы пропустить отсчёт)",
 	Challenge_Challenge2_WaveDuration = "Волна %1: %2",
 	Challenge_Challenge2_ZombiesLeft = "Осталось зомби: %1",
 	Challenge_Challenge2_Money = "Деньги: %1",
@@ -44,6 +44,15 @@ Challenge_RU = {
 	Challenge_Challenge2_Weapons = "Оружие",
 	Challenge_Challenge2_TabItems = "Предметы",
 	Challenge_Challenge2_TabRepair = "Починка",
+	Challenge_Challenge2_CurrentXp = "Опыт: %1XP",
+	Challenge_Challenge2_GoldBonus = "Бонус к деньгам",
+	Challenge_Challenge2_XpBonus = "Бонус к опыту",
+	Challenge_Challenge2_ButtonSkill = "%1, ур.%2 - %3XP",
+	Challenge_Challenge2_ButtonSkillMax = "%1 - больше некуда!",
+	Challenge_Challenge2_ButtonBonus = "%2 %1% - %3XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 - больше некуда!",
+	Challenge_Challenge2_ButtonStartGold = "+%1 к стартовым деньгам - %2XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "+%1 к стартовым деньгам - больше некуда!",
 	-- PlayerUpWindow
 	Challenge_Challenge2_Skills = "Навыки",
 	Challenge_Challenge2_PermanentBonus = "Пожизненный бонус",

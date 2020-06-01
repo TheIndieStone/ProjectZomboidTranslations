@@ -167,8 +167,8 @@ Moodles_NL = {
     Moodles_windchill_desc_lvl3 = "Het voelt 15 tot 20 graden kouder dan dat het eigenlijk is.",
     Moodles_windchill_desc_lvl2 = "Het voelt 10 tot 15 graden kouder dan dat het eigenlijk is.",
     Moodles_windchill_desc_lvl1 = "Het voelt 5 tot 10 graden kouder dan dat het eigenlijk is.",
-    Moodles_windchill_lvl4 = "Ondraagzame windchill",
-    Moodles_windchill_lvl3 = "Ijskoude windchill",
-    Moodles_windchill_lvl2 = "Oncomfortabele windchill",
-    Moodles_windchill_lvl1 = "Lichte windchill",
+    Moodles_windchill_lvl4 = "Ondraagzame windkou",
+    Moodles_windchill_lvl3 = "Ijskoude windkou",
+    Moodles_windchill_lvl2 = "Oncomfortabele windkou",
+    Moodles_windchill_lvl1 = "Lichte windkou",
 }

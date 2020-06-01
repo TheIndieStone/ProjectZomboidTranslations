@@ -1,0 +1,37 @@
+MakeUp_RU = {
+	MakeUpCategory_Eyes = "Глаза",
+	MakeUpCategory_EyesShadow = "Тени для век",
+	MakeUpCategory_FullFace = "Всё лицо",
+	MakeUpCategory_Lips = "Губы",
+	
+	MakeUpType_EyesCrow = "Ворон",
+	MakeUpType_EyesRedStripes1 = "Полосы красные 1",
+	MakeUpType_EyesRedStripes2 = "Полосы красные 2",
+	MakeUpType_EyesCamo1 = "Камуфляж 1",
+	MakeUpType_EyesCamo2 = "Камуфляж 2",
+	MakeUpType_EyesCamoStripes = "Полосы",
+	MakeUpType_EyesFootball = "Футбол",
+	
+	MakeUpType_EyeShadowWhite = "Белые тени",
+	MakeUpType_EyeShadowLightBlue = "Голубые тени",
+	MakeUpType_EyeShadowBlue = "Синие тени",
+	MakeUpType_EyeShadowRed = "Красные тени",
+	MakeUpType_EyeShadowPink = "Розовые тени",
+	MakeUpType_EyeShadowGreen = "Зелёные тени",
+	MakeUpType_EyeShadowYellow = "Жёлтые тени",
+	
+	MakeUpType_FullFaceCamo1 = "Полный камуфляж 1",
+	MakeUpType_FullFaceCamo2 = "Полный камуфляж 2",
+	MakeUpType_FullFaceWarrior = "Воин",
+	MakeUpType_FullFaceClown1 = "Клоун 1",
+	MakeUpType_FullFaceClown2 = "Клоун 2",
+	MakeUpType_FullFaceSkull1 = "Череп 1",
+	MakeUpType_FullFaceSkull2 = "Череп 2",
+	
+	MakeUpType_LipsRed = "Красная помада",
+	MakeUpType_LipsLightBlue = "Голубая помада",
+	MakeUpType_LipsBlue = "Синяя помада",
+	MakeUpType_LipsBlack = "Чёрная помада",
+	MakeUpType_LipsGreen = "Зелёная помада",
+	MakeUpType_LipsPink = "Розовая помада",
+}

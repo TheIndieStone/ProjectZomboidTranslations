@@ -1,4 +1,4 @@
-﻿Items_CN = {
+Items_CN = {
 	DisplayName_.223_Ammo = ".223 子弹",
 	DisplayName_.223_Magazine = ".223 弹匣",
 	DisplayName_.308_Ammo = ".308子弹",
