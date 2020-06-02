@@ -418,4 +418,8 @@ ContextMenu_NL = {
     ContextMenu_Add_escape_rope_sheet = "Ontsnappings Touw Toevoegen (laken)",
     ContextMenu_Merge = "Toevoegen aan",
     ContextMenu_Add_escape_rope = "Ontsnappings Touw Toevoegen",
+    ContextMenu_FireplaceInfo = "Openhaard Info",
+    ContextMenu_FillAll = "Vul Alles",
+    ContextMenu_Vehicle_Wash = "Was Voertuig",
+    ContextMenu_FoodType_Coffee = "Kofie",
 }
