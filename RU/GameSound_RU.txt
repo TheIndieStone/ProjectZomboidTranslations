@@ -4,20 +4,6 @@ GameSound_RU = {
 	GameSound_ButtonReload_tt = "Перезагрузить все sounds.txt файлы.",
 	GameSound_VolumeControlTooltip = "Громкость: %1%<br>Громкость %2 %3%",
 	
-	/* должно подставляться в GameSound_VolumeControlTooltip(%2), но не срабатывает, см. projectzomboid/media/lua/client/ISUI/ISGameSoundVolumeControl.lua */ 
-	GameSound_music_volume = "музыки",
-	GameSound_sound_volume = "звука",
-	GameSound_ambient_volume = "окружения",
-	GameSound_vehicle_engine_volume = "двигателя автомобиля",
-	GameSound_Primary = "звука",
-	GameSound_Ambient = "окружения",
-	GameSound_Music = "музыки",
-	GameSound_VehicleEngine = "двигателя автомобиля",
-	GameSound_optionscreen_sound_volume = "звука",
-	GameSound_optionscreen_ambient_volume = "окружения",
-	GameSound_optionscreen_music_volume = "музыки",
-	GameSound_optionscreen_vehicle_engine_volume = "двигателя автомобиля",
-	
 	/* These are the names of tabs in the ui. */
 	/* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
 	GameSound_Category_AUTO = "Авто",
