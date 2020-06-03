@@ -221,8 +221,8 @@ Recipe_RU = {
 	Recipe_Make_Timer = "—обрать таймер",
 	-- 07. «доровье
 	Recipe_Clean_Bandage = "ќчистить бинт",
-	Recipe_Clean_Denim_Strips = "ќчистить тр€пку",
-	Recipe_Clean_Leather_Strips = "ќчистить тр€пку",
+	Recipe_Clean_Denim_Strips = "ќчистить джинсовую тр€пку",
+	Recipe_Clean_Leather_Strips = "ќчистить кожаную тр€пку",
 	Recipe_Clean_Rag = "ќчистить тр€пку",
 	Recipe_Disinfect_Bandage = "ƒезинфицировать бинт",
 	Recipe_Disinfect_Rag = "ƒезинфицировать тр€пку",
@@ -231,7 +231,7 @@ Recipe_RU = {
 	Recipe_Make_Plantain_Poultice = "ѕриготовить припарку подорожника",
 	Recipe_Make_Splint = "—делать шину",
 	Recipe_Make_Wild_Garlic_Poultice = "ѕриготовить припарку дикого чеснока",
-	Recipe_Put_Alcohol_on_Cotton = "—мочить в алкоголе",
+	Recipe_Put_Alcohol_on_Cotton = "ƒезинфицировать ватные шарики",
 	-- 08. √азосварка
 	Recipe_Make_Metal_Sheet = "—делать лист металла",
 	Recipe_Make_Small_Metal_Sheet = "—делать маленький лист металла",
