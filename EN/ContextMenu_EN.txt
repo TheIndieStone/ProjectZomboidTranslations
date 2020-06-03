@@ -393,6 +393,7 @@ ContextMenu_EN = {
     ContextMenu_Rack = "Rack %1",
     ContextMenu_Unjam = "Unjam %1",
     ContextMenu_InsertBullets = "Insert %1 %2 in %3",
+    ContextMenu_UnloadRounds = "Unload %1",
     ContextMenu_TrimBeard = "Shave Beard",
     ContextMenu_TrimBeard_For = "Trim Beard for %1",
     ContextMenu_CutHair = "Cut Hair",
