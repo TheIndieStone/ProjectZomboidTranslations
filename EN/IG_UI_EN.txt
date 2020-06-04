@@ -88,7 +88,7 @@ IGUI_EN = {
 	IGUI_health_Scratch = "Scratch",
 	-- Skills
 	IGUI_skills_Multiplier = "Multiplier: %1",
-	IGUI_XP_xp = " xp",
+	IGUI_XP_xp = " XP",
 	IGUI_XP_tooltipxp = "XP: %1 / %2",
 	IGUI_XP_tooltipxpboost = "XP Boost: +%1",
 	IGUI_XP_Locked = "Locked",
