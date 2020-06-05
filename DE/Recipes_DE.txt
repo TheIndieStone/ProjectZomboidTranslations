@@ -329,4 +329,6 @@ Recipes_DE = {
     Recipe_Herbalist = "Pflanzliche Heilmittel",
     Recipe_Saw Logs2 = "Baumstamm zers‰gen",
     Recipe_Generator = "Generator Instandhaltung",
+    Recipe_Close_Umbrella = "Schlieﬂe Regenschirm",
+    Recipe_Open_Umbrella = "÷ffne Regenschirm",
 }
