@@ -45,4 +45,13 @@ Challenge_DE = {
     Challenge_Studio_name = "Filmstudio",
     Challenge_Kingsmouth_desc = "Genieﬂe einen entspannten Aufenthalt auf Kingsmouth Island!",
     Challenge_Kingsmouth_name = "Kingsmouth",
+    Challenge_Challenge2_GoldBonus = "Gold Bonus",
+    Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+    Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP",
+    Challenge_Challenge2_ButtonStartGoldMax = "Max Starting Gold %1",
+    Challenge_Challenge2_XpBonus = "XP Bonus",
+    Challenge_Challenge2_ButtonStartGold = "+%1 Starting Gold - %2 XP",
+    Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+    Challenge_Challenge2_CurrentXp = "XP : %1",
+    Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
 }
