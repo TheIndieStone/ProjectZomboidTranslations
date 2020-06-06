@@ -1341,4 +1341,9 @@ ItemName_NL = {
     ItemName_Base.223Box = ".223 munitiedoosje",
     ItemName_Base.223Bullets = ".223 munitie",
     ItemName_Base.223Clip = ".223 Magazine",
+    ItemName_Base.WaterBleachBottle = "Bleekmiddel Fles met Water",
+    ItemName_Base.Shoes_FlipFlop = "Flip-flops",
+    ItemName_Base.Bag_FannyPackBack = "Fanny Pack (Achter)",
+    ItemName_Base.Bag_FannyPackFront = "Fanny Pack (Voor)",
+    ItemName_Base.Briefcase = "Koffertje",
 }
