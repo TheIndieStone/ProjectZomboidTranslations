@@ -128,6 +128,7 @@ UI_EN = {
     UI_optionscreen_aim_outline_tt = "Highlights zombies the player is aiming a firearm at."
     UI_optionscreen_zombie_update_optimization = "Tiered Zombie Updates",
     UI_optionscreen_zombie_update_optimization_tt = "Improves performance by updating out-of-sight zombies less frequently.",
+    UI_optionscreen_ShowProgressBar = "Show Overhead Progress Bars for All Player Actions",
     UI_restart_game_to_apply = "Restart Project Zomboid to apply changes.",
     UI_All = "All",
     UI_GroundWithRuts = "Ground with Ruts",
