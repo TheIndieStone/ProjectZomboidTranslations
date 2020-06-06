@@ -178,7 +178,7 @@ UI_DE = {
     UI_ServerOption_RCONPassword_tooltip = "RCON Passwort",
     UI_ServerOption_SteamPort1_tooltip = "Der UDP-Port für Steam. Dieser Port muss für Steam-fähige Server weitergeleitet werden.",
     UI_ServerOption_SteamPort2_tooltip = " Zweiter UDP-Port für Steam. Derzeit unbenutzt.",
-    UI_ServerOption_WorkshopItems_tooltip = "Liste von Workshop Mod IDs für den Server zum Download. Getrennt durch ein Semikolon ( ; ). Beispiel: WorkshopItems = 514427485; 513111049",
+    UI_ServerOption_WorkshopItems_tooltip = "Liste von Workshop Mod IDs f?r den Server zum Download. Getrennt durch ein Semikolon ( ; ). Beispiel: WorkshopItems = 514427485; 513111049",
     UI_ServerOption_SteamVAC_tooltip = "Aktiviert das Steam-VAC-System.",
     UI_ServerOption_CoopServerLaunchTimeout_tooltip = "Dies ist undokumentiert und sollte nicht geändert werden.",
     UI_ServerOption_CoopMasterPingTimeout_tooltip = "Dies ist undokumentiert und sollte nicht geändert werden.",
@@ -224,7 +224,7 @@ UI_DE = {
     UI_ServerOptionDesc_Players = "Liste der verbundenen Spieler",
     UI_ServerOptionDesc_ServerMsg = "Verwende diese Option, um eine Nachricht an alle verbundenen Spieler zu senden. Befehl: /servermsg Meine Nachricht!",
     UI_ServerOptionDesc_NightModifier = "Setzt den Multiplikator für die Nachtlänge (1.0: normal, 0.5: halb, 0.0: keine Nacht. Befehl: /nightlengthmodifier <delta>",
-    UI_ServerOptionDesc_AddXp = "Fügt Erfahrungspunkte zu einem Spieler hinzu. Befehl: /addxp 'Benutzername' perkname=xp, Beispiel: /addxp 'MaxMustermann' Woodwork=2",
+    UI_ServerOptionDesc_AddXp = "F?gt Erfahrungspunkte zu einem Spieler hinzu. Befehl: /addxp 'Benutzername' perkname=xp, Beispiel: /addxp 'MaxMustermann' Woodwork=2",
     UI_ServerOptionDesc_Teleport = "Teleportiert zu einem Spieler, einmal teleportiert warte 2 Sekunden. Befehl: /teleport 'Benutzername' oder /teleport 'Benutzername-1' 'Benutzername-2', Beispiel: /teleport \MaxMustermann\ oder /teleport \MaxMustermann\ \zuHansWurst\",
     UI_ServerOptionDesc_SendPulse = "Schaltet die Server-Performance-Info an. Befehl: /sendpulse",
     UI_ServerOptionDesc_NoClip = "Ein Spieler mit noclip wird nicht mit irgendetwas kollidieren. Wenn kein Wert gesetzt ist, wird hin und her geschaltet. Befehl: /noclip \Benutzername\ -wert, Beispiel: /noclip \MaxMustermann\ -true (könnte auch -false sein)",
@@ -1222,7 +1222,12 @@ UI_DE = {
     UI_mods_ID = "ID: %1",
     UI_mods_ModDisable = "Deaktivieren",
     UI_ModsNagPanel_Text = "Mods werden von Mitgliedern der Project Zomboid Gemeinschaft erstellt. <BR> Mods, die für ältere Versionen erstellt wurden, können möglicherweise nicht richtig funktionieren. Dies gilt insbesondere, wenn du den I-Will-Back-Up-My-Save (IWBUMS) Zweig spielst. <BR> Wenn du Fehler beim Spielen von Project Zomboid entdeckst, versuche bitte zuerst ein Spiel ohne Mods zu spielen, bevor du Fehler im Forum meldest.",
-    UI_News_Anim = "<H1> WILLKOMMEN ZUR BUILD 41 OFFENEN BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  ..",
+    UI_News_Anim = "<H1> WILLKOMMEN ZUR OFFENEN BUILD 41 BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  " ..
+                    "<CENTRE> <SIZE:large> Dies ist eine "Work in Progres"-Version des größten Code- und Content-Updates, das PZ je hatte. <LINE><LINE> " ..
+                    "<CENTRE> Es wird Bugs und Balance Probleme geben. Außerdem sind stetig Performance-Optimierungen in Arbeit. <LINE><LINE> " ..
+                    "<CENTRE> Einige Features wurden temporär deaktiviert. <LINE><LINE> " ..
+                    "<CENTRE> Wenn Du auf Probleme und/oder Bugs stößt: werde nicht wütend. Engagier Dich und mach mit. <LINE><LINE> " ..
+                    "<CENTRE> Teil deine Erfahrung in unserem Forum auf theindiestone.com mit uns. <LINE><LINE> ",
     UI_optionscreen_puddles = "Pfützen Qualität",
     UI_optionscreen_DblTapRunToSprint = "Drücke %1 doppelt zum Sprinten",
     UI_profdesc_burglar = "Kann Fahrzeuge kurzschließen, geringere Chance das Schloss eines Fensters zu beschädigen.",
@@ -1264,4 +1269,7 @@ UI_DE = {
     UI_optionscreen_aim_outline_tt = "Hebt Zombies hervor, auf die der Spieler mit einer Schusswaffe zielt.",
     UI_optionscreen_zombie_update_optimization_tt = "Verbessert die Spielperformance indem Zombies, die sich außerhalb der Sichtweite des Spielers befinden, weniger häufig aktualisiert werden.",
     UI_optionscreen_FontSize = "Schriftgröße",
+    UI_optionscreen_ShowProgressBar = "Zeige Fortschrittsbalken für alle Spieleraktionen an.",
+    UI_challengeplayer_XP = "XP : %1",
+    UI_challengeplayer_PlayedTime = "Gespielte Zeit : %1",
 }
