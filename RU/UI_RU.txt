@@ -1,7 +1,7 @@
 UI_RU = {
 	-- Main screen (lua) :
 	UI_mainscreen_laststand = "ПОСЛЕДНИЙ РУБЕЖ",
-	UI_mainscreen_option = "ОПЦИИ",
+	UI_mainscreen_option = "НАСТРОЙКИ",
 	UI_mainscreen_debug = "ОТЛАДКА",
 	UI_mainscreen_demoBtn = "ДЕМО",
 	UI_mainscreen_challenges = "ИСПЫТАНИЯ",
@@ -1150,7 +1150,7 @@ UI_RU = {
 	UI_TradingUIHelp = "<CENTRE> <SIZE:medium> Используйте этот экран, чтобы безопасно торговать с другими. <LINE> <LINE> <SIZE:small> <LEFT> Вам нужно перетаскивать предметы из своего основного инвентаря в список «Ваше предложение», чтобы добавлять предметы для торговли, предметы из вашего рюкзака или с земли нельзя добавить. <LINE> <LINE> Когда вы закончите с вашим предложением, вы должны нажать галочку «Запечатать ваше предложение» <LINE> Когда оба игрока нажали на это поле, один из вас может нажать кнопку «Завершить сделку», чтобы перенести все предметы. <LINE> <LINE> Если другой игрок изменит свое предложение, пока вы закроете свое, вам придется снова его запечатать.",
 	UI_UnZoom = "Сброс. масштаба.",
 	UI_Zoom = "Масштаб",
-	UI_Details = "Подробнее",
+	UI_Details = "Новости",
 	UI_NewsVersion = "Версия",
 	UI_WorldSelecter_title = "Выбор мира",
 	UI_btn_experimentalVehicles = "Тест машин",
@@ -1268,4 +1268,5 @@ UI_RU = {
 	UI_optionscreen_ShoulderButtonContainerSwitch1 = "Левая кнопка - инвентарь, правая - лут",
 	UI_optionscreen_ShoulderButtonContainerSwitch2 = "Левая кнопка - вверх, правая - вниз",
 	UI_optionscreen_ShoulderButtonContainerSwitch3 = "Левая + D-пад - инвентарь, правая + D-пад - лут",
+	UI_optionscreen_ShowProgressBar = "Отображать полоску прогресса для всех действий игрока",
 }
