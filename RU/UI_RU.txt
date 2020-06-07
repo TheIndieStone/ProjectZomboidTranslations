@@ -160,8 +160,8 @@ UI_RU = {
 	-- World screen (lua)
 	UI_LoadGameScreen_title = "ВЫБОР СОХРАНЁННОЙ ИГРЫ",
 	UI_LoadGameScreen_Mods = "Моды:",
-	UI_LoadGameScreen_NoMods = "Не использует моды.",
-	UI_LoadGameScreen_NoModsTxt = "Этот файл сохранения не имеет файла mods.txt, поэтому он будет использовать все моды, которые сейчас включены.",
+	UI_LoadGameScreen_NoMods = "не используются",
+	UI_LoadGameScreen_NoModsTxt = "будут использованы все моды, которые сейчас включены,<br>т.к. сохранение не имеет своего файла mods.txt",
 	UI_LoadGameScreen_ButtonChooseMods = "Выбрать моды...",
 	UI_LoadGameScreen_ChooseModsText = "Вы можете изменить список модов, которые использует это сохранение.<br>Добавление или отключение модов может повредить сохранение. Добавление или отключение карт не поддерживается.",
 	UI_LoadGameScreen_ButtonBrowseFiles = "Открыть расположение файла",

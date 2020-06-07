@@ -63,8 +63,6 @@ Challenge_RU = {
 	Challenge_Challenge2_ItemButton2 = "%1 x %2 - %3",
 	-- WeaponRepairWindow
 	Challenge_Challenge2_RepairWeapon = "Починить оружие",
-	-- WeaponUpWindow
-	Challenge_Challenge2_Health = "Здоровье",
 	
 	Challenge_OpeningHoursInfoBox = " <CENTRE> Торговый центр открывает двери для своих посетителей в 9 утра...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> Через три дня наступит бесконечная зима. <LINE> <LINE> Ищите тёплую одежду...",
