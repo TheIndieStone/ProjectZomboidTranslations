@@ -4,9 +4,22 @@
  * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
  */
 Items_RU = {
-	-- для тултипа "требуется: %1/%2" над пунктом "курить", когда нет спичек и зажигалки
+	/* для тултипа "требуется: %1/%2" над пунктом "курить", когда нет спичек и зажигалки */
 	DisplayName_Lighter = "Зажигалка",
 	DisplayName_Matches = "Спички",
-	-- в коде отмечено как устаревшее, но всё ещё появляется в Evolved-рецептах
+	
+	/* для тултипов "требуется" в меню "Сварить" (ранее - "Газосварка") - не срабатывает ItemName */
+	DisplayName_Blow_Torch = "Пропановая горелка",
+	DisplayName_Welding_Mask = "Сварочная маска",
+	DisplayName_Welding_Rods = "Сварочные электроды",
+	DisplayName_Scrap_Metal = "Металлолом",
+	DisplayName_Metal_Sheet = "Лист металла",
+	DisplayName_Small_Metal_Sheet = "Маленький лист металла",
+	DisplayName_Metal_Bar = "Металлическая пластина",
+	DisplayName_Metal_Pipe = "Металлическая труба",
+	DisplayName_Wire = "Проволока",
+	DisplayName_Hinge = "Дверная петля",
+	
+	/* в коде отмечено как устаревшее, но всё ещё появляется в Evolved-рецептах */
 	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (устаревшее)",
 }
