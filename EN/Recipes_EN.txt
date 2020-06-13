@@ -60,6 +60,7 @@ Recipes_EN = {
     Recipe_Get_Bacon_Bits = "Get Bacon Bits",
     Recipe_Get_Bacon_Rashers = "Get Bacon Strips",
     Recipe_Get_Wire_Back = "Get Wire Back",
+    Recipe_Insert_Battery_into_Duck = "Insert Battery into Duck",
     Recipe_Herbalist = "Herbal Remedies",
     Recipe_Insert_Battery_into_Flashlight = "Insert Battery into Flashlight",
     Recipe_Light_Candle = "Light Candle",

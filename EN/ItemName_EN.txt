@@ -915,6 +915,7 @@ ItemName_EN = {
     ItemName_Base.RosewoodMap = "Rosewood Map",
     ItemName_Base.RubberBand = "Rubber Band",
     ItemName_Base.Rubberducky = "Rubber Duck",
+    ItemName_Base.Rubberducky2 = "Rubber Duck",
     ItemName_Base.Salmon = "Salmon",
     ItemName_Base.Salt = "Salt",
     ItemName_Base.Sandbag = "Sand Bag",
