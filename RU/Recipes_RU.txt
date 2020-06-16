@@ -5,6 +5,7 @@ Recipe_RU = {
 	Recipe_Drill_Plank = "Сделать доску для розжига",
 	Recipe_Gather_Gunpowder = "Изъять оружейный порох",
 	Recipe_Insert_Battery_into_Flashlight = "Вставить батарейку",
+	Recipe_Insert_Battery_into_Duck = "Вставить батарейку",
 	Recipe_Light_Candle = "Зажечь свечу",
 	Recipe_Make_Mattress = "Сшить матрас",
 	Recipe_Make_Molotov_Cocktail = "Сделать коктейль Молотова",
