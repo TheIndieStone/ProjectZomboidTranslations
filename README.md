@@ -29,9 +29,9 @@ Windows binaries are provided, but the jar can also be run with OpenJDK8 and Ope
 
 ## Testing Translations Locally
 
-To test the translations (or modifie English texts) in your game, place the files from this repository in `…\projectzomboid\media\lua\shared\Translate`
+To test the translations (or modify English texts) in your game, place the files from this repository in `…\projectzomboid\media\lua\shared\Translate`
 
-You can back the original translation first and then replace the folder or copy/make a symbolic/hard link to a mirror of this repository.
+You can back up the original translation first and then replace the folder or copy/make a symbolic/hard link to a mirror of this repository.
 
 ## Joining As Contributor
 
