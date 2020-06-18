@@ -1263,4 +1263,5 @@ UI_NL = {
     UI_optionscreen_ShoulderButtonContainerSwitch2 = "Linkerknop omhoog, Rechterknop omlaag",
     UI_optionscreen_ShoulderButtonContainerSwitch1 = "Linkerknop inventory, Rechterknop looten",
     UI_optionscreen_ShowProgressBar = "Toon overhead voortgangsbalken voor alle acties van spelers.",
+    UI_ClothingTextureType = "Type %1",
 }
