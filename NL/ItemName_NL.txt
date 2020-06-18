@@ -1346,4 +1346,5 @@ ItemName_NL = {
     ItemName_Base.Bag_FannyPackBack = "Fanny Pack (Achter)",
     ItemName_Base.Bag_FannyPackFront = "Fanny Pack (Voor)",
     ItemName_Base.Briefcase = "Koffertje",
+    ItemName_Base.Rubberducky2 = "Rubber Eendje",
 }
