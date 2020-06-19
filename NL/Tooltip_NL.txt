@@ -228,4 +228,9 @@ Tooltip_NL = {
     Tooltip_NeedMirror = "Je hebt een spiegel of spiegel item nodig.",
     Tooltip_Dashboard_Hotwired = "Hotwired",
     Tooltip_CantSprintEquipped = "Kan niet sprinten met dit in jouw hand.",
+    Tooltip_Vehicle_WashTitle = "Was Voertuig",
+    Tooltip_TapKey = "Toetsenboord: Tap %1",
+    Tooltip_Vehicle_WashWaterRequired2 = "1 unit water in inventory.",
+    Tooltip_Vehicle_WashWaterRequired3 = "%1 units water in inventory.",
+    Tooltip_Vehicle_WashWaterRequired1 = "Vereist minsten %1 units water per oppervlakte.",
 }

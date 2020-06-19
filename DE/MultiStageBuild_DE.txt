@@ -1,6 +1,6 @@
 MultiStageBuild_DE = {
-	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "HolztÃ¼rrahmen verbessern - Stufe 2",
-	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "HolztÃ¼rrahmen verbessern - Stufe 3",
+	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Holztürrahmen verbessern - Stufe 2",
+	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Holztürrahmen verbessern - Stufe 3",
 	MultiStageBuild_CreateWoodenWall_1 = "Holzwand erstellen - Stufe 1",
 	MultiStageBuild_UpgradeWoodenWall_1To2 = "Holzwand verbessern - Stufe 2",
 	MultiStageBuild_CreateWoodenWall_2 = "Holzwand erstellen - Stufe 2",

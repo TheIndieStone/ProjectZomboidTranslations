@@ -45,4 +45,13 @@ Challenge_NL = {
     Challenge_Kingsmouth_name = "Kingsmouth",
     Challenge_TheDescendingFogInfoBox = " <CENTRE> Het begint mistig te worden...",
     Challenge_AStormIsComing_name = "Een Storm Is Op Komst",
+    Challenge_Challenge2_GoldBonus = "Goud Bonus",
+    Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+    Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 xp",
+    Challenge_Challenge2_ButtonStartGoldMax = "Maximale Start Goud %1",
+    Challenge_Challenge2_XpBonus = "Xp Bonus",
+    Challenge_Challenge2_ButtonStartGold = "+%1 Start Goud - %2 xp",
+    Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+    Challenge_Challenge2_CurrentXp = "Xp : %1",
+    Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 xp",
 }
