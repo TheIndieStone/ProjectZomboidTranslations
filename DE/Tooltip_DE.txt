@@ -229,4 +229,9 @@ Tooltip_DE = {
     Tooltip_RunSpeedModifier = "Renngeschwindigkeit Modifikator",
     Tooltip_NeedMirror = "Du benötigst einen Spiegel im Inventar oder vor Dir.",
     Tooltip_CantSprintEquipped = "Kein Sprinten möglich, wenn in der Hand gehalten.",
+    Tooltip_Vehicle_WashTitle = "Fahrzeug waschen",
+    Tooltip_TapKey = "Tastatur: Drücke %1",
+    Tooltip_Vehicle_WashWaterRequired2 = "1 Einheit Wasser im Inventar.",
+    Tooltip_Vehicle_WashWaterRequired3 = "%1 Einheiten Wasser im Inventar.",
+    Tooltip_Vehicle_WashWaterRequired1 = "Benötigt bis zu %1 Einheit Wasser pro Fläche.",
 }
