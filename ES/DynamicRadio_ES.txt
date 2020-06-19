@@ -64,7 +64,7 @@ DynamicRadio_ES {
 
     AEBS_random_0 = "Todo el personal. Fallo temporal de las comunicaciones al %s de la zona de exclusión... sectores %i, %i, %i y %i",
     AEBS_random_1 = "charlie <fzzt> india - alfa, <bzzt> zona designada <bzzt> sector %i <wzzt>",
-    AEBS_random_2 = "todo el personal <bzzt> orden <fzzt> %i se ha emitido<wzzt>",
+    AEBS_random_2 = "Todo el personal <bzzt> orden <fzzt> %i se ha emitido<wzzt>",
     AEBS_random_3 = "...%s <fzzt> actividad en el sector %i <wzzt>",
     --AEBS_random_4 = "<fzzt>",
     AEBS_random_5 = "<bzzt>..¡Ayúdenme! <fzzt> por el amor de <szzt> ¡¡POR FAVOR NO!! <fzzt> ayuda... <wzzt>",
