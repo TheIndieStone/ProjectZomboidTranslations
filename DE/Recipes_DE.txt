@@ -376,4 +376,5 @@ Recipes_DE = {
     Recipe_Wash_Clothing = "Kleidung waschen",
     Recipe_Write_Doodle = "Kritzeleien machen",
     Recipe_Write_Journal = "Tagebuch schreiben",
+    Recipe_Insert_Battery_into_Duck = "Batterie in Ente einsetzen",
 }
