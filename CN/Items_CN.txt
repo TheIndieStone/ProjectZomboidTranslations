@@ -1133,4 +1133,6 @@
 	DisplayName_Handbag = "手提包",
 	DisplayName_Lunchbox = "午餐盒",
 	DisplayName_Suitcase = "手提箱",
+	DisplayName_Flight_Case = "设备运输箱",
+	DisplayName_Guitar_Case = "吉他盒",
 }
