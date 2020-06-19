@@ -414,4 +414,8 @@ ContextMenu_DE = {
     ContextMenu_UnloadMagazine = "Magazin entladen",
     ContextMenu_EvolvedRecipe_Stir fry Griddle Pan = "Wokgericht",
     ContextMenu_InsertBulletsInMagazine = "Lade %1 Patronen in Magazin",
+    ContextMenu_DyeHair = "Haar färben",
+    ContextMenu_TieBandanaFace = "Vor den Mund binden",
+    ContextMenu_DyeBeard = "Bart färben.",
+    ContextMenu_Merge = "Hinzufügen",
 }

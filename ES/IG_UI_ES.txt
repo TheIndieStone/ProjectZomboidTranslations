@@ -1002,4 +1002,7 @@ IG_UI_ES = {
 	IGUI_AddMakeUp = "Añadir maquillaje",
 	IGUI_RemoveMakeUp = "Desmaquillar",
 	IGUI_MakeUp = "Maquillarse",
+	IGUI_invpage_RemoveAll = "Eliminar todo",
+	IGUI_ConfirmDeleteItems = "¿Eliminar todos estos ítems?",
+	IGUI_TypeOfPatch = "%1 remendados",
 }

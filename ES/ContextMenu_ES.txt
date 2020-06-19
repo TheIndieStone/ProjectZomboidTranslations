@@ -416,4 +416,5 @@ ContextMenu_ES = {
 	ContextMenu_DyeHair = "Teñir el pelo",
 	ContextMenu_DyeBeard = "Teñir la barba",
 	ContextMenu_TieBandanaFace = "Poner en la cara",
+	ContextMenu_Merge = "Añadir a",
 }

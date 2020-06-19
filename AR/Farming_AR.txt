@@ -34,7 +34,7 @@ Farming_ES = {
   Farming_Disease = "Enfermedad",
   Farming_Water_levels = "Niveles de agua",
   -- water
-  Farming_Well_watered = “Bien hidratada",
+  Farming_Well_watered = "Bien hidratada",
   Farming_Fine = "Bien",
   Farming_Thirsty = "Sedienta",
   Farming_Dry = "Seca",
