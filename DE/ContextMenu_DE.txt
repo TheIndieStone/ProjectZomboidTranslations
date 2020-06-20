@@ -418,8 +418,4 @@ ContextMenu_DE = {
     ContextMenu_TieBandanaFace = "Vor den Mund binden",
     ContextMenu_DyeBeard = "Bart färben.",
     ContextMenu_Merge = "Hinzufügen",
-    ContextMenu_Vehicle_Wash = "Fahrzeug waschen",
-    ContextMenu_FoodType_Coffee = "Kaffee",
-    ContextMenu_AddCompost = "Kompost hinzufügen",
-    ContextMenu_GetCompostItem = "%1 (nimm %2%)",
 }
