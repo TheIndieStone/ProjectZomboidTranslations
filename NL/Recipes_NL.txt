@@ -381,4 +381,5 @@ Recipes_NL = {
     Recipe_Reclaim_Fork_from_Spear = "Pak Vork van de Speer",
     Recipe_Open_Box_of_.556_Ammo = "Open Doosje met 5.56 Bullets",
     Recipe_Make_Stake = "Maak Staak",
+    Recipe_Insert_Battery_into_Duck = "Plaats Batterij in Eend",
 }

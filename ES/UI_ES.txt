@@ -1253,4 +1253,12 @@ UI_ES = {
 	UI_optionscreen_TimedActionGameSpeedReset = "Vuelve a la velocidad normal cuando las acciones programadas se completan",
 	UI_optionscreen_aim_outline_tt = "Resalta los zombis a los que el jugador está apuntando con un arma de fuego.",
 	UI_optionscreen_zombie_update_optimization_tt = "Mejora el rendimiento actualizando los zombis fuera de vista con menos frecuencia.",
+	UI_challengeplayer_PlayedTime = "Tiempo de juego : %1",
+	UI_challengeplayer_XP = "Xp : %1",
+	UI_optionscreen_ShoulderButtonContainerSwitch = "Cambio de contenedor con botones laterales",
+	UI_optionscreen_ShoulderButtonContainerSwitch1 = "Botón izquierdo inventario, botón derecho saqueo",
+	UI_optionscreen_ShoulderButtonContainerSwitch2 = "Botón izquierdo arriba, botón derecho abajo",
+	UI_optionscreen_ShoulderButtonContainerSwitch3 = "Izquierda + D-pad inventario, derecha + D-pad saqueo",
+	UI_optionscreen_ShowProgressBar = "Mostrar barras de progreso sobre la cabeza para todas las acciones del jugador.",
+	UI_ClothingTextureType = "Modelo %1",
 }

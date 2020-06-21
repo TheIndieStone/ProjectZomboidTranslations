@@ -422,4 +422,10 @@ ContextMenu_NL = {
     ContextMenu_FillAll = "Vul Alles",
     ContextMenu_Vehicle_Wash = "Was Voertuig",
     ContextMenu_FoodType_Coffee = "Kofie",
+    ContextMenu_FannyPack_WearBack = "Draag van achteren",
+    ContextMenu_FannyPack_WearFront = "Draag van voren",
+    ContextMenu_AddCompostItem = "%1 (voeg %2% toe)",
+    ContextMenu_UnloadRounds = "%1 ontladen",
+    ContextMenu_AddCompost = "Voeg Compost Toe",
+    ContextMenu_GetCompostItem = "%1 (neem %2%)",
 }
