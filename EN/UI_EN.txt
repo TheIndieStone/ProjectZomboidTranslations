@@ -1244,6 +1244,7 @@ UI_EN = {
     UI_ClothingType_Jacket = "Jacket",
     UI_ClothingType_Neck = "Neck",
     UI_ClothingType_FullSuit = "Coveralls",
+    UI_ClothingTextureType = "Type %1",
     UI_optionscreen_DblTapRunToSprint = "Double Tap %1 to Sprint",
     UI_optionscreen_DblTapRunToSprintTooltip = "If ticked, double tapping %1 will start sprinting. \n Hold %2 to continue sprinting.",
     UI_Loading_InitPublicServers = "Initialize public servers",
