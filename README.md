@@ -23,15 +23,15 @@ Contributing to the repository is voluntary and abides by the Project Zomboid Te
 
 ## TranslationZed
 
-Some languages use different encoding (See #155), so GitHub might not show all symbols correctly. You can either use external editor to change encoding or use the TranslationZed tool to aid the translations that's available under https://github.com/TheIndieStone/ProjectZomboidTranslations/releases upload the files it saves.
+Some languages use different encoding (See [Issue #155](https://github.com/TheIndieStone/ProjectZomboidTranslations/issues/155)), so GitHub might not show all symbols correctly. You can either use external editor to change encoding or use the TranslationZed tool to aid the translations that's available under https://github.com/TheIndieStone/ProjectZomboidTranslations/releases and upload the files it saves.
 
-Windows binaries are provided, but the jar can also be run with OpenJDK8 and OpenJFX8 on another platforms by running the jar with `java -jar` command. 
+Windows binaries are provided, but the `jar` file can also be run with OpenJDK8 and OpenJFX8 on another platforms by running the with `java -jar translatoid.jar` command.
 
 ## Testing Translations Locally
 
-To test the translations (or modify English texts) in your game, place the files from this repository in `…\projectzomboid\media\lua\shared\Translate`
+To test the translations (or modified English texts) in your game, place the files from this repository in `…\projectzomboid\media\lua\shared\Translate`
 
-You can back up the original translation first and then replace the folder or copy/make a symbolic/hard link to a mirror of this repository.
+You can back up the original translation first and then replace the folder or make a copy or a symbolic/hard link to a mirror of this repository.
 
 ## Joining As Contributor
 
