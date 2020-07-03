@@ -32,6 +32,7 @@ Recipes_EN = {
     Recipe_Craft_Makeshift_Radio = "Craft Makeshift Radio",
     Recipe_Craft_Makeshift_Walkie_Talkie = "Craft Makeshift Walkie Talkie",
     Recipe_Craft_Sheet_Rope = "Craft Sheet Rope",
+    Recipe_Rip_sheets = "Rip sheets",
     Recipe_Create_Spear = "Create Spear",
     Recipe_Disinfect_Bandage = "Disinfect Bandage",
     Recipe_Disinfect_Rag = "Disinfect Rag",
