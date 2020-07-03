@@ -8,7 +8,7 @@ DynamicRadio_RU = {
 	AEBS_Pre_tomorrow = "Завтра,",
 	AEBS_Pre_dayafter = "Послезавтра,",
 	--note: double '%%' at end required:
-	AEBS_temperature = "средняя температура %s; минимальная: %s, максимальная: %s, влажность: %s ...",
+	AEBS_temperature = "средняя температура %s; минимальная: %s, максимальная: %s, влажность: %s%% ...",
 	AEBS_wind_0 = "%s ветер с %s, скорость ветра %s . %s",
 	AEBS_wind_1 = "Небольшой",
 	AEBS_wind_2 = "Умеренный",

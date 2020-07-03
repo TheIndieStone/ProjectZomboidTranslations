@@ -108,7 +108,7 @@ ContextMenu_PT = {
 	ContextMenu_Equip_Two_Hands = "Segurar com ambas as mãos",
 	-- Camping menu
 	ContextMenu_Build_a_fire = "Fazer fogueira",
-	ContextMenu_Add_petrol = "Deitar gasolina",
+	ContextMenu_Add_petrol = "Adicionar gasolina",
 	ContextMenu_Light_fire = "Acender fogueira",
 	ContextMenu_Put_up_tent = "Montar tenda",
 	ContextMenu_Take_down_tent = "Desmontar tenda",

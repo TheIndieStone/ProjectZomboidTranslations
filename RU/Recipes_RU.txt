@@ -76,7 +76,7 @@ Recipe_RU = {
 	Recipe_Reclaim_Spoon_from_Spear = "Снять с копья ложку",
 	-- 03. Фермерство
 	Recipe_Make_Flies_Cure = "Сделать инсектицидный раствор",
-	Recipe_Make_Mildew_Cure = "Сделать раствор против мучной росы",
+	Recipe_Make_Mildew_Cure = "Сделать раствор от мучной росы",
 	Recipe_Open_Packet_of_Broccoli_Seeds = "Вынуть семена брокколи",
 	Recipe_Open_Packet_of_Cabbage_Seeds = "Вынуть семена капусты",
 	Recipe_Open_Packet_of_Carrot_Seeds = "Вынуть семена моркови",
@@ -129,7 +129,7 @@ Recipe_RU = {
 	Recipe_Make_Pot_of_Soup = "Приготовить кастрюлю супа",
 	Recipe_Make_Salad = "Приготовить миску салата",
 	Recipe_Make_Sandwich = "Приготовить сэндвич",
-	Recipe_Open_Candy_Package = "Открыть коробку конфет",
+	Recipe_Open_Candy_Package = "Открыть пакет леденцов",
 	Recipe_Open_Canned_Beans = "Открыть консервы",
 	Recipe_Open_Canned_Bolognese = "Открыть консервы",
 	Recipe_Open_Canned_Carrots = "Открыть консервы",
