@@ -255,3 +255,43 @@
  多个ModelInstances（例如服装模型）都指向同一个AnimationPlayer。
 
 - 修正了PZArrayUtil.newInstance()中新数组小于被复制数组时的异常。
+
+
+
+
+
+[VERSION] 41.39 - IWBUMS
+
+[BOLD] 完全人工翻译请关注B站专栏文集：
+[BOLD] https://www.bilibili.com/read/readlist/rl209233
+
+
+[NEWS] - [BOLD] 新增内容：
+
+[BOLD] 新增内容：
+translationProblems.txt列出了缺少的ItemName_xxx，而不是旧的DisplayName_xxx。
+删除了true|false调试控制台的垃圾。
+在调试菜单中添加了访问附件编辑器、分块调试器和车辆编辑器的按钮。
+增加了DebugType.Mod，用于控制在控制台显示mod相关的调试信息。
+更新了最新的社区翻译。
+
+
+
+[BUG FIX] - [BOLD] 错误修复：
+
+[BOLD] 错误修复：
+使用Docker创建libjassimp64.so和libLighting64.so，其GCC版本不会对某些Linux设置造成问题。
+修正了车辆编辑器没有在脚本组合框中选择正确的车辆。
+修正了当不使用双倍大小的纹理时，教程在放大/缩小阶段中断的问题。
+修正了斗笠在地面上时的渲染错误。
+修正了在某些系统上不编译车辆着色器的问题。
+修正了GameTime.getMinutesStamp()的分辨率为2分钟而不是1分钟的问题。
+修正了当武器连接到玩家身上时，移除武器部件(瞄准镜等)后武器模型不更新的问题。
+修正了HuntingRifle(MSR788步枪)瞄准镜不显示的问题。
+修正了当多个活动mod使用相同的瓦片定义文件号时不检测的问题。这些文件号由mod.info文件中的 "tiledef="指定。
+修正了能够在不移除丙烷罐的情况下拿起丙烷烧烤架。
+修正了动画编辑器在选择动画时不设置反转复选框的问题。
+修正了从枪支中取出弹夹的动画。
+修复了钓鱼时的lua错误，最后一个鱼饵断裂。
+修正了教程中关于高大栅栏的不正确指令。
+修正了（希望）最后一个 "瓷砖上的红点 "问题。
