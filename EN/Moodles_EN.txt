@@ -51,8 +51,8 @@ Moodles_EN = {
 	Moodles_bored_lvl3 = "Very Bored",
 	Moodles_bored_lvl4 = "Extremely Bored",
 	-- Unhappy
-	Moodles_unhappy_lvl1 = "Feeling a little sad",
-	Moodles_unhappy_lvl2 = "Getting a tad weepy",
+	Moodles_unhappy_lvl1 = "Feeling a Little Sad",
+	Moodles_unhappy_lvl2 = "Getting a Tad Weepy",
 	Moodles_unhappy_lvl3 = "Depressed",
 	Moodles_unhappy_lvl4 = "Severely Depressed",
 	-- Bleeding
@@ -68,8 +68,8 @@ Moodles_EN = {
 	-- Has a cold
 	Moodles_hascold_lvl1 = "Runny Nose",
 	Moodles_hascold_lvl2 = "The Sniffles",
-	Moodles_hascold_lvl3 = "You have a cold",
-	Moodles_hascold_lvl4 = "You have a nasty cold",
+	Moodles_hascold_lvl3 = "You Have a Cold",
+	Moodles_hascold_lvl4 = "You Have a Nasty Cold",
 	-- Injured
 	Moodles_injured_lvl1 = "Discomfort",
 	Moodles_injured_lvl2 = "Injured",
@@ -84,7 +84,7 @@ Moodles_EN = {
 	Moodles_drunk_lvl1 = "A Bit Tipsy",
 	Moodles_drunk_lvl2 = "Inebriated",
 	Moodles_drunk_lvl3 = "Plastered",
-	Moodles_drunk_lvl4 = "Utterly Shit-Faced",
+	Moodles_drunk_lvl4 = "Utterly Shit-faced",
 	-- Dead
 	Moodles_dead_lvl1 = "Deceased",
 	-- Zombified
@@ -95,7 +95,7 @@ Moodles_EN = {
 	Moodles_foodeaten_lvl3 = "Stuffed",
 	Moodles_foodeaten_lvl4 = "Full to Bursting",
 	-- Hyperthermia
-	Moodles_hyperthermia_lvl1 = "Unpleasantly hot",
+	Moodles_hyperthermia_lvl1 = "Unpleasantly Hot",
 	Moodles_hyperthermia_lvl2 = "Overheated",
 	Moodles_hyperthermia_lvl3 = "Sunstruck",
 	Moodles_hyperthermia_lvl4 = "Hyperthermic",
@@ -105,10 +105,10 @@ Moodles_EN = {
 	Moodles_hypothermia_lvl3 = "Freezing",
 	Moodles_hypothermia_lvl4 = "Hypothermic",
     -- Windchill
-    Moodles_windchill_lvl1 = "Slight windchill",
-    Moodles_windchill_lvl2 = "Uncomfortable windchill",
-    Moodles_windchill_lvl3 = "Freezing windchill",
-    Moodles_windchill_lvl4 = "Horrific windchill",
+    Moodles_windchill_lvl1 = "Slight Windchill",
+    Moodles_windchill_lvl2 = "Uncomfortable Windchill",
+    Moodles_windchill_lvl3 = "Freezing Windchill",
+    Moodles_windchill_lvl4 = "Horrific Windchill",
 
 	-- Description of moodle
 	-- Endurance
@@ -183,9 +183,9 @@ Moodles_EN = {
 	Moodles_injured_desc_lvl4 = "Not going gently into that good night...",
 	-- Pain
 	Moodles_pain_desc_lvl1 = "Feeling slight pain.",
-	Moodles_pain_desc_lvl2 = "Speed and Accuracy slighty reduced.",
-	Moodles_pain_desc_lvl3 = "Speed and Accuracy reduced.",
-	Moodles_pain_desc_lvl4 = "Speed and Accuracy severly reduced.",
+	Moodles_pain_desc_lvl2 = "Speed and accuracy slighty reduced.",
+	Moodles_pain_desc_lvl3 = "Speed and accuracy reduced.",
+	Moodles_pain_desc_lvl4 = "Speed and accuracy severly reduced.",
 	-- Heavy load
 	Moodles_heavyload_desc_lvl1 = "Carrying a little too much.",
 	Moodles_heavyload_desc_lvl2 = "Movement speed reduced.",

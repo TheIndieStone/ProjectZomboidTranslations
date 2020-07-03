@@ -1,0 +1,4 @@
+VERSION = 1,
+text = Espanol (ES),
+charset = Cp1252,
+

@@ -1,0 +1,4 @@
+VERSION = 1,
+text = Hungarian,
+charset = Cp1250,
+

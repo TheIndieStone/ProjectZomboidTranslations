@@ -610,7 +610,7 @@ UI_PL = {
     UI_trait_IronGut = "Silny ¿o³¹dek",
     UI_trait_IronGutDesc = "Mniejsze prawdopodobieñstwo zatrucia pokarmowego.",
     UI_trait_Hemophobic = "Hemofobia",
-    UI_trait_HemophobicDesc = "Panikuje podczas opatrywania ran.<br>Nie mo¿e udzielaæ pierwszej pomocy innym.",
+    UI_trait_HemophobicDesc = "Panikuje podczas opatrywania ran.<br>Nie mo¿e udzielaæ pierwszej pomocy innym.<br>Krew na ubraniu wywo³uje stres.",
     UI_trait_Asthmatic = "Astma",
     UI_trait_AsthmaticDesc = "Szybciej siê mêczy.",
     UI_trait_Scout = "By³y skaut",
@@ -1203,10 +1203,8 @@ UI_PL = {
 	UI_Loading_OnGameBoot = "Uruchamianie gry...",
 	UI_optionscreen_accessibility = "DOSTÊPNOŒÆ",
 	UI_NewGame_PlayStyle = "Rodzaj rozgrywki",
-	UI_NewGame_Survivor = "Apokalipsa",
-	UI_NewGame_Survivor_desc = "Nacisk na skradanie siê. Krótki przewidywany czas prze¿ycia. Zaleca siê unikanie walki.",
-	UI_NewGame_Fighter = "Ocala³y",
-	UI_NewGame_Fighter_desc = "Nacisk na walkê. D³u¿szy przewidywany czas prze¿ycia. Wymagaj¹ca rozgrywka przypominaj¹ca tryb 'Ocala³y' z wczeœniejszych wersji gry.",
+	UI_NewGame_Survivor = "Ocala³y",
+	UI_NewGame_Survivor_desc = "Nacisk na walkê. D³u¿szy przewidywany czas prze¿ycia. Rozgrywka przypominaj¹ca wczeœniejszy tryb 'Przetrwanie'.",
     UI_NewGame_Builder = "Budowniczy",
     UI_NewGame_Builder_desc = "Nacisk na budowanie, uprawê ogródka i eksploracjê. Relaksuj¹ca rozgrywka.",
     UI_NewGame_Sandbox_desc2 = "Dostosuj rozgrywkê do swoich w³asnych preferencji.",
@@ -1268,4 +1266,16 @@ UI_PL = {
 	
 	UI_NewGame_Apocalypse = "Apokalipsa",
 	UI_NewGame_Apocalypse_desc = "Nacisk na skradanie siê. Krótki przewidywany czas prze¿ycia. Zaleca siê unikanie walki.",
+	
+	UI_optionscreen_CannotChangeWhileInGame = "Nie mo¿na zmieniæ w trakcie gry.",
+	UI_optionscreen_FontSize = "Rozmiar czcionki",
+	UI_optionscreen_FontSize0 = "Domyœlny",
+	UI_optionscreen_FontSize1 = "1x",
+	UI_optionscreen_FontSize2 = "2x",
+	UI_optionscreen_FontSize3 = "3x",
+	UI_optionscreen_FontSize4 = "4x",
+	
+	UI_optionscreen_aim_outline_tt = "Podœwietla zombie, do których postaæ celuje broni¹.",
+	UI_optionscreen_zombie_update_optimization_tt = "Zwiêksza p³ynnoœæ gry przez obni¿enie czêstotliwoœci aktualizacji zombie poza polem widzenia.",
+	UI_optionscreen_TimedActionGameSpeedReset = "Przywraca normaln¹ prêdkoœæ czasu po wykonaniu czynnoœci z paskiem postêpu.",
 }

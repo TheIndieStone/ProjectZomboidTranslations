@@ -6,9 +6,9 @@ Moodles_endurance_lvl2 = "Très essoufflé",
 Moodles_endurance_lvl3 = "À bout de souffle",
 Moodles_endurance_lvl4 = "À bout de forces",
 -- Heavy Load
-Moodles_heavyload_lvl1 = "Charge assez lourde",
-Moodles_heavyload_lvl2 = "Lourde charge",
-Moodles_heavyload_lvl3 = "Très lourde charge",
+Moodles_heavyload_lvl1 = "Charge un peu lourde",
+Moodles_heavyload_lvl2 = "Charge lourde",
+Moodles_heavyload_lvl3 = "Charge très lourde",
 Moodles_heavyload_lvl4 = "Charge extrêmement lourde",
 -- Angry
 Moodles_angry_lvl1 = "Irrité",

@@ -226,4 +226,12 @@ Tooltip_ES = {
 	Tooltip_Dashboard_NoKey = "No se ha encontrado la llave de este coche",
 	Tooltip_Dashboard_Hotwired = "Puenteado",
 	Tooltip_weapon_NoRoundChambered = "Ningún proyectil en la recámara. Amartilla el arma.",
+	Tooltip_Dashboard_SpeedRegulator = "Pulsa %1 + %2 para iniciar/aumentar la velocidad de crucero, %1 + %3 para disminuir la velocidad de crucero, al frenar se apagará.",
+	Tooltip_CantSprintEquipped = "No se puede correr mientras está equipado en una mano.",
+	Tooltip_NeedMirror = "Necesitas un espejo o estar frente a un espejo.",
+	Tooltip_TapKey = "Teclado: Pulsa %1",
+	Tooltip_Vehicle_WashTitle = "Lavado de vehículo",
+	Tooltip_Vehicle_WashWaterRequired1 = "Necesita %1 de unidades de agua por área.",
+	Tooltip_Vehicle_WashWaterRequired2 = "1 unidad de agua en el inventario.",
+	Tooltip_Vehicle_WashWaterRequired3 = "%1 unidades de agua en el inventario.",
 }

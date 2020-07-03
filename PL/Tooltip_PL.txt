@@ -229,4 +229,11 @@ Tooltip_PL = {
 	Tooltip_Dashboard_PutKeysInIgnition = "W³ó¿ kluczyk do stacyjki",
 	Tooltip_Dashboard_NoKey = "Nie masz klucza do tego samochodu",
 	Tooltip_Dashboard_Hotwired = "Odpalanie na krótko",
+	
+	Tooltip_Dashboard_SpeedRegulator = "Wciœnij %1 + %2, aby w³¹czyæ tempomat/zwiêkszyæ prêdkoœæ, lub %1 + %3, aby zmniejszyæ prêdkoœæ. Wciœniêcie hamulca wy³¹czy tempomat.",
+	Tooltip_CantSprintEquipped = "Nie mo¿na biec sprintem, trzymaj¹c to w rêce.",
+	
+	Tooltip_NeedMirror = "Potrzebujesz lustra lub stan¹æ przed lustrem.",
+	
+	Tooltip_TapKey = "Klawiatura: naciœnij %1",
 }

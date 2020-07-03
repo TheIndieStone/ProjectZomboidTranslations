@@ -1,80 +1,65 @@
 Farming_ES = {
 
-	-- Build 37.3
-	-- 27-02-2017
-	-- Autor: ditoseadio
-	-- Modificaciones Español-Argentina: zolfuz
+	-- Build 41.35
+	-- 18-04-2020
+	-- Autor: Sopa - Ender
 
-	-- VEGETALES
-	
-	Farming_Broccoli = "Brócoli",
-	Farming_Cabbages = "Repollo",
-	Farming_Carrots = "Zanahorias",
-	Farming_Potatoes = "Papas",
-	Farming_Radishes = "Rábanos",
-	Farming_Strawberry plant = "Frutillas",
-	Farming_Strawberry_plant = "Frutillas",
-	Farming_Tomato = "Tomates",
-	Farming_Tomato_Vine = "Tomates",
-	
-	-- FASES DE CRECIMIENTO
-	
-	Farming_Destroyed = "Destrozado",
-	Farming_In_bloom = "Floreciendo",
-	Farming_Ready_for_Harvest = "Listo para cosechar",
-	Farming_Receding = "Retroceso",
-	Farming_Rotten = "Podrido",
-	Farming_Seed-bearing = "Con semillas",
-	Farming_Seedling = "Plántula",
-	Farming_Young = "Joven",
-	
-	-- INFORMACIÓN
-	
-	Farming_Current_growing_phase = "Fase actual de crecimiento",
-	Farming_Disease = "Enfermedad",
-	Farming_Fertilized = "Fertilizada",
-	Farming_Health = "Salud",
-	Farming_Last_time_watered = "Última vez regada",
-	Farming_Next_growing_phase = "Siguiente fase de crecimiento",
-	Farming_Plant_Information = "Info del cultivo",
-	Farming_Plowed_Land = "Tierra arada",
-	Farming_Tooltip_AverageWater = "Promedio de agua: ",
-	Farming_Tooltip_MaxWater = "Máximo de agua: ",
-	Farming_Tooltip_MinWater = "Mínimo de agua: ",
-	Farming_Tooltip_RequiredSeeds = "Semillas necesarias: ",
-	Farming_Tooltip_TimeOfGrow = "Cosecha aproximada: ",
-	Farming_Water_levels = "Niveles de agua",
-	
-	-- AGUA
-	
-	Farming_Dry = "Seca",
-	Farming_Fine = "Bien",
-	Farming_Parched = "Reseca",
-	Farming_Thirsty = "Sedienta",
-	Farming_Well_watered = "Bien regada",
-	
-	-- CRECIMIENTO
-	
-	Farming_Fully_grown = "Adulta",
-	Farming_Ready_to_harvest = "Listo para cosechar",
-	Farming_Seedling = "Plántula",
-	
-	-- ENFERMEDADES
-	
-	Farming_Devil_Water_Fungi = "Hongos",
-	Farming_Mildew = "Mildiu",
-	Farming_Pest_Flies = "Plaga",
-	
-	-- HORAS
-	
-	Farming_Hours = "Horas",
-	
-	-- SALUD
-	
-	Farming_Flourishing = "Floreciente",
-	Farming_Healthy = "Saludable",
-	Farming_Sickly = "Enfermizo",
-	Farming_Stunted = "Atrofiado",
-	Farming_Verdant = "Verde",
-
+  -- vegetables name (type of seed)
+  Farming_Carrots = "Zanahorias",
+  Farming_Broccoli = "Brócoli",
+  Farming_Radishes = "Rábanos",
+  Farming_Strawberry_plant = "Planta de frutilla",
+  Farming_Strawberry plant = "Planta de frutilla",
+  Farming_Tomato = "Tomate",
+  Farming_Tomato_Vine = "Planta de tomate",
+  Farming_Potatoes = "Papa",
+  Farming_Cabbages = "Repollo",
+  -- growing phase
+  Farming_Seedling = "Plántula",
+  Farming_Young = "Joven",
+  Farming_Ready_for_Harvest = "Casi listo para cosechar",
+  Farming_In_bloom = "Con flores",
+  Farming_Seed-bearing = "Con semillas",
+  Farming_Receding = "Receding",
+  Farming_Rotten = "Podrido",
+  Farming_Destroyed = "Destrozada",
+  -- farming info text
+  -- title
+  Farming_Plant_Information = "Información de plantas",
+  Farming_Current_growing_phase = "Estado de crecimiento actual",
+  Farming_Next_growing_phase = "Próximo estado de crecimiento",
+  Farming_Last_time_watered = "Última vez regada",
+  Farming_Fertilized = "Fertilizado",
+  Farming_Health = "Salud",
+  Farming_Disease = "Enfermedad",
+  Farming_Water_levels = "Niveles de agua",
+  -- water
+  Farming_Well_watered = "Bien hidratada",
+  Farming_Fine = "Bien",
+  Farming_Thirsty = "Sedienta",
+  Farming_Dry = "Seca",
+  Farming_Parched = "Marchitada",
+  -- growing phase
+  Farming_Seedling = "Plántula",
+  Farming_Fully_grown = "Madura",
+  Farming_Ready_to_harvest = "Lista para cosechar",
+  -- disease
+  Farming_Mildew = "Mohosa",
+  Farming_Pest_Flies = "Plaga de moscas",
+  Farming_Devil_Water_Fungi = "Hongo de agua endemoniado",
+  -- hours
+  Farming_Hours = "Horas",
+  -- health
+  Farming_Flourishing = "Florecido",
+  Farming_Verdant = "Verde",
+  Farming_Healthy = "Saludable",
+  Farming_Sickly = "Enferma",
+  Farming_Stunted = "Crecimiento lento",
+  Farming_Tooltip_MinWater = "Agua mínima: ",
+  Farming_Tooltip_MaxWater = "Agua máxima: ",
+  Farming_Tooltip_TimeOfGrow = "Tiempo promedio de crecimiento: ",
+  Farming_Tooltip_AverageWater = "Promedio de agua: ",
+  Farming_Tooltip_RequiredSeeds = "Semillas requeridas: ",
+    
+  Farming_Plowed_Land = "Tierra harada",
 }

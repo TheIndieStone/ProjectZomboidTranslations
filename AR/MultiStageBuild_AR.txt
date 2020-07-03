@@ -1,26 +1,32 @@
 MultiStageBuild_ES = {
 
-	-- Build 39.41
-	-- 09-04-2018
-	-- Autor: ditoseadio
-	-- Modificaciones Español-Argentina: zolfuz
-	
-	MultiStageBuild_CreateWoodenWall_1 = "Fabricar pared de madera básica",
-	MultiStageBuild_UpgradeWoodenWall_1To2 = "Mejorar a pared de madera intermedia",
-	MultiStageBuild_CreateWoodenWall_2 = "Fabricar pared de madera intermedia",
-	MultiStageBuild_UpgradeWoodenWall_1To3 = "Mejorar a pared de madera avanzada",
-	MultiStageBuild_UpgradeWoodenWall_2To3 = "Mejorar a pared de madera avanzada",
-	MultiStageBuild_CreateWoodenWall_3 = "Fabricar pared de madera avanzada",
-	MultiStageBuild_CreateWoodenWindow_1 = "Fabricar ventana de madera básica",
-	MultiStageBuild_UpgradeWoodenWindow_1To2 = "Mejorar a ventana de madera intermedia",
-	MultiStageBuild_CreateWoodenWindow_2 = "Fabricar ventana de madera intermedia",
-	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Mejorar a ventana de madera avanzada",
-	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Mejorar a ventana de madera avanzada",
-	MultiStageBuild_CreateWoodenWindow_3 = "Fabricar ventana de madera avanzada",
-	MultiStageBuild_CreateMetalWall_1 = "Fabricar pared de metal básica",
-	MultiStageBuild_UpgradeMetalWall_1To2 = "Mejorar a pared de metal intermedia",
-	MultiStageBuild_CreateMetalWall_2 = "Fabricar pared de metal intermedia",
-	MultiStageBuild_CreateMetalWindow_1 = "Fabricar ventana de metal básica",
-	MultiStageBuild_UpgradeMetalWindow_1To2 = "Mejorar a ventana de metal intermedia",
-	MultiStageBuild_CreateMetalWindow_2 = "Fabricar ventana de metal intermedia",
+    -- Build 41.35
+    -- 17-04-2020
+    -- Autor: Sopa
+
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Construir pared de madera nivel 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Mejorar pared de madera a nivel 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Construir pared de madera nivel 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Mejorar pared de madera a nivel 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Mejorar pared de madera a nivel 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Construir pared de madera nivel 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Construir ventana de madera nivel 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Madera ventana de madera a nivel 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Construir ventana de madera nivel 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Madera ventana de madera a nivel 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Madera ventana de madera a nivel 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Construir ventana de madera nivel 3”,
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Construir pared de metal nivel 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Mejorar pared de metal a nivel 2",
+    MultiStageBuild_CreateMetalWall_2 = "Construir pared de metal nivel 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Construir ventana de metal nivel 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Mejorar ventana de metal a nivel 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Construir ventana de metal nivel 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Mejorar marco de puerta de madera a nivel 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Mejorar marco de puerta de madera a nivel 3",
 }

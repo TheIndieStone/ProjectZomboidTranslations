@@ -1,3 +1,8 @@
+/* OUTDATED FORMAT
+ * All changes and translations should go to ItemName_XX.txt instead of in Items_XX.txt.
+ * DisplayName_<XX> breaks whenever the English DisplayName changes. 
+ * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
+ */
 Items_ES = {
 	DisplayName.223_Ammo = "Munición .223",
 	DisplayName.308_Ammo = "Munición .308",
@@ -1127,7 +1132,7 @@ Items_ES = {
 	DisplayName_Wedding_Veil = "Velo de novia",
 	DisplayName_Welder_Mask = "Máscara de soldador",
 	DisplayName_Winter_Hat = "Gorro de invierno",
-	DisplayName_Wood_Axe = "Hacha de madera",
+	DisplayName_Wood_Axe = "Hacha de leñador",
 	DisplayName_Wooden_Mallet = "Mazo de madera",
 	DisplayName_Woolly_Hat = "Gorro de lana",
 	DisplayName_Workman_Shirt = "Camisa de obrero",
@@ -1141,7 +1146,7 @@ Items_ES = {
 	DisplayName_.45_Auto = "Balas .45 Auto",
 	DisplayName_.45_Auto_Magazine = "Cargador .45 Auto",
 	DisplayName_Blue_Fireman_T_Shirt = "Camiseta azul de bombero",
-	DisplayName_Blue_Hair_Dye = "Tinte azul para cabello",
+	DisplayName_Blue_Hair_Dye = "Tinte de pelo azul",
 	DisplayName_Blue_Police_T_Shirt = "Camiseta azul de policía",
 	DisplayName_Box_of_.38_Special_Bullets = "Caja de munición .38 Special",
 	DisplayName_Box_of_.44_Magnum_Bullets = "Caja de munición .44 Magnum",
@@ -1155,7 +1160,7 @@ Items_ES = {
 	DisplayName_D_E_Pistol = "Pistola D-E",
 	DisplayName_Dark_Red_Fireman_T_Shirt = "Camiseta rojo oscuro de bombero",
 	DisplayName_Double_Barrel_Shotgun = "Escopeta de dos cañones",
-	DisplayName_Green_Hair_Dye = "Tinte verde para cabello",
+	DisplayName_Green_Hair_Dye = "Tinte de pelo verde",
 	DisplayName_Green_Ranger_T_Shirt = "Camiseta verde de guardabosques",
 	DisplayName_Green_Veteran_T_Shirt = "Camiseta verde de veterano",
 	DisplayName_Ice_Hockey_Stick = "Palo de hockey sobre hielo",
@@ -1199,4 +1204,24 @@ Items_ES = {
 	DisplayName_Sewing_Kit = "Kit de costura",
 	DisplayName_Stone_Knife = "Cuchillo de piedra",
 	DisplayName_House_Key = "Llave de la casa",
+	DisplayName_Bandana_(Face) = "Pañuelo (cara)",
+	DisplayName_Bandana_(Head) = "Pañuelo (cabeza)",
+	DisplayName_Garden_Saw = "Sierra de jardín",
+	DisplayName_Black_Hair_Dye = "Tinte de pelo negro",
+	DisplayName_Blonde_Hair_Dye = "Tinte de pelo rubio",
+	DisplayName_Closed_Umbrella = "Paraguas cerrado",
+	DisplayName_Hand_Torch = "Linterna de mano",
+	DisplayName_Light_Brown_Hair_Dye = "Tinte de pelo castaño",
+	DisplayName_Pink_Hair_Dye = "Tinte de pelo violeta",
+	DisplayName_Red_Hair_Dye = "Tinte de pelo rojo",
+	DisplayName_White_Hair_Dye = "Tinte de pelo blanco",
+	DisplayName_Yellow_Hair_Dye = "Tinte de pelo amarillo",
+	DisplayName_Strawberry_Blonde_Hair_Dye = "Tinte de pelo pelirrojo",
+	DisplayName_Bandana_(Tied) = "Pañuelo (atado)",
+	DisplayName_Suitcase = "Maleta",
+	DisplayName_Toolbox = "Caja de herramientas",
+	DisplayName_Handbag = "Bolso de mano",
+	DisplayName_Lunchbox = "Porta alimentos",
+	DisplayName_Flight_Case = "Maleta de viaje",
+	DisplayName_Guitar_Case = "Funda de guitarra",
 }
