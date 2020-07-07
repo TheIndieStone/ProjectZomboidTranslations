@@ -1,0 +1,4 @@
+VERSION = 1,
+text = Turkish,
+charset = Cp1254,
+
