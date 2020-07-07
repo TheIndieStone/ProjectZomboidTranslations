@@ -1,3 +1,8 @@
+/* OUTDATED FORMAT
+ * All changes and translations should go to ItemName_XX.txt instead of in Items_XX.txt.
+ * DisplayName_<XX> breaks whenever the English DisplayName changes. 
+ * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
+ */
 Items_ES = {
 	DisplayName.223_Ammo = "Munición .223",
 	DisplayName.308_Ammo = "Munición .308",
@@ -1127,7 +1132,7 @@ Items_ES = {
 	DisplayName_Wedding_Veil = "Velo de novia",
 	DisplayName_Welder_Mask = "Máscara de soldador",
 	DisplayName_Winter_Hat = "Gorro de invierno",
-	DisplayName_Wood_Axe = "Hacha de madera",
+	DisplayName_Wood_Axe = "Hacha de leñador",
 	DisplayName_Wooden_Mallet = "Mazo de madera",
 	DisplayName_Woolly_Hat = "Gorro de lana",
 	DisplayName_Workman_Shirt = "Camisa de obrero",
@@ -1209,7 +1214,14 @@ Items_ES = {
 	DisplayName_Light_Brown_Hair_Dye = "Tinte de pelo castaño",
 	DisplayName_Pink_Hair_Dye = "Tinte de pelo violeta",
 	DisplayName_Red_Hair_Dye = "Tinte de pelo rojo",
-	DisplayName_White_Hair_Dye = ""Tinte de pelo blanco,
+	DisplayName_White_Hair_Dye = "Tinte de pelo blanco",
 	DisplayName_Yellow_Hair_Dye = "Tinte de pelo amarillo",
 	DisplayName_Strawberry_Blonde_Hair_Dye = "Tinte de pelo pelirrojo",
+	DisplayName_Bandana_(Tied) = "Pañuelo (atado)",
+	DisplayName_Suitcase = "Maleta",
+	DisplayName_Toolbox = "Caja de herramientas",
+	DisplayName_Handbag = "Bolso de mano",
+	DisplayName_Lunchbox = "Porta alimentos",
+	DisplayName_Flight_Case = "Maleta de viaje",
+	DisplayName_Guitar_Case = "Funda de guitarra",
 }

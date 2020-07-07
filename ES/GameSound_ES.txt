@@ -7,18 +7,26 @@ GameSound_ES = {
 	/* These are the names of tabs in the ui. */
 	/* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
 	GameSound_Category_AUTO = "AUTO",
+	GameSound_Category_Music = "Música",
+	GameSound_Category_Player = "Jugador",
+	GameSound_Category_Vehicle = "Vehículos",
+	GameSound_Category_World = "Mundo",
+	GameSound_Category_Zombie = "Zombis",
+	GameSound_Category_Object = "Objetos mundo",
+	GameSound_Category_Meta = "Eventos",
+	GameSound_Category_Item = "Ítems",
 
 	/* You can provide translations for every GameSound if you want to. */
-	GameSound_DoorIsLocked = "Door Is Locked",
-	GameSound_DoorIsBlocked = "Door Is Blocked",
+	GameSound_DoorIsLocked = "Puerta cerrada",
+	GameSound_DoorIsBlocked = "Puerta bloqueada",
 
-	GameSound_AmbientMusic_BrassAmbient = "Ambient: Brass",
+	GameSound_AmbientMusic_BrassAmbient = "Ambiente: Latón",
 	GameSound_AmbientMusic_CreepyAmbient = "Ambient: Creepy",
-	GameSound_AmbientMusic_IntenseAmbient = "Ambient: Intense",
-	GameSound_AmbientMusic_PercussiveAmbient = "Ambient: Percussive",
-	GameSound_AmbientMusic_RhythmicAmbient = "Ambient: Rhythmic",
-	GameSound_AmbientMusic_VoiceAmbient = "Ambient: Voice",
-	GameSound_AmbientMusic_ZombieAmbient = "Ambient: Zombie",
+	GameSound_AmbientMusic_IntenseAmbient = "Ambiente: Intenso",
+	GameSound_AmbientMusic_PercussiveAmbient = "Ambiente: Percusivo",
+	GameSound_AmbientMusic_RhythmicAmbient = "Ambiente: Rítmico",
+	GameSound_AmbientMusic_VoiceAmbient = "Ambiente: Vocal",
+	GameSound_AmbientMusic_ZombieAmbient = "Ambiente: Zombi",
 
 	GameSound_NewMusic_Alone = "Official: Alone",
 	GameSound_NewMusic_Barricading = "Official: Barricading",
@@ -77,13 +85,14 @@ GameSound_ES = {
 	GameSound_OldMusic_piano = "EA: Ambient (Piano)",
 	GameSound_OldMusic_raider = "EA: Ambient (Raider)",
 
-	GameSound_HumanFootstepConcrete = "Footstep (Concrete)",
-	GameSound_HumanFootstepGrass = "Footstep (Grass)",
-	GameSound_HumanFootstepUpstairs = "Footstep (Upstairs)",
-	GameSound_HumanFootstepWood = "Footstep (Wood)",
+	GameSound_HumanFootstepConcrete = "Pasos (Hormigón)",
+	GameSound_HumanFootstepGrass = "Pasos (Hierba)",
+	GameSound_HumanFootstepUpstairs = "Pasos (Piso superior)",
+	GameSound_HumanFootstepWood = "Pasos (Madera)",
+	GameSound_Eating = "Comer",
 
-	GameSound_VehicleStarted = "Engine Started",
+	GameSound_VehicleStarted = "Motor encendido",
 
-	GameSound_ZombieSurprisedPlayer = "Zombie Surprised Player",
+	GameSound_ZombieSurprisedPlayer = "Sorprendido por zombi",
 }
 

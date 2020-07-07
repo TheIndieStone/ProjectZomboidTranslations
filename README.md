@@ -21,12 +21,23 @@ TAKE NOTE: We treat forks and branches as work in progress and we will not merge
 
 Contributing to the repository is voluntary and abides by the Project Zomboid Terms & Conditions: https://projectzomboid.com/blog/2013/09/terms-conditions/
 
+## TranslationZed
+
+Some languages use different encoding (See [Issue #155](https://github.com/TheIndieStone/ProjectZomboidTranslations/issues/155)), so GitHub might not show all symbols correctly. You can either use external editor to change encoding or use the TranslationZed tool to aid the translations that's available under https://github.com/TheIndieStone/ProjectZomboidTranslations/releases and upload the files it saves.
+
+Windows binaries are provided, but the `jar` file can also be run with OpenJDK8 and OpenJFX8 on another platforms by running the with `java -jar translatoid.jar` command.
+
+## Testing Translations Locally
+
+To test the translations (or modified English texts) in your game, place the files from this repository in `…\projectzomboid\media\lua\shared\Translate`
+
+You can back up the original translation first and then replace the folder or make a copy or a symbolic/hard link to a mirror of this repository.
+
 ## Joining As Contributor
 
 If you want to join as a contributor instead of forking, then create an issue or send a message to the repository maintainers/admins, or through Discord.
 
 If you have questions you can click the link below to get to the Discord server and post to the #translations channel.
-
 
 ## Links
 
