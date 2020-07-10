@@ -426,4 +426,12 @@ ContextMenu_RU = {
 	ContextMenu_FannyPack_WearFront = "Сместить на живот",
 	ContextMenu_FannyPack_WearBack = "Сместить за спину",
 	ContextMenu_UnloadRounds = "Разрядить %1",
+	ContextMenu_Water_Dispenser = "Бойлер офисный",
+	ContextMenu_ReplaceWith = " (сняв %1)",
+	ContextMenu_LeftMiddleFinger = "Надеть на левый средний палец",
+	ContextMenu_RightMiddleFinger = "Надеть на правый средний палец",
+	ContextMenu_LeftRingFinger = "Надеть на левый безымянный палец",
+	ContextMenu_RightRingFinger = "Надеть на правый безымянный палец",
+	ContextMenu_PutOnEartop = "Вдеть в верхнюю часть уха",
+	ContextMenu_PutOnEarlobe = "Вдеть в мочку уха",
 }
