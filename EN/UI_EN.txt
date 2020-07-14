@@ -59,10 +59,10 @@ UI_EN = {
     UI_optionscreen_lighting = "Lighting Quality",
     UI_optionscreen_lighting_fps = "Lighting Updates",
     UI_optionscreen_lighting_fps_tt = "Number of lighting updates per second.",
-    UI_optionscreen_NewRoofHiding = "New Roof Hiding",
+    UI_optionscreen_NewRoofHiding = "Roof Hiding",
     UI_optionscreen_NewRoofHiding_tt = "Controls how upper levels of buildings that obscure the player are hidden.<br><br>Yes: Hide upper levels of individual buildings.<br>Looks better, increases memory usage, performs worse.<br><br>No: Hide upper levels of all buildings.<br>Looks worse, uses less memory, performs better.",
     UI_optionscreen_CannotChangeWhileInGame = "Cannot be changed while in game.",
-    UI_optionscreen_needreboot = "Requires Restart",
+    UI_optionscreen_needreboot = "Requires restart after changing.",
     UI_optionscreen_shaders2 = "Post-processing",
     UI_optionscreen_shadersunsupported = "Unsupported by hardware",
     UI_optionscreen_resolution = "Resolution",
@@ -128,6 +128,7 @@ UI_EN = {
     UI_optionscreen_aim_outline_tt = "Highlights zombies the player is aiming a firearm at."
     UI_optionscreen_zombie_update_optimization = "Tiered Zombie Updates",
     UI_optionscreen_zombie_update_optimization_tt = "Improves performance by updating out-of-sight zombies less frequently.",
+    UI_optionscreen_ShowProgressBar = "Show overhead progress bars for all player actions.",
     UI_restart_game_to_apply = "Restart Project Zomboid to apply changes.",
     UI_All = "All",
     UI_GroundWithRuts = "Ground with Ruts",
@@ -357,6 +358,8 @@ UI_EN = {
     -- Last stand selecter (lua)
     UI_challenge_title = "CHALLENGES",
     UI_challengeplayer_title = "SELECT PLAYER",
+	UI_challengeplayer_PlayedTime = "Played time : %1",
+	UI_challengeplayer_XP = "XP : %1",
     UI_challengeplayer_delete = "Are you sure you want to delete that player?",
     UI_characreation_random = "RANDOM",
     UI_characreation_SelectToLoad = "[--Select to load--]",
@@ -431,7 +434,7 @@ UI_EN = {
     UI_WorldVersion = "World version: ",
     UI_Map = "Maps: ",
     UI_Loading_Lua = "Loading Lua",
-    UI_Loading_Texturepack = "Loading %1 texturepack",
+    UI_Loading_Texturepack = "Loading %1 texture pack",
     UI_Loading_ModelsAnimations = "Loading models and animations",
     UI_optionscreen_pressKeyToBind = "Press any key to assign to \"%1\".\nOr press one of these buttons:",
     UI_optionscreen_keyAlreadyBinded = "The key %1 is already assigned to \"%2\".\nChoose what to do with \"%2\":",
@@ -468,8 +471,12 @@ UI_EN = {
     UI_BloodDecals9 = "90%",
     UI_BloodDecals10 = "100%",
     UI_optionscreen_borderless = "Borderless Window",
-    UI_optionscreen_borderless_tt = "Requires restart.",
+    UI_optionscreen_borderless_tt = "Requires restart after changing.",
     UI_optionscreen_TimedActionGameSpeedReset = "Resume normal speed when timed actions complete.",
+    UI_optionscreen_ShoulderButtonContainerSwitch = "Shoulder button container switching",
+    UI_optionscreen_ShoulderButtonContainerSwitch1 = "Left button inventory, right button loot",
+    UI_optionscreen_ShoulderButtonContainerSwitch2 = "Left button up, right button down",
+    UI_optionscreen_ShoulderButtonContainerSwitch3 = "Left + D-pad inventory, right + D-pad loot",
     -- key binding
     UI_optionscreen_binding_Crouch = "Sneak",
     UI_optionscreen_binding_Forward = " Forward",
@@ -1237,10 +1244,11 @@ UI_EN = {
     UI_ClothingType_Jacket = "Jacket",
     UI_ClothingType_Neck = "Neck",
     UI_ClothingType_FullSuit = "Coveralls",
-    UI_optionscreen_DblTapRunToSprint = "Double tap %1 to sprint",
+    UI_ClothingTextureType = "Type %1",
+    UI_optionscreen_DblTapRunToSprint = "Double tap %1 to Sprint",
     UI_optionscreen_DblTapRunToSprintTooltip = "If ticked, double-tapping %1 will start sprinting. \n Hold %2 to continue sprinting.",
-    UI_Loading_InitPublicServers = "Initialize Public Servers.",
-    UI_Loading_OnGameBoot = "Game Booting.",
+    UI_Loading_InitPublicServers = "Initialize public servers",
+    UI_Loading_OnGameBoot = "Game booting",
     UI_optionscreen_accessibility = "ACCESSIBILITY",
     UI_NewGame_PlayStyle = "Playstyle",
     UI_NewGame_Apocalypse = "Apocalypse",
@@ -1251,10 +1259,10 @@ UI_EN = {
     UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
     UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style.",
     UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
-            "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
-            "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
-            "<CENTRE> Some features have been temporarily disabled. <LINE><LINE> " ..
-            "<CENTRE> If you have issues: don't get mad, get involved. Let us know on our forums.",
+                    "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
+                    "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
+                    "<CENTRE> Some features have been temporarily disabled. <LINE><LINE> " ..
+                    "<CENTRE> If you have issues: don't get mad, get involved. Let us know on our forums.",
     UI_optionscreen_binding_Hotbar 1 = "Hotbar 1",
     UI_optionscreen_binding_Hotbar 2 = "Hotbar 2",
     UI_optionscreen_binding_Hotbar 3 = "Hotbar 3",

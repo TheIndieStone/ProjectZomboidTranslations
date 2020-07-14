@@ -1,0 +1,38 @@
+MakeUp_CN = {
+    MakeUpCategory_Eyes = "眼睛",
+    MakeUpCategory_EyesShadow = "眼影",
+    MakeUpCategory_FullFace = "全脸",
+    MakeUpCategory_Lips = "嘴唇",
+
+    MakeUpType_EyesCrow = "乌鸦",
+    MakeUpType_EyesRedStripes1 = "红色 条纹 1",
+    MakeUpType_EyesRedStripes2 = "红色 条纹 2",
+    MakeUpType_EyesCamo1 = "迷彩 1",
+    MakeUpType_EyesCamo2 = "迷彩 2",
+    MakeUpType_EyesCamoStripes = "条纹",
+    MakeUpType_EyesFootball = "足球",
+
+    MakeUpType_EyeShadowWhite = "白色 眼影",
+    MakeUpType_EyeShadowLightBlue = "浅蓝色 眼影",
+    MakeUpType_EyeShadowBlue = "蓝色 眼影",
+    MakeUpType_EyeShadowRed = "红色 眼影",
+    MakeUpType_EyeShadowPink = "粉红色 眼影",
+    MakeUpType_EyeShadowGreen = "绿色 眼影",
+    MakeUpType_EyeShadowYellow = "黄色 眼影",
+
+    MakeUpType_FullFaceCamo1 = "全面迷彩 1",
+    MakeUpType_FullFaceCamo2 = "全面迷彩 2",
+    MakeUpType_FullFaceWarrior = "战士",
+    MakeUpType_FullFaceClown1 = "小丑 1",
+    MakeUpType_FullFaceClown2 = "小丑 2",
+    MakeUpType_FullFaceSkull1 = "骷髅 1",
+    MakeUpType_FullFaceSkull2 = "骷髅 2",
+
+    MakeUpType_LipsRed = "红色 唇膏",
+    MakeUpType_LipsLightBlue = "浅蓝色 唇膏",
+    MakeUpType_LipsBlue = "蓝色 唇膏",
+    MakeUpType_LipsBlack = "黑色 唇膏",
+    MakeUpType_LipsGreen = "绿色 唇膏",
+    MakeUpType_LipsPink = "粉红色 唇膏",
+}
+
