@@ -315,7 +315,7 @@ IGUI_EN = {
     -- Rain Collector Barrel
     IGUI_RemainingPercent = "Remaining: %1%",
     -- Generator window
-    IGUI_Generator_TypeGas = "Gas-Powered Generator",
+    IGUI_Generator_TypeGas = "Gas-powered Generator",
     IGUI_Generator_FuelAmount = "Fuel: %1%",
     IGUI_Generator_Condition = "Condition: %1%",
     IGUI_Generator_IsToxic = "Will fill the building with toxic fumes when operated here.",
