@@ -1140,6 +1140,7 @@ IGUI_RU = {
 	IGUI_ContainerTitle_garagestorage = "Стеллаж: гаражный",
 	IGUI_ContainerTitle_smallcrate = "Маленькая картонная коробка",
 	IGUI_ContainerTitle_counter = "Тумба",
+	IGUI_ContainerTitle_overhead = "Тумба",
 	IGUI_ContainerTitle_desk = "Письменный стол",
 	IGUI_ContainerTitle_displaycase = "Витрина",
 	IGUI_ContainerTitle_displaycasebutcher = "Витрина (для мяса)",
