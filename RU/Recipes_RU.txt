@@ -36,9 +36,9 @@ Recipe_RU = {
 	Recipe_Place_Screws_in_Box = "Сложить болты в коробку",
 	Recipe_Place_Shotgun_Shells_in_Box = "Сложить патроны в коробку",
 	Recipe_Remove_Battery = "Вынуть батарейку",
-	Recipe_Rip_Clothing = "Порвать на тряпки",
+	Recipe_Rip_Clothing = "Порвать одежду",
 	Recipe_Rip_clothing = "Порвать на тряпки",
-	Recipe_Rip_sheets = "Порвать на тряпки",
+	Recipe_Rip_Sheets = "Порвать на тряпки",
 	Recipe_Saw_Off_Shotgun = "Спилить ствол",
 	Recipe_Smash_Bottle = "Разбить бутылку",
 	-- 02. Выживание

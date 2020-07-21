@@ -236,4 +236,6 @@ Tooltip_RU = {
 	Tooltip_CantSprintEquipped = "Невозможно бежать в спринте, пока держите в руках.",
 	Tooltip_NeedMirror = "Необходимо зеркало в инвентаре или перед собой.",
 	Tooltip_Chance = "Шанс на успех:",
+	Tooltip_ReplaceWornItems = "Придётся снять:",
+	Tooltip_AndNMore = "... и ещё %1 вариантов",
 }
