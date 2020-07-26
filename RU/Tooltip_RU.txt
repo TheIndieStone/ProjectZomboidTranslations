@@ -238,4 +238,7 @@ Tooltip_RU = {
 	Tooltip_Chance = "Шанс на успех:",
 	Tooltip_ReplaceWornItems = "Придётся снять:",
 	Tooltip_AndNMore = "... и ещё %1 вариантов",
+	Tooltip_craft_stonePileDesc = "Пирамида из камней ",
+	Tooltip_craft_woodenCrossDesc = "Деревянный крест ",
+	Tooltip_craft_woodenPicketDesc = "Деревянный столбик с тряпкой",
 }
