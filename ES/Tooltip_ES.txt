@@ -237,4 +237,7 @@ Tooltip_ES = {
 	Tooltip_Chance = "Probabilidad:",
 	Tooltip_ReplaceWornItems = "Sustituir:",
 	Tooltip_AndNMore = "... y %1 más",
+	Tooltip_craft_stonePileDesc = "Túmulo de piedra ",
+	Tooltip_craft_woodenCrossDesc = "Cruz de madera ",
+	Tooltip_craft_woodenPicketDesc = "Piquete de madera ",
 }
