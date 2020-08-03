@@ -1,4 +1,4 @@
-Items_CN = {
+﻿﻿Items_CN = {
 	DisplayName_.223_Ammo = ".223 子弹",
 	DisplayName_.223_Magazine = ".223 弹匣",
 	DisplayName_.308_Ammo = ".308子弹",
@@ -1133,4 +1133,6 @@ Items_CN = {
 	DisplayName_Handbag = "手提包",
 	DisplayName_Lunchbox = "午餐盒",
 	DisplayName_Suitcase = "手提箱",
+	DisplayName_Flight_Case = "设备运输箱",
+	DisplayName_Guitar_Case = "吉他盒",
 }
