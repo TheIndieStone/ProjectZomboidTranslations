@@ -1,0 +1,10 @@
+Rosewood
+ <LINE> <LINE>
+ A short stay in Rosewood is pleasant, but a long stay?
+ Well the inmates of the famous Knox Penitentiary will tell you: that’s not so fun!
+ <LINE> <LINE>
+ Ideally situated geographically for ease of access, Rosewood is a community hub for administration
+ and community services as well as a leading incarceration center.
+ The county courthouse, a recently refurbished fire department and a lively law enforcement facility
+ make this one of the most important towns in the area! Come visit today!
+

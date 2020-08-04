@@ -3,6 +3,7 @@ Sandbox_RU = {
 	Sandbox_SaveButton = "СОХРАНИТЬ",
 	Sandbox_SavePrompt = "Сохранить эти настройки песочницы",
 	Sandbox_PresetName_Error = "Запрещено использовать символы: / \\ : ; \ .",
+	Sandbox_DeletePresetPrompt = "Удалить «%1»?",
 	--
 	Sandbox_PopulationOptions = "ПОПУЛЯЦИЯ",
 	Sandbox_ZombieCount = "КОЛИЧЕСТВО ЗОМБИ:",
