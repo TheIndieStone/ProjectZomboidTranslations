@@ -459,6 +459,7 @@ UI_EN = {
     UI_optionscreen_Small = "Small",
     UI_optionscreen_ConfirmPrompt = "Options were changed.  Apply the changes?",
     UI_optionscreen_blood_decals = "Blood Decals",
+    UI_optionscreen_CorpseShadows = "Corpse Shadows",
     UI_optionscreen_iso_cursor = "Iso Cursor Visibility",
     UI_BloodDecals0 = "None",
     UI_BloodDecals1 = "10%",
