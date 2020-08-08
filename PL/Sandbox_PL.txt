@@ -560,4 +560,8 @@ Sandbox_PL = {
 	Sandbox_LootAmmo = "AMUNICJA:",
 	Sandbox_LootMechanics = "MECHANIKA:",
 	Sandbox_VehicleStoryChance = "SZANSA NA LOSOWE ZDARZENIE Z POJAZDAMI:",
+	
+	Sandbox_DeletePresetPrompt = "Usun¹æ '%1'?",
+	Sandbox_ZombiesFenceLunge = "Atak po pokonaniu przeszkody",
+	Sandbox_ZombiesFenceLunge_tooltip = "Szansa na atak zombie, gdy przewróci siê po pokonaniu przeszkody i gdy jesteœ za blisko.",
 }

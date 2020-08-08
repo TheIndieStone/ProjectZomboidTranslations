@@ -236,4 +236,15 @@ Tooltip_PL = {
 	Tooltip_NeedMirror = "Potrzebujesz lustra lub stan¹æ przed lustrem.",
 	
 	Tooltip_TapKey = "Klawiatura: naciœnij %1",
+	
+	Tooltip_craft_stonePileDesc = "Kopiec z kamieni ",
+	Tooltip_craft_woodenCrossDesc = "Drewniany krzy¿ ",
+	Tooltip_craft_woodenPicketDesc = "Drewniany p³otek ",
+	Tooltip_Chance = "Szansa:",
+	Tooltip_Vehicle_WashTitle = "Umyj pojazd",
+	Tooltip_Vehicle_WashWaterRequired1 = "Wymaga maks. %1 jednostek wody na obszar.",
+	Tooltip_Vehicle_WashWaterRequired2 = "W ekwipunku masz 1 jednostkê wody.",
+	Tooltip_Vehicle_WashWaterRequired3 = "W ekwipunku masz %1 jednostki(-tek) wody.",
+	Tooltip_ReplaceWornItems = "Zamieñ:",
+	Tooltip_AndNMore = "... i %1 wiêcej",
 }

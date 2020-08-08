@@ -338,5 +338,10 @@ Recipe_Make_Metal_Walls = "Zrób metalowe œciany",
 	Saw Logs2 = "Pi³uj bal na deski",
 	Recipe_Close_Umbrella = "Otwórz parasol",
 	Recipe_Open_Umbrella = "Z³ó¿ parasol",
+	
+	Rip Sheets = "Podrzyj przeœcierad³a",
+	Insert Battery into Duck = "W³ó¿ bateriê do kaczki",
+	
+	Recipe_Empty_Griddle_Pan = "Opró¿nij patelniê do grillowania",
 
 }
