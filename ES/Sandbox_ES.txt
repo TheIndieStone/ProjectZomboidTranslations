@@ -557,4 +557,5 @@ Sandbox_ES = {
 	Sandbox_LootAmmo = "MUNICIÓN:",
 	Sandbox_LootMechanics = "MECÁNICA:",
 	Sandbox_VehicleStoryChance = "HISTORIAS DE VEHÍCULOS AL AZAR:",
+	Sandbox_DeletePresetPrompt = "Eliminar '%1'?",
 }
