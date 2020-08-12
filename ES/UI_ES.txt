@@ -1262,4 +1262,12 @@ UI_ES = {
 	UI_optionscreen_ToggleToAim = "Alternar %1 para apuntar",
 	UI_optionscreen_binding_ToggleModelsEnabled = "Alternar modelos habilitados",
 	UI_optionscreen_binding_ToggleAnimationText = "Alternar texto de animación",
+	UI_optionscreen_SimpleClothingTextures = "Texturas básicas de ropa",
+	UI_optionscreen_SimpleClothingTextures1 = "Ninguno",
+	UI_optionscreen_SimpleClothingTextures2 = "Sólo zombis",
+	UI_optionscreen_SimpleClothingTextures3 = "Jugadores y zombis",
+	UI_optionscreen_SimpleClothingTextures_tt = "La sangre, las calcomanías, los agujeros y los remiendos no se añaden a las texturas de la ropa. Activando esto se ahorra memoria de texturas y puede mejorar el rendimiento.",
+	UI_optionscreen_SimpleWeaponTextures = "Texturas básicas de armas",
+	UI_optionscreen_SimpleWeaponTextures_tt = "La sangre no se añade a las texturas de las armas. Activando esto se ahorra memoria de texturas y puede mejorar el rendimiento.",
+	UI_optionscreen_CorpseShadows = "Sombras de cadáveres",
 }

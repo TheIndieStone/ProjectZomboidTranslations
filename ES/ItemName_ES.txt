@@ -1438,4 +1438,5 @@ ItemName_ES = {
 	ItemName_Base.Ring_Right_RingFinger_GoldRuby = "Anillo de oro con rubí",
 	ItemName_Base.Ring_Right_RingFinger_Silver = "Anillo de plata",
 	ItemName_Base.Ring_Right_RingFinger_SilverDiamond = "Anillo de plata con diamante",
+	ItemName_Base.M14Clip = "Cargador .308",
 }
