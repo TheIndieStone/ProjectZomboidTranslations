@@ -41,7 +41,7 @@ ContextMenu_RU = {
 	ContextMenu_Grab_one = "Взять штуку",
 	ContextMenu_Grab_half = "Взять половину",
 	ContextMenu_Grab_all = "Взять всё",
-	ContextMenu_Put_in_Container = "Положить в контейнер",
+	ContextMenu_Put_in_Container = "Переложить в контейнер",
 	ContextMenu_Equip_on_your_Back = "Повесить на спину",
 	ContextMenu_Eat = "Есть",
 	ContextMenu_Equip_Primary = "Взять в основную руку",
@@ -438,4 +438,5 @@ ContextMenu_RU = {
 	ContextMenu_LeftWrist = "на левое запястье",
 	ContextMenu_RightWrist = "на правое запястье",
 	ContextMenu_DropNamedItem = "Выкинуть %1",
+	ContextMenu_PutInContainer = "Переложить в контейнер (%1)",
 }

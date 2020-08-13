@@ -20,6 +20,20 @@ Items_RU = {
 	DisplayName_Wire = "Проволока",
 	DisplayName_Hinge = "Дверная петля",
 	
+	/* для результатов Evolved-рецептов - не срабатывает ItemName */
+	DisplayName_Opened_Canned_Beans = "Открыт. консерв. бобы",
+	DisplayName_Opened_Canned_Carrots = "Открыт. консерв. морковь",
+	DisplayName_Opened_Canned_Chili = "Открыт. консерв. мясо с чили",
+	DisplayName_Opened_Canned_Corn = "Открыт. консерв. кукуруза",
+	DisplayName_Opened_Canned_Corned_Beef = "Открыт. консерв. говядина",
+	DisplayName_Opened_Canned_Mushroom_Soup = "Открыт. консерв. грибной суп",
+	DisplayName_Opened_Canned_Peas = "Открыт. консерв. горох",
+	DisplayName_Opened_Canned_Potato = "Открыт. консерв. картофель",
+	DisplayName_Opened_Canned_Sardines = "Открыт. консерв. сардины",
+	DisplayName_Opened_Canned_Soup = "Открыт. консерв. суп",
+	DisplayName_Opened_Canned_Spaghetti_Bolognese = "Открыт. консерв. болоньезе",
+	DisplayName_Opened_Canned_Tomato = "Открыт. консерв. томат",
+	
 	/* в коде отмечено как устаревшее, но всё ещё появляется в Evolved-рецептах */
 	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (устаревшее)",
 }
