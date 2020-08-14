@@ -1,6 +1,6 @@
 Challenge_CN = {
 	Challenge_YouHaveOneDay_name = "01. 你只有一天时间",
-	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了僵尸毁灭工程最初开始感染的地图上。 <LINE> <LINE> 你有相对安全的一天。 尸潮将会蜂拥而至， 并且它们会找到你的。 哪里会作为你再次背水一战的地方？ 哪里是你昔日背水一战的地方？ 最好赶紧找到它。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
+	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初开始感染的地图上。 <LINE> <LINE> 你有相对安全的一天。 尸潮将会蜂拥而至， 并且它们会找到你的。 哪里会作为你再次背水一战的地方？ 哪里是你昔日背水一战的地方？ 最好赶紧找到它。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
 
 	Challenge_WinterIsComing_name = "02. 凛冬将至",
 	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然有一阵寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 而不死大军可能会因为严寒而减慢脚步 - 但他们的致命性丝毫不减。 <LINE> <LINE> 裹暖点，幸存者…",
@@ -12,13 +12,13 @@ Challenge_CN = {
 	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔个重伤。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的好日子。 <LINE> <LINE> 【这个挑战的灵感来自于 超赞、精彩、必玩的 大灾变：即将到来的黑暗日子 中的 真是糟糕的一天】",
 	
 	Challenge_Challenge1_name = "05. 林中小屋 - 背水一战",
-	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的死人， 从四面八方侵入你与世隔绝的小屋。 死亡是躲不掉了， 但猎枪就在手边。 <LINE> <LINE> 背水一战的特色是数量不断增加的无尽的尸潮。 在压倒性的困难中尽可能长久地生存下去。",
+	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的死人， 从四面八方侵入你与世隔绝的小屋。 死亡是躲不掉了， 但猎枪就在手边。 <LINE> <LINE> 背水一战 的 特色是数量不断增加的无尽的尸潮。 在压倒性的困难中尽可能长久地生存下去。",
 	
 	Challenge_Challenge2_name = "06. 林中小屋 2 - 背水一战 累计赌注",
-	Challenge_Challenge2_desc = "又是一天， 又是一间准备血拼的小屋。 成群的人向你涌来， 而你的死亡将如它的恐怖般痛苦的。 所以出去战斗吧... <LINE> <LINE> 背水一战 – 累计赌注的特色是数量不断增加的无尽的尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那血淋淋的武器。",
+	Challenge_Challenge2_desc = "又是一天， 又是一间准备血拼的小屋。 成群的人向你涌来， 而你的死亡将如它的恐怖般痛苦的。 所以出去战斗吧... <LINE> <LINE> 背水一战 – 累计赌注 的 特色是数量不断增加的无尽的尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那血淋淋的武器。",
 
 	Challenge_AStormIsComing_name = "07. 风暴将至",
-	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处就可听到雷鸣的爆裂声。 <LINE> <LINE> 随着天色渐暗， 跌倒在大地上的死人变得躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱，但永远不会结束。",
+	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处就可听到雷鸣的爆裂声。 <LINE> <LINE> 随着天色渐暗， 跌倒在大地上的死人变得躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱， 但永远不会结束。",
 
 	Challenge_TheDescendingFog_name = "08. 迷雾降临",
 	Challenge_TheDescendingFog_desc = "人们先是看到它在水面上。 一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出那了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
