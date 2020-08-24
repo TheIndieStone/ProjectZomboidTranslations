@@ -558,7 +558,9 @@ Sandbox_EN = {
     Sandbox_RearVulnerability_option3 = "High",
     Sandbox_ZombiesDragDown = "Drag Down",
     Sandbox_ZombiesDragDown_tooltip = "When enabled if multiple zombies are attacking they can drag you down to feed. Dependent on zombie strength.",
+    Sandbox_ZombiesFenceLunge = "Fence Lunge",
+    Sandbox_ZombiesFenceLunge_tooltip = "When enabled zombies will have a chance to lunge after climbing over a fence if you're too close.",
     Sandbox_AttackBlockMovements = "Melee Movement Disruption",
     Sandbox_AttackBlockMovements_tooltip = "Disable to walk unimpeded while melee attacking.",
-
+    
 }

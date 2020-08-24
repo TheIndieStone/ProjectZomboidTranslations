@@ -92,6 +92,7 @@ Moveables_EN = {
     Bouquet_of_Roses = "Bouquet of Roses",
     Brick_Mall_Bench = "Brick Mall Bench",
     Broad_White_Table = "Broad White Table",
+    Broken_Glass = "Broken Glass",
     Brown_Carpet = "Brown Carpet",
     Brown_Curtain = "Brown Curtain",
     Brown_Lazy_Chair = "Brown Lazy Chair",
