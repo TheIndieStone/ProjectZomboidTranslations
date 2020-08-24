@@ -1000,6 +1000,7 @@ IGUI_UA = {
 	IGUI_char_HairStyle = "Волосся",
 	IGUI_char_BeardStyle = "Борода",
 	IGUI_Hair_Bald = "Лисина",
+	IGUI_PlayerText_CanNotSleepInMovingCar = "Спершу зупиніть машину."
 	IGUI_Hair_Picard = "Пікард",
 	IGUI_Hair_CrewCut = "Їжак",
 	IGUI_Hair_Baldspot = "З лисиною",
@@ -1175,6 +1176,7 @@ IGUI_UA = {
 	IGUI_ContainerTitle_vendingpop = "Торговий автомат",
 	-- For Gamepad Build
 	IGUI_Game_Action_Main_Menu_Binding = "Ігрове меню",
+	IGUI_GetCloserToWater = "Підійдіть ближче до води, щоб ловити рибу."
 	IGUI_Game_Action_UI_Radial_Menu_Binding = "Радіальне меню",
 	IGUI_Game_Action_Interact_Binding = "Меню дій",
 	IGUI_Game_Action_Toggle_Mode_Binding = "Меню об'єктів",

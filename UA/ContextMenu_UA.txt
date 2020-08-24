@@ -45,6 +45,7 @@ ContextMenu_UA = {
 	ContextMenu_Equip_on_your_Back = "Повісити на спину",
 	ContextMenu_Eat = "Їсти",
 	ContextMenu_Equip_Primary = "Взяти в основну руку",
+	ContextMenu_PutInContainer = "Покладіть в контейнер (%1)"
 	ContextMenu_Equip_Secondary = "Взяти в додаткову руку",
 	ContextMenu_Reload = "Перезарядити",
 	ContextMenu_EjectMagazine = "Дістати магазин",
