@@ -1291,7 +1291,7 @@
 	UI_NewGame_Builder = "工程师",
 	UI_NewGame_Builder_desc = "以建设、探索和种田为重点。 更轻松的体验。",
 	UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格。",
-	UI_News_Anim = "<H1> 欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本。 <LINE> 会出现错误和平衡问题。 优化改进正在进行中。 一部分功能已暂时禁用。 <LINE> 如果您遇到问题：请不要生气，参与进来。 去我们的论坛或社群上让咱们知道。 <BR> 【请注意：以下为非TIS发布的官方内容】 <BR> 「关注B站UP主：紗紗 相关专栏即可获取官方最近动态的社群翻译版本」 （https://space.bilibili.com/2033380） <LINE> <LINE> 我们的中文社群正在招募汉化组成员，有意者如发现汉化问题或有任何建议， <LINE> 请在社群中反馈，或直接在 Github 上参与进来，感谢！ <LINE> 同时也欢迎各位玩家一起来体验交流最新版本的内容！",
+	UI_News_Anim = "<H1> 欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本。 <LINE> 会出现错误和平衡问题。 优化改进正在进行中。 一部分功能已暂时禁用。 <LINE> 如果您遇到问题：请不要生气，参与进来。 去我们的论坛或社群上让咱们知道。 <BR> 【社群译者注：以下网站与TIS无关。 PROJECT ZOMBOID 开发者不对该网站上的任何内容负责。】 <BR> 「关注B站UP主：紗紗 相关专栏即可获取官方最近动态的社群翻译版本」 （https://space.bilibili.com/2033380） <LINE> <LINE> 我们的中文社群正在招募汉化组成员，有意者如发现汉化问题或有任何建议， <LINE> 请在社群中反馈，或直接在 Github 上参与进来，感谢！ <LINE> 同时也欢迎各位玩家一起来体验交流最新版本的内容！",
 	UI_optionscreen_binding_Hotbar 1 = "快捷栏 1",
 	UI_optionscreen_binding_Hotbar 2 = "快捷栏 2",
 	UI_optionscreen_binding_Hotbar 3 = "快捷栏 3",
