@@ -402,7 +402,6 @@ ItemName_UA = {
 	ItemName_Base.WhiskeyEmpty = "Бутилка з під віскі",
 	ItemName_Base.WineEmpty = "Бутилка з під вина",
 	ItemName_Base.WineEmpty2 = "Бутилка з під вина",
-	Base.FertilizerEmpty = "Порожнє добриво"
 	ItemName_Base.FertilizerEmpty = "Мішок з-під добрива",
 	ItemName_Base.EmptyPetrolCan = "Каністра",
 	ItemName_Base.EmptyJar = "Банка",

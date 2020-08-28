@@ -1283,4 +1283,5 @@ UI_UA = {
 	UI_optionscreen_ToggleToAim = "Натиснути '%1' для прицілювання",
 	UI_optionscreen_binding_ToggleModelsEnabled = "Відображення 3D-моделів",
 	UI_optionscreen_binding_ToggleAnimationText = "Відображення тексту анімації",
+	UI_optionscreen_binding_Emote = "Колесо емоцій (утримувати)"
 }
