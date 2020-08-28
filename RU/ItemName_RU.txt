@@ -3,6 +3,7 @@ ItemName_RU = {
 	ItemName_Base.223Clip = "Магазин .223",
 	ItemName_Base.308Bullets = "Патрон .308",
 	ItemName_Base.308Clip = "Магазин .308",
+	ItemName_Base.M14Clip = "Магазин .308",
 	ItemName_Base.Bullets38 = "Патрон .38 спец",
 	ItemName_Base.Bullets44 = "Патрон .44 магнум",
 	ItemName_Base.44Clip = "Магазин .44 магнум",

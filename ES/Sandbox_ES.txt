@@ -558,4 +558,6 @@ Sandbox_ES = {
 	Sandbox_LootMechanics = "MECÁNICA:",
 	Sandbox_VehicleStoryChance = "HISTORIAS DE VEHÍCULOS AL AZAR:",
 	Sandbox_DeletePresetPrompt = "Eliminar '%1'?",
+	Sandbox_ZombiesFenceLunge = "Embestida en caída",
+	Sandbox_ZombiesFenceLunge_tooltip = "Cuando se habilita, el zombi tendrá la oportunidad de arremeter después de pasar por encima de una valla si estás demasiado cerca.",
 }

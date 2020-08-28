@@ -1,0 +1,25 @@
+/* OUTDATED FORMAT
+ * All changes and translations should go to ItemName_XX.txt instead of in Items_XX.txt.
+ * DisplayName_<XX> breaks whenever the English DisplayName changes. 
+ * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
+ */
+Items_UA = {
+	/* для підсказки "потрібно: %1/%2" над пунктом "курити", коли немає сірників і зажигалки */
+	DisplayName_Lighter = "Зажигалка",
+	DisplayName_Matches = "Сірники",
+	
+	/* для підсказки "потрібно" в меню "Зварити" (раніше - "Газозварка") - не спрацьовує ItemName */
+	DisplayName_Blow_Torch = "Пропановий пальник",
+	DisplayName_Welding_Mask = "Зварювальна маска",
+	DisplayName_Welding_Rods = "Зварювальні електроди",
+	DisplayName_Scrap_Metal = "Металобрухт",
+	DisplayName_Metal_Sheet = "Лист металу",
+	DisplayName_Small_Metal_Sheet = "Маленький лист металу",
+	DisplayName_Metal_Bar = "Металічна пластина",
+	DisplayName_Metal_Pipe = "Металева труба",
+	DisplayName_Wire = "Проволока",
+	DisplayName_Hinge = "Дверна петля",
+	
+	/* в коді відзначено як застаріле, але все ще з'являється в Evolved-рецептах */
+	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (застаріле)",
+}

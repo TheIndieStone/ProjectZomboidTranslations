@@ -1,0 +1,72 @@
+Challenge_UA = {
+	Challenge_YouHaveOneDay_name = "01. У вас один день",
+	Challenge_YouHaveOneDay_desc = "Ви повернулись в округ Нокс. Ви повернулись на ту карту, де інфекція вперше дала про себе знати. <LINE> <LINE> У вас всього лише день відносної безпеки. Орди прийдуть у великих кількостях, і вони будуть шукати вас. Ви все ще пам'ятаєте, де була ваша база? <LINE> <LINE> [Команда IndieStone вдячна мапперу спільноти BobHeckling за реконструкцію карти Зомбоіда версії 0.1.5 за допомогою доступних інструментів.]",
+	
+	Challenge_WinterIsComing_name = "02. Зима близько",
+	Challenge_WinterIsComing_desc = "На дворі середина липня, але несподівано ви відчули порив крижаного вітру. Протягом всього трьох днів настала сувора зима, яку ви коли-небудь бачили. <LINE> <LINE> Ви проживаєте в ізольованій локації. У вас мізерна кількість припасів, а зомбі, хоч і уповільнені сильним холодом, продовжують бути такими ж смертоносними. <LINE> <LINE> Одягайтеся тепліше ...",
+	
+	Challenge_OpeningHours_name = "10. Ми відкриті!",
+	Challenge_OpeningHours_desc = "Торговий центр оточений. Колись це місце представляло для них важливість... Інстинкти привели їх сюди - спогади про те, чим вони колись займалися... <LINE> <LINE> Ви на самоті, але не надовго. О 9 ранку Торговий центр відкриє двері для нових відвідувачів: віконниці і двері відкриються, орди повалять всередину. <LINE> <LINE> Будьте до них готові.",
+	
+	Challenge_AReallyCDDAy_name = "05. Просто не ваш день",
+	Challenge_AReallyCDDAy_desc = "Вилазячи з душу, ви посковзнулися. До того ж ви п'яні як квач і у вас застуда. <LINE> До купи цього всього - ваш будинок у вогні! Сьогодні явно не ваш день.",
+	
+	Challenge_Challenge1_name = "06. Самотня халупа в лісі - Останній рубіж",
+	Challenge_Challenge1_desc = "Приготуйтеся до короткої і бойової гри в Zomboid. Мертвеці лізуть з усіх дір. <LINE> Ця халупа стане вашою могилою, але наскільки довго ви протримаєтеся проти полчищ зомбі? <LINE> Настав час використати той самий дробовик, збираючий пил... <BR> Характерні полчища зомбі, кількість яких з часом збільшується. <LINE> Виживайте якомога довше, використовуючи підручні (і кінцеві) ресурси.",
+	
+	Challenge_Challenge2_name = "07. Самотня халупа в лісі - Останній рубіж (версія 2)",
+	Challenge_Challenge2_desc = "Приготуйтеся до короткої і бойової гри в Zomboid. Мертвеці лізуть з усіх дір. <LINE> Ця халупа стане вашою могилою, але наскільки довго ви протримаєтеся проти полчищ зомбі? <LINE> Настав час використати той самий дробовик, збираючий пил... <BR> Характерні полчища зомбі, кількість яких з часом збільшується. <LINE> Використовуйте зароблені гроші для купівлі і лагодження вашого арсеналу.",
+	
+	Challenge_AStormIsComing_name = "03. Насувається шторм",
+	Challenge_AStormIsComing_desc = "Хмари згущуються над Кентуккі. Вдалині чується гуркіт грому. <LINE> <LINE> Коли темніє, мертві, спотикаючись об землю, стають неспокійними. <LINE> <LINE> Ця буря буде то посилюватися, то слабшати, але вона ніколи не закінчиться.",
+	-- On-screen UI
+	Challenge_TheDescendingFog_name = "04. Сходження туману",
+	Challenge_TheDescendingFog_desc = "Люди вперше побачили його на воді. Легка біла ковдра над річкою Огайо. <LINE> <LINE> Це був просто туман. Потім він огорнув місто. Городяни кричали, вмираючи в темряві. Тепер вони ходять там. <LINE> <LINE> Невидимі, нечутні і невблаганні, вони переслідують живих.",
+	
+	Challenge_Kingsmouth_name = "08. Кінгсмут",
+	Challenge_Kingsmouth_desc = "Насолоджуйтесь спокійним відпочинком на острові Кінгсмут!",
+	
+	Challenge_Studio_name = "09. Студія",
+	Challenge_Studio_desc = "Місце, де знімаються всі найкращі фільми!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Нажміть 'O' для розподілу очок досвіду та купівлі зброї.",
+	Challenge_Challenge2_WaveStart = "Хвиля %1 почнеться через: %2 (нажміть 'ENTER', щоб пропустити відлік)",
+	Challenge_Challenge2_WaveDuration = "Хвиля %1: %2",
+	Challenge_Challenge2_ZombiesLeft = "Залишилося зомбі: %1",
+	Challenge_Challenge2_Money = "Гроші: %1",
+	Challenge_Challenge2_Money2 = "Гроші гравця %1: %2",
+	Challenge_Challenge2_WaveFinished = "Хвиля %1 закінчена протягом: %2",
+	Challenge_Challenge2_MoneyGained = "Зароблено грошей: %1",
+	Challenge_Challenge2_XPGained = "Зароблено очок: %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Останній рубіж",
+	Challenge_Challenge2_TabPlayer = "Гравець",
+	Challenge_Challenge2_Weapons = "Зброя",
+	Challenge_Challenge2_TabItems = "Предмети",
+	Challenge_Challenge2_TabRepair = "Починка",
+	Challenge_Challenge2_CurrentXp = "Досвід: %1XP",
+	Challenge_Challenge2_GoldBonus = "Бонус до грошей",
+	Challenge_Challenge2_XpBonus = "Бонус до досвіду",
+	Challenge_Challenge2_ButtonSkill = "%1, рів.%2 - %3XP",
+	Challenge_Challenge2_ButtonSkillMax = "%1 - більше нікуди!",
+	Challenge_Challenge2_ButtonBonus = "%2 %1% - %3XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 - більше нікуди!",
+	Challenge_Challenge2_ButtonStartGold = "+%1 до стартових грошей - %2XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "+%1 до стартових грошей - більше нікуди!",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Навички",
+	Challenge_Challenge2_PermanentBonus = "Довічний бонус",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Споруда",
+	Challenge_Challenge2_Health = "Здоров'я",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x %2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Полагодити зброю",
+	
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Торговий центр відкриває двері для своїх відвідувачів о 9 ранку...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Через три дні настане нескінченна зима. <LINE> <LINE> Шукайте теплий одяг...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Через 24 години ваш похід в округ Нокс стане для вас справжнім пеклом...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Нескінченна негода...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Цей клятий туман...",
+}

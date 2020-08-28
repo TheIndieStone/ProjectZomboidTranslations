@@ -1,0 +1,27 @@
+MultiStageBuild_UA = {
+	-- Wooden Wall
+	MultiStageBuild_CreateWoodenWall_1 = "Побудувати дерев'яну стіну I рівня",
+	MultiStageBuild_UpgradeWoodenWall_1To2 = "Зміцнити стіну до II рівня",
+	MultiStageBuild_CreateWoodenWall_2 = "Побудувати дерев'яну стіну II рівня",
+	MultiStageBuild_UpgradeWoodenWall_1To3 = "Зміцнити стіну до III рівня",
+	MultiStageBuild_UpgradeWoodenWall_2To3 = "Зміцнити стіну до III рівня",
+	MultiStageBuild_CreateWoodenWall_3 = "Побудувати дерев'яну стіну III рівня",
+	-- Wooden Window
+	MultiStageBuild_CreateWoodenWindow_1 = "Побудувати дерев'яний віконний отвір I рівня",
+	MultiStageBuild_UpgradeWoodenWindow_1To2 = "Зміцнити віконний отвір до II рівня",
+	MultiStageBuild_CreateWoodenWindow_2 = "Побудувати дерев'яний віконний отвір II рівня",
+	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Зміцнити віконний отвір до III рівня",
+	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Зміцнити віконний отвір до III рівня",
+	MultiStageBuild_CreateWoodenWindow_3 = "Побудувати дерев'яний віконний отвір III рівня",
+	-- Metal Wall
+	MultiStageBuild_CreateMetalWall_1 = "Побудувати металеву стіну I рівня",
+	MultiStageBuild_UpgradeMetalWall_1To2 = "Зміцнити стіну до II рівня",
+	MultiStageBuild_CreateMetalWall_2 = "Побудувати металеву стіну II рівня",
+	-- Metal Window
+	MultiStageBuild_CreateMetalWindow_1 = "Побудувати металевий віконний отвір I рівня",
+	MultiStageBuild_UpgradeMetalWindow_1To2 = "Зміцнити віконний отвір до II рівня",
+	MultiStageBuild_CreateMetalWindow_2 = "Побудувати металевий віконний отвір II рівня",
+	-- wooden door frame
+	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Зміцнити дверний прохід до II рівня",
+	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Зміцнити дверний прохід до III рівня",
+}
