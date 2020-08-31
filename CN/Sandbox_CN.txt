@@ -2,6 +2,7 @@ Sandbox_CN = {
 	Sandbox_SavedPresets = "预设：",
 	Sandbox_SaveButton = "保存",
 	Sandbox_SavePrompt = "保存当前设置",
+    Sandbox_DeletePresetPrompt = "删除 “%1”？",
 	Sandbox_PresetName_Error = "不能使用这些字符： /  \\  :  ;  \  .",
     --
 	Sandbox_PopulationOptions = "人口",
