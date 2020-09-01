@@ -1208,6 +1208,8 @@ IGUI_RU = {
 	IGUI_Emote_Fire = "«Открыть огонь»",
 	IGUI_Emote_Come = "«Подойди»",
 	IGUI_Emote_Salute = "Воинское приветствие",
+	IGUI_Emote_Shout = "Крикнуть",
+	IGUI_Emote_Back = "назад",
 	
 	-- For Gamepad Build
 	IGUI_Game_Action_Main_Menu_Binding = "Игровое меню",
