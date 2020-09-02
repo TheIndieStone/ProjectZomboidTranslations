@@ -20,7 +20,7 @@ Items_RU = {
 	DisplayName_Wire = "Проволока",
 	DisplayName_Hinge = "Дверная петля",
 	
-	/* для результатов Evolved-рецептов - не срабатывает ItemName */
+	/* для результатов Evolved-рецептов - не срабатывает ItemName и ContextMenu_FoodType_*, похоже, используется параметр EvolvedRecipeName из scripts */
 	DisplayName_Canned_Carrots = "Консерв. морковь",
 	DisplayName_Canned_Chili = "Консерв. мясо с чили",
 	DisplayName_Canned_Corn = "Консерв. кукуруза",
@@ -30,6 +30,7 @@ Items_RU = {
 	DisplayName_Canned_Sardines = "Консерв. сардины",
 	DisplayName_Canned_Bolognese = "Консерв. болоньезе",
 	DisplayName_Canned_Tomato = "Консерв. томат",
+	DisplayName_Tea = "Чай",
 	
 	/* в коде отмечено как устаревшее, но всё ещё появляется в Evolved-рецептах */
 	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (устаревшее)",
