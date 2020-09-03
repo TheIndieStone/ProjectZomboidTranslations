@@ -1283,4 +1283,5 @@ UI_EN = {
     UI_multiplayer_Disabled = "Multiplayer is currently disabled.",
     UI_optionscreen_Uncapped = "Uncapped",
     UI_optionscreen_render_rain_indoors = "Render Rain When Indoors",
+    UI_optionscreen_binding_Emote = "Emotes Wheel (long press)",
 }
