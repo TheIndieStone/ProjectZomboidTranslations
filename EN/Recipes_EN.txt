@@ -53,6 +53,7 @@ Recipes_EN = {
     Recipe_Douse_Cotton_in_Alcohol = "Douse Cotton in Alcohol",
     Recipe_Drill_Plank = "Drill Plank",
     Recipe_Empty_Frying_Pan = "Empty Frying Pan",
+    Recipe_Empty_Griddle_Pan = "Empty Griddle Pan",
     Recipe_Empty_Roasting_Pan = "Empty Roasting Pan",
     Recipe_Empty_Whiskey_Bottle = "Empty Bourbon Bottle",
     Recipe_Fix_Fishing_Rod = "Fix Fishing Rod",
