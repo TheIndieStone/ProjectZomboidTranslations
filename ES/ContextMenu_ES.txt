@@ -439,4 +439,5 @@ ContextMenu_ES = {
 	ContextMenu_PutOnEarlobe = "Poner en el lóbulo",
 	ContextMenu_LeftWrist = "Poner en la muñeca izquierda",
 	ContextMenu_RightWrist = "Poner en la muñeca derecha",
+	ContextMenu_PutInContainer = "Poner en contenedor (%1)",
 }
