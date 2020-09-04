@@ -45,6 +45,7 @@ ContextMenu_EN = {
 	ContextMenu_Grab_all = "Grab all",
 	ContextMenu_Grab = "Grab",
 	ContextMenu_Put_in_Container = "Put in Container",
+	ContextMenu_PutInContainer = "Put in Container (%1)",
 	ContextMenu_Equip_on_your_Back = "Equip on Back",
 	ContextMenu_Eat = "Eat",
 	ContextMenu_Equip_Primary = "Equip Primary",
