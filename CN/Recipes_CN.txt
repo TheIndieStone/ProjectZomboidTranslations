@@ -53,6 +53,7 @@
     Recipe_Douse_Cotton_in_Alcohol = "把 棉花 浸入 酒精 中",
     Recipe_Drill_Plank = "木板 开槽",
     Recipe_Empty_Frying_Pan = "倒掉 平底煎锅",
+    Recipe_Empty_Griddle_Pan = "倒掉 圆烤盘",
     Recipe_Empty_Roasting_Pan = "倒掉 烤盘",
     Recipe_Empty_Whiskey_Bottle = "倒掉 威士忌",
     Recipe_Fix_Fishing_Rod = "修理 钓鱼竿",
