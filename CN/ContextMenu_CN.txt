@@ -45,6 +45,7 @@ ContextMenu_CN = {
 	ContextMenu_Grab_all = "拿取[全部]",
 	ContextMenu_Grab = "拿取",
 	ContextMenu_Put_in_Container = "放入容器",
+	ContextMenu_PutInContainer = "放入容器 (%1)",
 	ContextMenu_Equip_on_your_Back = "装备在背上",
 	ContextMenu_Eat = "吃",
 	ContextMenu_Equip_Primary = "装备[右手]",
