@@ -240,4 +240,7 @@ Tooltip_ES = {
 	Tooltip_craft_stonePileDesc = "Túmulo de piedra ",
 	Tooltip_craft_woodenCrossDesc = "Cruz de madera ",
 	Tooltip_craft_woodenPicketDesc = "Piquete de madera ",
+	Tooltip_item_Equipped = "equipado",
+	Tooltip_item_Unequipped = "no equipado",
+	
 }

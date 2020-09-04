@@ -1270,4 +1270,5 @@ UI_ES = {
 	UI_optionscreen_SimpleWeaponTextures = "Texturas básicas de armas",
 	UI_optionscreen_SimpleWeaponTextures_tt = "La sangre no se añade a las texturas de las armas. Activando esto se ahorra memoria de texturas y puede mejorar el rendimiento.",
 	UI_optionscreen_CorpseShadows = "Sombras de cadáveres",
+	UI_optionscreen_binding_Emote = "Gestos (pulsación larga)",
 }
