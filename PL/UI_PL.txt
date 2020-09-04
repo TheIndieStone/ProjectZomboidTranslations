@@ -1293,4 +1293,14 @@ UI_PL = {
 	UI_optionscreen_binding_ToggleModelsEnabled = "Prze³¹czaj w³¹czanie modeli",
 	UI_optionscreen_binding_ToggleAnimationText = "Prze³¹czaj tekst animacji",
 	UI_ClothingTextureType = "Typ %1",
+	
+	UI_optionscreen_SimpleClothingTextures = "Proste tekstury odzie¿y",
+	UI_optionscreen_SimpleClothingTextures1 = "Brak",
+	UI_optionscreen_SimpleClothingTextures2 = "Tylko zombie",
+	UI_optionscreen_SimpleClothingTextures3 = "Gracze i zombie",
+	UI_optionscreen_SimpleClothingTextures_tt = "Krew, efekty, dziury i ³atki nie bêd¹ dodawane do tekstur odzie¿y. W³¹czenie ustawienia oszczêdza pamiêæ na tekstury i mo¿e poprawiæ p³ynnoœæ gry.",
+	UI_optionscreen_SimpleWeaponTextures = "Proste tekstury broni",
+	UI_optionscreen_SimpleWeaponTextures_tt = "Krew nie bêdzie dodawana do tekstur broni. W³¹czenie ustawienia oszczêdza pamiêæ na tekstury i mo¿e poprawiæ p³ynnoœæ gry.",
+	UI_optionscreen_binding_Emote = "Ko³o gestów (przytrzymaj)",
+	
 }

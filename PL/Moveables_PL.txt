@@ -1,7 +1,7 @@
 Moveables_PL = {
     50s_Barstool = "Sto³ek z lat 50.",
     50s_Seat = "Siedzisko z lat 50.",
-    99_Cent_Sale_Sign = "Znak wyprzeda¿y 99 centów",
+    99_Cent_Sale_Sign = "Znak wyprzeda¿y 49 centów",
     Acacia_Tiles = "P³ytki Akacja",
     Administrative_Flag = "Flaga administracyjna",
     Adult_Education_Sign = "Znak szko³y dla doros³ych",
@@ -682,5 +682,7 @@ Moveables_PL = {
     Stone_Pile = "Kamienny kopiec",
     Wooden_Picket = "Drewniany palik",
     Wooden_Stairs = "Drewniane schody",
+	
+	Broken_Glass = "Od³amki szk³a",
         
 }
