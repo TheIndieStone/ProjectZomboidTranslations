@@ -23,8 +23,8 @@ Challenge_CN = {
 	Challenge_TheDescendingFog_name = "08. 迷雾降临",
 	Challenge_TheDescendingFog_desc = "人们先是看到它在水面上。 一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出那了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
 
-	Challenge_Kingsmouth_name = "09. 金斯茅斯",
-	Challenge_Kingsmouth_desc = "祝您在金斯茅斯岛上度过一段轻松的时光！",
+	Challenge_Kingsmouth_name = "09. 王口岛",
+	Challenge_Kingsmouth_desc = "祝您在王口岛上度过一段轻松的时光！",
 
 	Challenge_Studio_name = "10. 影棚",
 	Challenge_Studio_desc = "所有最好的电影都是在这里拍摄的！",
