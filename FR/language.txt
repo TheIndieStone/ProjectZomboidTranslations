@@ -1,4 +1,0 @@
-VERSION = 1,
-text = Francais,
-charset = Cp1252,
-azerty = true,

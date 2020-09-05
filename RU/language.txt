@@ -1,4 +1,0 @@
-VERSION = 1,
-text = Russian,
-charset = Cp1251,
-

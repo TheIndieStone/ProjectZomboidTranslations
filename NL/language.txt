@@ -1,4 +1,0 @@
-VERSION = 1,
-text = Nederlands,
-charset = Cp1252,
-

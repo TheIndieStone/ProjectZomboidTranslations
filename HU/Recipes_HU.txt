@@ -1,7 +1,0 @@
-Recipes_HU = {
-    Recipe_Craft_Sheet_Rope = "Lepedõ kötél készítés",
-    Recipe_Rip_sheets = "Ruha szaggatás",
-    Recipe_Generator = "Generátor karbantartás",
-    Recipe_Herbalist = "Növényi gyógymódok",
-}
-

@@ -1,4 +1,0 @@
-VERSION = 1,
-text = Thai,
-charset = UTF-8,
-

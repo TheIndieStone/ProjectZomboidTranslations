@@ -1,4 +1,0 @@
-VERSION = 1,
-text = Espanol (AR),
-charset = Cp1252,
-

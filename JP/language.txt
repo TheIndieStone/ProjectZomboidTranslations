@@ -1,4 +1,0 @@
-VERSION = 1,
-text = Japanese,
-charset = UTF-8,
-
