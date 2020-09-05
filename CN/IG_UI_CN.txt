@@ -415,11 +415,11 @@ IGUI_CN = {
 	IGUI_PlayerText_Callout2 = "我在这里！",
 	IGUI_PlayerText_Callout3 = "嘿，说你呢！",
 	IGUI_PlayerText_Callout1New = "嘿!",
-    IGUI_PlayerText_Callout2New = "我在这里!",
-    IGUI_PlayerText_Callout3New = "嘿，说你呢!",
-    IGUI_PlayerText_Callout1Sneak = "嘶——!",
-    IGUI_PlayerText_Callout2Sneak = "嘶",
-    IGUI_PlayerText_Callout3Sneak = "嘿",
+	IGUI_PlayerText_Callout2New = "我在这里!",
+	IGUI_PlayerText_Callout3New = "嘿，说你呢!",
+	IGUI_PlayerText_Callout1Sneak = "嘶——!",
+	IGUI_PlayerText_Callout2Sneak = "嘶",
+	IGUI_PlayerText_Callout3Sneak = "嘿",
 	IGUI_PlayerText_CalloutTutorial = "嘿，我在这里！",
 	IGUI_MP_ServerPlayerIDMismatch = "服务器无法找到对应的存档ID，请更换昵称或删除存档重试！",
 	IGUI_UnknownBerry = "未知类型的浆果",
@@ -1169,5 +1169,4 @@ IGUI_CN = {
     IGUI_Emote_Shrug = "耸肩",
     IGUI_Emote_Shout = "喊叫",
     IGUI_Emote_Back = "后退",
-}
 }
