@@ -1300,7 +1300,7 @@
 	UI_multiplayer_Disabled = "联机模式暂时屏蔽。",
 	UI_optionscreen_Uncapped = "不设上限",
 	UI_optionscreen_render_rain_indoors = "在室内时渲染雨水",
-    UI_optionscreen_binding_Emote = "动作菜单(长按)",
+	UI_optionscreen_binding_Emote = "动作菜单(长按)",
 	UI_Loading_Mods = "载入模组中…",
 	-- Old Strings
 	UI_mods_ExplanationJoypad = " 启用/禁用 MOD. 将您的MOD文件存放于： ",
