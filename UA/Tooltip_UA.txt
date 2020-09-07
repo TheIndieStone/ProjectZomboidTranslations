@@ -33,6 +33,8 @@ Tooltip_UA = {
 	Tooltip_literature_HasBeenRead = "ВЖЕ ЧИТАЛИ",
 	Tooltip_literature_AlreadyKnown = "Деякі рецепти знають люди певних професій.",
 	Tooltip_item_TwoHandWeapon = "Найкращий ефект в двох руках.",
+	Tooltip_item_Equipped = "Оснащений",
+	Tooltip_item_Unequipped = "Неоснащений",
 	-- Crafting tooltip
 	Tooltip_craft_barElementDesc = "Елемент бару, складайте сюди Ваш алкоголь!",
 	Tooltip_craft_woodenStakeDesc = "Дерев'яний кілок для насадки колючого дроту",
