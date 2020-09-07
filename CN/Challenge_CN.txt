@@ -1,6 +1,6 @@
 Challenge_CN = {
 	Challenge_YouHaveOneDay_name = "01. 最后时刻",
-	Challenge_YouHaveOneDay_desc = "你回到了诺克斯郡。 你又回到了 僵尸毁灭工程 最初的地图上。 <LINE> <LINE> 你只有一天时间做准备。 然后尸潮将会蜂拥而至， 它们会无情的猎杀你。 你将在何方背水一战？ 你昔日在何方背水一战？ 赶紧准备吧。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
+	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初的地图上。 <LINE> <LINE> 你只有一天时间做准备。 然后尸潮将会蜂拥而至， 它们会无情的猎杀你。 你将在何方背水一战？ 你昔日在何方背水一战？ 赶紧准备吧。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
 
 	Challenge_WinterIsComing_name = "02. 凛冬将至",
 	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然有一阵寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 而不死大军可能会因为严寒而减慢脚步 - 但他们的致命性丝毫不减。 <LINE> <LINE> 多穿点，幸存者…",
