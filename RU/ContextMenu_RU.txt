@@ -148,7 +148,7 @@ ContextMenu_RU = {
 	ContextMenu_Spill_Gravel = "Рассыпать гравий",
 	ContextMenu_Spill_Sand = "Рассыпать песок",
 	ContextMenu_Spill_Dirt = "Рассыпать землю",
-	ContextMenu_Take_some_sands = "Набрать пескок",
+	ContextMenu_Take_some_sands = "Набрать песок",
 	ContextMenu_Take_some_gravel = "Набрать гравий",
 	ContextMenu_Take_some_dirt = "Набрать землю",
 	ContextMenu_Repair = "Починить ",
@@ -439,4 +439,5 @@ ContextMenu_RU = {
 	ContextMenu_RightWrist = "на правое запястье",
 	ContextMenu_DropNamedItem = "Выкинуть %1",
 	ContextMenu_PutInContainer = "Переложить в контейнер (%1)",
+	ContextMenu_DrinkForThirst = "Пить",
 }
