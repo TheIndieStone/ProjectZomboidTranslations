@@ -1284,4 +1284,6 @@ UI_UA = {
 	UI_optionscreen_binding_ToggleModelsEnabled = "Відображення 3D-моделів",
 	UI_optionscreen_binding_ToggleAnimationText = "Відображення тексту анімації",
 	UI_optionscreen_binding_Emote = "Колесо емоцій (утримувати)"
+	UI_optionscreen_AutoDrink = "Автоматично пити воду, під час спраги",
+	UI_optionscreen_LeaveKeyInIgnition = "Залишати ключ у замку запалювання"
 }
