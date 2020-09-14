@@ -63,9 +63,9 @@ GameSound_EN = {
     GameSound_StormyShotgunInsertRound = "Insert Shotgun Round",
     GameSound_ShotgunShellHitGround = "Shotgun Shell Hits Ground",
     GameSound_Stormy9mmClick = "9mm Click",
-    GameSound_Stormy9mmClipEject = "9mm Clip Eject",
+    GameSound_Stormy9mmClipEject = "9mm Magazine Eject",
     GameSound_Stormy9mmRack = "9mm Rack",
-    GameSound_Stormy9mmClipLoad = "9mm Clip Load",
+    GameSound_Stormy9mmClipLoad = "9mm Magazine Load",
     
 /* Meta */ 
     GameSound_Helicopter = "Helicopter",
