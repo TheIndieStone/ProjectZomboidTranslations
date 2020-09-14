@@ -1,33 +1,33 @@
 Challenge_CN = {
-	Challenge_YouHaveOneDay_name = "01. 你只有一天时间",
-	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初开始感染的地图上。 <LINE> <LINE> 你有相对安全的一天。 尸潮将会蜂拥而至， 并且它们会找到你的。 哪里会作为你再次背水一战的地方？ 哪里是你昔日背水一战的地方？ 最好赶紧找到它。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
+	Challenge_YouHaveOneDay_name = "01. 最后时刻",
+	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初的地图上。 <LINE> <LINE> 你只有一天时间做准备。 然后尸潮将会蜂拥而至， 它们会无情的猎杀你。 你将在何方背水一战？ 你昔日在何方背水一战？ 赶紧准备吧。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
 
 	Challenge_WinterIsComing_name = "02. 凛冬将至",
-	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然有一阵寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 而不死大军可能会因为严寒而减慢脚步 - 但他们的致命性丝毫不减。 <LINE> <LINE> 裹暖点，幸存者…",
+	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然有一阵寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 而不死大军可能会因为严寒而减慢脚步 - 但他们的致命性丝毫不减。 <LINE> <LINE> 多穿点，幸存者…",
 
 	Challenge_OpeningHours_name = "03. 营业时间",
 	Challenge_OpeningHours_desc = "商场周围这些可怜的人都是来购物的,这是它们经常来的地方 <br><br> 本能驱使它们在营业时间进入商场 <LINE> <LINE> 虽然你只有一个人,但过一会商场门会打开,僵尸们将一拥而入.",
 
-	Challenge_AReallyCDDAy_name = "04. 一个真正的 CD DA",
-	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔个重伤。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的好日子。 <LINE> <LINE> 【这个挑战的灵感来自于 超赞、精彩、必玩的 大灾变：即将到来的黑暗日子 中的 真是糟糕的一天】",
+	Challenge_AReallyCDDAy_name = "04. 真正的大灾变",
+	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔个重伤。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的幸运日。 <LINE> <LINE> 【这个挑战的灵感来自于 超赞、精彩、必玩的 大灾变：即将到来的黑暗日子 中的 真是糟糕的一天】",
 	
 	Challenge_Challenge1_name = "05. 林中小屋 - 背水一战",
-	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的死人， 从四面八方侵入你与世隔绝的小屋。 死亡是躲不掉了， 但猎枪就在手边。 <LINE> <LINE> 背水一战 的 特色是数量不断增加的无尽的尸潮。 在压倒性的困难中尽可能长久地生存下去。",
+	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的尸潮， 从四面八方侵入你与世隔绝的小屋。 死亡是躲不掉了， 但猎枪就在手边。 <LINE> <LINE> 背水一战 的 特色是数量不断增加的无尽的尸潮。 在压倒性的困难中尽可能长久地生存下去。",
 	
-	Challenge_Challenge2_name = "06. 林中小屋 2 - 背水一战 累计赌注",
-	Challenge_Challenge2_desc = "又是一天， 又是一间准备血拼的小屋。 成群的人向你涌来， 而你的死亡将如它的恐怖般痛苦的。 所以出去战斗吧... <LINE> <LINE> 背水一战 – 累计赌注 的 特色是数量不断增加的无尽的尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那血淋淋的武器。",
+	Challenge_Challenge2_name = "06. 林中小屋 2 - 背水一战 累计赏金",
+	Challenge_Challenge2_desc = "另一天， 又是一间准备血拼的小屋。 成群的尸潮向你涌来， 一不留神会死的很痛苦。 所以出去战斗吧... <LINE> <LINE> 背水一战 – 累计赌注 的 特色是数量不断增加的无尽的尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那猩红色的武器。",
 
 	Challenge_AStormIsComing_name = "07. 风暴将至",
-	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处就可听到雷鸣的爆裂声。 <LINE> <LINE> 随着天色渐暗， 跌倒在大地上的死人变得躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱， 但永远不会结束。",
+	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处传来雷鸣。 <LINE> <LINE> 随着天色渐暗， 地上的死者开始躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱， 但永远不会结束。",
 
 	Challenge_TheDescendingFog_name = "08. 迷雾降临",
-	Challenge_TheDescendingFog_desc = "人们先是看到它在水面上。 一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出那了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
+	Challenge_TheDescendingFog_desc = "人们先在水面上看到它。 像一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出来了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
 
-	Challenge_Kingsmouth_name = "09. 金斯茅斯",
-	Challenge_Kingsmouth_desc = "祝您在金斯茅斯岛上度过一段轻松的时光！",
+	Challenge_Kingsmouth_name = "09. 王口岛",
+	Challenge_Kingsmouth_desc = "祝您在王口岛上度过一段轻松的时光！",
 
 	Challenge_Studio_name = "10. 影棚",
-	Challenge_Studio_desc = "所有最好的电影都是在这里拍摄的！",
+	Challenge_Studio_desc = "最好的电影都出自这里！",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "按下 'o' 键 来花点钱并获得永久加成。",
 	Challenge_Challenge2_WaveStart = "第 %1 波： %2 后 (按回车键跳过等待时间)",
@@ -64,9 +64,9 @@ Challenge_CN = {
 	-- WeaponRepairWindow
 	Challenge_Challenge2_RepairWeapon = "修理武器",
 	-- WeaponUpWindow
-	Challenge_OpeningHoursInfoBox = " <CENTRE> 商场在上午九点开门。 <LINE> <LINE> 准备好迎接人群...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> 再过三天无尽的冬天就开始了。 <LINE> <LINE> 穿暖和点...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你回诺克斯县的旅程就会变成人间地狱…",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> 前方是无穷无尽的恶劣天气…",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> 商场在上午九点开门。 <LINE> <LINE> 准备好迎接尸潮...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> 再过三天无尽的冬天就开始了。 <LINE> <LINE> 多穿点...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你在诺克斯郡的旅程就会变的困难无比…",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> 你将面对无穷无尽的恶劣天气…",
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越朦胧了…",
 }
