@@ -53,6 +53,7 @@ ContextMenu_UA = {
 	ContextMenu_Pour_into = "Додати до",
 	ContextMenu_Pour_on_Ground = "Злити на землю",
 	ContextMenu_AddWaterFromItem = "Долити воду з",
+	ContextMenu_DrinkForThirst = "Пити"
 	ContextMenu_Take_pills = "Прийняти пігулки",
 	ContextMenu_Read = "Читати",
 	ContextMenu_Wear = "Одягти",
