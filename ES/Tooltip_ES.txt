@@ -66,7 +66,7 @@ Tooltip_ES = {
     Tooltip_potentialRepair = "Posibilidad de reparación:",
     Tooltip_chanceSuccess = "Probabilidad de éxito:",
     Tooltip_broken = "Roto",
-    Tooltip_never = "nunca",
+    Tooltip_never = "Nunca",
     Tooltip_item_Spices = "Condimentos:",
     Tooltip_Scope = "Accesorio para arma. Aumenta el alcance máximo del arma.<br>Disminuye la precisión a corto alcance.",
     Tooltip_AmmoStrap = "Accesorio para arma. Reduce el tiempo de recarga.",
@@ -240,7 +240,10 @@ Tooltip_ES = {
 	Tooltip_craft_stonePileDesc = "Túmulo de piedra ",
 	Tooltip_craft_woodenCrossDesc = "Cruz de madera ",
 	Tooltip_craft_woodenPicketDesc = "Piquete de madera ",
-	Tooltip_item_Equipped = "equipado",
-	Tooltip_item_Unequipped = "no equipado",
+	Tooltip_item_Equipped = "Equipado",
+	Tooltip_item_Unequipped = "No equipado",
+	Tooltip_WaterUnlimited = "Sin límite",
+	Tooltip_TooExhaustedFitness = "Demasiado agotado para hacer ejercicio.",
+	Tooltip_TooHeavyFitness = "Demasiada carga para hacer ejercicio.",
 	
 }
