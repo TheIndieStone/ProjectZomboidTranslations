@@ -4,33 +4,6 @@
  * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
  */
 Items_RU = {
-	/* для тултипа "требуется: %1/%2" над пунктом "курить", когда нет спичек и зажигалки */
-	DisplayName_Lighter = "Зажигалка",
-	DisplayName_Matches = "Спички",
-	
-	/* для тултипов "требуется" в меню "Сварить" (ранее - "Газосварка") - не срабатывает ItemName */
-	DisplayName_Blow_Torch = "Пропановая горелка",
-	DisplayName_Welding_Mask = "Сварочная маска",
-	DisplayName_Welding_Rods = "Сварочные электроды",
-	DisplayName_Scrap_Metal = "Металлолом",
-	DisplayName_Metal_Sheet = "Лист металла",
-	DisplayName_Small_Metal_Sheet = "Маленький лист металла",
-	DisplayName_Metal_Bar = "Металлическая пластина",
-	DisplayName_Metal_Pipe = "Металлическая труба",
-	DisplayName_Wire = "Проволока",
-	DisplayName_Hinge = "Дверная петля",
-	
-	/* для результатов Evolved-рецептов - не срабатывает ItemName и ContextMenu_FoodType_*, похоже, используется параметр EvolvedRecipeName из scripts */
-	DisplayName_Canned_Carrots = "Консерв. морковь",
-	DisplayName_Canned_Chili = "Консерв. мясо с чили",
-	DisplayName_Canned_Corn = "Консерв. кукуруза",
-	DisplayName_Canned_Corned_Beef = "Консерв. говядина",
-	DisplayName_Canned_Peas = "Консерв. горох",
-	DisplayName_Canned_Potato = "Консерв. картофель",
-	DisplayName_Canned_Sardines = "Консерв. сардины",
-	DisplayName_Canned_Bolognese = "Консерв. болоньезе",
-	DisplayName_Canned_Tomato = "Консерв. томат",
-	DisplayName_Tea = "Чай",
 	
 	/* в коде отмечено как устаревшее, но всё ещё появляется в Evolved-рецептах */
 	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (устаревшее)",
