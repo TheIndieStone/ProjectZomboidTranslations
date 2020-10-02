@@ -464,7 +464,7 @@ Sandbox_EN = {
     Sandbox_AllowExteriorGenerator = "Generator Working in Exterior",
     Sandbox_AllowExteriorGenerator_tooltip = "If enabled, generators will work on exterior tiles, allowing for example to power gas pump.",
     --
-    Sandbox_Vehicle = "Vehicle",
+    Sandbox_Vehicle = "Vehicles",
     Sandbox_ZombieAttractionMultiplier = "Zombie Attraction Multiplier",
     Sandbox_ZombieAttractionMultiplier_tooltip = "Use this to multiply or reduce engine general loudness.",
     Sandbox_VehicleEasyUse = "Easy Use",
@@ -530,7 +530,7 @@ Sandbox_EN = {
     Sandbox_PlayerDamageFromCrash_tooltip = "Enable or disable player getting damage from being in a car accident.",
     Sandbox_SirenShutoffHours = "Siren Shutoff Hours",
     Sandbox_SirenShutoffHours_tooltip = "Number of hours before siren sound stops playing.\n0.0 means play until the battery is dead.",
-    Sandbox_EnableVehicles = "Enable Vehicle",
+    Sandbox_EnableVehicles = "Vehicles",
     --
     Sandbox_TriggerHouseAlarm = "Zombie House Alarm Triggering",
     Sandbox_TriggerHouseAlarm_tooltip = "Allows zombies to trigger house alarms when breaking through windows and doors.",
@@ -547,7 +547,7 @@ Sandbox_EN = {
     Sandbox_MaxRainFxIntensity_option1 = "Normal",
     Sandbox_MaxRainFxIntensity_option2 = "Moderate",
     Sandbox_MaxRainFxIntensity_option3 = "Low",
-    Sandbox_EnableSnowOnGround = "Enable Snow on Ground",
+    Sandbox_EnableSnowOnGround = "Snow on Ground",
     Sandbox_EnableSnowOnGround_tooltip = "If disabled snow will not accumulate on ground but will still be visible on vegetation and rooftops.",
     Sandbox_MultiHitZombies = "Weapon Multi Hit",
     Sandbox_MultiHitZombies_tooltip = "When enabled certain melee weapons will be able to strike multiple zombies in one hit."
