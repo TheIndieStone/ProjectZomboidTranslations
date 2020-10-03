@@ -1,0 +1,12 @@
+EvolvedRecipeName_KO = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "볼로냐 소스 통조림",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "당근 통조림",
+	EvolvedRecipeName_Base.CannedChiliOpen = "칠리소스 통조림",
+	EvolvedRecipeName_Base.CannedCornOpen = "옥수수 통조림",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "소고기 통조림",
+	EvolvedRecipeName_Base.CannedPeasOpen = "완두콩 통조림",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "감자 통조림",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "정어리 통조림",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "토마토 통조림",
+	EvolvedRecipeName_Base.Teabag2 = "티백",
+}
