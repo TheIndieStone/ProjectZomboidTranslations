@@ -1,0 +1,12 @@
+EvolvedRecipeName_PL = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Puszka bolognese",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Puszka marchewek",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Puszka chili",
+    EvolvedRecipeName_Base.CannedCornOpen = "Puszka kukurydzy",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Puszka solonej wo³owiny",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Puszka groszku",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Puszka ziemniaków",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Puszka sardynek",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Puszka pomidorów",
+    EvolvedRecipeName_Base.Teabag2 = "Torebka herbaty",
+}
