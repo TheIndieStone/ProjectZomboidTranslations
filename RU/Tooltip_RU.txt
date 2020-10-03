@@ -243,4 +243,8 @@ Tooltip_RU = {
 	Tooltip_craft_stonePileDesc = "Пирамида из камней ",
 	Tooltip_craft_woodenCrossDesc = "Деревянный крест ",
 	Tooltip_craft_woodenPicketDesc = "Деревянный столбик с тряпкой",
+	Tooltip_WaterUnlimited = "Неограниченно",
+	Tooltip_TooExhaustedFitness = "Слишком сильное напряжение для занятия фитнесом",
+	Tooltip_TooHeavyFitness = "Слишком тяжёлый груз для занятия фитнесом",
+	Tooltip_StandStillFitness = "Для занятия фитнесом необходимо встать",
 }
