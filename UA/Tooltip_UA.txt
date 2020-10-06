@@ -243,4 +243,9 @@ Tooltip_UA = {
 	Tooltip_craft_stonePileDesc = "Піраміда з каміння ",
 	Tooltip_craft_woodenCrossDesc = "Дерев'яний хрест ",
 	Tooltip_craft_woodenPicketDesc = "Дерев'яний стовпчик з ганчіркою",
+	Tooltip_WaterUnlimited = "Необмежений",
+	Tooltip_TooExhaustedFitness = "Занадто виснажені, щоб займатись фітнесом.",
+	Tooltip_TooHeavyFitness = "Занадто багато ношу, щоб займатися фітнесом.",
+	Tooltip_StandStillFitness = "Встаньте перед тим, як займатися фітнесом.",
+	Tooltip_weapon_SpentRoundChambered = "Провів в камері. Стійка.",
 }
