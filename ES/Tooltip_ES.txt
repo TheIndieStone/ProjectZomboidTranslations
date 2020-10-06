@@ -245,5 +245,7 @@ Tooltip_ES = {
 	Tooltip_WaterUnlimited = "Sin límite",
 	Tooltip_TooExhaustedFitness = "Demasiado agotado para hacer ejercicio.",
 	Tooltip_TooHeavyFitness = "Demasiada carga para hacer ejercicio.",
+	Tooltip_StandStillFitness = "Levántate antes de hacer ejercicio.",
+	Tooltip_weapon_SpentRoundChambered = "Proyectil gastado en la recámara. Amartilla el arma.",
 	
 }
