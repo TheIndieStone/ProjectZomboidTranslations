@@ -56,7 +56,7 @@ UI_UA = {
 	UI_optionscreen_UIFBO = "Окрема обробка інтерфейсу",
 	UI_optionscreen_UIFBO_tt = "Відображати інтерфейс з меншою частотою кадрів, ніж в основній грі, щоб підвищити загальну продуктивність.",
 	UI_optionscreen_UIRenderFPS = "FPS інтерфейсу",
-	UI_optionscreen_SimpleClothingTextures = "Прості текстури одягу"
+	UI_optionscreen_SimpleClothingTextures = "Спрощені текстури одягу"
 	UI_optionscreen_SimpleClothingTextures1 = "Не використовувати"
 	UI_optionscreen_SimpleClothingTextures2 = "Тільки для зомбі"
 	UI_optionscreen_SimpleClothingTextures3 = "Для зомбі та гравців"
@@ -1284,4 +1284,6 @@ UI_UA = {
 	UI_optionscreen_binding_ToggleModelsEnabled = "Відображення 3D-моделів",
 	UI_optionscreen_binding_ToggleAnimationText = "Відображення тексту анімації",
 	UI_optionscreen_binding_Emote = "Колесо емоцій (утримувати)"
+	UI_optionscreen_AutoDrink = "Автоматично пити воду, під час спраги",
+	UI_optionscreen_LeaveKeyInIgnition = "Залишати ключ у замку запалювання"
 }

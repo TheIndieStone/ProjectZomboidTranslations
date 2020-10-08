@@ -210,6 +210,7 @@ Tooltip_RU = {
 	Tooltip_NeedWrench = "Для этого вам нужен %1",
 	Tooltip_weapon_Jammed = "Оружие заклинило, исправь это!",
 	Tooltip_weapon_NoRoundChambered = "В стволе нет патрона, исправь это!",
+	Tooltip_weapon_SpentRoundChambered = "В стволе пустая гильза, исправь это!",
 	Tooltip_weapon_ContainsClip = "Вставлен магазин.",
 	Tooltip_weapon_NoClip = "Отсутствует магазин!",
 	Tooltip_BiteDefense = "Защита от укуса",
@@ -243,4 +244,8 @@ Tooltip_RU = {
 	Tooltip_craft_stonePileDesc = "Пирамида из камней ",
 	Tooltip_craft_woodenCrossDesc = "Деревянный крест ",
 	Tooltip_craft_woodenPicketDesc = "Деревянный столбик с тряпкой",
+	Tooltip_WaterUnlimited = "Неограниченно",
+	Tooltip_TooExhaustedFitness = "Слишком сильное напряжение для занятия фитнесом",
+	Tooltip_TooHeavyFitness = "Слишком тяжёлый груз для занятия фитнесом",
+	Tooltip_StandStillFitness = "Для занятия фитнесом необходимо встать",
 }
