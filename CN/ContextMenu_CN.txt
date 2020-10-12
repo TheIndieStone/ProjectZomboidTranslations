@@ -196,7 +196,7 @@ ContextMenu_CN = {
 	ContextMenu_Write_Note = "写 %1",
 	ContextMenu_Create_From_Ingredient = "制作 %1",
 	ContextMenu_Add_Ingredient = "加入 %1 %2",
-	ContextMenu_From_Ingredient = "从配料 %1 %2",
+	ContextMenu_From_Ingredient = "配料 %1 %2",
 	ContextMenu_Medical_Check = "体检",
 	ContextMenu_Remove_Bandage = "移除绷带",
 	ContextMenu_Bandage = "包扎",
@@ -445,5 +445,5 @@ ContextMenu_CN = {
     ContextMenu_PutOnEarlobe = "戴在耳垂",
     ContextMenu_LeftWrist = "戴在左手腕上",
     ContextMenu_RightWrist = "戴在右手腕上",
-    ContextMenu_Fitness = "健身",
+    ContextMenu_Fitness = "锻炼",
 } 
