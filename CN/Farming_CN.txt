@@ -3,8 +3,8 @@ Farming_CN = {
   Farming_Carrots = "胡萝卜",
   Farming_Broccoli = "花椰菜",
   Farming_Radishes = "萝卜",
-  Farming_Strawberry_plant = "草莓蔓",
-  Farming_Tomato_Vine = "番茄蔓",
+  Farming_Strawberry_plant = "草莓",
+  Farming_Tomato_Vine = "番茄",
   Farming_Potatoes = "土豆",
   Farming_Cabbages = "卷心菜",
   -- growing phase
