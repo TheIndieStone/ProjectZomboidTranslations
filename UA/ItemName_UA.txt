@@ -770,7 +770,6 @@ ItemName_UA = {
 	ItemName_Base.Hat_CrashHelmetFULL = "Шолом мотоциклетний",
 	ItemName_Base.TrapMouse = "Мишоловка",
 	ItemName_Moveables.Moveable = "Переміщуване",
-	ItemName_Base.Mov_AntiqueStove = "Рухомий",
 	ItemName_Base.VarmintRifle = "Гвинтівка MSR700",
 	ItemName_Base.HuntingRifle = "Гвинтівка MSR788",
 	ItemName_Base.WaterMug = "Кружка з водою",
