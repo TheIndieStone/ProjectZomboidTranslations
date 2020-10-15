@@ -444,4 +444,5 @@ ContextMenu_ES = {
 	ContextMenu_CantRipFavourite = "No se puede rasgar la ropa favorita",
 	ContextMenu_CarBatteryCharger_RemoveBattery = "Quitar batería",
 	ContextMenu_UnloadRoundFrom = "Descargar 1 bala de %1",
+	ContextMenu_CleanBandageEtc = "Limpiar telas/vendas",
 }

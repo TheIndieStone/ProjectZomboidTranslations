@@ -247,5 +247,6 @@ Tooltip_ES = {
 	Tooltip_TooHeavyFitness = "Demasiada carga para hacer ejercicio.",
 	Tooltip_StandStillFitness = "Levántate antes de hacer ejercicio.",
 	Tooltip_weapon_SpentRoundChambered = "Proyectil gastado en la recámara. Amartilla el arma.",
+	Tooltip_CantDriveAndFitness = "No puedes hacer ejercicio y conducir.",
 	
 }
