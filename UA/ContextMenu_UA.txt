@@ -444,5 +444,4 @@ ContextMenu_UA = {
 	ContextMenu_CarBatteryCharger_RemoveBattery = "Вийміть акумулятор",
 	ContextMenu_UnloadRoundFrom = "Розвантажити 1 Раунд Від %1",
 	ContextMenu_Fitness = "Фітнес",
-	ContextMenu_CleanBandageEtc = "Чисті Бинти",
 }

@@ -248,5 +248,4 @@ Tooltip_UA = {
 	Tooltip_TooHeavyFitness = "Занадто багато ношу, щоб займатися фітнесом.",
 	Tooltip_StandStillFitness = "Встаньте перед тим, як займатися фітнесом.",
 	Tooltip_weapon_SpentRoundChambered = "Провів в камері. Стійка.",
-	Tooltip_CantDriveAndFitness = "Не можу займатися фізичними вправами та керувати автомобілем.",
 }
