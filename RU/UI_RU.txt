@@ -17,8 +17,8 @@ UI_RU = {
 	UI_mainscreen_SavefileNotFound = "Это сохранение не может быть найдено, или было повреждено.",
 	UI_mainscreen_SavefileName = "Сохранение: %1",
 	UI_mainscreen_coop = "СВОЙ СЕРВЕР",
-	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.44 от 06.10.2020",
-	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.44 от 06.10.2020",
+	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.45 от 19.10.2020",
+	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.45 от 19.10.2020",
 	UI_mainscreen_InviteInGame = "Невозможно принять приглашение, когда вы в игре.",
 	UI_mainscreen_InviteMainMenu = "Пожалуйста, вернитесь в главное меню, чтобы принять приглашение.",
 	UI_mainscreen_InviteFormat = "Хозяин игры должен пригласить вас через меню «Пригласить друга» в игре.\n\n%1",
@@ -1288,4 +1288,6 @@ UI_RU = {
 	UI_optionscreen_binding_Emote = "Меню жестов (удерживать)",
 	UI_optionscreen_AutoDrink = "Автоматически пить воду, утоляя жажду",
 	UI_optionscreen_LeaveKeyInIgnition = "Оставлять ключ в замке зажигания",
+	UI_optionscreen_fog_quality = "Качество тумана",
+	UI_optionscreen_legacy = "Устаревшее (из версии 40)",
 }

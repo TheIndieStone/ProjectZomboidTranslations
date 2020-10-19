@@ -1474,4 +1474,5 @@ ItemName_RU = {
 	ItemName_Base.WristWatch_Right_ClassicMilitary = "Кварцевые часы",
 	ItemName_Base.WaterPaintbucket = "Ведро из-под краски с водой",
 	ItemName_Base.HottieZ = "Журнал «Красотка Z»",
+	ItemName_Base.Mov_AntiqueStove = "Печь: антикварная",
 }
