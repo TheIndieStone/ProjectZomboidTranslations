@@ -443,4 +443,5 @@ ContextMenu_RU = {
 	ContextMenu_CarBatteryCharger_RemoveBattery = "Отключить аккумулятор",
 	ContextMenu_UnloadRoundFrom = "Извлечь патрон из %1",
 	ContextMenu_Fitness = "Фитнес",
+	ContextMenu_CleanBandageEtc = "Очистить",
 }
