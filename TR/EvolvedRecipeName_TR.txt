@@ -1,0 +1,12 @@
+EvolvedRecipeName_TR = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Konserve Bolonez",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Konserve Havuç",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Konserve Biber",
+    EvolvedRecipeName_Base.CannedCornOpen = "Konserve Mýsýr",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Konserve Dana Eti",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Konserve Bezelye",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Canned Potato",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Konserve Sardalya",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Konserve Domates",
+    EvolvedRecipeName_Base.Teabag2 = "Çay",
+}

@@ -162,7 +162,12 @@ UI_DE = {
     UI_NewGame_Tutorial_desc = "Die erste Anlaufstelle für alle frisch infizierten Projekt Zomboid-Überlebende...",
     UI_NewScreew_SelectDifficulty = "Bitte wähle einen Schwierigkeitsgrad, um fortzufahren.",
     UI_NewsVersion = "Version",
-    UI_News_Anim = "<H1> WILLKOMMEN ZUR OFFENEN BUILD 41 BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>   ..",
+    UI_News_Anim = "<H1> WILLKOMMEN ZUR OFFENEN BUILD 41 BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  " ..
+                    "<CENTRE> <SIZE:large> Dies ist eine "Work in Progres"-Version des größten Code- und Content-Updates, das PZ je hatte. <LINE><LINE> " ..
+                    "<CENTRE> Es wird Bugs und Balance Probleme geben. Außerdem sind stetig Performance-Optimierungen in Arbeit. <LINE><LINE> " ..
+                    "<CENTRE> Einige Features wurden temporär deaktiviert. <LINE><LINE> " ..
+                    "<CENTRE> Wenn Du auf Probleme und/oder Bugs stößt: werde nicht wütend. Engagier Dich und mach mit. <LINE><LINE> " ..
+                    "<CENTRE> Teil deine Erfahrung in unserem Forum auf theindiestone.com mit uns. <LINE><LINE> ",
     UI_No = "NEIN",
     UI_None = "Keine",
     UI_Off = "Aus",
@@ -216,7 +221,7 @@ UI_DE = {
     UI_ServerOptionDesc_AddUser = "Verwende diesen Befehl, um einen neuen Benutzer in einem Whitelist-Server hinzuzufügen. Befehl: /adduser \Benutzername\ \Passwort\",
     UI_ServerOptionDesc_AddVehicle = "Zum Spawnen eines neuem Fahrzeugs, verwende: /addvehicle \script\ \user or x,y,z\, ex /addvehicle \Base.VanAmbulance\ \rj\",
     UI_ServerOptionDesc_AddWhitelist = "Fügt einen aktuell verbundenen Benutzer mit einem Passwort zur Weißenliste hinzu, so dass sein Konto geschützt ist. Befehl: /addusertowhitelist \Benutzername\",
-    UI_ServerOptionDesc_AddXp = "F?gt Erfahrungspunkte zu einem Spieler hinzu. Befehl: /addxp 'Benutzername' perkname",
+    UI_ServerOptionDesc_AddXp = "Fügt Erfahrungspunkte zu einem Spieler hinzu. Befehl: /addxp 'Benutzername' perkname",
     UI_ServerOptionDesc_Alarm = "Schaltet einen Gebäudealarm, an der Position des Admin. Muss in einem Raum sein.",
     UI_ServerOptionDesc_BanSteamId = "Bannt eine SteamID, Befehl: /banid SteamID",
     UI_ServerOptionDesc_BanUser = "Bannt einen Spieler, füge -ip hinzu um auch die IP zu bannen, füge -r \Grund\ hinzu, um einen speziellen Grund anzugeben. Befehl: /banuser \Benutzername\ -ip -r \Grund\, Beispiel: /banuser \MaxMustermann\ -ip -r \Beschissenste bescheisser der je beschissen hat.\",
@@ -354,7 +359,7 @@ UI_DE = {
     UI_ServerOption_VoiceMinDistance_tooltip = "Die minimale Distanz in Feldern, wo der Sprachchat zu hören ist.",
     UI_ServerOption_VoicePeriod_tooltip = "Zeitintervall in Millisekunden zwischen Sprachdatenübertragungen, niedrigere Werte erzeugen eine kleinere Verzögerung, aber höhere Netzlast.",
     UI_ServerOption_VoiceSampleRate_tooltip = "Samplerate der Sprachaufnahme, eine aus: 4000, 6000, 8000, 12000, 24000.",
-    UI_ServerOption_WorkshopItems_tooltip = "Liste von Workshop Mod IDs f?r den Server zum Download. Getrennt durch ein Semikolon ( ; ). Beispiel: WorkshopItems",
+    UI_ServerOption_WorkshopItems_tooltip = "Liste von Workshop Mod IDs für den Server zum Download. Getrennt durch ein Semikolon ( ; ). Beispiel: WorkshopItems",
     UI_ServerOption_WorldItemRemovalList_tooltip = "Eine kommagetrennte Liste von Elementtypen, die nach den Stunden von HoursForWorldItemRemoval entfernt werden.",
     UI_ServerOption_ZombieUpdateDelta_tooltip = "Intervall (Sekunden), in dem die Massenaktualisierung für Zombies gesendet wird",
     UI_ServerOption_ZombieUpdateRadius_tooltip = "Der Radius, für den die Massenaktualisierung für Zombies gesendet wird, für das alte Verhalten auf 0.0 setzen",

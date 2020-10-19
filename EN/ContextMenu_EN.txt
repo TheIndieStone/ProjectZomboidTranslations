@@ -446,4 +446,5 @@ ContextMenu_EN = {
     ContextMenu_LeftWrist = "Put on Left Wrist",
     ContextMenu_RightWrist = "Put on Right Wrist",
     ContextMenu_Fitness = "Fitness",
+    ContextMenu_CleanBandageEtc = "Clean Bandages",
 } 

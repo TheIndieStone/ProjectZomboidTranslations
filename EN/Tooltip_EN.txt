@@ -248,4 +248,5 @@ Tooltip_EN = {
     Tooltip_TooExhaustedFitness = "Too exhausted to do fitness.",
     Tooltip_TooHeavyFitness = "Carrying too much to do fitness.",
     Tooltip_StandStillFitness = "Stand up before doing fitness."
+    Tooltip_CantDriveAndFitness = "Can't exercise and drive.",
 }

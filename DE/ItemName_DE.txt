@@ -609,6 +609,7 @@ ItemName_DE = {
     ItemName_Base.HospitalGown = "Patientenhemd",
     ItemName_Base.HotDrink = "Heiﬂgetr‰nk",
     ItemName_Base.Hotdog = "Hotdog",
+    ItemName_Base.HottieZ = "HottieZ",
     ItemName_Base.HuntingKnife = "Jagdmesser",
     ItemName_Base.HuntingMag1 = "Jagdzeitschrift 1",
     ItemName_Base.HuntingMag2 = "Jagdzeitschrift 2",
