@@ -445,5 +445,6 @@ ContextMenu_CN = {
     ContextMenu_PutOnEarlobe = "戴在耳垂",
     ContextMenu_LeftWrist = "戴在左手腕上",
     ContextMenu_RightWrist = "戴在右手腕上",
-    ContextMenu_Fitness = "锻炼",
+    ContextMenu_Fitness = "健身",
+	ContextMenu_CleanBandageEtc = "清洁绷带",
 } 
