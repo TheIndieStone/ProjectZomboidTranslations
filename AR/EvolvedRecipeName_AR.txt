@@ -1,0 +1,12 @@
+EvolvedRecipeName_AR = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Lata de salsa boloñesa",
+    EvolvedRecipeName_Base.CannedCornOpen = "Lata de maiz",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Lata de papas",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Lata de carne",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Lata de tomates",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Lata de sardinas",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Lata de chile",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Lata de arvejas",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Lata de zanaorias",
+    EvolvedRecipeName_Base.Teabag2 = "Té",
+}

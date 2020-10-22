@@ -1,9 +1,4 @@
-ContextMenu_ES = {
-
-    -- Build 41.35
-    -- 17-04-2020
-    -- Modificaciones Español-Argentina: Sopa y  WaywardHaymaker
-
+ContextMenu_AR = {
     ContextMenu_Destroy = "Romper ",
     ContextMenu_DestroyFloor = "Romper suelo",
     ContextMenu_Grab = "Agarrar",
@@ -371,7 +366,7 @@ ContextMenu_ES = {
     ContextMenu_UpHoodie = "Usar capucha",
     ContextMenu_DownHoodie = "Bajar capucha",
     ContextMenu_ReplaceClothing = "Cambiar %1 por %2",
-    ContextMenu_ReverseCap = "Girar gorra",
+    ContextMenu_ReverseCap = "Girar gorra para atras",
     ContextMenu_AddRandom = "Añadir %1 al azar",
     ContextMenu_FromRandom = "Desde %1 al azar",
     ContextMenu_FoodType_NoExplicit = "Condimento",
@@ -421,5 +416,32 @@ ContextMenu_ES = {
     ContextMenu_DyeHair = "Teñir el pelo",
     ContextMenu_DyeBeard = "Teñir la barba",
     ContextMenu_TieBandanaFace = "Atar en la cabeza",
-	ContextMenu_Merge = "Meter en",
+    ContextMenu_Merge = "Meter en",
+    ContextMenu_LeftRingFinger = "Poner en dedo anular izquierdo",
+    ContextMenu_FannyPack_WearBack = "En la espalda",
+    ContextMenu_FireplaceInfo = "Informacion de la chimenea",
+    ContextMenu_UnloadRoundFrom = "Descargar 1 bala de %1",
+    ContextMenu_PutOnEarlobe = "Put on Earlobe",
+    ContextMenu_CantRipFavourite = "No podes rasgar tu ropa favorita",
+    ContextMenu_ReplaceWith = " (Cambiar %1)",
+    ContextMenu_FannyPack_WearFront = "En el frente",
+    ContextMenu_LeftMiddleFinger = "Poner en dedo mayor izquierdo",
+    ContextMenu_RightWrist = "Poner en muñeca derecha",
+    ContextMenu_AddCompostItem = "%1 (Agregar %2%)",
+    ContextMenu_DropNamedItem = "Tirar %1",
+    ContextMenu_PutInContainer = "Poner el contenedor (%1)",
+    ContextMenu_FillAll = "Llenar todo ",
+    ContextMenu_UnloadRounds = "Descargar %1",
+    ContextMenu_Water_Dispenser = "Dispensador de agua",
+    ContextMenu_Vehicle_Wash = "Lavar vehiculo",
+    ContextMenu_FoodType_Coffee = "Cafe",
+    ContextMenu_AddCompost = "Agregar composta",
+    ContextMenu_RightRingFinger = "Poner en dedo anumar derecho",
+    ContextMenu_RightMiddleFinger = "Poner en dedo mayor derecho",
+    ContextMenu_ForwardCap = "Girar gorra para adelante",
+    ContextMenu_LeftWrist = "Poner en muñeca izquierda",
+    ContextMenu_PutOnEartop = "Poner en la parte superior de la oreja",
+    ContextMenu_Fitness = "Ejercicio",
+    ContextMenu_GetCompostItem = "%1 (sacar %2%)",
+    ContextMenu_CarBatteryCharger_RemoveBattery = "Sacar batería",
 }
