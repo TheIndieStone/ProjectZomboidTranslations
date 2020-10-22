@@ -1,5 +1,6 @@
-HiveFuse
-ZonaryQuasar
+-ZonaryQuasar
+
+-HiveFuse:
 Bruno Duarte Machado (DuMa)
 Alan Johny Souza Carvalho (JohnySouzac)
 Pedro Thiago Lobato (JokerQuinn)
