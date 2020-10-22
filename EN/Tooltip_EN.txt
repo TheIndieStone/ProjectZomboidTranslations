@@ -249,4 +249,9 @@ Tooltip_EN = {
     Tooltip_TooHeavyFitness = "Carrying too much to do fitness.",
     Tooltip_StandStillFitness = "Stand up before doing fitness."
     Tooltip_CantDriveAndFitness = "Can't exercise and drive.",
+    Tooltip_BedType = "Bed Quality: %1",
+    Tooltip_BedType_badBed = "Bad",
+    Tooltip_BedType_averageBed = "Average",
+    Tooltip_BedType_goodBed = "Good",
+    Tooltip_TooMuchPainFitness = "Too much pain to do fitness.",
 }

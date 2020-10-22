@@ -3,6 +3,7 @@ ContextMenu_EN = {
 	ContextMenu_DestroyFloor = "Destroy Floor",
 	ContextMenu_Grab = "Grab ",
 	ContextMenu_Sleep = "Sleep",
+	ContextMenu_SleepOnGround = "Sleep on Ground",
 	ContextMenu_Fill = "Fill ",
 	ContextMenu_FillAll = "Fill All ",
 	ContextMenu_Drink = "Drink",
