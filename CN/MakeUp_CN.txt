@@ -35,4 +35,3 @@ MakeUp_CN = {
     MakeUpType_LipsGreen = "绿色 唇膏",
     MakeUpType_LipsPink = "粉红色 唇膏",
 }
-
