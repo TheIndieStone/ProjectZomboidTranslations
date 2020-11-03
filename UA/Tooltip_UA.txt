@@ -249,4 +249,9 @@ Tooltip_UA = {
 	Tooltip_StandStillFitness = "Встаньте перед тим, як займатися фітнесом.",
 	Tooltip_weapon_SpentRoundChambered = "Провів в камері. Стійка.",
 	Tooltip_CantDriveAndFitness = "Не можу займатися фізичними вправами та керувати автомобілем.",
+	Tooltip_BedType = "Якість ліжка: %1",
+	Tooltip_BedType_badBed = "Погана",
+	Tooltip_BedType_averageBed = "Нормальна",
+	Tooltip_BedType_goodBed = "Чудова",
+	Tooltip_TooMuchPainFitness = "Занадто багато болю, щоб займатися фітнесом.",
 }

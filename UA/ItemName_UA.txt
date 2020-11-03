@@ -1477,4 +1477,11 @@ ItemName_UA = {
 	ItemName_Base.WristWatch_Right_ClassicMilitary = "Кварцевий годинник",
 	ItemName_Base.WaterPaintbucket = "Відро з-під фарби з водою",
 	ItemName_Base.HottieZ = "Журнал «Красуня Z»"
+	ItemName_Base.Bag_Satchel = "Сумка",
+	ItemName_Base.Bayonnet = "Штик",
+	ItemName_Base.Cooler = "Кулер",
+	ItemName_Base.GunLight = "Ліхтарик для пістолета",
+	ItemName_Base.PistolCase1 = "Кейс для пістолета",
+	ItemName_Base.PistolCase2 = "Кейс для пістолета",
+	ItemName_Base.PistolCase3 = "Кейс для пістолета",
 }
