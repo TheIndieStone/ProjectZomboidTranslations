@@ -744,6 +744,7 @@ ItemName_DE = {
     ItemName_Base.Mop = "Mop",
     ItemName_Base.MortarPestle = "Mörser und Stößel",
     ItemName_Base.MotionSensor = "Bewegungsmelder",
+    ItemName_Base.Mov_AntiqueStove = "Antiker Ofen",
     ItemName_Base.Mugfull = "Heisse Tasse",
     ItemName_Base.Mugl = "Tasse (leer)",
     ItemName_Base.MuldraughMap = "Karte von Muldraugh ",
