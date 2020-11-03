@@ -1,6 +1,6 @@
 Challenge_EN = {
     Challenge_YouHaveOneDay_name = "You Have One Day",
-	Challenge_YouHaveOneDay_desc = "You're back in Knox County. You're back on the map where the Project Zomboid infection first began. <LINE> <LINE> You have one day of relative safety. Zombies will arrive in huge numbers, and they will find you. Where did you use to make your last stand again? Where did you make your last stand in the old days? Better find it quick. <LINE> <LINE> [Our thanks to Community mapper BobHeckling for recreating the old 0.1.5 map with the current PZ toolset.]",
+	Challenge_YouHaveOneDay_desc = "You're back in Knox County. You're back on the map where the Project Zomboid infection first began. <LINE> <LINE> You have one day of relative safety. Zombies will arrive in huge numbers, and they will find you. What did you use to make your last stand? Where did you make your last stand in the old days? Better find it quickly. <LINE> <LINE> [Our thanks to Community mapper BobHeckling for recreating the old 0.1.5 map with the current PZ toolset.]",
 
     Challenge_WinterIsComing_name = "Winter Is Coming",
 	Challenge_WinterIsComing_desc = "It's mid-July, but suddenly there's a chill on the breeze. In a mere three days' time a winter will set in like no other before it. <LINE> <LINE> You awake in an isolated location. You have meagre supplies, and the undead hordes might be slowed by the intense cold - but they are no less deadly. <LINE> <LINE> Wrap up warm, survivor...",
