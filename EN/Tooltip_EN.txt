@@ -78,7 +78,7 @@ Tooltip_EN = {
 	Tooltip_never = "Never",
 	Tooltip_item_Spices = "Spices:",
 	Tooltip_Scope = "Weapon attachment. Increases firearm's maximum range.<br>Decreases short-range accuracy.",
-	Tooltip_AmmoStrap = "Weapon attachment. Reduces firearm reload time.",
+	Tooltip_AmmoStrap = "Reduces firearm reload time.",
 	Tooltip_Sling = "Weapon attachment. Reduces firearm carry-weight.",
 	Tooltip_FiberglassStock = "Weapon attachment. Decreases firearm weight and increases accuracy.",
 	Tooltip_RecoilPad = "Weapon attachment. Reduces firearm recoil and delay to next shot.",
@@ -254,4 +254,5 @@ Tooltip_EN = {
     Tooltip_BedType_averageBed = "Average",
     Tooltip_BedType_goodBed = "Good",
     Tooltip_TooMuchPainFitness = "Too much pain to do fitness.",
+    Tooltip_RemoveBrokenGlassNoItem = "Requires an item in your left hand.",
 }
