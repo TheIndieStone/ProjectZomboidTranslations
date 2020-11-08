@@ -460,8 +460,8 @@ Sandbox_EN = {
     Sandbox_ClothingDegradation_option3 = "Normal",
     Sandbox_ClothingDegradation_option4 = "Fast",
     Sandbox_FireSpread = "Fire Spread",
-    Sandbox_DaysForRottenFoodRemoval = "Rotten Food Removal",
-    Sandbox_DaysForRottenFoodRemoval_tooltip = "Number of in-game days before rotten food is removed from the map. -1 means rotten food is never removed.",
+    Sandbox_DaysForRottenFoodRemoval = "Spoiled Food Removal",
+    Sandbox_DaysForRottenFoodRemoval_tooltip = "Number of in-game days before spoiled food is removed from the map. -1 means spoiled food is never removed.",
     Sandbox_AllowExteriorGenerator = "Generator Working in Exterior",
     Sandbox_AllowExteriorGenerator_tooltip = "If enabled, generators will work on exterior tiles, allowing for example to power gas pump.",
     --
