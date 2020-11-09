@@ -561,4 +561,7 @@ Sandbox_RU = {
 	Sandbox_AttackBlockMovements = "АТАКА В ДВИЖЕНИИ:",
 	Sandbox_AttackBlockMovements_tooltip = "Отключение возможности наносить удары в движении.",
 	Sandbox_VehicleStoryChance_tooltip = "Увеличьте/уменьшите шанс обнаружить автоаварии на карте: полицейские блок-посты, сбившие человека автомобили и прочее.",
+	Sandbox_ZombiesFenceLunge = "Удар из-под забора",
+	Sandbox_ZombiesFenceLunge_tooltip = "Если включено - зомби сможет нанести удар после перелезания через забор, когда вы будете слишком близко.",
+	Sandbox_ZoneStoryChance = "Шанс появления «историй»",
 }

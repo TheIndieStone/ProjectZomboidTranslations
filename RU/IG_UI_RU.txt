@@ -1236,6 +1236,8 @@ IGUI_RU = {
 	IGUI_FitnessNeedItem = " (требуется %1)",
 	IGUI_FitnessTime = "Время (в минутах)",
 	IGUI_health_Stiffness = "Усталость от упражнений",
+	IGUI_PlayerText_NoWayToTrailer = "Не могу подойти к трейлеру",
+	IGUI_VehicleNameTrailer = "Трейлер",
 	
 	-- For Gamepad Build
 	IGUI_Game_Action_Main_Menu_Binding = "Игровое меню",
