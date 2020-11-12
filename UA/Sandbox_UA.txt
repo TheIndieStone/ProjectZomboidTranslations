@@ -563,4 +563,5 @@ Sandbox_UA = {
 	Sandbox_AttackBlockMovements = "АТАКА В РУСІ:",
 	Sandbox_AttackBlockMovements_tooltip = "Відключення можливості завдавати ударів в русі.",
 	Sandbox_VehicleStoryChance_tooltip = "Збільшіть/зменшіть шанс виявити автоаварії на карті: поліцейські блок-пости, які збили людину ан автомобілі та інше.",
+	Sandbox_ZoneStoryChance = "Випадковий шанс історії зони",
 }

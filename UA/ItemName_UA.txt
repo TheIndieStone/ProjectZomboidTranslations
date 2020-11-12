@@ -1484,4 +1484,13 @@ ItemName_UA = {
 	ItemName_Base.PistolCase1 = "Кейс для пістолета",
 	ItemName_Base.PistolCase2 = "Кейс для пістолета",
 	ItemName_Base.PistolCase3 = "Кейс для пістолета",
+	ItemName_Base.AmmoStrap_Bullets = "Ремінець для патронів",
+	ItemName_Base.AmmoStrap_Shells = "Ремінець для боєприпасів",
+	ItemName_Base.BeerBottle = "Пивна пляшка",
+	ItemName_Base.BeerCan = "Пивна банка",
+	ItemName_Base.BeerEmpty = "Порожня пляшка",
+	ItemName_Base.BeerWaterFull = "Пляшка води",
+	ItemName_Base.TrailerTrunk1 = "Великий багажник",
+	ItemName_Base.TrailerTrunk2 = "Багажник причіпа",
+	ItemName_Base.TrailerTrunk3 = "Багажник причіпа",
 }
