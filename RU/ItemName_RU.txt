@@ -1486,4 +1486,9 @@ ItemName_RU = {
 	ItemName_Base.PistolCase1 = "Пистолетный кейс",
 	ItemName_Base.PistolCase2 = "Пистолетный кейс",
 	ItemName_Base.PistolCase3 = "Пистолетный кейс",
+	ItemName_Base.BeerEmpty = "Бутылка из-под пива",
+	ItemName_Base.BeerWaterFull = "Бутылка из-под пива с водой",
+	ItemName_Base.TrailerTrunk1 = "Багажник прицепа",
+	ItemName_Base.TrailerTrunk2 = "Багажник прицепа",
+	ItemName_Base.TrailerTrunk3 = "Багажник прицепа",
 }
