@@ -326,4 +326,6 @@ Recipes_ES = {
 	Recipe_Wash_Clothing = "Lavar la ropa",
 	Recipe_Write_Doodle = "Hacer garabatos",
 	Recipe_Write_Journal = "Escribir un diario",
+	Recipe_Make_Newspaper_Hat = "Hacer gorro de papel de periódico",
+	Recipe_Make_Tin_Foil_Hat = "Hacer gorro de papel de aluminio",
 }
