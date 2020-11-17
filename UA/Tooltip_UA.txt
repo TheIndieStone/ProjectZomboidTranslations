@@ -254,4 +254,5 @@ Tooltip_UA = {
 	Tooltip_BedType_averageBed = "Нормальна",
 	Tooltip_BedType_goodBed = "Чудова",
 	Tooltip_TooMuchPainFitness = "Занадто багато болю, щоб займатися фітнесом.",
+	Tooltip_RemoveBrokenGlassNoItem = "Потрібен предмет у лівій руці.",
 }
