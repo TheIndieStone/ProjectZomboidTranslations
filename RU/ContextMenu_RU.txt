@@ -444,4 +444,7 @@ ContextMenu_RU = {
 	ContextMenu_UnloadRoundFrom = "Извлечь патрон из %1",
 	ContextMenu_Fitness = "Фитнес",
 	ContextMenu_CleanBandageEtc = "Очистить",
+	ContextMenu_SleepOnGround = "Спать на земле",
+	ContextMenu_Vehicle_AttachTrailer = "Прицепить<br>%1<br>к<br>%2",
+	ContextMenu_Vehicle_DetachTrailer = "Отцепить<br>%1",
 }
