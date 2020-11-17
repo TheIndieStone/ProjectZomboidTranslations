@@ -443,7 +443,7 @@ Sandbox_PL = {
     Sandbox_Vehicle = "Pojazdy",
     Sandbox_VehicleEasyUse = "£atwa eksploatacja",
     Sandbox_VehicleEasyUse_tooltip = "Jeœli jest w³¹czona, wszystkie pojazdy bêd¹ otwarte, zatankowane do pe³na i z niskim poziomem g³oœnoœci silnika.",
-    Sandbox_VehicleStoryChance = "Szansa na losowe zdarzenia z pojazdami",
+    Sandbox_VehicleStoryChance = "Szansa na losowe historie z pojazdami",
     Sandbox_WaterShut = "Odciêcie wody",
     Sandbox_WorldOptions = "Œwiat",
     Sandbox_WorldTemperature = "Temperatura",
@@ -548,4 +548,5 @@ Sandbox_PL = {
     Sandbox_ZombiesDragDown_tooltip = "Jeœli opcja jest w³¹czona i atakuje Ciê kilka zombie, mog¹ powaliæ Ciê na ziemiê i zjeœæ. Opcja zale¿na od si³y zombie.",
     Sandbox_ZombiesFenceLunge = "Atak po pokonaniu przeszkody",
     Sandbox_ZombiesFenceLunge_tooltip = "Szansa na atak zombie, gdy przewróci siê po pokonaniu przeszkody i gdy jesteœ za blisko.",
+    Sandbox_ZoneStoryChance = "Szansa na losowe historie na zewn¹trz",
 }
