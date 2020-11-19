@@ -14,72 +14,72 @@ SurvivalGuide_CN = {
 	SurvivalGuide_entrie2moreinfo = " <H1> 僵尸知觉 <BR> <TEXT> 在生存模式中,僵尸有视力以及听力. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 跑步会制造噪音,引起僵尸的注意. <BR> 你能比僵尸跑得快,但那不长久. <BR> "..
     " 一个明智的玩家会善用左CTRL键 (或者你觉得鼠标右键更顺手). 进入攻击姿态模式.攻击姿态会放慢你的脚步,并且让你有充分的时间观察四周.且在遭遇僵尸时可以进行快速攻击 <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> 僵尸毁灭工程不是一个竞速类游戏.请隐藏好自己.僵尸只有想吃掉你一种想法.",
 
-	SurvivalGuide_entrie3title = "SURVIVAL GUIDE #3 - 瞄准,伙计们!",
-	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #3 - 瞄准,伙计们! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 你在与僵尸作战.有效攻击是很重要的! <LINE> <LINE> 记住:瞄准僵尸然后攻击!",
+	SurvivalGuide_entrie3title = "生存指南 #3 - 精准攻击!",
+	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #3 - 精准攻击! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 你在与僵尸作战.有效攻击是很重要的! <LINE> <LINE> 记住:瞄准僵尸然后攻击!",
 	SurvivalGuide_entrie3moreinfo = " <H1> 战斗系统 <BR> <TEXT> 每个武器能造成的伤害都不同.然而,它的威力取决于你自己的技能和技巧.善用武器的特点和技巧,能让你事半功倍. <BR> <H2> 瞄准 "..
             " <BR> <TEXT> 近战武器爆头的力量都是取决于你的技能等级. 不过, 另一个重要的因素是你为这一下攻击蓄力/瞄准了多久.记住, 每一下攻击都要按住右键数秒后再进行,这会确保你每一下的攻击都会发挥最好的效果(蓄力攻击). <BR> 蓄力攻击比不停按攻击键更有效,频繁的点攻击键,并没有什么好处! <BR> <H2> 攻击距离 <BR> <TEXT> 攻击距离也是一个重要的元素. <BR> 例如棒球棒和斧头,它们的优点就是它们能在远距离发动攻击.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> 而餐刀,黄油刀等武器的优点是近距离刺杀效果.不过,不要对黄油刀期望太高. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-            " <H2> GROUND ATTACKS <BR> <TEXT> The best way to re-dead a dead person is to knock them to the floor & then get all bashy with their brains. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> This can be done with a powerful swing, or by pushing the zombie over. Pushing will happen automatically if a member of the horde is inside your weapon's minimum range (generally if you're waving an axe, bat or something else of their ilk) or if you're unarmed. <BR> When the zombies hit the floor: your attacks will be downward. Damage will be done. There will be brains. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
+            " <H2> GROUND ATTACKS <BR> <TEXT> 杀僵尸的方法通常是把它们推倒,再不停地攻击它的头部. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 蓄力挥动武器有几率击倒僵尸,但僵尸进入低攻击范围内,则只能推开僵尸. <BR> 当僵尸被击倒后: 每一次攻击都将自动瞄准被击倒在地面上的僵尸.不过还是请瞄准僵尸头部.这将很快杀死它们. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
 
-	SurvivalGuide_entrie4title = "SURVIVAL GUIDE #4 - WATER WAY TO GO",
-	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #4 - WATER WAY TO GO <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> Clean water is vital to your continued survival.",
-	SurvivalGuide_entrie4moreinfo = " <H1> WATER <BR> <TEXT> The water supply, like the electricity, will not last forever. Stockpile water bottles if you don't want to check out later down the line... <BR> Your character will automatically drink water from any container in your inventory. <BR> To drink or to fill a bottle, just use the right-click menu on any in-game tile/item that provides water. Sinks, baths, faucets... all that jazz. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
+	SurvivalGuide_entrie4title = "生存指南 #4 - 求水之路",
+	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #4 - 求水之路 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 干净的水对你的持续生存至关重要.",
+	SurvivalGuide_entrie4moreinfo = " <H1> 水源 <BR> <TEXT> 供水系统就像电力一样,不会用之不竭.如果你不想因缺水而渴死的话,请储备好水瓶... <BR> 你的角色会自动从随身的任何储水容器里喝水. <BR> 要喝水或装满瓶子,只需在游戏中任何能供水的方格/物品上使用鼠标右键菜单即可. 水槽,浴缸,水龙头... 啥都行. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
 
-	SurvivalGuide_entrie5title = "SURVIVAL GUIDE #5 - CRAFTY SO-AND-SO",
-	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #5 - CRAFTY SO-AND-SO <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> Zombies claw at doors and windows! If in doubt: barricade!",
-	SurvivalGuide_entrie5moreinfo = " <H1> INVENTORY CRAFTING <BR> <TEXT> To craft items in your inventory, simply right click something you're carrying in your inventory pane. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> Any craftable items you can create with this, and the other stuff you're carrying, will magically be shown! <BR> A range of cooking, carpentry, medical and survival recipes will give you the edge in the apocalypse. <BR> <H1> BARRICADING <BR> <TEXT> You can barricade doors and windows by right-clicking & but you'll need a hammer, planks and nails in your inventory. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE> Multiple planks can be used to further strengthen doors and windows. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
-            " <H1> CARPENTRY <BR> <TEXT> As you find resources and become more competent with a hammer, you can eventually construct entire buildings. All budding builders MUST have a hammer in their inventory. Simply right click on the ground to get the build menu. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> From here, you can select any piece of furniture that your skills and materials can produce. <BR> Once selected, you will have a transparent representation of the final product will appear & which you can then move around the world and place with LMB. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> The process isn't a rapid one. PZ is a realism-devoted game, and if you've ever had builders in you'll know these things take time. (Please note we do let you craft cups of tea in-game, if it helps). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> You can rotate crafted items before placement by pressing R. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> REMEMBER: the more you craft, the better you you'll become. Higher skill levels means better quality items, and more useful ones too.",
+	SurvivalGuide_entrie5title = "生存指南 #5 - 固若金汤",
+	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #5 - 固若金汤 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 僵尸们会破坏门窗!最佳建议:加固门窗!",
+	SurvivalGuide_entrie5moreinfo = " <H1> 制作 <BR> <TEXT> 要制作物品,只需在随身材料上右键单击选择制作即可. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE>你可以用它制作的各种各样的物品,以及你随身携带的其他物品,都会神奇地显示出来! <BR>丰富的烹饪,木工,医疗和生存等配方能给你在末世中占据优势. <BR> <H1> 加固 <BR> <TEXT>你可以用右键点击来加固你的门窗 & 但你随身必须携带锤子,木板和钉子. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE>可以使用多块木板来进一步加固门窗. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
+            " <H1> 木工 <BR> <TEXT>当你找到更多资源和更好的铁锤,你便可以构建一个更加坚固的防御工事.只需在想要建筑的地面上按右键即可显示建筑条目.进行木工工作时必须随身携带铁锤. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 在这里,你可以选择任何你当前技能和材料能制作出来的物品. <BR> 当选择好要建筑的物品后,你可以用鼠标移动它,你可以用鼠标移动它,决定好理想位置后再按左键摆放. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 制作不会瞬间完成.PZ是个偏向现实的游戏,如果你曾经当过建筑工你就会明白这些东西需要时间. (请注意,如果有帮助的话,我们确实允许您在游戏中制作几杯茶). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 在你摆放打造的物品前可以按R键来旋转它. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 切记: 你打造得越多,你的手艺就会越好.更高的技能水平意味着更高质量的产品,产品也更为有用.",
 
-	SurvivalGuide_entrie6title = "SURVIVAL GUIDE #6 - AVOID PEEPING TOMS",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #6 - AVOID PEEPING TOMS <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> They may be dead, but they can still see through windows. <LINE> <LINE> No curtains? Improvise. ",
-	SurvivalGuide_entrie6moreinfo = " <H1> BLOCK OFF THEIR VIEW <BR> <TEXT> One of the most common mistakes in the zombie apocalypse is to leave the curtains open. Forgetting drapes-closure invites wandering zombies down your garden path, and straight to your brain-stem. <BR> To close curtains or blinds: use the right click menu. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> Barricading windows also stops deadheads viewing light and movement. <BR> If there are no curtains, and you haven't got planks to spare, perhaps you can hang something up instead? Go on, give it a try.",
+	SurvivalGuide_entrie6title = "生存指南 #6 - 防止偷窥",
+	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 防止偷窥 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们可能已经死了,但它们还是能看透窗户. <LINE> <LINE> 没有窗帘? 赶快动手吧. ",
+	SurvivalGuide_entrie6moreinfo = " <H1> 阻挡它们的视线 <BR> <TEXT> 在僵尸末日中一个最常见的错误就是让窗帘开着.忘记关窗帘后果是致命性的,游荡的僵尸会发现并杀死你. <BR> 要关闭窗帘或百叶窗: 用右键菜单. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗户也能阻止僵尸看到光线和动静. <BR> 如果那没有窗帘,而你又没有备用木板,或许有什么其他东西可以代替?来吧,找找看.",
 
-	SurvivalGuide_entrie7title = "SURVIVAL GUIDE #7 - EAT NICE FOOD",
-	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #7 - COOK IT UP <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> Food poisoning isn't fun. During the apocalypse it's even less fun. <LINE> <LINE> A hot meal goes a long way.",
-	SurvivalGuide_entrie7moreinfo = " <H1> COOKING <BR> <TEXT> Steak, chicken and many other foods require cooking before eating. (Those crazy video-games, huh?) <BR> As well as reducing the risk of food poisoning, prepared meals are more satisfying, nutritious and will stave off hunger for longer. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> To cook up your food, simply place it in a cooker or microwave - or perhaps a campfire if you've fled town. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> Turn appliances on with the right-click menu, then retrieve your baked goods from its loot window once it's cooked. Turn off the appliance when you're done though. Just in case. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
-            " <H1> FARMING <BR> <TEXT> To grow your own food, simply find a trowel and some seeds. Plough the soil and scatter, and soon you'll be fed and waterered by your own survivalist hand. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-            " <H1> FORAGING <BR> <TEXT> Find berries and other fruits out in the wilderness. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
-			" <H1> DON'T DIE <BR> <TEXT> Try not to die at all times.",
+	SurvivalGuide_entrie7title = "生存指南 #7 - 美味佳肴",
+	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #7 - 美味佳肴 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒可不好玩.在大灾变之中尤其致命. <LINE> <LINE> 在僵尸末日中吃一顿热饭是必须的.",
+	SurvivalGuide_entrie7moreinfo = " <H1> 烹饪 <BR> <TEXT> 牛排,鸡肉还有很多其他的食物在食用前都需要先煮熟. (哈?这丧心病狂的游戏.) <BR> 除了降低食物中毒的风险,做好的饭菜更令人满意, 更有营养,并可在更长的时间内避免饥饿. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 把食物放在电磁炉/微波炉/就可以开始烹饪了,如果你已经离开城市的话,你可以想办法升起一堆营火来代替它们. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 按右键控制开关,使用后切记关闭火炉,否则你的所有努力可能毁于一旦,切记. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+            " <H1> 耕作 <BR> <TEXT> 你需要一把泥铲和种子方可种植, 翻土后放入种子再浇水. 很快你就有源源不断的食物了. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+            " <H1> 搜寻 <BR> <TEXT> 在森林里找些浆果和其他水果吧. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
+			" <H1> 不作不死 <BR> <TEXT>在任何时候都请小心翼翼,作死会让你丢失所有物品和当前人物所有技能.",
 
-	SurvivalGuide_entrie8title = "SURVIVAL GUIDE #8 - LOOT ASTUTE",
-	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #8 - LOOT ASTUTE <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> Managing your inventory quickly and efficiently saves you time - and often your life!",
-	SurvivalGuide_entrie8moreinfo = " <H1> SELECTING <BR> <TEXT> So how do you rummage, grab, drop and use? In Project Zomboid we're all over this kind of item procurement! <BR> The primary way is simply to drag and drop - or alternatively right click to bring up the context menu. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-            " Holding LSHIFT will also allow you select multiple items. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> Or, why not go CRAZY and drag a square over multiple items with your mouse? <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-            " OR why not double-click something in the loot inventory for a quick grab? OR OR, slam on quick context button on the right of your selection. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  Oh, and there's 'Loot All' if you're so excited that you have to grab EVERYTHING. <LINE> "..
-            " <H1> THE GLORY OF BAGS <BR> <TEXT> Bags are important. They help you carry stuff. <BR> To equip one and hurriedly throw your items in: right click and atatch it to your primary hand, secondary hand or (if it's a rucksack) on your back. "..
-            " <BR> You'll then see the equipped bag in your inventory - all ready for you to drag & drop your loot into. Vitally, bags will grant you a weight reduction. You can carry more. Useful, non? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-            " <H1> KNOW THY HOTKEYS  <BR> <TEXT> Hotkey are bindable in the options menu, but we've pre-bound some. As we're nice like that. "..
-            " <BR> 1 : Equips the best melee weapon. " ..
-			" <BR> 2 : Equips the best firearm. (Don't forget 'r' reloads!)  " ..
-			" <BR> 3 : Equips your best stabbing weapon for close quarter engagements. " ..
-			" <BR> F : Equips (and turns on) your best light source. ",
+	SurvivalGuide_entrie8title = "生存指南 #8 - 囤积物资",
+	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #8 - 囤积物资 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 目的明确的收集物资可以节省您的时间甚至救你一命!",
+	SurvivalGuide_entrie8moreinfo = " <H1> 选择 <BR> <TEXT> 怎样去拿,取出,丢掉和使用呢?在僵尸毁灭工程里我们大部分时间都在做这些动作! <BR> 主要方法就是直接用滑鼠拉放物品 - 或者可以按右键选择菜单. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+            " 按住LSHIFT可以同时选择多样物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者,你可以直接按住左键拉出一个大正方型去选择一个范围. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+            " 或者快速地按左键两下来进行拾取.或者在按物品栏右边的按钮. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  喔,如果你想一键拾取所有东西,这里还一个拾取全部的选择. <LINE> "..
+            " <H1> 有用的背包/袋子 <BR> <TEXT> 各种袋子和背包是非常重要的物品.它可帮你携带更多的物品. <BR> 如要装备袋子或背包,按右键选择装备(左手)，装备(右手) 或背上(背包才可以背上). "..
+            " <BR> 装备后,你就会看见背包在你的物品栏里 - 准备好可以直接把物品放入背包.重要的是,背包可以减轻你总体的重量. 那不是非常有用吗? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+            " <H1> 熟练使用快捷键  <BR> <TEXT> 在设定里可以设定快捷键,已经预设了一部分快捷键. "..
+            " <BR> 1 : 装备伤害最高的武器. " ..
+			" <BR> 2 : 装备伤害最高的枪械. (不要忘记R键是装填弹药!)  " ..
+			" <BR> 3 : 装置伤害最高的近战武器. " ..
+			" <BR> F : 装备(开启)可作为照明的道具. ",
 
-    SurvivalGuide_entrie9title = "SURVIVAL GUIDE #9 - VEHICLES",
-    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #9 - VEHICLES <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> Vehicles bring survival benefits, but they also bring noise! A revving engine will attract the horde from a long distance...",
-    SurvivalGuide_entrie9moreinfo = " <H1> JUMP IN <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> If you're lucky then a frantic car-owner might have left their keys in the door, the ignition or the glove box. Alternatively, search nearby zeds in case one of them was the owner. Likewise if your chosen vehicle is parked outside a house - search it. The key could be inside. <BR> Still no joy? Why not break in? Smash the vehicle's window to unlock it. If you have a high enough Mechanic and Electrical skills then you'll be able to hotwire it. <BR> " ..
-            " <H1> TIME TO DRIVE <BR> <TEXT> Click on the ignition to insert your key, turn on the engine and inspect the dashboard read-outs. Alternatively, just press the forward key (default: W) to get rolling <BR> If the car's engine condition isn't high, it may not start first time. If it's refusing to turn over at all, it might be time to inspect the Mechanic Skill window... <BR> Drive cautiously! The louder a car, the wider the radius of nearby zombies that'll be alerted and start to follow the noise...  <BR> " ..
-            " <H1> DASHBOARD <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> On a vehicle's Dashboard you can see helpful read-outs of information like the its fuel levels, speed and RPM. <BR> Icons on top of the dash will also tell you engine status, whether the trunk is open, whether the headlights are operational etc. Clicking these icons will open up available options - so clicking on the AC/Heater will open up the relevant window. <BR> " ..
-            " <H1> RADIAL MENU <BR> <TEXT> If you're inside or next to a vehicle press 'V'. This will open its radial menu <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> From here you can switch seats, lock doors, operate lights, open up the Mechanics window and more. <BR> " ..
-            " <H1> MECHANIC WINDOW <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> An unskilled survivor can check if your battery is still ok, see fuel levels and notice whether certain parts of the car appear damaged. A survivor with Mechanic skills will be able to see extra details, and install and uninstall parts. <BR> For more information on this and the Mechanic skill, click the info icon in the top left corner of the Mechanic window.",
+    SurvivalGuide_entrie9title = "生存指南 #9 - 交通工具",
+    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 车辆给生存带来很多好处,但它们也会带来噪音! 一台高运转引擎会吸引很远的一大群人...",
+    SurvivalGuide_entrie9moreinfo = " <H1> 进入车辆 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你走运的话,那么车主可能会把钥匙落在车门、点火装置或手套箱里. 或者,搜索附近的僵尸身上,车主或许就在其中.同样,如果你选择的车停在房子外面 - 请顺便搜索房间.钥匙可能就在房子里. <BR> 还是不行吗?为什么不破窗而入呢?砸碎车窗将其解锁.如果你有足够高的技工和电工技能,那么你就能给它短接. <BR> " ..
+            " <H1> 驾驶时光 <BR> <TEXT> 点击点火装置来插入你的钥匙,启动发动机并检查仪表盘读数.或者,只需按下前进键 (默认键: W) 即可启动. <BR> 如果汽车的发动机状况不好, 可能不会一次就启动.如果试了很多次还无法启动,你需要检查下技工窗口了... <BR> 小心开车! 汽车的声音越大,就会吸引更大范围的僵尸并跟随汽车...  <BR> " ..
+            " <H1> 仪表盘 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 在车辆的仪表盘上,您可以看到有用的信息读数,如油量,速度和转速. <BR> 仪表盘顶部的图标还将告诉您发动机状态,后备箱是否打开,前大灯是否开启等.单击这些图标将打开可用选项 - 因此单击 空调/加热器 将打开相关窗口. <BR> " ..
+            " <H1> 圆环菜单 <BR> <TEXT> 如果你在车内或旁边按'V'键,这将能打开它的圆环菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 从这里您可以交换座位,锁门, 控制灯,打开技工窗口等. <BR> " ..
+            " <H1> 技工窗口 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 没有技术的幸存者可以检查你的电池是否还行,查看燃油水平,并发现汽车的某些部分是否出现损坏. 拥有技工技能的幸存者将能够看到额外的细节,并安装和卸载部件. <BR> 有关此技能和技工技能的更多信息,请单击技工窗口左上角的信息图标.",
 
-    SurvivalGuide_entrie10title = "SURVIVAL GUIDE #10 - WEATHER",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #10 - WEATHER <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Fog, storms and snow make the undead threat even more challenging! Wrap up warm when Winter starts drawing in...",
-    SurvivalGuide_entrie10moreinfo = "<H1> CLIMATE CHANGE <BR> <TEXT> Weather patterns in Project Zomboid are realistic. A simulated climate system uses the time of year, and virtual weather fronts, to create the rain, snow, fog and thunderstorms at the relevant times of year. <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> The impact of cold, and warm, temperatures have an impact on your survival. <LINE> " ..
-                                      " When winter draws in your resistance to the cold be highest if you're well fed, not tired and wearing proper winter clothing. It will also help to keep active and be physically fit. Wetness and sickness will both increase the likelihood of you suffering from the cold. <LINE> <BR> " ..
-                                      " During periods of extreme cold it's best to warm up with a heatsource or inside a building: campfires, car heaters and stoves will all warm you up. <LINE> "..
-                                      " When surviving during hot weather, meanwhile, staying well-hydrated and wearing lighter clothing is advisable. <LINE> <BR>" ..
-                                      " <H1> KNOWING TEMPERATURE <BR> <TEXT> If you want to know the temperature in your immediate area, then many digital watches can be used to show the temperature on your UI. <LINE> <BR> " ..
-                                      " <H1> WIND CHILL <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> During winter months, especially, outside wind chill will also become a factor - and heavy rain will also compound this. Blizzards in mid-winter can severely drop the temperature due to the strong wind and low temperature. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Wind chill affects your body, but won’t show a direct difference in temperature on your digital watch. Keep an eye on your moodles to see when it's impacting on you. <LINE> <BR> " ..
-                                      " Wrap up warm survivor!",
+    SurvivalGuide_entrie10title = "生存指南 #10 - 天气系统",
+    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #10 - 天气系统 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 雾, 风暴和雪使僵尸的威胁更具挑战性! 当冬天来临时做好保暖...",
+    SurvivalGuide_entrie10moreinfo = "<H1> 气候变化 <BR> <TEXT> 僵尸毁灭工程中的天气模式非常逼真.模拟气候系统会制造雨, 雪,雾和雷暴等天气. <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 寒冷和酷热都会对你的生存造成很大的影响. <LINE> " ..
+                                      " 如果你饮食充足,体力充沛并穿着冬装,那么冬天不会变的那么可怕,但是衣服潮湿或疾病在冬天依然是非常大的威胁. <LINE> <BR> " ..
+                                      " 在极端寒冷天气下,最好使用取暖设备进行取暖:壁炉,汽车暖气和室外篝火都可以取暖(但切记如果没有足够的经验,请勿在室内点燃篝火). <LINE> "..
+                                      " 在极端炎热天气下,最好随身携带充足的饮水,同时请尽量着装夏装. <LINE> <BR>" ..
+                                      " <H1> 获知温度 <BR> <TEXT> 如果你想知道现在的温度,请搜寻一只电子表,并随身携带.温度将显示在右上角. <LINE> <BR> " ..
+                                      " <H1> 风寒 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 特别是在冬季,风寒也是决定温度的一个因素,由于强风和暴雨. 暴风雪会严重降低温度. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 风寒会影响你的健康,但它不会显示在电子表上.请时刻留意你的健康状态. <LINE> <BR> " ..
+                                      " 注意保暖!",
 
-    SurvivalGuide_entrie11title = "SURVIVAL GUIDE #11 - DUCK AND COVER",
-    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> NEW - DUCK AND COVER <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - Sneak <LINE> %2 - Sprint <LINE> %3 - Jog"
-    SurvivalGuide_entrie11moreinfo = "<H1> CROUCH <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> Survivors can now crouch behind walls and fences to reduce their visibility! <LINE> You can also Jog while in this state. <LINE> <BR> " ..
-                                        "<H1> SPRINT <BR> <TEXT> If Jogging isn't fast enough - then there's Sprinting too! <LINE> Press %1 to Sprint - although be careful as panicked collisions could make you fall. <LINE> <BR> " ..
-                                        "<H1> AUTO-CLIMB <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> To climb over fences, simply Jog or Sprint towards them. <LINE> <BR> " ..
-                                        "<H1> STOMP THE HEAD <BR> <TEXT> When a zombie has been downed: aim for the head! Hitting its lower body is less likely to have the desired effect. <LINE> <BR> " ..
-                                        "<H1> SPEARS <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> Spears require good timing and a well-managed distance. Also, why not try Sprinting with a spear to charge down a lone zombie? <LINE> <BR> " ..
-                                        "<H1> CLOTHING PROTECTION <BR> <TEXT> Wearing the right clothing could protect you from bites, scratches and lacerations. Press %2 to open the Clothing Protection Panel and see an overview of your survivor's current protection levels. <LINE> <BR> ",
+    SurvivalGuide_entrie11title = "生存指南 #11 - 隐秘行动",
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #11 - 隐秘行动 <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - 潜行 <LINE> %2 - 冲刺 <LINE> %3 - 慢跑"
+    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 你可以蹲在墙和栅栏后面以降低他们的可见度! <LINE> 您还可以在此状态下慢跑. <LINE> <BR> " ..
+                                        "<H1> 冲刺 <BR> <TEXT> 如果慢跑不够快 - 请使用冲刺! <LINE> 按下 %1 进行冲刺 - 尽管碰到障碍物而跌倒. <LINE> <BR> " ..
+                                        "<H1> 自动翻越 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> 要翻越篱笆,只需要慢跑或冲刺就会自动翻越. <LINE> <BR> " ..
+                                        "<H1> 爆头 <BR> <TEXT> 当僵尸倒下时:请瞄准头部!打击非头部区域会消耗你更多体力. <LINE> <BR> " ..
+                                        "<H1> 长矛 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 使用长矛需要合适的时机及距离.此外,为什么不试试长矛冲刺呢? <LINE> <BR> " ..
+                                        "<H1> 防护 <BR> <TEXT> 穿着防御高的衣服可以降低你受伤的几率. 按 %2 键打开着装面板来查看衣服的防护性(请注意,最好的防护依然是躲避僵尸攻击而不是和僵尸互相伤害). <LINE> <BR> ",
 
 }
