@@ -1,4 +1,5 @@
 Recipes_PTBR = {
+	Recipe_Make_Newspaper_Hat = "Fazer Chapéu de Jornal",
     Herbalist = "Herbalista",
     Recipe_Add_Crafted_Trigger = "Colocar Gatilho Artesanal",
     Recipe_Add_Motion_Sensor_V1 = "Colocar Sensor de Movimento V1",

@@ -1,4 +1,15 @@
 IG_UI_PTBR = {
+    IGUI_Hair_LibertySpikes = "Espinhoso",
+    IGUI_Hair_MohawkFan = "Moicano Comprido",
+    IGUI_Hair_MohawkShort = "Moicano Curto",
+    IGUI_Hair_MohawkSpike = "Moicano Espetado",
+	IGUI_Hair_Cornrows = "Trancinhas",
+	IGUI_Hair_Grungey = "Grunge",
+    IGUI_Hair_GrungeyParted = "Grunge Partido",
+    IGUI_Hair_Fresh = "Raspado dos Lados",
+
+	IGUI_Beard_Chin = "Queixo",
+    IGUI_Beard_PointyChin = "Queixo Pontudo",
     IGUI_AddMakeUp = "Adicionar Maquiagem",
     IGUI_Adm_Weather_Climate = "Clima",
     IGUI_Adm_Weather_ClimateControl = "Controle de Clima",

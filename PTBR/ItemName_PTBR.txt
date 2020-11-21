@@ -1,4 +1,5 @@
 ItemName_PTBR = {
+	ItemName_Base.Hat_NewspaperHat = "Chapéu de Jornal",
     ItemName_Base.223Box = "Caixa de Munição .223",
     ItemName_Base.223Bullets = "Munição .223",
     ItemName_Base.223BulletsMold = "Molde de Munição .223",
