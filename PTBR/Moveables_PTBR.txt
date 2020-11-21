@@ -1,4 +1,5 @@
 Moveables_PTBR = {
+	Door = "",
     50s_Barstool = "Banco dos anos 50",
     50s_Seat = "Assento dos anos 50",
     99_Cent_Sale_Sign = "Placa de ‘99 Centavos’",
