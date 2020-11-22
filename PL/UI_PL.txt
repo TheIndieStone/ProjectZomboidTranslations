@@ -1,4 +1,4 @@
-dUI_PL = {
+UI_PL = {
     UI_Alarm = "Budzik",
     UI_All = "Wszystko",
     UI_BloodDecals0 = "Brak",
