@@ -1,4 +1,5 @@
 UI_PTBR = {
+    UI_optionscreen_fog_quality = "Qualidade da Névoa",
     UI_Alarm = "Alarme",
     UI_All = "Todos",
     UI_BeardChops = "Costeletas",

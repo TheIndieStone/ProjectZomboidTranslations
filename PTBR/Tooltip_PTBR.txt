@@ -1,4 +1,9 @@
 Tooltip_PTBR = {
+	Tooltip_BedType = "Bed Quality: %1",
+    Tooltip_BedType_badBed = "Ruim",
+    Tooltip_BedType_averageBed = "Média",
+    Tooltip_BedType_goodBed = "Boa",
+    Tooltip_RemoveBrokenGlassNoItem = "Requer um item na sua mão esquerda.",
     Tooltip_AlcoholBandage = "Usado para esterilizar feridas e ajudar na remoção de infecção",
     Tooltip_AmmoStrap = "Acessório de arma. Diminui o tempo de recarga",
     Tooltip_AndNMore = "... e mais %1",
