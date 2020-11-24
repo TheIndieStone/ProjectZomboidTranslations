@@ -1251,6 +1251,7 @@ IGUI_EN = {
     IGUI_DumbbellPress = "Dumbbell presses",
     IGUI_BicepsCurl = "Bicep curls",
     IGUI_FitnessTime = "Time (minutes)",
+    IGUI_FitnessRegularity = "Regularity",
     IGUI_health_Stiffness = "Exercise Fatigue",
     IGUI_TrailerAttachName_trailer = "(Rear)",
     IGUI_TrailerAttachName_trailerfront = "(Front)",
