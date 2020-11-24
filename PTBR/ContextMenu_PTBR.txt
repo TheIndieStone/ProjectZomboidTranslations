@@ -1,4 +1,5 @@
 ContextMenu_PTBR = {
+	ContextMenu_SleepOnGround = "Dormir no Chão",
     ContextMenu_AddBattery = "Adicionar Bateria",
     ContextMenu_AddCompost = "Adicionar Adubo",
     ContextMenu_AddCompostItem = "%1 (adicionar %2%)",
