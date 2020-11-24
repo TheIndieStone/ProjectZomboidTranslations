@@ -92,6 +92,7 @@ Tooltip_DE = {
     Tooltip_RecoilPad = "Verringert die Rückstoßzeit.",
     Tooltip_RedDot = "Verringert die benötigte Zeit, um zu zielen.",
     Tooltip_RemoteController = "Wird verwendet um hergestellte Bomben und Fallen fernzusteuern. Erfordert erlerntes Rezept und Erfahrung in der Elektrotechnik.",
+    Tooltip_RemoveBrokenGlassNoItem = "Erfordert einen Gegenstand in linker Hand.",
     Tooltip_ReplaceWornItems = "Ersetzen:",
     Tooltip_RequireScissors = "Benötigt Schere",
     Tooltip_RippedSheets = "Kann als Verband verwendet werden.",

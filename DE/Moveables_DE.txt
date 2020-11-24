@@ -382,6 +382,7 @@ Moveables_DE = {
     Oakwood_Bench = "Eichenholz Bank",
     Oakwood_Shelves = "Eichenholz Regal",
     Office_Desk = "Schreibtisch",
+    Office_Whiteboard = "Office Whiteboard",
     Oldies_Jukebox = "Jukebox",
     Omega_Department_Painting = "Omega Abteilung Gemälde",
     Ominous_Sign = "Ominöses Schild",

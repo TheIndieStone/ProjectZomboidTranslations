@@ -1,4 +1,5 @@
 Recipes_PTBR = {
+	Recipe_Make_Newspaper_Hat = "Fazer Chapéu de Jornal",
     Herbalist = "Herbalista",
     Recipe_Add_Crafted_Trigger = "Colocar Gatilho Artesanal",
     Recipe_Add_Motion_Sensor_V1 = "Colocar Sensor de Movimento V1",
@@ -13,7 +14,7 @@ Recipes_PTBR = {
     Recipe_Attach_Hunting_Knife_to_Spear = "Combinar Faca de Caça com Lança",
     Recipe_Attach_Ice_Pick_to_Spear = "Combinar Picador de Gelo com Lança",
     Recipe_Attach_Kitchen_Knife_to_Spear = "Combinar Faca de Cozinha com Lança",
-    Recipe_Attach_Letter_Opener_to_Spear = "Combinar Abridos de Cartas com Lança",
+    Recipe_Attach_Letter_Opener_to_Spear = "Combinar Abridor de Cartas com Lança",
     Recipe_Attach_Machete_to_Spear = "Combinar Machete com Lança",
     Recipe_Attach_Scalpel_to_Spear = "Combinar Bisturi com Lança",
     Recipe_Attach_Scissors_to_Spear = "Combinar Tesoura com Lança",
