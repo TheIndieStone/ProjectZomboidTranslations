@@ -1251,6 +1251,7 @@ IGUI_CN = {
     IGUI_DumbbellPress = "哑铃推举",
     IGUI_BicepsCurl = "哑铃弯举",
     IGUI_FitnessTime = "时间 (分钟)",
+	IGUI_FitnessRegularity = "规则",
     IGUI_health_Stiffness = "运动疲劳",
 	IGUI_TrailerAttachName_trailer = "(后)",
     IGUI_TrailerAttachName_trailerfront = "(前)",
