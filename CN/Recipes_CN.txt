@@ -289,6 +289,4 @@ Recipes_CN = {
 	Recipe_Prepare_Soup = "准备鲜汤",
 	Recipe_Prepare_Stew = "准备炖肉",
 	Recipe_Prepare_Stir-fry = "准备炒菜",
-	Recipe_Rip_Clothing = "撕开衣裤",
-	Recipe_Rip_Sheets = "撕开床单",
 } 
