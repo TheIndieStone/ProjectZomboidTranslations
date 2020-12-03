@@ -1502,4 +1502,5 @@ ItemName_RU = {
 	ItemName_Base.Hat_PartyHat_Stars = "Колпак праздничный",
 	ItemName_Base.Hat_PartyHat_TINT = "Колпак праздничный",
 	ItemName_Base.Shorts_CamoUrbanLong = "Шорты армейские «городской камуфляж»",
+	ItemName_Base.Shirt_FormalTINT = "Рубашка формальная",
 }
