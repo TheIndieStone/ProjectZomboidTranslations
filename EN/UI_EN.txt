@@ -503,6 +503,7 @@ UI_EN = {
     UI_optionscreen_ToggleToAim = "Toggle %1 key to Aim",
     UI_optionscreen_binding_Melee = " Melee",
     UI_optionscreen_binding_Rack Firearm = " Rack Firearm",
+    UI_optionscreen_binding_ManualFloorAtk = " Manual Floor Attack",
     UI_optionscreen_binding_ReloadWeapon = " Reload Weapon",
     UI_optionscreen_binding_Run = " Run",
     UI_optionscreen_binding_Interact = " Interact",
@@ -1291,4 +1292,8 @@ UI_EN = {
     UI_optionscreen_Uncapped = "Uncapped",
     UI_optionscreen_render_rain_indoors = "Render Rain When Indoors",
     UI_optionscreen_binding_Emote = "Emotes Wheel (long press)",  
+    UI_optionscreen_render_precipitation = "Render Rain and Snow",
+    UI_optionscreen_render_precipAlways = "Always",
+    UI_optionscreen_render_precipOutdoors = "Outdoors only",
+    UI_optionscreen_render_precipNever = "Never",
 }

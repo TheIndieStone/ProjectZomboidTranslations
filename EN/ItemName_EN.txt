@@ -1050,6 +1050,7 @@ ItemName_EN = {
     ItemName_Base.Shirt_CamoGreen = "Military Camo Shirt",
     ItemName_Base.Shirt_CamoUrban = "Military Urban Camo Shirt",
     ItemName_Base.Shirt_Denim = "Denim Shirt",
+    ItemName_Base.Shirt_FormalTINT = "Formal Shirt",
     ItemName_Base.Shirt_FormalWhite = "Formal Shirt",
     ItemName_Base.Shirt_FormalWhite_ShortSleeve = "Short Sleeve Shirt",
     ItemName_Base.Shirt_HawaiianRed = "Hawaiian Red Shirt",
