@@ -450,4 +450,5 @@ ContextMenu_ES = {
 	ContextMenu_or = "o",
 	ContextMenu_EyeRight = "Colocar en el ojo derecho",
 	ContextMenu_EyeLeft = "Colocar en el ojo izquierdo",
+	ContextMenu_Vehicle_AttachTrailer2 = "Enganchar remolque",
 }
