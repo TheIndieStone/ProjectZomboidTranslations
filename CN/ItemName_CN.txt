@@ -1050,6 +1050,7 @@ ItemName_CN = {
     ItemName_Base.Shirt_CamoGreen = "军用迷彩衬衫",
     ItemName_Base.Shirt_CamoUrban = "军用城市迷彩衬衫",
     ItemName_Base.Shirt_Denim = "牛仔衬衫",
+	ItemName_Base.Shirt_FormalTINT = "正装衬衫",
     ItemName_Base.Shirt_FormalWhite = "正装衬衫",
     ItemName_Base.Shirt_FormalWhite_ShortSleeve = "短袖衬衣",
     ItemName_Base.Shirt_HawaiianRed = "夏威夷衬衫(红色)",
