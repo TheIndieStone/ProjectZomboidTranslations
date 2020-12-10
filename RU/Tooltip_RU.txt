@@ -255,4 +255,5 @@ Tooltip_RU = {
 	Tooltip_BedType_goodBed = "хорошее",
 	Tooltip_TooMuchPainFitness = "Слишком сильная боль для занятия фитнесом",
 	Tooltip_RemoveBrokenGlassNoItem = "Требуется предмет в левой руке",
+	Tooltip_Recipe_HockeyMaskSmashBottle = "Требуется надеть хоккейную маску.<br>Используйте осторожно!",
 }

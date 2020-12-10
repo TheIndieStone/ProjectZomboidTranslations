@@ -301,7 +301,7 @@ ContextMenu_RU = {
 	ContextMenu_Uses = "<br>(расходуется)",
 	ContextMenu_BigMetalFenceGate = "Большая решётчатая калитка",
 	ContextMenu_MetalCrate = "Металлический ящик",
-	ContextMenu_Sleeping = "Не можете уснуть",
+	ContextMenu_Sleeping = "Сон",
 	ContextMenu_PainNoSleep = "Вы испытываете сильную боль",
 	ContextMenu_PanicNoSleep = "Вы слишком напуганы",
 	ContextMenu_NoSleepTooEarly = "Не можете заснуть, попробуйте чуть позже",
@@ -447,4 +447,7 @@ ContextMenu_RU = {
 	ContextMenu_SleepOnGround = "Спать на земле",
 	ContextMenu_Vehicle_AttachTrailer = "Прицепить<br>%1<br>к<br>%2",
 	ContextMenu_Vehicle_DetachTrailer = "Отцепить<br>%1",
+	ContextMenu_Vehicle_AttachTrailer2 = "Прицепить прицеп",
+	ContextMenu_EyeRight = "на правый глаз",
+	ContextMenu_EyeLeft = "на левый глаз",
 }

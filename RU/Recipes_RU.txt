@@ -41,6 +41,9 @@ Recipe_RU = {
 	Recipe_Rip_Sheets = "Порвать на тряпки",
 	Recipe_Saw_Off_Shotgun = "Спилить ствол",
 	Recipe_Smash_Bottle = "Разбить бутылку",
+	Recipe_Make_Newspaper_Hat = "Сделать панаму из газеты",
+	Recipe_Make_Tin_Foil_Hat = "Сделать шапочку из фольги",
+	Recipe_Extinguish_Candle = "Погасить свечу",
 	-- 02. Выживание
 	Recipe_Attach_Bread_Knife_to_Spear = "Закрепить нож для хлеба на копье",
 	Recipe_Attach_Butter_Knife_to_Spear = "Закрепить нож для масла на копье",
