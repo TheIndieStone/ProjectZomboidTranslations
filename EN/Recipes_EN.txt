@@ -56,6 +56,7 @@ Recipes_EN = {
     Recipe_Empty_Griddle_Pan = "Empty Griddle Pan",
     Recipe_Empty_Roasting_Pan = "Empty Roasting Pan",
     Recipe_Empty_Whiskey_Bottle = "Empty Bourbon Bottle",
+    Recipe_Extinguish_Candle = "Extinguish Candle",
     Recipe_Fix_Fishing_Rod = "Fix Fishing Rod",
     Recipe_Gather_Gunpowder = "Gather Gunpowder",
     Recipe_Generator = "Generator Maintenance",
