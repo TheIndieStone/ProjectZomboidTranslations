@@ -1462,4 +1462,8 @@ ItemName_ES = {
 	ItemName_Base.Hat_PartyHat_Stars = "Gorro de fiesta con estrellas",
 	ItemName_Base.Hat_PartyHat_TINT = "Gorro de fiesta coloreado",
 	ItemName_Base.Hat_TinFoilHat = "Gorro de papel de aluminio",
+	ItemName_Base.Hat_BaseballCapArmy = "Gorra de béisbol militar",
+	ItemName_Base.Hat_BaseballCapArmy_Reverse = "Gorra de béisbol militar",
+	ItemName_Base.Shorts_CamoUrbanLong = "Pantalones cortos militares de camuflaje",
+	ItemName_Base.Shirt_FormalTINT = "Camisa formal",
 }

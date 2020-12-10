@@ -716,7 +716,7 @@ IG_UI_ES = {
     IGUI_SitUps_Tooltip = "Mejora el estado físico cuando se realiza con regularidad.",
     IGUI_Skill = "Habilidad",
     IGUI_Sleep_NHours = "%1 horas",
-    IGUI_Sleep_NotTiredEnough = "Aún no estás lo suficientemente cansado para dormir.",
+    IGUI_Sleep_NotTiredEnough = "Aún no estás tan cansado para dormir.",
     IGUI_Sleep_OneHour = "1 hora",
     IGUI_Sleep_OutsideRain = "No puedes dormir en una cama en el exterior mientras llueve.",
     IGUI_Sleep_Prompt = "¿Dormir cuánto tiempo?",
@@ -1266,4 +1266,7 @@ IG_UI_ES = {
 	IGUI_Hair_MohawkSpike = "Mohicano pinchos",
 	IGUI_Beard_Chin = "Perilla",
 	IGUI_Beard_PointyChin = "Perilla ancla",
+	IGUI_FitnessRegularity = "Regularidad",
+	IGUI_ToggleAutoProneAtk = "Autodetección de ataques de pie o al suelo",
+	IGUI_ToggleAutoProneAtkTooltip = "Si no se selecciona, siempre tendrás que pulsar %1 mientras atacas para apuntar manualmente a los zombis que se arrastran, el pisotón todavía está disponible con %2.",
 }

@@ -254,4 +254,5 @@ Tooltip_ES = {
 	Tooltip_weapon_Type = "Tipo",
 	Tooltip_weapon_Unusable_at_max_exertion = "No puede usarse con esfuerzo máximo.",
 	Tooltip_RemoveBrokenGlassNoItem = "Requiere un objeto en la mano izquierda.",
+	Tooltip_Recipe_HockeyMaskSmashBottle = "Requiere el uso de una máscara de hockey.<br>Úsala con precaución.",
 }
