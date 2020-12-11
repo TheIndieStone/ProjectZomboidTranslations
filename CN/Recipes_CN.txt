@@ -56,6 +56,7 @@ Recipes_CN = {
     Recipe_Empty_Griddle_Pan = "倒空圆烤盘",
     Recipe_Empty_Roasting_Pan = "倒空烤盘",
     Recipe_Empty_Whiskey_Bottle = "倒空威士忌",
+	Recipe_Extinguish_Candle = "熄灭蜡烛",
     Recipe_Fix_Fishing_Rod = "修理钓鱼竿",
     Recipe_Gather_Gunpowder = "收集火药",
     Recipe_Generator = "维护发电机",
