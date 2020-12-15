@@ -265,6 +265,7 @@ Recipes_EN = {
     Recipe_Rip_Clothing = "Rip Clothing",
     Recipe_Saw_Logs = "Saw Logs",
     Recipe_Saw_Logs2 = "Saw Logs",
+    Recipe_Saw_Off_Double_Barrel_Shotgun = "Saw Off Double Barrel Shotgun",
     Recipe_Saw_Off_Shotgun = "Saw Off Shotgun",
     Recipe_Slice_Bread = "Slice Bread",
     Recipe_Slice_Cake = "Slice Cake",
