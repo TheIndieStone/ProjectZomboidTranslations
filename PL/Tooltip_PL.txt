@@ -89,6 +89,7 @@ Tooltip_PL = {
     Tooltip_Plantain = "Zastosowana jako ok³ad przyspiesza gojenie siê ran.",
     Tooltip_PlasterPowder = "U¿ywany do gipsowania solidnych drewnianych œcian. Wymaga wiadra z wod¹.",
     Tooltip_Receiver = "Urz¹dzenie wykorzystywane do improwizowanych bomb i przyrz¹dów. Wymagana jest znajomoœæ przepisu i profesja elektryka.",
+    Tooltip_Recipe_HockeyMaskSmashBottle = "Wymaga za³o¿onej maski hokejowej.<br>Zachowaj ostro¿noœæ. ",
     Tooltip_RecoilPad = "Redukuje si³ê odrzutu.",
     Tooltip_RedDot = "Skraca czas potrzebny do wycelowania.",
     Tooltip_RemoteController = "Zaimprowizowane urz¹dzenie do zdalnej aktywacji bomb i pu³apek. Wymagana jest znajomoœæ przepisu i profesja elektryka.",
