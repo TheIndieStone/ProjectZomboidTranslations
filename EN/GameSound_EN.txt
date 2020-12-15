@@ -194,6 +194,8 @@ GameSound_EN = {
     GameSound_BeginRemoveBarricadePlank = "Begin Remove Wooden Barricade",
     GameSound_RemoveBarricadeMetal = "Remove Metal Barricade",
     GameSound_RemoveBarricadePlank = "Remove Wooden Barricade",
+    GameSound_BreakBarricadePlank = "Break Wooden Barricade",
+    GameSound_BreakBarricadeMetal = "Break Metal Barricade",
     GameSound_Bushes = "Bushes",
     GameSound_ClothingDryerRunning = "Clothing Dryer - Running ",
     GameSound_ClothingWasherRunning = "Clothing Washer - Running",
@@ -351,7 +353,7 @@ GameSound_EN = {
     GameSound_CatchFish = "Catch Fish",
     GameSound_CatchTrashWithRod = "Catch Trash with Rod",
     GameSound_StrikeWithFishingSpear = "Strike with Fishing Spear",
-    GameSound_CheckFighingNet = "Check Fighing Net",
+    GameSound_CheckFighingNet = "Check Fishing Net",
     
     
 /* Zombie */
@@ -365,6 +367,9 @@ GameSound_EN = {
     GameSound_MaleZombieHurt = "Male Zombie Hurt",
     GameSound_FemaleZombieIdle = "Female Zombie Idle",
     GameSound_MaleZombieIdle = "Male Zombie Idle",
+    GameSound_FemaleZombieReanimate = "Female Zombie Reanimate",
+    GameSound_MaleZombieReanimate = "Male Zombie Reanimate",
+    GameSound_ZombieBite = "Zombie Bite",
     GameSound_ZombieScratch = "Zombie Scratch",
     GameSound_FemaleZombieEating = "Female Zombie Eating",
     GameSound_MaleZombieEating = "Male Zombie Eating",
