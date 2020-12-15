@@ -40,6 +40,7 @@ Recipe_RU = {
 	Recipe_Rip_clothing = "Порвать на тряпки",
 	Recipe_Rip_Sheets = "Порвать на тряпки",
 	Recipe_Saw_Off_Shotgun = "Спилить ствол",
+	Recipe_Saw_Off_Double_Barrel_Shotgun = "Спилить ствол",
 	Recipe_Smash_Bottle = "Разбить бутылку",
 	Recipe_Make_Newspaper_Hat = "Сделать панаму из газеты",
 	Recipe_Make_Tin_Foil_Hat = "Сделать шапочку из фольги",
