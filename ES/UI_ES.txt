@@ -1283,4 +1283,9 @@ UI_ES = {
 	UI_optionscreen_render_precipAlways = "Siempre",
 	UI_optionscreen_render_precipOutdoors = "Sólo en el exterior",
 	UI_optionscreen_render_precipNever = "Nunca",
+	UI_LoadGameScreen_ChoosePlayer1 = "Elegir jugador 1.",
+	UI_LoadGameScreen_NoPlayer1 = "NINGUNO",
+	UI_LoadGameScreen_ButtonNewPlayer = "NUEVO JUGADOR",
+	UI_mods_RequiredVersionMin = "Este mod requiere la versión %1 o más reciente.",
+	UI_mods_RequiredVersionMax = "Este mod no funciona con versiones de juegos más recientes que %1.",
 }
