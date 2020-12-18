@@ -237,8 +237,8 @@ Sandbox_CN = {
     Sandbox_StarterKit = "新手包",
     Sandbox_StarterKit_tooltip = "带着一个背包和一些有用的工具开局.",
     --
-    Sandbox_ZombieLore = "僵尸传统",
-    Sandbox_ProperZombies = "传统僵尸",
+    Sandbox_ZombieLore = "僵尸设置",
+    Sandbox_ProperZombies = "默认设置",
     --
     Sandbox_ZombieAdvanced = "高级僵尸设置",
     --
