@@ -145,7 +145,7 @@ IGUI_CN = {
 	IGUI_XP_level = " 等级 ",
 	IGUI_XP_Skills = "技能",
 	IGUI_XP_Health = "状况",
-	IGUI_XP_ClothingIns = "温度"
+	IGUI_XP_ClothingIns = "温度",
 	IGUI_XP_Info = "信息",
 	-- Perks
 	IGUI_perks_Combat = "战斗",
