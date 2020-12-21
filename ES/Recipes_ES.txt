@@ -307,7 +307,7 @@ Recipes_ES = {
 	Recipe_Sandwich = "Sándwich",
 	Recipe_Saw_Logs = "Aserrar troncos",
 	Recipe_Saw_Logs2 = "Aserrar troncos",
-	Recipe_Saw_Off_Shotgun = "Recortar cañones",
+	Recipe_Saw_Off_Shotgun = "Recortar cañón",
 	Recipe_Slice_Bread = "Cortar pan",
 	Recipe_Slice_Cake = "Cortar tarta",
 	Recipe_Slice_Fillet = "Cortar filete",
@@ -328,4 +328,6 @@ Recipes_ES = {
 	Recipe_Write_Journal = "Escribir un diario",
 	Recipe_Make_Newspaper_Hat = "Hacer gorro de papel de periódico",
 	Recipe_Make_Tin_Foil_Hat = "Hacer gorro de papel de aluminio",
+	Recipe_Extinguish_Candle = "Apagar vela",
+	Recipe_Saw_Off_Double_Barrel_Shotgun = "Recortar cañones"
 }
