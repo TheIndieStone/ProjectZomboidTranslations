@@ -79,7 +79,7 @@ ContextMenu_CN = {
 	ContextMenu_Harvest = "收获",
 	ContextMenu_Keep = "需持有：",
 	ContextMenu_Smoke = "抽烟",
-	ContextMenu_Chop_Tree = "砍倒树"
+	ContextMenu_Chop_Tree = "砍倒树",
 	ContextMenu_WaterName = "水",
 	-- Crafting menu
 	ContextMenu_Door = "门",
