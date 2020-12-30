@@ -446,7 +446,9 @@ ContextMenu_UA = {
 	ContextMenu_Fitness = "Фітнес",
 	ContextMenu_CleanBandageEtc = "Чисті Бинти",
 	ContextMenu_SleepOnGround = "Спати на землі",
-	ContextMenu_Vehicle_AttachTrailer = "Прикріпити %1 %3 до %2",
-	ContextMenu_Vehicle_DetachTrailer = "Від'єднати причіп",
+	ContextMenu_Vehicle_AttachTrailer = "Прикріпити<br>%1<br>до<br>%2",
+	ContextMenu_Vehicle_DetachTrailer = "Від'єднати<br>%1",
 	ContextMenu_Vehicle_AttachTrailer2 = "Прикріпити причіп",
+	ContextMenu_EyeRight = "На праве око",
+	ContextMenu_EyeLeft = "На ліве око",
 }
