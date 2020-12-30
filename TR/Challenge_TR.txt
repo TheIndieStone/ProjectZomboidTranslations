@@ -47,6 +47,7 @@ Challenge_TR = {
     Challenge_Studio_desc = "En iyi filmlerin çekildiði yer!",
     Challenge_Studio_name = "Stüdyo",
     Challenge_TheDescendingFogInfoBox = " <CENTRE> Sisli hale geliyor...",
+    Challenge_TheDescendingFog_desc = "Ýnsanlar onu ilk önce suda gördü. Ohio nehrinin üzerinde soluk beyaz bir örtü. <LINE> <LINE> Bir sis olarak baþladý. Sonra þehri kuþattý. Kasaba halký karanlýkta çýðlýk atarak öldü. Þimdi oraya gidiyorlar. <LINE> <LINE> Yaþamanýn peþinde görünmeyen, duyulmayan ve amansýz.",
     Challenge_TheDescendingFog_name = "Azalan Sis",
     Challenge_WinterIsComingInfoBox = " <CENTRE> Üç gün içinde sonsuz kara kýþ baþlar. <LINE> <LINE> Sýrtýnýza sýcak bir battaniye alýn...",
     Challenge_WinterIsComing_desc = "Temmuz'un ortasý, fakat aniden soðuk bir meltem esiyor. Sadece üç gün sonra daha önce eþi benzeri görülmemiþ bir kýþ geliyor. <LINE> <LINE> Soðuða dayanýklý bir yerde uyanýyorsun. Malzemen yetersiz, ve zombi ordusu yoðun soðuk nedeniyle yavaþlamýþ olabilir - ama onlar daha az ölümcül. <LINE> <LINE> Sýrtýnýza sýcak bir battaniye alýn...",

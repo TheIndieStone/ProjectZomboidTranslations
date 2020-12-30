@@ -145,6 +145,7 @@ GameSound_UA = {
 	GameSound_NewMusic_AmbientLow = "Офіційна: Оточення (повільна)",
 	GameSound_NewMusic_AmbientPiano = "Офіційна: Оточення (піаніно)",
 	GameSound_NewMusic_AmbientRaider = "Офіційна: Оточення (рейдер)",
+	GameSound_NewMusic_KeepMoving = "Офіційна: Продовжуйте рухатися",
 	GameSound_OldMusic_alone = "Ранній доступ: Наодинці",
 	GameSound_OldMusic_barricading = "Ранній доступ: Забарикадуючись",
 	GameSound_OldMusic_chase = "Ранній доступ: Переслідування",
@@ -377,4 +378,6 @@ GameSound_UA = {
 	GameSound_ZombieFootstepsCombined = "Кроки зомбі",
 	GameSound_ZombieSurprisedPlayer = "Виявлення зомбі",
 	GameSound_TutorialZombie = "Зомбі з підручника",
+	GameSound_FemaleZombieReanimate = "Реанімація зомбі жінки",
+	GameSound_MaleZombieReanimate = "Реанімація зомбі чоловіка",
 }

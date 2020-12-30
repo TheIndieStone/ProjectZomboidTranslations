@@ -1,0 +1,12 @@
+EvolvedRecipeName_DE = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Dosen-Bolognese",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Dosen-Möhren",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Dosen-Chili",
+    EvolvedRecipeName_Base.CannedCornOpen = "Dosen-Mais",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Dosen Corned Beef",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Dosen-Erbsen",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Dosen-Kartoffeln",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Dosen-Sardinen",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Dosen-Tomaten",
+    EvolvedRecipeName_Base.Teabag2 = "Tee",
+}

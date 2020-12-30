@@ -168,6 +168,7 @@ Moveables_UA = {
 	Diner_Neon_Sign = "Вивіска: Закусочна",
 	Dixie_Sign = "Дорожній знак: Ласкаво просимо в Діксі",
 	Doctor_Degree_Certificate = "Сертифікат про докторську ступінь",
+	Mounted_Deer_Trophy = "Настінний трофей оленя",
 	Dog_House = "Собача будка",
 	Door_Mat_Rug = "Килимок: дверний матовий",
 	Double_Stacked_Hay = "Кіпа сіна подвійна",
