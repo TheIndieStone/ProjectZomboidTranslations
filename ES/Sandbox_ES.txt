@@ -561,4 +561,12 @@ Sandbox_ES = {
     Sandbox_ZombiesFenceLunge = "Embestida en la valla",
     Sandbox_ZombiesFenceLunge_tooltip = "Cuando esté habilitado, los zombis tendrán la oportunidad de arremeter después de pasar por encima de una valla si estás demasiado cerca.",
     Sandbox_ZoneStoryChance = "Historias aleatorias por zonas",
+	Sandbox_ZCrawlUnderVehicle = "Arrastrarse debajo del vehículo",
+	Sandbox_ZCrawlUnderVehicle_option1 = "Nunca",
+	Sandbox_ZCrawlUnderVehicle_option2 = "Extremadamente raro",
+	Sandbox_ZCrawlUnderVehicle_option3 = "Raro",
+	Sandbox_ZCrawlUnderVehicle_option4 = "A veces",
+	Sandbox_ZCrawlUnderVehicle_option5 = "A menudo",
+	Sandbox_ZCrawlUnderVehicle_option6 = "Muy a menudo",
+	Sandbox_ZCrawlUnderVehicle_option7 = "Siempre",
 }
