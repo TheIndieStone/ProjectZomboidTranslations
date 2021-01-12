@@ -58,6 +58,7 @@ GameSound_ES = {
 	GameSound_ChatDrawCard = "Coge una carta",
 	GameSound_ChatRollDice = "Tirar los dados",
 	GameSound_CheckFishingNet = "Comprobar nasa de pesca",
+	GameSound_CheckFighingNet = "Comprobar nasa de pesca",
 	GameSound_ChopDoor = "Golpear puerta",
 	GameSound_ChopTree = "Talar árbol",
 	GameSound_CloseBag = "Cerrar mochila",
