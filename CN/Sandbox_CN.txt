@@ -564,4 +564,17 @@ Sandbox_CN = {
     Sandbox_AttackBlockMovements = "不可移动攻击",
     Sandbox_AttackBlockMovements_tooltip = "若禁用则近战攻击不影响行走.",
     
+	
+	--Add Text--
+	Sandbox_ZCrawlUnderVehicle = "爬过车底",
+	Sandbox_ZCrawlUnderVehicle_option1 = "从不",
+    Sandbox_ZCrawlUnderVehicle_option2 = "非常少",
+    Sandbox_ZCrawlUnderVehicle_option3 = "稀少",
+    Sandbox_ZCrawlUnderVehicle_option4 = "有时",
+    Sandbox_ZCrawlUnderVehicle_option5 = "经常",
+    Sandbox_ZCrawlUnderVehicle_option6 = "非常多",
+    Sandbox_ZCrawlUnderVehicle_option7 = "全部",
+	------284
+	
+	
 }
