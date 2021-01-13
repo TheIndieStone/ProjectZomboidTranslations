@@ -366,6 +366,7 @@ ItemName_IT = {
     ItemName_Base.LogStacks4 = "Quattro ceppi",
     ItemName_Base.Lollipop = "Lecca-lecca",
     ItemName_Base.Macandcheese = "Maccheroni al formaggio",
+    ItemName_Base.Machete = "Machete",
     ItemName_Base.Magazine = "Rivista",
     ItemName_Base.MakeupEyeshadow = "Trucco per occhi",
     ItemName_Base.MakeupFoundation = "Fondotinta",
