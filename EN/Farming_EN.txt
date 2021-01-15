@@ -14,7 +14,7 @@ Farming_EN = {
   Farming_In_bloom = "Blooming",
   Farming_Seed-bearing = "Seed-bearing",
   Farming_Receding = "Receding",
-  Farming_Rotten = "Rotten",
+  Farming_Rotten = "Spoiled",
   Farming_Destroyed = "Destroyed",
   -- farming info text
   -- title
