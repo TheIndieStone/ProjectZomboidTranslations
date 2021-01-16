@@ -17,7 +17,7 @@ MultiStageBuild_ES = {
     MultiStageBuild_CreateWoodenWindow_2 = "Construir ventana de madera nivel 2",
     MultiStageBuild_UpgradeWoodenWindow_1To3 = "Madera ventana de madera a nivel 3",
     MultiStageBuild_UpgradeWoodenWindow_2To3 = "Madera ventana de madera a nivel 3",
-    MultiStageBuild_CreateWoodenWindow_3 = "Construir ventana de madera nivel 3î,
+    MultiStageBuild_CreateWoodenWindow_3 = "Construir ventana de madera nivel 3‚Äù,
     -- Metal Wall
     MultiStageBuild_CreateMetalWall_1 = "Construir pared de metal nivel 1",
     MultiStageBuild_UpgradeMetalWall_1To2 = "Mejorar pared de metal a nivel 2",

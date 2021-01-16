@@ -6,8 +6,8 @@ Farming_ES = {
 
   -- vegetables name (type of seed)
   Farming_Carrots = "Zanahorias",
-  Farming_Broccoli = "Brócoli",
-  Farming_Radishes = "Rábanos",
+  Farming_Broccoli = "BrÃ³coli",
+  Farming_Radishes = "RÃ¡banos",
   Farming_Strawberry_plant = "Planta de frutilla",
   Farming_Strawberry plant = "Planta de frutilla",
   Farming_Tomato = "Tomate",
@@ -15,7 +15,7 @@ Farming_ES = {
   Farming_Potatoes = "Papa",
   Farming_Cabbages = "Repollo",
   -- growing phase
-  Farming_Seedling = "Plántula",
+  Farming_Seedling = "PlÃ¡ntula",
   Farming_Young = "Joven",
   Farming_Ready_for_Harvest = "Casi listo para cosechar",
   Farming_In_bloom = "Con flores",
@@ -25,10 +25,10 @@ Farming_ES = {
   Farming_Destroyed = "Destrozada",
   -- farming info text
   -- title
-  Farming_Plant_Information = "Información de plantas",
+  Farming_Plant_Information = "InformaciÃ³n de plantas",
   Farming_Current_growing_phase = "Estado de crecimiento actual",
-  Farming_Next_growing_phase = "Próximo estado de crecimiento",
-  Farming_Last_time_watered = "Última vez regada",
+  Farming_Next_growing_phase = "PrÃ³ximo estado de crecimiento",
+  Farming_Last_time_watered = "Ãšltima vez regada",
   Farming_Fertilized = "Fertilizado",
   Farming_Health = "Salud",
   Farming_Disease = "Enfermedad",
@@ -40,7 +40,7 @@ Farming_ES = {
   Farming_Dry = "Seca",
   Farming_Parched = "Marchitada",
   -- growing phase
-  Farming_Seedling = "Plántula",
+  Farming_Seedling = "PlÃ¡ntula",
   Farming_Fully_grown = "Madura",
   Farming_Ready_to_harvest = "Lista para cosechar",
   -- disease
@@ -55,8 +55,8 @@ Farming_ES = {
   Farming_Healthy = "Saludable",
   Farming_Sickly = "Enferma",
   Farming_Stunted = "Crecimiento lento",
-  Farming_Tooltip_MinWater = "Agua mínima: ",
-  Farming_Tooltip_MaxWater = "Agua máxima: ",
+  Farming_Tooltip_MinWater = "Agua mÃ­nima: ",
+  Farming_Tooltip_MaxWater = "Agua mÃ¡xima: ",
   Farming_Tooltip_TimeOfGrow = "Tiempo promedio de crecimiento: ",
   Farming_Tooltip_AverageWater = "Promedio de agua: ",
   Farming_Tooltip_RequiredSeeds = "Semillas requeridas: ",

@@ -4,63 +4,63 @@
 	-- Date 12-05-2018
 	-- Translation by DuMa, JohnySouzac, MantoanR and JokerQuinn
 
-[VERS√O] 37
+[VERS√ÉO] 37
 [NOVIDADES]
-OpÁ„o de "modo de correr" adicionado nas opÁıes. Permite que vocÍ corra automaticamente sem precisar segurar o bot„o de correr, pode ser ligado ou desligado.
-Implemantado novo sistema para traduÁ„o dos arquivos "News.txt" que aparecem no menu principal, agora esses arquivos podem ser re-utilizados a cada nova vers„o.
-Adicionado o bot„o "informaÁıes da vers„o" no menu principal
+Op√ß√£o de "modo de correr" adicionado nas op√ß√µes. Permite que voc√™ corra automaticamente sem precisar segurar o bot√£o de correr, pode ser ligado ou desligado.
+Implemantado novo sistema para tradu√ß√£o dos arquivos "News.txt" que aparecem no menu principal, agora esses arquivos podem ser re-utilizados a cada nova vers√£o.
+Adicionado o bot√£o "informa√ß√µes da vers√£o" no menu principal
 [BOLD]Fornos e micro-ondas melhorados:
-[DOT2]VocÍ agora tem acesso ‡ uma nova interface de configuraÁıes de forno/micro-ondas, ao clicar com o bot„o direito e selecionar 'ConfiguraÁıes'.
-[DOT2]VocÍ poder· mudar a temperatura, e selecionar o tempo de preparo. Fornos ir„o 'apitar' quando o tempo acabar, e micro-ondas se desligar„o.
-[DOT2]Colocar metal dentro de um micro-ondas poder· resultar em um incÍndio.
+[DOT2]Voc√™ agora tem acesso √† uma nova interface de configura√ß√µes de forno/micro-ondas, ao clicar com o bot√£o direito e selecionar 'Configura√ß√µes'.
+[DOT2]Voc√™ poder√° mudar a temperatura, e selecionar o tempo de preparo. Fornos ir√£o 'apitar' quando o tempo acabar, e micro-ondas se desligar√£o.
+[DOT2]Colocar metal dentro de um micro-ondas poder√° resultar em um inc√™ndio.
 [DOT2]Adicionamos novos sons ao forno/micro-ondas.
 [DOT2]Adicionamos luzes "operacionais" ao forno/micro-ondas.
-[BOLD]MudanÁas nas comidas:
-[DOT2]Algumas comidas ser„o menos eficazes quando feitas no micro-ondas, aumentando a tristeza do personagem.
-[DOT2]Comer comida quente/fria ter· um impacto relevante na felicidade/tristeza do personagem.
+[BOLD]Mudan√ßas nas comidas:
+[DOT2]Algumas comidas ser√£o menos eficazes quando feitas no micro-ondas, aumentando a tristeza do personagem.
+[DOT2]Comer comida quente/fria ter√° um impacto relevante na felicidade/tristeza do personagem.
 [BOLD]Adicionamos Mapas ao jogo:
-[DOT2]Mapas de localizaÁıes urbanas poder„o ser encontrados nas respectivas cidades, especialmente em postos de gasolina.
-[DOT2]Atualmente, os mapas que vocÍ poder· encontrar cobrem Muldraugh, West Point, Rosewood e March Ridge.
-[DOT2]Para usar um mapa, clique com o bot„o direito nele e selecione "Ler Mapa".
-[DOT2]Usar a nova interface de mapas, vocÍ poder· dar zoom usando o scroll do mouse, adicionar suas prÛprias anotaÁıes e v·rios desenhos e sÌmbolos.
-[DOT2]VocÍ pode escrever em 4 diferentes cores: cinza, preto, vermelho e azul - mas vocÍ precisar· das respectivas canetas!
-[DOT2]Erros poder„o ser apagados ao clicar em "Deletar Elemento", e selecionar o que vocÍ quer removido. 
-[DOT2]Mapas com anotaÁıes poder„o ser divididos com amigos e membros de facÁ„o, no modo Multijogador.
-[EQUILÕBRIO]
-Diminuimos o alcance do som de ·gua de pia pingando.
+[DOT2]Mapas de localiza√ß√µes urbanas poder√£o ser encontrados nas respectivas cidades, especialmente em postos de gasolina.
+[DOT2]Atualmente, os mapas que voc√™ poder√° encontrar cobrem Muldraugh, West Point, Rosewood e March Ridge.
+[DOT2]Para usar um mapa, clique com o bot√£o direito nele e selecione "Ler Mapa".
+[DOT2]Usar a nova interface de mapas, voc√™ poder√° dar zoom usando o scroll do mouse, adicionar suas pr√≥prias anota√ß√µes e v√°rios desenhos e s√≠mbolos.
+[DOT2]Voc√™ pode escrever em 4 diferentes cores: cinza, preto, vermelho e azul - mas voc√™ precisar√° das respectivas canetas!
+[DOT2]Erros poder√£o ser apagados ao clicar em "Deletar Elemento", e selecionar o que voc√™ quer removido. 
+[DOT2]Mapas com anota√ß√µes poder√£o ser divididos com amigos e membros de fac√ß√£o, no modo Multijogador.
+[EQUIL√çBRIO]
+Diminuimos o alcance do som de √°gua de pia pingando.
 [CONSERTOS DE BUG]
-O som dos trovıes agora È conectado ao volume ambiente.
+O som dos trov√µes agora √© conectado ao volume ambiente.
 Consertado um problema no UI_EN.txt
 Consertados os nascimentos do jogador em Rosewood, e resetamos o spawn_region.
-Consertado um erro aonde o jogador era incapaz de recarregar suas armas na dificuldade normal/difÌcil.
-Consertada a desincronia de alguns botıes no menu de tela, para certos idiomas.
-Consertado um bug aonde o jogador n„o podia adicionar ingredientes de receitas que j· haviam sido feitas (adicionar tempero depois de cozinhar macarr„o, etc)
-Pilar de escadarias agora tambÈm È considerado como parede.
+Consertado um erro aonde o jogador era incapaz de recarregar suas armas na dificuldade normal/dif√≠cil.
+Consertada a desincronia de alguns bot√µes no menu de tela, para certos idiomas.
+Consertado um bug aonde o jogador n√£o podia adicionar ingredientes de receitas que j√° haviam sido feitas (adicionar tempero depois de cozinhar macarr√£o, etc)
+Pilar de escadarias agora tamb√©m √© considerado como parede.
 Consertado nullpointer em Dano Corporal.
-[VERS√O] 37.1
-[VERS√O] 37.2
+[VERS√ÉO] 37.1
+[VERS√ÉO] 37.2
 [CONSERTOS DE BUG]
-Agora todas as aÁıes atuais ser„o canceladas antes de se iniciar uma troca.
-Consertado um erro aonde andar durante uma troca poderia resultar em duplicaÁ„o de items.
-Consertado um erro aonde fatiar filÈ de peixe cozido poderia resultar em filÈ de peixe cru.
+Agora todas as a√ß√µes atuais ser√£o canceladas antes de se iniciar uma troca.
+Consertado um erro aonde andar durante uma troca poderia resultar em duplica√ß√£o de items.
+Consertado um erro aonde fatiar fil√© de peixe cozido poderia resultar em fil√© de peixe cru.
 Consertamos nullPointer com certos projetos complexos.
-Manteiga de amendoim/sanduÌche de queijo agora tem valores nutricionais.
-[VERS√O] 37.3
+Manteiga de amendoim/sandu√≠che de queijo agora tem valores nutricionais.
+[VERS√ÉO] 37.3
 [NOVIDADES]
 Atualizamos windows jre para 8u121.
 [BOLD]Adicionamos sistema de "mapas anotados":
-[DOT2]VocÍ poder· encontrar mapas anotados, iguais aos mapas normais, porÈm com anotaÁıes de outros sobreviventes. Maiores chances de serem encontrados em zumbis.
-[DOT2]Eles poder„o lhe guiar ‡ alimentos, ferramentas, armas, e locais interessantes. Mas tambÈm poder„o lhe guiar ‡ grandes hordas de zumbis, ou armadilhas!
-[DOT2]Os itens poder„o estar escondidos nas estantes, caixas, bolsas no ch„o ou atÈ mesmo escondidos no piso!
-[DOT2]O sistema ainda n„o est· totalmente pronto, ent„o a chance dos mapas aparecerem est· bem alta por agora, iremos equilibrar esse sistema durante os testes de IWBUMS.
-[EQUILÕBRIO]
-Reduzimos o n˙mero de construÁıes incendiadas de 20% para 10%.
+[DOT2]Voc√™ poder√° encontrar mapas anotados, iguais aos mapas normais, por√©m com anota√ß√µes de outros sobreviventes. Maiores chances de serem encontrados em zumbis.
+[DOT2]Eles poder√£o lhe guiar √† alimentos, ferramentas, armas, e locais interessantes. Mas tamb√©m poder√£o lhe guiar √† grandes hordas de zumbis, ou armadilhas!
+[DOT2]Os itens poder√£o estar escondidos nas estantes, caixas, bolsas no ch√£o ou at√© mesmo escondidos no piso!
+[DOT2]O sistema ainda n√£o est√° totalmente pronto, ent√£o a chance dos mapas aparecerem est√° bem alta por agora, iremos equilibrar esse sistema durante os testes de IWBUMS.
+[EQUIL√çBRIO]
+Reduzimos o n√∫mero de constru√ß√µes incendiadas de 20% para 10%.
 [BUG FIX]
-Muros pequenos de concreto n„o impedem mais a vis„o do jogador.
-O menu de metalurgia n„o ir· aparecer se vocÍ n„o for capaz de produzir algo.
-Consertamos v·rios bugs sobre projetos e receitas.
+Muros pequenos de concreto n√£o impedem mais a vis√£o do jogador.
+O menu de metalurgia n√£o ir√° aparecer se voc√™ n√£o for capaz de produzir algo.
+Consertamos v√°rios bugs sobre projetos e receitas.
 Reposicionamos as barricadas de metal, quando posicionadas em uma janela.
 Fixed random safehouse spawning incorrect zombies number.
-Agora o filÈ de peixe pequeno pode ser fatiado.
-Consertamos uma referÍncia errada na Carpintaria.
+Agora o fil√© de peixe pequeno pode ser fatiado.
+Consertamos uma refer√™ncia errada na Carpintaria.
 Consertamos um nullpointerExpection com toalhas secas.
