@@ -1,33 +1,70 @@
-myst = '''ItemName_IT = {
-    ItemName_Base.223Box = "Scatola di munizioni .223",
-    ItemName_Base.223Bullets = "Munizioni .223",
-    ItemName_Base.223BulletsMold = "Stampo per munizioni .223",
-    ItemName_Base.308Box = "Scatola di munizioni .308",
-    ItemName_Base.308Bullets = "Munizioni .308",
-    ItemName_Base.308BulletsMold = "Stampo per munizioni .308",
-    ItemName_Base.9mmBulletsMold = "Stampo per munizioni 9mm",
-    ItemName_Base.9mmClip = "Caricatore per 9mm",
-    ItemName_Base.Aerosolbomb = "Bomba aerosol",
-    ItemName_Base.AerosolbombRemote = "Telecomando per bomba aerosol",
-    ItemName_Base.AerosolbombSensorV1 = "Bomba aerosol con sensore",
-    ItemName_Base.AerosolbombSensorV2 = "Bomba aerosol con sensore",
-    ItemName_Base.AerosolbombSensorV3 = "Bomba aerosol con sensore",
-    ItemName_Base.AerosolbombTriggered = "Bomba aerosol con timer",
-    ItemName_Base.AlarmClock = "Sveglia",
-    ItemName_Base.WaterBottleEmpty = "Bottiglia vuota",
-    ItemName_Base.WaterBottleFull = "Bottiglia d'acqua",
-    ItemName_Base.WaterBowl = "Scodella d'acqua",
-    ItemName_Base.WaterDish = "Piatto con acqua",
-    ItemName_Base.WaterDrop = "Goccia d'acqua",
-    ItemName_Base.WaterMug = "Tazza d'acqua",
-    ItemName_Base.WaterPopBottle = "Bottiglia d'acqua",
-    ItemName_Base.WaterPot = "Pentola con acqua",
-'''
-import os
-dir_path = os.path.dirname(os.path.realpath(__file__))
-cwd = os.getcwd()
-print(dir_path)
-print(cwd)
-file = open(r'IT/ItemName_IT.txt', 'r+', encoding='utf8')
-for line in file.readlines():
-    print(line)
+"""
+This file is a script I'm trying to make to make my work a bit faster. Still work in progress, I'm not sure if I'll improve it.
+Produces a new file from which you can copy and append to the translation file you want to improve
+"""
+import pprint
+pp = pprint.PrettyPrinter(indent=4)
+
+def make_translation_dict(path):
+    file = open(path, 'r+', encoding='utf8')
+    lines = [line.strip() for line in file.readlines()]
+    finaldict = {line.split('=')[0].strip(' ') : line.split('=')[1].strip(' ') for line in lines[1:] if '= 'in line}
+    return finaldict
+
+
+def subtraction(t1, t2):
+    finaldict = {k : "" for k in t1 if not k in t2}
+    return finaldict
+
+
+def translate(m, e):
+    n = {}
+    for key in m:
+        eng = e[key]
+        stop = False
+        while True:
+            print(f'Traduci: {eng.strip()} - ({key})')
+            i = input()
+            if i.lower() == '/stop':
+                print("Smettere?")
+                r = input()
+                if r.lower() == "y":
+                    stop = True
+                    break
+                elif r.lower() == "n":
+                    pass
+            print(f'Tradurre "{eng.replace(",","")}" con "{i}" ({key})?')
+            r = input()
+            if r.lower() == "":
+                n[key] = i
+                print('Salvato')
+                break
+            elif r.lower() == "n":
+                continue
+            if i.lower() == '/stop':
+                print("Smettere?")
+                r = input()
+                if r.lower() == "y":
+                    stop = True
+                    break
+                elif r.lower() == "n":
+                    pass
+            else:
+                pass
+        if stop == True:
+            break
+    return n
+
+
+if __name__ == '__main__':
+    translated_file = 'IT/ItemName_IT.txt'
+    english_file = 'EN/ItemName_EN.txt'
+    translated = make_translation_dict(translated_file)
+    english = make_translation_dict(english_file)
+    missing = subtraction(english, translated)
+    new = translate(missing, english)
+    pp.pprint(new)
+    file =  open('new_for_'+translated_file.split('/')[1], 'w+')
+    for k in new:
+        file.write(f'{k} = "{new[k]}",\n')
+    file.close()
