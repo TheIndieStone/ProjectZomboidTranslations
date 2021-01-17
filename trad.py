@@ -5,7 +5,8 @@ Produces a new file from which you can copy and append to the translation file y
 import pprint
 
 pp = pprint.PrettyPrinter(indent=4)
-
+file_to_translate = 'IT/ItemName_IT.txt'
+english_file = file_to_translate.replace('IT', 'EN')
 
 def make_translation_dict(path):
     file = open(path, 'r+', encoding='utf8')
@@ -13,16 +14,18 @@ def make_translation_dict(path):
     finaldict = {line.split('=')[0].strip(' '): line.split('=')[1].strip(' ') for line in lines[1:] if '= ' in line}
     return finaldict
 
+english = make_translation_dict(english_file)
+
 
 def subtraction(t1, t2):
     finaldict = {k: "" for k in t1 if not k in t2}
     return finaldict
 
 
-def translate(m, e):
+def translate(m):
     n = {}
     for key in m:
-        eng = e[key]
+        eng = english[key]
         stop = False
         while True:
             print(f'Traduci: {eng.strip()} - ({key})')
@@ -58,13 +61,22 @@ def translate(m, e):
     return n
 
 
+def review(t):
+    for k in t:
+        print(f'La traduzione di {english[k]} è {t[k]}?')
+        r = input().lower()
+        if r == 'y':
+            pass
+        if r == 'n':
+            print('Inserisci la traduzione giusta')
+            n = input()
+            t[k] = n
+
+
 if __name__ == '__main__':
-    file_to_translate = 'IT/ItemName_IT.txt'
-    english_file = 'EN/ItemName_EN.txt'
     translated = make_translation_dict(file_to_translate)
-    english = make_translation_dict(english_file)
     missing = subtraction(english, translated)
-    new = translate(missing, english)
+    new = translate(missing)
     pp.pprint(new)
     file = open('new_for_' + file_to_translate.split('/')[1], 'w+')
     for k in new:

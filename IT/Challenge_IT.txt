@@ -22,17 +22,17 @@
 	Challenge_OpeningHours_desc = "Il centro commerciale è circondato. Una volta era un luogo importante nelle loro vite. L'istinto li ha spinti alle sue porte. Un pallido ricordo di quello che facevano una volta... <LINE> <LINE> Sei da solo, ma non per molto. Alle 09.00 il Centro Commerciale sarà aperto: le porte si spalancheranno e le orde si riverseranno al suo interno. <LINE> <LINE> Sii pronto.",
 	Challenge_OpeningHours_name = "2. Orario di apertura",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> In tre giorni comincia l'inverno perpetuo. <LINE> <LINE> Copriti bene...",
-	Challenge_WinterIsComing_desc = "È metà Luglio, ma improvvisamente l'aria si fa fredda. In soli tre giorni sarà inverno, come non è mai successo prima. <LINE> <LINE> Ti svegli in un luogo isolato. Hai poche provviste, e le orde di non morti potrebbero essere rallentate dal freddo intenso... tuttavia questo non le renderà meno letali. <LINE> <LINE> Copriti bene, sopravvissuto...",
+	Challenge_WinterIsComing_desc = "è metà Luglio, ma improvvisamente l'aria si fa fredda. In soli tre giorni sarà inverno, come non è mai successo prima. <LINE> <LINE> Ti svegli in un luogo isolato. Hai poche provviste, e le orde di non morti potrebbero essere rallentate dal freddo intenso... tuttavia questo non le renderà meno letali. <LINE> <LINE> Copriti bene, sopravvissuto...",
 	Challenge_WinterIsComing_name = "3. Arriva l'inverno",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> In 24 ore la tua gita nella Contea di Knox diventerà l'inferno in terra...",
 	Challenge_YouHaveOneDay_desc = "Sei tornato nella Contea di Knox. Sei tornato dove l'infezione di Project Zomboid è cominciata. <LINE> <LINE> Hai un solo giorno di relativa sicurezza. Gli zombie arriveranno in massa, e ti troveranno. Dov'è che eri abituato a barricarti ai vecchi tempi? Meglio trovarlo in fretta. <LINE> <LINE> [Grazie al Community mapper BobHeckling per aver ricreato la vecchia mappa 0.1.5 con l'attuale toolset di PZ.]",
 	Challenge_YouHaveOneDay_name = "1. Hai un giorno",
 	
 	Challenge_AReallyCDDAy_name = "6. Una pessima giornata",
-	Challenge_AReallyCDDAy_desc = "Esci dalla doccia e cadi malamente. Sei ubriaco fradicio ed hai un brutto raffreddore. <LINE> Come se non bastasse, la casa sta bruciando! Oggi non è proprio il tuo giorno. <LINE> <LINE> [Una sfida ispirata a A Really Bad Day dallo splendido, incredibile e ASSOLUTAMENTE da giocare Cataclysm: Dark Days Ahead] ",
+	Challenge_AReallyCDDAy_desc = "Esci dalla doccia e cadi malamente. Sei ubriaco fradicio ed hai un brutto raffreddore. <LINE> Come se non bastasse, la casa sta bruciando! Oggi non è proprio la tua giornata. <LINE> <LINE> [Una sfida ispirata a A Really Bad Day dallo splendido, incredibile e ASSOLUTAMENTE da giocare Cataclysm: Dark Days Ahead] ",
 
 	Challenge_Challenge1_name = "4. Capanna nella foresta - Ultimo Baluardo",
-	Challenge_Challenge1_desc = "Riesci a sentirli avvicinarsi. Orde di non morti invadono da ogni lato la tua capanna isolata. La morte è inevitabile, ma hai a portata di mano un fucile. <LINE> <LINE> Ultimo Baluardo si basa su ondate infinite di zombie in numero crescente. Sopravvivi più a lungo che puoi contro ogni probabilità.",
+	Challenge_Challenge1_desc = "Riesci a sentirli avvicinarsi. Orde di non morti invadono da ogni lato la tua capanna isolata. La morte è inevitabile, ma hai a portata di mano un fucile. <LINE> <LINE> Ultimo Baluardo si basa su ondate infinite di zombie in numero crescente. Sopravvivi pi? a lungo che puoi contro ogni probabilità.",
 
 	Challenge_Challenge2_name = "5. Capanna nella foresta - Ultimo Baluardo (Accumulatore)",
 	Challenge_Challenge2_desc = "Un altro giorno, un'altra capanna pronta ad essere insanguinata.Le orde ti sono alle calcagna e la tua morte sarà tanto dolorosa quanto violenta. Quindi esci a combattere... <LINE> <LINE> Ultimo Baluardo - Accumulatore si basa su ondate infinite di zombie in numero crescente. Usa i soldi ottenuti uccidendo gli zombie per comprare equipaggiamenti, salire di livello e riparare le tue armi incrostate di sangue.",
