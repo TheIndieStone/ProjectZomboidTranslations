@@ -274,7 +274,7 @@ Recipes_CN = {
     Recipe_Slice_Ham = "火腿切片",
     Recipe_Slice_Pie = "馅饼切片",
     Recipe_Slice_Watermelon = "西瓜切片",
-    Recipe_Smash_Bottle = "敲碎瓶子",
+    Recipe_Smash_Bottle = "敲碎酒瓶",
     Recipe_Smash_Watermelon = "敲碎西瓜",
     Recipe_Unstack_Logs = "解绑原木",
 	--Add Text--
