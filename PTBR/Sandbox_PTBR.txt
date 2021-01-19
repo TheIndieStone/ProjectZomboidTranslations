@@ -548,4 +548,5 @@ Sandbox_PTBR = {
     Sandbox_ZombiesDragDown_tooltip = "Quando ativado, os zumbis podem puxar o jogador ao chão para se alimentarem. Dependente da força dos zumbis.",
     Sandbox_ZombiesFenceLunge = "Investida de Cerca",
     Sandbox_ZombiesFenceLunge_tooltip = "Quando habilitado, zumbis terão uma chance de dar uma investida após atravessar uma cerca, se você estiver perto.",
+    Sandbox_ZoneStoryChance = "Chance de Histórias Aleatórias",
 }
