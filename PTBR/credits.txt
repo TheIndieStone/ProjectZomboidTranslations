@@ -1,5 +1,4 @@
--nue
--ZonaryQuasar
+ZonaryQuasar
 
 -HiveFuse:
 Bruno Duarte Machado (DuMa)
