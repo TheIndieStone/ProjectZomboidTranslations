@@ -696,5 +696,8 @@ Moveables_CN = {
     Wooden_Picket = "木栅栏",
     Wooden_Stairs = "木楼梯",
 
+	--Add Text--
+	Pinewood_Floor = "松木地板",
+
 }
 
