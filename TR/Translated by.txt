@@ -3,7 +3,7 @@ Update history
 Build-39.68
 Turkish translation by DemirHerif
 -----------------------------------
-Emeğe saygı duymak bir erdemdir.
+EmeÄŸe saygÄ± duymak bir erdemdir.
 Hepinize iyi oyunlar :)
 -----------------------------------
 It is a virtue to respect to labor.

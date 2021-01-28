@@ -1,6 +1,6 @@
 EvolvedRecipeName_DE = {
     EvolvedRecipeName_Base.CannedBologneseOpen = "Dosen-Bolognese",
-    EvolvedRecipeName_Base.CannedCarrotsOpen = "Dosen-Möhren",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Dosen-MÃ¶hren",
     EvolvedRecipeName_Base.CannedChiliOpen = "Dosen-Chili",
     EvolvedRecipeName_Base.CannedCornOpen = "Dosen-Mais",
     EvolvedRecipeName_Base.CannedCornedBeefOpen = "Dosen Corned Beef",

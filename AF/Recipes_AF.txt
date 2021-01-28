@@ -14,7 +14,7 @@
     Recipe_Open_Tomato_Seed_Packet = "Oop Tamatie Saad Pakkie",
     Recipe_Open_Potato_Seed_Packet = "Oop Aartappel Saad Pakkie",
     Recipe_Open_Cabbage_Seed_Packet = "Oop Kool Saad Pakkie",
-    Recipe_Craft_Spiked_Bat = "Handwerk Puntig Vlêrmuis",
+    Recipe_Craft_Spiked_Bat = "Handwerk Puntig VlÃªrmuis",
     Recipe_Sawn-off = "Afgesaagde",
     Recipe_Craft_Spiked_Plank = "Handwerk puntig Plank",
     Recipe_Empty_Whisky_Bottle = "Leeg Whiskey Bottel",
