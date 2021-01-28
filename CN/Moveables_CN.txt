@@ -698,6 +698,8 @@ Moveables_CN = {
 
 	--Add Text--
 	Pinewood_Floor = "松木地板",
-
+	Corner_B_Shelves = "货架（右）",
+	Corner_A_Shelves = "货架（左）",
+	Middle_Shelves = "货架（中）",
 }
 
