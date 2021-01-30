@@ -1,13 +1,13 @@
 EvolvedRecipeName_RU = {
-	EvolvedRecipeName_Base.CannedBologneseOpen = "Консерв. болоньезе",
-	EvolvedRecipeName_Base.CannedCarrotsOpen = "Консерв. морковь",
-	EvolvedRecipeName_Base.CannedChiliOpen = "Консерв. мясо с чили",
-	EvolvedRecipeName_Base.CannedCornOpen = "Консерв. кукуруза",
-	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Консерв. говядина",
-	EvolvedRecipeName_Base.CannedPeasOpen = "Консерв. горох",
-	EvolvedRecipeName_Base.CannedPotatoOpen = "Консерв. картофель",
-	EvolvedRecipeName_Base.CannedSardinesOpen = "Консерв. сардины",
-	EvolvedRecipeName_Base.CannedTomatoOpen = "Консерв. томат",
-	EvolvedRecipeName_Base.Teabag2 = "Чай",
+	EvolvedRecipeName_Base.CannedBologneseOpen = "РљРѕРЅСЃРµСЂРІ. Р±РѕР»РѕРЅСЊРµР·Рµ",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "РљРѕРЅСЃРµСЂРІ. РјРѕСЂРєРѕРІСЊ",
+	EvolvedRecipeName_Base.CannedChiliOpen = "РљРѕРЅСЃРµСЂРІ. РјСЏСЃРѕ СЃ С‡РёР»Рё",
+	EvolvedRecipeName_Base.CannedCornOpen = "РљРѕРЅСЃРµСЂРІ. РєСѓРєСѓСЂСѓР·Р°",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "РљРѕРЅСЃРµСЂРІ. РіРѕРІСЏРґРёРЅР°",
+	EvolvedRecipeName_Base.CannedPeasOpen = "РљРѕРЅСЃРµСЂРІ. РіРѕСЂРѕС…",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "РљРѕРЅСЃРµСЂРІ. РєР°СЂС‚РѕС„РµР»СЊ",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "РљРѕРЅСЃРµСЂРІ. СЃР°СЂРґРёРЅС‹",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "РљРѕРЅСЃРµСЂРІ. С‚РѕРјР°С‚",
+	EvolvedRecipeName_Base.Teabag2 = "Р§Р°Р№",
 }
 

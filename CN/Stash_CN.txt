@@ -1,10 +1,10 @@
 ﻿Stash_CN = {
-	Stash_AnnotedMap = "地图 （带注记）",
+	Stash_AnnotedMap = "带注释的地图",
 	Stash_MulMap1_Text1 = "这里的地板下藏有某些东西。",
 	Stash_MulMap1_Text2 = "斧头？",
-	Stash_MulMap1_Text3 = "非常危险？",
+	Stash_MulMap1_Text3 = "一群僵尸？",
 	Stash_MulMap2_Text1 = "远离这里！",
-	Stash_MulMap2_Text2 = "储存了某些东西。",
+	Stash_MulMap2_Text2 = "储藏室。",
 	Stash_MulMap2_Text3 = "大量的僵尸！",
 	Stash_MulMap3_Text1 = "这里藏着霰弹枪和弹药，不过你得花一番功夫才能找到！",
 	Stash_MulMap3_Text2 = "一些工具！",
