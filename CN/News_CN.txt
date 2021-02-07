@@ -1,9 +1,5 @@
 [VERSION] 41.40 - IWBUMS
 
-[BOLD] 完全人工翻译请关注B站专栏文集：
-[BOLD] https://www.bilibili.com/read/readlist/rl209233
-
-
 [NEWS] - [BOLD] 新增内容：
 
 [BOLD] 新增内容：
