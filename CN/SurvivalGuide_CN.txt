@@ -1,6 +1,6 @@
 SurvivalGuide_CN = {
 	SurvivalGuide_entrie1title = "生存指南 #1 - 角色控制",
-	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来,并且学习基础知识,你就活不了多久.",
+	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来,并且学习基础知识,<br>你就活不了多久.",
 	SurvivalGuide_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在僵尸毁灭工程中,使用WASD键来移动.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
             "按住左SHIFT键可以加速奔跑. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
             "战斗 <BR> <TEXT> 想要攻击僵尸,你需要先按住鼠标右键进入攻击姿态后才能进行攻击动作. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  按住鼠标右键进入攻击姿态的同时, 使用鼠标箭头瞄准准备攻击的方向.不过更好的方法是同时再使用WASD键来保持自己在不断移动中攻击来防范僵尸的攻击."..
@@ -10,7 +10,7 @@ SurvivalGuide_CN = {
             " <LINE> <H2> 互动菜单 <BR> <TEXT> 在物体上点击鼠标右键,可以打开物体的互动菜单,例如制作,拆解等. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
 
 	SurvivalGuide_entrie2title = "生存指南 #2 - 不要乱跑",
-	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #2 - 不要乱跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> 你发出的动静越大,僵尸发现你的概率也越大.当然,你也会死的更快.",
+	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #2 - 不要乱跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> 你发出的动静越大,僵尸发现你的概率也越大.<br>当然,你也会死的更快.",
 	SurvivalGuide_entrie2moreinfo = " <H1> 僵尸知觉 <BR> <TEXT> 在生存模式中,僵尸有视力以及听力. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 跑步会制造噪音,引起僵尸的注意. <BR> 你能比僵尸跑得快,但那不长久. <BR> "..
     " 一个明智的玩家会善用左CTRL键 (或者你觉得鼠标右键更顺手). 进入攻击姿态模式.攻击姿态会放慢你的脚步,并且让你有充分的时间观察四周.且在遭遇僵尸时可以进行快速攻击 <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> 僵尸毁灭工程不是一个竞速类游戏.请隐藏好自己.僵尸只有想吃掉你一种想法.",
 
@@ -30,7 +30,7 @@ SurvivalGuide_CN = {
             " <H1> 木工 <BR> <TEXT>当你找到更多资源和更好的铁锤,你便可以构建一个更加坚固的防御工事.只需在想要建筑的地面上按右键即可显示建筑条目.进行木工工作时必须随身携带铁锤. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 在这里,你可以选择任何你当前技能和材料能制作出来的物品. <BR> 当选择好要建筑的物品后,你可以用鼠标移动它,你可以用鼠标移动它,决定好理想位置后再按左键摆放. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 制作不会瞬间完成.PZ是个偏向现实的游戏,如果你曾经当过建筑工你就会明白这些东西需要时间. (请注意,如果有帮助的话,我们确实允许您在游戏中制作几杯茶). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 在你摆放打造的物品前可以按R键来旋转它. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 切记: 你打造得越多,你的手艺就会越好.更高的技能水平意味着更高质量的产品,产品也更为有用.",
 
 	SurvivalGuide_entrie6title = "生存指南 #6 - 防止偷窥",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 防止偷窥 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们可能已经死了,但它们还是能看透窗户. <LINE> <LINE> 没有窗帘? 赶快动手吧. ",
+	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 防止偷窥 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们可能已经死了,<br>但它们还是能看透窗户. <LINE> <LINE> 没有窗帘? 赶快动手吧. ",
 	SurvivalGuide_entrie6moreinfo = " <H1> 阻挡它们的视线 <BR> <TEXT> 在僵尸末日中一个最常见的错误就是让窗帘开着.忘记关窗帘后果是致命性的,游荡的僵尸会发现并杀死你. <BR> 要关闭窗帘或百叶窗: 用右键菜单. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗户也能阻止僵尸看到光线和动静. <BR> 如果那没有窗帘,而你又没有备用木板,或许有什么其他东西可以代替?来吧,找找看.",
 
 	SurvivalGuide_entrie7title = "生存指南 #7 - 美味佳肴",
@@ -41,7 +41,7 @@ SurvivalGuide_CN = {
 			" <H1> 不作不死 <BR> <TEXT>在任何时候都请小心翼翼,作死会让你丢失所有物品和当前人物所有技能.",
 
 	SurvivalGuide_entrie8title = "生存指南 #8 - 囤积物资",
-	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #8 - 囤积物资 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 目的明确的收集物资可以节省您的时间甚至救你一命!",
+	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #8 - 囤积物资 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 目的明确的收集物资可以节省您的时间<br>甚至救你一命!",
 	SurvivalGuide_entrie8moreinfo = " <H1> 选择 <BR> <TEXT> 怎样去拿,取出,丢掉和使用呢?在僵尸毁灭工程里我们大部分时间都在做这些动作! <BR> 主要方法就是直接用滑鼠拉放物品 - 或者可以按右键选择菜单. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
             " 按住LSHIFT可以同时选择多样物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者,你可以直接按住左键拉出一个大正方型去选择一个范围. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
             " 或者快速地按左键两下来进行拾取.或者在按物品栏右边的按钮. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  喔,如果你想一键拾取所有东西,这里还一个拾取全部的选择. <LINE> "..
