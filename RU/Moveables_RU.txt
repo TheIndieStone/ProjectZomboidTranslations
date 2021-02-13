@@ -671,6 +671,16 @@ Moveables_RU = {
 	Zippee_Market_Sign = "Вывеска: Магазин газет",
 	Zippee_Shelves_Rack = "Стеллаж: газетный",
 	Zippee_Wall_Shelves = "Полка: двойная для газет",
+	Bar_Tap_Antique = "Барный кран: антикварный",
+	Generic_Cooled_Shelves = "Охлаждаемые полки",
+	Small_Crate = "Маленький ящик",
+	Small_Wide_Mirror = "Маленькое широкое зеркало",
+	Spiffos_Type_A_Table = "Стол: «Spiffo», тип A",
+	Spiffos_Type_B_Table = "Стол: «Spiffo», тип B",
+	Type_A_Blue_Cubicle = "Шкафчик синий, тип A",
+	Type_A_Grey_Cubicle = "Шкафчик серый, тип A",
+	Type_B_Blue_Cubicle = "Шкафчик синий, тип B",
+	Type_B_Grey_Cubicle = "Шкафчик серый, тип B",
 	
 	
 	-- ISMoveableSpriteProps names

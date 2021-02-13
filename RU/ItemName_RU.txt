@@ -1507,4 +1507,5 @@ ItemName_RU = {
 	ItemName_Base.Shirt_FormalWhite_ShortSleeveTINT = "Рубашка с коротким рукавом",
 	ItemName_Base.Suit_JacketTINT = "Пиджак",
 	ItemName_Base.Vest_WaistcoatTINT = "Жилет",
+	ItemName_Base.Hairgel = "Гель для волос",
 }
