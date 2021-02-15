@@ -296,6 +296,9 @@ Recipes_CN = {
 	Recipe_Advanced_Mechanics = "莱恩斯汽车手册-性能车型",
 	Recipe_Basic_Mechanics = "莱恩斯汽车手册-标准车型",
 	Recipe_Intermediate_Mechanics = "莱恩斯汽车手册-商用车型",
-	
+	Recipe_Make_Metal_Fences = "制作金属栅栏",
+	Recipe_Make_Metal_Containers = "制作金属容器",
+	Recipe_Make_Metal_Walls = "制作金属墙",
+	Recipe_Make_Metal_Roof = "制作金属屋顶",
 	
 } 
