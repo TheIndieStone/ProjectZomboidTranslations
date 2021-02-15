@@ -372,7 +372,7 @@ IGUI_CN = {
 
 -- Tutorial Stuff
     IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> 欢迎来到僵尸毁灭工程! <LINE> <LINE> <SIZE:medium> 不久你就会发现死亡的可怕. 没人会哀悼你, 甚至没人会记得你. 一切都将与你无关! <LINE> <LINE> 现在我们开始吧! <LINE> <LINE> (按空格键继续)",
-	IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> 首先你可以使用鼠标滚轮或者 %1/%2 键缩放可视范围大小. <LINE> <LINE> 所以不要只用较小的可视范围去观察,你会死的很惨的. <LINE> <LINE> 请记得善用滚轮来调整视野大小! <LINE> <LINE> (缩放成远景)",
+	IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> 首先你可以使用鼠标滚轮或者键盘上的 %1 / %2 键缩放可视范围大小. <LINE> <LINE> 所以不要只用较小的可视范围去观察,你会死的很惨的. <LINE> <LINE> 请记得善用滚轮来调整视野大小! <LINE> <LINE> (缩放成远景)",
     IGUI_Tutorial1_Welcome2Joypad = " <CENTRE> <SIZE:medium> 首先: 你可以缩放!. <LINE> <IMAGE:media/ui/backbutton.png> 可以使用菜单. <LINE> <LINE> 让我们鸟瞰你的最终归宿之地 - 凄凉且孤独! <LINE> <LINE> <SIZE:large> 退出缩放请选择菜单中的 - 图标!",
 	IGUI_Tutorial1_Welcome3 = " <CENTRE> <SIZE:medium> 太棒了! <LINE> <LINE> 让我们来看看角色信息. <LINE> <LINE> <SIZE:large> 点击左侧闪烁的心型图标!",
 	IGUI_Tutorial1_Welcome4 = " <CENTRE> <SIZE:medium> 在这里你能看到自己的健康状态. <LINE> <LINE> 比如刮伤,咬伤,流血,骨折等! <LINE> <LINE> 此页面也可以用来实施包扎和治疗伤口的动作. <LINE> <LINE> (按空格键继续)",
