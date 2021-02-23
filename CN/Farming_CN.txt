@@ -1,8 +1,8 @@
 Farming_CN = {
   -- vegetables name (type of seed)
   Farming_Carrots = "胡萝卜",
-  Farming_Broccoli = "花椰菜",
-  Farming_Radishes = "萝卜",
+  Farming_Broccoli = "西兰花",
+  Farming_Radishes = "红萝卜",
   Farming_Strawberry_plant = "草莓",
   Farming_Tomato_Vine = "番茄",
   Farming_Potatoes = "土豆",
