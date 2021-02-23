@@ -704,5 +704,9 @@ Moveables_CN = {
 	Oak_Left_Bar = "酒吧橡木货架（左）",
     Oak_Middle_Bar = "酒吧橡木货架（中）",
     Oak_Right_Bar = "酒吧橡木货架（右）",
+	Blue_Canopy = "蓝色遮挡棚",
+	Large_Wide_Mirror = "大型宽镜",
+	Pallet_With_Bricks = "砖块托盘",
+	
 }
 
