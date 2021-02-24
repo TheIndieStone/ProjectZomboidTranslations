@@ -707,6 +707,6 @@ Moveables_CN = {
 	Blue_Canopy = "蓝色遮挡棚",
 	Large_Wide_Mirror = "大型宽镜",
 	Pallet_With_Bricks = "砖块托盘",
-  Big_Wall_Spiffo = "斯皮福大壁纸",
+	Big_Wall_Spiffo = "斯皮福大壁纸",
 }
 
