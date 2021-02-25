@@ -1,4 +1,4 @@
-UI_ES = {
+UI_CT = {
     UI_Alarm = "Alarma",
     UI_All = "Todos",
     UI_BeardChops = "Patillas",
