@@ -1256,6 +1256,9 @@ IGUI_RU = {
 	IGUI_TrailerAttachName_trailerfront = "(спереди)",
 	IGUI_ToggleAutoProneAtk = "Автоопределение направления удара",
 	IGUI_ToggleAutoProneAtkTooltip = "Если отключено, то для атаки лежачих зомби вам придётся при ударе удерживать %1 (при этом вы всё ещё сможете топтать их с помощью %2)",
+	IGUI_Chart = "График",
+	IGUI_Chart_Packets = "График пакетов",
+	IGUI_health_Bullet = "от пуль",
 	
 	-- For Gamepad Build
 	IGUI_Game_Action_Main_Menu_Binding = "Игровое меню",

@@ -564,4 +564,12 @@ Sandbox_RU = {
 	Sandbox_ZombiesFenceLunge = "Удар из-под забора",
 	Sandbox_ZombiesFenceLunge_tooltip = "Если включено - зомби сможет нанести удар после перелезания через забор, когда вы будете слишком близко.",
 	Sandbox_ZoneStoryChance = "Шанс появления «историй»",
+	Sandbox_ZCrawlUnderVehicle = "Зомби проползают под машинами",
+	Sandbox_ZCrawlUnderVehicle_option1 = "Никогда",
+	Sandbox_ZCrawlUnderVehicle_option2 = "Очень редко",
+	Sandbox_ZCrawlUnderVehicle_option3 = "Редко",
+	Sandbox_ZCrawlUnderVehicle_option4 = "Иногда",
+	Sandbox_ZCrawlUnderVehicle_option5 = "Часто",
+	Sandbox_ZCrawlUnderVehicle_option6 = "Очень часто",
+	Sandbox_ZCrawlUnderVehicle_option7 = "Всегда",
 }

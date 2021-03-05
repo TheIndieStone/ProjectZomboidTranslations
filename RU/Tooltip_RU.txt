@@ -256,4 +256,7 @@ Tooltip_RU = {
 	Tooltip_TooMuchPainFitness = "Слишком сильная боль для занятия фитнесом",
 	Tooltip_RemoveBrokenGlassNoItem = "Требуется предмет в левой руке",
 	Tooltip_Recipe_HockeyMaskSmashBottle = "Требуется надеть хоккейную маску.<br>Используйте осторожно!",
+	Tooltip_BulletDefense = "Защита от пуль",
+	Tooltip_requireHairGel = "Требуется гель для волос",
+	Tooltip_food_CookToRemoveUnhappiness = "Приготовьте, чтобы избежать несчастья",
 }

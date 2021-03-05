@@ -174,6 +174,7 @@ GameSound_RU = {
 	GameSound_OldMusic_long_ambient = "Ранний доступ: Окружение (долгая)",
 	GameSound_OldMusic_piano = "Ранний доступ: Окружение (пианино)",
 	GameSound_OldMusic_raider = "Ранний доступ: Окружение (рейдер)",
+	GameSound_NewMusic_KeepMoving = "Официальная: Продолжай движение",
 	
 	/* Object. */
 	GameSound_Category_Object = "Объекты",
@@ -377,4 +378,6 @@ GameSound_RU = {
 	GameSound_ZombieFootstepsCombined = "Шаги зомби",
 	GameSound_ZombieSurprisedPlayer = "Обнаружение зомби",
 	GameSound_TutorialZombie = "Зомби из учебника",
+	GameSound_FemaleZombieReanimate = "Женщина-зомби оживает",
+	GameSound_MaleZombieReanimate = "Мужчина-зомби оживает",
 }

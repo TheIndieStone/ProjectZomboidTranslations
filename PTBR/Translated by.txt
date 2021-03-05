@@ -1,3 +1,7 @@
+- Build: 41.50
+  Date: 18/01/2021
+  ZonaryQuasar/nue
+
 - Build: 41.45
   Date: 21/10/2020
   ZonaryQuasar

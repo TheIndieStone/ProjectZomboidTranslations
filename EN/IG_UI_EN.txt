@@ -1258,4 +1258,6 @@ IGUI_EN = {
     IGUI_TrailerAttachName_trailer = "(Rear)",
     IGUI_TrailerAttachName_trailerfront = "(Front)",
     IGUI_PlayerText_NoWayToTrailer = "I can't find a way to the trailer.",
+	IGUI_Chart = "Chart",
+	IGUI_Chart_Packets = "Chart Packets",
 }

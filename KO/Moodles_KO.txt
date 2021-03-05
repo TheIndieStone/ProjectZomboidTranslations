@@ -51,10 +51,10 @@ Moodles_KO = {
     Moodles_panic_lvl4 = "공황상태",
 
 	-- Sick
-    Moodles_sick_lvl1 = "나른함",
-    Moodles_sick_lvl2 = "미열",
-    Moodles_sick_lvl3 = "고열",
-    Moodles_sick_lvl4 = "불덩이",
+	Moodles_sick_lvl1 = "속이 안좋음",
+	Moodles_sick_lvl2 = "메스꺼움",
+	Moodles_sick_lvl3 = "아픔",
+	Moodles_sick_lvl4 = "고열",
 
 	-- Bored
     Moodles_bored_lvl1 = "심심함",
@@ -194,10 +194,10 @@ Moodles_KO = {
     Moodles_bleed_desc_lvl3 = "힘과 이동속도가 크게 저하됨.",
     Moodles_bleed_desc_lvl4 = "사망 직전.",
 	-- Wet
-    Moodles_wet_desc_lvl1 = "죽기 싫으면 비를 피하십시오.",
-    Moodles_wet_desc_lvl2 = "속도가 조금 저하됨.",
-    Moodles_wet_desc_lvl3 = "속도가 저하되고 감기에 걸릴 확률이 있음.",
-    Moodles_wet_desc_lvl4 = "속도가 크게 저하되고 감기에 걸릴 확률이 증가.",
+    Moodles_wet_desc_lvl1 = "약간 축축하다. 비인가? 땀인가?",
+    Moodles_wet_desc_lvl2 = "축축하다. 땀이 많이나는건가? 비가 많이 오는건가?",
+    Moodles_wet_desc_lvl3 = "감기에 걸릴 것 같다.",
+    Moodles_wet_desc_lvl4 = "몹시 감기에 걸릴 것 같다.",
 	-- Has a cold
     Moodles_hasacold_desc_lvl1 = "가끔씩 재채기를 함.",
     Moodles_hasacold_desc_lvl2 = "자꾸만 재채기를 함.",
