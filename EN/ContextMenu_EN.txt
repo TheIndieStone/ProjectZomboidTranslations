@@ -81,6 +81,8 @@ ContextMenu_EN = {
 	ContextMenu_Smoke = "Smoke",
 	ContextMenu_Chop_Tree = "Cut down Tree"
 	ContextMenu_WaterName = "Water",
+	ContextMenu_WaterSource = "Water source"
+	Puddle = "Puddle"
 	-- Crafting menu
 	ContextMenu_Door = "Door",
 	ContextMenu_Stairs = "Stairs",
