@@ -8,5 +8,5 @@ EvolvedRecipeName_PTBR = {
     EvolvedRecipeName_Base.CannedPotatoOpen = "Lata de Batata",
     EvolvedRecipeName_Base.CannedSardinesOpen = "Lata de Sardinha",
     EvolvedRecipeName_Base.CannedTomatoOpen = "Lata de Tomate",
-    EvolvedRecipeName_Base.Teabag2 = "Ch·",
+    EvolvedRecipeName_Base.Teabag2 = "Ch√°",
 }

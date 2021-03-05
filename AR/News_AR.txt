@@ -1,84 +1,84 @@
 [VERSION] 38.19
 [NEWS]
-[BOLD]°Nueva zona aÒadida! La ciudad de Riverside, el cercano Knox Heights Country Club, Spa y Campo de Golf, y muchas y variadas ·reas silvestres est·n preparadas para la exploraciÛn.
-[DOT2]Se encuentra al oeste de West Point y tiene un tamaÒo similar.
+[BOLD]¬°Nueva zona a√±adida! La ciudad de Riverside, el cercano Knox Heights Country Club, Spa y Campo de Golf, y muchas y variadas √°reas silvestres est√°n preparadas para la exploraci√≥n.
+[DOT2]Se encuentra al oeste de West Point y tiene un tama√±o similar.
 [DOT2]Contiene nuevos tipos de edificios, arquitectura y baldosas.
 [DOT2]Incluye el mapa de Riverside.
-[BOLD]ActualizaciÛn de la vista del mundo.
-[DOT2]Las casas, los negocios, las vallas publicitarias y los exteriores se ven ahora en todo su esplendor, incluidos los techos. Los niveles de construcciÛn por encima del jugador se ocultan SOLAMENTE para el "edificio actual".
-[DOT2]Las ventanas ahora se deben revisar acerc·ndose a ellas y mirando a travÈs de las mismas.
+[BOLD]Actualizaci√≥n de la vista del mundo.
+[DOT2]Las casas, los negocios, las vallas publicitarias y los exteriores se ven ahora en todo su esplendor, incluidos los techos. Los niveles de construcci√≥n por encima del jugador se ocultan SOLAMENTE para el "edificio actual".
+[DOT2]Las ventanas ahora se deben revisar acerc√°ndose a ellas y mirando a trav√©s de las mismas.
 [DOT2]Los niveles superiores que bloqueaban tu vista se eliminan al acercarte o cuando hay zombies cercanos.
-[DOT2]Las paredes exteriores ya no son transparentes cuando est·s fuera a menos que estÈn bloqueando la vista de tu personaje.
+[DOT2]Las paredes exteriores ya no son transparentes cuando est√°s fuera a menos que est√©n bloqueando la vista de tu personaje.
 [BOLD]Mejoras en Multijugador y Cooperativo.
-[DOT2]Los datos de ubicaciÛn y movimiento de zombies compartidos entre los jugadores est·n mejor optimizados para tratar los casos de lag, teletransportaciÛn, mordiscos injustificados y tensiÛn general del servidor.
-[DOT2]OpciÛn de pausa 'Server Save' para servidores m·s grandes que detiene la acciÛn al guardar, reduciendo las ocasiones de lag repentino en los zombies.
-[DOT2]AÒadido un botÛn "Subir de nivel" en la interfaz de estadÌsticas del jugador para subir r·pidamente el nivel de una habilidad sin usar el punto global.
-[DOT2]AÒadida una interfaz para administradores para gestionar el inventario del jugador.
-AÒadida una forma f·cil para que los modders aÒadan columnas a sus listas de desplazamiento.
-AÒadida opciones de "zona muerta" a la configuraciÛn del mando para aliviar los problemas que sufren los jugadores al dormir.
-[BOLD]GestiÛn de cad·veres.
-[DOT2]Ahora puedes cavar tumbas con una pala y enterrar m˙ltiples cad·veres en su interior.
-[DOT2]Nuevas elaboraciones en carpinterÌa: una cruz de madera, un hito y un piquete conmemorativo para colocar junto a las tumbas que caves.
-[DOT2]Grandes montones de cad·veres podridos har·n sentirte enfermo y triste si permaneces cerca de ellos por largos perÌodos de tiempo.
-[BOLD]AÒadidas nuevas opciones de mundo personalizado:
-[DOT2]ApariciÛn de generadores: aumenta/disminuye la probabilidad de que los generadores elÈctricos aparezcan en el mapa.
-[DOT2]Consumo de combustible del generador: afecta a la cantidad de combustible que consumen los generadores. Un generador que no necesita combustible debe ser puesto a 0.0. (Sustituye a la opciÛn de servidor GeneratorFuelConsumption).
-[DOT2]Posibilidad aleatorizada de casa: aumenta/disminuye la probabilidad de descubrir casas seguras aleatorias en el mapa: quemadas, que contienen escondites de botÌn, cad·veres de supervivientes muertos, etc.
-[DOT2]Mapa anotado: ajusta la frecuencia con que un mapa saqueado tendr· anotaciones marcadas en Èl por un superviviente muerto.
-[DOT2]DaÒo en construcciÛn por zombies: determina si los zombies pueden o no destruir las construcciones y defensas de los jugadores.
-[DOT2]Puntos de rasgos gratis: aÒade puntos gratis durante la creaciÛn de personajes.
-[DOT2]Resistencia de construcciÛn por el jugador: proporciona a las construcciones del jugador puntos de impacto adicionales para que sean m·s resistentes a los daÒos de los zombies.
-[DOT2]Zombies activos dÌa/noche: determina si los zombis son m·s activos durante el dÌa, o si act˙an m·s de noche. Los zombis inactivos ser·n m·s lentos y tienden a no perseguir.
+[DOT2]Los datos de ubicaci√≥n y movimiento de zombies compartidos entre los jugadores est√°n mejor optimizados para tratar los casos de lag, teletransportaci√≥n, mordiscos injustificados y tensi√≥n general del servidor.
+[DOT2]Opci√≥n de pausa 'Server Save' para servidores m√°s grandes que detiene la acci√≥n al guardar, reduciendo las ocasiones de lag repentino en los zombies.
+[DOT2]A√±adido un bot√≥n "Subir de nivel" en la interfaz de estad√≠sticas del jugador para subir r√°pidamente el nivel de una habilidad sin usar el punto global.
+[DOT2]A√±adida una interfaz para administradores para gestionar el inventario del jugador.
+A√±adida una forma f√°cil para que los modders a√±adan columnas a sus listas de desplazamiento.
+A√±adida opciones de "zona muerta" a la configuraci√≥n del mando para aliviar los problemas que sufren los jugadores al dormir.
+[BOLD]Gesti√≥n de cad√°veres.
+[DOT2]Ahora puedes cavar tumbas con una pala y enterrar m√∫ltiples cad√°veres en su interior.
+[DOT2]Nuevas elaboraciones en carpinter√≠a: una cruz de madera, un hito y un piquete conmemorativo para colocar junto a las tumbas que caves.
+[DOT2]Grandes montones de cad√°veres podridos har√°n sentirte enfermo y triste si permaneces cerca de ellos por largos per√≠odos de tiempo.
+[BOLD]A√±adidas nuevas opciones de mundo personalizado:
+[DOT2]Aparici√≥n de generadores: aumenta/disminuye la probabilidad de que los generadores el√©ctricos aparezcan en el mapa.
+[DOT2]Consumo de combustible del generador: afecta a la cantidad de combustible que consumen los generadores. Un generador que no necesita combustible debe ser puesto a 0.0. (Sustituye a la opci√≥n de servidor GeneratorFuelConsumption).
+[DOT2]Posibilidad aleatorizada de casa: aumenta/disminuye la probabilidad de descubrir casas seguras aleatorias en el mapa: quemadas, que contienen escondites de bot√≠n, cad√°veres de supervivientes muertos, etc.
+[DOT2]Mapa anotado: ajusta la frecuencia con que un mapa saqueado tendr√° anotaciones marcadas en √©l por un superviviente muerto.
+[DOT2]Da√±o en construcci√≥n por zombies: determina si los zombies pueden o no destruir las construcciones y defensas de los jugadores.
+[DOT2]Puntos de rasgos gratis: a√±ade puntos gratis durante la creaci√≥n de personajes.
+[DOT2]Resistencia de construcci√≥n por el jugador: proporciona a las construcciones del jugador puntos de impacto adicionales para que sean m√°s resistentes a los da√±os de los zombies.
+[DOT2]Zombies activos d√≠a/noche: determina si los zombis son m√°s activos durante el d√≠a, o si act√∫an m√°s de noche. Los zombis inactivos ser√°n m√°s lentos y tienden a no perseguir.
 [DOT2]Oscuridad nocturna: ajusta la oscuridad durante las noches.
-[DOT2]Gravedad de la lesiÛn: aumenta y disminuye el impacto que las lesiones tienen en tu cuerpo y su tiempo de curaciÛn.
-[DOT2]Fractura de hueso: habilita o deshabilita las extremidades rotas cuando los supervivientes sufren lesiones por impactos, daÒos de zombies y caÌdas.
-[DOT2]Tiempo antes de la eliminaciÛn de cad·veres: n˙mero de horas en el juego antes de que los cad·veres de zombies sean eliminados autom·ticamente del mapa. (Sustituye a la opciÛn anterior del servidor HoursForCorpseRemoval).
-[DOT2]Impacto en la salud por los cad·veres en descomposiciÛn: determina el impacto que tienen los cad·veres cercanos en la salud y las emociones del jugador.
-[DOT2]DegradaciÛn de la ropa: determina la rapidez con la que la ropa se degrada, se ensucia y se llena de sangre.
-[DOT2]AleatorizaciÛn de la velocidad, fuerza, dureza y cogniciÛn de los zombies.
-[DOT2]PropagaciÛn del fuego (anteriormente "NoFire" en las opciones del servidor): ajusta si el fuego se puede propagar o no.
-[BOLD]DegradaciÛn de la ropa.
-[DOT2]La ropa puede ensuciarse durante perÌodos prolongados, dependiendo de tus actividades.
-[DOT2]Pelear contra zombies har· ensangrentar tu ropa.
-[DOT2]Si est·s usando ropa sucia o ensangrentada sobre una herida abierta entonces las probabilidades de infecciÛn (infecciÛn normal, no zombie) aumentar·n.
-[DOT2]La ropa ahora tambiÈn tiene durabilidad, cada vez que te golpeen perder·s un poco.
-[DOT2]Algunas prendas son m·s resistentes que otras.
-[BOLD]OptimizaciÛn en preparaciÛn para la llegada de vehÌculos.
-[DOT2]ColecciÛn de basura optimizada.
+[DOT2]Gravedad de la lesi√≥n: aumenta y disminuye el impacto que las lesiones tienen en tu cuerpo y su tiempo de curaci√≥n.
+[DOT2]Fractura de hueso: habilita o deshabilita las extremidades rotas cuando los supervivientes sufren lesiones por impactos, da√±os de zombies y ca√≠das.
+[DOT2]Tiempo antes de la eliminaci√≥n de cad√°veres: n√∫mero de horas en el juego antes de que los cad√°veres de zombies sean eliminados autom√°ticamente del mapa. (Sustituye a la opci√≥n anterior del servidor HoursForCorpseRemoval).
+[DOT2]Impacto en la salud por los cad√°veres en descomposici√≥n: determina el impacto que tienen los cad√°veres cercanos en la salud y las emociones del jugador.
+[DOT2]Degradaci√≥n de la ropa: determina la rapidez con la que la ropa se degrada, se ensucia y se llena de sangre.
+[DOT2]Aleatorizaci√≥n de la velocidad, fuerza, dureza y cognici√≥n de los zombies.
+[DOT2]Propagaci√≥n del fuego (anteriormente "NoFire" en las opciones del servidor): ajusta si el fuego se puede propagar o no.
+[BOLD]Degradaci√≥n de la ropa.
+[DOT2]La ropa puede ensuciarse durante per√≠odos prolongados, dependiendo de tus actividades.
+[DOT2]Pelear contra zombies har√° ensangrentar tu ropa.
+[DOT2]Si est√°s usando ropa sucia o ensangrentada sobre una herida abierta entonces las probabilidades de infecci√≥n (infecci√≥n normal, no zombie) aumentar√°n.
+[DOT2]La ropa ahora tambi√©n tiene durabilidad, cada vez que te golpeen perder√°s un poco.
+[DOT2]Algunas prendas son m√°s resistentes que otras.
+[BOLD]Optimizaci√≥n en preparaci√≥n para la llegada de veh√≠culos.
+[DOT2]Colecci√≥n de basura optimizada.
 [DOT2]LightingJNI optimizado.
-[DOT2]Corregido aumento en el uso de memoria de 2-300 MB que podÌa detener el juego.
+[DOT2]Corregido aumento en el uso de memoria de 2-300 MB que pod√≠a detener el juego.
 [DOT2]Carga de mapa optimizada.
 [BOLD]Cambio en la carga de mapa personalizado.
-[DOT2]Nueva pantalla "Seleccionar lugar de apariciÛn" despuÈs de la selecciÛn del mod de mapa.
-[DOT2]Todos los mods de mapa se cargan ahora, incluyendo los puntos de apariciÛn.
-[DOT2]Ya no es necesario crear un mod 'multi-mapa'. OpciÛn 'Priorizar mod de mapas' aÒadida para resaltar quÈ mapas tienen prioridad si hay solapamientos geogr·ficos y conflictos, con advertencias tambiÈn para el jugador.
+[DOT2]Nueva pantalla "Seleccionar lugar de aparici√≥n" despu√©s de la selecci√≥n del mod de mapa.
+[DOT2]Todos los mods de mapa se cargan ahora, incluyendo los puntos de aparici√≥n.
+[DOT2]Ya no es necesario crear un mod 'multi-mapa'. Opci√≥n 'Priorizar mod de mapas' a√±adida para resaltar qu√© mapas tienen prioridad si hay solapamientos geogr√°ficos y conflictos, con advertencias tambi√©n para el jugador.
 [BALANCE]
 Se incrementaron ligeramente los valores nutritivos del pescado y las bayas.
 Incremento de los puntos de impacto en las construcciones del jugador.
-Eliminada la opciÛn "AÒo de inicio" en el modo mundo personalizado.
-Los programas de TV y Radio ahora tienen un impacto en el personaje. Si est·s viendo un programa instructivo entonces se recibe un multiplicador XP.
-Dormir en el exterior bajo la lluvia despertar· a los jugadores, a menos que estÈn en una tienda de campaÒa o bajo una estructura con techo.
+Eliminada la opci√≥n "A√±o de inicio" en el modo mundo personalizado.
+Los programas de TV y Radio ahora tienen un impacto en el personaje. Si est√°s viendo un programa instructivo entonces se recibe un multiplicador XP.
+Dormir en el exterior bajo la lluvia despertar√° a los jugadores, a menos que est√©n en una tienda de campa√±a o bajo una estructura con techo.
 Los botiquines de primeros auxilios ahora aparecen con vendas esterilizadas, en lugar de vendas regulares.
 Ahora puedes esterilizar las vendas en un recipiente con agua hirviendo.
 Los colchones se pueden fabricar ahora con una aguja de sutura y una aguja normal.
-Ahora se pueden aÒadir especias como primer ingrediente en pasta y arroz (ejemplo marinara).
+Ahora se pueden a√±adir especias como primer ingrediente en pasta y arroz (ejemplo marinara).
 [BUG FIX]
 Corregido error de vertido de agua.
-Corregida la opciÛn "ninguno" de memoria zombi que no funcionaba en mundo personalizado.
+Corregida la opci√≥n "ninguno" de memoria zombi que no funcionaba en mundo personalizado.
 Arreglado un bug con las fases de la luna que no afectaban a la luz ambiental por las noches.
-Arregladas las farolas de las calles que seguÌan funcionando cuando no habÌa electricidad.
-Arreglado el poder acceder a los refugios rivales de los jugadores mediante trucos de carpinterÌa.
+Arregladas las farolas de las calles que segu√≠an funcionando cuando no hab√≠a electricidad.
+Arreglado el poder acceder a los refugios rivales de los jugadores mediante trucos de carpinter√≠a.
 Arreglado el poder pasar por las ventanas de la casa segura de un jugador.
-Arreglados m˙ltiples aspectos de la interfaz de usuario que no funcionan con un mando (rebuscar, mapas anotados, opciones de mundo personalizado, etc.).
-Grandes cantidades de pequeÒos objetos ahora rellenan correctamente el espacio disponible en los contenedores.
-Corregido la interrupciÛn al leer libros mientras el personaje apunta con un arma.
-Corregido los personajes que perdÌan fracciones de EXP al guardar.
-Agregados los puntos de apariciÛn que faltaban en la interfaz de configuraciÛn de servidor.
+Arreglados m√∫ltiples aspectos de la interfaz de usuario que no funcionan con un mando (rebuscar, mapas anotados, opciones de mundo personalizado, etc.).
+Grandes cantidades de peque√±os objetos ahora rellenan correctamente el espacio disponible en los contenedores.
+Corregido la interrupci√≥n al leer libros mientras el personaje apunta con un arma.
+Corregido los personajes que perd√≠an fracciones de EXP al guardar.
+Agregados los puntos de aparici√≥n que faltaban en la interfaz de configuraci√≥n de servidor.
 Agregado relleno de mundo que faltaba.
 Corregido un posible error con el reinicio de la alarma.
 Se ha solucionado que siempre lloviese al cargar/empezar una partida.
-Se solucionÛ un error raro con la interfaz de elaboraciÛn.
-Corregido un error con el c·lculo getLightFoodMod().
-Se arreglaron las recetas evolucionadas de bebidas que no se podÌan tomar cuando un ingrediente podÌa ser aÒadido (error del cafÈ).
-Habilitado el administrador de voz en SP. (Debe dar una ligera mejorÌa en FPS, especialmente en sistemas m·s lentos).
-Corregido problema de elaboraciÛn con la bebida caliente.
+Se solucion√≥ un error raro con la interfaz de elaboraci√≥n.
+Corregido un error con el c√°lculo getLightFoodMod().
+Se arreglaron las recetas evolucionadas de bebidas que no se pod√≠an tomar cuando un ingrediente pod√≠a ser a√±adido (error del caf√©).
+Habilitado el administrador de voz en SP. (Debe dar una ligera mejor√≠a en FPS, especialmente en sistemas m√°s lentos).
+Corregido problema de elaboraci√≥n con la bebida caliente.
