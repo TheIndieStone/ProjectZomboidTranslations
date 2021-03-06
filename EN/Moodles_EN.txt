@@ -31,7 +31,7 @@ Moodles_EN = {
 	Moodles_tired_lvl3 = "Very Tired",
 	Moodles_tired_lvl4 = "Ridiculously Tired",
 	-- Hungry
-	Moodles_hungry_lvl1 = "Peckish",
+	Moodles_hungry_lvl1 = "Slightly Hungry",
 	Moodles_hungry_lvl2 = "Hungry",
 	Moodles_hungry_lvl3 = "Very Hungry",
 	Moodles_hungry_lvl4 = "Starving",
