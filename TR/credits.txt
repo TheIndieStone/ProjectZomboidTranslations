@@ -1,1 +1,20 @@
-DemirHerif
+Turkish Translation Data Information
+Update history
+Build-39.68
+Turkish translation by DemirHerif
+-----------------------------------
+Build-40/41 
+Turkish translation by Çaðan & MHS 
+-----------------------------------
+Ýyi Oyunlar Dilerim-Çaðan         
+Mhs'nin sarjý bittiði için not býrakamadý
+-----------------------------------
+Good Games-Çaðan 
+Mhs couldn't leave a note because his charge was low
+-----------------------------------
+Emeðe saygý duymak bir erdemdir.
+Hepinize iyi oyunlar :)
+-----------------------------------
+It is a virtue to respect to labor.
+Good game to all of you :)
+-----------------------------------  

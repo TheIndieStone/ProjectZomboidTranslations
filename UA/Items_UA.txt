@@ -4,22 +4,22 @@
  * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
  */
 Items_UA = {
-	/* для підсказки "потрібно: %1/%2" над пунктом "курити", коли немає сірників і зажигалки */
-	DisplayName_Lighter = "Зажигалка",
-	DisplayName_Matches = "Сірники",
+	/* РґР»СЏ РїС–РґСЃРєР°Р·РєРё "РїРѕС‚СЂС–Р±РЅРѕ: %1/%2" РЅР°Рґ РїСѓРЅРєС‚РѕРј "РєСѓСЂРёС‚Рё", РєРѕР»Рё РЅРµРјР°С” СЃС–СЂРЅРёРєС–РІ С– Р·Р°Р¶РёРіР°Р»РєРё */
+	DisplayName_Lighter = "Р—Р°Р¶РёРіР°Р»РєР°",
+	DisplayName_Matches = "РЎС–СЂРЅРёРєРё",
 	
-	/* для підсказки "потрібно" в меню "Зварити" (раніше - "Газозварка") - не спрацьовує ItemName */
-	DisplayName_Blow_Torch = "Пропановий пальник",
-	DisplayName_Welding_Mask = "Зварювальна маска",
-	DisplayName_Welding_Rods = "Зварювальні електроди",
-	DisplayName_Scrap_Metal = "Металобрухт",
-	DisplayName_Metal_Sheet = "Лист металу",
-	DisplayName_Small_Metal_Sheet = "Маленький лист металу",
-	DisplayName_Metal_Bar = "Металічна пластина",
-	DisplayName_Metal_Pipe = "Металева труба",
-	DisplayName_Wire = "Проволока",
-	DisplayName_Hinge = "Дверна петля",
+	/* РґР»СЏ РїС–РґСЃРєР°Р·РєРё "РїРѕС‚СЂС–Р±РЅРѕ" РІ РјРµРЅСЋ "Р—РІР°СЂРёС‚Рё" (СЂР°РЅС–С€Рµ - "Р“Р°Р·РѕР·РІР°СЂРєР°") - РЅРµ СЃРїСЂР°С†СЊРѕРІСѓС” ItemName */
+	DisplayName_Blow_Torch = "РџСЂРѕРїР°РЅРѕРІРёР№ РїР°Р»СЊРЅРёРє",
+	DisplayName_Welding_Mask = "Р—РІР°СЂСЋРІР°Р»СЊРЅР° РјР°СЃРєР°",
+	DisplayName_Welding_Rods = "Р—РІР°СЂСЋРІР°Р»СЊРЅС– РµР»РµРєС‚СЂРѕРґРё",
+	DisplayName_Scrap_Metal = "РњРµС‚Р°Р»РѕР±СЂСѓС…С‚",
+	DisplayName_Metal_Sheet = "Р›РёСЃС‚ РјРµС‚Р°Р»Сѓ",
+	DisplayName_Small_Metal_Sheet = "РњР°Р»РµРЅСЊРєРёР№ Р»РёСЃС‚ РјРµС‚Р°Р»Сѓ",
+	DisplayName_Metal_Bar = "РњРµС‚Р°Р»С–С‡РЅР° РїР»Р°СЃС‚РёРЅР°",
+	DisplayName_Metal_Pipe = "РњРµС‚Р°Р»РµРІР° С‚СЂСѓР±Р°",
+	DisplayName_Wire = "РџСЂРѕРІРѕР»РѕРєР°",
+	DisplayName_Hinge = "Р”РІРµСЂРЅР° РїРµС‚Р»СЏ",
 	
-	/* в коді відзначено як застаріле, але все ще з'являється в Evolved-рецептах */
-	DisplayName_Bottle_with_Mayonnaise_(Full) = "Майонез (застаріле)",
+	/* РІ РєРѕРґС– РІС–РґР·РЅР°С‡РµРЅРѕ СЏРє Р·Р°СЃС‚Р°СЂС–Р»Рµ, Р°Р»Рµ РІСЃРµ С‰Рµ Р·'СЏРІР»СЏС”С‚СЊСЃСЏ РІ Evolved-СЂРµС†РµРїС‚Р°С… */
+	DisplayName_Bottle_with_Mayonnaise_(Full) = "РњР°Р№РѕРЅРµР· (Р·Р°СЃС‚Р°СЂС–Р»Рµ)",
 }

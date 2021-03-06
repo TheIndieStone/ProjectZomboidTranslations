@@ -1,7 +1,7 @@
 [VERSION] 38.2
 [NOUVEAUTES]
 [MP] Ajout d'un bouton "Monter d'un niveau" sur l'interface des stats du joueur pour augmenter une capacite rapidement, sans utiliser les points globaux.
-Ajout d'un moyen simple pour le moddeurs d'ajouter des colonnes à leurs listes deroulantes.
+Ajout d'un moyen simple pour le moddeurs d'ajouter des colonnes Ã  leurs listes deroulantes.
 [MP] Ajout d'une interface d'admin pour gerer l'inventaire des joueurs.
 Les tas de cadavres en decomposition vous rendront malade et triste si vous en restez trop pres durant trop longtemps.
 [BOLD]Vous pouvez maintenant creuser des tombes avec une pelle. (La possibilite d'enterrer plusieurs corps dans une meme tombe viendra avec la 38.2)
@@ -42,4 +42,4 @@ Correction d'un bug lie aux saisons, qui faisait que la lune n'affectait pas la 
 Correction du bug pour verser de l'eau.
 Correction des lanternes encore actives apres l'arret de l'electricite.
 Correction de la possibilite de construire des choses a l'interieur de l'abri d'un joueur.
-Correction de la possibilite de passer par une fenêtre pour entrer dans l'abri d'un joueur.
+Correction de la possibilite de passer par une fenÃªtre pour entrer dans l'abri d'un joueur.

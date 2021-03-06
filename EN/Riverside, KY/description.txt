@@ -1,6 +1,6 @@
 Riverside
  <LINE> <LINE>
- A colourful town tightly hugging the banks of the mighty Ohio: exploring Riverside is a rich and diverse experience!
+ A colorful town tightly hugging the banks of the mighty Ohio: exploring Riverside is a rich and diverse experience!
  To the west you'll find the older parts of town,
  while out east is where our wealthier residents work, rest and play.
  <LINE> <LINE>
