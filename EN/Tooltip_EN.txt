@@ -206,7 +206,7 @@ Tooltip_EN = {
     Tooltip_Dashboard_TrunkLocked = "Trunk is locked",
     Tooltip_Dashboard_TrunkUnlocked = "Trunk is unlocked",
     Tooltip_CantCraftDriving = "Can't craft anything while driving.",
-    Tooltip_outoffuel = "Out of Gas",
+    Tooltip_outoffuel = "Out of fuel",
     Tooltip_craft_doubleWoodenDoorDesc = "A double door large enough to let pass vehicles.",
     Tooltip_craft_pressToRotate = "Press '%1' to rotate during construction",
     Tooltip_removeBurntVehicle = "Dismantling car wrecks with a welding mask and propane torch will remove them from your path, and provide metal construction materials. <LINE> Higher Metalwork skills will retrieve more usable salvage.",
@@ -257,5 +257,6 @@ Tooltip_EN = {
     Tooltip_BedType_goodBed = "Good",
     Tooltip_TooMuchPainFitness = "Too much pain to do fitness.",
     Tooltip_RemoveBrokenGlassNoItem = "Requires an item in your left hand.",
+    Tooltip_Recipe_HockeyMaskSmashBottle = "Requires worn Hockey Mask.<br>Use with caution.",
     Tooltip_food_CookToRemoveUnhappiness = "Cook to remove happiness malus.",
 }
