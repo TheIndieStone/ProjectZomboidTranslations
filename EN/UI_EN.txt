@@ -940,7 +940,7 @@ UI_EN = {
     UI_ServerSettings_AddOtherSpawnProfession_tooltip = "Type a profession keyword, then hit Enter. Use this for custom mod professions.",
     UI_ServerSettings_AddSpawnPoint = "Add a spawn point:",
     UI_ServerSettings_AddSpawnPoint_tooltip = "Type x,y,z world coordinates, then hit Enter.",
-    UI_ServerSettings_UnemployedRequired = "There must be at least one spawnpoint for the Unemployed profession, which is used as the default when a player's profession isn't in the list.  Other professions in the list must have at least one spawn point.",
+    UI_ServerSettings_UnemployedRequired = "There must be at least one spawnpoint for the Unemployed profession, which is used as the default when a player's profession isn't in the list. Other professions in the list must have at least one spawn point.",
     -- INI Setting Groups
     UI_ServerSettingGroup_Details = "Details",
     UI_ServerSettingGroup_Steam = "Steam",
@@ -1009,8 +1009,8 @@ UI_EN = {
     UI_ServerOption_Open_tooltip = "Clients may join without already having an account in the whitelist. If set to false, administrators must manually create username/password combos..",
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "Add unknown usernames to the whitelist when players join. Clients supply their own username/password on joining.  For Open=true servers.",
     UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "Remove player accounts from the whitelist after death.  Prevents creating a new character after death on open=false servers.",
-    UI_ServerOption_DisplayUserName_tooltip = "Display usernames above player's heads in-game.",
-    UI_ServerOption_ShowFirstAndLastName_tooltip = "Display first & last name above player's heads instead of the username.",
+    UI_ServerOption_DisplayUserName_tooltip = "Display usernames above players' heads in-game.",
+    UI_ServerOption_ShowFirstAndLastName_tooltip = "Display first & last name above players' heads instead of the username.",
     UI_ServerOption_KickFastPlayers_tooltip = "Kick players that appear to be moving faster than is possible. May be buggy -- use with caution.",
     UI_ServerOption_SleepAllowed_tooltip = "Players may choose to sleep whenever tired.",
     UI_ServerOption_SleepNeeded_tooltip = "Players get tired and need to sleep.  Ignored if SleepAllowed=false",
@@ -1099,7 +1099,7 @@ UI_EN = {
     UI_ServerOption_MinutesPerPage_tooltip = "The number of game-world minutes it takes to read one page of a book.",
     UI_ServerOption_nightlengthmodifier_tooltip = "Controls how dark nightime is.  1.0=normal darkness, 0.0=bright.",
     UI_ServerOption_SaveWorldEveryMinutes_tooltip = "Loaded parts of the map are saved after this many real-world minutes have passed.  The map is usually saved only after clients leave a loaded area.",
-    UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "If true, when HoursForCorpseRemoval triggers, it will also going to remove player's corpses.",
+    UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "If true, when HoursForCorpseRemoval triggers, it will also remove players' corpses.",
     UI_ServerOption_TrashDeleteAll_tooltip = "If true, player can use the "delete all" button on bins.",
     UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "If true, player can hit again when struck by another player."
     UI_Alarm = "Alarm",
