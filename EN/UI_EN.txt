@@ -194,7 +194,7 @@ UI_EN = {
     UI_worldscreen_SavefileCorrupt = "Savefile appears to be corrupt. World Version is zero.",
     UI_worldscreen_SavefileOld = "This savefile is too old to be loaded.",
     UI_worldscreen_SavefileNewerThanGame = "Savefile is from a newer version of the game.",
-    -- login screen (lua)
+    -- Login screen (lua)
     UI_loginscreen_desurakey = "Desura Key:",
     UI_loginscreen_username = "Username:",
     UI_loginscreen_purchasemethod = "Purchase Method: ",
@@ -204,7 +204,7 @@ UI_EN = {
     UI_loginscreen_login = "LOG IN",
     UI_loginscreen_loginfailed = "LOG IN FAILED",
     UI_loginscreen_loginsuccess = "LOGGED IN SUCCESSFULLY",
-    -- characters creation (lua)
+    -- Characters creation (lua)
     UI_characreation_title = "CUSTOMISE CHARACTER",
     UI_characreation_title2 = "Select Occupation and Traits",
     UI_characreation_forename = "Forename",
@@ -232,7 +232,7 @@ UI_EN = {
     UI_characreation_clothing_bottom = "Bottom",
     UI_characreation_clothing_footwear = "Footwear",
     UI_charactercreation_needpoints = "You'll need to balance out positive traits with negative traits before playing",
-    -- professions and Traits
+    -- Professions and Traits
     UI_prof_securityguard = "Security Guard",
     UI_prof_constructionworker = "Construction Worker",
     UI_prof_parkranger = "Park Ranger",
@@ -351,7 +351,7 @@ UI_EN = {
     UI_trait_fitdesc = "Fit.",
     UI_trait_obese = "Obese",
     UI_trait_obesedesc = "Reduced running speed, very low endurance and prone to injury.",
-    -- various
+    -- Various
     UI_btn_back = "BACK",
     UI_btn_save = "SAVE",
     UI_btn_next = "NEXT",
@@ -374,8 +374,8 @@ UI_EN = {
     -- Last stand selecter (lua)
     UI_challenge_title = "CHALLENGES",
     UI_challengeplayer_title = "SELECT PLAYER",
-	UI_challengeplayer_PlayedTime = "Played time : %1",
-	UI_challengeplayer_XP = "XP : %1",
+    UI_challengeplayer_PlayedTime = "Played time : %1",
+    UI_challengeplayer_XP = "XP : %1",
     UI_challengeplayer_delete = "Are you sure you want to delete that player?",
     UI_characreation_random = "RANDOM",
     UI_characreation_SelectToLoad = "[--Select to load--]",
@@ -498,7 +498,7 @@ UI_EN = {
     UI_optionscreen_ShoulderButtonContainerSwitch1 = "Left Button: Inventory, Right Button: Loot",
     UI_optionscreen_ShoulderButtonContainerSwitch2 = "Left Button: Up, Right Button: Down",
     UI_optionscreen_ShoulderButtonContainerSwitch3 = "Left + D-pad: Inventory, Right + D-pad: Loot",
-    -- key binding
+    -- Key binding
     UI_optionscreen_binding_Crouch = "Sneak",
     UI_optionscreen_binding_Forward = "Forward",
     UI_optionscreen_binding_Backward = "Backward",
@@ -1174,7 +1174,7 @@ UI_EN = {
     UI_ServerOptionDesc_VoiceBan = "Block voice from user \"username\". Use : /voiceban \"username\" -value, ex /voiceban \"rj\" -true (could be -false)",
     UI_ServerOptionDesc_Help = "Help",
     UI_ServerOptionDesc_SafeHouse = "Release a safehouse you own. Use: /safehouse release",
-	UI_ServerOptionDesc_Replay = "Record and play replay for moving player. Use: /replay \"playername\" -record|-play|-stop filename. Example: /replay user1 -record stadion.bin",
+    UI_ServerOptionDesc_Replay = "Record and play replay for moving player. Use: /replay \"playername\" -record|-play|-stop filename. Example: /replay user1 -record stadion.bin",
     UI_ServerOptions_SpawnRegionFile1 = "-- This file was automatically generated when the server was first started.",
     UI_ServerOptions_SpawnRegionFile2 = "-- Clients connecting to the server can choose to spawn in one of the following spawn regions.",
     UI_ServerOptions_SpawnRegionFile3 = "-- The administrator can add as many different spawn regions as he/she wants.",
