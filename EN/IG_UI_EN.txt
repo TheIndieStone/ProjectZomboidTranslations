@@ -524,7 +524,7 @@ IGUI_EN = {
     IGUI_IsOperational = "Needs to be turned off.",
     IGUI_RemovePropane = "Need to remove propane tank.",
 
-    --Radio
+    -- Radio
     IGUI_DeviceOptions = "Device Options",
     IGUI_Hotkey = "HOTKEY",
     IGUI_RadioClose = "Close",
