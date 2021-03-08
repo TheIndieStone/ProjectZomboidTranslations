@@ -40,7 +40,11 @@ Recipe_UA = {
 	Recipe_Rip_clothing = "Порвати на ганчірки",
 	Recipe_Rip_Sheets = "Порвати на ганчірки",
 	Recipe_Saw_Off_Shotgun = "Спиляти ствол",
+	Recipe_Saw_Off_Double_Barrel_Shotgun = "Спиляти ствол",
 	Recipe_Smash_Bottle = "Розбити бутилку",
+	Recipe_Make_Newspaper_Hat = "Зробити панаму з газети",
+	Recipe_Make_Tin_Foil_Hat = "Зробити шапочку з фольги",
+	Recipe_Extinguish_Candle = "Погасити свічку",
 	-- 02. Виживання
 	Recipe_Attach_Bread_Knife_to_Spear = "Закріпити ніж для хліба на спис",
 	Recipe_Attach_Butter_Knife_to_Spear = "Закріпити ніж для масла на спис",

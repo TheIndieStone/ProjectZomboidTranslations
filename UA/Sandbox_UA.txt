@@ -564,4 +564,12 @@ Sandbox_UA = {
 	Sandbox_AttackBlockMovements_tooltip = "Відключення можливості завдавати ударів в русі.",
 	Sandbox_VehicleStoryChance_tooltip = "Збільшіть/зменшіть шанс виявити автоаварії на карті: поліцейські блок-пости, які збили людину ан автомобілі та інше.",
 	Sandbox_ZoneStoryChance = "Випадковий шанс історії зони",
+	Sandbox_ZCrawlUnderVehicle = "Зомбі проповзають під машинами",
+	Sandbox_ZCrawlUnderVehicle_option1 = "Ніколи",
+	Sandbox_ZCrawlUnderVehicle_option2 = "Дуже рідко",
+	Sandbox_ZCrawlUnderVehicle_option3 = "Рідко",
+	Sandbox_ZCrawlUnderVehicle_option4 = "Іноді",
+	Sandbox_ZCrawlUnderVehicle_option5 = "Часто",
+	Sandbox_ZCrawlUnderVehicle_option6 = "Дуже часто",
+	Sandbox_ZCrawlUnderVehicle_option7 = "Завжди",
 }
