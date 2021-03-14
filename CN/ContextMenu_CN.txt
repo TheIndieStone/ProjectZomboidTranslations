@@ -81,6 +81,8 @@ ContextMenu_CN = {
 	ContextMenu_Smoke = "抽烟",
 	ContextMenu_Chop_Tree = "砍倒树",
 	ContextMenu_WaterName = "水",
+	ContextMenu_WaterSource = "水源"
+	Puddle = "水坑"
 	-- Crafting menu
 	ContextMenu_Door = "门",
 	ContextMenu_Stairs = "楼梯",
