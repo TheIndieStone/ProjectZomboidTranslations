@@ -257,4 +257,5 @@ Tooltip_CN = {
     Tooltip_BedType_goodBed = "好",
     Tooltip_TooMuchPainFitness = "健身太痛苦了.",
     Tooltip_RemoveBrokenGlassNoItem = "右手必须拿东西才能清理.",
+	Tooltip_food_CookToRemoveUnhappiness = "烹饪即可消除该状态.",
 }
