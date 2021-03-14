@@ -1008,6 +1008,7 @@ UI_CN = {
     UI_ServerOption_ServerPlayerID_tooltip = "将这个ID写入玩家存档文件,连接服务器时会检查这个ID(阻止玩家使用其他存档,修改这个值将使玩家存档失效)",
     UI_ServerOption_Open_tooltip = "没有白名单的用户无法加入服务器..",
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "自动添加新玩家至白名单列表,仅在Open项设置为true时生效.",
+	UI_ServerOption_ShowFirstAndLastName_tooltip = "在玩家头上显示姓名而不是用户名.",
     UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "玩家死亡后自动从服务器的白名单中移除,防止玩家在死亡后创建新的角色.",
     UI_ServerOption_DisplayUserName_tooltip = "在玩家头顶显示玩家的ID.",
     UI_ServerOption_KickFastPlayers_tooltip = "速度自动检测机制.自动踢出移动速度过快的玩家(推荐关闭).",
