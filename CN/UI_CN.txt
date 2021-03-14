@@ -1307,4 +1307,5 @@ UI_CN = {
     UI_optionscreen_render_precipAlways = "总是",
     UI_optionscreen_render_precipOutdoors = "仅在户外",
     UI_optionscreen_render_precipNever = "绝不",
+	UI_OnConnectFailed_DebugNotAllowed = "只有管理员可以使用DEBUG命令.",
 }
