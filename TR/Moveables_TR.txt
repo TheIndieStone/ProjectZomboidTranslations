@@ -59,6 +59,7 @@ Moveables_TR = {
     Black_Low_Modern_Table = "Modern Siyah Alçak Masa",
     Black_Office_Chair = "Siyah Ofis Koltuğu",
     Black_Tiles = "Siyah Döşeme",
+    Blood_Bank = "Köpek Kulübesi",
     Blowout_Sign = "Blowout Tabelası",
     Blue_Bar_Stool = "Mavi Bar Taburesi",
     Blue_Bed = "Mavi Yatak",

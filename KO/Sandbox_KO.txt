@@ -547,10 +547,11 @@ Sandbox_KO = {
 	Sandbox_ZToughness_option3 = "약함",
 	Sandbox_ZToughness_option4 = "무작위",
 
-	Sandbox_ZTransmission = "감염 경로:",
-	Sandbox_ZTransmission_option1 = "혈액 + 타액",
-	Sandbox_ZTransmission_option2 = "모두 감염됨(접촉에 의한 감염)",
-	Sandbox_ZTransmission_option3 = "감염되지 않음",
+    Sandbox_ZTransmission = "감염 경로:",
+    Sandbox_ZTransmission_option1 = "혈액 + 타액",
+    Sandbox_ZTransmission_option2 = "타액",
+    Sandbox_ZTransmission_option3 = "모두 감염됨(접촉에 의한 감염)"",
+    Sandbox_ZTransmission_option4 = "감염되지 않음",
 
 	Sandbox_ZInfectionMortality = "감염시 발병 시간",
 	Sandbox_ZInfectionMortality_option1 = "즉시",
@@ -692,4 +693,13 @@ Sandbox_KO = {
     Sandbox_ZombiesFenceLunge = "울타리 돌진하기",
     Sandbox_ZombiesFenceLunge_tooltip = "활성화 되면 플레이어가 울타리 가까이에 있을 시 울타리를 넘어서 플레이어에게 기어갑니다.",
     Sandbox_ZoneStoryChance = "무작위 이야기 구역 출현 가능성",
+
+    Sandbox_ZCrawlUnderVehicle = "차량 아래로 기어갈 가능성:",
+    Sandbox_ZCrawlUnderVehicle_option1 = "없음",
+    Sandbox_ZCrawlUnderVehicle_option2 = "아주 적음",
+    Sandbox_ZCrawlUnderVehicle_option3 = "적음",
+    Sandbox_ZCrawlUnderVehicle_option4 = "가끔",
+    Sandbox_ZCrawlUnderVehicle_option5 = "자주",
+    Sandbox_ZCrawlUnderVehicle_option6 = "아주 자주",
+    Sandbox_ZCrawlUnderVehicle_option7 = "항상",
 }

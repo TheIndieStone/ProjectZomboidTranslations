@@ -533,6 +533,7 @@ Sandbox_TR = {
     Sandbox_ZTransmission_option1 = "Kan + Salya",
     Sandbox_ZTransmission_option2 = "Herkes Enfekte",
     Sandbox_ZTransmission_option3 = "Yok",
+    Sandbox_ZTransmission_option4 = "Hiçbiri",
     Sandbox_ZombieAdvanced = "Gelişmiş Zombi Ayarları",
     Sandbox_ZombieAttractionMultiplier = "Zombi Çekim Çarpanı",
     Sandbox_ZombieAttractionMultiplier_tooltip = "Bu değer, motorun genel ses yüksekliğini arttırmak veya azaltmak için kullanılır.",

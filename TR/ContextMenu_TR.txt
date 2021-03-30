@@ -435,6 +435,7 @@ ContextMenu_TR = {
     ContextMenu_WashClothing = "%1",
     ContextMenu_Water = "Su",
     ContextMenu_WaterName = "Su",
+    ContextMenu_WaterSource = "Su Kaynağı",
     ContextMenu_Water_Dispenser = "Su Sebili",
     ContextMenu_Wear = "Giy",
     ContextMenu_White = "Beyaz",
@@ -455,4 +456,5 @@ ContextMenu_TR = {
     ContextMenu_Yellow = "Sarı",
     ContextMenu_Yourself = "Kendin",
     ContextMenu_or = "veya",
+    Puddle = "Su Birikintisi",
 }
