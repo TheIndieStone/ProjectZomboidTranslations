@@ -5,7 +5,7 @@ Sandbox_CN = {
     Sandbox_DeletePresetPrompt = "删除 '%1'?",
     Sandbox_PresetName_Error = "不能使用这些字符: /  \  :  ;  .",
     --
-    Sandbox_PopulationOptions = "人口",
+    Sandbox_PopulationOptions = "僵尸分布",
     Sandbox_ZombieCount = "僵尸数量",
     Sandbox_ZombieCount_tooltip = "修改此项会改变高级设置中\"人口倍率\"的设定.",
     Sandbox_ZombieCount_option1 = "疯狂",
@@ -20,7 +20,7 @@ Sandbox_CN = {
     Sandbox_Advanced = "高级设置",
     Sandbox_ZombieOptions = "僵尸设置",
     --
-    Sandbox_TimeOptions = "时间",
+    Sandbox_TimeOptions = "日期时间",
     Sandbox_DayLength = "一天长度",
     Sandbox_DayLength_option1 = "15 分钟",
     Sandbox_DayLength_option2 = "30 分钟",
@@ -74,7 +74,7 @@ Sandbox_CN = {
     Sandbox_StartTime_option8 = "深夜 2 点",
     Sandbox_StartTime_option9 = "早晨 5 点",
     --
-    Sandbox_WorldOptions = "世界",
+    Sandbox_WorldOptions = "世界设置",
     Sandbox_WaterShut = "停水时间",
     Sandbox_Shutoff_option1 = "立即",
     Sandbox_Shutoff_option2 = "0-30 天",
@@ -138,7 +138,7 @@ Sandbox_CN = {
     Sandbox_ZombieRespawnPercent_option9 = "90%",
     Sandbox_ZombieRespawnPercent_option10 = "100%",
     --
-    Sandbox_NatureOptions = "自然",
+    Sandbox_NatureOptions = "环境设置",
     Sandbox_WorldTemperature = "温度",
     Sandbox_WorldTemperature_option1 = "非常冷",
     Sandbox_WorldTemperature_option2 = "冷",
@@ -225,9 +225,9 @@ Sandbox_CN = {
     Sandbox_LootMechanics = "机械",
     Sandbox_LootOther = "其他",
     --
-    Sandbox_Character = "角色",
+    Sandbox_Character = "人物角色",
     Sandbox_XpMultiplier = "经验倍率",
-    Sandbox_StatDecrease = "状态减少量",
+    Sandbox_StatDecrease = "状态减少速度",
     Sandbox_StatDecrease_tooltip = "角色的饥饿,口渴和疲劳会以多快的速度减少.",
     Sandbox_StatDecrease_option1 = "非常快",
     Sandbox_StatDecrease_option2 = "快",
@@ -240,7 +240,7 @@ Sandbox_CN = {
     Sandbox_ZombieLore = "僵尸设置",
     Sandbox_ProperZombies = "默认设置",
     --
-    Sandbox_ZombieAdvanced = "高级僵尸设置",
+    Sandbox_ZombieAdvanced = "僵尸高级设置",
     --
     Sandbox_ZSpeed = "速度",
     Sandbox_ZSpeed_option1 = "短跑运动员",
@@ -269,7 +269,7 @@ Sandbox_CN = {
     Sandbox_ZInfectionMortality_option5 = "2-3 天",
     Sandbox_ZInfectionMortality_option6 = "1-2 星期",
     Sandbox_ZInfectionMortality_option7 = "永不",
-    Sandbox_ZReanimateTime = "复活时间",
+    Sandbox_ZReanimateTime = "尸体复活",
     Sandbox_ZReanimateTime_option1 = "立即",
     Sandbox_ZReanimateTime_option2 = "0-30 秒",
     Sandbox_ZReanimateTime_option3 = "0-1 分钟",
@@ -335,10 +335,10 @@ Sandbox_CN = {
     Sandbox_EnduranceRegen_option5 = "非常慢",
 
     -- ZombieConfig
-    Sandbox_PopulationMultiplier = "人口倍率",
-    Sandbox_PopulationStartMultiplier = "人口初始倍率",
-    Sandbox_PopulationPeakMultiplier = "人口峰值倍率",
-    Sandbox_PopulationPeakDay = "人口峰值日",
+    Sandbox_PopulationMultiplier = "僵尸倍率",
+    Sandbox_PopulationStartMultiplier = "僵尸初始倍率",
+    Sandbox_PopulationPeakMultiplier = "僵尸峰值倍率",
+    Sandbox_PopulationPeakDay = "僵尸峰值日",
     Sandbox_RespawnHours = "刷新间隔",
     Sandbox_RespawnUnseenHours = "未巡视的刷新间隔",
     Sandbox_RespawnMultiplier = "刷新倍率",
@@ -564,4 +564,18 @@ Sandbox_CN = {
     Sandbox_AttackBlockMovements = "不可移动攻击",
     Sandbox_AttackBlockMovements_tooltip = "若禁用则近战攻击不影响行走.",
     
+	
+	--Add Text--
+	--284行--
+	Sandbox_ZCrawlUnderVehicle = "爬过车底",
+	Sandbox_ZCrawlUnderVehicle_option1 = "从不",
+    Sandbox_ZCrawlUnderVehicle_option2 = "非常少",
+    Sandbox_ZCrawlUnderVehicle_option3 = "稀少",
+    Sandbox_ZCrawlUnderVehicle_option4 = "有时",
+    Sandbox_ZCrawlUnderVehicle_option5 = "经常",
+    Sandbox_ZCrawlUnderVehicle_option6 = "非常多",
+    Sandbox_ZCrawlUnderVehicle_option7 = "全部",
+	
+	
+	
 }

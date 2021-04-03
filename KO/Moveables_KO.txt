@@ -700,4 +700,5 @@ Moveables_KO = {
     Small_Wide_Mirror = "작은 긴 거울",
     Generic_Cooled_Shelves = "보통의 진열 선반",
     Fence_gate = "울타리 문",
+    Blood_Bank = "우리",
 }

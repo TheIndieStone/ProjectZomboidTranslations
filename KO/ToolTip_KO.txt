@@ -261,4 +261,8 @@ Tooltip_KO = {
     Tooltip_BedType_goodBed = "좋음",
     Tooltip_CantDriveAndFitness = "운동하거나 운전할 수 없습니다.",
     Tooltip_TooMuchPainFitness = "너무 고통스러워 운동할 수 없습니다.",
+    Tooltip_BulletDefense = "방탄 성능",
+    Tooltip_food_CookToRemoveUnhappiness = "행복을 가져가는 악마를 없애기 위해 요리를 해보세요.",
+    Tooltip_requireHairGel = "헤어 젤 필요",
+    Tooltip_RemoveBrokenGlassNoItem = "왼손에 아이템이 있어야 합니다.",
 }

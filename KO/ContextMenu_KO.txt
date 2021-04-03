@@ -204,7 +204,7 @@ ContextMenu_KO = {
 	ContextMenu_FoodType_Fruits = "과일",
 	ContextMenu_FoodType_Pasta = "파스타",
 	ContextMenu_FoodType_Fish = "생선",
-	ContextMenu_FoodType_Game = "게임",
+	ContextMenu_FoodType_Game = "사냥한 고기",
 	ContextMenu_RemoveBush = "덤불 치우기",
 	ContextMenu_RemoveGrass = "풀 치우기",
 	ContextMenu_RemoveWallVine = "담쟁이덩굴 치우기",
@@ -470,4 +470,6 @@ ContextMenu_KO = {
     ContextMenu_Vehicle_DetachTrailer = "탈착하기<br>%1",
     ContextMenu_EyeRight = "오른쪽 눈에 달기",
     ContextMenu_EyeLeft = "왼쪽 눈에 달기",
+	ContextMenu_WaterSource = "수도수원"
+	Puddle = "물웅덩이"
 }

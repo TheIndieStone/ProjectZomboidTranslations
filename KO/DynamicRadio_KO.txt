@@ -1,6 +1,6 @@
 DynamicRadio_KO {
     AEBS_Intro = "<지지직> 다섯 영 둘. <치직> 자동 방송 시스템. <지지직>",
-    AEBS_Choppah = "공기 흐름 감지됨.",
+    AEBS_Choppah = "공중 활동 감지됨.",
     AEBS_Power_1 = "녹스 전선망: 전력 변동이 감지됨.",
     AEBS_Power_2 = "녹스 전선망: 시스템 고장. 네트워크 손상.",
     AEBS_Power_3 = "녹스 전선망: 정전상태.",
