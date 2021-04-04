@@ -1480,6 +1480,6 @@ ItemName_CN = {
     ItemName_farming.Tomato = "番茄",
     ItemName_farming.TomatoBagSeed = "番茄种子包",
     ItemName_farming.TomatoSeed = "番茄种子",
-    ItemName_farming.WateredCan = "喷壶",
-    ItemName_farming.WateredCanFull = "喷壶(水)",
+    ItemName_farming.WateredCan = "花洒喷壶",
+    ItemName_farming.WateredCanFull = "花洒喷壶(水)",
 }
