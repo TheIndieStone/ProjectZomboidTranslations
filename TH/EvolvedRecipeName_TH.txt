@@ -1,0 +1,12 @@
+EvolvedRecipeName_TH = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "โบโลเนสกระป๋อง",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "แครอตกระป๋อง",
+	EvolvedRecipeName_Base.CannedChiliOpen = "พริกกระป๋อง",
+	EvolvedRecipeName_Base.CannedCornOpen = "ข้าวโพดกระป๋อง",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "เนื้อบดกระป๋อง",
+	EvolvedRecipeName_Base.CannedPeasOpen = "ถั่วลันเตากระป๋อง",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "มันฝรั่งกระป๋อง",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "ปลาซาร์ดีนกระป๋อง",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "มะเขือเทศกระป๋อง",
+	EvolvedRecipeName_Base.Teabag2 = "ชา",
+}

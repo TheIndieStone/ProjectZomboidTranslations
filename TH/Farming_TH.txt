@@ -39,7 +39,7 @@ Farming_TH = {
   -- disease
   Farming_Mildew = "เชื้อรา",
   Farming_Pest_Flies = "แมลงศัตรูพืช",
-  Farming_Devil_Water_Fungi = "เห็ดปีศาจน้ำ",
+  Farming_Devil_Water_Fungi = "เห็ดปีศาจ",
   -- hours
   Farming_Hours = "ชั่วโมง",
   -- health
