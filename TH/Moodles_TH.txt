@@ -206,8 +206,8 @@ Moodles_TH = {
 	Moodles_foodeaten_desc_lvl3 = "พละกำลัง และการฟื้นฟูพลังชีวิตเพิ่มขึ้นมาก",
 	Moodles_foodeaten_desc_lvl4 = "พละกำลัง และการฟื้นฟูพลังชีวิตเพิ่มขึ้นอย่างมาก",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "รู้สึกกระหายน้ำ ควรหาที่พักผ่อน",
-	Moodles_hyperthermia_desc_lvl2 = "เหงื่อออก กระหายน้ำมาก เพราะตากแดดนานเกินไป",
+	Moodles_hyperthermia_desc_lvl1 = "รู้สึกกระหายน้ำ ควรถอดเสื้อผ้า",
+	Moodles_hyperthermia_desc_lvl2 = "เหงื่อออก กระหายน้ำมาก เพราะร้อนเกินไป",
 	Moodles_hyperthermia_desc_lvl3 = "คลื่นไส้ ไม่มีสมาธิ การรับรู้ลดลง และต้องการน้ำอย่างมาก",
 	Moodles_hyperthermia_desc_lvl4 = "เพ้อคลั่ง จากความร้อน ขาดน้ำอย่างมาก",
 	-- Hypothermia
