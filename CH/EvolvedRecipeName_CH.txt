@@ -1,0 +1,12 @@
+EvolvedRecipeName_CH = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "肉醬義大利麵罐頭(打開)",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "胡蘿蔔罐頭(打開)",
+    EvolvedRecipeName_Base.CannedChiliOpen = "辣醬燉菜罐頭(打開)",
+    EvolvedRecipeName_Base.CannedCornOpen = "玉米罐頭(打開)",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "醃牛肉罐頭(打開)",
+    EvolvedRecipeName_Base.CannedPeasOpen = "豌豆罐頭(打開)",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "馬鈴薯罐頭(打開)",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "沙丁魚罐頭(打開)",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "番茄罐頭(打開)",
+    EvolvedRecipeName_Base.Teabag2 = "茶",
+}
