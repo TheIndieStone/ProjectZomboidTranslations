@@ -136,7 +136,7 @@ IGUI_CN = {
 	IGUI_health_Bite = "咬",
 	IGUI_health_Scratch = "抓",
 	-- Skills
-	IGUI_skills_Multiplier = "加乘： %1",
+	IGUI_skills_Multiplier = "倍数：x %1",
 	IGUI_XP_xp = " 经验值",
 	IGUI_XP_tooltipxp = "经验值： %1 / %2",
 	IGUI_XP_tooltipxpboost = "经验增速： +%1",
