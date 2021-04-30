@@ -1,85 +1,85 @@
 SurvivalGuide_CN = {
-	SurvivalGuide_entrie1title = "�ͦs���n #1 - ���ⱱ��",
-	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #1 - ����ۤv <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> �p�G�A�����R�U��,�åB�ǲ߰�¦����,�A�N�����F�h�[.",
-	SurvivalGuide_entrie1moreinfo = " <H1> ���� <BR> <TEXT> �bProject Zomboid��,�ϥ�WASD��Ӳ���.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
-            "������SHIFT��i�H�[�t�C�]. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
-            "�԰� <BR> <TEXT> �Q�n�����L��,�A�ݭn�������ƹ��k��i�J�������A��~��i������ʧ@. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  �����ƹ��k��i�J�������A���P��, �ò��ʷƹ�����ǳƧ�������V.���L��n����k�O�P�ɦA�ϥ�WASD��ӫO���ۤv�b���_���ʤ������Ө��d�L�ͪ�����."..
-            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> �b���n�W�z�ǳƫ�,���@�U�ƹ�����Ӷi�����.���O�аO��,���n�L�N�q���ƨg�I���ƹ�����i��L�ħ���,�]�����|�ܧ֯ӺɧA����O. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> ����LCTRL�]�i�H�i�J�������A.�������A�i�H���A�[��|�P�ô�ֳQ�o�{���X�v,�е��γo�ӥ\��..  <BR> <H1> ���� <BR> "..
-            "<H2> �ƹ����@�U <BR> <TEXT> ���@�U�ƹ�����Y�i�P�P�򪫫~�i�椬��. �Ҧp,�A�i�H�ϥηƹ����@�U����ӥ��}����������,�I���o�d�Ӭd���o�d�������ǥi�H����������.. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
-            "<H2> ���ʧֳt�� <BR> <TEXT> �p�G�A�B��������A�U�n���}����������,�A�i�H��E��ӥ��}����������. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> �Ҧp, ���ᦳ�L�ͻݭn���}���N�i�}���������p�U. <BR>  <TEXT> ����E��i�H���A½�V���ΰ���,�o�b�A���J�M�I��,�������@�������k. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-            " <LINE> <H2> ���ʥ\��� <BR> <TEXT> �b����W�I���ƹ��k��,�i�H���}���骺���ʥ\���,�Ҧp�s�@,��ѵ�. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
+	SurvivalGuide_entrie1title = "生存指南 #1 - 角色控制",
+	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平靜下來,並且學習基礎知識,你就活不了多久.",
+	SurvivalGuide_entrie1moreinfo = " <H1> 移動 <BR> <TEXT> 在Project Zomboid中,使用WASD鍵來移動.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
+            "按住左SHIFT鍵可以加速慢跑. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
+            "戰鬥 <BR> <TEXT> 想要攻擊殭屍,你需要先按住滑鼠右鍵進入攻擊姿態後才能進行攻擊動作. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  按住滑鼠右鍵進入攻擊姿態的同時, 並移動滑鼠面對準備攻擊的方向.不過更好的方法是同時再使用WASD鍵來保持自己在不斷移動中攻擊來防範殭屍的攻擊."..
+            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 在做好上述準備後,按一下滑鼠左鍵來進行攻擊.但是請記住,不要無意義的瘋狂點擊滑鼠左鍵進行無效攻擊,因為那會很快耗盡你的體力. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> 按住LCTRL也可以進入攻擊姿態.攻擊姿態可以讓你觀察四周並減少被發現的幾率,請善用這個功能..  <BR> <H1> 互動 <BR> "..
+            "<H2> 滑鼠按一下 <BR> <TEXT> 按一下滑鼠左鍵即可與周圍物品進行互動. 例如,你可以使用滑鼠按一下窗戶來打開或關閉窗戶,點擊櫥櫃來查看櫥櫃中有哪些可以收集的物資.. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
+            "<H2> 互動快速鍵 <BR> <TEXT> 如果你處於攻擊姿態下要打開或關閉窗戶,你可以按E鍵來打開或關閉窗戶. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> 例如, 門後有殭屍需要打開門就展開攻擊的情況下. <BR>  <TEXT> 按住E鍵可以讓你翻越窗或高牆,這在你陷入危險時,不失為一種應急辦法. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+            " <LINE> <H2> 互動功能表 <BR> <TEXT> 在物體上點擊滑鼠右鍵,可以打開物體的互動功能表,例如製作,拆解等. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
 
-	SurvivalGuide_entrie2title = "�ͦs���n #2 - ���n�ö]",
-	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #2 - ���n�ö] <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> �A�o�X�����R�V�j,�L�͵o�{�A�����v�]�V�j.���M,�A�]�|�������.",
-	SurvivalGuide_entrie2moreinfo = " <H1> �L�ͷP�x <BR> <TEXT> �b�ͦs�Ҧ���,�L�ͦ����O�H��ť�O. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> �]�B�|�s�y����,�ް_�L�ͪ��`�N. <BR> �A����L�Ͷ]�o��,���������[. <BR> "..
-    " �@�ө��������a�|���Υ�CTRL�� (�Ϊ̧Aı�o�ƹ��k��󶶤�). �i�J�������A�Ҧ�.�������A�|��C�A���}�B,�åB���A���R�����ɶ��[��|�P.�B�b�D�J�L�ͮɥi�H�i��ֳt���� <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid���O�@���v�t���C��.�����æn�ۤv.�L�ͥu���Q�Y���A�@�طQ�k.",
+	SurvivalGuide_entrie2title = "生存指南 #2 - 不要亂跑",
+	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #2 - 不要亂跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> 你發出的動靜越大,殭屍發現你的機率也越大.當然,你也會死的更快.",
+	SurvivalGuide_entrie2moreinfo = " <H1> 殭屍感官 <BR> <TEXT> 在生存模式中,殭屍有視力以及聽力. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 跑步會製造噪音,引起殭屍的注意. <BR> 你能比殭屍跑得快,但那不長久. <BR> "..
+    " 一個明智的玩家會善用左CTRL鍵 (或者你覺得滑鼠右鍵更順手). 進入攻擊姿態模式.攻擊姿態會放慢你的腳步,並且讓你有充分的時間觀察四周.且在遭遇殭屍時可以進行快速攻擊 <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid不是一個競速類遊戲.請隱藏好自己.殭屍只有想吃掉你一種想法.",
 
-	SurvivalGuide_entrie3title = "�ͦs���n #3 - ������!",
-	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #3 - ������! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> �A�b�P�L�ͧ@��.���ħ����O�ܭ��n��! <LINE> <LINE> �O��:�˷��L�͵M�����!",
-	SurvivalGuide_entrie3moreinfo = " <H1> �԰��t�� <BR> <TEXT> �C�ӪZ����y�����ˮ`�����P.�M��,�����¤O���M��A�ۤv���ޯ�M�ޥ�.���ΪZ�����S�I�M�ޥ�,�����A�ƥb�\��. <BR> <H2> �˷� "..
-            " <BR> <TEXT> ��ԪZ���z�Y���O�q���O���M��A���ޯ൥��. ���L, �t�@�ӭ��n���]���O�A���o�@�U�����W�O/�˷ǤF�h�[.�O��, �C�@�U�������n�����k��Ƭ���A�i��,�o�|�T�O�A�C�@�U���������|�o���̦n���ĪG(�W�O����). <BR> �W�O�����񤣰���������󦳮�,�W�c���I������,�èS������n�B! <BR> <H2> �����Z�� <BR> <TEXT> �����Z���]�O�@�ӭ��n������. <BR> �Ҧp�βy�ΩM���Y,���̪��u�I�N�O���̯�b���Z���o�ʧ���.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> ���\�M,���o�M���Z�����u�I�O��Z������ĪG.���L,���n�磻�o�M����Ӱ�. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-            " <H2> GROUND ATTACKS <BR> <TEXT> ���L�ͪ���k�q�`�O�⥦�̱���,�A�����a���������Y��. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> �W�O���ʪZ�����X�v�����L��,���L�Ͷi�J�C�����d��,�h�u����}�L��. <BR> ���L�ͳQ���˫�: �C�@���������N�۰ʺ˷ǳQ���˦b�a���W���L��.���L�٬O�к˷��L���Y��.�o�N�ܧֱ�������. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
+	SurvivalGuide_entrie3title = "生存指南 #3 - 精准攻擊!",
+	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #3 - 精准攻擊! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 你在與殭屍作戰.有效攻擊是很重要的! <LINE> <LINE> 記住:瞄準殭屍然後攻擊!",
+	SurvivalGuide_entrie3moreinfo = " <H1> 戰鬥系統 <BR> <TEXT> 每個武器能造成的傷害都不同.然而,它的威力取決於你自己的技能和技巧.善用武器的特點和技巧,能讓你事半功倍. <BR> <H2> 瞄準 "..
+            " <BR> <TEXT> 近戰武器爆頭的力量都是取決於你的技能等級. 不過, 另一個重要的因素是你為這一下攻擊蓄力/瞄準了多久.記住, 每一下攻擊都要按住右鍵數秒後再進行,這會確保你每一下的攻擊都會發揮最好的效果(蓄力攻擊). <BR> 蓄力攻擊比不停按攻擊鍵更有效,頻繁的點攻擊鍵,並沒有什麼好處! <BR> <H2> 攻擊距離 <BR> <TEXT> 攻擊距離也是一個重要的元素. <BR> 例如棒球棒和斧頭,它們的優點就是它們能在遠距離發動攻擊.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> 而餐刀,奶油刀等武器的優點是近距離刺殺效果.不過,不要對奶油刀期望太高. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+            " <H2> GROUND ATTACKS <BR> <TEXT> 殺殭屍的方法通常是把它們推倒,再不停地攻擊它的頭部. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 蓄力揮動武器有幾率擊倒殭屍,但殭屍進入低攻擊範圍內,則只能推開殭屍. <BR> 當殭屍被擊倒後: 每一次攻擊都將自動瞄準被擊倒在地面上的殭屍.不過還是請瞄準殭屍頭部.這將很快殺死它們. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
 
-	SurvivalGuide_entrie4title = "�ͦs���n #4 - �D������",
-	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #4 - �D������ <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> ���b������A������ͦs�������n.",
-	SurvivalGuide_entrie4moreinfo = " <H1> ���� <BR> <TEXT> �Ѥ��t�δN���q�O�@��,���|�Τ�����.�p�G�A���Q�]�ʤ��Ӵ�������,���x�Ʀn���~... <BR> �A������|�۰ʱq�H���������x���e���̳ܤ�. <BR> �n�ܤ��θ˺��~�l,�u�ݦb�C���������Ѥ������/���~�W�ϥηƹ��k��\����Y�i. ����,�D��,���s�Y... ԣ����. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
+	SurvivalGuide_entrie4title = "生存指南 #4 - 求水之路",
+	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #4 - 求水之路 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 乾淨的水對你的持續生存至關重要.",
+	SurvivalGuide_entrie4moreinfo = " <H1> 水源 <BR> <TEXT> 供水系統就像電力一樣,不會用之不竭.如果你不想因缺水而渴死的話,請儲備好水瓶... <BR> 你的角色會自動從隨身的任何儲水容器裡喝水. <BR> 要喝水或裝滿瓶子,只需在遊戲中任何能供水的方格/物品上使用滑鼠右鍵功能表即可. 水槽,浴缸,水龍頭... 啥都行. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
 
-	SurvivalGuide_entrie5title = "�ͦs���n #5 - �T�Y����",
-	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #5 - �T�Y���� <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> �L�̷ͭ|�}�a���M����!�̨Ϋ�ĳ:�[�T����!",
-	SurvivalGuide_entrie5moreinfo = " <H1> �s�@ <BR> <TEXT> �n�s�@���~,�u�ݦb�H�����ƤW���k���ܻs�@�Y�i. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE>�A�i�H�Υ��s�@���U�ئU�˪����~,�H�ΧA�H����a����L���~,���|���_�a��ܥX��! <BR>�״I���i��,��u,�����M�ͦs���t��൹�A�b���@�������u��. <BR> <H1> �[�T <BR> <TEXT>�A�i�H�Υk���I���ӥ[�T�A������ & ���A�H��������a��l,��O�M�v�l. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE>�i�H�ϥΦh����O�Ӷi�@�B�[�T����. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
-            " <H1> ��u <BR> <TEXT> ���A����h�귽�M��n���K��,�A�K�i�H�c�ؤ@�ӧ�[���T�����m�u��.�u�ݦb�Q�n�ؿv���a���W���k��Y�i��ܫؿv����.�i���u�u�@�ɥ����H����a�K��. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> �b�o��,�A�i�H��ܥ���A���e�ޯ�M���Ư�s�@�X�Ӫ����~. <BR> ����ܦn�n�ؿv�����~��,�A�i�H�ηƹ����ʥ�,�A�i�H�ηƹ����ʥ�,�M�w�n�z�Q��m��A�������\��. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> �s�@���|��������.PZ�O�Ӱ��V�{�ꪺ�C��,�p�G�A���g���L�ؿv�u�A�N�|���ճo�ǪF��ݭn�ɶ�. (�Ъ`�N,�p�G�����U����,�ڭ̽T�ꤹ�\�z�b�C�����s�@�X�M��). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> �b�A�\�񥴳y�����~�e�i�H��R��ӱ��०. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> ���O: �A���y�o�V�h,�A�������N�|�V�n.�󰪪��ޯ���ǷN���ۧ󰪫~�誺���~,���~�]�󬰦���.",
+	SurvivalGuide_entrie5title = "生存指南 #5 - 固若金湯",
+	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #5 - 固若金湯 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 殭屍們會破壞門和窗戶!最佳建議:加固窗戶!",
+	SurvivalGuide_entrie5moreinfo = " <H1> 製作 <BR> <TEXT> 要製作物品,只需在隨身材料上按右鍵選擇製作即可. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE>你可以用它製作的各種各樣的物品,以及你隨身攜帶的其他物品,都會神奇地顯示出來! <BR>豐富的烹飪,木工,醫療和生存等配方能給你在末世中佔據優勢. <BR> <H1> 加固 <BR> <TEXT>你可以用右鍵點擊來加固你的窗戶 & 但你隨身必須攜帶錘子,木板和釘子. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE>可以使用多塊木板來進一步加固窗戶. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
+            " <H1> 木工 <BR> <TEXT> 當你找到更多資源和更好的鐵錘,你便可以構建一個更加堅固的防禦工事.只需在想要建築的地面上按右鍵即可顯示建築條目.進行木工工作時必須隨身攜帶鐵錘. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 在這裡,你可以選擇任何你當前技能和材料能製作出來的物品. <BR> 當選擇好要建築的物品後,你可以用滑鼠移動它,你可以用滑鼠移動它,決定好理想位置後再按左鍵擺放. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 製作不會瞬間完成.PZ是個偏向現實的遊戲,如果你曾經當過建築工你就會明白這些東西需要時間. (請注意,如果有幫助的話,我們確實允許您在遊戲中製作幾杯茶). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 在你擺放打造的物品前可以按R鍵來旋轉它. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 切記: 你打造得越多,你的手藝就會越好.更高的技能水準意味著更高品質的產品,產品也更為有用.",
 
-	SurvivalGuide_entrie6title = "�ͦs���n #6 - ����s",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #6 - ����s <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> ���M���̥i��w�g���F,�������٬O��ݳz����. <LINE> <LINE> �S����î? ���ְʤ�a. ",
-	SurvivalGuide_entrie6moreinfo = " <H1> ���ץ��̪����u <BR> <TEXT> �b�L�ͥ��餤�@�ӳ̱`�������~�N�O����î�}��.�ѰO����î��G�O�P�R�ʪ�,�C�����L�ͷ|�o�{�ñ����A. <BR> �n������î�Φʸ���: �Υk����. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> �[�T����]������L�ͬݨ���u�M���R. <BR> �p�G���S����î,�ӧA�S�S���ƥΤ�O,�γ\�������L�F��i�H�N��?�ӧa,����.",
+	SurvivalGuide_entrie6title = "生存指南 #6 - 防止偷窺",
+	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #6 - 防止偷窺 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 雖然它們可能已經死了,但它們還是能看透窗戶. <LINE> <LINE> 沒有窗簾? 趕快動手吧. ",
+	SurvivalGuide_entrie6moreinfo = " <H1> 阻擋它們的視線 <BR> <TEXT> 在殭屍末日中一個最常見的錯誤就是讓窗簾開著.忘記關窗簾後果是致命性的,遊蕩的殭屍會發現並殺死你. <BR> 要關閉窗簾或百葉窗: 用右鍵菜單. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗戶也能阻止殭屍看到光線和動靜. <BR> 如果那沒有窗簾,而你又沒有備用木板,或許有什麼其他東西可以代替?來吧,找找看.",
 
-	SurvivalGuide_entrie7title = "�ͦs���n #7 - �������a",
-	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #7 - �������a <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> �������r�i���n��.�b�j�a�ܤ����ר�P�R. <LINE> <LINE> �b�L�ͥ��餤�Y�@�y�����O������.",
-	SurvivalGuide_entrie7moreinfo = " <H1> �i�� <BR> <TEXT> ����,�����٦��ܦh��L�������b���Ϋe���ݭn���N��. (��?�o��߯f�g���C��.) <BR> ���F���C�������r�����I,���n�������O�H���N, ����i,�åi�b������ɶ����קK�Ⱦj. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> �⭹����b�q���l/�L�i�l/�N�i�H�}�l�i���F,�p�G�A�w�g���}��������,�A�i�H�Q��k�ɰ_�@������ӥN������. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> ���k�䱱��}��,�ϥΫ���O�������l,�_�h�ɶ��@�����l�|�z���v�o���a,���O. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
-            " <H1> �ѧ@ <BR> <TEXT> �A�ݭn�@��d��M�ؤl�N��ش�, ½�g���J�ؤl�A���. �ܧ֧A�N���������_�������F. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-            " <H1> �j�M <BR> <TEXT> �b�˪L�̧�ǼߪG�M��L���G�a. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
-			" <H1> ���@�����|�� <BR> <TEXT> �b����ɭԳ��Фp���l�l,���`�|���A�ᥢ�Ҧ����~�M���e�H���Ҧ��ޯ�.",
+	SurvivalGuide_entrie7title = "生存指南 #7 - 美味佳餚",
+	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #7 - 美味佳餚 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒可不好玩.在大災變之中尤其致命. <LINE> <LINE> 在殭屍末日中吃一頓熱飯是必須的.",
+	SurvivalGuide_entrie7moreinfo = " <H1> 烹飪 <BR> <TEXT> 牛排,雞肉還有很多其他的食物在食用前都需要先煮熟. (哈?這喪心病狂的遊戲.) <BR> 除了降低食物中毒的風險,做好的飯菜更令人滿意, 更有營養,並可在更長的時間內避免饑餓. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 把食物放在電磁爐/微波爐/就可以開始烹飪了,如果你已經離開城市的話,你可以想辦法升起一堆營火來代替它們. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 按右鍵控制開關,使用後切記關閉火爐,否則時間一長火爐會爆炸影發火災,切記. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+            " <H1> 耕作 <BR> <TEXT> 你需要一把泥鏟和種子就能種植, 翻土後放入種子再澆水. 很快你就有源源不斷的食物了. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+            " <H1> 搜尋 <BR> <TEXT> 在森林裡找些漿果和其他水果吧. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
+			" <H1> 不作死不會死 <BR> <TEXT> 在任何時候都請小心翼翼,死亡會讓你丟失所有物品和當前人物所有技能.",
 
-	SurvivalGuide_entrie8title = "�ͦs���n #8 - �y�n����",
-	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #8 - �y�n���� <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> �ت����T����������i�H�`�ٱz���ɶ��ƦܱϧA�@�R!",
-	SurvivalGuide_entrie8moreinfo = " <H1> ��� <BR> <TEXT> ��˥h��,���X,�ᱼ�M�ϥΩO?�bProject Zomboid�̧ڭ̤j�����ɶ����b���o�ǰʧ@! <BR> �D�n��k�N�O�����ηƹ��ԩ񪫫~ - �Ϊ̥i�H���k���ܥ\���. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-            " ����LSHIFT�i�H�P�ɿ�ܦh�˪��~. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> �Ϊ�,�A�i�H������������ԥX�@�Ӥj���諬�h��ܤ@�ӽd��. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-            " �Ϊֳ̧t�a�������U�Ӷi��B��.�Ϊ̦b�����~��k�䪺���s. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  ��,�p�G�A�Q�@��B���Ҧ��F��,�o���٤@�ӬB�����������. <LINE> "..
-            " <H1> ���Ϊ��I�]/�U�l <BR> <TEXT> �U�سU�l�M�I�]�O�D�`���n�����~.���i���A��a��h�����~. <BR> �p�n�˳ƳU�l�έI�],���k���ܸ˳�(����)�A�˳�(�k��) �έI�W(�I�]�~�i�H�I�W). "..
-            " <BR> �˳ƫ�,�A�N�|�ݨ��I�]�b�A�����~��� - �ǳƦn�i�H�����⪫�~��J�I�].���n���O,�I�]�i�H��A�`�骺���q. �����O�D�`���ζ�? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-            " <H1> ���m�ϥΧֳt��  <BR> <TEXT> �b�]�w�̥i�H�]�w�ֳt��,�w�g�w�]�F�@�����ֳt��. "..
-            " <BR> 1 : �˳ƶˮ`�̰����Z�� " ..
-			" <BR> 2 : �˳ƶˮ`�̰����j�� (���n�ѰOR��O�˶�u��!)" ..
-			" <BR> 3 : �˸m�ˮ`�̰�����ԪZ�� " ..
-			" <BR> F : �˳�(�}��)�i�@���ө����D�� ",
+	SurvivalGuide_entrie8title = "生存指南 #8 - 囤積物資",
+	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #8 - 囤積物資 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 目的明確的收集物資可以節省您的時間甚至救你一命!",
+	SurvivalGuide_entrie8moreinfo = " <H1> 選擇 <BR> <TEXT> 怎樣去拿,取出,丟掉和使用呢?在Project Zomboid裡我們大部分時間都在做這些動作! <BR> 主要方法就是直接用滑鼠拉放物品 - 或者可以按右鍵選擇功能表. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+            " 按住LSHIFT可以同時選擇多樣物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者,你可以直接按住左鍵拉出一個大正方型去選擇一個範圍. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+            " 或者快速地按左鍵兩下來進行拾取.或者在按物品欄右邊的按鈕. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  喔,如果你想一鍵拾取所有東西,這裡還一個拾取全部的選擇. <LINE> "..
+            " <H1> 有用的背包/袋子 <BR> <TEXT> 各種袋子和背包是非常重要的物品.它可幫你攜帶更多的物品. <BR> 如要裝備袋子或背包,按右鍵選擇裝備(左手)，裝備(右手) 或背上(背包才可以背上). "..
+            " <BR> 裝備後,你就會看見背包在你的物品欄裡 - 準備好可以直接把物品放入背包.重要的是,背包可以減輕你總體的重量. 那不是非常有用嗎? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+            " <H1> 熟練使用快速鍵  <BR> <TEXT> 在設定裡可以設定快速鍵,已經預設了一部分快速鍵. "..
+            " <BR> 1 : 裝備傷害最高的武器 " ..
+			" <BR> 2 : 裝備傷害最高的槍械 (不要忘記R鍵是裝填彈藥!)" ..
+			" <BR> 3 : 裝置傷害最高的近戰武器 " ..
+			" <BR> F : 裝備(開啟)可作為照明的道具 ",
 
-    SurvivalGuide_entrie9title = "�ͦs���n #9 - ��q�u��",
-    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #9 - ��q�u�� <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> �������ͦs�a�ӫܦh�n�B,�����̤]�|�a�Ӿ���! �@�x���B������|�l�ޫܻ����@�j�s�L��...",
-    SurvivalGuide_entrie9moreinfo = " <H1> �i�J���� <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> �p�G�A���B����,���򨮥D�i��|���_�͸��b����,�I���˸m�Τ�M�c��. �Ϊ�,�j�������L�ͨ��W,���D�γ\�N�b�䤤.�P��,�p�G�A��ܪ������b�Фl�~�� - �ж��K�j���ж�.�_�ͥi��N�b�Фl��. <BR> �٬O�����?�����򤣯}���ӤJ�O?�{�H�����N�����.�p�G�A��2�Ŷ¤�M1�Źq�u�ޯ�,����A�N�൹���u���o��. <BR> " ..
-            " <H1> �r�p�ɥ� <BR> <TEXT> �I���I���˸m�Ӵ��J�A���_��,�Ұʵo�ʾ����ˬd�����OŪ��.�Ϊ�,�u�ݫ��U�e�i�� (�q�{��: W) �Y�i�Ұ�. <BR> �p�G�T�����o�ʾ����p���n, �i�ण�|�@���N�Ұ�.�p�G�դF�ܦh���ٵL�k�Ұ�,�A�ݭn�ˬd�U���p�����F... <BR> �p�߶}��! �T�����n���V�j,�N�|�l�ާ�j�d���L�ͨø��H�T��...  <BR> " ..
-            " <H1> �����O <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> �b�����������O�W,�z�i�H�ݨ즳�Ϊ���TŪ��,�p�o�q,�t�שM��t. <BR> �����O�������ϥ��ٱN�i�D�z�o�ʾ����A,��ƽc�O�_���},�e�j�O�O�_�}�ҵ�.���@�U�o�ǹϥܱN���}�i�οﶵ - �]�����@�U �Ž�/�[���� �N���}��������. <BR> " ..
-            " <H1> �����\��� <BR> <TEXT> �p�G�A�b�����ή����'V'��,�o�N�ॴ�}�����������. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> �q�o�̱z�i�H�洫�y��,���, ����O,���}���p������. <BR> " ..
-            " <H1> ���p���� <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> �S���޳N���Ʀs�̥i�H�ˬd�A���q���O�_�٦�,�d�ݿU�o����,�õo�{�T�����Y�ǳ����O�_�X�{�l�a. �֦��¤�ޯ઺�Ʀs�̱N����ݨ��B�~���Ӹ`,�æw�˩M��������. <BR> �������ޯ�M�¤�ޯ઺��h��T,�Ы��@�U���p�������W������T�ϥ�.",
+    SurvivalGuide_entrie9title = "生存指南 #9 - 交通工具",
+    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛給生存帶來很多好處,但它們也會帶來噪音! 一台高運轉引擎會吸引很遠的一大群殭屍...",
+    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你走運的話,那麼車主可能會把鑰匙落在車門,點火裝置或手套箱裡. 或者,搜索附近的殭屍身上,車主或許就在其中.同樣,如果你選擇的車停在房子外面 - 請順便搜索房間.鑰匙可能就在房子裡. <BR> 還是不行嗎?為什麼不破窗而入呢?砸碎車窗將其解鎖.如果你有2級黑手和1級電工技能,那麼你就能給它短接發動. <BR> " ..
+            " <H1> 駕駛時光 <BR> <TEXT> 點擊點火裝置來插入你的鑰匙,啟動發動機並檢查儀表板讀數.或者,只需按下前進鍵 (默認鍵: W) 即可啟動. <BR> 如果汽車的發動機狀況不好, 可能不會一次就啟動.如果試了很多次還無法啟動,你需要檢查下車況視窗了... <BR> 小心開車! 汽車的聲音越大,就會吸引更大範圍的殭屍並跟隨汽車...  <BR> " ..
+            " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 在車輛的儀表板上,您可以看到有用的資訊讀數,如油量,速度和轉速. <BR> 儀表板頂部的圖示還將告訴您發動機狀態,後備箱是否打開,前大燈是否開啟等.按一下這些圖示將打開可用選項 - 因此按一下 空調/加熱器 將打開相關視窗. <BR> " ..
+            " <H1> 圓環功能表 <BR> <TEXT> 如果你在車內或旁邊按'V'鍵,這將能打開它的圓環菜單. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 從這裡您可以交換座位,鎖門, 控制燈,打開車況視窗等. <BR> " ..
+            " <H1> 車況視窗 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 沒有技術的倖存者可以檢查你的電池是否還行,查看燃油水平,並發現汽車的某些部分是否出現損壞. 擁有黑手技能的倖存者將能夠看到額外的細節,並安裝和卸載部件. <BR> 有關此技能和黑手技能的更多資訊,請按一下車況視窗左上角的資訊圖示.",
 
-    SurvivalGuide_entrie10title = "�ͦs���n #10 - �Ѯ�t��",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #10 - �Ѯ�t�� <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> ��, ���ɩM�����L�ͪ��¯٧��D�ԩ�! ���V�Ѩ��{�ɰ��n�O�x...",
-    SurvivalGuide_entrie10moreinfo = "<H1> ����ܤ� <BR> <TEXT> Project Zomboid�����Ѯ�Ҧ��D�`�G�u.�����Ԩt�η|�s�y�B,��,���M�p�ɵ��Ѯ�. <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> �H�N�M�ż����|��A���ͦs�y���ܤj���v�T. <LINE> " ..
-                                      " �p�G�A�����R��,��O�R�K�ì�ۥV��,����V�Ѥ��|�ܪ�����i��,���O��A����ίe�f�b�V�Ѩ̵M�O�D�`�j���¯�. <LINE> <BR> " ..
-                                      " �b���ݴH�N�Ѯ�U,�̦n�ϥΨ��x�]�ƶi����x:���l,�T���x��M�ǥ~꺤����i�H���x(�����O�p�G�S���������g��,�ФŦb�Ǥ��I�U꺤�). <LINE> "..
-                                      " �b���ݪ����Ѯ�U,�̦n�H����a�R��������,�P�ɽо��q�۸ˮL��. <LINE> <BR>" ..
-                                      " <H1> �ū� <BR> <TEXT> �p�G�A�Q���D�{�b���ū�,�зj�M�@���q�l��,���H����a�θ˳Ʀb��W.�ūױN��ܦb�k�W��. <LINE> <BR> " ..
-                                      " <H1> ���H <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> �S�O�O�b�V�u,���H�]�O�M�w�ūת��@�Ӧ]��,�ѩ�j���M�ɫB. �ɭ����|�Y�����C�ū�. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> ���H�|�v�T�A�����d,�������|��ܦb�q�l���W.�Юɨ�d�N�A�����d���A. <LINE> <BR> " ..
-                                      " �`�N�O�x!",
+    SurvivalGuide_entrie10title = "生存指南 #10 - 天氣系統",
+    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #10 - 天氣系統 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 霧, 風暴和雪使殭屍的威脅更具挑戰性! 當冬天來臨時做好保暖...",
+    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變化 <BR> <TEXT> Project Zomboid中的天氣模式非常逼真.類比氣候系統會製造雨,雪,霧和雷暴等天氣. <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 寒冷和酷熱都會對你的生存造成很大的影響. <LINE> " ..
+                                      " 如果你飲食充足,體力充沛並穿著冬裝,那麼冬天不會變的那麼可怕,但是衣服潮濕或疾病在冬天依然是非常大的威脅. <LINE> <BR> " ..
+                                      " 在極端寒冷天氣下,最好使用取暖設備進行取暖:壁爐,汽車暖氣和室外篝火都可以取暖(但切記如果沒有足夠的經驗,請勿在室內點燃篝火). <LINE> "..
+                                      " 在極端炎熱天氣下,最好隨身攜帶充足的飲水,同時請儘量著裝夏裝. <LINE> <BR>" ..
+                                      " <H1> 溫度 <BR> <TEXT> 如果你想知道現在的溫度,請搜尋一隻電子錶,並隨身攜帶或裝備在手上.溫度將顯示在右上角. <LINE> <BR> " ..
+                                      " <H1> 風寒 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 特別是在冬季,風寒也是決定溫度的一個因素,由於強風和暴雨. 暴風雪會嚴重降低溫度. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 風寒會影響你的健康,但它不會顯示在電子錶上.請時刻留意你的健康狀態. <LINE> <BR> " ..
+                                      " 注意保暖!",
 
-    SurvivalGuide_entrie11title = "�ͦs���n #11 - �������",
-    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> �L�ͥͦs���n <LINE> <SIZE:large> #11 - ������� <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - ��� <LINE> %2 - �Ĩ� <LINE> %3 - �C�]"
-    SurvivalGuide_entrie11moreinfo = "<H1> �ۤU <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> �A�i�H�ۦb��M�]��᭱�H���C�L�̪��i����! <LINE> �z�٥i�H�b�����A�U�C�]. <LINE> <BR> " ..
-                                        "<H1> �Ĩ� <BR> <TEXT> �p�G�C�]������ - �ШϥνĨ�! <LINE> ���U %1 �i��Ĩ� - ���޸I���ê���Ӷ^��. <LINE> <BR> " ..
-                                        "<H1> �۰�½�V <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> �n½�V�X��,�u�ݭn�C�]�νĨ�N�|�۰�½�V. <LINE> <BR> " ..
-                                        "<H1> �z�Y <BR> <TEXT> ���L�ͭˤU��:�к˷��Y��!�����D�Y���ϰ�L�k�y���j�q�ˮ`,�÷|���ӧA��h��O. <LINE> <BR> " ..
-                                        "<H1> ���� <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> �ϥΪ��ٻݭn�X�A���ɾ��ζZ��.���~,�����򤣸ոժ��ٽĨ�O? <LINE> <BR> " ..
-                                        "<H1> ���@ <BR> <TEXT> ��ۨ��m������A�i�H���C�A���˪��X�v. �� %2 �䥴�}�۸˭��O�Ӭd�ݦ�A�����@��(�Ъ`�N,�̦n�����@�̵M�O�����L�ͧ����Ӥ��O�M�L�ͤ��۶ˮ`). <LINE> <BR> ",
+    SurvivalGuide_entrie11title = "生存指南 #11 - 隱秘行動",
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #11 - 隱秘行動 <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - 潛行 <LINE> %2 - 衝刺 <LINE> %3 - 慢跑"
+    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 你可以蹲在牆和柵欄後面以降低他們的可見度! <LINE> 您還可以在此狀態下慢跑. <LINE> <BR> " ..
+                                        "<H1> 衝刺 <BR> <TEXT> 如果慢跑不夠快 - 請使用衝刺! <LINE> 按下 %1 進行衝刺 - 儘管碰到障礙物而跌倒. <LINE> <BR> " ..
+                                        "<H1> 自動翻越 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> 要翻越籬笆,只需要慢跑或衝刺就會自動翻越. <LINE> <BR> " ..
+                                        "<H1> 爆頭 <BR> <TEXT> 當殭屍倒下時:請瞄準頭部!打擊非頭部區域無法造成大量傷害,並會消耗你更多體力. <LINE> <BR> " ..
+                                        "<H1> 長矛 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 使用長矛需要合適的時機及距離.此外,為什麼不試試長矛衝刺呢? <LINE> <BR> " ..
+                                        "<H1> 防護 <BR> <TEXT> 穿著防禦高的衣服可以降低你受傷的幾率. 按 %2 鍵打開著裝面板來查看衣服的防護性(請注意,最好的防護依然是躲避殭屍攻擊而不是和殭屍互相傷害). <LINE> <BR> ",
 
 }
