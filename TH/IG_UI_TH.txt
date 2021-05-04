@@ -2,7 +2,7 @@ IGUI_TH = {
 	-- All the UI text used in game
 	-- InventoryPane
     IGUI_invpanel_Type = "รายการ",
-    IGUI_invpanel_Category = "หมวดหมู่หมวดหมู่",
+    IGUI_invpanel_Category = "หมวดหมู่",
     IGUI_invpanel_Pack = "บรรจุ",
     IGUI_invpanel_unpack = "แกะออก",
     IGUI_invpanel_drop_all = "ทิ้งทั้งหมด",
@@ -60,7 +60,7 @@ IGUI_TH = {
     IGUI_ContainerTitle_inventoryfemale = "ศพ",
     IGUI_ContainerTitle_inventorymale = "ศพ",
     IGUI_ContainerTitle_locker = "ตู้",
---
+    IGUI_ContainerTitle_logs = "ไม้ซุง",
     IGUI_ContainerTitle_medicine = "ตู้",
     IGUI_ContainerTitle_metal_shelves = "ชั้นวาง",
     IGUI_ContainerTitle_microwave = "ไมโครเวฟ",
@@ -856,7 +856,7 @@ IGUI_TH = {
     IGUI_VehiclePartCatsuspension = "กันสะเทือน",
     IGUI_VehiclePartCatOther = "อื่น ๆ",
     IGUI_VehiclePartTruckBedOpen = "ท้ายรถ",
---
+    IGUI_VehiclePartTrailerTrunk = "พ่วงหลัง",
     IGUI_VehiclePartTireFrontLeft = "ยางหน้าซ้าย",
     IGUI_VehiclePartTireFrontRight = "ยางหน้าขวา",
     IGUI_VehiclePartTireRearLeft = "ยางหลังซ้าย",
@@ -939,9 +939,9 @@ IGUI_TH = {
     IGUI_VehicleNameStepVanRadio = "เชวาเลียร์สเต็ปแวน",
     IGUI_VehicleNameStepVanMail = "เชวาเลียร์สเต็ปแวน",
     IGUI_VehicleNameVanAmbulance = "พยาบาล",
---
---
---
+    IGUI_VehicleNameTrailer = "พ่วงหลัง",
+    IGUI_VehicleNameTrailerAdvert = "พ่วงหลัง",
+    IGUI_VehicleNameTrailerCover = "พ่วงหลัง",
     -- Names of burnt vehicles that aren't one of the above plus "Burnt"
     IGUI_VehicleNameAmbulanceBurnt = "พยาบาล",
     IGUI_VehicleNameLuxuryCarBurnt = "เมอเซียแลง 4000",
@@ -1251,14 +1251,14 @@ IGUI_TH = {
     IGUI_Emote_Shout = "ตะโกน",
     IGUI_Emote_Back = "ย้อนกลับ",
     IGUI_Burpees = "พุ่งหลัง",
-	IGUI_Burpees_Tooltip = "ปรับปรุงพละกำลัง และความแข็งแรง เมื่ออกกำลังกายอย่างสม่ำเสมอ จะทำให้เหนื่อยมาก",
-	IGUI_PushUps_Tooltip = "ปรับปรุงพละกำลัง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
-	IGUI_SitUps_Tooltip = "ปรับปรุงความแข็งแรง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
-	IGUI_BarbellCurl_Tooltip = "ปรับปรุงพละกำลัง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
-	IGUI_Squats_Tooltip = "ปรับปรุงความแข็งแรง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
-	IGUI_Fitness_LegsStiffness = "ความเมื่อยล้าจากออกกำลัง จะทำให้ความเร็วในการเคลื่อนที่ลดลง",
-	IGUI_Fitness_ArmsStiffness = "ความเมื่อยล้าจากออกกำลัง จะทำให้ความสามารถในการต่อสู้ลดลง ",
-	IGUI_Fitness_AbsStiffness = "ความเมื่อยล้าจากออกกำลัง จะทำให้มีความซุ่มซ่ามมากขึ้น",
+    IGUI_Burpees_Tooltip = "ปรับปรุงพละกำลัง และความแข็งแรง เมื่ออกกำลังกายอย่างสม่ำเสมอ จะทำให้เหนื่อยมาก",
+    IGUI_PushUps_Tooltip = "ปรับปรุงพละกำลัง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
+    IGUI_SitUps_Tooltip = "ปรับปรุงความแข็งแรง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
+    IGUI_BarbellCurl_Tooltip = "ปรับปรุงพละกำลัง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
+    IGUI_Squats_Tooltip = "ปรับปรุงความแข็งแรง เมื่ออกกำลังกายอย่างสม่ำเสมอ",
+    IGUI_Fitness_LegsStiffness = "ความเมื่อยล้าจากออกกำลัง จะทำให้ความเร็วในการเคลื่อนที่ลดลง",
+    IGUI_Fitness_ArmsStiffness = "ความเมื่อยล้าจากออกกำลัง จะทำให้ความสามารถในการต่อสู้ลดลง ",
+    IGUI_Fitness_AbsStiffness = "ความเมื่อยล้าจากออกกำลัง จะทำให้มีความซุ่มซ่ามมากขึ้น",
     IGUI_PushUps = "ดันพื้น",
     IGUI_SitUps = "ลุกนั่ง",
     IGUI_Squats = "นั่งยอง ๆ",
@@ -1268,9 +1268,9 @@ IGUI_TH = {
     IGUI_BicepsCurl = "ออกกำลังแขน",
     IGUI_FitnessTime = "เวลา (นาที)",
     IGUI_FitnessRegularity = "ความสม่ำเสมอ",
---
---
---
+    IGUI_TrailerAttachName_trailer = "(ด้านหลัง)",
+    IGUI_TrailerAttachName_trailerfront = "(ด้านหน้า)",
+    IGUI_PlayerText_NoWayToTrailer = "เข้าไปหาไม่ได้",
 --
 --
 }
