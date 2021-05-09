@@ -59,6 +59,7 @@ Moveables_CN = {
     Black_Low_Modern_Table = "黑色现代矮桌",
     Black_Office_Chair = "黑色办公椅",
     Black_Tiles = "黑色瓷砖",
+    Blood_Bank = "Kennel",
     Blowout_Sign = "爆炸标志",
     Blue_Bar_Stool = "蓝色酒吧凳",
     Blue_Bed = "蓝色床",
