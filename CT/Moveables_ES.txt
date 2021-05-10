@@ -1,4 +1,4 @@
-Moveables_ES = {
+Moveables_CT = {
     Fence_gate = "Porta de la tanca",
     Broken_Glass = "Vidres trencats",
     Door = "Porta",
