@@ -54,5 +54,5 @@ Challenge_CT = {
 	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
 	Challenge_Challenge2_ButtonBonusMax = "%1 Màxim",
 	Challenge_Challenge2_ButtonStartGold = "+%1 Diners inicial - %2 XP",
-	Challenge_Challenge2_ButtonStartGoldMax = "Diners inicial màxim %1",
+	Challenge_Challenge2_ButtonStartGoldMax = "Diners inicials màxim %1",
 }

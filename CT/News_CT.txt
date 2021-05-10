@@ -77,7 +77,7 @@ Agregats els punts d'aparició que faltaven a la interfície de configuració de se
 Afegit farcit de món que faltava.
 Corregit un possible error amb el reinici de l'alarma.
 S'ha solucionat que sempre plogués a l'carregar / començar una partida.
-Es va solucionar un error rar amb la interfície d'elaboració.
+Es va solucionar un error extrany amb l'interfície d'elaboració.
 Corregit un error amb el càlcul getLightFoodMod().
 Es van arreglar les receptes evolucionades de begudes que no es podien prendre quan un ingredient podia ser afegit (error d'el cafè).
 Habilitat l'administrador de veu en SP. (Ha de donar una lleugera millora en FPS, especialment en sistemes més lents).

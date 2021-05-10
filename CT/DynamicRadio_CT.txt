@@ -75,7 +75,7 @@ DynamicRadio_CT {
     AEBS_random_10 = "<bzzt>... Operaciò Artemis <fzzt> prioritat alta ...<wzzt>",
     AEBS_random_11 = "<bzzt>... qui està enviant això?  <fzzt> Vull dir que tenim les ordres, però ...<wzzt>",
     AEBS_random_12 = "<bzzt>... no em fio d'ell. <fzzt> qui diu... no pot ser veritat<wzzt>",
-    AEBS_random_13 = "<bzzt>... va dir que venien de l'Est <fzzt> repeteixo: Est...<wzzt>",
+    AEBS_random_13 = "<bzzt>... va dir que venien de l'Est <fzzt> repeteixo: Esti...<wzzt>",
 
     AEBS_segment_night = "a la nit",
     AEBS_segment_early_morning = "de matinada",

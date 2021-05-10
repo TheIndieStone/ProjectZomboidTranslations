@@ -1,6 +1,6 @@
 MultiStageBuild_CT = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Construir paret de fusta Nv1",
+    MultiStageBuild_CreateWoodenWall_1 = "Construir paret de fusta Nv1.",
     MultiStageBuild_UpgradeWoodenWall_1To2 = "Millorar a paret de fusta Nv2",
     MultiStageBuild_CreateWoodenWall_2 = "Construir paret de fusta Nv2",
     MultiStageBuild_UpgradeWoodenWall_1To3 = "Millorar a paret de fusta Nv3",
