@@ -1,9 +1,9 @@
-﻿Tooltip_JP = {
+Tooltip_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.23
-	-- Date 12-19-2019
+	-- Build-41.50
+	-- Date 05-14-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -236,5 +236,38 @@
 	Tooltip_NothingToRepair = "修繕する場所がありません。",
 	Tooltip_NothingToRemove = "取り去る所がありません。",
 	Tooltip_NothingToUpgrade = "改良する物がありません。",
+	Tooltip_ReplaceWornItems = "交換対象:",
+	Tooltip_Dashboard_PutKeysInIgnition = "車両の鍵を入れる",
+	Tooltip_Dashboard_NoKey = "この車両の鍵がありません。",
+	Tooltip_Dashboard_Hotwired = "ホットワイヤー",
+	Tooltip_Dashboard_SpeedRegulator = "%1 + %2 キーを押すと移動開始/スピードが加速します。%1 + %3 キーを押すとスピードを低下させます。",
+	Tooltip_NeedMirror = "鏡を持つか、鏡の前に立つ必要があります。",
+	Tooltip_AndNMore = "その他...%1種類",
+	Tooltip_weapon_NoRoundChambered = "薬室に実包が入っていません。",
+	Tooltip_CantSprintEquipped = "手に装備したまま疾走することはできません。",
+	Tooltip_craft_stonePileDesc = "墓標 ",
+	Tooltip_craft_woodenCrossDesc = "十字架 ",
+	Tooltip_craft_woodenPicketDesc = "杭 ",
+	Tooltip_Chance = "成功の可能性:",
+	Tooltip_TapKey = "キーボード: %1をタップ",
+	Tooltip_Vehicle_WashTitle = "洗車",
+	Tooltip_Vehicle_WashWaterRequired1 = "全て洗車するには、%1単位の水が必要です。",
+	Tooltip_Vehicle_WashWaterRequired2 = "インベントリには、 1単位の水があります。",
+	Tooltip_Vehicle_WashWaterRequired3 = "インベントリには、%1単位の水があります。",
+	Tooltip_item_Equipped = "装備した場合",
+	Tooltip_item_Unequipped = "未装備の場合",
+	Tooltip_WaterUnlimited = "無制限",
+	Tooltip_weapon_SpentRoundChambered = "薬室に使用済みの実包があります。排出してください。",
+	Tooltip_TooExhaustedFitness = "フィットネスをするには疲れ過ぎています。",
+	Tooltip_TooHeavyFitness = "フィットネスをするには荷物が多過ぎます。",
+	Tooltip_StandStillFitness = "フィットネスをする前に立ち上がってください。",
+	Tooltip_CantDriveAndFitness = "フィットネスしながら運転することはできません。",
+	Tooltip_BedType = "ベッドの品質: %1",
+	Tooltip_BedType_badBed = "悪い",
+	Tooltip_BedType_averageBed = "不通",
+	Tooltip_BedType_goodBed = "良い",
+	Tooltip_TooMuchPainFitness = "フィットネスをするには痛みが強すぎます。",
+	Tooltip_RemoveBrokenGlassNoItem = "左手にアイテムが必要です。",,
+	Tooltip_Recipe_HockeyMaskSmashBottle = "着用したホッケーマスクが必要です。<br>使用には注意が必要です。",
 
 }
