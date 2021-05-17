@@ -56,14 +56,14 @@ Moodles_TH = {
 	Moodles_unhappy_lvl3 = "เศร้าใจ",
 	Moodles_unhappy_lvl4 = "สิ้นหวัง",
 	-- Bleeding
-	Moodles_bleeding_lvl1 = "เลือดออกเล็กน้อย",
+	Moodles_bleeding_lvl1 = "เสียเลือดเล็กน้อย",
 	Moodles_bleeding_lvl2 = "เสียเลือด",
 	Moodles_bleeding_lvl3 = "เสียเลือดมาก",
 	Moodles_bleeding_lvl4 = "เสียเลือดมากจนใกล้ตาย",
 	-- Wet
-	Moodles_wet_lvl1 = "เริ่มเปียก",
+	Moodles_wet_lvl1 = "ชื้น",
 	Moodles_wet_lvl2 = "เปียก",
-	Moodles_wet_lvl3 = "เปียกมาก",
+	Moodles_wet_lvl3 = "เปียกแฉะ",
 	Moodles_wet_lvl4 = "เปียกโชกไปทั้งตัว",
 	-- Has a cold
 	Moodles_hascold_lvl1 = "เริ่มมีน้ำมูก",
@@ -71,7 +71,7 @@ Moodles_TH = {
 	Moodles_hascold_lvl3 = "เป็นหวัด",
 	Moodles_hascold_lvl4 = "เป็นหวัดหนักมาก",
 	-- Injured
-	Moodles_injured_lvl1 = "บาดเจ็บเล็กน้อย",
+	Moodles_injured_lvl1 = "รู้สึกเจ็บ",
 	Moodles_injured_lvl2 = "บาดเจ็บ",
 	Moodles_injured_lvl3 = "บาดเจ็บหนัก",
 	Moodles_injured_lvl4 = "บาดเจ็บร้ายแรง",
@@ -134,7 +134,7 @@ Moodles_TH = {
 	-- Tired
 	Moodles_tired_desc_lvl1 = "เริ่มอ่อนล้า ควรพักผ่อนบ้าง",
 	Moodles_tired_desc_lvl2 = "ร่างกายอ่อนล้า ควรพักพ่อน",
-	Moodles_tired_desc_lvl3 = "ร่างกายอ่อนล้า หมดแรง ต้องการการพักพ่อน",
+	Moodles_tired_desc_lvl3 = "ร่างกายอ่อนล้า หมดแรง ต้องทำการพักพ่อน",
 	Moodles_tired_desc_lvl4 = "ร่างกายต้องการการพักผ่อนอย่างมาก ก่อนที่จะเกิดอันตรายใดๆ",
 	-- Hungry
 	Moodles_hungry_desc_lvl1 = "เริ่มหิว ควรหาอะไรกินบ้าง",
@@ -159,25 +159,25 @@ Moodles_TH = {
 	-- Unhappy
 	Moodles_unhappy_desc_lvl1 = "ความเศร้าโศก มันคือความทุกข์ ควรรีบหาทางขจัดมันออกไป",
 	Moodles_unhappy_desc_lvl2 = "หาอะไรที่สนุกสนานตื่นเต้นทำ หรือออกไปพบปะผู้คนบ้าง เพื่อคลายความทุกข์",
-	Moodles_unhappy_desc_lvl3 = "โศกเศร้า จมอยู่กับความทุกข์ หมกมุ่นอยู่กับความสูญเสีย",
-	Moodles_unhappy_desc_lvl4 = "สิ้นหวัง ไม่มีความสุข อยากหลีกหนีจากโลกแห่งความเป็นจริง",
+	Moodles_unhappy_desc_lvl3 = "จมอยู่กับความทุกข์ หมกมุ่นอยู่กับความท้อแท้",
+	Moodles_unhappy_desc_lvl4 = "ไม่มีความสุข อยากหลีกหนีจากโลกแห่งความเป็นจริง",
 	-- Bleeding
 	Moodles_bleed_desc_lvl1 = "ต้องการผ้าพันแผล",
 	Moodles_bleed_desc_lvl2 = "พละกำลัง และความเร็วในการเคลื่อนที่ลดลง",
 	Moodles_bleed_desc_lvl3 = "พละกำลัง และความเร็วในการเคลื่อนที่ลดลงอย่างมาก",
 	Moodles_bleed_desc_lvl4 = "ความตายรอคอยคุณอยู่",
 	-- Wet
-	Moodles_wet_desc_lvl1 = "ตากฝนมากเกินไป ระวังจะไม่สบายเอาได้",
-	Moodles_wet_desc_lvl2 = "การเคลื่อนที่เริ่มช้าลง เพราะตากฝนมากเกินไป",
-	Moodles_wet_desc_lvl3 = "การเคลื่อนที่ช้าลง เพราะตากฝนมากเกินไป มีโอกาสไม่สบายได้",
-	Moodles_wet_desc_lvl4 = "การเคลื่อนที่ช้าลงอย่างมาก เพราะตากฝนมากเกินไป มีโอกาสไม่สบายสูง",
+	Moodles_wet_desc_lvl1 = "เริ่มชื้นแล้ว เหงื่อหรือฝนกันแน่นะ",
+	Moodles_wet_desc_lvl2 = "เปียกแล้ว ไม่รู้ว่าเหงื่อหรือฝนที่มากกว่ากัน",
+	Moodles_wet_desc_lvl3 = "ตากฝนมากไป มีโอกาสไม่สบายได้",
+	Moodles_wet_desc_lvl4 = "ตากฝนมากเกินไป มีโอกาสไม่สบายสูง",
 	-- Has a cold
 	Moodles_hasacold_desc_lvl1 = "รู้สึกอากาศหนาวเย็น",
 	Moodles_hasacold_desc_lvl2 = "ร่างกายต้องการความอบอุ่น",
 	Moodles_hasacold_desc_lvl3 = "มีอาการไอ และจาม, การเคลื่อนที่ และการฟื้นฟูพลังชีวิตลดลง",
 	Moodles_hasacold_desc_lvl4 = "มีอาการไอ และจาม, การเคลื่อนที่ และการฟื้นฟูพลังชีวิตลดลงอย่างมาก",
 	-- Injured
-	Moodles_injured_desc_lvl1 = "ต้องการการปฐมพยาบาล",
+	Moodles_injured_desc_lvl1 = "ดูเหมือนว่าร่างกายเกิดความผิดปกติ",
 	Moodles_injured_desc_lvl2 = "พละกำลัง และความเร็วในการเคลื่อนที่ลดลง",
 	Moodles_injured_desc_lvl3 = "พละกำลัง และความเร็วในการเคลื่อนที่ลดลงอย่างมาก",
 	Moodles_injured_desc_lvl4 = "บาดเจ็บร้ายแรง คงจะผ่านพ้นคืนนี้ไปได้อย่างยากลำบาก...",
@@ -206,8 +206,8 @@ Moodles_TH = {
 	Moodles_foodeaten_desc_lvl3 = "พละกำลัง และการฟื้นฟูพลังชีวิตเพิ่มขึ้นมาก",
 	Moodles_foodeaten_desc_lvl4 = "พละกำลัง และการฟื้นฟูพลังชีวิตเพิ่มขึ้นอย่างมาก",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "รู้สึกกระหายน้ำ ควรหาที่พักผ่อน",
-	Moodles_hyperthermia_desc_lvl2 = "เหงื่อออก กระหายน้ำมาก เพราะตากแดดนานเกินไป",
+	Moodles_hyperthermia_desc_lvl1 = "รู้สึกกระหายน้ำ ควรถอดเสื้อผ้า",
+	Moodles_hyperthermia_desc_lvl2 = "เหงื่อออก กระหายน้ำมาก เพราะร้อนเกินไป",
 	Moodles_hyperthermia_desc_lvl3 = "คลื่นไส้ ไม่มีสมาธิ การรับรู้ลดลง และต้องการน้ำอย่างมาก",
 	Moodles_hyperthermia_desc_lvl4 = "เพ้อคลั่ง จากความร้อน ขาดน้ำอย่างมาก",
 	-- Hypothermia
@@ -220,5 +220,4 @@ Moodles_TH = {
 	Moodles_windchill_desc_lvl2 = "รู้สึกเหมือนเย็นกว่าปกติ 10 ถึง 15 องศา",
 	Moodles_windchill_desc_lvl3 = "รู้สึกเหมือนเย็นกว่าปกติ 15 ถึง 20 องศา",
 	Moodles_windchill_desc_lvl4 = "รู้สึกเหมือนเย็นกว่าปกติ เกิน 20 องศา",
-	
 }
