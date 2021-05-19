@@ -2,8 +2,8 @@ GameSound_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.44
-	-- Date 09-11-2020
+	-- Build-41.50
+	-- Date 05-19-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
