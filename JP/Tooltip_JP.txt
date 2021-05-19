@@ -1,9 +1,9 @@
-﻿Tooltip_JP = {
+Tooltip_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
 	-- Build-41.50
-	-- Date 05-14-2021
+	-- Date 05-19-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -264,7 +264,7 @@
 	Tooltip_CantDriveAndFitness = "フィットネスしながら運転することはできません。",
 	Tooltip_BedType = "ベッドの品質: %1",
 	Tooltip_BedType_badBed = "悪い",
-	Tooltip_BedType_averageBed = "不通",
+	Tooltip_BedType_averageBed = "普通",
 	Tooltip_BedType_goodBed = "良い",
 	Tooltip_TooMuchPainFitness = "フィットネスをするには痛みが強すぎます。",
 	Tooltip_RemoveBrokenGlassNoItem = "左手にアイテムが必要です。",,
