@@ -3,7 +3,7 @@ ItemName_JP = {
 	-- Community Japanese Translation Data Information
 	-- Update history
 	-- Build-41.50
-	-- Date 05-14-2021
+	-- Date 05-19-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -633,8 +633,8 @@ ItemName_JP = {
 	ItemName_Base.LogStacks4 = "4本に纏めた丸太",
 	ItemName_Base.Lollipop = "棒付きキャンディ",
 	ItemName_Base.LongCoat_Bathrobe = "バスローブ",
-	ItemName_Base.LongJohns = "インナー(全身用)",
-	ItemName_Base.LongJohns_Bottoms = "ロングインナー(下半身用)",
+	ItemName_Base.LongJohns = "インナー(下半身用)",
+	ItemName_Base.LongJohns_Bottoms = "ロングインナー(全身用)",
 	ItemName_Base.LugWrench = "ラグレンチ",
 	ItemName_Base.Macandcheese = "マカロニ＆チーズ",
 	ItemName_Base.Machete = "マシェット",
@@ -1448,12 +1448,6 @@ ItemName_JP = {
 	ItemName_Base.PlantainCataplasm = "湿布薬(オオバコ)",
 	ItemName_Base.WildGarlic = "ラムソン",
 	ItemName_Base.WildGarlicCataplasm = "湿布薬(ラムソン)",
-
-
-
-
-
-
 	ItemName_Base.AmmoStrap_Bullets = "弾薬ストラップ(汎用)",
 	ItemName_Base.AmmoStrap_Shells = "弾薬ストラップ(散弾用)",
 	ItemName_Base.Bag_Satchel = "鞄",
