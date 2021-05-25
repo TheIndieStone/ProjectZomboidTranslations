@@ -547,11 +547,13 @@ Sandbox_KO = {
 	Sandbox_ZToughness_option3 = "약함",
 	Sandbox_ZToughness_option4 = "무작위",
 
-    Sandbox_ZTransmission = "감염 경로:",
-    Sandbox_ZTransmission_option1 = "혈액 + 타액",
-    Sandbox_ZTransmission_option2 = "타액",
-    Sandbox_ZTransmission_option3 = "모두 감염됨(접촉에 의한 감염)"",
-    Sandbox_ZTransmission_option4 = "감염되지 않음",
+
+	Sandbox_ZTransmission = "감염 경로:",
+	Sandbox_ZTransmission_option1 = "혈액 + 타액",
+	Sandbox_ZTransmission_option2 = "모두 감염됨(접촉에 의한 감염)",
+	Sandbox_ZTransmission_option3 = "감염되지 않음",
+
+
 
 	Sandbox_ZInfectionMortality = "감염시 발병 시간",
 	Sandbox_ZInfectionMortality_option1 = "즉시",

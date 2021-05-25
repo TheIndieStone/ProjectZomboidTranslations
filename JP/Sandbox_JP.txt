@@ -1,9 +1,9 @@
-﻿Sandbox_JP = {
+Sandbox_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.23
-	-- Date 12-19-2019
+	-- Build-41.50
+	-- Date 05-14-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -323,7 +323,8 @@
 	Sandbox_SurvivorHouseChance_option5 = "多い",
 	Sandbox_SurvivorHouseChance_option6 = "とても多い",
 	Sandbox_SurvivorHouseChance_tooltip = "ゲーム上にランダムに出現する特別な家(全焼した家・セーフハウス・死体がある家) の生成割合を設定します。",
-
+	Sandbox_VehicleStoryChance = "車両に関するストーリーチャンスの生成割合",
+	Sandbox_ZoneStoryChance = "ランダムに発生する区域に関するストーリーチャンスの生成割合",
 	Sandbox_AnnotatedMapChance = "地図（メモが書かれた）の生成割合",
 	Sandbox_AnnotatedMapChance_tooltip = "地図（メモが書かれた）には、生存者が書き残した 秘密の隠れ家やアイテムの隠し場所が書いてあります。",
 	Sandbox_AnnotatedMapChance_option1 = "無効",
@@ -582,6 +583,15 @@
 	Sandbox_ZCognition_option3 = "初歩的な追跡",
 	Sandbox_ZCognition_option4 = "ランダム",
 
+	Sandbox_ZCrawlUnderVehicle = "車両の下に潜る",
+	Sandbox_ZCrawlUnderVehicle_option1 = "無い",
+	Sandbox_ZCrawlUnderVehicle_option2 = "非常にまれ",
+	Sandbox_ZCrawlUnderVehicle_option3 = "まれにある",
+	Sandbox_ZCrawlUnderVehicle_option4 = "普通",
+	Sandbox_ZCrawlUnderVehicle_option5 = "多い",
+	Sandbox_ZCrawlUnderVehicle_option6 = "非常に多い",
+	Sandbox_ZCrawlUnderVehicle_option7 = "常に",
+
 	Sandbox_ZMemory = "記憶能力",
 	Sandbox_ZMemory_option1 = "長い",
 	Sandbox_ZMemory_option2 = "普通",
@@ -623,11 +633,14 @@
 	Sandbox_ActiveOnly_option2 = "夜間に行動",
 	Sandbox_ActiveOnly_option3 = "昼間に行動",
 
-	Sandbox_TriggerHouseAlarm = "住宅防犯アラームの設定",
-	Sandbox_TriggerHouseAlarm_tooltip = "ゾンビが窓やドアを突破した際に住宅防犯アラームが動作するか設定します。",
+	Sandbox_TriggerHouseAlarm = "住宅防犯アラームの作動",
+	Sandbox_TriggerHouseAlarm_tooltip = "ゾンビが窓やドアを突破した際に住宅防犯アラームが動作します。",
 
 	Sandbox_ZombiesDragDown = "引き下ろす",
 	Sandbox_ZombiesDragDown_tooltip = "複数ゾンビから攻撃を受けた場合、ゾンビの強さにより引きずられて捕食される可能性があります。",
+
+	Sandbox_ZombiesFenceLunge = "フェンスに突進",
+	Sandbox_ZombiesFenceLunge_tooltip = "ゾンビがフェンスを乗り越えて突進する場合があります。",
 
 	--
 
@@ -657,7 +670,7 @@
 	Sandbox_RespawnMultiplier_help = "リスポーン時間ごとに復活するセル上の希望に応じたゾンビの割合。",
 
 	Sandbox_RedistributeHours = "ゾンビの再分配時間",
-	Sandbox_RedistributeHours_help = "ゾンビが同じセルの何もない箇所に移動するまでの経過時間。",
+	Sandbox_RedistributeHours_help = "ゾンビが同じセル内のゾンビのいない箇所に移動するまでの経過時間。",
 
 	Sandbox_FollowSoundDistance = "ゾンビの音に対する反応距離",
 	Sandbox_FollowSoundDistance_help = "ゾンビが最後に音の聞こえた地点に歩いて行こうとする距離。",
@@ -676,7 +689,6 @@
 
 	Sandbox_MinMaxDefault = "\n設定数値 最大値 = %2 通常値 = %3 最小値 = %1",
 
-
 	Sandbox_ZombieRespawn = "ゾンビの再配置間隔",
 	Sandbox_ZombieRespawn_tooltip = "定期的に地域のゾンビを再配置させるための設定です。",
 
@@ -694,5 +706,6 @@
 	Sandbox_ZombieRespawnPercent_option10 = "100 %",
 
 	Sandbox_PresetName_Error = "以下の文字は使用できません: /  \\  :  ;  \  .",
+	Sandbox_DeletePresetPrompt = "設定ファイル'%1'を削除しますか？",
 
 }

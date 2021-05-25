@@ -219,9 +219,11 @@ Tooltip_CN = {
     Tooltip_weapon_ContainsClip = "已有弹匣.",
     Tooltip_weapon_NoClip = "需要弹匣."
     Tooltip_BiteDefense = "防咬",
+	Tooltip_BulletDefense = "防弹",
     Tooltip_ScratchDefense = "防抓",
     Tooltip_requireRazorOrScissors = "需要剃刀或剪刀.";
     Tooltip_RequireScissors = "需要剪刀",
+	Tooltip_requireHairGel = "需要发胶",
     Tooltip_RunSpeedModifier = "影响跑步速度",
     Tooltip_CombatSpeedModifier = "影响战斗速度",
     Tooltip_NoBeard = "没有胡子,请等它长出来.",
@@ -255,4 +257,5 @@ Tooltip_CN = {
     Tooltip_BedType_goodBed = "好",
     Tooltip_TooMuchPainFitness = "健身太痛苦了.",
     Tooltip_RemoveBrokenGlassNoItem = "右手必须拿东西才能清理.",
+	Tooltip_food_CookToRemoveUnhappiness = "烹饪即可消除该状态.",
 }

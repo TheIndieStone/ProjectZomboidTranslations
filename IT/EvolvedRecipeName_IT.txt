@@ -1,0 +1,12 @@
+EvolvedRecipeName_IT = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Bolognese in scatola",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Carote in scatola",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Chili in scatola",
+    EvolvedRecipeName_Base.CannedCornOpen = "Pannocchie in scatola",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Carne in scatola",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Piselli in scatola",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Patate in scatola",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Sardine in scatola",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Pomodori in scatola",
+    EvolvedRecipeName_Base.Teabag2 = "Te",
+}
