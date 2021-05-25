@@ -1,5 +1,10 @@
 Rosewood
+ <LINE> <LINE>
+ Un breve soggiorno a Rosewood Ë piacevole, ma un lungo soggiorno?
+ Ebbene, i detenuti del famoso penitenziario Knox te lo diranno: non Ë cosÏ divertente!
+ <LINE> <LINE>
+ Situato in posizione geografica ideale per un facile accesso, Rosewood Ë un hub della comunit‡ per l'amministrazione
+ e servizi per la comunit‡, nonchÈ un importante centro di detenzione.
+ Il tribunale della contea, un dipartimento dei vigili del fuoco recentemente ristrutturato e una vivace struttura delle forze dell'ordine
+ fanno di questo uno dei centri pi˘ importanti della zona! Vieni a trovarci oggi!
 
-Una breve permanenza a Rosewood √® piacevole, ma com'√® starci per un lungo periodo? Beh, te lo diranno i detenuti del famoso Penitenziario Knox: non √® cos√¨ divertente!
-
-Situata idealmente per essere facilmente raggiungibile, Rosewood √® uno snodo per amministrazione e servizi alla comunit√† cos√¨ come un centro carcerario di spicco. La Corte della Contea, una stazione dei Vigili del Fuoco rinnovata di recente ed un vivace dipartimento di Polizia la rendono una delle citt√† pi√π importanti della zona. Vieni a visitarla oggi!

@@ -21,6 +21,10 @@ Contributing to the repository is voluntary and abides by the Project Zomboid Te
 
 Some languages use different encoding (See [issue #155](https://github.com/TheIndieStone/ProjectZomboidTranslations/issues/155)), but GitHub should show all symbols correctly with [pull request #423](https://github.com/TheIndieStone/ProjectZomboidTranslations/pull/423). You can also change encoding with external editor or use TranslationZed tool available under *[Releases](https://github.com/TheIndieStone/ProjectZomboidTranslations/releases)* and upload the files it saves.
 
+## TV and Radio translations
+
+To translate TV and radio, refer to [this forum post](https://theindiestone.com/forums/index.php?/topic/19235-radio-translation-files/) as they aren't included in this repository yet.
+
 ## TranslationZed
 
 Windows binaries are provided, but the program can be launched on different platforms with OpenJDK8 and OpenJFX8 by navigating to the folder and starting it with `java -jar translatoid.jar` or similar command.
