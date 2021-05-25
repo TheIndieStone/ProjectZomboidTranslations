@@ -1,6 +1,6 @@
 Rosewood
  <LINE> <LINE>
- O vizită scurtă în Rosewood e plăcută, dar despre una lungă?
+ O vizită scurtă în Rosewood e plăcută, dar oare una lungă?
  Ei bine, prizonierii faimosului Penitenciar Knox îți vor răspunde: nu e foarte amuzantă!
  <LINE> <LINE>
  Ideal situat geografic pentru un acces ușor, Rosewood este un centru comunitar pentru administrare,
