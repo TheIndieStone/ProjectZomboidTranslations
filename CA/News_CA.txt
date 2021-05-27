@@ -1,0 +1,84 @@
+[VERSION] 38.19
+[NEWS]
+[BOLD]Nova zona afegida! La ciutat de Riverside, el proper Knox Heights Country Club, Spa Camp de Golf, i moltes i variades àrees silvestres estan preparades per a l'exploració.
+[DOT2]Es troba a l'oest de West Point i té una mida similar.
+[DOT2]Conté nous tipus d'edificis, arquitectura i rajoles.
+[DOT2]Inclou el mapa de Riverside.
+[BOLD]Actualització de la vista de el món.
+[DOT2]Les cases, els negocis, les tanques publicitàries i els exteriors es veuen ara en tota la seva esplendor, inclosos els sostres. Els nivells de construcció per sobre de l'jugador s'oculten ÚNICAMENT per al "edifici actual".
+[DOT2]Les finestres ara s'han de revisar apropant-se a elles i mirant a través de les mateixes.
+[DOT2]Els nivells superiors que bloquejaven la teva vista s'eliminen al apropar-te o quan hi ha zombis propers.
+[DOT2]Les parets exteriors ja no són transparents quan estàs fora a menys que estiguin bloquejant la vista del teu personatge.
+[BOLD]Millores en Multijugador i Cooperatiu.
+[DOT2]Les dades d'ubicació i moviment de zombis compartits entre els jugadors estan més ben optimitzats per tractar els casos de lag, teletransportació, mossegades injustificats i tensió general de servidor.
+[DOT2]Opció de pausa 'Server Save' per a servidors més grans que deté l'acció al guardar, reduint les ocasions de lag sobtat en els zombis.
+[DOT2]Afegit un botó "Pujar de nivell" a la interfície d'estadístiques del jugador per pujar ràpidament el nivell d'una habilitat sense usar el punt global.
+[DOT2]Afegida una interfície per a administradors per gestionar l'inventari del jugador.
+Afegida una forma fàcil perquè els modders afegeixin columnes a les seves llistes de desplaçament.
+Afegida opcions de "zona morta" a la configuració del comandament per alleujar els problemes que pateixen els jugadors al dormir.
+[BOLD]Gestió de cadàvers.
+[DOT2]Ara pots cavar tombes amb una pala i enterrar múltiples cadàvers al seu interior.
+[DOT2]Noves elaboracions en fusteria: una creu de fusta, una fita i un piquet commemoratiu per col·locar al costat de les tombes que cavis.
+[DOT2]Grans munts de cadàvers podrits faran sentir-te malalt i trist si romans a prop seu per llargs períodes de temps.
+[BOLD]Afegides noves opcions de món personalitzat:
+[DOT2]Aparició de generadors: augmenta / disminueix la probabilitat que els generadors elèctrics apareguin al mapa.
+[DOT2]Consum de combustible del generador: afecta la quantitat de combustible que consumeixen els generadors. Un generador que no necessita combustible ha de ser posat a 0.0. (Substitueix a l'opció de servidor GeneratorFuelConsumption).
+[DOT2]Possibilitat aleatoritzada de casa: augmenta / disminueix la probabilitat de descobrir cases segures aleatòries al mapa: cremades, que contenen amagatalls de botí, cadàvers de supervivents morts, etc.
+[DOT2]Mapa anotat: ajusta la freqüència amb què un mapa saquejat tindrà anotacions marcades en ell per un supervivent mort.
+[DOT2]Dany en construcció per zombis: determina si els zombis poden o no destruir les construccions i defenses dels jugadors.
+[DOT2]Punts de trets gratis: afegeix punts gratis durant la creació de personatges.
+[DOT2]Resistència de construcció pel jugador: proporciona a les construccions del jugador punts d'impacte addicionals perquè siguin més resistents als danys dels zombis.
+[DOT2]Zombis actius dia / nit: determina si els zombis són més actius durant el dia, o si actuen més de nit. Els zombis inactius seran més lents i tendeixen a no perseguir.
+[DOT2]Foscor nocturna: ajusta la foscor durant les nits.
+[DOT2]Gravetat de la lesió: augmenta i disminueix l'impacte que les lesions tenen en el teu cos i el seu temps de curació.
+[DOT2]Fractura d'os: habilita o deshabilita les extremitats trencades quan els supervivents pateixen lesions per impactes, danys de zombis i caigudes.
+[DOT2]Temps abans de l'eliminació de cadàvers: nombre d'hores en el joc abans que els cadàvers de zombis siguin eliminats automàticament de mapa. (Substitueix a l'opció anterior de servidor HoursForCorpseRemoval).
+[DOT2]Impacte en la salut pels cadàvers en descomposició: determina l'impacte que tenen els cadàvers propers a la salut i les emocions del jugador.
+[DOT2]Degradació de la roba: determina la rapidesa amb la qual la roba es degrada, s'embruta i s'omple de sang.
+[DOT2]Aleatorització de la velocitat, força, duresa i cognició dels zombis.
+[DOT2]Propagació de foc (anteriorment "NoFire" en les opcions de servidor): ajusta si el foc es pot propagar o no.
+[BOLD]Degradació de la roba.
+[DOT2]La roba pot embrutar més temps encara, depenent de les teves activitats.
+[DOT2]Barallar contra zombis farà ensagnar la teva roba.
+[DOT2]Si utilitzeu roba bruta o ensangonada sobre una ferida oberta llavors les probabilitats d'infecció (infecció normal, no zombi) augmentaran.
+[DOT2]La roba ara també té durabilitat, cada vegada que et colpegin perdràs una mica.
+[DOT2]Algunes peces són més resistents que d'altres.
+[BOLD]Optimització en preparació per a l'arribada de vehicles.
+[DOT2]Col·lecció d'escombraries optimitzada.
+[DOT2]LightingJNI optimitzat.
+[DOT2]Corregit augment en l'ús de memòria de 2-300 MB que podia aturar el joc.
+[DOT2]Càrrega de mapa optimitzada.
+[BOLD]Canvi en la càrrega de mapa personalitzat.
+[DOT2]Nova pantalla "Selecciona lloc d'aparició" després de la selecció del mod del mapa.
+[DOT2]Tots els mods de mapa es carreguen ara, incloent els punts d'aparició.
+[DOT2]Ja no és necessari crear un mod 'multi-mapa'. Opció 'Priorizar mod de mapes' afegida per ressaltar quins mapes tenen prioritat si hi ha solapaments geogràfics i conflictes, amb advertències també per al jugador.
+[BALANCE]
+Es van incrementar lleugerament els valors nutritius del peix i les baies.
+Increment dels punts d'impacte en les construccions de jugador.
+Eliminada l'opció "Any d'inici" en la manera món personalitzat.
+Els programes de TV i Ràdio ara tenen un impacte en el personatge. Si estàs veient un programa instructiu llavors es rep un multiplicador XP.
+Dormir a l'exterior sota la pluja despertarà als jugadors, llevat que estiguin en una tenda de campanya o sota una estructura amb sostre.
+Les farmacioles de primers auxilis ara apareixen amb benes esterilitzades, en lloc de benes regulars.
+Ara pots esterilitzar les benes en un recipient amb aigua bullint.
+Els matalassos es poden fabricar ara amb una agulla de sutura i una agulla normal.
+Ara es poden afegir espècies com a primer ingredient en pasta i arròs (exemple marinara).
+[BUG FIX]
+Corregit error d'abocament d'aigua.
+Corregida l'opció "cap" de memòria zombi que no funcionava en món personalitzat.
+Arreglat un bug amb les fases de la lluna que no afectaven a la llum ambiental a les nits.
+Arreglades els fanals dels carrers que seguien funcionant quan no hi havia electricitat.
+Arreglat el poder accedir als refugis rivals dels jugadors mitjançant trucs de fusteria.
+Arreglat el poder passar per les finestres de la casa segura d'un jugador.
+Arreglats múltiples aspectes de la interfície d'usuari que no funcionen amb un comandament (rebuscar, mapes anotats, opcions de món personalitzat, etc.).
+Grans quantitats de petits objectes ara s'omplen correctament l'espai disponible en els contenidors.
+Corregit la interrupció al llegir llibres mentre el personatge apunta amb una arma.
+Corregit els personatges que perdien fraccions d'EXP al desar.
+Agregats els punts d'aparició que faltaven a la interfície de configuració de servidor.
+Afegit farcit de món que faltava.
+Corregit un possible error amb el reinici de l'alarma.
+S'ha solucionat que sempre plogués a l'carregar / començar una partida.
+Es va solucionar un error extrany amb l'interfície d'elaboració.
+Corregit un error amb el càlcul getLightFoodMod().
+Es van arreglar les receptes evolucionades de begudes que no es podien prendre quan un ingredient podia ser afegit (error d'el cafè).
+Habilitat l'administrador de veu en SP. (Ha de donar una lleugera millora en FPS, especialment en sistemes més lents).
+Corregit problema d'elaboració amb la beguda calenta.
