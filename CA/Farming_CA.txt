@@ -1,0 +1,59 @@
+Farming_CA = {
+  -- vegetables name (type of seed)
+  Farming_Carrots = "Pastanagues",
+  Farming_Broccoli = "Bròquil",
+  Farming_Radishes = "Raves",
+  Farming_Strawberry_plant = "Maduixes",
+  Farming_Tomato_Vine = "Tomàquets",
+  Farming_Potatoes = "Patates",
+  Farming_Cabbages = "Cols",
+  -- growing phase
+  Farming_Seedling = "Plàntula",
+  Farming_Young = "Jove",
+  Farming_Ready_for_Harvest = "A punt per collir",
+  Farming_In_bloom = "Florint",
+  Farming_Seed-bearing = "Amb llavors",
+  Farming_Receding = "En retrocés",
+  Farming_Rotten = "Podrit",
+  Farming_Destroyed = "Destruït",
+  -- farming info text
+  -- title
+  Farming_Plant_Information = "Informació sobre la planta",
+  Farming_Current_growing_phase = "Fase de creixement actual",
+  Farming_Next_growing_phase = "Propera fase de creixement",
+  Farming_Last_time_watered = "Darrer cop regada",
+  Farming_Fertilized = "Fertilitzada",
+  Farming_Health = "Salut",
+  Farming_Disease = "Malaltia",
+  Farming_Water_levels = "Nivells d'aigua",
+  -- water
+  Farming_Well_watered = "Ben regada",
+  Farming_Fine = "Bé",
+  Farming_Thirsty = "Assedegada",
+  Farming_Dry = "Seca",
+  Farming_Parched = "Agostejada",
+  -- growing phase
+  Farming_Seedling = "Plàntula",
+  Farming_Fully_grown = "Adulta",
+  Farming_Ready_to_harvest = "A punt per collir",
+  -- disease
+  Farming_Mildew = "Floridura",
+  Farming_Pest_Flies = "Plaga de mosques",
+    Farming_Devil_Water_Fungi = "Fongs",
+  -- hours
+  Farming_Hours = "Hores",
+  -- health
+  Farming_Flourishing = "Florent",
+  Farming_Verdant = "Verd",
+  Farming_Healthy = "Saludable",
+  Farming_Sickly = "Malalt",
+  Farming_Stunted = "Atrofiat",
+    Farming_Tooltip_MinWater = "Mínim d'aigua: ",
+    Farming_Tooltip_MaxWater = "Màxim d'aigua: ",
+    Farming_Tooltip_TimeOfGrow = "Mitjana de creixement: ",
+    Farming_Tooltip_AverageWater = "Medida Mitjana d'aigua: ",
+    Farming_Tooltip_RequiredSeeds = "llavors necessàries: ",
+    Farming_Strawberry plant = "Maduixes",
+    Farming_Tomato = "Tomàquets",
+    Farming_Plowed_Land = "Terra llaurada",
+}
