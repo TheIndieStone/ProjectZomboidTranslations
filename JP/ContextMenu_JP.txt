@@ -1,9 +1,9 @@
-﻿ContextMenu_JP = {
+ContextMenu_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
 	-- Build-41.50
-	-- Date 05-14-2021
+	-- Date 05-19-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -150,7 +150,7 @@
 	ContextMenu_NameThisBag = "名称を変更する",
 	ContextMenu_RenameBag = "名称を変更する",
 	ContextMenu_Lamp_on_Pillar = "柱上照明",
-	ContextMenu_RenameFood = "名称を変更する",
+	ContextMenu_RenameFood = "名称を変更する→",
 	ContextMenu_Bookcase = "本棚",
 	ContextMenu_SmallBookcase = "小さい本棚",
 	ContextMenu_Shelves = "棚",
@@ -399,7 +399,7 @@
 	ContextMenu_Yourself = "身体を洗う",
 	ContextMenu_WashAllClothing = "全ての被服を洗う",
 	ContextMenu_WashClothing = "%1を洗う",
-	ContextMenu_FromRandom = "加える %1からランダムに",
+
 	ContextMenu_Attach = "装備する",
 	ContextMenu_RemoveFromHotbar = "%1を%2から移動する",
 	ContextMenu_EvolvedRecipe_Stir fry Griddle Pan = "ソテー",
@@ -443,7 +443,7 @@
 	ContextMenu_LeftWrist = "左手首にはめる",
 	ContextMenu_RightWrist = "右手首にはめる",
 	ContextMenu_UnloadRounds = "%1から全ての実包を抜き取る",
-	ContextMenu_AddCompostItem = "%1から %2 % 入れる",
+	ContextMenu_AddCompostItem = "%1に %2 % 入れる",
 	ContextMenu_GetCompostItem = "%1に %2 % 集める",
 	ContextMenu_AddCompost = "コンポスターに堆肥を入れる",
 	ContextMenu_Vehicle_Wash = "車両を洗車する",
@@ -455,8 +455,9 @@
 	ContextMenu_DrinkForThirst = "喉の渇きを癒す",
 	ContextMenu_SleepOnGround = "地面で寝る",
 	ContextMenu_Create_From_Ingredient = "%1を作る ",
-	ContextMenu_Add_Ingredient = "%1と%2を追加する ",
-	ContextMenu_From_Ingredient = "%1と%2を加える ",
+	ContextMenu_FromRandom = "%1をランダムに加える",
+	ContextMenu_Add_Ingredient = "%1%2を追加する ",
+	ContextMenu_From_Ingredient = "%1%2を加える ",
 	ContextMenu_CantRipFavourite = "お気に入りの衣類は破ることはできません。",
 	ContextMenu_Vehicle_AttachTrailer = "%1を<br>%2に<br>取り付ける",
 	ContextMenu_Vehicle_DetachTrailer = "%1を<br>取り外す",
