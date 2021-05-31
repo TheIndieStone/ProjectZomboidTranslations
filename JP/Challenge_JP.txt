@@ -3,11 +3,11 @@ Challenge_JP = {
 	-- Official Japanese Translation Data Information
 	-- Update history
 	-- Build-41.50
-	-- Date 05-14-2021
+	-- Date 05-19-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
-	Challenge_YouHaveOneDay_name = "あなたの1日",
+	Challenge_YouHaveOneDay_name = "とある日",
 	Challenge_YouHaveOneDay_desc = "あなたは、ノックス郡で最初に感染症が始まった場所にいます。あなた <LINE> には、24時間の安全な時間があります。ゾンビは、膨大な数に到達しま <LINE> す。そして、彼らはあなたを見つけるはずです。 <LINE>  <LINE> PZ toolsetを使った 0.1.5 のゲームマップを再現した物です。 <LINE> 我々の感謝を作成者 BobHeckling 氏へ",
 
 	Challenge_Kingsmouth_name = "キングスマス島",
@@ -22,19 +22,19 @@ Challenge_JP = {
 	Challenge_WinterIsComing_name = "寒波の到来",
 	Challenge_WinterIsComing_desc = "あなたは、ノックス郡で最初に感染症が始まった場所にいます。あなた <LINE> 今は7月中旬。だが、突然の寒波がやって来た。たった3日で真冬のよう <LINE> な寒さが襲って来たのだ。あなたは、孤立した場所で目を覚めるが何も <LINE> 持っていない。彼らは寒くて動きが鈍いかも知れないが侮れない。 <LINE> 生き残るんだ...。",
 
-	Challenge_OpeningHours_name = "ショッピングモール",
+	Challenge_OpeningHours_name = "営業時間",
 	Challenge_OpeningHours_desc = "彼らにショッピングモールが囲まれた。その昔、彼らにとって生きて行 <LINE> 上でショッピングモールは記憶の中に残る重要な場所だった。彼らの本 <LINE> 能は、ショッピングモールのドアに足を向けさせていた。彼らが生きて <LINE> いた時の記憶... <LINE> ショッピングモールの自動ドアが午前9時になると自動で開く。 <LINE> そう... 彼らの群れがやって来るのだ。襲撃に備えろ！",
 
-	Challenge_Challenge1_name = "森の家 - 最後の戦い",
+	Challenge_Challenge1_name = "森の家 - 最後の抵抗",
 	Challenge_Challenge1_desc = "ゾンビは、短い間に急速に増え、あらゆる方向から襲って来る。襲撃に <LINE> 備えろ！あなたは、きっと死ぬことになるだろう。あなたは、ゾンビの <LINE> 群れにどの程度まで抵抗することができるのだろうか？ <LINE>  <LINE> 武器を手にするんだ... <LINE>  <LINE> 終わりがない、絶えずゾンビが増え続けるモード。 <LINE> あなたは、この世界で見つけられる限られたアイテムを使って可能な限 <LINE> り生き残れ！",
 
-	Challenge_Challenge2_name = "森の家 - 最後の戦い アキュムレータ",
+	Challenge_Challenge2_name = "森の家 - 最後の抵抗 アキュムレータ",
 	Challenge_Challenge2_desc = "ゾンビは短い間に急速に増え、あらゆる方向から襲って来る。襲撃に <LINE> 備えろ！あなたは、きっと死ぬことになるだろう。あなたは、ゾンビ <LINE> の群れにどの程度まで抵抗することができるのだろうか？ <LINE>  <LINE> 武器を手にするんだ... <LINE>  <LINE> 一定時刻毎にゾンビが発生し、絶えずゾンビが増え続けるモード。 <LINE> ゾンビを倒せば、お金が入る。そのお金でアイテムを買い、アイテム <LINE> を修理し、経験値とレベルを上げろ。",
 
 	Challenge_AStormIsComing_name = "嵐の到来",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> 終わりのない悪天候を前に...",
 
-	Challenge_TheDescendingFog_name = "霧が降りて来る",
+	Challenge_TheDescendingFog_name = "舞い降りる霧",
 	Challenge_AStormIsComing_desc = "ケンタッキー州に雲が集まっている。遠くから雷鳴が聞こえ空が暗くな <LINE> るにつれて、地上の死者たちはざわめき始める。この嵐は、発達して凶 <LINE> 悪な嵐になり、決して終わらないだろう。",
 
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> それは霧になる...",
