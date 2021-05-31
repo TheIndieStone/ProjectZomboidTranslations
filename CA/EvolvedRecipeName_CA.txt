@@ -1,0 +1,12 @@
+EvolvedRecipeName_CA = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Llauna de espagueti bolonyesa oberta",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Lata de zanahorias abierta",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Llauna de xile oberta",
+	EvolvedRecipeName_Base.CannedCornOpen = "Llauna de blat de moro oberta",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Llauna de carn oberta",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Llauna de pèsols oberta",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Llauna de pataques oberta",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Llauna de sardines oberta",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Llauna de tomàquets oberta",
+	EvolvedRecipeName_Base.Teabag2 = "Bosseta de te",
+}

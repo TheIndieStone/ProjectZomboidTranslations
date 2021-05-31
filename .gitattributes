@@ -2,6 +2,7 @@
 # see https://github.com/TheIndieStone/ProjectZomboidTranslations/issues/155
 AF/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 AR/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
+CA/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 CH/*.txt text working-tree-encoding=big5 encoding=utf-8,
 CN/*.txt text working-tree-encoding=utf-8 encoding=utf-8,
 CS/*.txt text working-tree-encoding=cp1250 encoding=utf-8,

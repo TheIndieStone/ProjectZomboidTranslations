@@ -1,0 +1,27 @@
+MultiStageBuild_CA = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Construir paret de fusta Nv1.",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Millorar a paret de fusta Nv2",
+    MultiStageBuild_CreateWoodenWall_2 = "Construir paret de fusta Nv2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Millorar a paret de fusta Nv3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Millorar a paret de fusta Nv3",
+    MultiStageBuild_CreateWoodenWall_3 = "Construir paret de fusta Nv3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Construir finestra de fusta Nv1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Millorar a finestra de fusta Nv2",
+	MultiStageBuild_CreateWoodenWindow_2 = "Construir finestra de fusta Nv2",
+	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Millorar a finestra de fusta Nv3",
+	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Millorar a finestra de fusta Nv3",
+	MultiStageBuild_CreateWoodenWindow_3 = "Construir finestra de fusta Nv3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Construir paret metàl·lica Nv1",
+	MultiStageBuild_UpgradeMetalWall_1To2 = "Millorar a paret metàl·lica Nv2",
+	MultiStageBuild_CreateMetalWall_2 = "Construir paret metàl·lica Nv2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Construir finestra metàl·lica Nv1",
+	MultiStageBuild_UpgradeMetalWindow_1To2 = "Millorar a finestra metàl·lica Nv2",
+	MultiStageBuild_CreateMetalWindow_2 = "Construir finestra metàl·lica Nv2",
+	-- wooden door frame
+	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Millorar a bastidor de porta Nv2",
+	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Millorar a bastidor de porta Nv3",
+}
