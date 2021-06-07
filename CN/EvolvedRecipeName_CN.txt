@@ -1,7 +1,7 @@
 	EvolvedRecipeName_CN = {
-	EvolvedRecipeName_Base.CannedBologneseOpen = "肉酱意面罐头(打开)",
+	EvolvedRecipeName_Base.CannedBologneseOpen = "肉酱罐头(打开)",
 	EvolvedRecipeName_Base.CannedCarrotsOpen = "胡萝卜罐头(打开)",
-	EvolvedRecipeName_Base.CannedChiliOpen = "辣酱炖菜罐头(打开)",
+	EvolvedRecipeName_Base.CannedChiliOpen = "辣酱罐头(打开)",
 	EvolvedRecipeName_Base.CannedCornOpen = "玉米罐头(打开)",
 	EvolvedRecipeName_Base.CannedCornedBeefOpen = "咸牛肉罐头(打开)",
 	EvolvedRecipeName_Base.CannedPeasOpen = "豌豆罐头(打开)",
