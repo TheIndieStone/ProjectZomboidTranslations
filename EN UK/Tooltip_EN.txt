@@ -219,6 +219,7 @@ Tooltip_EN = {
     Tooltip_weapon_ContainsClip = "Contains Magazine.",
     Tooltip_weapon_NoClip = "Need magazine to operate."
     Tooltip_BiteDefense = "Bite Defense",
+    Tooltip_BulletDefense = "Bullet Defense",
     Tooltip_ScratchDefense = "Scratch Defense",
     Tooltip_requireRazorOrScissors = "Require a Razor or Scissors";
     Tooltip_RequireScissors = "Require Scissors",
