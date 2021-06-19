@@ -452,7 +452,7 @@ ContextMenu_EN = {
     ContextMenu_PutOnEarlobe = "Put on Earlobe",
     ContextMenu_LeftWrist = "Put on Left Wrist",
     ContextMenu_RightWrist = "Put on Right Wrist",
-    ContextMenu_Fitness = "Fitness",
+    ContextMenu_Fitness = "Exercise",
     ContextMenu_CleanBandageEtc = "Clean Bandages",
     ContextMenu_Vehicle_AttachTrailer2 = "Attach Trailer",
 } 
