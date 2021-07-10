@@ -1,14 +1,14 @@
 Farming_ES = {
 	-- vegetables name (type of seed)
 	Farming_Carrots = "Zanahorias",
-	Farming_Broccoli = "Brócoli",
-	Farming_Radishes = "Rábanos",
+	Farming_Broccoli = "BrÃ³coli",
+	Farming_Radishes = "RÃ¡banos",
 	Farming_Strawberry_plant = "Fresas",
 	Farming_Tomato_Vine = "Tomates",
 	Farming_Potatoes = "Patatas",
 	Farming_Cabbages = "Coles",
 	-- growing phase
-	Farming_Seedling = "Plántula",
+	Farming_Seedling = "PlÃ¡ntula",
 	Farming_Young = "Joven",
 	Farming_Ready_for_Harvest = "Listo para cosechar",
 	Farming_In_bloom = "Floreciendo",
@@ -18,10 +18,10 @@ Farming_ES = {
 	Farming_Destroyed = "Destruido",
 	-- farming info text
 	-- title
-	Farming_Plant_Information = "Información sobre la planta",
+	Farming_Plant_Information = "InformaciÃ³n sobre la planta",
 	Farming_Current_growing_phase = "Fase de crecimiento actual",
-	Farming_Next_growing_phase = "Próxima fase de crecimiento",
-	Farming_Last_time_watered = "Última vez regada",
+	Farming_Next_growing_phase = "PrÃ³xima fase de crecimiento",
+	Farming_Last_time_watered = "Ãšltima vez regada",
 	Farming_Fertilized = "Fertilizada",
 	Farming_Health = "Salud",
 	Farming_Disease = "Enfermedad",
@@ -33,7 +33,7 @@ Farming_ES = {
 	Farming_Dry = "Seca",
 	Farming_Parched = "Agostada",
 	-- growing phase
-	Farming_Seedling = "Plántula",
+	Farming_Seedling = "PlÃ¡ntula",
 	Farming_Fully_grown = "Adulta",
 	Farming_Ready_to_harvest = "Listo para cosechar",
 	-- disease
@@ -48,8 +48,8 @@ Farming_ES = {
 	Farming_Healthy = "Saludable",
 	Farming_Sickly = "Enfermo",
 	Farming_Stunted = "Atrofiado",
-	Farming_Tooltip_MinWater = "Mínimo de agua: ",
-	Farming_Tooltip_MaxWater = "Máximo de agua: ",
+	Farming_Tooltip_MinWater = "MÃ­nimo de agua: ",
+	Farming_Tooltip_MaxWater = "MÃ¡ximo de agua: ",
 	Farming_Tooltip_TimeOfGrow = "Promedio de crecimiento: ",
 	Farming_Tooltip_AverageWater = "Promedio de agua: ",
 	Farming_Tooltip_RequiredSeeds = "Semillas necesarias: ",

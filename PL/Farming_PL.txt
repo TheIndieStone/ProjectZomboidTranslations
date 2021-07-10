@@ -8,7 +8,7 @@ Farming_PL = {
   Farming_Potatoes = "Ziemniaki",
   Farming_Cabbages = "Kapusta",
   -- growing phase
-  Farming_Seedling = "Sadzonki",
+  Farming_Seedling = "Sadzonki:",
   Farming_Young = "Kiełkujące",
   Farming_Ready_for_Harvest = "Do zbiorów",
   Farming_In_bloom = "Kwitnące",

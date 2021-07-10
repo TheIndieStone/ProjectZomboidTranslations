@@ -8,7 +8,7 @@ Sandbox_KO = {
 	Sandbox_PopulationOptions = "좀비 인구수 설정",
 
 	Sandbox_ZombieCount = "좀비 수치 :",
-	Sandbox_ZombieCount_tooltip = "좀비의 개체수를 세세하게 조정하고 싶은 경우는 "좀비의 옵션 설정"에서 조정을 실시해 주세요",
+	Sandbox_ZombieCount_tooltip = "좀비의 개체수를 세세하게 조정하고 싶은 경우는 "고급 좀비 설정"에서 조정해 주세요",
 	Sandbox_ZombieCount_option1 = "미친듯이 높음",
 	Sandbox_ZombieCount_option2 = "많이 높음",
 	Sandbox_ZombieCount_option3 = "높음",
@@ -550,9 +550,9 @@ Sandbox_KO = {
 
 	Sandbox_ZTransmission = "감염 경로:",
 	Sandbox_ZTransmission_option1 = "혈액 + 타액",
-	Sandbox_ZTransmission_option2 = "모두 감염됨(접촉에 의한 감염)",
-	Sandbox_ZTransmission_option3 = "감염되지 않음",
-
+	Sandbox_ZTransmission_option2 = "타액으로 감염",
+	Sandbox_ZTransmission_option3 = "모두 감염됨(접촉에 의한 감염)",
+	Sandbox_ZTransmission_option4 = "감염되지 않음",
 
 
 	Sandbox_ZInfectionMortality = "감염시 발병 시간",
@@ -628,7 +628,7 @@ Sandbox_KO = {
 	--
 
 	Sandbox_Advanced = "기본 설정",
-	Sandbox_ZombieAdvanced = "기본 좀비 설정",
+	Sandbox_ZombieAdvanced = "고급 좀비 설정",
 	Sandbox_ZombieOptions = "좀비 설정",
 
 	Sandbox_PopulationMultiplier = "좀비 수량",

@@ -56,4 +56,5 @@ Farming_EN = {
     Farming_Strawberry plant = "Strawberry plant",
     Farming_Tomato = "Tomato",
     Farming_Plowed_Land = "Plowed Land",
+    Farming_MissingItem = "You need %1",
 }
