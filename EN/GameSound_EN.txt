@@ -4,8 +4,8 @@ GameSound_EN = {
     GameSound_ButtonReload_tt = "Reload all sounds.txt files.",
     GameSound_VolumeControlTooltip = "Volume: %1%<br>Master Volume: %2 %3%",
 
-    /* These are the names of tabs in the ui. */
-    /* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
+    -- These are the names of tabs in the ui.
+    -- The AUTO category is for GameSounds that aren't defined in sounds.txt.
     GameSound_Category_AUTO = "AUTO",
     GameSound_Category_Item = "Item",
     GameSound_Category_Meta = "Meta",
@@ -16,12 +16,12 @@ GameSound_EN = {
     GameSound_Category_World = "World",
     GameSound_Category_Zombie = "Zombie",
 
-    /* You can provide translations for every GameSound if you want to, some might appear in the menu but not in this file */
+    -- You can provide translations for every GameSound if you want to, some might appear in the menu but not in this file
 
-/* Item */
+--  Item
     GameSound_AlarmClockRingingLoop = "Ringing Alarm Clock",
     GameSound_WatchAlarmLoop = "Watch Alarm",
-    GameSound_AssaultShot = "Assault Rifle Shot".
+    GameSound_AssaultShot = "Assault Rifle Shot",
     GameSound_BatHit = "Baseball Bat Hit",
     GameSound_BladeHit = "Blade Hit",
     GameSound_BatSwing  = "Bat Swing",
@@ -51,10 +51,10 @@ GameSound_EN = {
     GameSound_SliceMeat = "Slice Meat",
     GameSound_ZombieImpact = "Zombie Impact",
     GameSound_Firearm9mmShot = "Firearm - 9mm Shot",
-    GameSound_FirearmVarmintShot = "MSR700 Shot"
-    GameSound_FirearmHunterShot = "MSR788 Shot"
-    GameSound_FirearmShotgun = "Shotgun Shot"  
-    GameSound_FirearmShotgunSawnoff = "Sawed-off Shot"
+    GameSound_FirearmVarmintShot = "MSR700 Shot",
+    GameSound_FirearmHunterShot = "MSR788 Shot",
+    GameSound_FirearmShotgun = "Shotgun Shot",
+    GameSound_FirearmShotgunSawnoff = "Sawed-off Shot",
     GameSound_BulletInRifle = "Bullet in Rifle",
     GameSound_BulletOutVarmint = "Bullet Out",
     GameSound_StormyRifleCock = "Cock a Rifle",
@@ -67,8 +67,8 @@ GameSound_EN = {
     GameSound_Stormy9mmClipEject = "9mm Magazine Eject",
     GameSound_Stormy9mmRack = "9mm Rack",
     GameSound_Stormy9mmClipLoad = "9mm Magazine Load",
-    
-/* Meta */ 
+
+-- Meta
     GameSound_Helicopter = "Helicopter",
     GameSound_MetaAssaultRifle1 = "Meta Event - Assault Rifle Shots",
     GameSound_MetaPistol1 = "Meta Event - Pistol Shots 1",
@@ -81,8 +81,8 @@ GameSound_EN = {
     GameSound_MetaWolfHowl = "Meta Event - Wolf Howl",
     GameSound_ChatDrawCard = "Draw Card",
     GameSound_ChatRollDice = "Roll Dice",
-        
-/* Music */
+
+-- Music
     GameSound_AmbientMusic_BrassAmbient = "Ambient: Brass",
     GameSound_AmbientMusic_CreepyAmbient = "Ambient: Creepy",
     GameSound_AmbientMusic_IntenseAmbient = "Ambient: Intense",
@@ -186,8 +186,7 @@ GameSound_EN = {
     GameSound_OldMusic_wwl_tense = "EA: What Was Lost (Tense)",
     GameSound_OldMusic_work_fast = "EA: Work Fast",
 
-
-/* Object */
+-- Object
     GameSound_BirdInTree = "Bird in Tree",
     GameSound_BreakObject = "Break Object",
     GameSound_HitBarricadeMetal = "Hit Metal Barricade",
@@ -250,9 +249,8 @@ GameSound_EN = {
     GameSound_WalkOnBrokenGlass = "Walk on Broken Glass",
     GameSound_WindowRattle = "Window Rattle",
     GameSound_WindowWind = "Window Wind",
-    
-    
-/* Player */
+
+-- Player
     GameSound_GetWater = "Get Water",
     GameSound_GetWaterFromTap = "GetWater from Tap",
     GameSound_GainExperienceLevel = "Level Up",
@@ -288,8 +286,7 @@ GameSound_EN = {
     GameSound_HumanFootstepsCombined = "Human Footsteps Combined",
     GameSound_HumanFootstepsCombinedBarefoot = "Human Footsteps Combined Barefoot",
 
-
-/* Vehicle */
+-- Vehicle
     GameSound_VehicleStarted = "Engine Started",
     GameSound_VehicleDoorClose = "Vehicle Door Closing",
     GameSound_VehicleDoorOpen = "Vehicle Door Open",
@@ -337,9 +334,8 @@ GameSound_EN = {
     GameSound_HitVehiclePartWithWeapon = "Hit Vehicle Part with Weapon",
     GameSound_HitVehicleWindowWithWeapon = "Hit Vehicle Window with Weapon",
     GameSound_VehicleScrapePastPlant = "Vehicle Scrape Past Plant",
-    
-    
-/* World */
+
+-- World
     GameSound_HouseAlarm = "House Alarm",
     GameSound_Thunder = "Thunder",
     GameSound_RumbleThunder = "Rumble Thunder",
@@ -356,9 +352,8 @@ GameSound_EN = {
     GameSound_CatchTrashWithRod = "Catch Trash with Rod",
     GameSound_StrikeWithFishingSpear = "Strike with Fishing Spear",
     GameSound_CheckFighingNet = "Check Fishing Net",
-    
-    
-/* Zombie */
+
+-- Zombie
     GameSound_FemaleZombieCombined = "Female Zombie Combined",
     GameSound_MaleZombieCombined = "Male Zombie Combined",
     GameSound_FemaleZombieAttack = "Female Zombie Attack",
@@ -388,6 +383,4 @@ GameSound_EN = {
     GameSound_ZombieFootstepsCombined = "Zombie Footsteps Combined",
     GameSound_ZombieSurprisedPlayer = "Zombie Surprised Player",
     GameSound_TutorialZombie = "TutorialZombie",
-
 }
-
