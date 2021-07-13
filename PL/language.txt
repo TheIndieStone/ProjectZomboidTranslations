@@ -1,4 +1,5 @@
-VERSION = 1,
-text = Polish,
-charset = Cp1250,
-
+language = {
+    VERSION = "1",
+    charset = "Cp1250",
+    text = "Polish",
+}
