@@ -1,4 +1,3 @@
 VERSION = 1,
 text = Italiano,
 charset = Cp1252,
-
