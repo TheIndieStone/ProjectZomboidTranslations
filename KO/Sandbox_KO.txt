@@ -548,6 +548,7 @@ Sandbox_KO = {
 	Sandbox_ZToughness_option4 = "무작위",
 
 
+
 	Sandbox_ZTransmission = "감염 경로:",
 	Sandbox_ZTransmission_option1 = "혈액 + 타액",
 	Sandbox_ZTransmission_option2 = "타액으로 감염",
@@ -704,4 +705,11 @@ Sandbox_KO = {
     Sandbox_ZCrawlUnderVehicle_option5 = "자주",
     Sandbox_ZCrawlUnderVehicle_option6 = "아주 자주",
     Sandbox_ZCrawlUnderVehicle_option7 = "항상",
+
+    Sandbox_ItemRemovalListBlacklistToggle = "제거 목록 (화이트리스트)",
+    Sandbox_WorldItemRemovalList_tooltip = "아이템 리스트의 쉼표로 구분된 목록들은 "삭제할 물건의 시간" 설정한 시간 이후에 제거될 예정입니다.",
+    Sandbox_HoursForWorldItemRemoval_tooltip = "항목이 제거되기 전에 땅에 떨어진 시간. 다음 번에 맵의 해당 부분이 로드되면 항목이 제거됩니다. 0은 아이템을 삭제하지 않습니다.",
+    Sandbox_HoursForWorldItemRemoval = "삭제할 물건의 시간",
+    Sandbox_ItemRemovalListBlacklistToggle_tooltip = "활성화 할 경우, "세계 아이템 삭제 리스트" 에 들어 있지 *않은* 아이템은 삭제 될 예정입니다.."
+    Sandbox_WorldItemRemovalList = "세계 아이템 삭제 리스트",
 }

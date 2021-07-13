@@ -94,6 +94,6 @@ Stash_KO = {
 	Stash_RosewoodStashMap2_Text3 = "여기서 끝남",
 	Stash_RosewoodStashMap3_Text1 = "우리가 기다리는 동안 몇몇 장소를 강화하는 데 도움이 되는 장비가 발견됨.",
 	Stash_RosewoodStashMap3_Text11 = "어머니의 오래된 장소. X에서 볼수 있음",
-	Stash_RosewoodStashMap3_Text2 = "무기들 여기에 - 혹시 모르니",
-	Stash_RosewoodStashMap3_Text3 = "이쪽을 가지마",
+	Stash_RosewoodStashMap3_Text2 = "무기를 여기에 둠 - 혹시 모르니",
+	Stash_RosewoodStashMap3_Text3 = "이쪽으로 가지마",
 }

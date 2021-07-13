@@ -51,10 +51,10 @@ Moodles_KO = {
     Moodles_panic_lvl4 = "공황상태",
 
 	-- Sick
-    Moodles_sick_lvl1 = "나른함",
-    Moodles_sick_lvl2 = "미열",
-    Moodles_sick_lvl3 = "고열",
-    Moodles_sick_lvl4 = "불덩이",
+	Moodles_sick_lvl1 = "속이 안좋음",
+	Moodles_sick_lvl2 = "메스꺼움",
+	Moodles_sick_lvl3 = "아픔",
+	Moodles_sick_lvl4 = "고열",
 
 	-- Bored
     Moodles_bored_lvl1 = "심심함",
@@ -194,10 +194,10 @@ Moodles_KO = {
     Moodles_bleed_desc_lvl3 = "힘과 이동속도가 크게 저하됨.",
     Moodles_bleed_desc_lvl4 = "사망 직전.",
 	-- Wet
-    Moodles_wet_desc_lvl1 = "죽기 싫으면 비를 피하십시오.",
-    Moodles_wet_desc_lvl2 = "속도가 조금 저하됨.",
-    Moodles_wet_desc_lvl3 = "속도가 저하되고 감기에 걸릴 확률이 있음.",
-    Moodles_wet_desc_lvl4 = "속도가 크게 저하되고 감기에 걸릴 확률이 증가.",
+    Moodles_wet_desc_lvl1 = "약간 축축하다. 비인가? 땀인가?",
+    Moodles_wet_desc_lvl2 = "축축하다. 땀이 많이나는건가? 비가 많이 오는건가?",
+    Moodles_wet_desc_lvl3 = "감기에 걸릴 것 같다.",
+    Moodles_wet_desc_lvl4 = "몹시 감기에 걸릴 것 같다.",
 	-- Has a cold
     Moodles_hasacold_desc_lvl1 = "가끔씩 재채기를 함.",
     Moodles_hasacold_desc_lvl2 = "자꾸만 재채기를 함.",
@@ -235,14 +235,14 @@ Moodles_KO = {
 	-- Food eaten
     Moodles_foodeaten_desc_lvl1 = "신경쓰이는 배고픔이 사라졌다.",
     Moodles_foodeaten_desc_lvl2 = "배가 꽉찼다, 당신의 몸을 이롭게 할 겁니다.",
-    Moodles_foodeaten_desc_lvl3 = "위장이 만족했다. 체력과 힘을 돕는다.",
-    Moodles_foodeaten_desc_lvl4 = "힘과 치유 능력이 장시간 유지됨.",
+    Moodles_foodeaten_desc_lvl3 = "위장이 만족했다. 잠깐 체력과 힘이 증가한다.",
+    Moodles_foodeaten_desc_lvl4 = "한 입 더 먹는걸 멈추지 못했어... 힘과 치유 능력이 장시간 유지됨.",
 
 	-- Hyperthermia
     Moodles_hyperthermia_desc_lvl1 = "더워지기 시작함 옷을 벗고 싶음. 갈증이 증가함.",
     Moodles_hyperthermia_desc_lvl2 = "목이 마르고 땀이 남. 햇빛에 과다 노출됨.",
     Moodles_hyperthermia_desc_lvl3 = "메스껍고 집중력이 떨어짐. 수분을 찾아 혈안이 됨.",
-    Moodles_hyperthermia_desc_lvl4 = "환각 증상이 오고 수분부족으로 사망하기 직전.",
+    Moodles_hyperthermia_desc_lvl4 = "열사병으로 의식이 혼미함. 심각한 위기상황.",
 
 	-- Hypothermia
     Moodles_hypothermia_desc_lvl1 = "여긴 좀 추운 것 같은데...",

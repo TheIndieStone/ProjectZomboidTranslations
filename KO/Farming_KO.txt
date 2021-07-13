@@ -16,7 +16,7 @@ Farming_KO = {
 	Farming_In_bloom = "개화단계 ",
 	Farming_Seed-bearing = "씨앗 채취 가능",
 	Farming_Receding = "약한 상태",
-	Farming_Rotten = "썩음",
+	Farming_Rotten = "썩은",
 	Farming_Destroyed = "파괴됨",
    -- 농사 정보창 (타이틀)
 	Farming_Plant_Information = "농작물 정보",
@@ -55,4 +55,13 @@ Farming_KO = {
 	Farming_Tooltip_AverageWater = "평균 급수량 : ",
 	Farming_Tooltip_RequiredSeeds = "필요한 씨앗 갯수 : ",
 	Farming_Plowed_Land = "경작지",
+    Farming_MissingItem = "%1 이/가 필요합니다.",
+    Farming_Tooltip_NotEnoughWaterInInventory = "소지품에 물이 충분하지 않습니다.",
+    Farming_Tooltip_FurrowHasSeeds = "이미 씨앗이 있음",
+    Farming_Tooltip_FurrowNeedsSeed = "씨앗이 필요함",
+    Farming_Tooltip_NotReadyToHarvest = "수확할 준비가 되지 않음.",
+    Farming_Tooltip_NotAPlant = "식물이 아니다.",
+    Farming_Tooltip_ItemUsed = "사용됨",
+    Farming_Tooltip_PlantHasEnoughWater = "식물에 물이 가득 찼다.",
+    Farming_Tooltip_NotAFurrow = "고랑이 아님.",
 }
