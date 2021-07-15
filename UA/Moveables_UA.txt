@@ -707,4 +707,5 @@ Moveables_UA = {
 	Modern_Washing_Machine = "Пральна машина: сучасна",
 	Radio = "Радіо",
 	Washing_Machine = "Пральна машина",
+	Blood_Bank = "Розплідник",
 }

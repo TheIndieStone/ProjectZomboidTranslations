@@ -380,4 +380,5 @@ GameSound_UA = {
 	GameSound_TutorialZombie = "Зомбі з підручника",
 	GameSound_FemaleZombieReanimate = "Реанімація зомбі жінки",
 	GameSound_MaleZombieReanimate = "Реанімація зомбі чоловіка",
+	GameSound_StormyRifleCock = "Кінчик гвинтівки",
 }
