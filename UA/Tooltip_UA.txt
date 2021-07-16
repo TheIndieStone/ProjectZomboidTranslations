@@ -256,4 +256,11 @@ Tooltip_UA = {
 	Tooltip_TooMuchPainFitness = "Занадто багато болю, щоб займатися фітнесом.",
 	Tooltip_RemoveBrokenGlassNoItem = "Потрібен предмет у лівій руці.",
 	Tooltip_Recipe_HockeyMaskSmashBottle = "Потрібно надягти хокейну маску.<br>Використовуйте обережно!",
+	Tooltip_RepairableUninstalled = "Можна відновити після видалення",
+	Tooltip_BulletDefense = "Кульовий захист",
+	Tooltip_requireHairGel = "Потрібен гель для волосся",
+	Tooltip_GetPatchesBack = "%1 % шанс повернути патчі",
+	Tooltip_PatchAllHoles = "Залатати всі отвори за допомогою ",
+	Tooltip_AddPaddingToAll = "Додайте прокладку до кожної деталі без отворів ",
+	Tooltip_food_CookToRemoveUnhappiness = "Готуйте, щоб видалити .... щастя.",
 }
