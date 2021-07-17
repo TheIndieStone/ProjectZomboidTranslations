@@ -74,7 +74,7 @@ Tooltip_CN = {
 	Tooltip_potentialRepair = "修复率:",
 	Tooltip_Chance = "机率:",
 	Tooltip_chanceSuccess = "成功率:",
-																	
+	Tooltip_RepairableUninstalled = "卸载后可以修复",
 	Tooltip_broken = "损坏了.",
 	Tooltip_never = "未修理过",
 	Tooltip_item_Spices = "调味品:",
