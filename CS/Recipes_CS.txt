@@ -371,4 +371,6 @@ Recipes_CS = {
     Recipe_Reclaim_Ice_Pick_from_Spear = "Sundat Cepín z Oštěpu",
     Recipe_Open_Box_of_.556_Ammo = "Otevřit Krabičku s 5.56mm Náboji",
     Recipe_Make_Stake = "Vyrobit Kůl",
+    Recipe_Herbalist = "Bylinné Léky",
+    Recipe_Saw_Off_Double_Barrel_Shotgun = "Upilovat Dvouhlavňovou Brokovnici",
 }

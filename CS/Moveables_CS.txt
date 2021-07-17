@@ -21,4 +21,5 @@ Moveables_CS = {
     Large_Wardrobe = "Velká Skříň",
     Oakwood_Bench = "Dubová Lavička",
     Bush = "Křoví",
+    White_Plant = "Bílá Rostlina",
 }
