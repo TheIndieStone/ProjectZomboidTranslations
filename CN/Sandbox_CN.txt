@@ -118,6 +118,12 @@ Sandbox_CN = {
     Sandbox_LootRespawn_tooltip = "物品将在城镇和停车场中已经被搜刮的容器里刷新.物品不会在玩家制造的容器中刷新.",
     Sandbox_SeenHoursPreventLootRespawn = "物品重生阻止时间",
     Sandbox_SeenHoursPreventLootRespawn_tooltip = "当 > 0时,物品将不会在此小时内访问过的区域中重新生成.",
+	Sandbox_WorldItemRemovalList = "世界物品移除列表",
+    Sandbox_WorldItemRemovalList_tooltip = "将在 HoursForWorldItemRemoval 小时后删除的以逗号分隔的项目类型列表。",
+    Sandbox_HoursForWorldItemRemoval = "移除清单的时间",
+    Sandbox_HoursForWorldItemRemoval_tooltip = "物品掉落在地上的小时数，然后才会被移除。<br>物品会在下次加载地图的那个部分时被移除。<br>味着物品不会被移除。",
+    Sandbox_ItemRemovalListBlacklistToggle = "删除列表为白名单",
+    Sandbox_ItemRemovalListBlacklistToggle_tooltip = "如果为是，则 WorldItemRemovalList 中*不*的任何物品都将被移除。"
     Sandbox_Respawn_option1 = "关闭",
     Sandbox_Respawn_option2 = "每天",
     Sandbox_Respawn_option3 = "每周",
@@ -282,6 +288,14 @@ Sandbox_CN = {
     Sandbox_ZCognition_option2 = "本能",
     Sandbox_ZCognition_option3 = "基础本能",
     Sandbox_ZCognition_option4 = "随机",
+	Sandbox_ZCrawlUnderVehicle = "爬过车底",
+	Sandbox_ZCrawlUnderVehicle_option1 = "从不",
+    Sandbox_ZCrawlUnderVehicle_option2 = "非常少",
+    Sandbox_ZCrawlUnderVehicle_option3 = "稀少",
+    Sandbox_ZCrawlUnderVehicle_option4 = "有时",
+    Sandbox_ZCrawlUnderVehicle_option5 = "经常",
+    Sandbox_ZCrawlUnderVehicle_option6 = "非常多",
+    Sandbox_ZCrawlUnderVehicle_option7 = "全部",
     Sandbox_ZMemory = "僵尸记忆",
     Sandbox_ZMemory_option1 = "长",
     Sandbox_ZMemory_option2 = "普通",
@@ -485,6 +499,16 @@ Sandbox_CN = {
     Sandbox_InitialGas_option4 = "高",
     Sandbox_InitialGas_option5 = "很高",
     Sandbox_InitialGas_option6 = "满",
+	Sandbox_FuelStationGas = "初始加油站数量",
+    Sandbox_FuelStationGas_tooltip = "最初控制加油站中的油箱的满量",
+    Sandbox_FuelStationGas_option1 = "空",
+    Sandbox_FuelStationGas_option2 = "非常低",
+    Sandbox_FuelStationGas_option3 = "低",
+    Sandbox_FuelStationGas_option4 = "正常",
+    Sandbox_FuelStationGas_option5 = "高",
+    Sandbox_FuelStationGas_option6 = "非常高",
+    Sandbox_FuelStationGas_option7 = "满",
+    Sandbox_FuelStationGas_option8 = "无限",
     Sandbox_ChanceHasGas = "有燃料的几率",
     Sandbox_ChanceHasGas_tooltip = "控制找到油箱中有汽油的车辆的机会.",
     Sandbox_ChanceHasGas_option1 = "低",
@@ -567,16 +591,6 @@ Sandbox_CN = {
     
 	
 	--Add Text--
-	--284行--
-	Sandbox_ZCrawlUnderVehicle = "爬过车底",
-	Sandbox_ZCrawlUnderVehicle_option1 = "从不",
-    Sandbox_ZCrawlUnderVehicle_option2 = "非常少",
-    Sandbox_ZCrawlUnderVehicle_option3 = "稀少",
-    Sandbox_ZCrawlUnderVehicle_option4 = "有时",
-    Sandbox_ZCrawlUnderVehicle_option5 = "经常",
-    Sandbox_ZCrawlUnderVehicle_option6 = "非常多",
-    Sandbox_ZCrawlUnderVehicle_option7 = "全部",
-	
 	
 	
 }
