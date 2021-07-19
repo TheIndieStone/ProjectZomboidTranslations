@@ -699,11 +699,11 @@ Sandbox_KO = {
 
     Sandbox_ZCrawlUnderVehicle = "차량 아래로 기어갈 가능성:",
     Sandbox_ZCrawlUnderVehicle_option1 = "없음",
-    Sandbox_ZCrawlUnderVehicle_option2 = "아주 적음",
+    Sandbox_ZCrawlUnderVehicle_option2 = "매우 적음",
     Sandbox_ZCrawlUnderVehicle_option3 = "적음",
     Sandbox_ZCrawlUnderVehicle_option4 = "가끔",
     Sandbox_ZCrawlUnderVehicle_option5 = "자주",
-    Sandbox_ZCrawlUnderVehicle_option6 = "아주 자주",
+    Sandbox_ZCrawlUnderVehicle_option6 = "매우 자주",
     Sandbox_ZCrawlUnderVehicle_option7 = "항상",
 
     Sandbox_ItemRemovalListBlacklistToggle = "제거 목록 (화이트리스트)",
@@ -712,4 +712,14 @@ Sandbox_KO = {
     Sandbox_HoursForWorldItemRemoval = "삭제할 물건의 시간",
     Sandbox_ItemRemovalListBlacklistToggle_tooltip = "활성화 할 경우, "세계 아이템 삭제 리스트" 에 들어 있지 *않은* 아이템은 삭제 될 예정입니다.."
     Sandbox_WorldItemRemovalList = "세계 아이템 삭제 리스트",
+    Sandbox_FuelStationGas = "초기 주유소 기름양 설정",
+    Sandbox_FuelStationGas_tooltip = "게임 시작시, 주유소의 기름양을 설정합니다.",
+    Sandbox_FuelStationGas_option1 = "비어있음",
+    Sandbox_FuelStationGas_option2 = "매우 적음",
+    Sandbox_FuelStationGas_option3 = "적음",
+    Sandbox_FuelStationGas_option4 = "보통",
+    Sandbox_FuelStationGas_option5 = "많음",
+    Sandbox_FuelStationGas_option6 = "매우 많음",
+    Sandbox_FuelStationGas_option7 = "가득 참",
+    Sandbox_FuelStationGas_option8 = "무한",
 }
