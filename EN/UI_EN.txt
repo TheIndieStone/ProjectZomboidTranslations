@@ -195,7 +195,9 @@ UI_EN = {
     UI_worldscreen_MapNotFound = "A map is missing.  Check that the needed mod is installed.",
     UI_worldscreen_SavefileCorrupt = "Savefile appears to be corrupt.  World Version is zero.",
     UI_worldscreen_SavefileOld = "This savefile is too old to be loaded.",
+    UI_worldscreen_SavefileUseBeta41_50 = "Please check PZ Steam betas for version 41.50.",
     UI_worldscreen_SavefileNewerThanGame = "Savefile is from a newer version of the game.",
+    UI_worldscreen_SavefileVersion = "Savefile World Version: %1 <LINE> Current World Version: %2",
     -- login screen (lua)
     UI_loginscreen_desurakey = "Desura Key:",
     UI_loginscreen_username = "Username:",
