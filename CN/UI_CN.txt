@@ -195,7 +195,9 @@ UI_CN = {
     UI_worldscreen_MapNotFound = "地图丢失,检查所需的模组是否已经安装.",
     UI_worldscreen_SavefileCorrupt = "存档似乎已损坏,世界版本为0.",
     UI_worldscreen_SavefileOld = "这存档太旧无法载入了.",
+	UI_worldscreen_SavefileUseBeta41_50 = "请检查PZ Steam 的 41.50 测试版本",
     UI_worldscreen_SavefileNewerThanGame = "存档文件来自更新版本的游戏.",
+	UI_worldscreen_SavefileVersion = "保存文件世界版本：%1 <LINE> 当前世界版本：%2",
     -- login screen (lua)
     UI_loginscreen_desurakey = "Desura Key:",
     UI_loginscreen_username = "用户名:",
