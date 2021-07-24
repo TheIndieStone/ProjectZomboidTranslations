@@ -20,6 +20,12 @@
 - 修正了Distributions.lua中的拼写错误。
 - 修正了在没有钥匙的情况下试图启动车辆时的抖动。
 
+热修复
+
+- 修复了河滨体育商店中过多的棒球棒生成问题。
+- 在ProceduralDistributions中重新添加了丢失的容器。
+- 修正了Linux ProjectZomboid64找不到ProjectZomboid64.json文件的情况。
+
 
 
 [VERSION] 41.51 - IWBUMS
