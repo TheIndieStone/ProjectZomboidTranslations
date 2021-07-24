@@ -1,3 +1,33 @@
+[VERSION] 41.52 - IWBUMS
+
+平衡
+
+- 更新战利品分配 
+- 在ProceduralDistributions.lua中用之前未定义的MedicalClinicDrugs取代了重复的MedicalClinicTools。
+- 为窗帘添加了 "RippedSheets "材料，使其可以被拆解。
+
+修改
+
+- 添加了IsoGameCharacter.getOutfitName()。
+
+修正
+
+- 修正了僵尸从极远处发现玩家的问题。
+- 修正了分屏中物体的透明度问题。
+- 修正了不同字体大小的Lua调试器文件浏览器布局。
+- 修正了从水坑中取水，而不是从与含有污染水的集雨桶相连的水槽中取水。
+- 修正了 "移除灌木 "与弯刀播放的推搡动画。
+- 修正了Distributions.lua中的拼写错误。
+- 修正了在没有钥匙的情况下试图启动车辆时的抖动。
+
+热修复
+
+- 修复了河滨体育商店中过多的棒球棒生成问题。
+- 在ProceduralDistributions中重新添加了丢失的容器。
+- 修正了Linux ProjectZomboid64找不到ProjectZomboid64.json文件的情况。
+
+
+
 [VERSION] 41.51 - IWBUMS
 
 重要提示：
