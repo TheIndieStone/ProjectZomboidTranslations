@@ -74,12 +74,11 @@ SurvivalGuide_EN = {
                                       " Wrap up warm survivor!",
 
     SurvivalGuide_entrie11title = "SURVIVAL GUIDE #11 - DUCK AND COVER",
-    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> NEW - DUCK AND COVER <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - Sneak <LINE> %2 - Sprint <LINE> %3 - Jog"
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> NEW - DUCK AND COVER <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - Sneak <LINE> %2 - Sprint <LINE> %3 - Jog",
     SurvivalGuide_entrie11moreinfo = "<H1> CROUCH <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> Survivors can now crouch behind walls and fences to reduce their visibility! <LINE> You can also Jog while in this state. <LINE> <BR> " ..
                                         "<H1> SPRINT <BR> <TEXT> If Jogging isn't fast enough - then there's Sprinting too! <LINE> Press %1 to Sprint - although be careful as panicked collisions could make you fall. <LINE> <BR> " ..
                                         "<H1> AUTO-CLIMB <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> To climb over fences, simply Jog or Sprint towards them. <LINE> <BR> " ..
                                         "<H1> STOMP THE HEAD <BR> <TEXT> When a zombie has been downed: aim for the head! Hitting its lower body is less likely to have the desired effect. <LINE> <BR> " ..
                                         "<H1> SPEARS <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> Spears require good timing and a well-managed distance. Also, why not try Sprinting with a spear to charge down a lone zombie? <LINE> <BR> " ..
                                         "<H1> CLOTHING PROTECTION <BR> <TEXT> Wearing the right clothing could protect you from bites, scratches and lacerations. Press %2 to open the Clothing Protection Panel and see an overview of your survivor's current protection levels. <LINE> <BR> ",
-
 }
