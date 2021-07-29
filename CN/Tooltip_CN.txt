@@ -264,5 +264,5 @@ Tooltip_CN = {
 	Tooltip_Recipe_HockeyMaskSmashBottle = "需要佩戴冰球面具。<br>谨慎使用。" ,
 	Tooltip_food_CookToRemoveUnhappiness = "烹饪即可消除该状态.",
 	Tooltip_RemoveCurtains = "给予一个 %1 .",
-	Tooltip_PickUpCurtains = "或者，你可以用家具工具拿起窗帘.",
+	Tooltip_PickUpCurtains = "或者，你可以用工具取下窗帘.",
 }
