@@ -667,7 +667,7 @@ Fixed fire and smoke sprites being drawn as part of the floor - being covered by
 Fixed items that should spawn in bags sometimes spawning in the container the bag is inside.
 Fixed adding bait to traps not working.
 Fixed 'Plays Baseball' trait not working properly.
-Fixed not being able to make a pot of soup with a canned mushroom soup.
+Fixed not being able to make a pot of soup with a tinned mushroom soup.
 Fixed not being able to refill an empty Propane Torch
 Fixed 'GameServer.hitZombie() doesn't handle vehicles being hit by players' issue
 Fixed BodyDamage.FoodSicknessLevel going below zero.
