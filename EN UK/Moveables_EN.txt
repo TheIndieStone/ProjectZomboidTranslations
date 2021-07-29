@@ -687,9 +687,9 @@ Moveables_EN = {
     Zippee_Wall_Shelves = "Zippee Wall Shelves",
 
     -- ISMoveableSpriteProps names
-    Moveable_object = "Moveable Object",
+    Moveable_object = "Movable Object",
     Scrapable_object = "Disassemblable Object",
-    
+
     -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
     Lamp_on_Pillar = "Lamp on Pillar",
     Metal_Crate = "Metal Crate",

@@ -30,7 +30,7 @@ Added tooltip to Claim Safehouse context menu option when player hasn't survived
 Increase java heap max size on the Mac to match Windows/Linux (1200 MB).
 Added "Quit to Desktop" button for when errors occur while loading a game.
 Added "/safehouse release" command so clients can release a safehouse they own.
-Added Moveables.txt translation file (for moveable-object names).
+Added Moveables.txt translation file (for movable-object names).
 Added MultiStageBuild.txt translation file (for creating/upgrading walls).
 UI now displays multi-stage build options even if a required recipe is unknown.
 Added "ReloadWeapon" keybind ('R' by default).
@@ -426,7 +426,7 @@ Added chevrons on character screen next to the weight to indicate if weight is i
 All vehicle doors may be locked/unlocked from inside without requiring a key.
 Single tile doors can now be blocked from opening/closing by obstacles - as it is with double doors.
 Piped items (sinks, toilets, baths..) now require a wrench to be moved.
-A moveable item requiring no skill now have a 25% chance of breaking instead of 75%.
+A movable item requiring no skill now have a 25% chance of breaking instead of 75%.
 After placing a water piped item you now need to plumb it back before being able to use it (require a wrench & a building or fully enclosed player built house).
 Weather now impacts on chances of starting the car (specially on low quality engine, the colder, the harder is to start).
 [MODDING]
@@ -455,7 +455,7 @@ Fixed splitscreen players not being able to wake themselves up with less than tw
 Fixed exception playing zombie sounds when a zombie's current square is null.
 Fixed server sending smash-window packets to distant clients.
 Fixed outright carmageddon when vehicle ids become negative after a long time running.
-Fixed "Drop" option appearing for non-droppable moveable objects in inventory.
+Fixed "Drop" option appearing for non-droppable movable objects in inventory.
 Fixed not being able to pick up corpses behind tall windows.
 Fixed previously-clicked buttons sometimes remaining highlighted when redisplayed.
 Fixed "Peanut Butter and  Sandwich".
@@ -603,7 +603,7 @@ Fixed old lighting bug that caused flickering in some situations.
 Fixed evolved recipes using WaterPot as base item - they now require the WaterPot to be at least 3/4 full
 Fixed not being able to place or build things through an open doorway.
 Fixed creating ".project_zomboid_2.9.9.17" hidden folder on Linux
-Fixed target-picking cursors (such as the moveable-tools cursor) getting in the way when the player attacks. …
+Fixed target-picking cursors (such as the movable-tools cursor) getting in the way when the player attacks. …
 Fixed SGlobalObjectSystem error when a thumpable is destroyed.
 Fixed name of sound that plays when a carpentry objects break.
 Fixed barricaded doors being disassembled and leaving the barricade behind. …
