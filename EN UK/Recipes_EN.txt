@@ -192,7 +192,7 @@ Recipes_EN = {
     Recipe_Open_Canned_Beans = "Open Canned Beans",
     Recipe_Open_Canned_Bolognese = "Open Canned Spaghetti Bolognese",
     Recipe_Open_Canned_Carrots = "Open Canned Carrots",
-    Recipe_Open_Canned_Chili = "Open Canned Chili",
+    Recipe_Open_Canned_Chili = "Open Canned Chilli",
     Recipe_Open_Canned_Corn = "Open Canned Corn",
     Recipe_Open_Canned_Corned_Beef = "Open Canned Corned Beef",
     Recipe_Open_Canned_Mushroom_Soup = "Open Canned Mushroom Soup",
@@ -277,4 +277,4 @@ Recipes_EN = {
     Recipe_Smash_Bottle = "Smash Bottle",
     Recipe_Smash_Watermelon = "Smash Watermelon",
     Recipe_Unstack_Logs = "Unstack Logs",
-} 
+}

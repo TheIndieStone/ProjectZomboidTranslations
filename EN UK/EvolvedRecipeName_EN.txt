@@ -1,7 +1,7 @@
 EvolvedRecipeName_EN = {
 	EvolvedRecipeName_Base.CannedBologneseOpen = "Canned Bolognese",
 	EvolvedRecipeName_Base.CannedCarrotsOpen = "Canned Carrots",
-	EvolvedRecipeName_Base.CannedChiliOpen = "Canned Chili",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Canned Chilli",
 	EvolvedRecipeName_Base.CannedCornOpen = "Canned Corn",
 	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Canned Corned Beef",
 	EvolvedRecipeName_Base.CannedPeasOpen = "Canned Peas",
