@@ -307,7 +307,7 @@ Fixed vehicle positions not updating for passengers after a collision.
 Fixed Multi-core rendering not working on Linux.
 Fixed seeing key icon above another player's head when near a vehicle.
 Added -XX:-CreateMinidumpOnCrash -XX:-OmitStackTraceInFastThrow to the Windows server .bat/.json.
-Added -XX:-OmitStackTraceInFastThrow to the Linux server .json. 
+Added -XX:-OmitStackTraceInFastThrow to the Linux server .json.
 Fixed collisions between vehicles and zombies being counted when the vehicle is stationary.
 Fixed small car's plate number being stretched.
 Fixed flat building roofs being hidden when the player was obscured by player-built floors.
@@ -450,7 +450,7 @@ Fixed UIElement.DrawText(x,y,alpha) not using FBO_ALPHA_MULT.
 Fixed bug that could result in invisible 3D corpses.
 Fixed invalid RGB values used in TextManager.DrawString(x,y,str)
 Fixed GC created while loading files and some related to textures loading.
-Fixed unoptimized TextManager.getFontFromEnum()
+Fixed unoptimised TextManager.getFontFromEnum()
 Fixed splitscreen players not being able to wake themselves up with less than two controllers active.
 Fixed exception playing zombie sounds when a zombie's current square is null.
 Fixed server sending smash-window packets to distant clients.
