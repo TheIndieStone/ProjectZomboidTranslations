@@ -69,7 +69,7 @@ ContextMenu_EN = {
 	ContextMenu_Dig = "Dig Furrow",
 	ContextMenu_DigWithHands = "Dig Furrow with Hands",
 	ContextMenu_DigWithHandsTT = "May injure your hands.",
-	ContextMenu_Fertilize = "Fertilize",
+	ContextMenu_Fertilize = "Fertilise",
 	ContextMenu_Sow_Seed = "Sow Seed",
 	ContextMenu_Info = "Info",
 	ContextMenu_Remove = "Remove",
@@ -453,4 +453,4 @@ ContextMenu_EN = {
     ContextMenu_Fitness = "Fitness",
     ContextMenu_CleanBandageEtc = "Clean Bandages",
     ContextMenu_Vehicle_AttachTrailer2 = "Attach Trailer",
-} 
+}
