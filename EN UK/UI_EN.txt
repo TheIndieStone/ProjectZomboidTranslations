@@ -773,7 +773,7 @@ UI_EN = {
     UI_WorkshopSubmit_BtnViewSubscriptions = "View subscribed items",
     UI_WorkshopSubmit_BtnCreateAndUpdate = "Create and update items",
     -- Workshop errors
-    UI_WorkshopError_IOError = "An unexpected I/O error has occured.",
+    UI_WorkshopError_IOError = "An unexpected I/O error has occurred.",
     UI_WorkshopError_MissingContents = "There is no Contents/ folder in the folder you chose.\nAll the files and folders to upload must be inside a folder called Contents/.",
     UI_WorkshopError_FolderNotAllowedInContents = "There are unrecognised folders in your Contents/ folder.\nThe following folders are the only ones permitted in Contents/:\n%1",
     UI_WorkshopError_FileNotAllowedInContents = "There are unrecognised files in your Contents/ folder.\nOnly folders are allowed in Contents/.",
