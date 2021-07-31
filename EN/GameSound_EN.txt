@@ -295,7 +295,7 @@ GameSound_EN = {
     GameSound_VehicleDoorOpen = "Vehicle Door Open",
     GameSound_LockVehicleDoor = "Vehicle Door Lock",
     GameSound_UnlockVehicleDoor = "Vehicle Door Unlock",
-    GameSound_VehicleDoorsLocked = "Vehicle Door Locked",
+    GameSound_VehicleDoorIsLocked = "Vehicle Door is Locked",
     GameSound_VehicleHoodClose = "Vehicle Hood Close",
     GameSound_VehicleHoodOpen = "Vehicle Hood Open",
     GameSound_VehicleTrunkClose = "Vehicle Trunk Close",
@@ -355,7 +355,7 @@ GameSound_EN = {
     GameSound_CatchFish = "Catch Fish",
     GameSound_CatchTrashWithRod = "Catch Trash with Rod",
     GameSound_StrikeWithFishingSpear = "Strike with Fishing Spear",
-    GameSound_CheckFighingNet = "Check Fishing Net",
+    GameSound_CheckFishingNet = "Check Fishing Net",
     
     
 /* Zombie */
