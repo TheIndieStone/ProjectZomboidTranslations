@@ -2,8 +2,8 @@ UI_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.50
-	-- Date 05-19-2021
+	-- Build-41.53
+	-- Date 08-05-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,13 +25,13 @@ UI_JP = {
 	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.50 <2021年05月19日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.50 <2021年05月19日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>   ",
 
 	UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ！ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 <LINE><LINE><LINE> <CENTRE> 公式日本語翻訳者からのお知らせ！ <LINE><LINE> <CENTRE> ※注意※ 非公式の日本語訳MODを導入した状態での動作を一切保証していません。 <LINE><LINE> <CENTRE> ",
 
-	--UI_mainscreen_version_steam = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.50 <2021年05月19日版>  ",
-	--UI_mainscreen_version = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.50 <2021年05月19日版>  ",
+	--UI_mainscreen_version_steam = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>  ",
+	--UI_mainscreen_version = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>  ",
 
 	--UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ！ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 <LINE><LINE><LINE> <CENTRE> 公式日本語翻訳者からのお知らせ！ <LINE><LINE> <CENTRE> 最初に公式日本語翻訳MODのバージョンとゲームに組み込まれたを公式日本語訳 <LINE> <CENTRE> バージョンをご確認ください。MODバージョンよりもゲームに組み込まれた公式 <LINE> <CENTRE> 日本語翻訳が新しいバージョンの場合には、公式日本語翻訳MODを無効にしてく <LINE> <CENTRE> ださい。 <LINE><LINE> <CENTRE> ※注意※ 非公式の日本語訳MODを導入した状態での動作を一切保証していません。 <LINE><LINE> <CENTRE> ",
 
@@ -46,8 +46,11 @@ UI_JP = {
 	-- Option screen (lua)
 
 	UI_optionscreen_gameoption = "ゲームの設定",
+
+	
 	UI_optionscreen_display = "画面の設定",
 	UI_optionscreen_fullscreen = "フルスクリーン表示",
+	UI_optionscreen_borderless = "ボーダーレスウィンドウ表示",
 	UI_optionscreen_vsync = "垂直同期",
 	UI_optionscreen_videomemory = "グラフィックカードメモリ",
 	UI_optionscreen_multicore = "マルチコア",
@@ -519,7 +522,7 @@ UI_JP = {
 	UI_optionscreen_binding_Shout = "叫ぶ",
 	UI_optionscreen_binding_Toggle Lua Debugger = "Luaデバッガー",
 	UI_optionscreen_translatedBy = "翻訳者",
-	UI_optionscreen_binding_Player Control = "プレイヤー操作",
+	UI_optionscreen_binding_Player Control = "プレイヤー",
 	UI_optionscreen_binding_UI = "ユーザーインターフェイス",
 	UI_optionscreen_binding_Hotkeys = "ホットキー",
 	UI_optionscreen_binding_Multiplayer = "マルチプレイヤー",
@@ -702,7 +705,7 @@ UI_JP = {
 	UI_BloodDecals8 = "80 %",
 	UI_BloodDecals9 = "90 %",
 	UI_BloodDecals10 = "100 %",
-	UI_optionscreen_borderless = "ボーダーレスウィンドウ表示",
+
 	UI_optionscreen_borderless_tt = "設定を有効にするには、ゲームの再起動が必要です。",
 	UI_optionscreen_ambient_volume = "環境音の音量",
 	UI_optionscreen_binding_Toggle mode = "トグル切替",
@@ -1098,7 +1101,7 @@ UI_JP = {
 	UI_optionscreen_enableVehicle = "車両を導入",
 	UI_optionscreen_vehicles = "車両の設定",
 	UI_ServerSettingGroup_Vehicles = "車両の設定",
-	UI_optionscreen_binding_Vehicle = "車両操作",
+	UI_optionscreen_binding_Vehicle = "車両",
 	UI_optionscreen_binding_ReloadWeapon = "銃器ラジアルメニュー/再装填",
 	UI_optionscreen_binding_StartVehicleEngine = "エンジン始動",
 	UI_optionscreen_binding_ToggleVehicleHeadlights = "ヘッドライト",
@@ -1310,7 +1313,7 @@ UI_JP = {
 	UI_optionscreen_CycleContainerKey3 = "Control + Shift",
 	UI_optionscreen_CycleContainerKey_tt = "インベントリや戦利品のリスト上でマウスホイール<br>をスクロールしている間に押したままにして置くと<br>コンテナ間を循環させることができます。",
 	UI_LoadGameScreen_Mods = "使用しているMOD:",
-	UI_LoadGameScreen_NoMods = "現在、MODは使用されていません。",
+	UI_LoadGameScreen_NoMods = "MODは使用されていません。",
 	UI_LoadGameScreen_NoModsTxt = "この保存データには、mods.txtがありません。<br>現在、有効なMODをすべて使用します。",
 	UI_LoadGameScreen_ButtonChooseMods = "MODを選択...",
 	UI_LoadGameScreen_ChooseModsText = "この保存データで使用するMODを変更することができます。<br>今、変更するとゲームが中断される可能性があります。<br>マップの追加や削除はサポートされていません。",
@@ -1362,5 +1365,26 @@ UI_JP = {
 	UI_optionscreen_render_precipAlways = "常時",
 	UI_optionscreen_render_precipOutdoors = "屋外のみ",
 	UI_optionscreen_render_precipNever = "無効",
+	UI_optionscreen_DisplayMode = "画面の設定",
+	UI_optionscreen_DisplayMode1 = "フルスクリーン表示",
+	UI_optionscreen_DisplayMode2 = "ボーダーレスウィンドウ表示",
+	UI_optionscreen_DisplayMode3 = "ウィンドウ表示",
+	UI_optionscreen_LockCursorToWindow = "カーソルをウィンドウに固定",
+	UI_optionscreen_LockCursorToWindow_tt = "有効にすると、システムカーソルは非表示になり、ゲームは独自のカーソルをレンダリングします。<br>無効にするとマウスカーソルをウィンドウ内に保持します。",
+	UI_optionscreen_ShowCursorWhileAiming = "照準を合わせながらマウスカーソルを表示",
+	UI_optionscreen_ShowCursorWhileAiming_tt = "デフォルトでは、「ISOカーソル」が表示されている時は、マウスカーソルは非表示になります。",
+	UI_Loading_Scripts = "スクリプトをを読み込み中...",
+	UI_Loading_Clothing = "クロージングを読み込み中...",
+	UI_optionscreen_ModelTextureMipmaps = "モデル テクスチャー ミップマップ",
+	UI_optionscreen_ModelTextureMipmaps_tt = "有効にするとズームアウトした際にモデルを低解像度のテクスチャを使用します。これによりパフォーマンスが向上しますが、より多くのメモリを使用します。変更後は、再起動が必要です。",
+	UI_worldscreen_SavefileUseBeta41_50 = "PZ Steam ベータバージョン 41.50 かをご確認ください。",
+	UI_worldscreen_SavefileVersion = "保存ファイルのゲームバージョン: %1 <LINE> 現在のゲームバージョン: %2",
+	UI_ServerOption_ShowFirstAndLastName_tooltip = "プレイヤーの頭上に、ユーザー名ではなく、姓名（ゲーム設定名）で表示します。",
+	UI_ServerOption_TrashDeleteAll_tooltip = "有効にすると、プレーヤーは「すべてを削除」ボタンを使用することができます。",
+	UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "有効にすると、プレイヤーは他のプレイヤーに撃たれて再び撃ち返すことができます。",
+	UI_ServerOption_MouseOverToSeeDisplayName_tooltip = "有効にすると、プレイヤーはマウスオーバーしない限り、対象者の表示名を見ることができなくなります。",
+	UI_ServerOption_HidePlayersBehindYou_tooltip = "有効にすると、見えないプレイヤー（ゾンビなど）を自動的に隠します。",
+	UI_ServerOptionDesc_Replay = "動いているプレーヤーを録画して再生するリプレイ使用方法は、下記の方法で行ってください。 /replay "プレイヤー名" -record|-play|-stop ファイル名 例: /replay user1 -record stadion.bin",
+	UI_OnConnectFailed_DebugNotAllowed = "管理者以外はデバッグ接続ができません。",
 
 }
