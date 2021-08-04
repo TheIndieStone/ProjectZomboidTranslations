@@ -2,8 +2,8 @@ ContextMenu_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.50
-	-- Date 05-19-2021
+	-- Build-41.53
+	-- Date 08-05-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -59,7 +59,7 @@ ContextMenu_JP = {
 	ContextMenu_Dry_myself = "身体を拭く",
 	ContextMenu_Drop = "置く",
 	ContextMenu_Full = "最大(%1)",
-	ContextMenu_Dig = "掘る",
+	ContextMenu_Dig = "耕す",
 	ContextMenu_Fertilize = "肥料を撒く",
 	ContextMenu_Sow_Seed = "種子を蒔く",
 	ContextMenu_Info = "情報",
@@ -256,8 +256,8 @@ ContextMenu_JP = {
 	ContextMenu_RemoveLightbulb = "電球を取り外す",
 	ContextMenu_SetAlarm = "アラームを設定する",
 	ContextMenu_StopAlarm = "アラームを停止する",
-	ContextMenu_DigWithHands = "手で掘る",
-	ContextMenu_DigWithHandsTT = "手を負傷する可能性がある",
+	ContextMenu_DigWithHands = "手で耕す",
+	ContextMenu_DigWithHandsTT = "手を負傷する可能性があります。",
 	ContextMenu_Wooden_Wall_Frame = "木枠",
 	ContextMenu_MetalWallFrame = "金属枠",
 	ContextMenu_Uses = "(必要アイテム)",
@@ -468,5 +468,12 @@ ContextMenu_JP = {
 	ContextMenu_Fitness = "トレーニング",
 	ContextMenu_CleanBandageEtc = "綺麗な包帯",
 	ContextMenu_Vehicle_AttachTrailer2 = "トレーラーを取り付ける",
-
+	ContextMenu_WaterSource = "水源",
+	Puddle = "水溜まり",
+	ContextMenu_NaturalWaterSource = "自然の水源",
+	ContextMenu_Magazine = "弾倉",
+	ContextMenu_GunType = "銃の種類",
+	ContextMenu_PatchAllHoles = "全ての穴を修繕する 材料‐",
+	ContextMenu_RemoveAllPatches = "修繕した全ての布地/革を取り去る",
+	ContextMenu_AddPaddingAll = "衣類全体を修繕する 材料‐",
 }
