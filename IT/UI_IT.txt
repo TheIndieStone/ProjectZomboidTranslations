@@ -1292,6 +1292,8 @@ UI_IT = {
     UI_worldscreen_SavefileCorrupt = "Il salvataggio sembra corrotto. La versione del mondo è zero.",
     UI_worldscreen_SavefileNewerThanGame = "Il file di salvataggio proviene da una versione più recente del gioco.",
     UI_worldscreen_SavefileOld = "Questo salvataggio è troppo vecchio per essere caricato.",
+    UI_worldscreen_SavefileUseBeta41_50 = "Si prega di controllare le beta di PZ Steam per la versione 41.50.",
     UI_worldscreen_SavefileVehicle = "A causa della portata delle modifiche necessarie per implementare i veicoli, i salvataggi delle versioni precedenti non sono compatibili. <LINE> <LINE> Per continuare il gioco: accedi ai pre-veicoli Build 38.30 tramite la scheda beta di Steam. <LINE> <LINE> SavedGameWorldVersion: %1 CurrentWorldVersion: %2",
+    UI_worldscreen_SavefileVersion = "Versione del  salvataggio del mondo : %1 <LINE> Versione corrente del mondo: %2",
     UI_worldscreen_deletesave = "Sei sicuro di voler cancellare il salvataggio?",
 }

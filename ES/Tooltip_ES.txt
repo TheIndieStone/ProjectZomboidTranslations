@@ -261,4 +261,7 @@ Tooltip_ES = {
 	Tooltip_PatchAllHoles = "Remendar todos los agujeros usando ",
 	Tooltip_AddPaddingToAll = "Añadir relleno a cada parte sin agujeros usando ",
 	Tooltip_food_CookToRemoveUnhappiness = "Cocinar para eliminar el hándicap de la felicidad.",
+	Tooltip_Recipe_HockeyMaskSmashBottle = "Requiere el uso de una máscara de hockey.<br>Úsala con precaución.",
+	Tooltip_RemoveCurtains = "Da una %1.",
+	Tooltip_PickUpCurtains = "También puedes recoger las cortinas con la herramienta de mobiliario.",
 }

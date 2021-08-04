@@ -263,4 +263,6 @@ Tooltip_EN = {
     Tooltip_RemoveBrokenGlassNoItem = "Requires an item in your left hand.",
     Tooltip_Recipe_HockeyMaskSmashBottle = "Requires worn Hockey Mask.<br>Use with caution.",
     Tooltip_food_CookToRemoveUnhappiness = "Cook to remove happiness malus.",
+    Tooltip_RemoveCurtains = "Gives one %1.",
+    Tooltip_PickUpCurtains = "Alternatively, you can pick up the Curtains using the furniture tool.",
 }
