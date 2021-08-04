@@ -269,5 +269,14 @@ Tooltip_JP = {
 	Tooltip_TooMuchPainFitness = "フィットネスをするには痛みが強すぎます。",
 	Tooltip_RemoveBrokenGlassNoItem = "左手にアイテムが必要です。",,
 	Tooltip_Recipe_HockeyMaskSmashBottle = "着用したホッケーマスクが必要です。<br>使用には注意が必要です。",
+	Tooltip_AddPaddingToAll = "全ての部分に穴を開けずに修繕する。材料‐",
+	Tooltip_RepairableUninstalled = "一度でも取り外すと修復可能になります。",
+	Tooltip_BulletDefense = "銃弾の防御",
+	Tooltip_requireHairGel = "ヘアジェルが必要です。",
+	Tooltip_GetPatchesBack = "布地/革を回収できる可能性は、%1%です。",
+	Tooltip_PatchAllHoles = "全ての穴を塞ぎます。材料－",
+	Tooltip_food_CookToRemoveUnhappiness = "不幸を取り除くためには、調理が必要です。",
+	Tooltip_RemoveCurtains = "1枚の%1を取り付けることができます。",
+	Tooltip_PickUpCurtains = "カーテンを取り外すこともできます。",
 
 }
