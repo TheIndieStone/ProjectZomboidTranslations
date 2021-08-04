@@ -2,8 +2,8 @@ Moveables_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.50
-	-- Date 05-19-2021
+	-- Build-41.53
+	-- Date 08-05-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -15,7 +15,7 @@ Moveables_JP = {
 	Adult_Education_Sign = "看板(Adult Education)",
 	Advertisement_Notices = "貼り紙(広告)",
 	Air_Blower = "エアーブロワー",
-	Air_Conditioner = "エアコン",
+	Air_Conditioner = "エアコン室外機",
 	Angelic_Gravestone = "墓石(天使)",
 	Antique_Outdoor_Lamp = "外灯(アンティーク)",
 	Antique_Oven = "ストーブ(アンティーク)",
@@ -700,5 +700,6 @@ Moveables_JP = {
 	Type_A_Grey_Cubicle = "パーティション タイプA (グレー)",
 	Type_B_Blue_Cubicle = "パーティション タイプB (ブルー)",
 	Type_B_Grey_Cubicle = "パーティション タイプB (グレー)",
+	Blood_Bank = "犬小屋",
 
 }
