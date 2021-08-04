@@ -2,8 +2,8 @@ GameSound_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.50
-	-- Date 05-19-2021
+	-- Build-41.53
+	-- Date 08-05-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -45,6 +45,7 @@ GameSound_JP = {
 	GameSound_NewMusic_AmbientLow = "オフィシャル: Ambient (Low)",
 	GameSound_NewMusic_AmbientPiano = "オフィシャル: Ambient (Piano)",
 	GameSound_NewMusic_AmbientRaider = "オフィシャル: Ambient (Raider)",
+	GameSound_NewMusic_Death = "オフィシャル: Death",
 	GameSound_OldMusic_alone = "アーリーアクセス: Alone",
 	GameSound_OldMusic_barricading = "アーリーアクセス: Barricading",
 	GameSound_OldMusic_chase = "アーリーアクセス: Chase",
