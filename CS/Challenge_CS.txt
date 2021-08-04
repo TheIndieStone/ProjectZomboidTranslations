@@ -1,4 +1,4 @@
-Challenge_CS Updated = {
+Challenge_CS = {
     Challenge_YouHaveOneDay_name = "Máš Jeden Den",
     Challenge_YouHaveOneDay_desc = "Jsi zpět v Knox County. Jsi zpět na mapě, kde infekce Project Zomboid začala. <LINE> <LINE> Jeden den jsi relativně v bezpečí. Zombie dorazí ve vysokých číslech a najdou tě. Kde jsi naposledy byl? Kde jsi naposledy byl ve svých starých časech? Radši to hned najdi. <LINE> <LINE> [Naše díky komunitnímu maperovi BobHeckling za přetvoření staré 0.15 mapy se současnými nástroji.]]",
     Challenge_WinterIsComing_name = "Přichází Zima",
