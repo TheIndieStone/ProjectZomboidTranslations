@@ -52,7 +52,6 @@ Farming_CS = {
     Farming_Tooltip_MaxWater = "Nejvíce vody:",
     Farming_Tooltip_TimeOfGrow = "Průmerná doma růstu:",
     Farming_Tooltip_AverageWater = "Průměrná voda:",
-
     Farming_Tooltip_FurrowNeedsSeed = "Brázda potřebuje semena.",
     Farming_Tooltip_ItemUsed = "Použitý předmět",
     Farming_Tooltip_NotAFurrow = "Není brázda.",
