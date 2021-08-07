@@ -1,7 +1,7 @@
 Rosewood
  <LINE> <LINE>
  Zùstat na chvilku v Rosewoodu je pøíjemné, ale na delší dobu?
- Obyvatelé slavné polepšovny státu Knox by ti jistì 'vysvìtlili', že tu zas taková zábava není!
+ Obyvatelé slavné polepšovny státu Knox by ti jistì "vysvìtlili", že tu zas taková zábava není!
  <LINE> <LINE>
  Ideálnì geograficky situován, snadný pøístup ze všech smìrù, Rosewood je komunitní èástí pro administrativu
  a služby, a stejnì tak vedoucím nápravným zaøízením.
