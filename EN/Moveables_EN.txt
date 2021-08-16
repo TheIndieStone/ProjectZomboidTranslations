@@ -383,6 +383,7 @@ Moveables_EN = {
     Mediocre_Large_Table = "Crafted Large Table",
     Medium_Table = "Crafted Table with Drawer",
     Merry_Go_Round = "Merry Go Round",
+    Metal_Drum = "Metal Drum",
     Metal_Locker = "Metal Locker",
     Metal_Wall_Shelves = "Metal Wall Shelves",
     Middle_Evangelical_Banner = "Middle Evangelical Banner",

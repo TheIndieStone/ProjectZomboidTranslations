@@ -270,4 +270,6 @@ Tooltip_KO = {
     Tooltip_PatchAllHoles = "모든 구멍 깁기 - ",
     Tooltip_GetPatchesBack = "%1 %의 확률로 조각들을 돌려받습니다.",
     Tooltip_Recipe_HockeyMaskSmashBottle = "하키 마스크를 착용해야 합니다.<br>주의하여 사용하십시오.",
+    Tooltip_RemoveCurtains = "%1 하나를 얻습니다.",
+    Tooltip_PickUpCurtains = "또는 왼쪽 상단의 가구 아이콘을 사용하여 커튼을 얻을 수 있습니다.",
 }

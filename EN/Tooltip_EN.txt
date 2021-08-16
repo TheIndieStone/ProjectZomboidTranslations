@@ -265,4 +265,7 @@ Tooltip_EN = {
     Tooltip_food_CookToRemoveUnhappiness = "Cook to remove happiness malus.",
     Tooltip_RemoveCurtains = "Gives one %1.",
     Tooltip_PickUpCurtains = "Alternatively, you can pick up the Curtains using the furniture tool.",
+    Tooltip_media_title = "Title",
+    Tooltip_media_author = "Author",
+    Tooltip_media_item_operate = "Equip as primary or secondary item to operate."
 }

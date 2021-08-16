@@ -220,4 +220,7 @@ Moodles_EN = {
     Moodles_windchill_desc_lvl2 = "It's feeling 10 to 15 degrees colder than it actually is.",
     Moodles_windchill_desc_lvl3 = "It's feeling 15 to 20 degrees colder than it actually is.",
     Moodles_windchill_desc_lvl4 = "It's feeling more than 20 degrees colder than it actually is.",
+    -- CantSprint
+    Moodles_CantSprint = "Can't sprint."
+    Moodles_CantSprint_desc = "Consider removing some heavy clothing."
 }

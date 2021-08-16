@@ -462,4 +462,5 @@ ContextMenu_EN = {
     ContextMenu_Fitness = "Exercise",
     ContextMenu_CleanBandageEtc = "Clean Bandages",
     ContextMenu_Vehicle_AttachTrailer2 = "Attach Trailer",
+    ContextMenu_PlaceItemOnGround = "Place Item on Ground",
 } 

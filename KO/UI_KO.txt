@@ -14,8 +14,8 @@ UI_KO = {
     UI_mainscreen_continue = "이어하기",
     UI_mainscreen_exit = "나가기",
     UI_mainscreen_workshop = "Steam워크샵",
-    UI_mainscreen_version_steam = "Steam 버전：Build - %1  한국어 번역본：Build - 41.53 <2021년 7월 26일자>",
-    UI_mainscreen_version = "버전：Build - %1   한국어 번역본：Build - 41.53 <2021년 7월 26일자>",
+    UI_mainscreen_version_steam = "Steam 버전：Build - %1  한국어 번역본：Build - 41.53 <2021년 7월 27일자>",
+    UI_mainscreen_version = "버전：Build - %1   한국어 번역본：Build - 41.53 <2021년 7월 27일자>",
     --UI_mainscreen_version_steam = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     --UI_mainscreen_version = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     UI_Details = "갱신 정보",
@@ -1312,4 +1312,6 @@ UI_KO = {
     UI_optionscreen_DisplayMode3 = "창 화면",
     UI_optionscreen_LockCursorToWindow = "마우스 커서 게임 창에 고정",
     UI_optionscreen_LockCursorToWindow_tt = "마우스 커서를 게임 창 안에 있도록 합니다. 이 설정을 활성화 시키면 시스템 커서는 숨겨지고 게임 커서가 나옵니다.",
+	UI_optionscreen_ShowCursorWhileAiming = "조준시 마우스 커서 보이기",
+	UI_optionscreen_ShowCursorWhileAiming_tt = "비활성화시 ISO 커서가 보이고 마우스 커서가 숨겨집니다.",
 }

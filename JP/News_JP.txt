@@ -1,8 +1,7 @@
 	
-	-- Official Japanese Translation Data Information
+	-- Japanese Community Translation Data Information
 	-- Update history
-	-- Build-41.50
-	-- Date 05-19-2021
+	-- Build-41.53
+	-- Date 08-05-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
-
