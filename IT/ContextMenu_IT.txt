@@ -264,6 +264,7 @@ ContextMenu_IT = {
     ContextMenu_PatchHole = "Rattoppa buco",
     ContextMenu_PickupBrokenGlass = "Raccogli vetri rotti",
     ContextMenu_Pink = "Rosa",
+    ContextMenu_PlaceItemOnGround = "Posiziona oggetto a terra",
     ContextMenu_Place_Fishing_Net = "Posiziona rete da pesca",
     ContextMenu_Place_Trap = "Posiziona trappola",
     ContextMenu_PlantainCataplasm = "Cataplasma di Piantaggine",

@@ -1,4 +1,6 @@
 Moodles_IT = {
+    Moodles_CantSprint = "Non posso fare uno scatto.",
+    Moodles_CantSprint_desc = "Prendi in considerazione la possibilità di rimuovere alcuni indumenti pesanti.",
     Moodles_angry_desc_lvl1 = "Sei un po' scocciato.",
     Moodles_angry_desc_lvl2 = "Sei proprio di cattivo umore.",
     Moodles_angry_desc_lvl3 = "Incazzato nero.",

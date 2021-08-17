@@ -385,6 +385,7 @@ Moveables_IT = {
     Medium_Table = "Tavolo artigianale con cassetto",
     Merry_Go_Round = "Buon giro",
     Metal_Crate = "Cassa di metallo",
+    Metal_Drum = "Tamburo di metallo",
     Metal_Locker = "Armadietto in metallo",
     Metal_Wall_Shelves = "Mensole in metallo",
     Middle_Evangelical_Banner = "Stendardo evangelico medio",
