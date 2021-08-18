@@ -137,7 +137,7 @@ GameSound_CN = {
     GameSound_NewMusic_Surrounded = "官方： 包围",
     GameSound_NewMusic_TakeStock = "官方： 盘点",
     GameSound_NewMusic_TheHorde = "官方： 部落",
-    GameSound_NewMusic_TheInevitable = "官方： 必然",
+    GameSound_NewMusic_Death = "官方：死亡",
 	GameSound_NewMusic_TheInevitable = "官方： 不可避免的事情",
 	GameSound_NewMusic_ThePlan = "官方： 计划",
     GameSound_NewMusic_TheZombieThreat = "官方： 僵尸威胁",
@@ -320,9 +320,9 @@ GameSound_CN = {
     GameSound_VehicleHorn1 = "车辆喇叭 1",
     GameSound_VehicleHorn2 = "车辆喇叭 2",
     GameSound_VehicleRunningOutOfGas = "车辆燃料用尽",
-    GameSound_VehicleSirenAlarm = "车辆警报",
-    GameSound_VehicleSirenYelp = "车辆警笛",
-    GameSound_VehicleSirenWall = "车辆警笛 ",
+    GameSound_VehicleSirenAlarm = "车辆警笛警报",
+    GameSound_VehicleSirenYelp = "车辆警笛尖叫",
+    GameSound_VehicleSirenWall = "车辆警笛哀鸣",
     GameSound_VehicleSkid = "车辆打滑",
     GameSound_EngineStarted = "引擎启动",
     GameSound_VehicleTireExplode = "汽车炸胎",
@@ -388,6 +388,12 @@ GameSound_CN = {
     GameSound_ZombieFootstepsCombined = "僵尸群脚步",
     GameSound_ZombieSurprisedPlayer = "僵尸惊吓到玩家",
     GameSound_TutorialZombie = "僵尸教程",
-
+	
+	--Add Text--
+	
+	GameSound_CheckFishingNet = "检查渔网",
+	GameSound_VehicleDoorIsLocked = "车门被锁",
+	
+	
 }
 
