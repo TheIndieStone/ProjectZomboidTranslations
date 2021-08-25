@@ -461,5 +461,6 @@ ContextMenu_CS = {
     ContextMenu_RightWrist = "Nasadit na Pravé Zápěstí",
     ContextMenu_Fitness = "Cvičení",
     ContextMenu_CleanBandageEtc = "Vyčistit Obvazy",
-    ContextMenu_Vehicle_AttachTrailer2 = "Připevnit Přívěs",
+    ContextMenu_Vehicle_AttachTrailer2 = "Připojit Přívěs",
+    ContextMenu_PlaceItemOnGround = "Položit Předmět na Zem",
 }
