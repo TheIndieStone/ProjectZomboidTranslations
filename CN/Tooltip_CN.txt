@@ -261,8 +261,11 @@ Tooltip_CN = {
     Tooltip_BedType_goodBed = "好",
     Tooltip_TooMuchPainFitness = "健身太痛苦了.",
     Tooltip_RemoveBrokenGlassNoItem = "右手必须拿东西才能清理.",
-	Tooltip_Recipe_HockeyMaskSmashBottle = "需要佩戴冰球面具。<br>谨慎使用。" ,
+	Tooltip_Recipe_HockeyMaskSmashBottle = "需要佩戴冰球面具.<br>谨慎使用" ,
 	Tooltip_food_CookToRemoveUnhappiness = "烹饪即可消除该状态.",
 	Tooltip_RemoveCurtains = "给予一个 %1 .",
 	Tooltip_PickUpCurtains = "或者，你可以用工具取下窗帘.",
+	Tooltip_media_title = "标题",
+    Tooltip_media_author = "作者",
+    Tooltip_media_item_operate = "装备为主要或次要物品进行操作"
 }
