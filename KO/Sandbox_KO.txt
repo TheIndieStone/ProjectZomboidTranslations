@@ -7,7 +7,7 @@ Sandbox_KO = {
 
 	Sandbox_PopulationOptions = "좀비 인구수 설정",
 
-	Sandbox_ZombieCount = "좀비 수치 :",
+	Sandbox_ZombieCount = "좀비 수치",
 	Sandbox_ZombieCount_tooltip = "좀비의 개체수를 세세하게 조정하고 싶은 경우는 "고급 좀비 설정"에서 조정해 주세요",
 	Sandbox_ZombieCount_option1 = "미친듯이 높음",
 	Sandbox_ZombieCount_option2 = "많이 높음",
@@ -16,7 +16,7 @@ Sandbox_KO = {
 	Sandbox_ZombieCount_option5 = "낮음",
 	Sandbox_ZombieCount_option6 = "없음",
 
-	Sandbox_ZombieDistribution = "좀비 분포 :",
+	Sandbox_ZombieDistribution = "좀비 분포",
 	Sandbox_ZombieDistribution_option1 = "도심지 중점",
 	Sandbox_ZombieDistribution_option2 = "골고루 분포",
 
@@ -52,9 +52,9 @@ Sandbox_KO = {
 	Sandbox_DayLength_option25 = "23 시간",
 	Sandbox_DayLength_option26 = "실시간",
 
-	Sandbox_StartYear = "시작 연도 :",
+	Sandbox_StartYear = "시작 연도",
 
-	Sandbox_StartMonth = "시작 월 :",
+	Sandbox_StartMonth = "시작 월",
 	Sandbox_StartMonth_option1 = "1월",
 	Sandbox_StartMonth_option2 = "2월",
 	Sandbox_StartMonth_option3 = "3월",
@@ -68,9 +68,9 @@ Sandbox_KO = {
 	Sandbox_StartMonth_option11 = "11월",
 	Sandbox_StartMonth_option12 = "12월",
 
-	Sandbox_StartDay = "시작 일 :",
+	Sandbox_StartDay = "시작 일",
 
-	Sandbox_StartTime = "시작 시각 :",
+	Sandbox_StartTime = "시작 시각",
 	Sandbox_StartTime_option1 = "오전 7시",
 	Sandbox_StartTime_option2 = "오전 9 시",
 	Sandbox_StartTime_option3 = "오전 12 시",
@@ -85,8 +85,8 @@ Sandbox_KO = {
 
 	Sandbox_WorldOptions = "세계 설정",
 
-	Sandbox_WaterShut = "물 끊김 :",
-	Sandbox_ElecShut = "전기 끊김 :",
+	Sandbox_WaterShut = "물 끊김",
+	Sandbox_ElecShut = "전기 끊김",
 	Sandbox_Shutoff_option1 = "즉시",
 	Sandbox_Shutoff_option2 = "0 - 30 일 사이",
 	Sandbox_Shutoff_option3 = "0 - 2 개월 사이",
@@ -104,7 +104,7 @@ Sandbox_KO = {
 	Sandbox_HouseAlarmFrequency_option5 = "많음",
 	Sandbox_HouseAlarmFrequency_option6 = "매우 많음",
 
-	Sandbox_LockedHouseFrequency = "건물 문 잠겨있을 확률 :",
+	Sandbox_LockedHouseFrequency = "건물 문 잠겨있을 확률",
 	Sandbox_LockedHouseFrequency_tooltip = "문과 창문이 잠겨 있을 가능성을 설정합니다.",
 	Sandbox_LockedHouseFrequency_option1 = "없음",
 	Sandbox_LockedHouseFrequency_option2 = "매우 적음",
@@ -113,7 +113,7 @@ Sandbox_KO = {
 	Sandbox_LockedHouseFrequency_option5 = "많음",
 	Sandbox_LockedHouseFrequency_option6 = "매우 많음",
 
-	Sandbox_FoodSpoil = "음식부패 속도 :",
+	Sandbox_FoodSpoil = "음식 부패 속도",
 	Sandbox_FoodSpoil_tooltip = "음식 전체의 신선한 상태를 유지하는 시간의 최대치를 설정합니다.",
 	Sandbox_FoodSpoil_option1 = "매우 빠름",
 	Sandbox_FoodSpoil_option2 = "빠름",
@@ -121,7 +121,7 @@ Sandbox_KO = {
 	Sandbox_FoodSpoil_option4 = "느림",
 	Sandbox_FoodSpoil_option5 = "매우 느림",
 
-	Sandbox_FridgeEffect = "냉장고 효율 :",
+	Sandbox_FridgeEffect = "냉장고 효율",
 	Sandbox_FridgeEffect_tooltip = "냉장고의 효율을 설정하여 음식이 신선한 상태를 유지하는 시간 증가량을 조절합니다.",
 	Sandbox_FridgeEffect_option1 = "매우 낮음",
 	Sandbox_FridgeEffect_option2 = "낮음",
@@ -129,10 +129,10 @@ Sandbox_KO = {
 	Sandbox_FridgeEffect_option4 = "높음",
 	Sandbox_FridgeEffect_option5 = "매우 높음",
 
-	Sandbox_DaysForRottenFoodRemoval = "부패한 식량 없어지는 주기 :",
+	Sandbox_DaysForRottenFoodRemoval = "부패한 식량 없어지는 주기",
 	Sandbox_DaysForRottenFoodRemoval_tooltip = "부패한 식량이 지도에서 삭제될 때까지의 게임 내 일수  \n-1로 설정하면 부패한 식량은 없어지지 않습니다.",
 
-	Sandbox_LootRespawn = "아이템 재생성 주기 :",
+	Sandbox_LootRespawn = "아이템 재생성 주기",
 	Sandbox_LootRespawn_tooltip = "아이템이 보관함에 재생성 되는데 걸리는 시간을 설정합니다.",
 	Sandbox_Respawn_option1 = "없음",
 	Sandbox_Respawn_option2 = "매 일",
@@ -174,20 +174,20 @@ Sandbox_KO = {
 
 	Sandbox_NatureOptions = "자연 설정",
 
-	Sandbox_WorldTemperature = "온도 :",
+	Sandbox_WorldTemperature = "온도",
 	Sandbox_WorldTemperature_option1 = "매우 추움",
 	Sandbox_WorldTemperature_option2 = "추움",
 	Sandbox_WorldTemperature_option3 = "적당함",
 	Sandbox_WorldTemperature_option4 = "더움",
 	Sandbox_WorldTemperature_option5 = "매우 더움",
 
-	Sandbox_RainAmount = "강우량 :",
+	Sandbox_RainAmount = "강우량",
 	Sandbox_RainAmount_option1 = "매우 건조함",
 	Sandbox_RainAmount_option2 = "건조함",
 	Sandbox_RainAmount_option3 = "보통",
 	Sandbox_RainAmount_option4 = "비가 많이 옴",
 	Sandbox_RainAmount_option5 = "매우 비가 많이 옴",
-	Sandbox_StartErosion = "게임 시작 시 건물 부식 정도 :",
+	Sandbox_StartErosion = "게임 시작 시 건물 부식 정도",
 	Sandbox_StartErosion_tooltip = "'없음'을 선택할 경우엔 부식이 진행되지 않습니다.",
 	Sandbox_StartErosion_option1 = "없음",
 	Sandbox_StartErosion_option2 = "0 %",
@@ -212,7 +212,7 @@ Sandbox_KO = {
 	Sandbox_StartErosion_option21 = "95 %",
 	Sandbox_StartErosion_option22 = "100 %",
 
-	Sandbox_ErosionSpeed = "건물 부식 속도 :",
+	Sandbox_ErosionSpeed = "건물 부식 속도",
 	Sandbox_ErosionSpeed_tooltip = "건물이 모두 부식(100%)되는 데에 소요되는 속도(소요 일) 입니다.",
 	Sandbox_ErosionSpeed_option1 = "매우 빠름 (20일)",
 	Sandbox_ErosionSpeed_option2 = "빠름 (50일)",
@@ -223,14 +223,14 @@ Sandbox_KO = {
 	Sandbox_ErosionDays = "침식 일수",
 	Sandbox_ErosionDays_tooltip = "100%침식하기까지의 일수를 세세하게 설정할 수 있습니다. \n설정을-1로 하면 침식이 무효가 됩니다. \n설정을 0으로 하는 경우에는(침식의 속도)설정에 의존합니다. \n1=(하루)365=(1년)최대 수치 36500=(100년)",
 
-	Sandbox_FarmingSpeed = "농작물 성장 속도 :",
+	Sandbox_FarmingSpeed = "농작물 성장 속도",
 	Sandbox_FarmingSpeed_option1 = "매우 빠름",
 	Sandbox_FarmingSpeed_option2 = "빠름",
 	Sandbox_FarmingSpeed_option3 = "보통",
 	Sandbox_FarmingSpeed_option4 = "느림",
 	Sandbox_FarmingSpeed_option5 = "매우 느림",
 
-	Sandbox_PlantResilience = "농작물 회복력 :",
+	Sandbox_PlantResilience = "농작물 회복력",
 	Sandbox_PlantResilience_tooltip = "이 설정은 농작물이 물을 하루에 얼마나 소비하는지와 질병을 방지할 수 있는 능력에 영향을 미칩니다..",
 	Sandbox_PlantResilience_option1 = "매우 높음",
 	Sandbox_PlantResilience_option2 = "높음",
@@ -238,10 +238,10 @@ Sandbox_KO = {
 	Sandbox_PlantResilience_option4 = "낮음",
 	Sandbox_PlantResilience_option5 = "매우 낮음",
 
-	Sandbox_PlantAbundance = "농작물 수확량 :",
+	Sandbox_PlantAbundance = "농작물 수확량",
 	Sandbox_PlantAbundance_tooltip = "이 설정은 수확물의 양과 식물의 성장에 영향을 미칩니다.",
 
-	Sandbox_NatureAmount = "자연속 자원량 :",
+	Sandbox_NatureAmount = "자연속 자원량",
 	Sandbox_NatureAmount_tooltip = "낚시, 채집의 성공율 및 성과에 영향을 줍니다.",
 	Sandbox_NatureAmount_option1 = "매우 부족함",
 	Sandbox_NatureAmount_option2 = "부족함",
@@ -249,7 +249,7 @@ Sandbox_KO = {
 	Sandbox_NatureAmount_option4 = "많음",
 	Sandbox_NatureAmount_option5 = "매우 많음",
 
-	Sandbox_CompostTime = "퇴비 변화 시간:",
+	Sandbox_CompostTime = "퇴비 변화 시간",
 	Sandbox_CompostTime_option1 = "1 주일",
 	Sandbox_CompostTime_option2 = "2 주일",
 	Sandbox_CompostTime_option3 = "3 주일",
@@ -259,44 +259,44 @@ Sandbox_KO = {
 	Sandbox_CompostTime_option7 = "10 주일",
 	Sandbox_CompostTime_option8 = "12 주일",
 
-	Sandbox_MaxFogIntensity = "안개 짙음 강도:",
+	Sandbox_MaxFogIntensity = "안개 짙음 강도",
 	Sandbox_MaxFogIntensity_option1 = "보통",
 	Sandbox_MaxFogIntensity_option2 = "적당히",
 	Sandbox_MaxFogIntensity_option3 = "적음",
 
-	Sandbox_MaxRainFxIntensity = "최대 강우량:",
+	Sandbox_MaxRainFxIntensity = "최대 강우량",
 	Sandbox_MaxRainFxIntensity_option1 = "보통",
 	Sandbox_MaxRainFxIntensity_option2 = "적당히",
 	Sandbox_MaxRainFxIntensity_option3 = "적음",
 
-	Sandbox_EnableSnowOnGround = "지면에 눈 쌓임 적용:",
+	Sandbox_EnableSnowOnGround = "지면에 눈 쌓임 적용",
 	Sandbox_EnableSnowOnGround_tooltip = "적용 하면, 눈이 땅에 쌓입니다.또, 식생이나 지붕에도 쌓입니다.",
 
 	--
 
 	Sandbox_SadisticAIDirector = "고통받는 AI 연기",
 
-	Sandbox_Helicopter = "AI 헬리콥터 출몰빈도:",
+	Sandbox_Helicopter = "AI 헬리콥터 출몰빈도",
 	Sandbox_Helicopter_tooltip = "헬리콥터 지나가는 이벤트 빈도를 설정합니다.",
 	Sandbox_HelicopterFreq_option1 = "없음",
 	Sandbox_HelicopterFreq_option2 = "1번만 발생",
 	Sandbox_HelicopterFreq_option3 = "가끔 발생",
 	Sandbox_HelicopterFreq_option4 = "자주 발생",
 
-	Sandbox_MetaEvent = "AI 이벤트 발생 빈도:",
+	Sandbox_MetaEvent = "AI 이벤트 발생 빈도",
 	Sandbox_MetaEvent_tooltip = "헬기 소리, 총 소리, 멀리서 들리는 소리 등 AI 이벤트 발생 빈도 설정",
 	Sandbox_MetaEventFreq_option1 = "없음",
 	Sandbox_MetaEventFreq_option2 = "가끔 발생",
 	Sandbox_MetaEventFreq_option3 = "자주 발생",
 
-	Sandbox_SleepingEvent = "취침중 AI 이벤트 발생 빈도:",
+	Sandbox_SleepingEvent = "취침중 AI 이벤트 발생 빈도",
 	Sandbox_SleepingEvent_tooltip = "밤에 플레이어가 취침중 발생하는 AI 이벤트 빈도를 설정합니다.",
 
 	--
 
 	Sandbox_Meta = "게임 내 환경 설정",
 
-	Sandbox_GeneratorSpawning = "발전기 생성빈도:",
+	Sandbox_GeneratorSpawning = "발전기 생성빈도",
 	Sandbox_GeneratorSpawning_tooltip = "지도에 발전기가 생성될 가능성 증가/감소",
 	Sandbox_GeneratorSpawning_option1 = "매우 적음",
 	Sandbox_GeneratorSpawning_option2 = "적음",
@@ -304,7 +304,7 @@ Sandbox_KO = {
 	Sandbox_GeneratorSpawning_option4 = "많음",
 	Sandbox_GeneratorSpawning_option5 = "매우 많음",
 
-	Sandbox_GeneratorFuelConsumption = "발전기 연료 소비량:",
+	Sandbox_GeneratorFuelConsumption = "발전기 연료 소비량",
 	Sandbox_GeneratorFuelConsumption_tooltip = "발전기 연료 소비량을 설정 합니다. 0.0에서는 연료를 소비 하지 않습니다.",
 
 	Sandbox_SurvivorHouseChance = "무작위 생존자 집 발견기회",
@@ -346,29 +346,29 @@ Sandbox_KO = {
 
 	Sandbox_LootRarity = "전리품 희귀도 설정",
 	Sandbox_LootRarity = "전리품 희귀도",
-	Sandbox_LootSurvivalGears = "생존에 필요한 장비:",
+	Sandbox_LootSurvivalGears = "생존에 필요한 장비",
 	Sandbox_LootSurvivalGears_tooltip = "씨앗, 톱, 못, 여러가지 도구, 도구 수리, 낚싯대..."
-	Sandbox_LootMedical = "의료품:",
-	Sandbox_LootLiterature = "서적:",
-	Sandbox_LootCannedFood = "통조림:",
-	Sandbox_LootRangedWeapon = "총기류:",
-	Sandbox_LootAmmo = "탄약:",
-	Sandbox_LootMechanics = "기계도구:",
-	Sandbox_LootOther = "기타:",
-	Sandbox_LootFood = "신선한 음식:",
+	Sandbox_LootMedical = "의료품",
+	Sandbox_LootLiterature = "서적",
+	Sandbox_LootCannedFood = "통조림",
+	Sandbox_LootRangedWeapon = "총기류",
+	Sandbox_LootAmmo = "탄약",
+	Sandbox_LootMechanics = "기계도구",
+	Sandbox_LootOther = "기타",
+	Sandbox_LootFood = "신선한 음식",
 	Sandbox_Rarity_option1 = "매우 적음",
 	Sandbox_Rarity_option2 = "적음",
 	Sandbox_Rarity_option3 = "보통",
 	Sandbox_Rarity_option4 = "많음",
 	Sandbox_Rarity_option5 = "매우 많음",
-	Sandbox_LootWeapon = "근접무기류:",
-	Sandbox_LootOther = "기타 물품:",
+	Sandbox_LootWeapon = "근접무기류",
+	Sandbox_LootOther = "기타 물품",
 
 	--
 
 	Sandbox_Character = "캐릭터 설정",
 
-	Sandbox_XpMultiplier = "XP 상승량 (경험치 상승량):",
+	Sandbox_XpMultiplier = "XP 상승량 (경험치 상승량)",
 
 	Sandbox_StatDecrease = "상태 감소율",
 	Sandbox_StatDecrease_tooltip = "캐릭터가 얼마나 빨리 배고픔, 갈증, 피로가 생기는지",
@@ -436,32 +436,32 @@ Sandbox_KO = {
 
 	Sandbox_EnableVehicles = "차량 생성",
 
-	Sandbox_VehicleEasyUse = "쉬운 차량 사용:",
+	Sandbox_VehicleEasyUse = "쉬운 차량 사용",
 	Sandbox_VehicleEasyUse_tooltip = "설정하면 모든 차량의 열쇠가 열리고 연료는 가득 차서 엔진 소리가 낮아집니다.",
 
-	Sandbox_RecentlySurvivorVehicles = "생존자의 차량:",
+	Sandbox_RecentlySurvivorVehicles = "생존자의 차량",
 	Sandbox_RecentlySurvivorVehicles_tooltip = "최초 감염사건 이후 유지관리가 된 차량을 플레이어가 발견할 가능성",
 	Sandbox_RecentlySurvivorVehicles_option1 = "적음",
 	Sandbox_RecentlySurvivorVehicles_option2 = "보통",
 	Sandbox_RecentlySurvivorVehicles_option3 = "많음",
 
-	Sandbox_CarSpawnRate = "차량 생성 비율:",
+	Sandbox_CarSpawnRate = "차량 생성 비율",
 	Sandbox_CarSpawnRate_option1 = "없음",
 	Sandbox_CarSpawnRate_option2 = "적음",
 	Sandbox_CarSpawnRate_option3 = "보통",
 	Sandbox_CarSpawnRate_option4 = "조금 많음",
 	Sandbox_CarSpawnRate_option5 = "매우 많음",
 
-	Sandbox_ZombieAttractionMultiplier = "차량의 엔진 소리:",
+	Sandbox_ZombieAttractionMultiplier = "차량의 엔진 소리",
 	Sandbox_ZombieAttractionMultiplier_tooltip = "이를 사용하여 엔진의 일반적인 소음 발생을 증가시키거나 감소시키십시오",
 
-	Sandbox_ChanceHasGas = "차량 연료 있을 확률:",
+	Sandbox_ChanceHasGas = "차량 연료 있을 확률",
 	Sandbox_ChanceHasGas_tooltip = "연료가 들어있는 차량의 발견 확률",
 	Sandbox_ChanceHasGas_option1 = "낮음",
 	Sandbox_ChanceHasGas_option2 = "보통",
 	Sandbox_ChanceHasGas_option3 = "높음",
 
-	Sandbox_InitialGas = "차량의 연료량 비율:",
+	Sandbox_InitialGas = "차량의 연료량 비율",
 	Sandbox_InitialGas_tooltip = "발견된 차량의 연료가 얼마나 들어있을지 설정합니다.",
 	Sandbox_InitialGas_option1 = "매우 적음",
 	Sandbox_InitialGas_option2 = "적음",
@@ -470,9 +470,9 @@ Sandbox_KO = {
 	Sandbox_InitialGas_option5 = "매우 많음",
 	Sandbox_InitialGas_option6 = "가득참",
 
-	Sandbox_CarGasConsumption = "차량 연료 소비량:",
+	Sandbox_CarGasConsumption = "차량 연료 소비량",
 
-	Sandbox_LockedCar = "차량이 잠겨있을 확률:",
+	Sandbox_LockedCar = "차량이 잠겨있을 확률",
 	Sandbox_LockedCar_option1 = "없음",
 	Sandbox_LockedCar_option2 = "매우 적음",
 	Sandbox_LockedCar_option3 = "적음",
@@ -480,7 +480,7 @@ Sandbox_KO = {
 	Sandbox_LockedCar_option5 = "조금 많음",
 	Sandbox_LockedCar_option6 = "매우 많음",
 
-	Sandbox_CarGeneralCondition = "차량의 상태:",
+	Sandbox_CarGeneralCondition = "차량의 상태",
 	Sandbox_CarGeneralCondition_tooltip = "새 차가 나타날 확률",
 	Sandbox_CarGeneralCondition_option1 = "매우 나쁨",
 	Sandbox_CarGeneralCondition_option2 = "나쁨",
@@ -491,7 +491,7 @@ Sandbox_KO = {
 	Sandbox_TrafficJam = "교통체증의 재현",
 	Sandbox_TrafficJam_tooltip = "지도의 주요 도로에서 발생하는 교통체증을 만듭니다.",
 
-	Sandbox_CarAlarmFrequency = "차량 도난방지 경보 울릴 확률:",
+	Sandbox_CarAlarmFrequency = "차량 도난방지 경보 울릴 확률",
 	Sandbox_CarAlarmFrequency_option1 = "없음",
 	Sandbox_CarAlarmFrequency_option2 = "매우 적음",
 	Sandbox_CarAlarmFrequency_option3 = "적음",
@@ -499,13 +499,13 @@ Sandbox_KO = {
 	Sandbox_CarAlarmFrequency_option5 = "조금 많음",
 	Sandbox_CarAlarmFrequency_option6 = "매우 많음",
 
-	Sandbox_PlayerDamageFromCrash = "차량 사고로 플레이어가 입는 부상:",
+	Sandbox_PlayerDamageFromCrash = "차량 사고로 플레이어가 입는 부상",
 	Sandbox_PlayerDamageFromCrash_tooltip = "차량사고로 플레이어 받는 부상을 키거나 끕니다.",
 
-	Sandbox_SirenShutoffHours = "사이렌 재생 시간:",
+	Sandbox_SirenShutoffHours = "사이렌 재생 시간",
 	Sandbox_SirenShutoffHours_tooltip = "사이렌 소리가 더 이상 재생되지 않을 때까지의 시간. \n0.0은 배터리가 다 될 때까지 재생하는 것을 의미합니다.",
 
-	Sandbox_CarDamageOnImpact = "차량이 입는 손상:",
+	Sandbox_CarDamageOnImpact = "차량이 입는 손상",
 	Sandbox_CarDamageOnImpact_tooltip = "차량이 손상될 때 받는 차체에 대한 충격량을 설정합니다.",
 	Sandbox_CarDamageOnImpact_option1 = "매우 낮음",
 	Sandbox_CarDamageOnImpact_option2 = "낮음",
@@ -513,7 +513,7 @@ Sandbox_KO = {
 	Sandbox_CarDamageOnImpact_option4 = "높음",
 	Sandbox_CarDamageOnImpact_option5 = "매우 높음",
 
-	Sandbox_DamageToPlayerFromHitByACar = "차량이 플레이어에게 주는 부상:",
+	Sandbox_DamageToPlayerFromHitByACar = "차량이 플레이어에게 주는 부상",
 	Sandbox_DamageToPlayerFromHitByACar_tooltip = "차량이 플레이어에 충돌했을 때 주는 충격량을 설정합니다.",
 	Sandbox_DamageToPlayerFromHitByACar_option1 = "없음",
 	Sandbox_DamageToPlayerFromHitByACar_option2 = "낮음",
@@ -529,19 +529,19 @@ Sandbox_KO = {
 
 	--
 
-	Sandbox_ZSpeed = "이동 속도:",
+	Sandbox_ZSpeed = "이동 속도",
 	Sandbox_ZSpeed_option1 = "달림",
 	Sandbox_ZSpeed_option2 = "빠른 걸음",
 	Sandbox_ZSpeed_option3 = "느린 걸음",
 	Sandbox_ZSpeed_option4 = "무작위",
 
-	Sandbox_ZStrength = "힘:",
+	Sandbox_ZStrength = "힘",
 	Sandbox_ZStrength_option1 = "초인적",
 	Sandbox_ZStrength_option2 = "보통",
 	Sandbox_ZStrength_option3 = "약함",
 	Sandbox_ZStrength_option4 = "무작위",
 
-	Sandbox_ZToughness = "체력:",
+	Sandbox_ZToughness = "체력",
 	Sandbox_ZToughness_option1 = "강함",
 	Sandbox_ZToughness_option2 = "보통",
 	Sandbox_ZToughness_option3 = "약함",
@@ -549,14 +549,14 @@ Sandbox_KO = {
 
 
 
-	Sandbox_ZTransmission = "감염 경로:",
+	Sandbox_ZTransmission = "감염 경로",
 	Sandbox_ZTransmission_option1 = "혈액 + 타액",
 	Sandbox_ZTransmission_option2 = "타액으로 감염",
 	Sandbox_ZTransmission_option3 = "모두 감염됨(접촉에 의한 감염)",
 	Sandbox_ZTransmission_option4 = "감염되지 않음",
 
 
-	Sandbox_ZInfectionMortality = "감염시 발병 시간",
+	Sandbox_ZInfectionMortality = "감염 시 발병 시간",
 	Sandbox_ZInfectionMortality_option1 = "즉시",
 	Sandbox_ZInfectionMortality_option2 = "0-30 초",
 	Sandbox_ZInfectionMortality_option3 = "0-1 분",
@@ -606,7 +606,7 @@ Sandbox_KO = {
 	Sandbox_ZSmell_option2 = "보통",
 	Sandbox_ZSmell_option3 = "잘 못 맡음",
 
-	Sandbox_ThumpNoChasing = "주변 공격:",
+	Sandbox_ThumpNoChasing = "주변 공격",
 	Sandbox_ThumpNoChasing_option1 = "있음",
 	Sandbox_ThumpNoChasing_option2 = "없음",
 	Sandbox_ThumpNoChasing_tooltip = "좀비가 배회할 때, 플레이어의 모습이나 소리가 없어도 건축물이나 문 등 파괴할지 설정합니다.",
@@ -614,7 +614,7 @@ Sandbox_KO = {
 	Sandbox_ThumpOnConstruction = "바리케이드 파괴",
 	Sandbox_ThumpOnConstruction_tooltip = "플레이어가 제작한 건축물이나 바리케이드를 좀비가 파괴할지 설정합니다.",
 
-	Sandbox_ActiveOnly = "주간 / 야간 활동:",
+	Sandbox_ActiveOnly = "주간 / 야간 활동",
 	Sandbox_ActiveOnly_tooltip = "좀비가 낮에 활발하게 행동하는지, 아니면 야간에 활발하게 행동하는지 여부를 제어합니다. \n 미적용한 상황에서는 좀비는 비활동상태가 되어 플레이어를 쫓지 않는 경향이 있습니다.",
 	Sandbox_ActiveOnly_option1 = "둘다",
 	Sandbox_ActiveOnly_option2 = "야간",
@@ -623,7 +623,7 @@ Sandbox_KO = {
 	Sandbox_TriggerHouseAlarm = "주택 도난 경보음 설정",
 	Sandbox_TriggerHouseAlarm_tooltip = "좀비가 창문이나 문을 돌파했을 때 주택방범 알람이 동작하는지 설정합니다.",
 
-	Sandbox_ZombiesDragDown = "끌고가기:",
+	Sandbox_ZombiesDragDown = "끌고 가기",
 	Sandbox_ZombiesDragDown_tooltip = "복수 좀비로부터 공격을 받았을 경우, 좀비에게 의해 끌려 포식될 가능성이 있습니다.",
 
 	--
@@ -691,13 +691,13 @@ Sandbox_KO = {
 	Sandbox_ZombieRespawnPercent_option10 = "100 %",
 
 	Sandbox_PresetName_Error = "이하의 문자는 사용할 수 없습니다: /  \\  :  ;  \  .",
-	Sandbox_VehicleStoryChance = "무작위 차량 이야기 출현 가능성:",
+	Sandbox_VehicleStoryChance = "무작위 차량 이야기 출현 가능성",
     Sandbox_DeletePresetPrompt = " '%1' 삭제하시겠습니까?",
     Sandbox_ZombiesFenceLunge = "울타리 돌진하기",
     Sandbox_ZombiesFenceLunge_tooltip = "활성화 되면 플레이어가 울타리 가까이에 있을 시 울타리를 넘어서 플레이어에게 기어갑니다.",
     Sandbox_ZoneStoryChance = "무작위 이야기 구역 출현 가능성",
 
-    Sandbox_ZCrawlUnderVehicle = "차량 아래로 기어갈 가능성:",
+    Sandbox_ZCrawlUnderVehicle = "차량 아래로 기어갈 가능성",
     Sandbox_ZCrawlUnderVehicle_option1 = "없음",
     Sandbox_ZCrawlUnderVehicle_option2 = "매우 적음",
     Sandbox_ZCrawlUnderVehicle_option3 = "적음",

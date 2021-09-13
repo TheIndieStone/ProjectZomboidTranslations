@@ -21,7 +21,7 @@ Farming_KO = {
    -- 농사 정보창 (타이틀)
 	Farming_Plant_Information = "농작물 정보",
 	Farming_Current_growing_phase = "현재 성장 단계",
-	Farming_Next_growing_phase = "다음 성장 까지 필요 시간",
+	Farming_Next_growing_phase = "다음 성장까지 필요 시간",
 	Farming_Last_time_watered = "마지막 물 준 시간",
 	Farming_Fertilized = "비료 공급 횟수",
 	Farming_Health = "농작물의 건강",

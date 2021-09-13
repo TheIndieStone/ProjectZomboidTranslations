@@ -328,4 +328,8 @@ Recipes_AR = {
     Recipe_Rip_Sheets = "Cortar en pedazos",
     Recipe_Empty_Griddle_Pan = "Vaciar sartén",
     Recipe_Saw_Logs2 = "Serruchar troncos",
+    Recipe_Extinguish_Candle = "Apagar la vela",
+    Recipe_Make_Newspaper_Hat = "Hacer un gorro de periodico",
+    Recipe_Make_Tin_Foil_Hat = "Hacer gorro de papel aluminio",
+    Recipe_Saw_Off_Double_Barrel_Shotgun = "Serruchar escopeta de dos barriles ",
 }

@@ -139,6 +139,7 @@ UI_EN = {
     UI_optionscreen_puddles = "Puddles Quality",
     UI_optionscreen_perf_puddles = "Dynamic Puddles",
     UI_optionscreen_perf_reflections = "Environment Reflections",
+    UI_optionscreen_perf_3Ditems = "Display 3D Items",
     UI_optionscreen_aim_outline = "Aim Outline",
     UI_optionscreen_aim_outline1 = "None",
     UI_optionscreen_aim_outline2 = "Ranged Weapons",
@@ -1322,4 +1323,6 @@ UI_EN = {
     UI_optionscreen_render_precipOutdoors = "Outdoors only",
     UI_optionscreen_render_precipNever = "Never",
     UI_OnConnectFailed_DebugNotAllowed = "Debug connection is not allowed for non admin.",
+    UI_foraging_WildFood = "Wild",
+    UI_foraging_Warning = "Foraging has changed! It is now based on searching for items. Look around, use the End key to toggle searching on/off.",
 }

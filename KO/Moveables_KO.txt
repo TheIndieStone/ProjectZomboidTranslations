@@ -27,7 +27,7 @@ Moveables_KO = {
 	Barrel = "드럼통",
 	Barrier_Post = "차단봉",
 	Bathroom_Rug = "욕실 깔개",
-	Battered_Cartboard_Box = "낡은 두꺼운종이 상자",
+	Battered_Cartboard_Box = "낡은 두꺼운 종이 상자",
 	Battered_Gravestone = "낡은 묘비",
 	Battered_Notices = "낡은 안내문",
 	Beach_Chair = "해변 의자",
@@ -116,7 +116,7 @@ Moveables_KO = {
 	Chestnut_West_Floor = "밤나무 서쪽 바닥",
 	Childs_Drawing = "아이의 그림",
 	Childrens_Drawing = "아이들의 그림",
-	China_Cabinet = "중국의 캐비닛",
+	China_Cabinet = "중국풍 캐비닛",
 	Chrome_Microwave = "크롬 전자레인지",
 	Chrome_Sink = "크롬 싱크대",
 	Chrome_Window = "크롬 창문",
@@ -700,5 +700,6 @@ Moveables_KO = {
 	Stone_Pile = "돌무덤",
 	Wooden_Picket = "나무 피켓",
 	Wooden_Stairs = "나무 계단",
+    Metal_Drum = "금속 드럼통",
 
 }
