@@ -330,4 +330,7 @@ Recipes_ES = {
 	Recipe_Extinguish_Candle = "Apagar vela",
 	Recipe_Saw_Off_Double_Barrel_Shotgun = "Recortar cañones"
 	Recipe_Empty_Whiskey_Bottle = "Vacíar botella de Bourbon",
+	Recipe_HotDrinkRed = "Bebida caliente",
+	Recipe_HotDrinkSpiffo = "Bebida caliente",
+	Recipe_HotDrinkWhite = "Bebida caliente",
 }
