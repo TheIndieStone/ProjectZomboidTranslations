@@ -1378,4 +1378,12 @@ IGUI_KO = {
     IGUI_RadioMedia = "정보 매체",
     IGUI_media_nocd = "- 디스크 없음 -",
     IGUI_media_stop = "정지",
+    IGUI_Place3DItem_Surface = "%1 을(를) 눌러 지면 변경.",
+    IGUI_Place3DItem_Rotate = "%1/%2-%1 을(를) 눌러 물건을 회전하기.",
+    IGUI_char_Literature = "훈련 관련",
+    IGUI_LiteratureUI_Title = "훈련 관련",
+    IGUI_LiteratureUI_Skills = "스킬",
+    IGUI_LiteratureUI_Recipes = "레시피",
+    IGUI_ContainerTitle_mannequin = "마네킹",
+    IGUI_FishingUI_CatchBag = "잡아넣을 가방 선택",
 }

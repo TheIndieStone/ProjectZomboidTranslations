@@ -479,4 +479,6 @@ ContextMenu_KO = {
 	ContextMenu_WaterSource = "수원"
 	Puddle = "웅덩이"
     ContextMenu_PlaceItemOnGround = "바닥에 물건 내려놓기",
+    ContextMenu_PlaceOne = "하나만 놓기",
+    ContextMenu_PlaceAll = "모두 놓기",
 }
