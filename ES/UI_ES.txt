@@ -1309,4 +1309,7 @@ UI_ES = {
 	UI_optionscreen_LockCursorToWindow_tt = "Mantener el cursor del ratón dentro de la ventana. Cuando se activa, el cursor del sistema se oculta y el juego muestra su propio cursor.",
 	UI_optionscreen_ShowCursorWhileAiming = "Mostrar el cursor del ratón al apuntar",
 	UI_optionscreen_ShowCursorWhileAiming_tt = "Por defecto, el cursor del ratón está oculto cuando el cursor isométrico es visible.",
+	UI_foraging_WildFood = "Silvestre",
+	UI_foraging_Warning = "¡Rebuscar ha cambiado! Ahora se basa en la búsqueda de objetos. Observa a tu alrededor, usa la tecla Fin para activar/desactivar la búsqueda.",
+	UI_optionscreen_perf_3Ditems = "Mostrar objetos 3D",
 }

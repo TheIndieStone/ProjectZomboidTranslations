@@ -459,4 +459,7 @@ ContextMenu_ES = {
 	ContextMenu_PatchAllHoles = "Remendar todos los agujeros usando ",
 	ContextMenu_RemoveAllPatches = "Eliminar todos los remiendos",
 	ContextMenu_AddPaddingAll = "Añadir relleno a todo usando ",
+	ContextMenu_PlaceItemOnGround = "Colocar objeto",
+	ContextMenu_PlaceOne = "Colocar uno",
+	ContextMenu_PlaceAll = "Colocar todo",
 }

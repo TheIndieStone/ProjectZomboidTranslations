@@ -695,4 +695,5 @@ Moveables_ES = {
 	Pallet_With_Bricks = "Palé con ladrillos",
 	Golf_Put = "Bandera de golf",
 	Blood_Bank = "Kennel",
+	Metal_Drum = "Bidón de metal",
 }
