@@ -1,6 +1,6 @@
 // Auto-generated file
 
-RM_d088ff63-6c0d-43b0-bc0-bcd6-b023967a1b1a = "CD: Your smile. Your kiss"
+RM_d088ff63-6c0d-43b0-bcd6-b023967a1b1a = "CD: Your smile. Your kiss."
 RM_b4d7598e-1b9c-45a9-af70-fa23dd0b822f = "Your smile. Your kiss."
 RM_0e84d884-926a-4a3a-b9eb-81361afe491a = "Every Reason"
 RM_4e88a7a8-31c5-4177-bde3-a34df6e88cca = "Lançado em fevereiro de 1993. Potassium Records."
@@ -34,7 +34,7 @@ RM_f5ac95bc-7c84-49d6-817b-45bddfeeacdf = "[img=music] You're yesterday. An old 
 RM_ceb1f5d2-3216-46f4-b1c9-155b7760f20f = "[img=music] Now it's come to me. It's over. [img=music]"
 RM_b4d0f812-40c0-4f27-ab39-1a264a37e1ff = "[img=music] My eyes are open. [img=music]"
 RM_ce953394-a208-4127-a64c-1a82218a7fba = "We're over because..."
-RM_4fc658ae-3063-4ba0-b571-d9c5a5e5e7e1cd = "CD: You're Gone"
+RM_4fc658ae-3063-4ba0-b571-d9c5a5e7e1cd = "CD: You're Gone"
 RM_56aa48a7-08fb-46b1-966d-46d85b463e8f = "You're Gone"
 RM_15d84ac1-3e13-450a-9a96-de3957b310f3 = "Lançado em fevereiro de 1992. Universalis Sounds."
 RM_f5f10fc6-d6d2-4c35-9a65-bc2a54830af2 = "[img=music] We spent the night together. [img=music]"
