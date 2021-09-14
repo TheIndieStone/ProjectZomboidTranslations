@@ -1,4 +1,4 @@
 VERSION = 1,
 text = Português(Brasil),
-charset = Cp1252,
+charset = UTF-8,
 
