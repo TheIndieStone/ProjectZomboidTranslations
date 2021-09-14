@@ -263,4 +263,11 @@ Tooltip_UA = {
 	Tooltip_PatchAllHoles = "Залатати всі отвори за допомогою ",
 	Tooltip_AddPaddingToAll = "Додайте прокладку до кожної деталі без отворів ",
 	Tooltip_food_CookToRemoveUnhappiness = "Готуйте, щоб видалити .... щастя.",
+	Tooltip_item_StackWeight = "Стопка ваги",
+	Tooltip_RemoveCurtains = "Віддає один %1.",
+	Tooltip_PickUpCurtains = "Крім того, ви можете підібрати штори за допомогою меблевого інструменту.",
+	Tooltip_media_title = "Заголовок",
+	Tooltip_media_author = "Автор",
+	Tooltip_media_item_operate = "Обладнати як основний або вторинний елемент для роботи.",
+	
 }
