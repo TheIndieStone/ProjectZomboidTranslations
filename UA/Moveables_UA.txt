@@ -708,4 +708,5 @@ Moveables_UA = {
 	Radio = "Радіо",
 	Washing_Machine = "Пральна машина",
 	Blood_Bank = "Розплідник",
+	Metal_Drum = "Металевий барабан",
 }

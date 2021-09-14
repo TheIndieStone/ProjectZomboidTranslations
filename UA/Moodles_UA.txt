@@ -220,4 +220,7 @@ Moodles_UA = {
 	Moodles_windchill_desc_lvl2 = "Відчувається на 10-15 градусів холодніше",
 	Moodles_windchill_desc_lvl3 = "Відчувається на 15-20 градусів холодніше, ніж насправді",
 	Moodles_windchill_desc_lvl4 = "Температура явно нижче 20 градусів.",
+	
+	Moodles_CantSprint = "Не можу спринтувати.",
+	Moodles_CantSprint_desc = "Спробуйте зняти важкий одяг.",
 }

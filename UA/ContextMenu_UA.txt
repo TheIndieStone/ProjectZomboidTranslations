@@ -45,7 +45,7 @@ ContextMenu_UA = {
 	ContextMenu_Equip_on_your_Back = "Повісити на спину",
 	ContextMenu_Eat = "Їсти",
 	ContextMenu_Equip_Primary = "Взяти в основну руку",
-	ContextMenu_PutInContainer = "Покладіть в контейнер (%1)"
+	ContextMenu_PutInContainer = "Покласти в контейнер (%1)"
 	ContextMenu_Equip_Secondary = "Взяти в додаткову руку",
 	ContextMenu_Reload = "Перезарядити",
 	ContextMenu_EjectMagazine = "Дістати магазин",
@@ -459,4 +459,7 @@ ContextMenu_UA = {
 	ContextMenu_PatchAllHoles = "Заробіть всі отвори за допомогою ",
 	ContextMenu_RemoveAllPatches = "Видалити ВСІ патчі",
 	ContextMenu_AddPaddingAll = "Додайте відступ до всіх, хто використовує ",
+	ContextMenu_PlaceItemOnGround = "Розмістити предмет на землі",
+	ContextMenu_PlaceOne = "Розмістити Один",
+	ContextMenu_PlaceAll = "Розмістити Всі",
 }
