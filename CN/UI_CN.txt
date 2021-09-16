@@ -139,6 +139,7 @@ UI_CN = {
     UI_optionscreen_puddles = "水坑质量",
     UI_optionscreen_perf_puddles = "动态水坑",
     UI_optionscreen_perf_reflections = "环境反射",
+	UI_optionscreen_perf_3Ditems = "显示3D物品",
     UI_optionscreen_aim_outline = "瞄准框",
     UI_optionscreen_aim_outline1 = "无",
     UI_optionscreen_aim_outline2 = "远程武器",
@@ -1322,4 +1323,6 @@ UI_CN = {
     UI_optionscreen_render_precipOutdoors = "仅在户外",
     UI_optionscreen_render_precipNever = "绝不",
 	UI_OnConnectFailed_DebugNotAllowed = "只有管理员可以使用DEBUG命令.",
+	UI_foraging_WildFood = "自然环境",
+    UI_foraging_Warning = "采集已经改变！现在基于搜索物品<br>探索四周,使用 End 键 打开/关闭 搜索.",
 }
