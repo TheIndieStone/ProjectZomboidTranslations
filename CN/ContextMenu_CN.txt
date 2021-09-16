@@ -463,4 +463,7 @@ ContextMenu_CN = {
 	ContextMenu_CleanBandageEtc = "清洁绷带",
 	ContextMenu_Vehicle_AttachTrailer2 = "连接拖车",
 	ContextMenu_PlaceItemOnGround = "将物品放在地上",
+	ContextMenu_PlaceItemOnGround = "放置物品",
+	ContextMenu_PlaceOne = "放置一个",
+	ContextMenu_PlaceAll = "放置所有",
 } 
