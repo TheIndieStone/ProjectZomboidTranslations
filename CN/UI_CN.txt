@@ -1324,5 +1324,5 @@ UI_CN = {
     UI_optionscreen_render_precipNever = "绝不",
 	UI_OnConnectFailed_DebugNotAllowed = "只有管理员可以使用DEBUG命令.",
 	UI_foraging_WildFood = "自然环境",
-    UI_foraging_Warning = "采集已经改变！现在基于搜索物品<br>环顾四周,使用 End 键 打开/关闭 搜索.",
+    UI_foraging_Warning = "采集已经改变！现在基于搜索物品<br>探索四周,使用 End 键 打开/关闭 搜索.",
 }
