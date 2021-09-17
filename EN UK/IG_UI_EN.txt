@@ -226,7 +226,7 @@ IGUI_EN = {
     IGUI_Fish_PanFish = "Sunfish",
     IGUI_Fish_Perch = "Perch",
     -- Controller
-    IGUI_Controller_TakeOverPlayer = "Take over player 1",
+    IGUI_Controller_TakeOverPlayer = "Take over player %1",
     IGUI_Controller_AddNewPlayer = "Add new player",
     IGUI_Controller_AddSavedPlayer = "Add %1 %2",
     IGUI_Controller_Interact = "Interact",
@@ -235,6 +235,8 @@ IGUI_EN = {
     IGUI_Controller_RotateLeft = "Rotate Left",
     IGUI_Controller_RotateRight = "Rotate Right",
     IGUI_Controller_CruiseControl = "Cruise Control",
+    IGUI_Controller_Disconnected1 = "CONTROLLER WAS DISCONNECTED",
+    IGUI_Controller_Disconnected2 = "Use Keyboard and Mouse",
     -- Sleep dialog
     IGUI_Sleep_Prompt = "Sleep for how long?",
     IGUI_Sleep_OneHour = "1 hour",
