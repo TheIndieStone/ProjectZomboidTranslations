@@ -498,7 +498,7 @@ IGUI_CN = {
     IGUI_ToggleMode = "按下 '%1' 键更改模式.",
 
     IGUI_PickupItem = "拿起物品",
-    IGUI_PlaceObject = "放置对象",
+    IGUI_PlaceObject = "放置物品",
     IGUI_ApplyRotation = "应用旋转",
     IGUI_CycleMode = "循环模式",
     IGUI_CycleObject = "循环对象",
