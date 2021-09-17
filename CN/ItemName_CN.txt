@@ -305,10 +305,10 @@ ItemName_CN = {
     ItemName_Base.Cockroach = "蟑螂",
     ItemName_Base.Coffee = "咖啡",
     ItemName_Base.Coffee2 = "咖啡",
+	ItemName_Base.ColdCuppa = "凉茶",
 	ItemName_Base.ColdDrinkRed = "冷茶",
     ItemName_Base.ColdDrinkSpiffo = "冷茶",
     ItemName_Base.ColdDrinkWhite = "冷茶",
-    ItemName_Base.ColdCuppa = "凉茶",
     ItemName_Base.Coldpack = "冰袋",
     ItemName_Base.Cologne = "古龙水",
     ItemName_Base.Comb = "梳子",
@@ -643,6 +643,7 @@ ItemName_CN = {
     ItemName_Base.Hotdog = "热狗",
 	ItemName_Base.HotDrinkSpiffo = "热饮",
     ItemName_Base.HotDrinkWhite = "热饮",
+	ItemName_Base.Hotdog = "热狗",
     ItemName_Base.HottieZ = "脏比辣妹",
     ItemName_Base.HuntingKnife = "猎刀",
     ItemName_Base.HuntingMag1 = "猎人杂志Vol.1",
@@ -1508,4 +1509,11 @@ ItemName_CN = {
     ItemName_farming.TomatoSeed = "番茄种子",
     ItemName_farming.WateredCan = "花洒喷壶",
     ItemName_farming.WateredCanFull = "花洒喷壶(水)",
+	
+	--Add Text--
+	
+	ItemName_Base.HotDrinkRed  = "热饮",
+	ItemName_Base.BeerCanEmpty = "啤酒罐(空)",
+	
+	
 }
