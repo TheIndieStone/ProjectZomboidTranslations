@@ -1359,6 +1359,6 @@ IGUI_CN = {
     IGUI_LiteratureUI_Title = "培训教材",
     IGUI_LiteratureUI_Skills = "技能",
     IGUI_LiteratureUI_Recipes = "菜谱",
-    IGUI_Place3DItem_Rotate = "按 %1 / %2 - %1 来旋转这个项目",
+    IGUI_Place3DItem_Rotate = "按 %1 / %2 + %1 来旋转这个项目",
     IGUI_Place3DItem_Surface = "按 %1 来改变所选的表面。",
 }
