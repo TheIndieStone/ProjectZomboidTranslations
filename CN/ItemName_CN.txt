@@ -305,10 +305,10 @@ ItemName_CN = {
     ItemName_Base.Cockroach = "蟑螂",
     ItemName_Base.Coffee = "咖啡",
     ItemName_Base.Coffee2 = "咖啡",
-	ItemName_Base.ColdCuppa = "凉茶",
-	ItemName_Base.ColdDrinkRed = "冷茶",
-    ItemName_Base.ColdDrinkSpiffo = "冷茶",
-    ItemName_Base.ColdDrinkWhite = "冷茶",
+	ItemName_Base.ColdCuppa = "冷饮",
+	ItemName_Base.ColdDrinkRed = "冷饮",
+    ItemName_Base.ColdDrinkSpiffo = "冷饮",
+    ItemName_Base.ColdDrinkWhite = "冷饮",
     ItemName_Base.Coldpack = "冰袋",
     ItemName_Base.Cologne = "古龙水",
     ItemName_Base.Comb = "梳子",
@@ -639,10 +639,10 @@ ItemName_CN = {
     ItemName_Base.HoodieDOWN_WhiteTINT = "卫衣",
     ItemName_Base.HoodieUP_WhiteTINT = "卫衣",
     ItemName_Base.HospitalGown = "病号服",
-    ItemName_Base.HotDrink = "热茶",
+    ItemName_Base.HotDrink = "热饮",
     ItemName_Base.Hotdog = "热狗",
-	ItemName_Base.HotDrinkSpiffo = "热茶",
-    ItemName_Base.HotDrinkWhite = "热茶",
+	ItemName_Base.HotDrinkSpiffo = "热饮",
+    ItemName_Base.HotDrinkWhite = "热饮",
 	ItemName_Base.Hotdog = "热狗",
     ItemName_Base.HottieZ = "脏比辣妹",
     ItemName_Base.HuntingKnife = "猎刀",
@@ -792,7 +792,7 @@ ItemName_CN = {
 	ItemName_Base.MugRed = "马克杯(空)",
     ItemName_Base.MugSpiffo = "马克杯(空)",
     ItemName_Base.MugWhite = "马克杯(空)",
-    ItemName_Base.Mugfull = "热茶",
+    ItemName_Base.Mugfull = "热饮",
     ItemName_Base.Mugl = "马克杯(空)",
     ItemName_Base.MuldraughMap = "地图(马尔德劳)",
     ItemName_Base.MushroomGeneric1 = "蘑菇",
@@ -1512,7 +1512,7 @@ ItemName_CN = {
 	
 	--Add Text--
 	
-	ItemName_Base.HotDrinkRed  = "热茶",
+	ItemName_Base.HotDrinkRed  = "热饮",
 	ItemName_Base.BeerCanEmpty = "啤酒罐(空)",
 	
 	
