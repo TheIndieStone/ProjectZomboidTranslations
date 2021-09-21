@@ -1,9 +1,9 @@
 Tooltip_CN = {
 	-- Item tooltip
-	Tooltip_food_Uncooked = "未烹饪的",
+	Tooltip_food_Uncooked = "未烹饪",
 	Tooltip_food_Rotten = "变质的",
 	Tooltip_food_Fresh = "新鲜的",
-	Tooltip_food_Cooked = "已烹饪的",
+	Tooltip_food_Cooked = "已烹饪",
 	Tooltip_food_Burnt = "烧焦的",
 	Tooltip_food_Hunger = "饥饿",
 	Tooltip_food_Thirst = "口渴",
@@ -11,7 +11,7 @@ Tooltip_CN = {
 	Tooltip_food_Endurance = "耐力",
 	Tooltip_food_Stress = "紧张",
 	Tooltip_food_Boredom = "无聊",
-	Tooltip_food_Unhappiness = "不开心",
+	Tooltip_food_Unhappiness = "忧郁",
 	Tooltip_food_Dangerous_uncooked = "生吃危险",
 	Tooltip_tissue_tooltip = "拿着可安静地打喷嚏和咳嗽.",
 	Tooltip_item_Weight = "重量",
@@ -267,5 +267,5 @@ Tooltip_CN = {
 	Tooltip_PickUpCurtains = "或者，你可以用工具取下窗帘.",
 	Tooltip_media_title = "标题",
     Tooltip_media_author = "作者",
-    Tooltip_media_item_operate = "装备为主要或次要物品进行操作"
+    Tooltip_media_item_operate = "装备到左手或右手来进行操作"
 }
