@@ -2,8 +2,8 @@ Tooltip_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.50
-	-- Date 05-19-2021
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -24,6 +24,7 @@ Tooltip_JP = {
 	Tooltip_food_Dangerous_uncooked = "未調理では食中毒の危険性があります。",
 	Tooltip_tissue_tooltip = "クシャミと咳を止めることができます。",
 	Tooltip_item_Weight = "重量",
+	Tooltip_item_StackWeight = "総重量",
 	Tooltip_item_Temperature = "体温",
 	Tooltip_item_Fatigue = "疲労",
 	Tooltip_weapon_Condition = "消耗度",
@@ -278,5 +279,8 @@ Tooltip_JP = {
 	Tooltip_food_CookToRemoveUnhappiness = "不幸を取り除くためには、調理が必要です。",
 	Tooltip_RemoveCurtains = "1枚の%1を取り付けることができます。",
 	Tooltip_PickUpCurtains = "カーテンを取り外すこともできます。",
+	Tooltip_media_title = "タイトル",
+	Tooltip_media_author = "著者",
+	Tooltip_media_item_operate = "操作するには、メイン又はサブにアイテムを装備します。",
 
 }
