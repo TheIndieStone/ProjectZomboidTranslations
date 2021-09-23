@@ -2,8 +2,8 @@ UI_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.53
-	-- Date 08-05-2021
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -25,13 +25,13 @@ UI_JP = {
 	UI_mainscreen_exit = "ゲームの終了",
 	UI_mainscreen_workshop = "Steamワークショップ",
 
-	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>   ",
-	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>   ",
+	UI_mainscreen_version_steam = "Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.54 <2021年09月24日版>   ",
+	UI_mainscreen_version = "バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.54 <2021年09月24日版>   ",
 
 	UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ！ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 <LINE><LINE><LINE> <CENTRE> 公式日本語翻訳者からのお知らせ！ <LINE><LINE> <CENTRE> ※注意※ 非公式の日本語訳MODを導入した状態での動作を一切保証していません。 <LINE><LINE> <CENTRE> ",
 
-	--UI_mainscreen_version_steam = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>  ",
-	--UI_mainscreen_version = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.53 <2021年08月05日版>  ",
+	--UI_mainscreen_version_steam = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.54 <2021年09月24日版>  ",
+	--UI_mainscreen_version = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください！  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.54 <2021年09月24日版>  ",
 
 	--UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ！ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 <LINE><LINE><LINE> <CENTRE> 公式日本語翻訳者からのお知らせ！ <LINE><LINE> <CENTRE> 最初に公式日本語翻訳MODのバージョンとゲームに組み込まれたを公式日本語訳 <LINE> <CENTRE> バージョンをご確認ください。MODバージョンよりもゲームに組み込まれた公式 <LINE> <CENTRE> 日本語翻訳が新しいバージョンの場合には、公式日本語翻訳MODを無効にしてく <LINE> <CENTRE> ださい。 <LINE><LINE> <CENTRE> ※注意※ 非公式の日本語訳MODを導入した状態での動作を一切保証していません。 <LINE><LINE> <CENTRE> ",
 
@@ -713,7 +713,7 @@ UI_JP = {
 	UI_servers_showEmptyServer = "空いているゲームサーバーを表示",
 	UI_servers_showWhitelistServer = "ホワイトリスト・ゲームサーバーを表示",
 	UI_servers_showPwdProtectedServer = "パスワード保護されたゲームサーバーを表示",
-	UI_mainscreen_load = "保存データ",
+	UI_mainscreen_load = "データ",
 	UI_LoadGameScreen_title = "保存したデータ",
 	UI_NewGameScreen_title = "新しくゲームを始める",
 	UI_NewGame_Tutorial = "チュートリアル",
@@ -741,8 +741,8 @@ UI_JP = {
 	UI_StarterCondition_Hardcore_desc = "XP 取得経験値の加算無し <LINE> スタート時の所持品：無し",
 	UI_Difficulty = "難易度",
 	UI_NewGame_SelectDifficulty = "続行するには難易度を選択してください。",
-	UI_mods_ModEnabled = "有効",
-	UI_mods_ModDisabled = "無効",
+	UI_mods_ModEnabled = "無効にする",
+	UI_mods_ModDisabled = "有効にする",
 	UI_Alarm = "アラーム",
 	UI_On = "作動",
 	UI_Off = "停止",
@@ -1015,7 +1015,7 @@ UI_JP = {
 	UI_optionscreen_default_lang = "設定されている言語",
 	UI_optionscreen_no_translators = "テレビ/ラジオのコミュニティ翻訳がありません。",
 	UI_optionscreen_general_content = "ゲームシステム",
-	UI_optionscreen_radio_content = "テレビ/ラジオ放送システム",
+	UI_optionscreen_radio_content = "テレビ/ラジオ/ビデオ/CD音楽システム",
 	UI_Scoreboard_VOIPMute = "音声ミュート",
 	UI_Scoreboard_VOIPUnmute = "音声ミュート解除",
 	UI_optionscreen_voiceMode = "VOIP方法",
@@ -1336,8 +1336,8 @@ UI_JP = {
 	UI_mods_Explanation = "MOD導入先フォルダ - ",
 	UI_mods_ID = "Steamワークショップ ID: %1",
 	UI_mods_Location = "MODフォルダの場所:",
-	UI_mods_ModEnable = "有効にする",
-	UI_mods_ModDisable = "無効にする",
+	UI_mods_ModEnable = "有効",
+	UI_mods_ModDisable = "無効",
 	UI_mods_ModOptions = "MODオプション設定...",
 
 	UI_ModsNagPanel_Title = "MODの使用について",
@@ -1386,5 +1386,8 @@ UI_JP = {
 	UI_ServerOption_HidePlayersBehindYou_tooltip = "有効にすると、見えないプレイヤー（ゾンビなど）を自動的に隠します。",
 	UI_ServerOptionDesc_Replay = "動いているプレーヤーを録画して再生するリプレイ使用方法は、下記の方法で行ってください。 /replay "プレイヤー名" -record|-play|-stop ファイル名 例: /replay user1 -record stadion.bin",
 	UI_OnConnectFailed_DebugNotAllowed = "管理者以外はデバッグ接続ができません。",
+	UI_optionscreen_perf_3Ditems = "3Dアイテムの表示",
+	UI_foraging_WildFood = "採取",
+	UI_foraging_Warning = "採取の方法が変わりました! アイテムを探すことが基本になりました。周りを見渡して、Endキーで探索のオン/オフを切り替えます。",
 
 }
