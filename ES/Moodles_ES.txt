@@ -171,6 +171,6 @@ Moodles_ES = {
 	Moodles_windchill_lvl4 = "Escalofrío horripilante",
 	Moodles_zombie_lvl1 = "Zombificado",
 	Moodles_zombified_desc_lvl1 = "Deseo repentino de comer gente.",
-	Moodles_CantSprint = "No puedes correr.",
-	Moodles_CantSprint_desc = "Considera la posibilidad de quitarte algo de ropa pesada.",
+	Moodles_CantSprint = "Movimiento limitado",
+	Moodles_CantSprint_desc = "¡Ropa pesada, mochilas cargadas o ítems de gran tamaño te hacen ir más lento!",
 }
