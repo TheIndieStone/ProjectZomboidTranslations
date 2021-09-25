@@ -2,8 +2,8 @@ IGUI_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.53
-	-- Date 08-05-2021
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -346,7 +346,7 @@ IGUI_JP = {
 	IGUI_WindowOpen = "ウィンドウを開く",
 	IGUI_NeedToBeStandingInside = "内側に立つ必要があります。",
 	IGUI_MustPlaceRoomRoof = "屋内に配置する必要があります。",
-	IGUI_DeviceOptions = "テレビ/ラジオを設定する",
+	IGUI_DeviceOptions = "テレビ/ラジオ/ビデオ/CDを操作する",
 	IGUI_Hotkey = "ホットキー",
 	IGUI_RadioClose = "閉じる",
 	IGUI_RadioGeneral = "概要情報",
@@ -354,7 +354,7 @@ IGUI_JP = {
 	IGUI_RadioSignal = "電波強度",
 	IGUI_RadioVolume = "音量",
 	IGUI_RadioMicrophone = "マイクロフォン",
-	IGUI_RadioChannel = "設定チャンネル",
+	IGUI_RadioChannel = "チャンネル",
 	IGUI_RadioPowerNearby = "　電源と接続しています。",
 	IGUI_RadioRequiresPowerNearby = "　電源が必要です。",
 	IGUI_RadioTuneIn = "チャンネル切替",
@@ -374,9 +374,9 @@ IGUI_JP = {
 	IGUI_RadioUknownChannel = "不明チャンネル",
 	IGUI_RadioMuteMic = "音量スイッチを切る",
 	IGUI_RadioUnmuteMic = "音量スイッチを入れる",
-	IGUI_RadioDragBattery = "ここに電池をドラッグすると取り付けることができます。 <br>マウス右クリックで取り外すことができます。",
+	IGUI_RadioDragBattery = "ここに電池をドラッグすると取り付けることができます。<br>マウス右クリックで取り外すことができます。",
 	IGUI_RadioSave = "保存",
-	IGUI_RadioDragHeadphones = "ここにヘッドホン、イヤホンをドラッグすると接続されます。 <br>マウス右クリックで取り外すことができます。",
+	IGUI_RadioDragHeadphones = "ここにヘッドホン、イヤホンをドラッグすると接続されます。<br>マウス右クリックで取り外すことができます。",
 	IGUI_RadioVolUp = "音量を上げる",
 	IGUI_RadioVolDown = "音量を下げる",
 	IGUI_SetAlarm = "アラーム時間を設定する",
@@ -606,14 +606,14 @@ IGUI_JP = {
 	IGUI_TradingUI_CantAddFavorite = "お気に入りのアイテムは追加できません。",
 	IGUI_TradingUI_CantRightClick = "取引中にインベントリに対してコンテキストメニューを使用することはできません。",
 	IGUI_ScavengeUI_Title = "採取",
-	IGUI_ScavengeUI_Materials = "材料 (欠けた石、石、木の枝など)",
+	IGUI_ScavengeUI_Materials = "材料 (欠けた石、石、木の枝)",
 	IGUI_ScavengeUI_Mushrooms = "キノコ類",
 	IGUI_ScavengeUI_Berries = "ベリー類",
 	IGUI_ScavengeUI_Animals = "生物 (昆虫類、カエル、野生の卵)",
 	IGUI_ScavengeUI_MedicinalPlants = "植物 (食用、薬用)",
 	IGUI_ScavengeUI_FishBait = "釣り餌",
 	IGUI_ScavengeUI_PutItemInPlayerInv = "所持品(インベントリ)に収納",
-	IGUI_ScavengeUI_LootAbundance = "資源残量: ",
+	IGUI_ScavengeUI_LootAbundance = "資源残り: ",
 	IGUI_ScavengeUI_PutItemInBag = "%2の%1に収納",
 	IGUI_ScavengeUI_1stHand = "右手",
 	IGUI_ScavengeUI_2ndHand = "左手",
@@ -1427,5 +1427,25 @@ IGUI_JP = {
 	IGUI_SafehouseUI_Respawn = "セーフハウスでリスポーン",
 	IGUI_AdminPanel_CanSeeAll = "全員を見ることができます。",
 	IGUI_AdminPanel_CanHearAll = "全員の声が聞こえます。（VOIP）"
+	IGUI_ContainerTitle_mannequin = "マネキン",
+	IGUI_MovableHasMaterial = "内部に素材があります。",
+	IGUI_FishingUI_CatchBag = "収納先を選択",
+	IGUI_media_dragVHS = "VHSテープを再生するには、<br>VHSテープをここにドラッグするか、<br>右クリックで取り出します。",
+	IGUI_media_dragCD = "CDを再生するには、<br>CDをここにドラッグするか、<br>右クリックで取り出します。",
+	IGUI_media_nocd = "- NO DISC -",
+	IGUI_media_notape = "- NO TAPE -",
+	IGUI_media_play = "再生",
+	IGUI_media_stop = "停止",
+	IGUI_media_idle = "- PRESS 'PLAY' TO START -",
+	IGUI_media_addMedia = "メディアを追加",
+	IGUI_media_removeMedia = "メディアを取り出す",
+	IGUI_media_readLabel = "ラベルの確認",
+	IGUI_RadioMedia = "メディア",
+	IGUI_char_Literature = "書籍教材",
+	IGUI_LiteratureUI_Title = "書籍教材",
+	IGUI_LiteratureUI_Skills = "技能",
+	IGUI_LiteratureUI_Recipes = "レシピ",
+	IGUI_Place3DItem_Rotate = "%1/%2-%1を押すとアイテムが回転します。",
+	IGUI_Place3DItem_Surface = "%1を押して、選択した表面を変更します。",
 
 }
