@@ -585,7 +585,7 @@ Sandbox_CN = {
     Sandbox_ZombiesDragDown = "放倒",
     Sandbox_ZombiesDragDown_tooltip = "启用后,如果有多个僵尸同时攻击,则根据僵尸的力量,它们可以把你拉倒吃掉.",
     Sandbox_ZombiesFenceLunge = "僵尸冲刺",
-    Sandbox_ZombiesFenceLunge_tooltip = "启用后,当僵尸离你太近,会选择冲刺.",
+    Sandbox_ZombiesFenceLunge_tooltip = "启用后,当你离翻越障碍中的僵尸太近时,翻越的僵尸会选择向你冲刺一段距离.",
     Sandbox_AttackBlockMovements = "不可移动攻击",
     Sandbox_AttackBlockMovements_tooltip = "若禁用则近战攻击不影响行走.",
     

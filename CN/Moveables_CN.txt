@@ -383,6 +383,7 @@ Moveables_CN = {
     Mediocre_Large_Table = "普通的大桌子",
     Medium_Table = "普通的桌子",
     Merry_Go_Round = "旋转木马",
+	Metal_Drum = "金属鼓",
     Metal_Locker = "金属储物柜",
     Metal_Wall_Shelves = "金属壁挂式货架",
     Middle_Evangelical_Banner = "福音派旗帜",

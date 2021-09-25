@@ -220,4 +220,7 @@ Moodles_CN = {
     Moodles_windchill_desc_lvl2 = "感觉气温降低了10到15度.",
     Moodles_windchill_desc_lvl3 = "感觉气温降低了15到20度.",
     Moodles_windchill_desc_lvl4 = "感觉气温降低了20度以上.",
+	-- CantSprint
+    Moodles_CantSprint = "无法冲刺."
+    Moodles_CantSprint_desc = "考虑脱掉一些厚重的衣服."
 }
