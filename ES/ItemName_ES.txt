@@ -612,7 +612,7 @@ ItemName_ES = {
 	ItemName_Base.HoodieUP_WhiteTINT = "Sudadera",
 	ItemName_Base.HospitalGown = "Bata de hospital",
 	ItemName_Base.HotDrink = "Bebida caliente",
-	ItemName_Base.Hotdog = "Hot dog",
+	ItemName_Base.Hotdog = "Perrito caliente",
 	ItemName_Base.HottieZ = "CalentorraZ",
 	ItemName_Base.HuntingKnife = "Cuchillo de caza",
 	ItemName_Base.HuntingMag1 = "Revista 'El cazador' Vol.1",
@@ -1559,4 +1559,5 @@ ItemName_ES = {
 	ItemName_Base.VHS = "VHS",
 	ItemName_Base.VHS_Home = "VHS casero",
 	ItemName_Base.VHS_Retail = "VHS comercial",
+	ItemName_Base.BeerCanEmpty = "Lata de cerveza vacía",
 }
