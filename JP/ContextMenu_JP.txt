@@ -2,8 +2,8 @@ ContextMenu_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.53
-	-- Date 08-05-2021
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -156,7 +156,7 @@ ContextMenu_JP = {
 	ContextMenu_Shelves = "棚",
 	ContextMenu_DoubleShelves = "二段棚",
 	ContextMenu_Bed = "ベット",
-	ContextMenu_Forage = "資源を採取する",
+	ContextMenu_Forage = "資源を採取",
 	ContextMenu_Take = "取る",
 	ContextMenu_Farming = "耕作",
 	ContextMenu_Eat_All = "全部",
@@ -476,4 +476,8 @@ ContextMenu_JP = {
 	ContextMenu_PatchAllHoles = "全ての穴を修繕する 材料‐",
 	ContextMenu_RemoveAllPatches = "修繕した全ての布地/革を取り去る",
 	ContextMenu_AddPaddingAll = "衣類全体を修繕する 材料‐",
+	ContextMenu_PlaceItemOnGround = "アイテムを指定場所に置く",
+	ContextMenu_PlaceOne = "1つのアイテムを置く",
+	ContextMenu_PlaceAll = "全てのアイテムを置く",
+
 }
