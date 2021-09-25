@@ -308,6 +308,7 @@ Recipes_IT = {
     Recipe_Place_Pasta_in_Cooking_Pot = "Metti Pasta in Pentola",
     Recipe_Place_Pasta_in_Saucepan = "Metti Pasta in Padella",
     Recipe_Place_Pie_in_Baking_Pan = "Metti Tortino in Teglia",
+	Recipe_Place_Ingredients_in_Roasting_Pan = "Metti gli ingredienti nella teglia"
     Recipe_Place_Rice_in_Cooking_Pot = "Metti Riso in Pentola",
     Recipe_Place_Rice_in_Saucepan = "Metti Riso in Padella",
     Recipe_Place_Screws_in_Box = "Metti Chiodi in scatola",
