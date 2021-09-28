@@ -285,7 +285,6 @@ Recipes_CN = {
 	Recipe_Make_Fruit_Salad = "制作水果沙拉",
 	Recipe_Make_Salad = "制作蔬菜沙拉",
 	Recipe_Make_Sandwich = "制作三明治",
-	Recipe_Place_Ingredients_in_Roasting_Pan = "将食材放入烤盘",
 	Recipe_Prepare_Beverage = "准备热饮",
 	Recipe_Prepare_Burger = "制作配料汉堡",
 	Recipe_Prepare_Cake = "准备蛋糕",
