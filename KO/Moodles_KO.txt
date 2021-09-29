@@ -163,7 +163,7 @@ Moodles_KO = {
 	-- Hungry
     Moodles_hungry_desc_lvl1 = "먹을 게 있으면 좋겠음.",
     Moodles_hungry_desc_lvl2 = "말이라도 있으면 먹고 싶음",
-    Moodles_hungry_desc_lvl3 = "힘과 치유능력이 크게 저하됨.",
+    Moodles_hungry_desc_lvl3 = "근력과 치유능력이 크게 저하됨.",
     Moodles_hungry_desc_lvl4 = "체력이 지속적으로 깎임.",
 	-- Panic
     Moodles_panic_desc_lvl1 = "숨어서 심호흡을 하십시오.",
@@ -173,8 +173,8 @@ Moodles_KO = {
 
 	-- Sickness
     Moodles_sick_desc_lvl1 = "쉬어가면서 행동하십시오.",
-    Moodles_sick_desc_lvl2 = "힘과 치유능력이 저하됨.",
-    Moodles_sick_desc_lvl3 = "힘과 치유능력이 크게 저하됨.",
+    Moodles_sick_desc_lvl2 = "근력과 치유능력이 저하됨.",
+    Moodles_sick_desc_lvl3 = "근력과 치유능력이 크게 저하됨.",
     Moodles_sick_desc_lvl4 = "죽음의 위험이 점점 커짐.",
 
 	-- Bored
@@ -190,8 +190,8 @@ Moodles_KO = {
 
 	-- Bleeding
     Moodles_bleed_desc_lvl1 = "붕대가 필요합니다.",
-    Moodles_bleed_desc_lvl2 = "힘과 이동속도가 저하됨.",
-    Moodles_bleed_desc_lvl3 = "힘과 이동속도가 크게 저하됨.",
+    Moodles_bleed_desc_lvl2 = "근력과 이동속도가 저하됨.",
+    Moodles_bleed_desc_lvl3 = "근력과 이동속도가 크게 저하됨.",
     Moodles_bleed_desc_lvl4 = "사망 직전.",
 	-- Wet
     Moodles_wet_desc_lvl1 = "약간 축축하다. 비인가? 땀인가?",
@@ -206,8 +206,8 @@ Moodles_KO = {
 
 	-- Injured
     Moodles_injured_desc_lvl1 = "응급조치가 필요함.",
-    Moodles_injured_desc_lvl2 = "힘과 이동속도가 저하됨.",
-    Moodles_injured_desc_lvl3 = "힘과 이동속도가 크게 저하됨.",
+    Moodles_injured_desc_lvl2 = "근력과 이동속도가 저하됨.",
+    Moodles_injured_desc_lvl3 = "근력과 이동속도가 크게 저하됨.",
     Moodles_injured_desc_lvl4 = "편히 잠들지 못할 것 같다...",
 	-- Pain
     Moodles_pain_desc_lvl1 = "약간의 고통을 느낌.",
@@ -235,8 +235,8 @@ Moodles_KO = {
 	-- Food eaten
     Moodles_foodeaten_desc_lvl1 = "신경 쓰이는 배고픔이 사라졌다.",
     Moodles_foodeaten_desc_lvl2 = "배가 꽉찼다, 당신의 몸을 이롭게 할 겁니다.",
-    Moodles_foodeaten_desc_lvl3 = "위장이 만족했다. 잠깐 체력과 힘이 증가한다.",
-    Moodles_foodeaten_desc_lvl4 = "한 입 더 먹는 걸 멈추지 못했어... 힘과 치유 능력이 장시간 유지됨.",
+    Moodles_foodeaten_desc_lvl3 = "위장이 만족했다. 잠깐 체력과 근력이 증가한다.",
+    Moodles_foodeaten_desc_lvl4 = "한 입 더 먹는 걸 멈추지 못했어... 근력과 치유 능력이 장시간 유지됨.",
 
 	-- Hyperthermia
     Moodles_hyperthermia_desc_lvl1 = "더워지기 시작함. 옷을 벗고 싶음. 갈증이 증가함.",

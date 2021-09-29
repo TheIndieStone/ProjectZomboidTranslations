@@ -13,7 +13,7 @@ Challenge_KO = {
 	Challenge_Challenge1_desc = "그들이 다가온 것을 당신은 느낄 수 있습니다. <LINE> 되살아난 그들의 무리에게 피할 곳 없는 당신의 외로운 오두막집은 서서히 잠식당해 가고 있습니다. <LINE> 죽음은 피할 수 없을듯 하지만, 당신의 손에는 산탄총이 쥐어져 있습니다. <LINE> <LINE> 최후의 저항은 계속 증가하는 좀비들의 끝없는 습격이 특징입니다. <LINE> 승산없는 압도적인 상황에서도 당신은 가능한 오랫동안 생존해야 합니다.",	
 	
 	Challenge_Challenge2_name = "숲 속의 집 - 최후의 저항 [습격 생존 모드]",
-	Challenge_Challenge2_desc = "또 다른 어느 날, 피비린내가 진동할 준비가 된 다른 오두막입니다. <LINE> 당신을 향한 무리들에게의 죽음은 소름끼치도록 고통스러울 것입니다. <LINE> 그것이 싫다면 나가 싸워야겠지요... <LINE> <LINE> 습격 생존 모드는 계속 증가하는 좀비들의 끝없는 습격이 특징입니다. <LINE> 당신은 좀비를 잡고 얻은 돈으로 도구를 구입하거나 레벨 업 그리고 피에 젖은 무기들을 수리할 수 있습니다.",
+	Challenge_Challenge2_desc = "또 다른 어느 날, 피비린내가 진동할 준비가 된 다른 오두막입니다. <LINE> 당신을 향한 무리들에게의 죽음은 소름끼치도록 고통스러울 것입니다. <LINE> 그것이 싫다면 나가 싸워야겠지요... <LINE> <LINE> 습격 생존 모드는 계속 증가하는 좀비들의 끝없는 습격이 특징입니다. <LINE> 당신은 좀비를 잡고 얻은 돈으로 도구를 구입하거나 기술 단계 상승 그리고 피에 젖은 무기들을 수리할 수 있습니다.",
 	
 	Challenge_AReallyCDDAy_name = "진정한 CDDA",
 	Challenge_AReallyCDDAy_desc = "당신은 샤워를 하고 나오던 중 심하게 넘어져 크게 다쳤습니다. <LINE> 술에 취해 의식이 없고, 지독한 감기에 걸린 상태입니다. <LINE> <LINE> 이 지독한 상황에 집에는 불까지?! 오늘은 확실히 당신의 날이 아닌가 보네요. <LINE> <LINE> [이 도전은 Cataclysm: Dark Days Ahead 에서 정말 안 좋은 날 최고의 멋진 플레이가 나오는 것에 영감을 받아 제작하였습니다.] ",
@@ -47,7 +47,7 @@ Challenge_KO = {
 	Challenge_Challenge2_Weapons = "무기",
 	Challenge_Challenge2_TabItems = "아이템",
 	Challenge_Challenge2_TabRepair = "수리",
-	Challenge_Challenge2_Skills = "스킬",
+	Challenge_Challenge2_Skills = "기술",
 	Challenge_Challenge2_PermanentBonus = "지속 보너스",
 	Challenge_Challenge2_Carpentry = "목공도구",
 	Challenge_Challenge2_Health = "의료용품",
