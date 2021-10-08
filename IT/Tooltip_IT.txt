@@ -214,6 +214,7 @@ Tooltip_IT = {
     Tooltip_item_Radio = "Impugna come oggetto primario o secondario per usare la radio.",
     Tooltip_item_RainFromGround = "Può essere usato per raccogliere la pioggia quando viene sistemato all'aperto.",
     Tooltip_item_Spices = "Spezie:",
+    Tooltip_item_StackWeight = "Peso della pila",
     Tooltip_item_TaintedWater = "Acqua contaminata",
     Tooltip_item_Temperature = "Temperatura",
     Tooltip_item_TwoHandWeapon = "Massima efficienza a due mani.",
