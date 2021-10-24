@@ -935,6 +935,7 @@ UI_IT = {
     UI_optionscreen_normal = "Normale",
     UI_optionscreen_objHighlightColor = "Colore del contenitore evidenziato",
     UI_optionscreen_panCameraWhileAiming = "Panoramica della camera mentre si mira",
+    UI_optionscreen_panCameraWhileDriving = "Fotocamera panoramica durante la guida",
     UI_optionscreen_perf_3Ditems = "Visualizza elementi 3D",
     UI_optionscreen_perf_puddles = "Pozzanghere dinamiche",
     UI_optionscreen_perf_reflections = "Riflessioni sull'ambiente",
