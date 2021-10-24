@@ -73,11 +73,11 @@ Sandbox_KO = {
 	Sandbox_StartTime = "시작 시각",
 	Sandbox_StartTime_option1 = "오전 7시",
 	Sandbox_StartTime_option2 = "오전 9 시",
-	Sandbox_StartTime_option3 = "오전 12 시",
-	Sandbox_StartTime_option4 = "오후 14 시",
-	Sandbox_StartTime_option5 = "오후 17 시",
-	Sandbox_StartTime_option6 = "오후 21 시",
-	Sandbox_StartTime_option7 = "오후 24 시",
+	Sandbox_StartTime_option3 = "낮 12 시",
+	Sandbox_StartTime_option4 = "오후 2 시",
+	Sandbox_StartTime_option5 = "오후 5 시",
+	Sandbox_StartTime_option6 = "오후 9 시",
+	Sandbox_StartTime_option7 = "밤 12 시",
 	Sandbox_StartTime_option8 = "오전 2 시",
 	Sandbox_StartTime_option9 = "오전 5 시",
 
@@ -129,8 +129,8 @@ Sandbox_KO = {
 	Sandbox_FridgeEffect_option4 = "높음",
 	Sandbox_FridgeEffect_option5 = "매우 높음",
 
-	Sandbox_DaysForRottenFoodRemoval = "부패한 식량 없어지는 주기",
-	Sandbox_DaysForRottenFoodRemoval_tooltip = "부패한 식량이 지도에서 삭제될 때까지의 게임 내 일수  \n-1로 설정하면 부패한 식량은 없어지지 않습니다.",
+	Sandbox_DaysForRottenFoodRemoval = "상한 식량 없어지는 주기",
+	Sandbox_DaysForRottenFoodRemoval_tooltip = "상한 식량이 지도에서 삭제될 때까지의 게임 내 일수. -1로 설정하면 상한 식량은 없어지지 않습니다.",
 
 	Sandbox_LootRespawn = "아이템 재생성 주기",
 	Sandbox_LootRespawn_tooltip = "아이템이 보관함에 재생성 되는데 걸리는 시간을 설정합니다.",
@@ -140,8 +140,8 @@ Sandbox_KO = {
 	Sandbox_Respawn_option4 = "매 월",
 	Sandbox_Respawn_option5 = "매 2개월 마다",
 
-	Sandbox_SeenHoursPreventLootRespawn = "보이는 곳 아이템 재생성 방지 시간",
-	Sandbox_SeenHoursPreventLootRespawn_tooltip = "설정 값이 0보다 높을 경우, 설정한 시간 내에 방문한 지역에서는 전리품이 재배치되지 않습니다.",
+	Sandbox_SeenHoursPreventLootRespawn = "보이는 지역에 물건 재생성 방지 시간",
+	Sandbox_SeenHoursPreventLootRespawn_tooltip = "설정한 시간이 0보다 높을 경우, 설정한 시간 내에 방문한 지역에서는 물건이 재생성되지 않습니다.",
 
 	Sandbox_TimeSinceApo = "게임 시작 시기 설정",
 	Sandbox_TimeSinceApo_option1 = "재앙 직 후",
@@ -165,10 +165,10 @@ Sandbox_KO = {
 	Sandbox_NightDarkness_option3 = "보통",
 	Sandbox_NightDarkness_option4 = "밝음",
 
-	Sandbox_FireSpread = "화재 확산 수치",
+	Sandbox_FireSpread = "화재 확산 기능",
 
 	Sandbox_AllowExteriorGenerator = "외부에서 발전기 사용 가능",
-	Sandbox_AllowExteriorGenerator_tooltip = "팁을 드리자면, 발전기는 야외 바닥에서 이용할 수 있습니다. 예를 들자면, 전력이 끊기면 연료보급을 할 수 없지만 발전기를 사용함으로써 주유소의 연료펌프에 전력이 공급되고 연료보급을 할 수 있게 됩니다.",
+	Sandbox_AllowExteriorGenerator_tooltip = "활성화 시, 발전기는 야외 바닥에서 이용할 수 있습니다. 예를 들자면, 전력이 끊기면 연료보급을 할 수 없지만 발전기를 사용함으로써 주유소의 연료펌프에 전력이 공급되고 연료보급을 할 수 있게 됩니다.",
 
 	--
 
@@ -221,7 +221,7 @@ Sandbox_KO = {
 	Sandbox_ErosionSpeed_option5 = "매우 느림(500일)",
 
 	Sandbox_ErosionDays = "침식 일수",
-	Sandbox_ErosionDays_tooltip = "100% 침식하기까지의 일수를 세세하게 설정할 수 있습니다. \n 설정을 -1로 하면 침식이 진행되지 않습니다 \n 설정을 0으로 하면 기본 침식 속도로 진행됩니다. \n1=(하루)365=(1년)최대 수치 36500=(100년)",
+	Sandbox_ErosionDays_tooltip = "100% 침식하기까지의 일수를 세세하게 설정할 수 있습니다. \n -1로 설정하면 침식이 진행되지 않습니다 \n 0으로 설정하면 기본 침식 속도로 진행됩니다. \n1=(하루)365=(1년)최대 수치 36500=(100년)",
 
 	Sandbox_FarmingSpeed = "농작물 성장 속도",
 	Sandbox_FarmingSpeed_option1 = "매우 빠름",
@@ -259,7 +259,7 @@ Sandbox_KO = {
 	Sandbox_CompostTime_option7 = "10 주일",
 	Sandbox_CompostTime_option8 = "12 주일",
 
-	Sandbox_MaxFogIntensity = "안개 짙음 강도",
+	Sandbox_MaxFogIntensity = "최대 짙은 안개 강도",
 	Sandbox_MaxFogIntensity_option1 = "보통",
 	Sandbox_MaxFogIntensity_option2 = "적당히",
 	Sandbox_MaxFogIntensity_option3 = "적음",
@@ -297,7 +297,7 @@ Sandbox_KO = {
 	Sandbox_Meta = "게임 내 환경 설정",
 
 	Sandbox_GeneratorSpawning = "발전기 생성빈도",
-	Sandbox_GeneratorSpawning_tooltip = "지도에 발전기가 생성될 가능성 증가/감소",
+	Sandbox_GeneratorSpawning_tooltip = "게임 내 발전기가 생성될 가능성 증가/감소",
 	Sandbox_GeneratorSpawning_option1 = "매우 적음",
 	Sandbox_GeneratorSpawning_option2 = "적음",
 	Sandbox_GeneratorSpawning_option3 = "보통",
@@ -314,10 +314,10 @@ Sandbox_KO = {
 	Sandbox_SurvivorHouseChance_option4 = "보통",
 	Sandbox_SurvivorHouseChance_option5 = "많음",
 	Sandbox_SurvivorHouseChance_option6 = "매우 많음",
-	Sandbox_SurvivorHouseChance_tooltip = "게임상에 무작위로 출현하는 특별한 집(전소된 집·세이프하우스·시체가 있는 집) 생성 비율을 설정합니다.",
+	Sandbox_SurvivorHouseChance_tooltip = "게임 상에 무작위로 출현하는 특별한 집(전소된 집,세이프하우스,시체가 있는 집) 생성 비율을 설정합니다.",
 
 	Sandbox_AnnotatedMapChance = "메모가 되어있는 지도 발견 빈도",
-	Sandbox_AnnotatedMapChance_tooltip = "메모가 되어있는 지도에는 생존자가 적어둔, 비밀의 은신처나 아이템의 숨겨진 장소가 적혀 있습니다.",
+	Sandbox_AnnotatedMapChance_tooltip = "메모가 되어있는 지도에는 생존자가 적어둔, 비밀의 은신처나 물건을 숨겨진 장소가 적혀 있습니다.",
 	Sandbox_AnnotatedMapChance_option1 = "없음",
 	Sandbox_AnnotatedMapChance_option2 = "매우 적음",
 	Sandbox_AnnotatedMapChance_option3 = "적음",
@@ -328,8 +328,8 @@ Sandbox_KO = {
 	Sandbox_HoursForCorpseRemoval = "시체 자연소멸 시간",
 	Sandbox_HoursForCorpseRemoval_tooltip = "정해둔 시간이 지나면 좀비의 시체가 자동으로 자연소멸 됩니다. (이전 시체 자연소멸 시간 서버 설정을 교체합니다)",
 
-	Sandbox_DecayingCorpseHealthImpact = "시체로 인한 건강피해 영향",
-	Sandbox_DecayingCorpseHealthImpact_tooltip = "시체가 캐릭터에 미치는 질병이나 슬픔을 유발시키는 건강 피해의 영향을 설정합니다.",
+	Sandbox_DecayingCorpseHealthImpact = "시체로 인한 건강 피해 영향",
+	Sandbox_DecayingCorpseHealthImpact_tooltip = "시체가 캐릭터에 미치는 질병이나 슬픔을 유발시키는 피해의 영향을 설정합니다.",
 	Sandbox_DecayingCorpseHealthImpact_option1 = "없음",
 	Sandbox_DecayingCorpseHealthImpact_option2 = "약함",
 	Sandbox_DecayingCorpseHealthImpact_option3 = "보통",
@@ -371,7 +371,7 @@ Sandbox_KO = {
 	Sandbox_XpMultiplier = "XP 상승량 (경험치 상승량)",
 
 	Sandbox_StatDecrease = "상태 감소율",
-	Sandbox_StatDecrease_tooltip = "캐릭터가 얼마나 빨리 배고픔, 갈증, 피로가 생기는지",
+	Sandbox_StatDecrease_tooltip = "캐릭터가 얼마나 빨리 배고픔, 갈증, 피로가 생기는지 설정합니다.",
 	Sandbox_StatDecrease_option1 = "매우 빠름",
 	Sandbox_StatDecrease_option2 = "빠름",
 	Sandbox_StatDecrease_option3 = "보통",
@@ -395,7 +395,7 @@ Sandbox_KO = {
 	Sandbox_CharacterFreePoints_tooltip = "캐릭터의 특성 포인트를 임의로 늘릴 수 있습니다.",
 
 	Sandbox_ConstructionBonusPoints = "캐릭터가 제작한 건축물의 내구도",
-	Sandbox_ConstructionBonusPoints_tooltip = "캐릭터가 제작한 건축물의 내구도를 설정합니다. \n 좀비로부터의 데미지를 조정할 수 있습니다.",
+	Sandbox_ConstructionBonusPoints_tooltip = "플레이어가 제작한 건축물의 내구도를 설정합니다.",
 	Sandbox_ConstructionBonusPoints_option1 = "매우 낮음",
 	Sandbox_ConstructionBonusPoints_option2 = "낮음",
 	Sandbox_ConstructionBonusPoints_option3 = "보통",
@@ -403,16 +403,16 @@ Sandbox_KO = {
 	Sandbox_ConstructionBonusPoints_option5 = "매우 높음",
 
 	Sandbox_InjurySeverity = "캐릭터에 미치는 부상과 치유 시간",
-	Sandbox_InjurySeverity_tooltip = "부상이 몸에 미치는 영향과 치유 시간을 증가시키고 감소시킨다.",
+	Sandbox_InjurySeverity_tooltip = "플레이어의 부상이 신체에 영향을 미치는 정도와 치유 시간을 설정합니다.",
 	Sandbox_InjurySeverity_option1 = "낮음",
 	Sandbox_InjurySeverity_option2 = "보통",
 	Sandbox_InjurySeverity_option3 = "높음",
 
 	Sandbox_BoneFracture = "골절",
-	Sandbox_BoneFracture_tooltip = "생존자가 추락, 충격을 받거나 좀비의 공격을 받았을때 팔과 다리에 골절 발생. 켜기 / 끄기",
+	Sandbox_BoneFracture_tooltip = "플레이어가 충격 받거나, 좀비에게 공격 받거나, 추락으로 인한 부상을 입었을 때 팔다리가 부러지게 합니다.",
 
 	Sandbox_ClothingDegradation = "옷 헤지는 속도",
-	Sandbox_ClothingDegradation_tooltip = "옷이 헤지고 더러워지고 피투성이가 되는지 설정합니다.",
+	Sandbox_ClothingDegradation_tooltip = "옷이 헤지고, 더러워지고, 피투성이가 되는지 설정합니다.",
 	Sandbox_ClothingDegradation_option1 = "없음",
 	Sandbox_ClothingDegradation_option2 = "느림",
 	Sandbox_ClothingDegradation_option3 = "보통",
@@ -425,10 +425,10 @@ Sandbox_KO = {
 	Sandbox_RearVulnerability_option3 = "높음",
 
 	Sandbox_MultiHitZombies = "무기의 광범위공격",
-	Sandbox_MultiHitZombies_tooltip = "특정 근접 무기가 연속공격이 활성화 되면 한번에 여러좀비를 공격 할수 있습니다.",
+	Sandbox_MultiHitZombies_tooltip = "특정 근접 무기가 광범위공격이 활성화 되면 한번에 여러좀비를 공격 할 수 있습니다.",
 
 	Sandbox_AttackBlockMovements = "이동 중 근접 공격",
-	Sandbox_AttackBlockMovements_tooltip = "근접 공격 중에는 방해받지 않고 걸을 수 없게 됩니다.",
+	Sandbox_AttackBlockMovements_tooltip = "비활성화시 근접 공격 중에는 걸을 수 없게 됩니다.",
 
 	--
 
@@ -437,7 +437,7 @@ Sandbox_KO = {
 	Sandbox_EnableVehicles = "차량 생성",
 
 	Sandbox_VehicleEasyUse = "간단한 차량 사용",
-	Sandbox_VehicleEasyUse_tooltip = "설정하면 모든 차량의 열쇠가 열리고 연료는 가득 차서 엔진 소리가 낮아집니다.",
+	Sandbox_VehicleEasyUse_tooltip = "활성화하면 모든 차량의 문이 열려있고, 운전이 가능하고, 연료는 가득 차있고, 엔진 소리가 낮아집니다.",
 
 	Sandbox_RecentlySurvivorVehicles = "생존자의 차량",
 	Sandbox_RecentlySurvivorVehicles_tooltip = "최초 감염사건 이후 유지관리가 된 차량을 플레이어가 발견할 가능성",
@@ -453,10 +453,10 @@ Sandbox_KO = {
 	Sandbox_CarSpawnRate_option5 = "매우 많음",
 
 	Sandbox_ZombieAttractionMultiplier = "차량의 엔진 소리",
-	Sandbox_ZombieAttractionMultiplier_tooltip = "이를 사용하여 엔진의 일반적인 소음 발생을 증가시키거나 감소시키십시오",
+	Sandbox_ZombieAttractionMultiplier_tooltip = "자동차 엔진의 일반적인 소음 크기를 설정합니다.",
 
-	Sandbox_ChanceHasGas = "차량 연료 있을 확률",
-	Sandbox_ChanceHasGas_tooltip = "연료가 들어있는 차량의 발견 확률",
+	Sandbox_ChanceHasGas = "차량 연료가 있을 확률",
+	Sandbox_ChanceHasGas_tooltip = "연료가 들어있는 차량이 발견 확률을 설정합니다.",
 	Sandbox_ChanceHasGas_option1 = "낮음",
 	Sandbox_ChanceHasGas_option2 = "보통",
 	Sandbox_ChanceHasGas_option3 = "높음",
@@ -645,16 +645,16 @@ Sandbox_KO = {
 	Sandbox_PopulationPeakDay_help = "좀비 수량이 최대로 나오기 까지 걸리는 기간을 정할 수 있습니다.",
 
 	Sandbox_RespawnHours = "범위 내 재생성 시간",
-	Sandbox_RespawnHours_help = "좀비가 범위 내에 재생성되는데 걸리는 시간. \n 0 의 경우는 재생성 없습니다.",
+	Sandbox_RespawnHours_help = "좀비가 셀(300*300타일) 내에 재생성되는데 걸리는 시간. \n 0 의 경우는 재생성 없습니다.",
 
 	Sandbox_RespawnUnseenHours = "범위 밖의 재생성 시간",
-	Sandbox_RespawnUnseenHours_help = "범위(청크) 밖의 좀비가 재생성되는데 걸리는 시간.",
+	Sandbox_RespawnUnseenHours_help = "청크(10*10타일) 밖의 좀비가 재생성되는데 걸리는 시간.",
 
 	Sandbox_RespawnMultiplier = "좀비 재생성 배율",
-	Sandbox_RespawnMultiplier_help = "재생성 시간마다 범위 내에 재생성되는 좀비 무리의 배율.",
+	Sandbox_RespawnMultiplier_help = "재생성 시간마다 셀(300*300타일) 내에 재생성되는 좀비 무리의 배율.",
 
 	Sandbox_RedistributeHours = "좀비 재분포 시간",
-	Sandbox_RedistributeHours_help = "좀비가 같은 범위의 빈 부분으로 이동하는데 걸리는 시간. \n 0 인 경우 대규모 이동이 중지 됩니다.",
+	Sandbox_RedistributeHours_help = "좀비가 같은 셀(300*300타일)의 빈 부분으로 이동하는데 걸리는 시간. \n 0 인 경우 대규모 이동이 중지 됩니다.",
 
 	Sandbox_FollowSoundDistance = "소리에 대한 좀비 반응 거리",
 	Sandbox_FollowSoundDistance_help = "가상의 좀비(게임 내 비활성화 상태인 좀비)가 마지막으로 들은 소리를 향해 걸어가는 거리를 정합니다.",

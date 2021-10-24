@@ -2,7 +2,7 @@ Tooltip_KO = {
 
 	-- Item tooltip
 	Tooltip_food_Uncooked = "데우지 않은",
-	Tooltip_food_Rotten = "썩은",
+	Tooltip_food_Rotten = "상한",
 	Tooltip_food_Fresh = "신선한",
 	Tooltip_food_Cooked = "데워진",
 	Tooltip_food_Burnt = "타버린",
@@ -115,7 +115,7 @@ Tooltip_KO = {
 	Tooltip_Trap = "물건을 주무기(오른손)에 들고 기본 공격 방법으로 던질 수 있습니다.",
 	Tooltip_Plantain = "상처에 바르면 깊은 상처의 회복에 효과가 있습니다.",
 	Tooltip_Comfrey = "상처에 바르면 골절의 회복에 효과가 있습니다.",
-	Tooltip_Garlic = "상처에 바르면 감염에 대항하는 효과가 있습니다.",
+	Tooltip_Garlic = "상처에 바르면 상처를 소독하는 효과가 있습니다.",
 	Tooltip_Mallow = "섭취 시 추위와 감기의 증상을 조금 완화시켜 줍니다.",
 	Tooltip_LemonGrass = "섭취 시 식중독의 증상을 조금 완화시켜 줍니다.",
 	Tooltip_BlackSage = "통증을 조금 완화시켜 줍니다.",
@@ -272,7 +272,7 @@ Tooltip_KO = {
     Tooltip_Recipe_HockeyMaskSmashBottle = "하키 마스크를 착용해야 합니다.<br>주의하여 사용하십시오.",
     Tooltip_RemoveCurtains = "%1 하나를 얻습니다.",
     Tooltip_PickUpCurtains = "또는 왼쪽 상단의 가구 아이콘을 사용하여 커튼을 얻을 수 있습니다.",
-    Tooltip_media_item_operate = "작동시키기 위해서 주무기(왼손)이나 보조무기(오른손)에 장착해야 합니다."
+    Tooltip_media_item_operate = "작동시키기 위해서 주무기(오른손)이나 보조장비(왼손)에 장착해야 합니다."
     Tooltip_media_title = "제목",
     Tooltip_media_author = "작가",
     Tooltip_item_StackWeight = "전체 무게",

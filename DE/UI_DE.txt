@@ -167,7 +167,12 @@ UI_DE = {
     UI_NewGame_Tutorial_desc = "Die erste Anlaufstelle für alle frisch infizierten Projekt Zomboid-Überlebende...",
     UI_NewScreew_SelectDifficulty = "Bitte wähle einen Schwierigkeitsgrad, um fortzufahren.",
     UI_NewsVersion = "Version",
-    UI_News_Anim = "<H1> WILLKOMMEN ZUR OFFENEN BUILD 41 BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>   ..",
+    UI_News_Anim = "<H1> WILLKOMMEN ZUR OFFENEN BUILD 41 BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  " ..
+                    "<CENTRE> <SIZE:large> Dies ist eine "Work in Progress"-Version des größten Code- und Content-Updates, das PZ je hatte. <LINE><LINE> " ..
+                    "<CENTRE> Es wird Bugs und Balance Probleme geben. Außerdem sind stetig Performance-Optimierungen in Arbeit. <LINE><LINE> " ..
+                    "<CENTRE> Einige Features wurden temporär deaktiviert. <LINE><LINE> " ..
+                    "<CENTRE> Wenn Du auf Probleme und/oder Bugs stößt: werde nicht wütend. Engagier Dich und mach mit. <LINE><LINE> " ..
+                    "<CENTRE> Teil deine Erfahrung in unserem Forum auf theindiestone.com mit uns. <LINE><LINE> ",    
     UI_No = "NEIN",
     UI_None = "Keine",
     UI_Off = "Aus",

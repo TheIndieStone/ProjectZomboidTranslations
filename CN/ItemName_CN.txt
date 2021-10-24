@@ -94,6 +94,7 @@ ItemName_CN = {
     ItemName_Base.BeefJerky = "牛肉干",
 	ItemName_Base.BeerBottle = "瓶装啤酒",
     ItemName_Base.BeerCan = "罐装啤酒",
+	ItemName_Base.BeerCanEmpty = "啤酒罐(空)",
 	ItemName_Base.BeerEmpty = "啤酒瓶(空)",
 	ItemName_Base.BeerWaterFull = "啤酒瓶(水)",
     ItemName_Base.Bell = "手摇铃",
@@ -639,8 +640,9 @@ ItemName_CN = {
     ItemName_Base.HoodieDOWN_WhiteTINT = "卫衣",
     ItemName_Base.HoodieUP_WhiteTINT = "卫衣",
     ItemName_Base.HospitalGown = "病号服",
-    ItemName_Base.HotDrink = "马克杯(热饮)",
     ItemName_Base.Hotdog = "热狗",
+    ItemName_Base.HotDrink = "马克杯(热饮)",
+	ItemName_Base.HotDrinkRed  = "马克杯(热饮)",
 	ItemName_Base.HotDrinkSpiffo = "马克杯(热饮)",
     ItemName_Base.HotDrinkWhite = "马克杯(热饮)",
 	ItemName_Base.Hotdog = "热狗",
@@ -1511,9 +1513,6 @@ ItemName_CN = {
     ItemName_farming.WateredCanFull = "花洒喷壶(水)",
 	
 	--Add Text--
-	
-	ItemName_Base.HotDrinkRed  = "马克杯(热饮)",
-	ItemName_Base.BeerCanEmpty = "啤酒罐(空)",
 	
 	
 }
