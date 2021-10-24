@@ -45,6 +45,6 @@ If you have questions you can click the link below to get to the Discord server 
 
 * Translation Discussion Thread: https://theindiestone.com/forums/index.php?/topic/23806-official-translation-files-v2/
 
-* Discord Server: https://discord.gg/0lGvMrCiUWbasJFh
+* Discord Server: https://discord.gg/theindiestone
 
 * Game Website: https://projectzomboid.com/
