@@ -1459,4 +1459,5 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> 첫번째로: 확대할 수 있�
     IGUI_Tutorial1_Shotgun6Joypad = " <SIZE:medium> 자, 이제 마지막이네! 절대 소리지르지마. 배웠던거 기억나? 암호 코드는... 스피포(Spiffo).",
     IGUI_Tutorial1_Shotgun7Joypad = " <SIZE:medium> 훌륭해. 잘 죽어!",
     IGUI_Tutorial1_Shotgun8Joypad = " <CENTRE> <SIZE:medium> 당신은 죽었습니다! <LINE> <LINE> <SIZE:large> 주 메뉴로 돌아가서 실제 녹스 사태에서 살아남으세요!",
+    IGUI_LiteratureUI_RecordedMedia_CDs = "CD",
 }
