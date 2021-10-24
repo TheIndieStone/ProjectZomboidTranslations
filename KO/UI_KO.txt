@@ -14,8 +14,8 @@ UI_KO = {
     UI_mainscreen_continue = "이어하기",
     UI_mainscreen_exit = "나가기",
     UI_mainscreen_workshop = "Steam워크샵",
-    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41용 <2021년 9월 29일자>",
-    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41용 <2021년 9월 29일자>",
+    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41용 <2021년 10월 20일자>",
+    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41용 <2021년 10월 20일자>",
     --UI_mainscreen_version_steam = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     --UI_mainscreen_version = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     UI_Details = "갱신 정보",
@@ -1317,4 +1317,5 @@ UI_KO = {
     UI_foraging_Warning = "채집이 바뀌었습니다! 물건을 직접 찾는 방식입니다. 주위를 둘러보세요, [End] 키를 눌러서 채집을 끄고 켤 수 있습니다.",
     UI_foraging_WildFood = "먹을 것(야생)",
     UI_optionscreen_perf_3Ditems = "3D 물건 보이기",
+    UI_optionscreen_binding_ManualFloorAtk = "수동으로 바닥 공격",
 }

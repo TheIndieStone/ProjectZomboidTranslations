@@ -25,7 +25,7 @@ DynamicRadio_KO {
     AEBS_weather_0_a = "경고: 곧 올 것으로 예상되는 기상 %s... ",
     AEBS_weather_0_b = "날씨는 하루 종일 지속됩니다... ",
     AEBS_weather_0_c = "곧 지나갈 것으로 예상되는 기상 %s... ",
-    AEBS_weather_predicted = "예상됨 ",
+    AEBS_weather_predicted = "예상되는 기후 ",
     AEBS_weather_and_a = " 그리고 ",
     AEBS_weather_light_moderate = "약한 비가 내릴 예정...",
     AEBS_weather_heavy_rain = "소나기나 폭우",
