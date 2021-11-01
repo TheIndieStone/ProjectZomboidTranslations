@@ -83,6 +83,7 @@ UI_CN = {
     UI_optionscreen_zoomlevels = "缩放等级",
     UI_optionscreen_autozoom = "自动缩放",
     UI_optionscreen_panCameraWhileAiming = "瞄准时移动镜头",
+	UI_optionscreen_panCameraWhileDriving = "驾驶时移动镜头",
     UI_optionscreen_chat_transparency = "聊天窗口透明度",
     UI_optionscreen_chat_transparency_tt = "当鼠标不在多人聊天窗口上时的透明度.",
     UI_optionscreen_player1 = "玩家 1",
