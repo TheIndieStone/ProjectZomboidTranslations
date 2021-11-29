@@ -290,4 +290,6 @@ Recipes_CA = {
     Recipe_Prepare_Soup = "Preparar sopa",
     Recipe_Prepare_Stew = "Preparar estofat",
     Recipe_Prepare_Stir-fry = "Preparar saltat",
+    Recipe_Make_Fruit_Salad = "Fer ensalada de fruita",
+    Recipe_Make_Salad = "Fer ensalada",
 } 
