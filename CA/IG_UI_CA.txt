@@ -549,12 +549,12 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
     IGUI_HoldButton = "Mantín el botó i mou el cursos per a rotar l'objecte",
     IGUI_ToggleMode = "Prem "%1" per a canviar de mode.",
 
-    IGUI_PickupItem = "Arreplega objecte",
-    IGUI_PlaceObject = "Col·loca objecte",
-    IGUI_ApplyRotation = "Aplica-hi rotació",
+    IGUI_PickupItem = "Arreplegar objecte",
+    IGUI_PlaceObject = "Col·locar objecte",
+    IGUI_ApplyRotation = "Aplicar-hi rotació",
     IGUI_CycleMode = "Alternar mode",
     IGUI_CycleObject = "Alternar objectes",
-    IGUI_CycleItems = "Alternar ítems",
+    IGUI_CycleItems = "Alternar coses",
     IGUI_CycleRotation = "Alternar rotació",
 
     IGUI_NoMovable = "No movible",
