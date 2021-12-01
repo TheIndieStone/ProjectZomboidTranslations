@@ -100,7 +100,7 @@ Moodles_CA = {
 	Moodles_hyperthermia_lvl3 = "Colp de calor",
 	Moodles_hyperthermia_lvl4 = "Hipertèrmic",
 	-- Hypothermia
-	Moodles_hypothermia_lvl1 = "Fres",
+	Moodles_hypothermia_lvl1 = "Fred",
 	Moodles_hypothermia_lvl2 = "Gelat",
 	Moodles_hypothermia_lvl3 = "Congelant-te",
 	Moodles_hypothermia_lvl4 = "Hipotèrmic",
