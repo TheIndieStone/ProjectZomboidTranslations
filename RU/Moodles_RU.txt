@@ -34,7 +34,7 @@ Moodles_RU = {
 	Moodles_hungry_lvl1 = "Проголодался",
 	Moodles_hungry_lvl2 = "Голод",
 	Moodles_hungry_lvl3 = "Сильный голод",
-	Moodles_hungry_lvl4 = "Голодовка",
+	Moodles_hungry_lvl4 = "Голодание",
 	-- Panic
 	Moodles_panic_lvl1 = "Лёгкая паника",
 	Moodles_panic_lvl2 = "Паника",
@@ -61,7 +61,7 @@ Moodles_RU = {
 	Moodles_bleeding_lvl3 = "Серьёзное кровотечение",
 	Moodles_bleeding_lvl4 = "Обильное кровотечение",
 	-- Wet
-	Moodles_wet_lvl1 = "Сырость",
+	Moodles_wet_lvl1 = "Влажный",
 	Moodles_wet_lvl2 = "Слегка мокрый",
 	Moodles_wet_lvl3 = "Мокрый",
 	Moodles_wet_lvl4 = "Промокший",
@@ -83,8 +83,8 @@ Moodles_RU = {
 	-- Drunk
 	Moodles_drunk_lvl1 = "Выпивший",
 	Moodles_drunk_lvl2 = "Пьяный",
-	Moodles_drunk_lvl3 = "Надрался",
-	Moodles_drunk_lvl4 = "Полностью в гавно",
+	Moodles_drunk_lvl3 = "Нажрался",
+	Moodles_drunk_lvl4 = "Полностью в говно",
 	-- Dead
 	Moodles_dead_lvl1 = "Покойник",
 	-- Zombified
@@ -105,7 +105,7 @@ Moodles_RU = {
 	Moodles_hypothermia_lvl3 = "Замерзаете",
 	Moodles_hypothermia_lvl4 = "Гипотермия",
 	-- Windchill
-	Moodles_windchill_lvl1 = "Маленький ветер",
+	Moodles_windchill_lvl1 = "Слабый ветер",
 	Moodles_windchill_lvl2 = "Сильный ветер",
 	Moodles_windchill_lvl3 = "Ледяной ветер",
 	Moodles_windchill_lvl4 = "Ужасный ветер",
@@ -167,7 +167,7 @@ Moodles_RU = {
 	Moodles_bleed_desc_lvl3 = "Серьёзное понижение сил и скорости.",
 	Moodles_bleed_desc_lvl4 = "Смерть неизбежна.",
 	-- Wet
-	Moodles_wet_desc_lvl1 = "Слегка сыро. Дождь, или вспотели?",
+	Moodles_wet_desc_lvl1 = "Слегка влажно. Дождь, или вспотели?",
 	Moodles_wet_desc_lvl2 = "Вспотевший, или дождь усилился?",
 	Moodles_wet_desc_lvl3 = "Шанс получить простуду.",
 	Moodles_wet_desc_lvl4 = "Высокий шанс простудиться.",
@@ -201,23 +201,23 @@ Moodles_RU = {
 	-- Zombified
 	Moodles_zombified_desc_lvl1 = "Неожиданное желание есть людей.",
 	-- Food eaten
-	Moodles_foodeaten_desc_lvl1 = "Гадкий голод полностью отсутствует.",
-	Moodles_foodeaten_desc_lvl2 = "Полный живот. Добро внутри вас вырывается наружу.",
-	Moodles_foodeaten_desc_lvl3 = "Желудок доволен. Здоровье и сила помогают.",
-	Moodles_foodeaten_desc_lvl4 = "Не смогу справиться даже с печенькой.",
+	Moodles_foodeaten_desc_lvl1 = "Заморил червячка.",
+	Moodles_foodeaten_desc_lvl2 = "Полный живот. Тёплое чувство расплывается по телу.",
+	Moodles_foodeaten_desc_lvl3 = "Желудок доволен. Повышение силы и здоровья.",
+	Moodles_foodeaten_desc_lvl4 = "Больше крошки не влезет.",
 	-- Hyperthermia
 	Moodles_hyperthermia_desc_lvl1 = "Может стоит надеть более лёгкую одежду? Жажда усилилась.",
-	Moodles_hyperthermia_desc_lvl2 = "Жажда. Запотелый. Мокрый.",
-	Moodles_hyperthermia_desc_lvl3 = "Тошнота, трудно сконцентрироваться, большое потребление воды.",
+	Moodles_hyperthermia_desc_lvl2 = "Жажда. Потный. Мокрый.",
+	Moodles_hyperthermia_desc_lvl3 = "Тошнота, трудно сконцентрироваться, жажда усилилась ещё сильнее.",
 	Moodles_hyperthermia_desc_lvl4 = "Кружит голову и тошнит. Признаки гипертермии.",
 	-- Hypothermia
-	Moodles_hypothermia_desc_lvl1 = "Здесь немного холодновато...",
+	Moodles_hypothermia_desc_lvl1 = "Здесь довольно прохладно...",
 	Moodles_hypothermia_desc_lvl2 = "Вам нужно найти способ согреться.",
-	Moodles_hypothermia_desc_lvl3 = "Пока что вы в норме. Здесь ОЧЕНЬ холодно.",
-	Moodles_hypothermia_desc_lvl4 = "Тело и разум одержим холодом.",
+	Moodles_hypothermia_desc_lvl3 = "Боже правый, тут ТАК холодно.",
+	Moodles_hypothermia_desc_lvl4 = "Тело и разум одержимы холодом.",
 	-- Windchill
-	Moodles_windchill_desc_lvl1 = "Ощущается на 5-10 градусов холоднее",
-	Moodles_windchill_desc_lvl2 = "Ощущается на 10-15 градусов холоднее",
-	Moodles_windchill_desc_lvl3 = "Ощущается на 15-20 градусов холоднее, чем на самом деле",
-	Moodles_windchill_desc_lvl4 = "Температура явно ниже 20 градусов.",
+	Moodles_windchill_desc_lvl1 = "Ощущается на 5-10 градусов холоднее, чем на самом деле.",
+	Moodles_windchill_desc_lvl2 = "Ощущается на 10-15 градусов холоднее, чем на самом деле.",
+	Moodles_windchill_desc_lvl3 = "Ощущается на 15-20 градусов холоднее, чем на самом деле.",
+	Moodles_windchill_desc_lvl4 = "Ощущается явно на ниже 20 градусов, чем на самом деле.",
 }

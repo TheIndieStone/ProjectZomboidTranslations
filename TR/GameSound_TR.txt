@@ -358,4 +358,8 @@ GameSound_TR = {
     GameSound_ZombieThumpMetal = "Zombinin Metale Vurması",
     GameSound_ZombieThumpVehicle = "Zombi Araç Yumruklaması",
     GameSound_ZombieThumpWindow = "Zombinin Cama Vurması",
+    GameSound_VehicleDoorIsLocked = "Araç kapısı kilitli",
+    GameSound_StormyRifleCock = "Tüfeği kur",
+    GameSound_NewMusic_Death = "Resmi: Ölüm",
+    GameSound_CheckFishingNet = "Oltayı kontrol et",
 }
