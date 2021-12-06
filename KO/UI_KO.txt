@@ -1328,4 +1328,8 @@ UI_KO = {
     UI_foraging_UnknownItem = "알 수 없는 물건",
     UI_optionscreen_binding_Toggle Search Mode = "탐색 모드 토글 전환",
     UI_investigate_area_window_title = "지역 탐색",
+    UI_ServerOption_PVPMeleeDamageModifier_tooltip = "PVP시에 근접 공격 데미지가 추가됩니다.",
+    UI_ServerOption_PVPFirearmDamageModifier_tooltip = "PVP시에 원거리 공격 데미지가 추가됩니다.",
+    UI_foraging_DiscardedItem = "버려짐(폐기)",
+    UI_foraging_DiscardItem = "버리기(폐기)",
 }

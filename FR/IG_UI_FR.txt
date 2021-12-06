@@ -484,6 +484,7 @@ IG_UI_FR = {
     IGUI_ItemCat_Hidden = "Caché",
     IGUI_ItemCat_Household = "Ménage",
     IGUI_ItemCat_Instrument = "Instrument",
+    IGUI_ItemCat_Item = "Objet",
     IGUI_ItemCat_Junk = "Déchet",
     IGUI_ItemCat_LightSource = "Source de lumière",
     IGUI_ItemCat_Literature = "Livre",

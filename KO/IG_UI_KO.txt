@@ -1460,7 +1460,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> 첫번째로: 확대할 수 있�
     IGUI_Tutorial1_Shotgun7Joypad = " <SIZE:medium> 훌륭해. 잘 죽어!",
     IGUI_Tutorial1_Shotgun8Joypad = " <CENTRE> <SIZE:medium> 당신은 죽었습니다! <LINE> <LINE> <SIZE:large> 주 메뉴로 돌아가서 실제 녹스 사태에서 살아남으세요!",
     IGUI_LiteratureUI_RecordedMedia_CDs = "CD",
-    IGUI_ItemCat_ZedDmg = "ZedDmg"
+    IGUI_ItemCat_ZedDmg = "좀비데미지"
     IGUI_ItemCat_Tool = "도구"
     IGUI_ItemCat_Gardening = "원예 관련"
     IGUI_ItemCat_Cooking = "요리 관련"
@@ -1511,4 +1511,5 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> 첫번째로: 확대할 수 있�
     IGUI_PlayerText_Cough = "콜록!",
     IGUI_PlayerText_SneezeMuffled = "에-푸흐흡!",
     IGUI_PlayerText_CoughMuffled = "푸흐흡!",
+    IGUI_ItemCat_Item = "물건",
 }
