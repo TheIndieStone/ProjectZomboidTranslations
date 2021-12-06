@@ -189,6 +189,7 @@ IGUI_EN = {
     IGUI_perks_Electricity = "Electrical",
     IGUI_perks_Mechanics = "Mechanics",
 	-- Item category
+	IGUI_ItemCat_Item = "Item",
     IGUI_ItemCat_Accessory = "Accessory"
     IGUI_ItemCat_Ammo = "Ammo"
     IGUI_ItemCat_Appearance = "Appearance"
