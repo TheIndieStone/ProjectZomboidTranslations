@@ -1,4 +1,6 @@
 Moodles_PL = {
+    Moodles_CantSprint = "Ograniczona ruchowoœæ",
+    Moodles_CantSprint_desc = "Spowalnia Ciê ciê¿ka odzie¿, ciê¿kie plecaki lub du¿e przedmioty!",
     Moodles_angry_desc_lvl1 = "Podenerwowanie.",
     Moodles_angry_desc_lvl2 = "Bardzo z³y nastrój.",
     Moodles_angry_desc_lvl3 = "W szale.",
