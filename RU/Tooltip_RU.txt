@@ -263,4 +263,7 @@ Tooltip_RU = {
     	Tooltip_media_author = "Автор",
     	Tooltip_media_item_operate = "Держите в руке для использования."
 	Tooltip_item_StackWeight = "Общий вес",
+    	Tooltip_Map_CantEdit = "Нужен ластик, а так же ручка или карандаш.",
+    	Tooltip_CantCraftSecondLitCandle = "У вас уже есть зажжённая свеча.",
+    	Tooltip_item_empty_sack_container = "Может быть использован как контейнер, если пустой.",
 }

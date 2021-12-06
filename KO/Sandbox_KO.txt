@@ -722,4 +722,7 @@ Sandbox_KO = {
     Sandbox_FuelStationGas_option6 = "매우 많음",
     Sandbox_FuelStationGas_option7 = "가득 참",
     Sandbox_FuelStationGas_option8 = "무한",
+    Sandbox_Map = "게임 내 지도",
+    Sandbox_AllowMiniMap = "미니 맵 허용",
+    Sandbox_AllowWorldMap = "월드 맵 허용",
 }

@@ -484,4 +484,17 @@ ContextMenu_KO = {
   ContextMenu_EvolvedRecipe_HotDrinkRed = "음료",
   ContextMenu_EvolvedRecipe_HotDrinkWhite = "음료",
   ContextMenu_EvolvedRecipe_HotDrinkSpiffo = "음료",
+  ContextMenu_EvolvedRecipe_HotDrinkTea = "음료",
+    ContextMenu_EvolvedRecipe_Sandwich = "샌드위치",
+    ContextMenu_EvolvedRecipe_Burrito = "부리토",
+    ContextMenu_PlaceHalf = "절반만 놓기",
+    ContextMenu_EvolvedRecipe_Omelette = "오믈렛",
+    ContextMenu_EvolvedRecipe_Waffles = "와플"
+    ContextMenu_EvolvedRecipe_RicePan = "쌀",
+    ContextMenu_EvolvedRecipe_Pancakes = "팬케이크"
+    ContextMenu_EvolvedRecipe_Taco = "타코",
+    ContextMenu_NeedCooked = "요리 해야 합니다.",
+	ContextMenu_GetCloser = "%1 로(으로) 가까이 가야합니다.",
+    ContextMenu_EvolvedRecipe_Muffin = "머핀",
+    ContextMenu_FoodType_Chocolate = "초콜릿",
 }

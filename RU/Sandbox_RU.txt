@@ -572,4 +572,7 @@ Sandbox_RU = {
 	Sandbox_ZCrawlUnderVehicle_option5 = "Часто",
 	Sandbox_ZCrawlUnderVehicle_option6 = "Очень часто",
 	Sandbox_ZCrawlUnderVehicle_option7 = "Всегда",
+    	Sandbox_Map = "Внутриигровая карта",
+    	Sandbox_AllowMiniMap = "Включить мини-карту",
+    	Sandbox_AllowWorldMap = "Включить карту мира",
 }
