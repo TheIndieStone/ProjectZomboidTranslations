@@ -588,9 +588,8 @@ Sandbox_CN = {
     Sandbox_ZombiesFenceLunge_tooltip = "启用后,当你离翻越障碍中的僵尸太近时,翻越的僵尸会选择向你冲刺一段距离.",
     Sandbox_AttackBlockMovements = "不可移动攻击",
     Sandbox_AttackBlockMovements_tooltip = "若禁用则近战攻击不影响行走.",
-    
-	
-	--Add Text--
-	
-	
+    Sandbox_Map = "内置地图",
+    Sandbox_AllowMiniMap = "允许迷你地图",
+    Sandbox_AllowWorldMap = "允许世界地图",
+	Sandbox_AllClothesUnlocked = "所有服装已解锁",
 }
