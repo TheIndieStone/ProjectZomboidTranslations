@@ -268,4 +268,7 @@ Tooltip_ES = {
 	Tooltip_media_author = "Autor",
 	Tooltip_media_item_operate = "Equipar como primario o secundario para su uso.",
 	Tooltip_item_StackWeight = "Peso del montón",
+	Tooltip_Map_CantEdit = "Requiere una goma de borrar y un bolígrafo o un lápiz.",
+	Tooltip_CantCraftSecondLitCandle = "Ya tienes una vela encendida.",
+	Tooltip_item_empty_sack_container = "Puede utilizarse como contenedor si está vacío.",
 }
