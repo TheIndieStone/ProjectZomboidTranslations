@@ -1771,8 +1771,4 @@ ItemName_CN = {
     ItemName_farming.TomatoSeed = "番茄种子",
     ItemName_farming.WateredCan = "花洒喷壶",
     ItemName_farming.WateredCanFull = "花洒喷壶(水)",
-	
-	--Add Text--
-	
-	
 }
