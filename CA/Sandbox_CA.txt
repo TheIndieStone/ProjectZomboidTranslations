@@ -588,5 +588,8 @@ Sandbox_CA = {
     Sandbox_ZombiesFenceLunge_tooltip = "Quan s'activa, els zombis tindran una probabilitat de placar-te després de botar una tanca si hi estàs a prop.",
     Sandbox_AttackBlockMovements = "Dificultat de moviment per atac amb arma",
     Sandbox_AttackBlockMovements_tooltip = "Desactiva-la per a caminar sense interrupcions quan ataques amb armes cos a cos.",
-    
+    Sandbox_Map = "Mapa intern",
+    Sandbox_AllowMiniMap = "Permetre Mini-Mapa",
+    Sandbox_AllowWorldMap = "Permetre mapa del món",
+    Sandbox_AllClothesUnlocked = "Tota la roba desbloquejada",
 }
