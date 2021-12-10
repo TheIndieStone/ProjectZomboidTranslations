@@ -1123,7 +1123,8 @@ UI_CN = {
     UI_ServerOption_HidePlayersBehindYou_tooltip = "如果为是，自动隐藏你看不到的玩家（如僵尸）。",
 	UI_ServerOption_PVPMeleeDamageModifier_tooltip = "增加了PVP近战攻击的伤害.",
     UI_ServerOption_PVPFirearmDamageModifier_tooltip = "增加了PVP远程攻击的伤害.",
-    UI_Alarm = "闹铃",
+    UI_ServerOption_CarEngineAttractionModifier_tooltip = "修改汽车吸引僵尸的范围，较低的值可以帮助减少服务器延迟",
+	UI_Alarm = "闹铃",					   
     UI_On = "开",
     UI_Off = "关",
     UI_trait_Cook2Desc = "知晓所有烹饪食谱",
@@ -1209,7 +1210,7 @@ UI_CN = {
     UI_optionscreen_objHighlightColor = "高亮颜色",
     UI_userpanel_tickets = "票",
     UI_Scoreboard_TeleportToYou = "传送[M]",
-    UI_TradingUIHelp = " <CENTRE> <SIZE:medium>使用此UI可以安全地与他人交易.<LINE> <LINE> <SIZE：small> <LEFT> 你需要从你的库存中拖放物品至“你的报价”列表来添加交易物品,无法添加来自你背包或地面上的物品.<LINE> <LINE>当您完成你的报价后,您必须点击“确认您的报价”复选框 <LINE> 当两个玩家点击此框时,您们之一可以点击“完成交易”按钮来转移所有的物品.<LINE> <LINE> 如果其他玩家在你确认后更改了他的报价,你将需要再次确认它.",
+    UI_TradingUIHelp = " <CENTRE> <SIZE:medium>使用此UI可以安全地与他人交易.<LINE> <LINE> <SIZE：small> <LEFT> 你需要从你的库存中拖放物品至"你的报价”列表来添加交易物品,无法添加来自你背包或地面上的物品.<LINE> <LINE>当您完成你的报价后,您必须点击"确认您的报价”复选框 <LINE> 当两个玩家点击此框时,您们之一可以点击"完成交易”按钮来转移所有的物品.<LINE> <LINE> 如果其他玩家在你确认后更改了他的报价,你将需要再次确认它.",
     UI_UnZoom = "缩小",
     UI_Zoom = "放大",
     UI_Details = "更新日志",
@@ -1310,6 +1311,10 @@ UI_CN = {
     UI_NewGame_Builder = "工程师",
     UI_NewGame_Builder_desc = "以建设,探索和种田为重点,更轻松的体验.",
     UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格.",
+	UI_News_Anim2 = "<H1> Build 41 MP 测试版本 <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> 为获得最佳体验，强烈建议您在白名单服务器或 Steam 合作游戏中玩游戏 <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> 这是一个非常复杂的更新，我们只是一个小团队 <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> 请在我们改进、修复和完善过程中请多谅解 <LINE><LINE> ",
     UI_News_Anim = "<H1>欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本. <LINE><LINE> " ..
                     "<CENTRE> 会出现错误和平衡问题.优化改进正在进行中. <LINE><LINE> " ..
