@@ -1311,10 +1311,10 @@ UI_CN = {
     UI_NewGame_Builder = "工程师",
     UI_NewGame_Builder_desc = "以建设,探索和种田为重点,更轻松的体验.",
     UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格.",
-	UI_News_Anim2 = "<H1> 第一个 Build 41 MP 测试版本在这里！<BR> <TEXT> <IMAGECENTRE:media/ui/spifolockdown.png> <LINE><LINE> ",
-                     "<CENTRE> <SIZE:large> 为了获得最佳体验，强烈建议您在白名单服务器或 Steam 合作游戏中玩游戏。<LINE><LINE>",
-                     "<CENTRE> <SIZE:large> 这是一个非常复杂的更新，我们是一个小团队。<LINE><LINE> ",
-                     "<CENTRE> <SIZE:large> 在我们改进、修复和润色时请谅解。<LINE><LINE> ",
+	UI_News_Anim2 = "<H1> 第一个 Build 41 MP 测试版本就在这里！<BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> 为获得最佳体验，强烈建议您在白名单服务器或 Steam 合作游戏中玩游戏 <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> 这是一个非常复杂的更新，我们只是一个小团队 <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> 请在我们改进、修复和完善过程中请多谅解 <LINE><LINE> ",
     UI_News_Anim = "<H1>欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本. <LINE><LINE> " ..
                     "<CENTRE> 会出现错误和平衡问题.优化改进正在进行中. <LINE><LINE> " ..
