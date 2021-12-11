@@ -172,6 +172,7 @@ UI_EN = {
     UI_optionscreen_CycleContainerKey2 = "Shift",
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "Modifier key(s) held down while scrolling the mouse wheel over the inventory or loot lists, to cycle between containers.",
+    UI_optionscreen_binding_Map = "Toggle Map",
     UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
     UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
     -- Map selecter (lua)
