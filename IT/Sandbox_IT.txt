@@ -5,6 +5,7 @@ Sandbox_IT = {
     Sandbox_ActiveOnly_option3 = "Giorno",
     Sandbox_ActiveOnly_tooltip = "Regola se gli zombie sono più attivi durante il giorno o la notte. Quelli inattivi saranno più lenti e tenderanno a non inseguirti.",
     Sandbox_Advanced = "Avanzate...",
+    Sandbox_AllClothesUnlocked = "Tutti i vestiti sbloccati",
     Sandbox_AllowExteriorGenerator = "Generatore che lavora in esterno",
     Sandbox_AllowExteriorGenerator_tooltip = "Se abilitato, i generatori funzioneranno su piastrelle esterne, consentendo ad esempio di alimentare la pompa del gas.",
     Sandbox_AllowMiniMap = "Consenti mini-mappa",

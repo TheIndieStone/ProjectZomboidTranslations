@@ -990,6 +990,7 @@ UI_EN = {
     UI_ServerSettings_ListOfPresets = "List of presets:",
     UI_ServerSettings_ButtonApplyPreset = "Apply Preset",
     -- Server Option Tooltips
+    UI_ServerOption_PlayerBumpPlayer_tooltip = "Players bump/push other players when running through them.",
     UI_ServerOption_DefaultPort_tooltip = "Starting port for player data. If UDP, this is this one of two ports used. If legacy TCP, one port is used per player, starting with this port.",
     UI_ServerOption_PublicName_tooltip = "Name of server displayed in both the in-game and Steam server browser (if applicable)",
     UI_ServerOption_PublicDescription_tooltip = "The description displayed in the in-game server browser.",
@@ -1123,6 +1124,7 @@ UI_EN = {
     UI_ServerOption_HidePlayersBehindYou_tooltip = "If true, automatically hide the player you can't see (like zombies).",
     UI_ServerOption_PVPMeleeDamageModifier_tooltip = "Added damage for PVP melee attacks.",
     UI_ServerOption_PVPFirearmDamageModifier_tooltip = "Added damage for PVP ranged attacks.",
+    UI_ServerOption_CarEngineAttractionModifier_tooltip = "Modify the range at which cars attract zombies, lower values can help with server lags.",
     UI_Alarm = "Alarm",
     UI_On = "On",
     UI_Off = "Off",
@@ -1310,6 +1312,10 @@ UI_EN = {
     UI_NewGame_Builder = "Builder",
     UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
     UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style.",
+    UI_News_Anim2 = "<H1> The first Build 41 MP test build is here! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> For the best experience you are STRONGLY advised to play on whitelisted servers or in Steam co-op. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> This is a hugely complex update, and we are a small team. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ",
     UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
                     "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
@@ -1339,4 +1345,16 @@ UI_EN = {
     UI_investigate_area_window_title = "Investigate Area",
     UI_enable_search_mode = "Enable Search Mode",
     UI_disable_search_mode = "Disable Search Mode",
+    UI_SearchWindows_Tooltip = " <H1> FORAGING / SEARCH SYSTEM <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - New Foraging / Search System <LINE> " ..
+                                    "<INDENT:8> - Click the magnifying glass icon on the left side of the UI. <LINE> " ..
+                                        "<INDENT:16> - The "Investigate Area" window will show you the type of zone you are in, which affects the loot you can find. <LINE> " ..
+                                        "<INDENT:16> - If it has "?????" showing, there is nothing around to find. This is temporary until more foraging/search zones are added to the map. <LINE> <LINE> " ..
+                                    "<INDENT:8> - To start searching, click the "Enable Search Mode" Button in the "Investigate Area" window. The character will start looking for items while you walk around. <LINE> " ..
+                                    "<INDENT:8> - An eye icon will appear overhead when your character spots something. <LINE> " ..
+                                        "<INDENT:16> Keep looking around until the eye is completely visible and the icon for the item will appear. <LINE> " ..
+                                    "<INDENT:8> - Double click the item icon to pick it up. <LINE> " ..
+                                    "<INDENT:8> - Running will make it harder to find items <LINE> " ..
+                                    "<INDENT:8> - Looking around (by aiming) will increase the vision radius to help spot hard to locate items. <LINE> " ..
+                                    "<INDENT:8> - Darkness, weather, and negative character moodles (stress, injuries, etc) will affect the chance to find something",
 }

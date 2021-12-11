@@ -1478,4 +1478,5 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_PlayerText_SneezeMuffled = "Ah-fmmph!",
     IGUI_PlayerText_CoughMuffled = "fmmmph!",
     IGUI_AdminPanel_ZombiesDontAttack = "Zombies Dont Attack",
+    IGUI_AdminPanel_ShowMPInfos = "Show Multiplayer Info",
 }

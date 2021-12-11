@@ -575,4 +575,5 @@ Sandbox_RU = {
     	Sandbox_Map = "Внутриигровая карта",
     	Sandbox_AllowMiniMap = "Включить мини-карту",
     	Sandbox_AllowWorldMap = "Включить карту мира",
+	Sandbox_AllClothesUnlocked = "Вся одежда разблокирована",
 }
