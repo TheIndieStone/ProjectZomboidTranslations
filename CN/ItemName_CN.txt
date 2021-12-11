@@ -1048,7 +1048,7 @@ ItemName_CN = {
     ItemName_Base.OldTire1 = "轮胎(廉价)",
     ItemName_Base.OldTire2 = "轮胎(廉价)",
     ItemName_Base.OldTire3 = "轮胎(廉价)",
-    ItemName_Base.OmeletteRecipe = "煎蛋卷",
+    ItemName_Base.OmeletteRecipe = "煎锅(煎蛋)",
     ItemName_Base.Onigiri = "饭团",
     ItemName_Base.Onion = "洋葱",
     ItemName_Base.OnionRings = "洋葱圈",	 
@@ -1444,9 +1444,9 @@ ItemName_CN = {
     ItemName_Base.TVDinner = "快捷盒饭",
 	ItemName_Base.TVMagazine = "电视杂志",
     ItemName_Base.TableLeg = "桌腿",
-    ItemName_Base.Taco = "塔克",
-    ItemName_Base.TacoRecipe = "塔克",
-    ItemName_Base.TacoShell = "塔克皮",
+    ItemName_Base.Taco = "塔克卷饼",
+    ItemName_Base.TacoRecipe = "塔克卷饼",
+    ItemName_Base.TacoShell = "卷饼",
     ItemName_Base.Tarp = "油布",
     ItemName_Base.Teabag = "茶包",
     ItemName_Base.Teabag2 = "茶包",
@@ -1821,6 +1821,7 @@ ItemName_CN = {
 	ItemName_Base.SackCarrots = "麻袋",
 	ItemName_Base.SackPotatoes = "麻袋",
 	ItemName_Base.SackOnions = "麻袋",
-	
+	ItemName_Base.Boilersuit_Yellow = "连体工作服",
+	ItemName_Base.Shoes_Fancy = "花式皮鞋",
 	
 }
