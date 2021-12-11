@@ -338,6 +338,11 @@ Recipes_CN = {
 	Recipe_Open_Sack_of_Strawberries = "打开袋装草莓",
 	Recipe_Open_Sack_of_Tomatoes = "打开袋装番茄",
 	Recipe_Make_Halloween_Pumpkin = "制作万圣节南瓜",
-	
+	Recipe_Taco = "塔克卷饼添加",
+	Recipe_Burrito = "墨西哥卷饼添加",
+	Recipe_Muffin = "松饼烤盘添加",
+	Recipe_Omelette = "煎蛋卷添加",
+	Recipe_Pancakes = "松饼添加",
+	Recipe_Waffles = "华夫饼添加",
 	
 } 
