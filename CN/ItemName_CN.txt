@@ -1821,6 +1821,7 @@ ItemName_CN = {
 	ItemName_Base.SackCarrots = "麻袋",
 	ItemName_Base.SackPotatoes = "麻袋",
 	ItemName_Base.SackOnions = "麻袋",
-	
+	ItemName_Base.Boilersuit_Yellow = "连体工作服",
+	ItemName_Base.Shoes_Fancy = "花式皮鞋",
 	
 }
