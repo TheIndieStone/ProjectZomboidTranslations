@@ -17,8 +17,8 @@ UI_RU = {
 	UI_mainscreen_SavefileNotFound = "Это сохранение не может быть найдено, или было повреждено.",
 	UI_mainscreen_SavefileName = "Сохранение: %1",
 	UI_mainscreen_coop = "СВОЙ СЕРВЕР",
-	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.57 от 07.12.2021",
-	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.57 от 07.12.2021",
+	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.61 от 10.12.2021",
+	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.61 от 10.12.2021",
 	UI_mainscreen_InviteInGame = "Невозможно принять приглашение, когда вы в игре.",
 	UI_mainscreen_InviteMainMenu = "Пожалуйста, вернитесь в главное меню, чтобы принять приглашение.",
 	UI_mainscreen_InviteFormat = "Хозяин игры должен пригласить вас через меню «Пригласить друга» в игре.\n\n%1",
@@ -28,7 +28,7 @@ UI_RU = {
 	UI_Demo_Welcome = "<CENTRE> <SIZE:large> Добро пожаловать в демо-версию Project Zomboid! <LINE> <SIZE:medium> Здесь вы можете выживать в режиме песочницы. Правда, вы уже были укушены зомби. Никаких игровых ограничений... но у вас всего несколько дней до того, как вы умрёте. Поэтому купите игру, если вы хотите жить дольше!",
 	UI_Demo_Popup = "<CENTRE> «Я думал, что смогу засесть в Твиггис. Плохая идея. <LINE> <LINE> Я был укушен. Я не протяну долго. <LINE> <LINE> Меня зовут Бонни Кэмпбелл. И это - история моей смерти.»",
 	-- Coop screen
-	UI_coopscreen_title = "КООПЕРАТИВНАЯ ИГРА",
+	UI_coopscreen_title = "СВОЙ СЕРВЕР",
 	UI_coopscreen_account_name = "Ваш ник:",
 	UI_coopscreen_server_name = "Имя сервера:",
 	UI_coopscreen_edit_settings = "Настройка...",
@@ -536,7 +536,7 @@ UI_RU = {
 	UI_optionscreen_binding_Combat = "Режим боя",
 	UI_optionscreen_binding_UI = "Интерфейс",
 	UI_optionscreen_binding_Hotkeys = "Горячие клавиши",
-	UI_optionscreen_binding_Multiplayer = "Мультиплеер",
+	UI_optionscreen_binding_Multiplayer = "Сетевая игра",
 	UI_optionscreen_binding_NPC Interaction = "Взаимодействие с ИИ",
 	UI_optionscreen_binding_Debug = "Отладка (требуется запуск с опцией "-debug")",
 	UI_optionscreen_binding_Vehicle = "Автотранспорт",
@@ -1072,7 +1072,7 @@ UI_RU = {
 	UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "Разрешить игрокам разрушать игровые объекты кувалдой.",
 	UI_ServerOption_HoursForCorpseRemoval_tooltip = "Удаляет более старые трупы в игре, если прошло много времени.",
 	UI_ServerOption_MinutesPerPage_tooltip = "Число затраченного игрового времени на прочтение одной страницы.",
-	UI_ServerOption_nightlengthmodifier_tooltip = "Управление Темнотой ночи. 1.0 = нормальная темнота, 0.0 = ярко.",
+	UI_ServerOption_nightlengthmodifier_tooltip = "Модификатор темноты ночи. 1.0 = нормальная темнота, 0.0 = ярко.",
 	UI_ServerOption_SaveWorldEveryMinutes_tooltip = "Загруженные части карты сохраняются после того, как прошло много минут реального времени. Карта обычно сохраняется только после того, как клиенты покидают загруженную область.",
 	UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "Если true, когда часы «Удаление трупа» сработают, он также будет удалять трупы игрока.",
 	UI_Alarm = "Включить",
@@ -1094,7 +1094,7 @@ UI_RU = {
 	UI_trait_SmokerDesc = "После курения табака снижается стресс и несчастье .<br>Несчастье повышается, если долго не курить.",
 	UI_Scoreboard_Stats = "Статистика",
 	UI_mainscreen_adminpanel = "ПАНЕЛЬ АДМИНА",
-	UI_optionscreen_multiplayer = "МУЛЬТИПЛЕЕР",
+	UI_optionscreen_multiplayer = "СЕТЕВАЯ ИГРА",
 	UI_optionscreen_showUsername = "Отображать ваше имя",
 	UI_optionscreen_showUsernameTooltip = "Ваше имя будет видно всем, но вы можете отключить его на своём экране",
 	UI_optionscreen_personalTextColor = "Персональный цвет текста",
@@ -1154,6 +1154,8 @@ UI_RU = {
 	UI_ServerOptions_SpawnRegionFile5 = "Опишите строку ниже, чтобы добавить пользовательскую точку появления для этого сервера.",
 	UI_ServerOptionDesc_NightModifier = "Установите модификатор длины ночи. 1,0 = нормально, 0,5 = половина, 0,0 = нет ночи. Использование: / nightlengthmodifier <delta>",
 	UI_ServerOptionDesc_Disconnect = "Кикает клиента по номеру соединения. Номера соединений можно увидеть через /connections. Используйте: /disconnect index, напр. /disconnect 2",
+    	UI_ServerOption_PlayerBumpPlayer_tooltip = "Игроки сталкиваются с друг другом.",
+    	UI_ServerOption_CarEngineAttractionModifier_tooltip = "Модификатор расстояния на котором автомобили привлекают зомби, более низкие значения могут снизить лаги сервера.",
 	UI_userpanel_factionpanel = "Фракция",
 	UI_mainscreen_userpanel = "ПАНЕЛЬ ИГРОКА",
 	UI_PPT_Key = "Кнопка Микро.: %1",
@@ -1267,7 +1269,7 @@ UI_RU = {
 	UI_optionscreen_binding_Hotbar 3 = "Слот 3",
 	UI_optionscreen_binding_Hotbar 4 = "Слот 4",
 	UI_optionscreen_binding_Hotbar 5 = "Слот 5",
-	UI_multiplayer_Disabled = "Мультиплеер временно недоступен",
+	UI_multiplayer_Disabled = "Сетевая игра временно недоступна",
 	UI_optionscreen_Uncapped = "Без ограничений",
 	UI_optionscreen_render_rain_indoors = "Эффект дождя, когда вы в помещении",
 	UI_optionscreen_CannotChangeWhileInGame = "Не может быть изменено во время игры.",
@@ -1327,6 +1329,22 @@ UI_RU = {
     	UI_disable_search_mode = "Отключить режим поиска",
 	UI_ServerOption_PVPMeleeDamageModifier_tooltip = "Доп. урон для PVP-атак ближнего боя.",
     	UI_ServerOption_PVPFirearmDamageModifier_tooltip = "Доп. урон для огнестрельных PVP-атак.",
-    	UI_foraging_DiscardedItem = "Выкинуто",
-    	UI_foraging_DiscardItem = "Выкинуть",
+    	UI_foraging_DiscardedItem = "Отказано от",
+    	UI_foraging_DiscardItem = "Отказаться от",
+    	UI_News_Anim2 = "<H1> Первая сетевая тестовая сборка «Build 41 MP» уже тут! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Для наилучшего игрового опыта НАСТОЯТЕЛЬНО рекомендуется играть на серверах из белого списка или в кооперативном режиме Steam. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Это очень комплексное обновление, а мы небольшая команда. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Пожалуйста, будьте терпеливы, пока мы улучшаем, исправляем и полируем игру. <LINE><LINE> ",
+    	UI_SearchWindows_Tooltip = " <H1> СИСТЕМА ПОИСКА/СОБИРАТЕЛЬСТВА <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - Новая система поиска/собирательства <LINE> " ..
+                                    "<INDENT:8> - Щелкните на значок увеличительного стекла в левой части интерфейса. <LINE> " ..
+                                        "<INDENT:16> - Окно «Разведать местность» покажет вам тип местности, в которой вы находитесь, что влияет на добычу, которую вы можете найти. <LINE> " ..
+                                        "<INDENT:16> - Если окно показывает "?????" то это значит, что вокруг ничего нет. Это временно, пока на карту игры не будет добавлено больше зон для поиска/собирательства. <LINE> <LINE> " ..
+                                    "<INDENT:8> - Чтобы начать поиск, нажмите кнопку «Включить режим поиска» в окне «Разведать местность». Пока вы ходите, персонаж начнет искать предметы. <LINE> " ..
+                                    "<INDENT:8> - Значок глаза появится над головой, когда ваш персонаж что-нибудь заметит. <LINE> " ..
+                                        "<INDENT:16> Продолжайте осматриваться, пока глаз не станет полностью виден и не появится значок найденного предмета. <LINE> " ..
+                                    "<INDENT:8> - Дважды щелкните значок предмета, чтобы поднять его. <LINE> " ..
+                                    "<INDENT:8> - Бег затруднит поиск предметов. <LINE> " ..
+                                    "<INDENT:8> - Осматривайтесь (путем прицеливания), это увеличит радиус обзора, чтобы помочь вам обнаружить труднонаходимые предметы. <LINE> " ..
+                                    "<INDENT:8> - Темнота, погода и негативные настроения персонажа (стресс, травмы и т.д.) влияют на шанс что-либо найти.",
 }

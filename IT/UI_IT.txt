@@ -154,7 +154,15 @@ UI_IT = {
     UI_NewGame_Tutorial = "Tutorial",
     UI_NewGame_Tutorial_desc = "Il primo posto dove dovrebbero andare tutti i sopravvissuti di Project Zomboid appena infettati...",
     UI_NewsVersion = "Versione",
-    UI_News_Anim = "<H1> BENVENUTO NELLA BETA PUBBLICA DELLA BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  ..",
+    UI_News_Anim = "<H1> BENVENUTO NELLA BETA PUBBLICA DELLA BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>"..
+		   "<CENTRE> <SIZE:large> Questa è una versione Work in Progress del più grande aggiornamento di codice che PZ abbia mai avuto. <LINE><LINE> " ..
+		   "<CENTRE> Ci saranno bug e problemi di bilanciamento. I miglioramenti dell'ottimizzazione sono in corso. <LINE><LINE> " ..
+		   "<CENTRE> Alcune funzioni sono state temporaneamente disabilitate. <LINE><LINE> " ..
+                   "<CENTRE> Se avete problemi: non arrabbiatevi, intervenite. Fatecelo sapere sui nostri forum.",
+    UI_News_Anim2 = "<H1> La prima build di prova Build 41 MP è qui! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE>"..
+		    "<CENTRE> <SIZE:large> Per la migliore esperienza si consiglia vivamente di giocare su server whitelist o in co-op di Steam. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Questo è un aggiornamento enormemente complesso, e noi siamo una piccola squadra. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Per favore, siate comprensivi mentre miglioriamo, sistemiamo e perfezioniamo. <LINE><LINE> ",
     UI_No = "No",
     UI_None = "Nessuna",
     UI_Off = "Off",
@@ -203,6 +211,18 @@ UI_IT = {
     UI_Scoreboard_Unmute = "Muto OFF",
     UI_Scoreboard_VOIPMute = "Disabilita voce",
     UI_Scoreboard_VOIPUnmute = "Abilita voce",
+    UI_SearchWindows_Tooltip = " <H1> FORAGGIAMENTO / SISTEMA DI RICERCA <BR> <TEXT> <LINE> <LINE> " ..
+				" <SIZE:medium> - Nuovo sistema di foraggiamento/ricerca <LINE> " ..
+                                "<INDENT:8> - Clicca sull'icona della lente d'ingrandimento sul lato sinistro dell'interfaccia utente. <LINE> " ..
+                                    "<INDENT:16> - La finestra "Indaga nell'area" ti mostrerà il tipo di zona in cui ti trovi, che influisce sul bottino che puoi trovare. <LINE> " ..
+                                    "<INDENT:16> - Se ha "?????" mostrando, non c'è niente in giro da trovare. Questo è temporaneo fino a quando non vengono aggiunte alla mappa altre zone di raccolta/ricerca. <LINE> <LINE> " ..
+                                "<INDENT:8> - Per avviare la ricerca, fare clic sul pulsante "Abilita modalità di ricerca" nella finestra "Indaga area". Il personaggio inizierà a cercare oggetti mentre cammini. <LINE> " ..
+                                "<INDENT:8> - Un'icona a forma di occhio apparirà in alto quando il tuo personaggio individua qualcosa. <LINE> " ..
+                                        "<INDENT:16> Continua a guardarti intorno finché l'occhio non sarà completamente visibile e apparirà l'icona dell'oggetto. <LINE> " ..
+                                "<INDENT:8> - Fai doppio clic sull'icona dell'oggetto per raccoglierlo. <LINE> " ..
+                                "<INDENT:8> - Correre renderà più difficile trovare oggetti <LINE> " ..
+                                "<INDENT:8> - Guardarsi intorno (mirando) aumenterà il raggio visivo per aiutare a individuare gli oggetti difficili da individuare. <LINE> " ..
+                                "<INDENT:8> - L'oscurità, il tempo atmosferico e gli stati d'animo negativi (stress, ferite, ecc.) influenzeranno la possibilità di trovare qualcosa",
     UI_ServerConnectPopup_Connect = "Connetti",
     UI_ServerConnectPopup_Label = "Stai per connetterti a:",
     UI_ServerOptionDesc_AddAllWhitelist = "Aggiungi alla Lista Bianca tutti i giocatori presenti connessi con una password, così il loro account sarà protetto.",
@@ -258,6 +278,7 @@ UI_IT = {
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "Aggiungi Nomi Utente sconosciuti alla Lista Bianca quando un giocatore si unisce.  Per server con Open",
     UI_ServerOption_BloodSplatLifespanDays = "Durata della vita con macchie di sangue",
     UI_ServerOption_BloodSplatLifespanDays_tooltip = "Numero di giorni prima che i vecchi schizzi di sangue vengano rimossi. <br> La rimozione avviene quando vengono caricati blocchi di mappa. <br> Zero significa non rimuovere mai.",
+    UI_ServerOption_CarEngineAttractionModifier_tooltip = "Modifica l'intervallo in cui le auto attirano gli zombi, valori più bassi possono aiutare con i lag del server.",
     UI_ServerOption_ClientCommandFilter_tooltip = "Elenco di comandi separati da punto e virgola che non verranno scritti nel registro del server cmd.txt. \n-vehicle.*Significa non scrivere alcun comando del veicolo. \n+vehicle.installPart significa scrivere quel comando.",
     UI_ServerOption_ConstructionPreventsLootRespawn_tooltip = "Gli oggetti non si rigenereranno in zone in cui i giocatori hanno costruito.",
     UI_ServerOption_CoopMasterPingTimeout_tooltip = "Questo non è documentato e non deve essere cambiato.",
@@ -308,6 +329,7 @@ UI_IT = {
     UI_ServerOption_PauseEmpty_tooltip = "Il tempo della partita si ferma quando non ci sono giocatori nel server.",
     UI_ServerOption_PingFrequency_tooltip = "Il tempo tra il ping di ogni Porta, in secondi.",
     UI_ServerOption_PingLimit_tooltip = "Limite di ping millisecondi prima di venire espulsi dal server. Impostalo a 0 per disabilitarlo",
+    UI_ServerOption_PlayerBumpPlayer_tooltip = "I giocatori urtano/spingono altri giocatori quando li attraversano.",
     UI_ServerOption_PlayerRespawnWithOther_tooltip = "I giocatori possono rigenerarsi in gioco nella schermata di un altro giocatore.",
     UI_ServerOption_PlayerRespawnWithSelf_tooltip = "I giocatori possono rigenerarsi in gioco nel punto in cui sono morti.",
     UI_ServerOption_PlayerSafehouse_tooltip = "I non amministratori possono reclamare i rifugi.",
@@ -1321,4 +1343,5 @@ UI_IT = {
     UI_worldscreen_SavefileVehicle = "A causa della portata delle modifiche necessarie per implementare i veicoli, i salvataggi delle versioni precedenti non sono compatibili. <LINE> <LINE> Per continuare il gioco: accedi ai pre-veicoli Build 38.30 tramite la scheda beta di Steam. <LINE> <LINE> SavedGameWorldVersion: %1 CurrentWorldVersion: %2",
     UI_worldscreen_SavefileVersion = "Versione del  salvataggio del mondo : %1 <LINE> Versione corrente del mondo: %2",
     UI_worldscreen_deletesave = "Sei sicuro di voler cancellare il salvataggio?",
+    ui_optionscreen_binding_map = "Mappa",
 }

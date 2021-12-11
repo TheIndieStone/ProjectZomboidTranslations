@@ -1049,6 +1049,15 @@ IGUI_RU = {
 	IGUI_char_HairStyle = "Волосы",
 	IGUI_char_BeardStyle = "Борода",
 	IGUI_Hair_Bald = "Лысина",
+    	IGUI_Hair_Braids = "Косы",
+    	IGUI_Hair_Buffont = "Начёс",
+    	IGUI_Hair_FlatTop = "Флэттоп",
+    	IGUI_Hair_GreasedBack = "Зализанная",
+    	IGUI_Hair_GrungeyBehindEars = "Гранж (за уши)",
+    	IGUI_Hair_LongBraids = "Длинные косы",
+    	IGUI_Hair_LongBraids02 = "Более длинные косы",
+    	IGUI_Hair_MohawkFlat = "Ирокез (плоский)",
+   	IGUI_Hair_PonyTailBraids = "Косы (конский хвост) ",
 	IGUI_Hair_Picard = "Пикард",
 	IGUI_Hair_CrewCut = "Ёжик",
 	IGUI_Hair_Baldspot = "С лысиной",
@@ -1339,13 +1348,13 @@ IGUI_RU = {
     	IGUI_AdminPanel_ZombiesDontAttack = "Зомби не нападают",
 
 
-	IGUI_LiteratureUI_RecordedMedia_CDs = "CD диски",
+	IGUI_LiteratureUI_RecordedMedia_CDs = "CD",
 	IGUI_LiteratureUI_RecordedMedia_Home-VHS = "Домашнее VHS",
 	IGUI_LiteratureUI_RecordedMedia_Retail-VHS = "VHS"
     IGUI_media_dragVHS = "Перетащите VHS кассету сюда или нажмите ПКМ, чтобы вытащить её.",
-    IGUI_media_dragCD = "Перетащите CD диск сюда или нажмите ПКМ, чтобы вытащить его.",
-    IGUI_media_nocd = "- ДИСК ОТСУТСТВУЕТ -",
-    IGUI_media_notape = "- КАССЕТА ОТСУТСТВУЕТ -",
+    IGUI_media_dragCD = "Перетащите CD сюда или нажмите ПКМ, чтобы вытащить его.",
+    IGUI_media_nocd = "- CD ОТСУТСТВУЕТ -",
+    IGUI_media_notape = "- VHS ОТСУТСТВУЕТ -",
     IGUI_media_play = "Играть",
     IGUI_media_stop = "Остановить",
     IGUI_media_idle = "- НАЖМИТЕ 'ИГРАТЬ' -",
@@ -1376,5 +1385,6 @@ IGUI_RU = {
     IGUI_HaloNote_Thirst = "Жажда",
     IGUI_HaloNote_Unhappiness = "Несчастье"
     IGUI_PressSpaceContinue = "Нажмите ПРОБЕЛ чтобы продолжить.",
+    IGUI_AdminPanel_ShowMPInfos = "Показать информацию о сетевой игре",
 
 }
