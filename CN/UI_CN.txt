@@ -172,6 +172,7 @@ UI_CN = {
     UI_optionscreen_CycleContainerKey2 = "Shift",
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "在库存或战利品列表上滚动鼠标滚轮时按住循环键,以便在容器之间循环.",
+	UI_optionscreen_binding_Map = "切换地图",
     UI_ConfirmMonitorSettings_Prompt = "保留这些屏幕设置吗?",
     UI_ConfirmMonitorSettings_RevertIn = " %1 秒后恢复设置.",
     -- Map selecter (lua)
