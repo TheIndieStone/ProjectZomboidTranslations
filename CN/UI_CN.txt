@@ -990,6 +990,7 @@ UI_CN = {
     UI_ServerSettings_ListOfPresets = "可用预设列表:",
     UI_ServerSettings_ButtonApplyPreset = "应用预设",
     -- Server Option Tooltips
+	UI_ServerOption_PlayerBumpPlayer_tooltip = "玩家在穿过其他玩家时撞击/推挤其他玩家.",
     UI_ServerOption_DefaultPort_tooltip = "UDP端口,客户端连接到服务器使用的功能.",
     UI_ServerOption_PublicName_tooltip = "在公共服务器列表显示的服务器名称",
     UI_ServerOption_PublicDescription_tooltip = "在公共服务器列表显示的服务器简介.",
@@ -1344,4 +1345,16 @@ UI_CN = {
 	UI_investigate_area_window_title = "调查区域",
     UI_enable_search_mode = "启用搜索模式",
     UI_disable_search_mode = "禁用搜索模式",
+	UI_SearchWindows_Tooltip = " <H1> 觅食/搜寻系统 <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - 新的觅食/搜寻系统 <LINE> " ..
+                                    "<INDENT:8> - 单击用户界面左侧的放大镜图标 " ..
+                                        "<INDENT:16> - 窗口会显示你所在区域的类型,这会影响你能找到的物品. <LINE> " ..
+                                        "<INDENT:16> - 如果显示"?????",则周围不会找到任何东西,不过随着时间的流逝这只是暂时现象. <LINE> <LINE> " ..
+                                    "<INDENT:8> - 要开始搜索,请单击"调查区域"窗口中的"启用搜索模式"按钮,角色将在附近走动开始寻找物品. <LINE> " ..
+                                    "<INDENT:8> - 当你的角色发现某物时,头顶会出现一个眼睛图标. <LINE> " ..
+                                        "<INDENT:16> 继续环顾四周,直到眼睛完全可见并且项目的图标出现. <LINE> " ..
+                                    "<INDENT:8> - 双击物品图标将其捡起. <LINE> " ..
+                                    "<INDENT:8> - 奔跑会让你更难找到物品 <LINE> " ..
+                                    "<INDENT:8> - 环顾四周(通过瞄准)可以帮助发现难以定位的物品. <LINE> " ..
+                                    "<INDENT:8> - 黑暗,天气,负面状态(压力,受伤等)会影响找到东西的机会",
 }
