@@ -1478,6 +1478,7 @@ IGUI_CN = {
     IGUI_PlayerText_SneezeMuffled = "阿-噗!",
     IGUI_PlayerText_CoughMuffled = "吭!",
     IGUI_AdminPanel_ZombiesDontAttack = "僵尸不攻击",
+	IGUI_AdminPanel_ShowMPInfos = "显示联机玩家信息",
 	
 	--Add Text--
 	IGUI_char_ReadBook = "阅读书籍",
