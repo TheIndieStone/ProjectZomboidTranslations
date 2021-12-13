@@ -10,6 +10,7 @@ Sandbox_IT = {
     Sandbox_AllowExteriorGenerator_tooltip = "Se abilitato, i generatori funzioneranno su piastrelle esterne, consentendo ad esempio di alimentare la pompa del gas.",
     Sandbox_AllowMiniMap = "Consenti mini-mappa",
     Sandbox_AllowWorldMap = "Consenti mappa del mondo",
+	Sandbox_MapAllKnown = "Tutta scoperta dall'inizio",
     Sandbox_AnnotatedMapChance = "Frequenza mappe annotate:",
     Sandbox_AnnotatedMapChance_option1 = "Mai",
     Sandbox_AnnotatedMapChance_option2 = "Estremamente raro",
