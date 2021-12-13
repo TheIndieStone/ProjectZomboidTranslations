@@ -1512,4 +1512,6 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> 첫번째로: 확대할 수 있�
     IGUI_PlayerText_SneezeMuffled = "에-푸흐흡!",
     IGUI_PlayerText_CoughMuffled = "푸흐흡!",
     IGUI_ItemCat_Item = "물건",
+    IGUI_AdminPanel_ShowMPInfos = "멀티 플레이어 정보 보기",
+    IGUI_ItemCat_Accessory = "액세서리"
 }

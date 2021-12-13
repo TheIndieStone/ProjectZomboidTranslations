@@ -859,6 +859,7 @@ UI_IT = {
     UI_optionscreen_binding_Left = " Sinistra",
     UI_optionscreen_binding_Main Menu = " Menù Principale",
     UI_optionscreen_binding_ManualFloorAtk = "Attacco manuale al suolo",
+    UI_optionscreen_binding_Map = "Attiva/disattiva mappa",
     UI_optionscreen_binding_Melee = "Spingere/Calpestare",
     UI_optionscreen_binding_Melee = "Spingere/Calpestare",
     UI_optionscreen_binding_Multiplayer = "Multiplayer",

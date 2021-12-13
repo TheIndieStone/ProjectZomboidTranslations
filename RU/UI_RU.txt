@@ -17,8 +17,8 @@ UI_RU = {
 	UI_mainscreen_SavefileNotFound = "Это сохранение не может быть найдено, или было повреждено.",
 	UI_mainscreen_SavefileName = "Сохранение: %1",
 	UI_mainscreen_coop = "СВОЙ СЕРВЕР",
-	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.61 от 10.12.2021",
-	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.61 от 10.12.2021",
+	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.61 от 12.12.2021",
+	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.61 от 12.12.2021",
 	UI_mainscreen_InviteInGame = "Невозможно принять приглашение, когда вы в игре.",
 	UI_mainscreen_InviteMainMenu = "Пожалуйста, вернитесь в главное меню, чтобы принять приглашение.",
 	UI_mainscreen_InviteFormat = "Хозяин игры должен пригласить вас через меню «Пригласить друга» в игре.\n\n%1",
@@ -1331,6 +1331,7 @@ UI_RU = {
     	UI_ServerOption_PVPFirearmDamageModifier_tooltip = "Доп. урон для огнестрельных PVP-атак.",
     	UI_foraging_DiscardedItem = "Отказано от",
     	UI_foraging_DiscardItem = "Отказаться от",
+
     	UI_News_Anim2 = "<H1> Первая сетевая тестовая сборка «Build 41 MP» уже тут! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Для наилучшего игрового опыта НАСТОЯТЕЛЬНО рекомендуется играть на серверах из белого списка или в кооперативном режиме Steam. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Это очень комплексное обновление, а мы небольшая команда. <LINE><LINE> " ..
@@ -1347,4 +1348,6 @@ UI_RU = {
                                     "<INDENT:8> - Бег затруднит поиск предметов. <LINE> " ..
                                     "<INDENT:8> - Осматривайтесь (путем прицеливания), это увеличит радиус обзора, чтобы помочь вам обнаружить труднонаходимые предметы. <LINE> " ..
                                     "<INDENT:8> - Темнота, погода и негативные настроения персонажа (стресс, травмы и т.д.) влияют на шанс что-либо найти.",
+
+    UI_optionscreen_binding_Map = "Включить карту",
 }
