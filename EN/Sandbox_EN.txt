@@ -591,5 +591,6 @@ Sandbox_EN = {
     Sandbox_Map = "In-game Map",
     Sandbox_AllowMiniMap = "Allow Mini-Map",
     Sandbox_AllowWorldMap = "Allow World Map",
+    Sandbox_MapAllKnown = "All Known On Start",
     Sandbox_AllClothesUnlocked = "All Clothing Unlocked",
 }
