@@ -85,10 +85,8 @@
 
 [VERSION] 41.60MP - IWBUMS
 
-多人游戏已发布。上限为16人的服务器。
-本地聊天支持图标和颜色。更多信息见这里：https://projectzomboid.com/chat_colours.txt
- 
-
+多人游戏已发布。上限为16人的服务器
+本地聊天支持图标和颜色
 
 新功能
 
