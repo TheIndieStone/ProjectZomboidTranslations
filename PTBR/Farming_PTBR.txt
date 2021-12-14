@@ -15,7 +15,7 @@ Farming_PTBR = {
     Farming_Seed-bearing = "Dando sementes",
     Farming_Receding = "Murchando",
     Farming_Rotten = "Podre",
-    Farming_Destroyed = "Destruído",
+    Farming_Destroyed = "Destruída",
     -- farming info text
     -- title
     Farming_Plant_Information = "Informações da Planta",
