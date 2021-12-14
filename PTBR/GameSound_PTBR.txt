@@ -1,4 +1,4 @@
-GameSound_EN = {
+GameSound_PTBR = {
     GameSound_ButtonAdvanced = "Advanced",
     GameSound_ButtonReload = "Reload",
     GameSound_ButtonReload_tt = "Reload all sounds.txt files.",
