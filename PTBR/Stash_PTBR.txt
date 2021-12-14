@@ -1,4 +1,4 @@
-Stash_EN = {
+Stash_PTBR = {
     Stash_AnnotedMap = "Annotated Map",
     Stash_MulMap1_Text1 = "Here. Floorboards.",
     Stash_MulMap1_Text2 = "axe?",
