@@ -1,4 +1,4 @@
-Tooltip_EN = {
+Tooltip_PTBR = {
 	-- Item tooltip
 	Tooltip_food_Uncooked = "Uncooked",
 	Tooltip_food_Rotten = "Rotten",
