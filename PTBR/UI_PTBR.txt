@@ -1,4 +1,4 @@
-UI_EN = {
+UI_PTBR = {
     -- Main screen (lua) :
     UI_mainscreen_laststand = "LAST STAND",
     UI_mainscreen_option = "OPTIONS",
