@@ -1817,6 +1817,7 @@ ItemName_CN = {
 	
 	--Add Text--
 	ItemName_Base.ChocolateChips = "巧克力脆片",
+	ItemName_Base.Hotsauce = "辣酱",
 	ItemName_Base.MeatDumpling = "烧卖",
 	ItemName_Base.RefriedBeans = "炒豆",
 	ItemName_Base.ShotgunCase3 = "猎枪箱",
