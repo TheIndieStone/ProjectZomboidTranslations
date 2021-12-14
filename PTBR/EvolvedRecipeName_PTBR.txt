@@ -1,4 +1,4 @@
-EvolvedRecipeName_EN = {
+EvolvedRecipeName_PTBR = {
 	EvolvedRecipeName_Base.CannedBologneseOpen = "Canned Bolognese",
 	EvolvedRecipeName_Base.CannedCarrotsOpen = "Canned Carrots",
 	EvolvedRecipeName_Base.CannedChiliOpen = "Canned Chili",
