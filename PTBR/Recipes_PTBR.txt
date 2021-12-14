@@ -1,4 +1,4 @@
-Recipes_EN = {
+Recipes_PTBR = {
     Recipe_Add_Crafted_Trigger = "Add Crafted Trigger",
     Recipe_Add_Motion_Sensor_V1 = "Add Motion Sensor V1",
     Recipe_Add_Motion_Sensor_V2 = "Add Motion Sensor V2",
