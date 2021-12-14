@@ -1,4 +1,4 @@
-IGUI_EN = {
+IGUI_PTBR = {
 	-- All the UI text used in game
 	-- InventoryPane
     IGUI_invpanel_Type = "Type",
