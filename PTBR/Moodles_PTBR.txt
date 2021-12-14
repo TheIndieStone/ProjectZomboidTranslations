@@ -1,4 +1,4 @@
-Moodles_EN = {
+Moodles_PTBR = {
 	-- Moodle type :
 	-- Endurance
 	Moodles_endurance_lvl1 = "Moderate Exertion",
