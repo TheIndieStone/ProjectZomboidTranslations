@@ -1,4 +1,5 @@
 ZonaryQuasar
+pedrosegato
  
 HiveFuse:
 Bruno Duarte Machado (DuMa)
