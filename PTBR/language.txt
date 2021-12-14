@@ -1,4 +1,3 @@
 VERSION = 1,
-text = English,
+text = Português Brasileiro,
 charset = UTF-8,
-
