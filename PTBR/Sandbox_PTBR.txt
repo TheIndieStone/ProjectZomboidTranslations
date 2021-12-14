@@ -1,4 +1,4 @@
-Sandbox_EN = {
+Sandbox_PTBR = {
     Sandbox_SavedPresets = "Saved Presets:",
     Sandbox_SaveButton = "Save",
     Sandbox_SavePrompt = "Save this sandbox preset",
