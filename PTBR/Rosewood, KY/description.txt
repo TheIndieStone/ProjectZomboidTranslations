@@ -1,10 +1,9 @@
 Rosewood
  <LINE> <LINE>
- A short stay in Rosewood is pleasant, but a long stay?
- Well the inmates of the famous Knox Penitentiary will tell you: that�s not so fun!
+ Uma rápida estadia em Rosewood é agradável, imagina ficar por mais tempo?
+ Bom, os presos da famosa Penitenciária de Knox vão te falar: não é tão legal assim!
  <LINE> <LINE>
- Ideally situated geographically for ease of access, Rosewood is a community hub for administration
- and community services as well as a leading incarceration center.
- The county courthouse, a recently refurbished fire department and a lively law enforcement facility
- make this one of the most important towns in the area! Come visit today!
-
+ Geograficamente bem situada para um fácil acesso, Rosewood é uma comunidade referência em administração,
+ serviços comunitários e também como principal centro carcerário.
+ Um tribunal do condado, um departamento de bombeiros recém reformado e uma instalação policial bem animada
+ fazem desta uma das cidades mais importantes da região! Venha visitar ainda hoje!
