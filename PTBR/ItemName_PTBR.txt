@@ -1,4 +1,4 @@
-ItemName_EN = {
+ItemName_PTBR = {
     ItemName_Base.223Box = "Box of .223 Rounds",
     ItemName_Base.223Bullets = ".223 Round",
     ItemName_Base.223BulletsMold = ".223 Bullet Mold",
