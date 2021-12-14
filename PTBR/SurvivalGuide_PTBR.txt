@@ -1,4 +1,4 @@
-SurvivalGuide_EN = {
+SurvivalGuide_PTBR = {
 	SurvivalGuide_entrie1title = "SURVIVAL GUIDE #1 - CONTROL YOURSELF",
 	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> ZOMBOID SURVIVAL GUIDE <LINE> <SIZE:large> #1 - CONTROL YOURSELF <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> You're not going to survive long if you don't take some deep breaths, and learn the basics.",
 	SurvivalGuide_entrie1moreinfo = " <H1> MOVEMENT <BR> <TEXT> To scamper around in Project Zomboid, use the WASD keys.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
