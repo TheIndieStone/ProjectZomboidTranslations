@@ -1,4 +1,4 @@
-Farming_EN = {
+Farming_PTBR = {
     -- vegetables name (type of seed)
     Farming_Carrots = "Carrots",
     Farming_Broccoli = "Broccoli",
