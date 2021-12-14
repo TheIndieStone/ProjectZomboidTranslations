@@ -1,4 +1,4 @@
-Moveables_EN = {
+Moveables_PTBR = {
     50s_Barstool = "50s Bar Stool",
     50s_Seat = "50s Seat",
     99_Cent_Sale_Sign = "49 / 99 Cent Sign",
