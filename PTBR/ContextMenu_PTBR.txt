@@ -1,4 +1,4 @@
-ContextMenu_EN = {
+ContextMenu_PTBR = {
 	ContextMenu_Destroy = "Destroy ",
 	ContextMenu_DestroyFloor = "Destroy Floor",
 	ContextMenu_Grab = "Grab ",
