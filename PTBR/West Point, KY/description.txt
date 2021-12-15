@@ -1,0 +1,10 @@
+West Point
+ <LINE> <LINE>
+ Esteja você passeando pela praça da cidade, comendo uma de nossas tortas
+ ou apenas batendo um papo com os moradores - West Point é uma verdadeira cidadezinha americana.
+ <LINE> <LINE>
+ Não deixe essas ruas vazias, apartamentos em conta e
+ hectares de plantio lhe enganarem - este é o centro administrativo do
+ Condado de Knox. Se nosso prefeito não estiver muito ocupado com as questões públicas cotidianas
+ na prefeitura, você pode até encontrá-lo no nosso famoso Twiggy's Bar!
+ Não importa o tempo de sua estadia: West Point estará de braços abertos!
