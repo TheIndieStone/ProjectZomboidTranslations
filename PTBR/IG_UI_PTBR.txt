@@ -242,7 +242,7 @@ IGUI_PTBR = {
     IGUI_ItemCat_Paint = "Tinta"
     IGUI_ItemCat_Raccoon = "Guaxinim"
     IGUI_ItemCat_Security = "Segurança"
-    IGUI_ItemCat_SkillBook = "Livro de Habilidades"
+    IGUI_ItemCat_SkillBook = "Literatura"
     IGUI_ItemCat_Sports = "Esportes"
     IGUI_ItemCat_Tool = "Ferramenta"
     IGUI_ItemCat_ToolWeapon = "Ferramenta / Arma"
@@ -417,7 +417,7 @@ IGUI_PTBR = {
     IGUI_CraftUI_Favorite = "Favoritar",
     IGUI_CraftUI_Close = "Fechar",
 	-- Crafting category
-    IGUI_CraftCategory_Favorite = "Favoritar",
+    IGUI_CraftCategory_Favorite = "Favoritos",
     IGUI_CraftCategory_General = "Geral",
     IGUI_CraftCategory_Carpentry = "Carpintaria",
     IGUI_CraftCategory_Cooking = "Culinária",
