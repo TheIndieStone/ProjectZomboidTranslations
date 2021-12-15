@@ -266,4 +266,10 @@ Tooltip_RU = {
     	Tooltip_Map_CantEdit = "Нужен ластик, а так же ручка или карандаш.",
     	Tooltip_CantCraftSecondLitCandle = "У вас уже есть зажжённая свеча.",
     	Tooltip_item_empty_sack_container = "Может быть использован как контейнер, если пустой.",
+	Tooltip_RepairableUninstalled = "Можно отремонтировать после снятия",
+	Tooltip_GetPatchesBack = "%1 % шанс получить заплатку обратно",
+	Tooltip_PatchAllHoles = "Заштопать все дырки используя  ",
+	Tooltip_AddPaddingToAll = "Добавить заплатки, где нет дыр, используя ",
+	Tooltip_RemoveCurtains = "Даёт %1.",
+	Tooltip_PickUpCurtains = "Вы так же можете подобрать занавески с помощью «подбора мебели».",
 }

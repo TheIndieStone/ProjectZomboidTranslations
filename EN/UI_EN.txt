@@ -1363,4 +1363,5 @@ UI_EN = {
                                     "<INDENT:8> - Running will make it harder to find items <LINE> " ..
                                     "<INDENT:8> - Looking around (by aiming) will increase the vision radius to help spot hard to locate items. <LINE> " ..
                                     "<INDENT:8> - Darkness, weather, and negative character moodles (stress, injuries, etc) will affect the chance to find something",
+    UI_BadWordCheck = "The word, letters or phrase %1 cannot be used during server creation. Please try again.",
 }
