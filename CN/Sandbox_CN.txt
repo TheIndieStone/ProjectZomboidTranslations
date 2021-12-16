@@ -589,8 +589,8 @@ Sandbox_CN = {
     Sandbox_AttackBlockMovements = "不可移动攻击",
     Sandbox_AttackBlockMovements_tooltip = "若禁用则近战攻击不影响行走.",
     Sandbox_Map = "内置地图",
-    Sandbox_AllowMiniMap = "允许迷你地图",
-    Sandbox_AllowWorldMap = "允许世界地图",
-	Sandbox_MapAllKnown = "地图开局已探索",
-	Sandbox_AllClothesUnlocked = "所有服装已解锁",
+    Sandbox_AllowMiniMap = "开启迷你地图",
+    Sandbox_AllowWorldMap = "开启世界地图",
+	Sandbox_MapAllKnown = "地图全开",
+	Sandbox_AllClothesUnlocked = "服装全解锁",
 }
