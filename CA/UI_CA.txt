@@ -172,6 +172,7 @@ UI_CA = {
     UI_optionscreen_CycleContainerKey2 = "Shift",
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "Les tecles que cal prémer mentres s'usa la roda del ratolí sobre l'inventari o les llistes de saqueig per a canviar de contenidor.",
+    UI_optionscreen_binding_Map = "Fixar mapa",
     UI_ConfirmMonitorSettings_Prompt = "Mantindre aquesta configuració de pantalla?",
     UI_ConfirmMonitorSettings_RevertIn = "Retornant en %1 segons.",
     -- Map selecter (lua)
@@ -614,7 +615,7 @@ UI_CA = {
     UI_Scoreboard_Ban = "Prohibir",
     UI_Scoreboard_Teleport = "Teletransport",
     UI_Scoreboard_Mute = "Silenciar",
-    UI_Scoreboard_Unmute = "dessilenciar",
+    UI_Scoreboard_Unmute = "Dessilenciar",
     UI_Scoreboard_VOIPMute = "Silenciar veu",
     UI_Scoreboard_VOIPUnmute = "Dessilenciar veu",
     UI_Scoreboard_Close = "TANCAR",
@@ -990,6 +991,7 @@ UI_CA = {
     UI_ServerSettings_ListOfPresets = "List of presets:",
     UI_ServerSettings_ButtonApplyPreset = "Apply Preset",
     -- Server Option Tooltips
+    UI_ServerOption_PlayerBumpPlayer_tooltip = "Els jugadors xoquen/espenten els altres jugadors quan corren contra ells.",
     UI_ServerOption_DefaultPort_tooltip = "Starting port for player data. If UDP, this is this one of two ports used. If legacy TCP, one port is used per player, starting with this port.",
     UI_ServerOption_PublicName_tooltip = "Name of server displayed in both the in-game and Steam server browser (if applicable)",
     UI_ServerOption_PublicDescription_tooltip = "The description displayed in the in-game server browser.",
@@ -1123,6 +1125,7 @@ UI_CA = {
     UI_ServerOption_HidePlayersBehindYou_tooltip = "If true, automatically hide the player you can't see (like zombies).",
     UI_ServerOption_PVPMeleeDamageModifier_tooltip = "Dany afegit per a atacs PVP cos a cos.",
     UI_ServerOption_PVPFirearmDamageModifier_tooltip = "Dany afegit per a atacs PVP a distància.",
+    UI_ServerOption_CarEngineAttractionModifier_tooltip = "Modifica l'abast al qual els cotxes atrauen els zombis, valors menors poden ajudar a combatre el retard en el servidor.",
     UI_Alarm = "Alarma",
     UI_On = "Activat",
     UI_Off = "Apagat",
@@ -1310,6 +1313,10 @@ UI_CA = {
     UI_NewGame_Builder = "Constructor",
     UI_NewGame_Builder_desc = "Enfocat en la construcció, exploració i agricultura. Una experiència més calmada.",
     UI_NewGame_Sandbox_desc2 = "Disenya la teua pròpia dificultat i estil de joc.",
+    UI_News_Anim2 = "<H1> La primera versió de prova 41 MultiJugador ja ha arribat! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Per a tindre la millor experiència te recomanem FORTAMENT que jugues als servidors amb llista blanca o amb Steam co-op. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Aquesta és una actualització increïblement complexa i som un equip menut. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Per favor, sigues comprensiu mentres el millorem, solucionem i polim. <LINE><LINE> ",
     UI_News_Anim = "<H1> BENVINGUT A LA BETA PÚBLICA DE LA VERSIÓ 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Açò és un treball en progrés de la major actualització de codi que mai ha sofrit PZ. <LINE><LINE> " ..
                     "<CENTRE> Hi trobaràs bugs, errors i problemes d'equilibri. Estem fent millores en l'optimització. <LINE><LINE> " ..
@@ -1333,10 +1340,28 @@ UI_CA = {
     UI_foraging_UnknownItem = "Cosa desconeguda",
     UI_optionscreen_binding_Search Mode = "Mode de cerca",
     UI_optionscreen_binding_Toggle Search Mode = "Canviar mode de cerca",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Label = "Efecte de superposició del mode d'exploració",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "Usar solament difuminat",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Usar solament dessaturació",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Usar difuminat i dessaturació",
+    UI_optionscreen_Search_Mode_Overlay_Effect_None = "No usar cap efecte",
     UI_foraging_Warning = "L'exploració ha canviat! Ara es basa en cercar coses. Mira al teu voltant, usa la tecla End per a activar/desactivar.",
     UI_foraging_DiscardedItem = "Descartat",
     UI_foraging_DiscardItem = "Descartar",
     UI_investigate_area_window_title = "Investigar àrea",
     UI_enable_search_mode = "Activar mode de cerca",
     UI_disable_search_mode = "Desactivar mode de cerca",
+    UI_SearchWindows_Tooltip = " <H1> SISTEMA D'EXPLORACIÓ/RECERCA <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - Nou sistema d'exploració/recerca <LINE> " ..
+                                    "<INDENT:8> - Fes clic sobre la icona de la lupa al costat esquerre de la interfície d'usuari. <LINE> " ..
+                                        "<INDENT:16> - La finestra "Investigar àrea" et mostrarà a quin tipus de zona estàs, la qual cosa modifica el botí que pots trobar. <LINE> " ..
+                                        "<INDENT:16> - Si apareix com a "?????", no hi ha res al teu voltant per a trobar. Açò serà temporal fins que s'afigen noves zones d'exploració i recerca al mapa. <LINE> <LINE> " ..
+                                    "<INDENT:8> - Per a començar a cercar, fes clic en el botó "Activar mode d'exploració" en la finestra "Investigar àrea". El teu personatge començarà a cercar coses mentres camines pel món. <LINE> " ..
+                                    "<INDENT:8> - Una icona d'un ull apareixerà damunt del teu cap quan el teu personatge trobe alguna cosa. <LINE> " ..
+                                        "<INDENT:16> Continua explorant fins que l'úll siga totalment visible i, aleshores, una icona apareixerà marcant què has trobat. <LINE> " ..
+                                    "<INDENT:8> - Fes doble clic en la icona de l'objecte per a arreplegar-lo. <LINE> " ..
+                                    "<INDENT:8> - Córrer et farà més difícil trobar res <LINE> " ..
+                                    "<INDENT:8> - Mirar al teu voltant (mentres apuntes) augmentarà el teu radi de visió per a ajudar-te a trobar objectes difícils de veure. <LINE> " ..
+                                    "<INDENT:8> - La foscor, l'oratge i els estats negatius (estrés, lesions...) afectaran la teua probabilitat de trobar alguna cosa",
+    UI_BadWordCheck = "La paraula, lletres o frase %1 no es poden usar durant la creació del servidor. Per favor, intenta-ho una altra vegada.",
 }
