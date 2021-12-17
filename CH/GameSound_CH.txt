@@ -186,6 +186,7 @@ GameSound_CH = {
     GameSound_NewMusic_Barricading = "官方: 路障",
     GameSound_NewMusic_CalmBeforeTheStorm = "官方: 風暴前夕",
     GameSound_NewMusic_Chase = "官方: 追逐",
+    GameSound_NewMusic_Death = "官方：死亡",
     GameSound_NewMusic_DesperateEscape = "官方: 絕望逃生",
     GameSound_NewMusic_EchoesFromBefore = "官方: 回聲",
     GameSound_NewMusic_Everythings_Gone = "官方: 一無所有",

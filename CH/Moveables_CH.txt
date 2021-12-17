@@ -1,7 +1,7 @@
 Moveables_CH = {
-    50s_Barstool = "50年代酒吧椅子",
+    50s_Barstool = "50 年代酒吧椅子",
     50s_Seat = "50年代座椅",
-    99_Cent_Sale_Sign = "49美分促銷標誌",
+    99_Cent_Sale_Sign = "49 美分促銷標誌",
     Acacia_Tiles = "相思瓷磚",
     Administrative_Flag = "行政旗",
     Adult_Education_Sign = "成人教育標誌",
@@ -388,6 +388,7 @@ Moveables_CH = {
     Medium_Table = "中型桌",
     Merry_Go_Round = "旋轉木馬",
     Metal_Crate = "金屬箱",
+    Metal_Drum = "金屬鼓",
     Metal_Locker = "金屬儲物櫃",
     Metal_Wall_Shelves = "金屬牆壁架",
     Middle_Counter = "配膳檯C",
