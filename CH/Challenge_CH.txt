@@ -51,8 +51,8 @@ Challenge_CH = {
     Challenge_TheDescendingFog_name = "濃霧降臨",
     Challenge_WinterIsComingInfoBox = " <CENTRE> 無盡冬日再三天就來臨。 <LINE> <LINE> 穿暖和點……",
     Challenge_WinterIsComing_desc = "現在是七月中旬，卻突然涼風四起。再短短三天，史上最嚴峻的冬日就要來臨。 <LINE> <LINE> 你在孤立的地點中醒來，資源微薄，不死屍群也許受寒冷而緩慢了下來－但還是一樣致命。 <LINE> <LINE> 穿暖和點，倖存者……",
-    Challenge_WinterIsComing_name = "冬天來了",
+    Challenge_WinterIsComing_name = "凜冬將至",
     Challenge_YouHaveOneDayInfoBox = " <CENTRE> 24 小時後，重返諾克斯郡之旅將變成人間煉獄……",
     Challenge_YouHaveOneDay_desc = "諾克斯郡，Project Zomboid 感染的起點。 <LINE> <LINE> 你有一天相對安全的時間。殭屍將會大量出現，而牠們會來找你。還記得你以前是在哪生存到最後一刻的嗎？最好趕快找到那裡。 <LINE> <LINE> [ 感謝社群地圖製作者 BobHeckling 使用目前的 PZ 工具重新打造 0.1.5 版的舊地圖 ]",
-    Challenge_YouHaveOneDay_name = "你有一天",
+    Challenge_YouHaveOneDay_name = "你只有一天",
 }
