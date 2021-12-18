@@ -587,4 +587,5 @@ Sandbox_RU = {
     Sandbox_FuelStationGas_option6 = "Очень много",
     Sandbox_FuelStationGas_option7 = "Полные",
     Sandbox_FuelStationGas_option8 = "Бесконечно",
+    Sandbox_MapAllKnown = "ОТКРЫТЬ ВСЮ КАРТУ В НАЧАЛЕ ИГРЫ",
 }

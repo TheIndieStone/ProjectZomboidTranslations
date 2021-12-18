@@ -1350,4 +1350,19 @@ UI_RU = {
                                     "<INDENT:8> - Темнота, погода и негативные настроения персонажа (стресс, травмы и т.д.) влияют на шанс что-либо найти.",
 
     UI_optionscreen_binding_Map = "Включить карту",
+
+	UI_optionscreen_ModelTextureMipmaps = "Model Texture Mipmaps",
+	UI_optionscreen_ModelTextureMipmaps_tt = "Использовать текстуры с более низким разрешением на моделях при уменьшении масштаба. Это поможет улучшить производительность, но потребует больше памяти. Требуется перезагрузка после изменения.",
+	UI_worldscreen_SavefileUseBeta41_50 = "Пожалуйста, проверьте бета-версии PZ Steam для версии 41.50.",
+	UI_worldscreen_SavefileVersion = "Версия мира: %1 <LINE> Текущая версия мира: %2",
+	UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "Если включенно, игрок может ударить в ответ, если его ударит другой игрок.",
+	UI_ServerOption_MouseOverToSeeDisplayName_tooltip = "Если включенно, игрокам нужно будет навести указатель мыши на кого-нибудь, чтобы увидеть имя.",
+	UI_ServerOption_HidePlayersBehindYou_tooltip = "Если включенно, игроки которых вы не видите, будут скрываться (как зомби).",
+	UI_foraging_WildFood = "дикорастущий",
+	UI_foraging_Warning = "Собирательство изменилось! Теперь оно основано на поиске предметов. Осмотритесь, используйте клавишу End для включения/выключения поиска",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Label = "Эффекты в режиме поиска",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "Только размытие",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Только обесцвечивание",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Размытие и обесвечивание",
+    UI_optionscreen_Search_Mode_Overlay_Effect_None = "Без эффектов",
 }

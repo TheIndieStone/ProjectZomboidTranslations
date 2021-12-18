@@ -1345,7 +1345,7 @@ UI_EN = {
     UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Use Desaturation Only",
     UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Use Blur And Desaturation",
     UI_optionscreen_Search_Mode_Overlay_Effect_None = "Use No Effect",
-    UI_foraging_Warning = "Foraging has changed! It is now based on searching for items. Look around, use the End key to toggle searching on/off.",
+    UI_foraging_Warning = "Foraging has changed! It is now based on searching for items. Click the magnifying glass icon on the left side of the UI. Use the End key to toggle searching on/off.",
     UI_foraging_DiscardedItem = "Discarded",
     UI_foraging_DiscardItem = "Discard",
     UI_investigate_area_window_title = "Investigate Area",
@@ -1360,7 +1360,7 @@ UI_EN = {
                                     "<INDENT:8> - An eye icon will appear overhead when your character spots something. <LINE> " ..
                                         "<INDENT:16> Keep looking around until the eye is completely visible and the icon for the item will appear. <LINE> " ..
                                     "<INDENT:8> - Double click the item icon to pick it up. <LINE> " ..
-                                    "<INDENT:8> - Running will make it harder to find items <LINE> " ..
-                                    "<INDENT:8> - Looking around (by aiming) will increase the vision radius to help spot hard to locate items. <LINE> " ..
-                                    "<INDENT:8> - Darkness, weather, and negative character moodles (stress, injuries, etc) will affect the chance to find something",
+                                    "<INDENT:8> - Looking around (by aiming) and sneaking will increase the vision radius to help spot hard to locate items. <LINE> " ..
+                                    "<INDENT:8> - Darkness, weather, skill, item size and negative character moodles (stress, injuries, etc) will affect the chance to find something.",
+    UI_BadWordCheck = "The word, letters or phrase %1 cannot be used during server creation. Please try again.",
 }

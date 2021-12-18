@@ -1850,4 +1850,7 @@ ItemName_KO = {
     ItemName_Base.GroceryBag2 = "비닐봉투",
     ItemName_Base.GroceryBag3 = "비닐봉투",
     ItemName_Base.GroceryBag4 = "비닐봉투",
+    ItemName_Base.WafflesCraft = "와플",
+    ItemName_Base.TacoCraft = "타코",
+    ItemName_Base.BurritoCraft = "부리토",
 }

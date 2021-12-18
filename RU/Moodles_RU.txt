@@ -220,4 +220,7 @@ Moodles_RU = {
 	Moodles_windchill_desc_lvl2 = "Ощущается на 10-15 градусов холоднее, чем на самом деле.",
 	Moodles_windchill_desc_lvl3 = "Ощущается на 15-20 градусов холоднее, чем на самом деле.",
 	Moodles_windchill_desc_lvl4 = "Ощущается явно на ниже 20 градусов, чем на самом деле.",
+    -- CantSprint
+    	Moodles_CantSprint = "Ограниченное движение"
+    	Moodles_CantSprint_desc = "Тяжёлая одежда, громоздкие сумки или крупные предметы замедляют вас!"
 }

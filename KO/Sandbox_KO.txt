@@ -726,4 +726,5 @@ Sandbox_KO = {
     Sandbox_AllowMiniMap = "미니 맵 허용",
     Sandbox_AllowWorldMap = "월드 맵 허용",
     Sandbox_AllClothesUnlocked = "모든 의류 잠금 해제",
+    Sandbox_MapAllKnown = "시작 시 모든 지역 보임",
 }
