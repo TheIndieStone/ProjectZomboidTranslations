@@ -1,28 +1,22 @@
 MultiStageBuild_CH = {
-    -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "建造木牆 等級1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "升級木牆到 等級2",
-    MultiStageBuild_CreateWoodenWall_2 = "建造木牆 等級2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "升級木牆到 等級3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "升級木牆到 等級3",
-    MultiStageBuild_CreateWoodenWall_3 = "建造木牆 等級3",
-    -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "建造木窗 等級1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "升級木窗到 等級2",
-    MultiStageBuild_CreateWoodenWindow_2 = "建造木窗 等級2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "升級木窗到 等級2",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "升級木窗到 等級3",
-    MultiStageBuild_CreateWoodenWindow_3 = "建造木窗 等級3",
-    -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "建造金屬牆 等級1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "升級金屬牆到 等級2",
-    MultiStageBuild_CreateMetalWall_2 = "建造金屬牆 等級2",
-    -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "建造金屬窗 等級1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "升級金屬窗到 等級2",
-    MultiStageBuild_CreateMetalWindow_2 = "建造金屬窗 等級2",
-    -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "升級木門框到 等級2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "升級木門框到 等級3",
+    MultiStageBuild_CreateMetalWall_1 = "建造 金屬牆 等級 1",
+    MultiStageBuild_CreateMetalWall_2 = "建造 金屬牆 等級 2",
+    MultiStageBuild_CreateMetalWindow_1 = "建造 金屬窗 等級 1",
+    MultiStageBuild_CreateMetalWindow_2 = "建造 金屬窗 等級 2",
+    MultiStageBuild_CreateWoodenWall_1 = "建造木牆 等級 1",
+    MultiStageBuild_CreateWoodenWall_2 = "建造木牆 等級 2",
+    MultiStageBuild_CreateWoodenWall_3 = "建造 木牆 等級 3",
+    MultiStageBuild_CreateWoodenWindow_1 = "建造 木窗 等級 1",
+    MultiStageBuild_CreateWoodenWindow_2 = "建造 木窗 等級 2",
+    MultiStageBuild_CreateWoodenWindow_3 = "建造 木窗 等級 3",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "升級至 金屬牆 等級 2",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "升級至 金屬窗 等級 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "升級至 木門框 等級 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "升級至 木門框 等級 3",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "升級至 木牆 等級 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "升級至 木牆 等級 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "升級至 木牆 等級 3",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "升級至 木窗 等級 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "升級至 木窗 等級 2",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "升級至 木窗 等級 3",
 }
-
