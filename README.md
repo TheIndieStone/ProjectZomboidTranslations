@@ -23,7 +23,7 @@ Some languages use different encoding (See [issue #155](https://github.com/TheIn
 
 ## TV and Radio translations
 
-To translate TV and radio, refer to [this forum post](https://theindiestone.com/forums/index.php?/topic/19235-radio-translation-files/) as they aren't included in this repository yet.
+TV and Radio translations are located in "_TVRADIO_TRANSLATIONS". These cannot be tested ingame as they need to be parsed by WordZed for inclusion.
 
 ## TranslationZed
 
@@ -34,6 +34,8 @@ Windows binaries are provided, but the program can be launched on different plat
 To test the translations (or modified English texts) in your game, place the files from this repository in `…\projectzomboid\media\lua\shared\Translate`
 
 You can back up the original translation first and then replace the folder or make a copy or a symbolic/hard link to a mirror of this repository.
+
+The TV and Radio translations are an exception to this.
 
 ## Joining As Contributor
 
