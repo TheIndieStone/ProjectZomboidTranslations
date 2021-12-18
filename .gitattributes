@@ -10,7 +10,7 @@ DA/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 DE/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 EE/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 EN/*.txt text working-tree-encoding=utf-8 encoding=utf-8,
-ES/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
+ES/*.txt text working-tree-encoding=cp1250 encoding=utf-8,
 FR/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 HU/*.txt text working-tree-encoding=cp1250 encoding=utf-8,
 IT/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
@@ -25,6 +25,8 @@ RU/*.txt text working-tree-encoding=cp1251 encoding=utf-8,
 TH/*.txt text working-tree-encoding=utf-8 encoding=utf-8,
 TR/*.txt text working-tree-encoding=cp1254 encoding=utf-8,
 UA/*.txt text working-tree-encoding=cp1251 encoding=utf-8,
+
+_TVRADIO_TRANSLATIONS/*RU.txt text working-tree-encoding=cp1251 encoding=utf-8,
 
 # exception: keep the language definition/credits utf-8
 */credits.txt text working-tree-encoding=utf-8 encoding=utf-8
