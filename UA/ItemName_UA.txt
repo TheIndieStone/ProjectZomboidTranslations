@@ -1083,7 +1083,7 @@ ItemName_UA = {
 	ItemName_Base.Bag_Schoolbag_LHand = "Шкільний портфель",
 	ItemName_Base.Bag_Schoolbag_RHand = "Шкільний портфель",
 	ItemName_Base.Scissors = "Ножиці",
-	ItemName_Base.ScrapMetal = "Металолом",
+	ItemName_Base.ScrapMetal = "Металобрухт",
 	ItemName_Base.Screwdriver = "Викрутка",
 	ItemName_Base.Screws = "Болт",
 	ItemName_Base.SeedBag = "Сумка для насіння",
@@ -1598,5 +1598,9 @@ ItemName_UA = {
 	ItemName_Base.WaterMugSpiffo = "Чашка води",
 	ItemName_Base.WaterMugWhite = "Чашка води",
 	ItemName_Radio.CDplayer = "Техно ПортативнийДиск",
+	ItemName_Base.Bra_Straps_Black = "Бюстгальтер (чорний)",
+	ItemName_Base.CannedPineappleOpen = "Відкр. консерв. ананас",
+	ItemName_Base.Mov_MannequinFemale = "Манекен (жін)",
+	ItemName_Base.Mov_MannequinMale = "Манекен (чол)",
 	
 }
