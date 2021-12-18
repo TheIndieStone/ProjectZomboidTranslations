@@ -845,6 +845,7 @@ IG_UI_CH = {
     IGUI_SearchMode_Zone_Names_Nav = "路面",
     IGUI_SearchMode_Zone_Names_TownZone = "城鎮區域",
     IGUI_SearchMode_Zone_Names_TrailerPark = "拖車公園",
+    IGUI_SearchMode_Zone_Names_Unknown = "這裡沒有東西",
     IGUI_SearchMode_Zone_Names_Vegitation = "植被",
     IGUI_SeatFrontLeft = "駕駛座",
     IGUI_SeatFrontRight = "右前座",
