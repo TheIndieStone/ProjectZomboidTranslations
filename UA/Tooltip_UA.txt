@@ -269,5 +269,8 @@ Tooltip_UA = {
 	Tooltip_media_title = "Заголовок",
 	Tooltip_media_author = "Автор",
 	Tooltip_media_item_operate = "Обладнати як основний або вторинний елемент для роботи.",
+	Tooltip_Map_CantEdit = "Потрібна гумка, а також ручка або олівець.",
+	Tooltip_CantCraftSecondLitCandle = "У вас вже є запалена свічка.",
+	Tooltip_item_empty_sack_container = "Може бути використаний як контейнер, якщо порожній.",
 	
 }
