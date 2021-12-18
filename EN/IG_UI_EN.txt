@@ -1526,6 +1526,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "Categories Possible In This Area: ",
     IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "Nothing To Find Here.",
     --SearchMode Zone Names
+    IGUI_SearchMode_Zone_Names_Unknown = "Nothing Here",
     IGUI_SearchMode_Zone_Names_TownZone = "Urban Area",
     IGUI_SearchMode_Zone_Names_Vegitation = "Vegetation",
     IGUI_SearchMode_Zone_Names_Forest = "Forest",
