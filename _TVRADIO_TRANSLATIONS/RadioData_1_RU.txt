@@ -1,0 +1,377 @@
+// Localization Table
+// Language: Russian
+[Info]
+	version = 1
+	guid = b73aa63e-6286-4c32-9e48-3b0024c22b51
+	language = RU
+	translator = Alexei 'lordixi' Besedin, Pavel 'Larnest' Morozov, Humort, Lev Ivanov
+[/Info]
+
+[Translations]
+
+	//0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
+	// last record = Люди, служащие в армии США, которые буквально 4 дня назад ожидали отправки за рубеж..
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Люди, служащие в армии США, которые буквально 4 дня назад ожидали отправки за рубеж...
+
+	//1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
+	// last record = На счету третий день эвакуации Нокс.
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = На счету третий день эвакуации Нокс.
+
+	//2. ORIGINAL [#FF00B050]: When I asked whether the military sensitivity of the region...
+	// last record = Когда я спросил, имеет ли военное присутствие в регионе...
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Когда я спросил, имеет ли военное присутствие в регионе...
+
+	//3. ORIGINAL [#FF00B050]: LBMW ask the questions...
+	// last record = 'LBMW' задаёт вопросы..
+	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' задаёт вопросы...
+
+	//4. ORIGINAL [#FF00B050]: 'We don't feel safe.'
+	// last record = 'Мы не чувствуем себя в безопасности'...
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'Мы не чувствуем себя в безопасности'.
+
+	//5. ORIGINAL [#FF00B0F0]: And for the rumor-mongering that has grown around the so-called 'Knox Event'.
+	fe80180c-2253-456a-bb7e-75bb249da8ba = И за слухи, так глубоко распространившиеся про так называемое 'Происшествие Нокс'.
+
+	//6. ORIGINAL [#FF7030A0]: But there's still no official word on the true danger of the biological threat.
+	// last record = Нам до сих пор официально не доложили о реальной опасности этой биологической катастрофы
+	3fb56972-8f69-4657-b2c2-f11c96615ee9 = Нам до сих пор официально не доложили о реальной опасности этой биологической катастрофы.
+
+	//7. ORIGINAL [Black]: <bzzt> <fzzt>
+	// last record = *бжжт* *фжжт*
+	16a40ca6-c815-4b5d-bcb2-fc332b817e1f = <бжжт> <фжжт>
+
+	//8. ORIGINAL [#FF00B050]: I was getting lunch in Spiffo's.
+	// last record = Я обедал в 'Spiffo'.
+	f7d82c9d-d172-4134-a5b5-8829bc621648 = Я обедал в 'Spiffo'.
+
+	//9. ORIGINAL [Black]: <click> <bzzt> <fzzt>
+	// last record = <щёлк> <бжж> <фжжж>
+	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <щёлк> <бжжт> <фжжт>
+
+	//10. ORIGINAL [#FF00B050]: <cough> I know what people will think.
+	// last record = *кашель* Я знаю, что подумают люди.
+	b3af859d-e0d4-4ede-a185-597b785489b4 = *кашель* Я знаю, что подумают люди.
+
+	//11. ORIGINAL [#FF00B050]: <cough> For me it's over. Whatever else happens to you...
+	// last record = *кашель* Нет уже надежды для меня, как таковой. Не важно уже, что там у вас произойдёт...
+	d37f1120-58df-4e90-87a7-213c1279927d = <кашель> Нет уже надежды для меня, как таковой. Не важно уже, что там у вас произойдёт...
+
+	//12. ORIGINAL [Black]: *distant explosion*
+	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *взрыв вдалеке*
+
+	//13. ORIGINAL [#FF7030A0]: Warning shots.
+	// last record = Были просто предупреждающими выстрелами.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Были просто предупреждающими выстрелами.
+
+	//14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
+	// last record = [img=music]  If I could say... [img=music]
+	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] If I could say... [img=music]
+
+	//15. ORIGINAL [#FF7030A0]: [img=music] Anything that would make you stay. [img=music]
+	// last record = [img=music]  Anything that would make you stay. [img=music]
+	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] Anything that would make you stay. [img=music]
+
+	//16. ORIGINAL [#FF7030A0]: [img=music] You know I would. You know. [img=music]
+	// last record = [img=music]  You know I would. You know. [img=music]
+	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] You know I would. You know. [img=music]
+
+	//17. ORIGINAL [#FF7030A0]: [img=music] I never wanted to step in your way... [img=music]
+	// last record = [img=music]  I never wanted to step in your way... [img=music]
+	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] I never wanted to step in your way... [img=music]
+
+	//18. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh... [img=music]
+	// last record = [img=music]  And you... you know you love me too, ooh... [img=music]
+	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] And you... you know you love me too, ooh... [img=music]
+
+	//19. ORIGINAL [#FF7030A0]: [img=music] You love me too. [img=music]
+	fc02e25d-971d-452f-b5c3-957eaa631e0f = [img=music] You love me too. [img=music]
+
+	//20. ORIGINAL [#FF7030A0]: [img=music] You do. [img=music]
+	b093f7d5-77a2-4f39-af2a-a73964baa7b0 = [img=music] You do. [img=music]
+
+	//21. ORIGINAL [#FF7030A0]: [img=music] Sweetheart darling, you... [img=music]
+	e95407c3-883e-46fe-a612-c4dbcd39ea3b = [img=music] Sweetheart darling, you... [img=music]
+
+	//22. ORIGINAL [#FF7030A0]: [img=music] Do... [img=music]
+	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] Do... [img=music]
+
+	//23. ORIGINAL [#FF7030A0]: [img=music] You just know, right where I'll be. [img=music]
+	// last record = [img=music]  You just know, right where I'll be. [img=music]
+	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] You just know, right where I'll be. [img=music]
+
+	//24. ORIGINAL [#FF7030A0]: [img=music] Just turn around. It's me you'll see. [img=music]
+	// last record = [img=music]  Just turn around. It's me you'll see. [img=music]
+	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] Just turn around. It's me you'll see. [img=music]
+
+	//25. ORIGINAL [#FF7030A0]: [img=music] I can't lie. [img=music]
+	// last record = [img=music]  I can't lie. [img=music]
+	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] I can't lie. [img=music]
+
+	//26. ORIGINAL [#FF7030A0]: [img=music] You'll see me cry. [img=music]
+	// last record = [img=music]  You'll see me cry. [img=music]
+	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] You'll see me cry. [img=music]
+
+	//27. ORIGINAL [#FF7030A0]: [img=music] You'll know that a true heart can bleed. [img=music]
+	// last record = [img=music]  You'll know that a true heart can bleed. [img=music]
+	62afca05-35b8-4243-b686-bf160368826f = [img=music] You'll know that a true heart can bleed. [img=music]
+
+	//28. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh. [img=music]
+	// last record = [img=music]  And you... you know you love me too, ooh. [img=music]
+	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] And you... you know you love me too, ooh. [img=music]
+
+	//29. ORIGINAL [#FF7030A0]: ... by The Question.
+	// last record = … от группы 'The Question'
+	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = … от группы 'The Question'.
+
+	//30. ORIGINAL [#FFFFC000]: [img=music] ... to get a dime stuck in your shoe. [img=music]
+	// last record = [img=music] ...to get a dime stuck in your shoe. [img=music]
+	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ... to get a dime stuck in your shoe. [img=music]
+
+	//31. ORIGINAL [#FFFFC000]: [img=music] And now yessir I'm sinking... [img=music]
+	// last record = [img=music] And now yessir I'm sinking.. [img=music]
+	79b24afa-80a6-4491-ac53-4a85b0eccd26 = [img=music] And now yessir I'm sinking... [img=music]
+
+	//32. ORIGINAL [#FFFFC000]: [img=music] My boy once asked me, before he went away. [img=music]
+	// last record = [img=music] My boy once asked me, before he went away. [img=music]
+	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] My boy once asked me, before he went away. [img=music]
+
+	//33. ORIGINAL [#FF7030A0]: A military perimeter set up almost overnight.
+	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = Военный периметр был установлен практически той же ночью.
+
+	//34. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
+	4f5162dd-e620-40e0-813e-2841fd354881 = Я бы тоже был подавлен, если б пока я спал вокруг меня воздвигли военный кордон!
+
+	//35. ORIGINAL [#FF00B050]: So let's support our boys, people.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Поэтому, давайте поможем этим ребятам.
+
+	//36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
+	// last record = 'И способность реагировать на подобные события утрачена уже давно'.
+	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = 'И способность реагировать на подобные события утрачена уже давно'.
+
+	//37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
+	// last record = Люди просто не знают что делать. И военные не знают, что им делать с этими людьми.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = Люди просто не знают что делать. И военные не знают, что им делать с этими людьми.
+
+	//38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
+	// last record = Армия сейчас стоит на страже, позволяя нам чувствовать себя в безопасности.
+	3433cccb-5d67-467b-89f2-bcb69677b093 = Армия сейчас стоит на страже, позволяя нам чувствовать себя в безопасности.
+
+	//39. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
+	// last record = После этого я смогу предоставить больше ответов.
+	a33a9161-878b-47fc-a084-549ee52bbc6a = После этого я смогу предоставить больше ответов...
+
+	//40. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
+	// last record = Из-за угрозы распространения событий Происшествия Нокс...
+	184e6db0-da2b-4262-abac-cc0dc1680fe1 = Из-за угрозы распространения событий Происшествия Нокс...
+
+	//41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
+	// last record = Сегодня произошли столкновения с применением силы между молодёжью в масках...
+	ce98252a-4e30-4532-b46e-bdf328380815 = Сегодня произошли столкновения с применением силы между молодёжью в масках...
+
+	//42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
+	// last record = Отряд пехотинцев на Таймс-сквер и несколько танков на Майами-бич.
+	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = Отряд пехотинцев на Таймс-сквер и несколько танков на Майами-бич.
+
+	//43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
+	// last record = В руки 'Triple-N' попали жуткие кадры того, что происходит в Зоне Отчуждения.
+	da14d0d0-b5e4-493d-bc55-4424e50cd975 = В руки 'Triple-N' попали жуткие кадры того, что происходит в Зоне Отчуждения.
+
+	//44. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
+	// last record = Мы, работники 'Triple-N', думаем о том же, о чём и вы.
+	c99cd365-ac9d-463d-be67-2901750c1595 = Мы, работники 'Triple-N', думаем о том же, о чём и вы.
+
+	//45. ORIGINAL [#FF7030A0]: If the fever didn't get to you...
+	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = Если лихорадка не добралась до вас...
+
+	//46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
+	// last record = Добро пожаловать на Ночную беседу. С вами до самого рассвета! Я Дон Стивенсон.
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Добро пожаловать на Ночную беседу. С вами до самого рассвета! Я Дон Стивенсон.
+
+	//47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
+	// last record = … во мне просыпается надежда в том, что они и впрямь сделали выводы из эпидемии в Роли.
+	109f693d-3ebc-451d-97f0-4fd6d093f26e = Я понимаю, что они и впрямь сделали выводы из эпидемии в Роли.
+
+	//48. ORIGINAL [#FF7030A0]: Thank you Richard. Keep the reports coming.
+	// last record = Спасибо Ричард. Будем ждать свежих сообщений.
+	3f18f815-7017-41b2-ad00-6ddea2a2b19d = Спасибо Ричард. Будем ждать свежих сообщений.
+
+	//49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
+	// last record = Людям совсем худо, они погружены в панику и замешательство.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = Людям совсем худо, они погружены в панику и замешательство.
+
+	//50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
+	// last record = Происшествие Нокс всех нас держит в волнении.
+	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = Происшествие Нокс всех нас держит в волнении.
+
+	//51. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
+	// last record = Нам сказали, что это делается ради 'отбрасывания сомнений'.
+	a5cd6429-d856-4662-9729-c9175f237540 = Нам сказали, что это делается ради 'отбрасывания сомнений'.
+
+	//52. ORIGINAL [#FF00B050]: They don't want to risk more riots.
+	// last record = Они не хотят давать повод ещё большим беспорядкам.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = Они не хотят давать повод ещё большим беспорядкам.
+
+	//53. ORIGINAL [#FF7030A0]: FUCK THIS SHIT!
+	// last record = ДА ПОШЛО ОНО ВСЁ НАХУЙ.
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = ДА ПОШЛО ОНО ВСЁ НАХУЙ!
+
+	//54. ORIGINAL [#FFFFC000]: There were thousands of infected, and they left their mark.
+	// last record = Зараженных были тысячи, и они оставили свои отметки.
+	20a8ee60-553a-45ce-add3-dbe20fd5555f = Зараженных были тысячи, и они оставили свои отметки.
+
+	//55. ORIGINAL [#FFFFC000]: People who sustained infected attacks in yesterday's chaotic scenes.
+	// last record = Люди пережили вчерашнее нападение зараженных.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Люди пережили вчерашнее нападение зараженных.
+
+	//56. ORIGINAL [#FFFFC000]: That can't be true.
+	// last record = Этого не может быть.
+	de1a7a5c-e799-4a92-b942-d7683f46449a = Этого не может быть.
+
+	//57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
+	// last record = Это и есть основа моего верования в то, что существует другой мир.
+	47c01a90-d68e-483a-9271-24b7e7e60178 = $15.99, включая почтовые расходы и упаковку!
+
+	//58. ORIGINAL [#FF7030A0]: You know why we're here...
+	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = Вы все знаете, зачем мы здесь...
+
+	//59. ORIGINAL [#FF00B050]: <sigh>
+	4d474699-6df3-4b02-beec-bdea6b0a8e55 = <вздох>
+
+	//60. ORIGINAL [#FFFFC000]: Take a trowel. A shovel... hell maybe even your bare hands.
+	// last record = Возьмите садовый совок.
+	d5a7a459-120c-46d2-915a-84ba1453d013 = Возьмите садовый совок. Или лопату... боже, управитесь даже голыми руками.
+
+	//61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = Куда бы я ни пошёл, хорошие друзья в один голос говорят 'Спасибо, Доктор Пи Пиркинс!'.
+
+	//62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
+	// last record = Так вот, я встала на днях на весы.
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = Так вот, я встала на днях на весы.
+
+	//63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
+	// last record = Четыре гвоздя! Четыре доски! Одна ручка! Одна петля!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Четыре гвоздя! Четыре доски! Одна ручка! Две петли!
+
+	//64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
+	// last record = Возьмите три любые деревяшки, можете взять даже доски.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Возьмите три любые деревяшки, можете взять даже доски.
+
+	//65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Я даже и представить не мог, что Скандинавия - такое замечательное место!
+
+	//66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
+	// last record = Как дела? Вы на 'Кулинарном Шоу'!
+	85b904e0-14e3-4daf-b354-33a7eb31df83 = Как дела? Вы на 'Кулинарном Шоу'!
+
+	//67. ORIGINAL [#FFFFC000]: I'm shutting the whole Paranormal department down!
+	// last record = Я прикрываю весь Ваш паранормальный отдел!
+	819bf863-8eaf-4521-a433-e2f536815951 = Я прикрываю весь Ваш паранормальный отдел!
+
+	//68. ORIGINAL [#FF00B0F0]: [img=music] Jaunty music [img=music]
+	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] Бойкая музыка. [img=music]
+
+	//69. ORIGINAL [#FF00B0F0]: [img=music] Orchestral music [img=music]
+	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] Играет оркестр. [img=music]
+
+	//70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
+	// last record = 'Доктор Ойдс' - это последний фильм-блокбастер на больших экранах...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = 'Доктор Ойдс' - это последний фильм-блокбастер на больших экранах...
+
+	//71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
+	// last record = Как вы готовитесь к своей роли Доктора Ойдс?
+	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Как вы готовитесь к своей роли Доктора Ойдс?
+
+	//72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
+	// last record = 'Доктор Ойдс' - уже на экранах кинотеатров!
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = 'Доктор Ойдс' - уже на экранах кинотеатров!
+
+	//73. ORIGINAL [Black]: *bang!* *bang*
+	// last record = <бах!>  <бах>
+	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *бах!* *бах*
+
+	//74. ORIGINAL [Black]: *Applause in Courtroom*
+	// last record = <аплодисменты в зале суда>
+	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *аплодисменты в зале суда*
+
+	//75. ORIGINAL [#FF00B050]: Paul, you're on 2000 dollars! Well done!
+	// last record = Пол, Вы сейчас на отметки в $2000! Поздравляем!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = Пол, Вы сейчас на отметки в $2000! Поздравляем!
+
+	//76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
+	// last record = Итак $3000 и Ваш ответ 'Ньюкасл'.
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Итак $3000 и Ваш ответ 'Ньюкасл'.
+
+	//77. ORIGINAL [#FF00B050]: Robert Johnson, you're on 1000 dollars! Well done!
+	// last record = Роберт Джонсон, Вы добрались до отметки $1000! Поздравляем!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Роберт Джонсон, Вы добрались до отметки $1000! Поздравляем!
+
+	//78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
+	c9b01cec-94a2-4fb0-95d2-0677e237538f = Я вижу то, что дурак, отправивший Герцога Старого Мира в пучину Хаоса, находится среди нас?
+
+	//79. ORIGINAL [Red]: Sponsored by Spiffo's?!
+	980e2e5d-fb55-417d-a38d-7d08838abdaf = Спонсором является Спиффо!?
+
+	//80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = И Закари, ты хочешь покачаться на качелях?
+
+	//81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
+	// last record = А может вас интересует этот элегантный швейцарский фондю? $45.99
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = А может вас интересует этот элегантный швейцарский фондю? $33.99
+
+	//82. ORIGINAL [Yellow]: I... Die!
+	72ff543a-10c4-409f-a7c2-9603dc521c11 = Я… умираю!
+
+	//83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = Молли, это крот? Не у него ли нос дёргается так восхитительно?
+
+	//84. ORIGINAL [#FF00B050]: Let's help your little friend here...
+	// last record = Давайте поможем вашему маленькому другу...
+	845988d3-0acf-464a-952e-b0b05050ad46 = Давайте поможем вашему маленькому другу...
+
+	//85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
+	// last record = $15.99, включая почтовые расходы!
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = $15.99, включая почтовые расходы!
+
+	//86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
+	// last record = Я ПРОШУ ТОЛЬКО ОБ ОДНОМ, ВСПОМИНАЙ ОБО МНЕ, КОГДА ТЕМНЕЕТ НЕБО.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = Я ПРОШУ ТОЛЬКО ОБ ОДНОМ, ВСПОМИНАЙ ОБО МНЕ, КОГДА ТЕМНЕЕТ НЕБО.
+
+	//87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
+	3707534c-49f2-4dc1-bbff-6ef689a945e7 = Флафифут Пушистый Зайчик? Ты когда-нибудь видел зайчика столь пушистого?
+
+	//88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
+	// last record = 'LBMW' сегодня утром: рекомендуют нам 'оставаться дома'.
+	1046a459-6ead-4145-acc5-192fa0e4398d = 'LBMW' сегодня утром: рекомендуют нам 'оставаться дома'.
+
+	//89. ORIGINAL [#FF00B050]: You'll just need to find a way to distract the...
+	// last record = Вам лишь надо будет найти способ отвлечь эту...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Вам лишь надо будет найти способ отвлечь эту...
+
+	//90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
+	// last record = Ну, я знаю куда я иду?
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Ну, я знаю куда я иду!
+
+	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = Приезжайте в 'I *сердечко* Wok and Rolls' сегодня!
+
+	//92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
+	// last record = [img=music]  Do the robot dance [img=music]
+	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] Do the robot dance [img=music]
+
+	//93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
+	// last record = 'Доктор Ойдс', Рейтинг Универсальный.
+	75fa01e1-5c17-493a-b539-1d009ade45f2 = 'Доктор Ойдс', Рейтинг Универсальный.
+
+	//94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
+	// last record = Спасибо, что просите своего доктора рекомендовать вам 'Incontileve'.
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = Спасибо, что просите своего доктора рекомендовать вам 'Incontileve'.
+
+	//95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
+	// last record = Я Джо МакКензи и со мной 'Pony Roam-O' страны Нокс.
+	77383a36-ae45-466d-9c4c-78c036d2862f = Я Джо МакКензи и я заведую 'Pony Roam-O' округа Нокс.
+
+	//96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
+	// last record = Наши лошади - лучшее, что может предложить наша страна.
+	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Наши лошади - лучшее, что может предложить наша страна.
+
+[/Translations]
