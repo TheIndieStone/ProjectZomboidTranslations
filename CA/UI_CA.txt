@@ -1313,7 +1313,7 @@ UI_CA = {
     UI_NewGame_Builder = "Constructor",
     UI_NewGame_Builder_desc = "Enfocat en la construcció, exploració i agricultura. Una experiència més calmada.",
     UI_NewGame_Sandbox_desc2 = "Disenya la teua pròpia dificultat i estil de joc.",
-    UI_News_Anim2 = "<H1> La primera versió de prova 41 MultiJugador ja ha arribat! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+    UI_News_Anim2 = "<H1> Per fi ha arribat la primera beta de la versió 41 amb multijugador! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Per a tindre la millor experiència te recomanem FORTAMENT que jugues als servidors amb llista blanca o amb Steam co-op. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Aquesta és una actualització increïblement complexa i som un equip menut. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Per favor, sigues comprensiu mentres el millorem, solucionem i polim. <LINE><LINE> ",
