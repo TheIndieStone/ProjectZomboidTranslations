@@ -1,8 +1,8 @@
 ContextMenu_PTBR = {
     ContextMenu_AddBattery = "Adicionar Bateria",
-    ContextMenu_AddCompost = "Adicionar Adubo",
+    ContextMenu_AddCompost = "Adicionar adubo",
     ContextMenu_AddCompostItem = "%1 (adicionar %2%)",
-    ContextMenu_AddLightbulb = "Adicionar Lâmpada",
+    ContextMenu_AddLightbulb = "Adicionar lâmpada",
     ContextMenu_AddPadding = "Adicionar remendo",
     ContextMenu_AddPaddingAll = "Adicionar remendo para todos usando",
     ContextMenu_AddRandom = "Adicionar %1 aleatório(a)",
