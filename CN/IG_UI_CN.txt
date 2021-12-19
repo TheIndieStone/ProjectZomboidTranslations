@@ -1526,6 +1526,7 @@ IGUI_CN = {
     IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "可能的区域类别: ",
     IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "这里什么也找不到.",
     --SearchMode Zone Names
+	IGUI_SearchMode_Zone_Names_Unknown = "那里什么也没有",
     IGUI_SearchMode_Zone_Names_TownZone = "市区",
     IGUI_SearchMode_Zone_Names_Vegitation = "草地",
     IGUI_SearchMode_Zone_Names_Forest = "森林",
