@@ -1333,8 +1333,8 @@ UI_KO = {
     UI_foraging_DiscardedItem = "버려짐(폐기)",
     UI_foraging_DiscardItem = "버리기(폐기)",
     UI_optionscreen_binding_Map = "지도 보기",
-    UI_ServerOption_PlayerBumpPlayer_tooltip = "Players bump/push other players when running through them.",
-    UI_ServerOption_CarEngineAttractionModifier_tooltip = "Modify the range at which cars attract zombies, lower values can help with server lags.",
+    UI_ServerOption_PlayerBumpPlayer_tooltip = "플레이어가 달릴 시 다른 플레이어와 부딪히거나 밀칠 수 있습니다.",
+    UI_ServerOption_CarEngineAttractionModifier_tooltip = "자동차가 좀비를 유인하는 범위를 수정합니다, 낮은 값은 서버 지연에 도움이 됩니다.",
     UI_News_Anim2 = "<H1> 첫 41 빌드 멀티테스트가 시작되었습니다! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> 최상의 환경에서 플레이 할 수 있는 스팀 협동 서버나 화이트리스트 서버로 플레이 하시는 걸 적극 권장드립니다. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 이것은 아주 어려운 업데이트이며, 우리는 작은 팀으로 개발하고 있습니다. <LINE><LINE> " ..
@@ -1351,4 +1351,9 @@ UI_KO = {
                                     "<INDENT:8> - 달릴 경우 아이템 찾기가 어려워집니다. <LINE> " ..
                                     "<INDENT:8> - "조준"을 하며 주위를 둘러보면 탐색 반경이 증가하여 물건을 찾기 쉬워집니다. <LINE> " ..
                                     "<INDENT:8> - 어두움, 날씨와 부정적인 무들 (스트레스, 부상 등)은 물건을 찾을 때 큰 지장을 줍니다. ",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Label = "탐색 모드 화면 효과",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "뿌연 효과만 사용",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "색 변화만 사용",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Both = "뿌연 효과와 색 변화 사용",
+    UI_optionscreen_Search_Mode_Overlay_Effect_None = "아무런 효과 사용하지 않음",
 }

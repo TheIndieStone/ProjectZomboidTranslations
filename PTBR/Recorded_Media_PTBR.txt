@@ -812,6 +812,7 @@ RM_a8942be4-6e8e-442a-8e43-63db238a2b11 = "...pois foi aí que Jeová confundiu 
 RM_ca29a3bb-8ca9-4279-8cfc-24746306d43b = "CD: Leituras Bíblicas - Sermão da Montanha"
 RM_f4bc187e-0633-4fa0-bcc1-3565d04ca0cb = "Leituras Bíblicas - Sermão da Montanha"
 RM_3a718df6-6d42-4944-94c7-92fdfac8f943 = "E vendo a multidão, Ele subiu à montanha e disse..."
+
 RM_8f86a64b-0011-411a-90c7-320aece72da7 = "Bem-aventurados os pobres de espírito: porque deles é o Reino dos céus."
 RM_d7795650-52a2-40a5-86be-6c7b1cd54100 = "Bem-aventurados os que choram: porque eles serão consolados."
 RM_b37d82da-1d40-4a76-9ce4-d47f689b5994 = "Bem-aventurados os mansos: porque eles herdarão a terra."

@@ -498,5 +498,5 @@ ContextMenu_KO = {
     ContextMenu_EvolvedRecipe_Muffin = "머핀",
     ContextMenu_FoodType_Chocolate = "초콜릿",
     ContextMenu_EvolvedRecipe_Sandwich Baguette = "샌드위치",
-    ContextMenu_FoodType_Rice = "Rice",
+    ContextMenu_FoodType_Rice = "쌀",
 }

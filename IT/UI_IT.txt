@@ -1350,4 +1350,5 @@ UI_IT = {
     UI_worldscreen_SavefileVersion = "Versione del  salvataggio del mondo : %1 <LINE> Versione corrente del mondo: %2",
     UI_worldscreen_deletesave = "Sei sicuro di voler cancellare il salvataggio?",
     ui_optionscreen_binding_map = "Mappa",
+    UI_BadWordCheck = "La parola, le lettere o la frase %1 non possono essere utilizzate durante la creazione del server. Per favore riprova.",
 }

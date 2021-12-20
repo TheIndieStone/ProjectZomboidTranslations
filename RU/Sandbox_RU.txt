@@ -587,4 +587,11 @@ Sandbox_RU = {
     Sandbox_FuelStationGas_option6 = "Очень много",
     Sandbox_FuelStationGas_option7 = "Полные",
     Sandbox_FuelStationGas_option8 = "Бесконечно",
+    Sandbox_MapAllKnown = "ОТКРЫТЬ ВСЮ КАРТУ В НАЧАЛЕ ИГРЫ",
+	Sandbox_WorldItemRemovalList = "СПИСОК УДАЛЯЕМЫХ ПРЕДМЕТОВ",
+	Sandbox_WorldItemRemovalList_tooltip = "Разделите запятой предметы, которые будут удалены по истечению «ВРЕМЕНИ ДЛЯ УДАЛЕНИЯ»",
+	Sandbox_HoursForWorldItemRemoval = "ВРЕМЯ ДЛЯ УДАЛЕНИЯ",
+	Sandbox_HoursForWorldItemRemoval_tooltip = "Кол-во часов до удаления с момента выбрасывания предмета на землю. Предметы удаляются при следующей загрузке части карты. Ноль означает, что предметы не будут удаляться.",
+	Sandbox_ItemRemovalListBlacklistToggle = "«СПИСОК УДАЛЯЕМЫХ ПРЕДМЕТОВ» КАК БЕЛЫЙ ЛИСТ",
+	Sandbox_ItemRemovalListBlacklistToggle_tooltip = "Если активировать, то предметы в «СПИСКЕ УДАЛЯЕМЫХ ПРЕДМЕТОВ» *не* будут удалены.",
 }
