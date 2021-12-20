@@ -21,7 +21,7 @@ UI_PTBR = {
     UI_mainscreen_InviteInGame = "Convites não podem ser aceitos dentro do jogo.",
     UI_mainscreen_InviteMainMenu = "Por favor volte ao menu principal para aceitar o convite..",
     UI_mainscreen_InviteFormat = "O host deve te convidar pelo Convidar Amigos em jogo.\n\n%1",
-    UI_mainscreen_InviteFromSteamToNoSteam = "Você não consegue entrar em um jogo steam se estiver -nosteam.",
+    UI_mainscreen_InviteFromSteamToNoSteam = "Você não consegue entrar em um jogo steam se estiver usando -nosteam.",
     UI_mainscreen_TutorialControllerWarn = "O tutorial atualmente não funciona com um controle. <LINE> <LINE> Começar o tutorial de qualquer jeito?",
     -- Coop screen
     UI_coopscreen_title = "HOST",
@@ -29,7 +29,7 @@ UI_PTBR = {
     UI_coopscreen_server_name = "Nome do server:",
     UI_coopscreen_edit_settings = "Configurar...",
     UI_coopscreen_server_memory = "Memória do servidor:",
-    UI_coopscreen_server_stopped = "Server foi parado durante carregamento (%1)",
+    UI_coopscreen_server_stopped = "Servidor foi parado durante carregamento (%1)",
     UI_coopscreen_softreset = "RESET PARCIAL",
     UI_coopscreen_softreset_prompt = "Um Reset Parcial faz tudo isso em um servidor:\n\nMantém prédios e construções.\nRemove itens de recipientes e do chão.\nRemove Corpos zumbis mortos e jogadores zumbificados.\nRemove manchas de sangue.\nReseta o tempo.\nReseta os alarmes.\n\nIsso pode levar alguns minutos.\nResetar Parcialmente o Servidor?",
     UI_coopscreen_softreset_status = "Resetando servidor parcialmente...",
@@ -1035,7 +1035,7 @@ UI_PTBR = {
     UI_ServerOption_DisableSafehouseWhenPlayerConnected_tooltip = "Faz com que refúgios se comportem como prédios normais quando um jogador membro estiver logado.",
     UI_ServerOption_DiscordChannelID_tooltip = "ID do canal do Discord. Não obrigatório. Use em caso de problemas com o nome do canal",
     UI_ServerOption_DiscordChannel_tooltip = "Nome do canal do Discord",
-    UI_ServerOption_DiscordEnable_tooltip = "Abilitar integração com o Discord",
+    UI_ServerOption_DiscordEnable_tooltip = "Habilitar integração com o Discord",
     UI_ServerOption_DiscordToken_tooltip = "Token de Acesso para bot do Discord",
     UI_ServerOption_DisplayUserName_tooltip = "Mostra o nome de usuário acima da cabeça dos jogadores dentro do jogo.",
     UI_ServerOption_DoLuaChecksum_tooltip = "Kickar usuários cujos arquivos de jogo não batam com os do Servidor",
@@ -1266,8 +1266,8 @@ UI_PTBR = {
     UI_chat_context_disable = "Desabilitar",
     UI_chat_context_disable_tags = "Desabilitar tags",
     UI_chat_context_disable_timestamp = "Desabilitar hora",
-    UI_chat_context_enable = "Abilitar",
-    UI_chat_context_enable_tags = "Abilitar tags",
+    UI_chat_context_enable = "Habilitar",
+    UI_chat_context_enable_tags = "Habilitar tags",
     UI_chat_context_enable_timestamp = "Mostrar hora",
     UI_chat_context_font_large = "Grande",
     UI_chat_context_font_medium = "Média",
@@ -1347,7 +1347,7 @@ UI_PTBR = {
     UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Usar apenas dessaturação",
     UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Usar blur e dessaturação",
     UI_optionscreen_Search_Mode_Overlay_Effect_None = "Não usar nenhum efeito.",
-    UI_foraging_Warning = "O modo de colheita mudou! Agora é baseado em procurar por itens. Dê uma olhada, use a tecla End apara ativar ou desativar o Modo de Procura.",
+    UI_foraging_Warning = "O modo de coleta mudou! Agora é baseado em procurar por itens no chão. Dê uma olhada, use a tecla End apara ativar ou desativar o Modo de Procura.",
     UI_foraging_DiscardedItem = "Descartado",
     UI_foraging_DiscardItem = "Descartar",
     UI_investigate_area_window_title = "Investigar Área",
@@ -1356,9 +1356,9 @@ UI_PTBR = {
     UI_SearchWindows_Tooltip = " <H1> COLHEITA / SISTEMA DE PROCURA <BR> <TEXT> <LINE> <LINE> " ..
                                 " <SIZE:medium> - NOVO MODO DE COLHEITA / SISTEMA DE PROCURA <LINE> " ..
                                     "<INDENT:8> - Clique na Lupa no canto esquerdo da Interface. <LINE> " ..
-                                        "<INDENT:16> - A janela de "Investigar Área" irá lhe mostrar a zona que você está, o que afeta o loot que você pode achar. <LINE> " ..
-                                        "<INDENT:16> - Se tem um "?????" aparecendo, não há nada próximo para achar. Isso é temporário até que mais zonas de procura sejam adicionadas ao mapa <LINE> <LINE> " ..
-                                    "<INDENT:8> - Para começar a procurar, clique no botão "Ativar Modo de Procura" na janela de "Investigar Área". O personagem vai começar a procurar por itens enquanto você anda por aí. <LINE> " ..
+                                        "<INDENT:16> - A janela de "Investigar Área" irá te mostrar a zona que você está, o que afeta os itens que você pode achar. <LINE> " ..
+                                        "<INDENT:16> - Se um "?????" está aparecendo, não há nada próximo para achar. Isso é temporário até que mais zonas de procura sejam adicionadas ao mapa <LINE> <LINE> " ..
+                                    "<INDENT:8> - Para começar a procurar, clique no botão "Ativar Modo de Procura" na janela "Investigar Área". O personagem vai começar a procurar por itens enquanto você anda por aí. <LINE> " ..
                                     "<INDENT:8> - Um ícone de um olho vai aparecer em cima da sua cabeça se o seu personagem achar algo. <LINE> " ..
                                         "<INDENT:16> Continue olhando em volta até que o olho seja completamente vísivel e o ícone do item vai aparecer. <LINE> " ..
                                     "<INDENT:8> - Duplo clique no item para pegá-lo. <LINE> " .. 
