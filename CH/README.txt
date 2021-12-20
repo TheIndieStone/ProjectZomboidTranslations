@@ -1,4 +1,4 @@
-Make sure you don't use any full-form symbols here, the font does NOT support them as of v41, and I don't expect it to work anytime soon.
+Make sure you don't use any full-form symbols here, the font does NOT support them as of build 41, and I don't expect it to work anytime soon.
 
 Example:
 	Instead of:
