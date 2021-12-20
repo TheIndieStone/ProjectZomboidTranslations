@@ -361,7 +361,7 @@ UI_PTBR = {
     UI_trait_PlaysBaseball = "Jogador de beisebol",
     UI_trait_PlaysBaseballDesc = "Hora de rebater cabeças!",
     UI_trait_Scout = "Escoteiro",
-    UI_trait_ScoutDesc = "Possui conhecimento de primeiros socorros e colheita de comidas silvestres",
+    UI_trait_ScoutDesc = "Possui conhecimento de primeiros socorros e coleta de comidas silvestres",
     UI_trait_SelfDefenseClass = "Defesa pessoal",
     UI_trait_SelfDefenseClassDesc = "Defende-se melhor",
     UI_trait_SlowHealer = "Saúde fraca",
@@ -1353,8 +1353,8 @@ UI_PTBR = {
     UI_investigate_area_window_title = "Investigar Área",
     UI_enable_search_mode = "Ativar Modo de Procura",
     UI_disable_search_mode = "Desativar Modo de Procura",
-    UI_SearchWindows_Tooltip = " <H1> COLHEITA / SISTEMA DE PROCURA <BR> <TEXT> <LINE> <LINE> " ..
-                                " <SIZE:medium> - NOVO MODO DE COLHEITA / SISTEMA DE PROCURA <LINE> " ..
+    UI_SearchWindows_Tooltip = " <H1> COLETA / SISTEMA DE PROCURA <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - NOVO MODO DE COLETA / SISTEMA DE PROCURA <LINE> " ..
                                     "<INDENT:8> - Clique na Lupa no canto esquerdo da Interface. <LINE> " ..
                                         "<INDENT:16> - A janela de "Investigar Área" irá te mostrar a zona que você está, o que afeta os itens que você pode achar. <LINE> " ..
                                         "<INDENT:16> - Se um "?????" está aparecendo, não há nada próximo para achar. Isso é temporário até que mais zonas de procura sejam adicionadas ao mapa <LINE> <LINE> " ..
@@ -1365,4 +1365,9 @@ UI_PTBR = {
                                     "<INDENT:8> - Correr vai fazer que achar itens seja mais difícil. <LINE> " .. 
                                     "<INDENT:8> - Olhar em volta (mirando) vai aumentar o seu campo de visão para ajudar a encontrar itens. <LINE> " .. 
                                     "<INDENT:8> - Escuridão, clima, e aspectos negativos no seu personagem (stress, machucados, etc) irão afetar a chance de encontrar algo.",
+
+    UI_BadWordCheck = "A palavra, letra ou frase %1 não pode ser usada durante a criação do servidor. Por favor tente de novo.",
+    UI_ProtectionPanel = "",
+    UI_ServerOption_PlayerBumpPlayer_tooltip = "Jogadores se empurram/chocam quando correm em direção a outros.",
+    UI_ServerOption_ShowFirstAndLastName_tooltip = "Mostra o primeiro e último nome na cabeça do jogador ao invés do nome de usuário.",
 }
