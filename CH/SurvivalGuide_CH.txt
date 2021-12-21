@@ -29,7 +29,7 @@ SurvivalGuide_CH = {
     SurvivalGuide_entrie8moreinfo = " <H1> 選擇 <BR> <TEXT> 怎樣去拿,取出,丟掉和使用呢?在Project Zomboid裡我們大部分時間都在做這些動作! <BR> 主要方法就是直接用滑鼠拉放物品 - 或者可以按右鍵選擇功能表. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE>  ..",
     SurvivalGuide_entrie8title = "生存指南 #8 - 囤積物資",
     SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #8 - 囤積物資 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 目的明確的收集物資可以節省您的時間甚至救你一命!",
-    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你走運的話,那麼車主可能會把鑰匙落在車門,點火裝置或手套箱裡. 或者,搜索附近的殭屍身上,車主或許就在其中.同樣,如果你選擇的車停在房子外面 - 請順便搜索房間.鑰匙可能就在房子裡. <BR> 還是不行嗎?為什麼不破窗而入呢?砸碎車窗將其解鎖.如果你有2級黑手和1級電工技能,那麼你就能給它短接發動. <BR>  ..",
+    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你夠好運的話, 也許能找到匆忙車主留在車門, 儀錶板或手套箱的車鑰匙. 你也可以搜尋附近的殭屍, 其中之一可能就是車主. 同樣地, 如果你想找到停在屋外車輛的鑰匙 - 搜索屋內, 鑰匙可能就在那.  <BR> 還是沒找到嗎? 何不直接闖進去呢? 打破車窗來解鎖車門. 如果你的機工和電工技能夠高的話, 就可以短接啟動車輛.  <BR>  ..",
     SurvivalGuide_entrie9title = "生存指南 #9 - 交通工具",
     SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛給生存帶來很多好處,但它們也會帶來噪音! 一台高運轉引擎會吸引很遠的一大群殭屍...",
 }
