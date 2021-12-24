@@ -252,6 +252,7 @@ Sandbox_PL = {
     Sandbox_LootSurvivalGears_tooltip = "Nasiona, pi³y, gwoŸdzie, narzêdzia, przedmioty naprawcze, wêdki...",
     Sandbox_LootWeapon = "Broñ",
     Sandbox_Map = "Mapa w grze",
+    Sandbox_MapAllKnown = "Ca³a mapa odkryta",
     Sandbox_MaxFogIntensity = "Maksymalna gêstoœæ mg³y",
     Sandbox_MaxFogIntensity_option1 = "Normalna",
     Sandbox_MaxFogIntensity_option2 = "Œrednia",
