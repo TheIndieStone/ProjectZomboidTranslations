@@ -35,7 +35,7 @@ Farming_CN = {
     -- growing phase
     Farming_Seedling = "发芽",
     Farming_Fully_grown = "成熟",
-    Farming_Ready_to_harvest = "丰产",
+    Farming_Ready_to_harvest = "丰收",
     -- disease
     Farming_Mildew = "白粉病",
     Farming_Pest_Flies = "虫害",
