@@ -49,12 +49,12 @@ Moodles_CN = {
 	Moodles_bored_lvl1 = "有点无聊",
 	Moodles_bored_lvl2 = "很无聊",
 	Moodles_bored_lvl3 = "非常无聊",
-	Moodles_bored_lvl4 = "无聊的要死",
+	Moodles_bored_lvl4 = "极度无聊",
 	-- Unhappy
 	Moodles_unhappy_lvl1 = "有点不开心",
 	Moodles_unhappy_lvl2 = "有点悲伤",
-	Moodles_unhappy_lvl3 = "很伤心",
-	Moodles_unhappy_lvl4 = "非常伤心",
+	Moodles_unhappy_lvl3 = "有点伤心",
+	Moodles_unhappy_lvl4 = "很伤心",
 	-- Bleeding
 	Moodles_bleeding_lvl1 = "轻微流血",
 	Moodles_bleeding_lvl2 = "流血了",
@@ -142,12 +142,12 @@ Moodles_CN = {
 	Moodles_hungry_desc_lvl3 = "力量和生命恢复降低.",
 	Moodles_hungry_desc_lvl4 = "生命正在流失...",
 	-- Panic
-	Moodles_panic_desc_lvl1 = "尽力保持冷静.",
+	Moodles_panic_desc_lvl1 = "无法保持冷静.",
 	Moodles_panic_desc_lvl2 = "精准度降低.",
 	Moodles_panic_desc_lvl3 = "精准度严重降低.",
 	Moodles_panic_desc_lvl4 = "精准度和视野严重降低.",
 	-- Sickness
-	Moodles_sick_desc_lvl1 = "放轻松点.",
+	Moodles_sick_desc_lvl1 = "无法放轻松.",
 	Moodles_sick_desc_lvl2 = "力量和生命恢复降低.",
 	Moodles_sick_desc_lvl3 = "力量和生命恢复严重降低.",
 	Moodles_sick_desc_lvl4 = "死亡的危险增加.",
@@ -155,7 +155,7 @@ Moodles_CN = {
 	Moodles_bored_desc_lvl1 = "找些事来打发时间.",
 	Moodles_bored_desc_lvl2 = "会变的不开心.",
 	Moodles_bored_desc_lvl3 = "高几率变成不开心.",
-	Moodles_bored_desc_lvl4 = "很高的几率变成不开心.",
+	Moodles_bored_desc_lvl4 = "很高几率变成不开心.",
 	-- Unhappy
 	Moodles_unhappy_desc_lvl1 = "找点乐子.",
 	Moodles_unhappy_desc_lvl2 = "找点刺激.",
@@ -201,9 +201,9 @@ Moodles_CN = {
 	-- Zombified
 	Moodles_zombified_desc_lvl1 = "突然想吃人.",
 	-- Food eaten
-	Moodles_foodeaten_desc_lvl1 = "不再饥饿了.",
+	Moodles_foodeaten_desc_lvl1 = "不再感到饥饿了.",
 	Moodles_foodeaten_desc_lvl2 = "肚子饱饱. 营养对你的身体有帮助.",
-	Moodles_foodeaten_desc_lvl3 = "非常满足. 力量和生命恢复提升.",
+	Moodles_foodeaten_desc_lvl3 = "肚子好撑. 力量和生命恢复提升.",
 	Moodles_foodeaten_desc_lvl4 = "连一口也吃不下了.",
 	-- Hyperthermia
 	Moodles_hyperthermia_desc_lvl1 = "考虑脱掉一些衣服. 更易口渴.",
@@ -221,7 +221,7 @@ Moodles_CN = {
     Moodles_windchill_desc_lvl3 = "感觉气温降低了15到20度.",
     Moodles_windchill_desc_lvl4 = "感觉气温降低了20度以上.",
     -- CantSprint
-    Moodles_CantSprint = "移动能力受限"
-    Moodles_CantSprint_desc = "厚重的衣服, 笨重的袋子或大件物品会让你慢下来!"
+    Moodles_CantSprint = "行动能力受限"
+    Moodles_CantSprint_desc = "厚重的衣服,笨重的袋子或大件物品让你慢下来!"
 }
 
