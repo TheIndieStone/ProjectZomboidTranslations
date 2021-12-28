@@ -159,6 +159,10 @@ UI_PL = {
     UI_NewsVersion = "Wersja",
     UI_News_Anim = "<H1> WITAJ W PUBLICZNEJ BECIE WERSJI GRY BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <CENTRE> <SIZE:large> Niniejsza wersja gry to wci¹¿ rozwijana wersja najwiêkszej aktualizacji kodu gry w historii PZ. <LINE><LINE> <CENTRE> Spodziewaj siê b³êdów i problemów z balansem rozgrywki. Trwaj¹ prace nad ulepszeniem wydajnoœci. <LINE><LINE> <CENTRE> Niektóre funkcje gry zosta³y tymczasowo wy³¹czone. <LINE><LINE> <CENTRE> Jeœli napotkasz problemy, nie traæ cierpliwoœci - daj nam znaæ. Napisz do nas na naszym forum.",
     UI_News_Anim2 = "<H1> Pierwsza wersja testowa 'Build 41 MP' jest ju¿ dostêpna! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_News_Anim3 = "<H1> Witamy w wersji gry Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Dla najlepszych wra¿eñ z gry wieloosobowej zalecamy graæ na serwerach z bia³¹ list¹ lub w trybie kooperacji na Steam.<LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Tryb gry dla wielu graczy zosta³ poddany gruntownym udoskonaleniom w porównianiu z wersj¹ gry Build 40 i nadal bêdziemy ulepszaæ i aktualizowaæ ten tryb gry. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Prosimy o wyrozumia³oœæ podczas gdy kontynuujemy pracê nad kolejnymi aktualizacjami i poprawkami b³êdów. <LINE><LINE> ",
     UI_No = "Nie",
     UI_None = "Brak",
     UI_Off = "Wy³¹czony",
