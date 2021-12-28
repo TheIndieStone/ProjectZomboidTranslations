@@ -1526,6 +1526,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
     IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "Possibles categories a aquesta àrea: ",
     IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "No es pot trobar res ací.",
     --SearchMode Zone Names
+    IGUI_SearchMode_Zone_Names_Unknown = "Res ací",
     IGUI_SearchMode_Zone_Names_TownZone = "Àrea urbana",
     IGUI_SearchMode_Zone_Names_Vegitation = "Vegetació",
     IGUI_SearchMode_Zone_Names_Forest = "Bosc",
