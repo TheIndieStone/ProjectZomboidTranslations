@@ -1,5 +1,5 @@
 Stash_CN = {
-	Stash_AnnotedMap = "地图(带注释)",
+	Stash_AnnotedMap = "带注释的地图",
 	Stash_MulMap1_Text1 = "这里的地板下藏有某些东西。",
 	Stash_MulMap1_Text2 = "斧头？",
 	Stash_MulMap1_Text3 = "一群僵尸？",
