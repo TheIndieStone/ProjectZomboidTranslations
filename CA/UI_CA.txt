@@ -1322,7 +1322,7 @@ UI_CA = {
                     "<CENTRE> Hi trobaràs bugs, errors i problemes d'equilibri. Estem fent millores en l'optimització. <LINE><LINE> " ..
                     "<CENTRE> Algunes característiques s'han desactivat temporalment. <LINE><LINE> " ..
                     "<CENTRE> Si tens cap problema: no et sulfures, involucra-t'hi. Fes-nos-ho conéixer en els nostres fòrums.",
-		    UI_News_Anim3 = "<H1> Benvinguts a la Versió 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+    UI_News_Anim3 = "<H1> Benvinguts a la Versió 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Per a tindre la millor experiència jugant amb la multijugador, de moment et recomanem FORTAMENT que jugues amb servidors de llista blanca o amb Steam co-op. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Encara que la multijugador ha millorat abastament des de la versió 40, continuem polint-la i arreglant-la. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Per favor, sigues comprensiu mentres la millorem, arreglem i polim. <LINE><LINE> ",
