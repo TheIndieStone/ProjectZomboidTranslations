@@ -1,28 +1,28 @@
 MultiStageBuild_CN = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "建造木墙【1级】",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "升级到木墙【2级】",
-    MultiStageBuild_CreateWoodenWall_2 = "建造木墙【2级】",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "升级到木墙【3级】",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "升级到木墙【3级】",
-    MultiStageBuild_CreateWoodenWall_3 = "建造木墙【3级】",
+    MultiStageBuild_CreateWoodenWall_1 = "建造木墙 1级",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "升级到木墙 2级",
+    MultiStageBuild_CreateWoodenWall_2 = "建造木墙 2级",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "升级到木墙 3级",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "升级到木墙 3级",
+    MultiStageBuild_CreateWoodenWall_3 = "建造木墙 3级",
     -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "建造木窗【1级】",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "升级到木窗【2级】",
-    MultiStageBuild_CreateWoodenWindow_2 = "建造木窗【2级】",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "升级到木窗【3级】",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "升级到木窗【3级】",
-    MultiStageBuild_CreateWoodenWindow_3 = "建造木窗【3级】",
+    MultiStageBuild_CreateWoodenWindow_1 = "建造木窗 1级",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "升级到木窗 2级",
+    MultiStageBuild_CreateWoodenWindow_2 = "建造木窗 2级",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "升级到木窗 3级",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "升级到木窗 3级",
+    MultiStageBuild_CreateWoodenWindow_3 = "建造木窗 3级",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "建造金属墙【1级】",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "升级到金属墙【2级】",
-    MultiStageBuild_CreateMetalWall_2 = "建造金属墙【2级】",
+    MultiStageBuild_CreateMetalWall_1 = "建造金属墙 1级",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "升级到金属墙 2级",
+    MultiStageBuild_CreateMetalWall_2 = "建造金属墙 2级",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "建造金属窗【1级】",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "升级到金属窗【2级】",
-    MultiStageBuild_CreateMetalWindow_2 = "建造金属窗【2级】",
+    MultiStageBuild_CreateMetalWindow_1 = "建造金属窗 1级",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "升级到金属窗 2级",
+    MultiStageBuild_CreateMetalWindow_2 = "建造金属窗 2级",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "升级到木门框【2级】",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "升级到木门框【3级】",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "升级到木门框 2级",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "升级到木门框 3级",
 }
 
