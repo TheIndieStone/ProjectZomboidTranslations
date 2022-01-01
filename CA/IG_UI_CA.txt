@@ -367,7 +367,7 @@ IGUI_CA = {
     IGUI_TimerSecondsBeforeActivation = "Segons abans de l'activació",
     IGUI_TimerSecondsBeforeExplosion = "Segons abans de l'explosió",
 	-- Crafting window
-    IGUI_CraftUI_Title = "Elaborant",
+    IGUI_CraftUI_Title = "Elaboració",
     IGUI_CraftUI_RequiredItems = "Objectes necessaris:",
     IGUI_CraftUI_RequiredSkills = "Habilitats necessàries:",
     IGUI_CraftUI_RequiredTime = "Temps necessari: %1",
