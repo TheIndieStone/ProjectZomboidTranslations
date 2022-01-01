@@ -350,7 +350,7 @@ IGUI_CA = {
     IGUI_BBQ_TypePropane = "Torradora de butà",
     IGUI_BBQ_NeedsPropaneTank = "Cal una bombona de butà",
     -- Campfire window
-    IGUI_Campfire_Campfire = "Fogata",
+    IGUI_Campfire_Campfire = "Foguera",
     -- Fireplace window
     IGUI_Fireplace_Fireplace = "Llar",
     IGUI_Fireplace_Smouldering = "Fumejant",
