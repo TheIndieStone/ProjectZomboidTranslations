@@ -1339,25 +1339,25 @@ UI_CN = {
 	UI_OnConnectFailed_DebugNotAllowed = "只有管理员可以使用DEBUG命令.",
 	UI_foraging_WildFood = "自然环境",
 	UI_foraging_UnknownItem = "未知物品",
-    UI_optionscreen_binding_Search Mode = "搜索模式",
-    UI_optionscreen_binding_Toggle Search Mode = "切换搜索模式",
-	UI_optionscreen_Search_Mode_Overlay_Effect_Label = "搜索模式覆盖效果",
+    UI_optionscreen_binding_Search Mode = "搜寻模式",
+    UI_optionscreen_binding_Toggle Search Mode = "切换搜寻模式",
+	UI_optionscreen_Search_Mode_Overlay_Effect_Label = "搜寻模式覆盖效果",
     UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "仅使用模糊",
     UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "仅使用去饱和度",
     UI_optionscreen_Search_Mode_Overlay_Effect_Both = "使用模糊和去饱和度",
     UI_optionscreen_Search_Mode_Overlay_Effect_None = "不使用效果",
-    UI_foraging_Warning = "采集已改为搜索物品!<br>单击 UI 左侧的放大镜图标,使用 End 键 打开/关闭 搜索.",
+    UI_foraging_Warning = "采集已改为搜寻物品!<br>单击 UI 左侧的放大镜图标,使用 End 键 打开/关闭 搜寻.",
 	UI_foraging_DiscardedItem = "废弃",
     UI_foraging_DiscardItem = "丢弃",
 	UI_investigate_area_window_title = "调查区域",
-    UI_enable_search_mode = "启用搜索模式",
-    UI_disable_search_mode = "禁用搜索模式",
+    UI_enable_search_mode = "启用搜寻模式",
+    UI_disable_search_mode = "禁用搜寻模式",
 	UI_SearchWindows_Tooltip = " <H1> 觅食/搜寻系统 <BR> <TEXT> <LINE> <LINE> " ..
                                 " <SIZE:medium> - 新的觅食/搜寻系统 <LINE> " ..
                                     "<INDENT:8> - 单击用户界面左侧的放大镜图标 " ..
                                         "<INDENT:16> - 窗口会显示你所在区域的类型,这会影响你能找到的物品. <LINE> " ..
                                         "<INDENT:16> - 如果显示"?????",则周围不会找到任何东西,不过随着时间的流逝这只是暂时现象. <LINE> <LINE> " ..
-                                    "<INDENT:8> - 要开始搜索,请单击"调查区域"窗口中的"启用搜索模式"按钮,角色将在附近走动开始寻找物品. <LINE> " ..
+                                    "<INDENT:8> - 要开始搜寻,请单击"调查区域"窗口中的"启用搜寻模式"按钮,角色将在附近走动开始寻找物品. <LINE> " ..
                                     "<INDENT:8> - 当你的角色发现某物时,头顶会出现一个眼睛图标. <LINE> " ..
                                         "<INDENT:16> 继续环顾四周,直到眼睛完全可见并且项目的图标出现. <LINE> " ..
                                     "<INDENT:8> - 双击物品图标将其捡起. <LINE> " ..
