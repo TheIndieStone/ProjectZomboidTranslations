@@ -26,7 +26,7 @@ DynamicRadio_CN {
     AEBS_weather_0_b = "天气将会持续一整天... ",
     AEBS_weather_0_c = "预测的天气将在 %s 结束... ",
     AEBS_weather_predicted = "预期出现 ",
-    AEBS_weather_and_a = "同时伴有",
+    AEBS_weather_and_a = "同时伴有 ",
     AEBS_weather_light_moderate = "预计有小到中雨...",
     AEBS_weather_heavy_rain = "阵雨或大雨",
     AEBS_weather_storm = "雷暴",
