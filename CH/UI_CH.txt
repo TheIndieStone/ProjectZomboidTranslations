@@ -1,5 +1,5 @@
 UI_CH = {
-    UI_Alarm = "警報",
+    UI_Alarm = "鬧鐘",
     UI_All = "全部",
     UI_BloodDecals0 = "無",
     UI_BloodDecals1 = "10%",
