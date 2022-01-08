@@ -481,6 +481,5 @@ ContextMenu_CN = {
 	ContextMenu_PlaceHalf = "放置一半",
 	ContextMenu_PlaceAll = "放置所有",
 	ContextMenu_NeedCooked = "需要煮熟.",
-
 } 
 
