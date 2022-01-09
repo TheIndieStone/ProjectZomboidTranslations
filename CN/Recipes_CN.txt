@@ -317,7 +317,6 @@ Recipes_CN = {
     Recipe_Unstack_Logs = "解绑原木堆",
 	
 	--Add Text--
-	
 	Recipe_Make_Fruit_Salad = "制作水果沙拉",
 	Recipe_Make_Salad = "制作蔬菜沙拉",
 	Recipe_Make_Sandwich = "制作三明治",
@@ -332,7 +331,6 @@ Recipes_CN = {
 	Recipe_Prepare_Stir-fry = "准备炒菜",
 	
 	--Add Text--
-	
 	Recipe_Advanced_Mechanics = "莱恩斯汽车手册-性能车型",
 	Recipe_Basic_Mechanics = "莱恩斯汽车手册-标准车型",
 	Recipe_Intermediate_Mechanics = "莱恩斯汽车手册-商用车型",
@@ -365,6 +363,5 @@ Recipes_CN = {
 	Recipe_Omelette = "制作煎蛋卷",
 	Recipe_Pancakes = "制作薄煎饼",
 	Recipe_Waffles = "制作华夫饼",
-	
 } 
 

@@ -1819,6 +1819,5 @@ ItemName_CN = {
     ItemName_Base.RefriedBeans = "炒豆",
     ItemName_Base.ShotgunCase3 = "猎枪箱",
     ItemName_Base.CannedPineappleOpen = "菠萝罐头(已打开)",
-
 }
 

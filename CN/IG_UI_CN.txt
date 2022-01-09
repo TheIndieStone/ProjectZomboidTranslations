@@ -897,7 +897,7 @@ IGUI_CN = {
 	IGUI_Map_AddSymbol = "添加标记",
 	IGUI_Map_ChooseSymbol = "选择符号",
 	IGUI_Map_EditMarkings = "编辑标记",
-    IGUI_Map_Scale = "显示全部",
+	IGUI_Map_Scale = "显示全部",
 	IGUI_Map_PlaceSymbol = "放置符号",
 	IGUI_Map_ConfirmRemoveNote = "移除 (%1) 这个备注?",
 	IGUI_Map_ConfirmRemoveSymbol = "移除标记?",
@@ -1533,7 +1533,7 @@ IGUI_CN = {
 	IGUI_SearchMode_Zone_Names_TownZone = "市区",
 	IGUI_SearchMode_Zone_Names_Vegitation = "草地",
 	IGUI_SearchMode_Zone_Names_Forest = "森林",
-    IGUI_SearchMode_Zone_Names_DeepForest = "深林",
+	IGUI_SearchMode_Zone_Names_DeepForest = "深林",
 	IGUI_SearchMode_Zone_Names_FarmLand = "农田",
 	IGUI_SearchMode_Zone_Names_Farm = "农场",
 	IGUI_SearchMode_Zone_Names_TrailerPark = "拖车公园",
@@ -1548,3 +1548,4 @@ IGUI_CN = {
 	--Add Text--
 	IGUI_char_ReadBook = "阅读书籍",
 }
+

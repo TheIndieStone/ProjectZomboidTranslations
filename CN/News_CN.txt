@@ -3032,3 +3032,4 @@ translationProblems.txt列出了缺少的ItemName_xxx，而不是旧的DisplayNa
 修复了钓鱼时的lua错误，最后一个鱼饵断裂。
 修正了教程中关于高大栅栏的不正确指令。
 修正了（希望）最后一个 "瓷砖上的红点 "问题。
+
