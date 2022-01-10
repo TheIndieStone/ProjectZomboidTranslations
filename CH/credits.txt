@@ -1,8 +1,8 @@
-ÂÂª©¤Ú«¢©i¯SÂ½Ä¶: 
-Douggy_Sans(dfr12382)
-BigSmoke
-Washi(berice152233)
-Yuanmo(ligyik00)
+gamer.com.tw (old translation): 
+	Douggy_Sans(dfr12382)
+	BigSmoke
+	Washi(berice152233)
+	Yuanmo(ligyik00)
 
-b41 ¥þ·sÂ½Ä¶: 
-mraz#9738
+b41 overhauled: 
+	mraz#9738
