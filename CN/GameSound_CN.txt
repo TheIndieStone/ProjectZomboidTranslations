@@ -53,7 +53,7 @@ GameSound_CN = {
     GameSound_Firearm9mmShot = " 9mm枪械开火 ",
     GameSound_FirearmVarmintShot = "MSR700开火"
     GameSound_FirearmHunterShot = "MSR788开火"
-    GameSound_FirearmShotgun = "霰弹枪 开火"  
+    GameSound_FirearmShotgun = "霰弹枪开火"  
     GameSound_FirearmShotgunSawnoff = "短管霰弹枪开火"
     GameSound_BulletInRifle = "步枪上膛",
     GameSound_BulletOutVarmint = "退膛",
@@ -102,7 +102,7 @@ GameSound_CN = {
     GameSound_NewMusic_AmbientLow = "官方： 环境(低音)",
     GameSound_NewMusic_AmbientPiano = "官方： 环境(钢琴)",
     GameSound_NewMusic_AmbientRaider = "官方： 环境(打击)",
-    GameSound_NewMusic_Barricading = "官方： 路障",
+    GameSound_NewMusic_Barricading = "官方： 障碍",
 	GameSound_NewMusic_CalmBeforeTheStorm = "官方： 风暴前夕",
     GameSound_NewMusic_Chase = "官方： 追逐",
     GameSound_NewMusic_DesperateEscape = "官方： 绝望逃生",
@@ -157,14 +157,14 @@ GameSound_CN = {
 	GameSound_NewMusic_Working = "官方： 工作",
 
     GameSound_OldMusic_alone = "EA: 孤独",
-	GameSound_OldMusic_ambient1 = "EA: 环境1",
-    GameSound_OldMusic_ambient2 = "EA: 环境2",
+	GameSound_OldMusic_ambient1 = "EA: 环境 1",
+    GameSound_OldMusic_ambient2 = "EA: 环境 2",
     GameSound_OldMusic_guitar = "EA: 环境(吉他)",
     GameSound_OldMusic_low = "EA: 环境(低音)",
     GameSound_OldMusic_long_ambient = "EA: 环境(长音)",
     GameSound_OldMusic_piano = "EA: 环境(钢琴)",
     GameSound_OldMusic_raider = "EA: 环境(打击)",
-    GameSound_OldMusic_barricading = "EA: 路障",
+    GameSound_OldMusic_barricading = "EA: 障碍",
     GameSound_OldMusic_chase = "EA: 追逐",
     GameSound_OldMusic_desperate_escape = "EA: 绝望逃生",
     GameSound_OldMusic_fight_or_flight = "EA: 战斗或逃跑",
@@ -196,8 +196,8 @@ GameSound_CN = {
     GameSound_BeginRemoveBarricadePlank = "开始移除木制障碍",
     GameSound_RemoveBarricadeMetal = "移除金属障碍",
     GameSound_RemoveBarricadePlank = "移除木制障碍",
-	GameSound_BreakBarricadePlank = "破坏木制路障",
-    GameSound_BreakBarricadeMetal = "破坏金属路障",
+	GameSound_BreakBarricadePlank = "破坏木制障碍",
+    GameSound_BreakBarricadeMetal = "破坏金属障碍",
     GameSound_Bushes = "灌木丛",
     GameSound_ClothingDryerRunning = "烘干机 - 运行 ",
     GameSound_ClothingWasherRunning = "洗衣机 - 运行",
@@ -387,9 +387,6 @@ GameSound_CN = {
     GameSound_ZombieFootstepUpstairs = "僵尸上楼",
     GameSound_ZombieFootstepsCombined = "僵尸群脚步",
     GameSound_ZombieSurprisedPlayer = "僵尸惊吓到玩家",
-    GameSound_TutorialZombie = "僵尸教程",
-
-    --Add Text--
-
+    GameSound_TutorialZombie = "教程僵尸",
 }
 
