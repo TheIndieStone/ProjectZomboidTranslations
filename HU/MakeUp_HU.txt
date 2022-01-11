@@ -1,0 +1,42 @@
+MakeUp_HU = {
+MakeUpCategory_Eyes = "Szem",
+MakeUpCategory_EyesShadow = "Szemhéj",
+MakeUpCategory_FullFace = "Teljes Arc",
+MakeUpCategory_Lips = "Ajak",
+
+MakeUpType_EyesCrow = "Varjú",
+MakeUpType_EyesRedStripes1 = "Piros Csíkos 1",
+MakeUpType_EyesRedStripes2 = "Piros Csíkos 2",
+MakeUpType_EyesCamo1 = "Álcázó 1",
+MakeUpType_EyesCamo2 = "Álcázó 2",
+MakeUpType_EyesCamoStripes = "Csíkos",
+MakeUpType_EyesFootball = "Futball",
+
+MakeUpType_EyeShadowWhite = "Fehér Szemhéj",
+MakeUpType_EyeShadowLightBlue = "Világoskék Szemhéj",
+MakeUpType_EyeShadowBlue = "Kék Szemhéj",
+MakeUpType_EyeShadowRed = "Piros Szemhéj",
+MakeUpType_EyeShadowPink = "Rózsaszín Szemhéj",
+MakeUpType_EyeShadowGreen = "Zöld Szemhéj",
+MakeUpType_EyeShadowYellow = "Sárga Szemhéj",
+
+MakeUpType_FullFaceCamo1 = "Teljes Álcázás 1",
+MakeUpType_FullFaceCamo2 = "Teljes Álcázás 2",
+MakeUpType_FullFaceWarrior = "Harcos",
+MakeUpType_FullFaceClown1 = "Bohóc 1",
+MakeUpType_FullFaceClown2 = "Bohóc 2",
+MakeUpType_FullFaceSkull1 = "Koponya 1",
+MakeUpType_FullFaceSkull2 = "Koponya 2",
+
+MakeUpType_LipsRed = "Piros Ajakrúzs",
+MakeUpType_LipsLightBlue = "Világoskék Ajakrúzs",
+MakeUpType_LipsBlue = "Kék Ajakrúzs",
+MakeUpType_LipsBlack = "Fekete Ajakrúzs",
+MakeUpType_LipsGreen = "Zöld Ajakrúzs",
+MakeUpType_LipsPink = "Rózsaszín Ajakrúzs",
+
+    -- v41.64
+	-- Átnézve 2021.12.18
+	-- Megjegyzés:
+	-- Egész átnézve. 100%!
+}
