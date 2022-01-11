@@ -31,7 +31,7 @@ Moodles_UA = {
 	Moodles_tired_lvl3 = "Сильна втома",
 	Moodles_tired_lvl4 = "Виснаження",
 	-- Hungry
-	Moodles_hungry_lvl1 = "Проголодався",
+	Moodles_hungry_lvl1 = "Зголоднів",
 	Moodles_hungry_lvl2 = "Голод",
 	Moodles_hungry_lvl3 = "Сильний голод",
 	Moodles_hungry_lvl4 = "Голодування",
@@ -128,7 +128,7 @@ Moodles_UA = {
 	Moodles_stress_desc_lvl4 = "В жаху.",
 	-- Thirsty
 	Moodles_thirst_desc_lvl1 = "Сухість в роті.",
-	Moodles_thirst_desc_lvl2 = "Обезводнений.",
+	Moodles_thirst_desc_lvl2 = "Зневоднений.",
 	Moodles_thirst_desc_lvl3 = "Відчуття слабкості і запаморочення.",
 	Moodles_thirst_desc_lvl4 = "Відчайдушна потреба у воді.",
 	-- Tired
@@ -182,7 +182,7 @@ Moodles_UA = {
 	Moodles_injured_desc_lvl3 = "Сила і швидкість серйозно знижені.",
 	Moodles_injured_desc_lvl4 = "Не хочеться йти в цю ніч...",
 	-- Pain
-	Moodles_pain_desc_lvl1 = "Відчувається слабка біль.",
+	Moodles_pain_desc_lvl1 = "Відчувається слабкий біль.",
 	Moodles_pain_desc_lvl2 = "Швидкість злегка знижена.",
 	Moodles_pain_desc_lvl3 = "Швидкість і влучність знижені.",
 	Moodles_pain_desc_lvl4 = "Швидкість і влучність серйозно знижені.",
@@ -206,8 +206,8 @@ Moodles_UA = {
 	Moodles_foodeaten_desc_lvl3 = "Шлунок задоволений. Здоров'я і сила допомагають.",
 	Moodles_foodeaten_desc_lvl4 = "Не зможу впоратися навіть з печивом.",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "Може варто надіти більш легкий одяг? Жажда посилилась.",
-	Moodles_hyperthermia_desc_lvl2 = "Жажда. Запітнілий. Мокрий.",
+	Moodles_hyperthermia_desc_lvl1 = "Може варто надіти більш легкий одяг? Спрага посилилась.",
+	Moodles_hyperthermia_desc_lvl2 = "Спрага. Запітнілий. Мокрий.",
 	Moodles_hyperthermia_desc_lvl3 = "Нудота, важко сконцентруватися, велике споживання води.",
 	Moodles_hyperthermia_desc_lvl4 = "Паморочиться в голові і нудить. Ознаки гіпертермії.",
 	-- Hypothermia
@@ -220,4 +220,7 @@ Moodles_UA = {
 	Moodles_windchill_desc_lvl2 = "Відчувається на 10-15 градусів холодніше",
 	Moodles_windchill_desc_lvl3 = "Відчувається на 15-20 градусів холодніше, ніж насправді",
 	Moodles_windchill_desc_lvl4 = "Температура явно нижче 20 градусів.",
+	
+	Moodles_CantSprint = "Не можу пробігтись.",
+	Moodles_CantSprint_desc = "Спробуйте зняти важкий одяг.",
 }

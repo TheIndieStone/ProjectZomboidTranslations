@@ -693,4 +693,8 @@ Moveables_TR = {
     Zippee_Market_Sign = "Zippee Market Tabelası",
     Zippee_Shelves_Rack = "Zippee Bölmeli Raf",
     Zippee_Wall_Shelves = "Zippee Duvar Rafı",
+    Blood_Bank = "Köpek kulubesi",
+    Metal_Drum = "Metal Varil",
+    Small_Rental_Shelves = "Küçük Duvar Rafı",
+    Large_Rental_Shelves = "Büyük Duvar Rafı",
 }

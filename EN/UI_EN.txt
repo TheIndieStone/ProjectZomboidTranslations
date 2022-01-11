@@ -83,6 +83,7 @@ UI_EN = {
     UI_optionscreen_zoomlevels = "Zoom Levels",
     UI_optionscreen_autozoom = "Auto-zoom",
     UI_optionscreen_panCameraWhileAiming = "Pan Camera While Aiming",
+    UI_optionscreen_panCameraWhileDriving = "Pan Camera While Driving",
     UI_optionscreen_chat_transparency = "Chat Transparency",
     UI_optionscreen_chat_transparency_tt = "Transparency of the multiplayer chat window when the mouse isn't over it.",
     UI_optionscreen_player1 = "Player 1",
@@ -101,6 +102,9 @@ UI_EN = {
     UI_optionscreen_clock_format = "Clock Format",
     UI_optionscreen_clock_month_day = "Month/Day",
     UI_optionscreen_clock_day_month = "Day/Month",
+    UI_optionscreen_clock_Size = "Clock display size"
+    UI_optionscreen_clock_small = "Small"
+    UI_optionscreen_clock_large = "Large"
     UI_optionscreen_clock_24_or_12 = "Clock 24/12",
     UI_optionscreen_clock_24_hour = "24-hour",
     UI_optionscreen_clock_12_hour = "12-hour",
@@ -139,6 +143,7 @@ UI_EN = {
     UI_optionscreen_puddles = "Puddles Quality",
     UI_optionscreen_perf_puddles = "Dynamic Puddles",
     UI_optionscreen_perf_reflections = "Environment Reflections",
+    UI_optionscreen_perf_3Ditems = "Display 3D Items",
     UI_optionscreen_aim_outline = "Aim Outline",
     UI_optionscreen_aim_outline1 = "None",
     UI_optionscreen_aim_outline2 = "Ranged Weapons",
@@ -167,6 +172,8 @@ UI_EN = {
     UI_optionscreen_CycleContainerKey2 = "Shift",
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "Modifier key(s) held down while scrolling the mouse wheel over the inventory or loot lists, to cycle between containers.",
+    UI_optionscreen_binding_Map = "Toggle Map",
+    UI_optionscreen_Show_Item_Mod_Info = "Show mod info in item tooltip",
     UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
     UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
     -- Map selecter (lua)
@@ -538,6 +545,7 @@ UI_EN = {
     UI_optionscreen_binding_Toggle Clothing Protection Panel = " Toggle Clothing Protection Panel",
     UI_optionscreen_binding_Toggle Info Panel = " Toggle Info Panel",
     UI_optionscreen_binding_Toggle Moveable Panel Mode = " Toggle Moveable Panel Mode",
+    UI_optionscreen_binding_Audio = "Audio",
     UI_optionscreen_binding_Toggle Music = " Toggle Music",
     UI_optionscreen_binding_Take screenshot = " Take Screenshot",
     UI_optionscreen_binding_Toggle Survival Guide = " Toggle Survival Guide",
@@ -763,7 +771,8 @@ UI_EN = {
     UI_WorkshopSubmit_ItemVisibility = "Visibility:",
     UI_WorkshopSubmit_VisibilityPublic = "Public",
     UI_WorkshopSubmit_VisibilityFriendsOnly = "Friends Only",
-    UI_WorkshopSubmit_VisibilityPrivate = "Private",
+    UI_WorkshopSubmit_VisibilityPrivate = "Hidden",
+    UI_WorkshopSubmit_VisibilityUnlisted = "Unlisted",
     UI_WorkshopSubmit_OverlayButton = "Open Steam Overlay to this item",
     UI_WorkshopSubmit_ItemPreview = "Preview image:",
     UI_WorkshopSubmit_Title3 = "New or existing item?",
@@ -985,6 +994,7 @@ UI_EN = {
     UI_ServerSettings_ListOfPresets = "List of presets:",
     UI_ServerSettings_ButtonApplyPreset = "Apply Preset",
     -- Server Option Tooltips
+    UI_ServerOption_PlayerBumpPlayer_tooltip = "Players bump/push other players when running through them.",
     UI_ServerOption_DefaultPort_tooltip = "Starting port for player data. If UDP, this is this one of two ports used. If legacy TCP, one port is used per player, starting with this port.",
     UI_ServerOption_PublicName_tooltip = "Name of server displayed in both the in-game and Steam server browser (if applicable)",
     UI_ServerOption_PublicDescription_tooltip = "The description displayed in the in-game server browser.",
@@ -1107,6 +1117,7 @@ UI_EN = {
     UI_optionscreen_voiceVolumeMicIndicator_tt = "Signal from microphone.",
     UI_ServerOption_DoLuaChecksum_tooltip = "Kick clients whose game files don't match the server's.",
     UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "Allow players to destroy world objects with sledgehammers.",
+    UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "Allow players to destroy world objects only in their safehouse (require AllowDestructionBySledgehammer to true).",
     UI_ServerOption_HoursForCorpseRemoval_tooltip = "Remove corpses that are older than this many in-game hours.",
     UI_ServerOption_MinutesPerPage_tooltip = "The number of game-world minutes it takes to read one page of a book.",
     UI_ServerOption_nightlengthmodifier_tooltip = "Controls how dark nightime is.  1.0=normal darkness, 0.0=bright.",
@@ -1116,6 +1127,9 @@ UI_EN = {
     UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "If true, player can hit again when struck by another player."
     UI_ServerOption_MouseOverToSeeDisplayName_tooltip = "If true, players will have to mouse over someone to see their display name.",
     UI_ServerOption_HidePlayersBehindYou_tooltip = "If true, automatically hide the player you can't see (like zombies).",
+    UI_ServerOption_PVPMeleeDamageModifier_tooltip = "Added damage for PVP melee attacks.",
+    UI_ServerOption_PVPFirearmDamageModifier_tooltip = "Added damage for PVP ranged attacks.",
+    UI_ServerOption_CarEngineAttractionModifier_tooltip = "Modify the range at which cars attract zombies, lower values can help with server lags.",
     UI_Alarm = "Alarm",
     UI_On = "On",
     UI_Off = "Off",
@@ -1142,7 +1156,7 @@ UI_EN = {
     UI_ServerStatus_LoadingWorld = "Loading world",
     UI_ServerStatus_Init = "Initialising server systems",
     UI_ServerStatus_Terminated = "Terminated",
-    UI_ServerStatus_Started = "Server started:",
+    UI_ServerStatus_Started = "Server started",
     UI_ServerStatus_Initialising = "Initialising",
     UI_ServerStatus_Launching = "Launching...",
     UI_optionscreen_replaceKey = "Replace it?",
@@ -1303,6 +1317,10 @@ UI_EN = {
     UI_NewGame_Builder = "Builder",
     UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
     UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style.",
+    UI_News_Anim3 = "<H1> Welcome to Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> For the best experience when playing multiplayer you are STRONGLY advised to play on whitelisted servers, or with your friends in co-op. <LINE><LINE> " ..
+                                                                                                                      
+                    "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ",
     UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
                     "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
@@ -1322,4 +1340,32 @@ UI_EN = {
     UI_optionscreen_render_precipOutdoors = "Outdoors only",
     UI_optionscreen_render_precipNever = "Never",
     UI_OnConnectFailed_DebugNotAllowed = "Debug connection is not allowed for non admin.",
+    UI_foraging_WildFood = "Wild",
+    UI_foraging_UnknownItem = "Unknown Item",
+    UI_optionscreen_binding_Search Mode = "Search Mode",
+    UI_optionscreen_binding_Toggle Search Mode = "Toggle Search Mode",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Label = "Search Mode Overlay Effect",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "Use Blur Only",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Use Desaturation Only",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Use Blur And Desaturation",
+    UI_optionscreen_Search_Mode_Overlay_Effect_None = "Use No Effect",
+    UI_foraging_Warning = "Foraging has changed! It is now based on searching for items. Click the magnifying glass icon on the left side of the UI. Use the End key to toggle searching on/off.",
+    UI_foraging_DiscardedItem = "Discarded",
+    UI_foraging_DiscardItem = "Discard",
+    UI_investigate_area_window_title = "Investigate Area",
+    UI_enable_search_mode = "Enable Search Mode",
+    UI_disable_search_mode = "Disable Search Mode",
+    UI_SearchWindows_Tooltip = " <H1> FORAGING / SEARCH SYSTEM <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - New Foraging / Search System <LINE> " ..
+                                    "<INDENT:8> - Click the magnifying glass icon on the left side of the UI. <LINE> " ..
+                                        "<INDENT:16> - The "Investigate Area" window will show you the type of zone you are in, which affects the loot you can find. <LINE> " ..
+                                        "<INDENT:16> - If it has "?????" showing, there is nothing around to find. This is temporary until more foraging/search zones are added to the map. <LINE> <LINE> " ..
+                                    "<INDENT:8> - To start searching, click the "Enable Search Mode" Button in the "Investigate Area" window. The character will start looking for items while you walk around. <LINE> " ..
+                                    "<INDENT:8> - An arrow will appear when your character spots something. <LINE> " ..
+                                    "<INDENT:8> - An eye icon will appear overhead when your character is revealing an item. <LINE> " ..
+                                        "<INDENT:16> Keep looking around until the eye is completely visible and the icon for the item will appear. <LINE> " ..
+                                    "<INDENT:8> - Double click the item icon to pick it up. <LINE> " ..
+                                    "<INDENT:8> - Looking around (by aiming) and sneaking will increase the vision radius to help spot hard to locate items. <LINE> " ..
+                                    "<INDENT:8> - Darkness, weather, skill, item size and negative character moodles (stress, injuries, etc) will affect the chance to find something.",
+    UI_BadWordCheck = "The word, letters or phrase %1 cannot be used during server creation. Please try again.",
 }

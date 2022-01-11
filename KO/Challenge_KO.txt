@@ -1,30 +1,30 @@
 Challenge_KO = {
 
 	Challenge_YouHaveOneDay_name = "당신에게 주어진 하루",
-	Challenge_YouHaveOneDay_desc = "당신은 다시 녹스 카운티로 돌아왔습니다. <LINE> 이 곳은 프로젝트 좀보이드의 감염이 처음 시작되었던 첫번째 맵 입니다. <LINE> <LINE> 당신에게는 생각보다 안전한 하루가 주어졌습니다. <LINE> 하루가 지나면 끝이 보이지 않는 좀비들이 당신을 찾기 위해 도착할 것 입니다. <LINE> 몰려오는 좀비에 다시 저항하기 위하여 당신이 사용하려는 장소가 어디일까요? <LINE> 과거에 당신이 좀비들에게서 최후의 저항을 하던 곳은 어디였을까요? <LINE> 될 수 있다면 빠르게 찾는게 좋을것 입니다. <LINE> <LINE> [현재 PZ 도구로 예전 0.1.5 맵을 함께 할 수 있도록 다시 제작해 주신 커뮤니티 맵제작자 BobHeckling 에게 우리는 고마워하고 있습니다.]",
+	Challenge_YouHaveOneDay_desc = "당신은 다시 녹스 카운티로 돌아왔습니다. <LINE> 이곳은 프로젝트 좀보이드의 감염이 처음 시작되었던 첫번째 맵 입니다. <LINE> <LINE> 당신에게는 생각보다 안전한 하루가 주어졌습니다. <LINE> 하루가 지나면 끝이 보이지 않는 좀비들이 당신을 찾기 위해 도착할 겁니다. <LINE> 몰려오는 좀비에 다시 저항하기 위하여 당신이 사용하려는 장소가 어디일까요? <LINE> 과거에 당신이 좀비들에게서 최후의 저항을 하던 곳은 어디였을까요? <LINE> 될 수 있다면 빠르게 찾는 게 좋을 겁니다. <LINE> <LINE> [현재 PZ 도구로 예전 0.1.5 맵을 함께 할 수 있도록 다시 제작해 주신 커뮤니티 맵제작자 BobHeckling 에게 우리는 고마워하고 있습니다.]",
 
 	Challenge_OpeningHours_name = "백화점 오픈 시간",
 	Challenge_OpeningHours_desc = "이런! 백화점이 포위되었습니다. <LINE> <LINE> 과거엔 저들에게 이 곳이 삶의 중요한 장소였을지도 모르겠습니다. 그들의 본능이 입구의 문쪽으로 이끌고 있는 것 같습니다. <LINE> <LINE> 마치 어떻게 사용해야 하는지 기억하는 듯이... <LINE> <LINE> 당신은 혼자입니다만 그리 길지만은 않을 듯 싶습니다. <LINE> 오전 9시가 되면 영업을 위한 준비가 완료되고, 저 문이 열리면 저들 무리는 안으로 들어올 것입니다. <LINE> <LINE> 저들을 맞을 준비를 하세요! ",
 		
 	Challenge_WinterIsComing_name = "다가오는 겨울",
-	Challenge_WinterIsComing_desc = "지금은 7월 중순이지만 갑자기 바람에 한기가 느껴집니다. 이대로 3일만 지나면 겨울 못지않은 추위가 올 것 같으니 준비해야 할 듯 싶습니다. <LINE> <LINE> 당신은 고립된 곳에서 깨어났습니다. <LINE> 당신에게 도움이 될만한 물건은 보이질 않고, 좀비 무리들은 강한 추위에도 느려지진 않을듯 싶습니다. (그러나 그들은 덜 치명적입니다.) <LINE> <LINE> 따뜻하게 감싸세요. 살아 남으려면... ",
+	Challenge_WinterIsComing_desc = "지금은 7월 중순이지만 갑자기 바람에 한기가 느껴집니다. 이대로 사흘만 지나도 겨울 못지않은 추위가 올 것 같으니 준비해야 할 겁니다. <LINE> <LINE> 당신은 고립된 곳에서 깨어났습니다. <LINE> 당신에게 도움이 될만한 물건은 보이질 않고, 좀비 무리들은 강한 추위에도 느려지진 않을 겁니다. (그러나 그들은 덜 치명적입니다.) <LINE> <LINE> 따뜻하게 감싸세요. 살아 남으려면... ",
 	
 	Challenge_Challenge1_name = "숲 속의 집 - 최후의 저항",
 	Challenge_Challenge1_desc = "그들이 다가온 것을 당신은 느낄 수 있습니다. <LINE> 되살아난 그들의 무리에게 피할 곳 없는 당신의 외로운 오두막집은 서서히 잠식당해 가고 있습니다. <LINE> 죽음은 피할 수 없을듯 하지만, 당신의 손에는 산탄총이 쥐어져 있습니다. <LINE> <LINE> 최후의 저항은 계속 증가하는 좀비들의 끝없는 습격이 특징입니다. <LINE> 승산없는 압도적인 상황에서도 당신은 가능한 오랫동안 생존해야 합니다.",	
 	
 	Challenge_Challenge2_name = "숲 속의 집 - 최후의 저항 [습격 생존 모드]",
-	Challenge_Challenge2_desc = "또 다른 어느 날, 피비린내가 진동할 준비가 된 다른 오두막입니다. <LINE> 당신을 향한 무리들에게의 죽음은 소름끼치도록 고통스러울 것입니다. <LINE> 그것이 싫다면 나가 싸워야겠지요... <LINE> <LINE> 습격 생존 모드는 계속 증가하는 좀비들의 끝없는 습격이 특징입니다. <LINE> 당신은 좀비를 잡고 얻은 돈으로 도구를 구입하거나 레벨 업 그리고 피에 젖은 무기들을 수리할 수 있습니다.",
+	Challenge_Challenge2_desc = "또 다른 어느 날, 피비린내가 진동할 준비가 된 다른 오두막입니다. <LINE> 당신을 향한 무리들에게의 죽음은 소름끼치도록 고통스러울 것입니다. <LINE> 그것이 싫다면 나가 싸워야겠지요... <LINE> <LINE> 습격 생존 모드는 계속 증가하는 좀비들의 끝없는 습격이 특징입니다. <LINE> 당신은 좀비를 잡고 얻은 돈으로 도구를 구입하거나 기술 단계 상승 그리고 피에 젖은 무기들을 수리할 수 있습니다.",
 	
 	Challenge_AReallyCDDAy_name = "진정한 CDDA",
-	Challenge_AReallyCDDAy_desc = "당신은 샤워를 하고 나오던 중 심하게 넘어져 크게 다쳤습니다. <LINE> 술에 취해 의식이 없고, 지독한 감기에 걸린 상태입니다. <LINE> <LINE> 이 지독한 상황에 집에는 불까지?! 오늘은 확실히 당신의 날이 아닌 듯 합니다. <LINE> <LINE> [이 도전은 Cataclysm: Dark Days Ahead 에서 정말 안 좋은 날 최고의 멋진 플레이가 나오는 것에 영감을 받아 제작하였습니다.] ",
+	Challenge_AReallyCDDAy_desc = "당신은 샤워를 하고 나오던 중 심하게 넘어져 크게 다쳤습니다. <LINE> 술에 취해 의식이 없고, 지독한 감기에 걸린 상태입니다. <LINE> <LINE> 이 지독한 상황에 집에는 불까지?! 오늘은 확실히 당신의 날이 아닌가 보네요. <LINE> <LINE> [이 도전은 Cataclysm: Dark Days Ahead 에서 정말 안 좋은 날 최고의 멋진 플레이가 나오는 것에 영감을 받아 제작하였습니다.] ",
 
 	Challenge_AStormIsComing_name = "폭풍이 온다",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> 끝없는 악천후...", 일본어 버전
-	Challenge_AStormIsComing_desc = "켄터키 주에 구름이 몰려들고 있다. 멀리서 천둥소리가 들린다. <LINE> 하늘이 어두워 지면서 땅 위에는 비틀거리는 죽은 자들이 달뜨고 있다. <LINE> 이 강렬함 속에서 폭풍은 다시 커지고 떨어질 것이지만 결코 끝나지 않을 것이다.",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> 끝없는 악천후...",
+	Challenge_AStormIsComing_desc = "켄터키 주에 구름이 몰려들고 있다. 멀리서 천둥소리가 들린다. <LINE> 하늘이 어두워지면서 땅 위에는 비틀거리는 죽은 자들이 달뜨고 있다. <LINE> 이 강렬함 속에서 폭풍은 다시 커지고 떨어질 것이지만 결코 끝나지 않을 것이다.",
 
 	Challenge_TheDescendingFog_name = "내려오는 안개",
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> 그것은 안개가 된다...", 일본어 버전
-	Challenge_TheDescendingFog_desc = "사람들은 오하이오의 강 위에 희미한 하얀 담요를 처음 보았다. <LINE> <LINE> 안개처럼 시작된 그것은 마을을 에워쌌다. 마을 사람들은 어둠 속에서 비명을 지르며 죽었다. 이제 그들은 저기로 걸어 나간다. <LINE> <LINE>보이지 않고, 들리지 않고, 가차없이 산 사람을 뒤쫓는다.",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> 그것은 안개가 된다...",
+	Challenge_TheDescendingFog_desc = "사람들은 오하이오의 강 위에 희미한 하얀 담요를 처음 보았습니다. <LINE> <LINE> 안개처럼 시작된 그것은 마을을 에워싸며. 마을 사람들은 어둠 속에서 비명을 지르며 죽었습니다. 이제 그들은 걸어 나갑니다. <LINE> <LINE>보이지 않고, 들리지 않고, 가차 없이 산 사람을 뒤쫓으러.",
 
     Challenge_Kingsmouth_name = "킹스머스",
     Challenge_Kingsmouth_desc = "킹스머스 섬에서 편안한 시간 되세요!!",
@@ -33,7 +33,7 @@ Challenge_KO = {
     Challenge_Studio_desc = "최고의 영화들이 촬영되는 곳입니다!",
 
 	--On-screen UI
-	Challenge_Challenge2_PressKey = "[ o ] 키를 눌러 캐릭터 강화와 상점기능을 가진 창을 열수 있습니다.",
+	Challenge_Challenge2_PressKey = "[ o ] 키를 눌러 캐릭터 강화와 상점 기능을 가진 창을 열수 있습니다.",
 	Challenge_Challenge2_WaveStart = "%1번째 습격까지 : %2 (바로시작 : Enter)",
 	Challenge_Challenge2_WaveDuration = "습격 %1 : %2",
 	Challenge_Challenge2_ZombiesLeft = "남은 좀비 수 : %1",
@@ -47,7 +47,7 @@ Challenge_KO = {
 	Challenge_Challenge2_Weapons = "무기",
 	Challenge_Challenge2_TabItems = "아이템",
 	Challenge_Challenge2_TabRepair = "수리",
-	Challenge_Challenge2_Skills = "스킬",
+	Challenge_Challenge2_Skills = "기술",
 	Challenge_Challenge2_PermanentBonus = "지속 보너스",
 	Challenge_Challenge2_Carpentry = "목공도구",
 	Challenge_Challenge2_Health = "의료용품",
@@ -57,7 +57,7 @@ Challenge_KO = {
     Challenge_Challenge2_GoldBonus = "골드 보너스",
     Challenge_Challenge2_ButtonBonusMax = "%1 최대치",
     Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 xp",
-    Challenge_Challenge2_ButtonStartGoldMax = "최대 시작시 골드 %1",
+    Challenge_Challenge2_ButtonStartGoldMax = "최대 시작 시 골드 %1",
     Challenge_Challenge2_XpBonus = "Xp 보너스",
     Challenge_Challenge2_ButtonStartGold = "+%1 시작시 골드 - %2 xp",
     Challenge_Challenge2_ButtonSkillMax = "%1 Lvl 최대치",
@@ -65,7 +65,7 @@ Challenge_KO = {
     Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 xp",
 	
 	
-	Challenge_OpeningHoursInfoBox = " <CENTRE> 백화점은 오전 9시가 되면 오픈 됩니다.  <LINE> <LINE> 손님을 맞을 준비를 해주세요...",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> 백화점은 오전 9시가 되면 개장을 합니다.  <LINE> <LINE> 손님을 맞을 준비를 해주세요...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> 3일 후에는 끝나지 않는 겨울이 시작됩니다. <LINE> <LINE> 따뜻하게 감싸세요...",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 녹스 카운티로의 즐거운 여행이 24시간 후에 지옥이 펼쳐진 땅으로 변합니다.",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> 끝없는 악천후...",

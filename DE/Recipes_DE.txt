@@ -65,6 +65,7 @@ Recipes_DE = {
     Recipe_Douse_Cotton_in_Alcohol = "Watte mit Desinfektionsmittel tränken",
     Recipe_Drill_Plank = "Brett anbohren",
     Recipe_Empty_Frying_Pan = "Bratpfanne entleeren",
+    Recipe_Empty_Griddle_Pan = "Grillpfanne leeren",
     Recipe_Empty_Roasting_Pan = "Bräter entleeren",
     Recipe_Empty_Whiskey_Bottle = "Bourbon Flasche entleeren",
     Recipe_Empty_Whisky_Bottle = "Bourbon Flasche entleeren",

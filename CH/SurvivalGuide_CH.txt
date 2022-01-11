@@ -1,85 +1,35 @@
-SurvivalGuide_CN = {
-	SurvivalGuide_entrie1title = "¥Í¦s«ü«n #1 - ¨¤¦â±±¨î",
-	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #1 - ±±¨î¦Û¤v <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> ¦pªG§A¤£¥­ÀR¤U¨Ó,¨Ã¥B¾Ç²ß°òÂ¦ª¾ÃÑ,§A´N¬¡¤£¤F¦h¤[.",
-	SurvivalGuide_entrie1moreinfo = " <H1> ²¾°Ê <BR> <TEXT> ¦bProject Zomboid¤¤,¨Ï¥ÎWASDÁä¨Ó²¾°Ê.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
-            "«ö¦í¥ªSHIFTÁä¥i¥H¥[³tºC¶]. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
-            "¾Ô°« <BR> <TEXT> ·Q­n§ðÀ»íL«Í,§A»Ý­n¥ý«ö¦í·Æ¹«¥kÁä¶i¤J§ðÀ»«ººA«á¤~¯à¶i¦æ§ðÀ»°Ê§@. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  «ö¦í·Æ¹«¥kÁä¶i¤J§ðÀ»«ººAªº¦P®É, ¨Ã²¾°Ê·Æ¹«­±¹ï·Ç³Æ§ðÀ»ªº¤è¦V.¤£¹L§ó¦nªº¤èªk¬O¦P®É¦A¨Ï¥ÎWASDÁä¨Ó«O«ù¦Û¤v¦b¤£Â_²¾°Ê¤¤§ðÀ»¨Ó¨¾½díL«Íªº§ðÀ»."..
-            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> ¦b°µ¦n¤W­z·Ç³Æ«á,«ö¤@¤U·Æ¹«¥ªÁä¨Ó¶i¦æ§ðÀ».¦ý¬O½Ð°O¦í,¤£­nµL·N¸qªººÆ¨gÂIÀ»·Æ¹«¥ªÁä¶i¦æµL®Ä§ðÀ»,¦]¬°¨º·|«Ü§Ö¯ÓºÉ§AªºÅé¤O. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> «ö¦íLCTRL¤]¥i¥H¶i¤J§ðÀ»«ººA.§ðÀ»«ººA¥i¥HÅý§AÆ[¹î¥|©P¨Ã´î¤Ö³Qµo²{ªº´X²v,½Ðµ½¥Î³o­Ó¥\¯à..  <BR> <H1> ¤¬°Ê <BR> "..
-            "<H2> ·Æ¹««ö¤@¤U <BR> <TEXT> «ö¤@¤U·Æ¹«¥ªÁä§Y¥i»P©P³òª««~¶i¦æ¤¬°Ê. ¨Ò¦p,§A¥i¥H¨Ï¥Î·Æ¹««ö¤@¤Uµ¡¤á¨Ó¥´¶}©ÎÃö³¬µ¡¤á,ÂIÀ»ÃoÂd¨Ó¬d¬ÝÃoÂd¤¤¦³­þ¨Ç¥i¥H¦¬¶°ªºª«¸ê.. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
-            "<H2> ¤¬°Ê§Ö³tÁä <BR> <TEXT> ¦pªG§A³B©ó§ðÀ»«ººA¤U­n¥´¶}©ÎÃö³¬µ¡¤á,§A¥i¥H«öEÁä¨Ó¥´¶}©ÎÃö³¬µ¡¤á. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> ¨Ò¦p, ªù«á¦³íL«Í»Ý­n¥´¶}ªù´N®i¶}§ðÀ»ªº±¡ªp¤U. <BR>  <TEXT> «ö¦íEÁä¥i¥HÅý§AÂ½¶Vµ¡©Î°ªÀð,³o¦b§A³´¤J¦MÀI®É,¤£¥¢¬°¤@ºØÀ³«æ¿ìªk. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-            " <LINE> <H2> ¤¬°Ê¥\¯àªí <BR> <TEXT> ¦bª«Åé¤WÂIÀ»·Æ¹«¥kÁä,¥i¥H¥´¶}ª«Åéªº¤¬°Ê¥\¯àªí,¨Ò¦p»s§@,©î¸Ñµ¥. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
-
-	SurvivalGuide_entrie2title = "¥Í¦s«ü«n #2 - ¤£­n¶Ã¶]",
-	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #2 - ¤£­n¶Ã¶] <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> §Aµo¥Xªº°ÊÀR¶V¤j,íL«Íµo²{§Aªº¾÷²v¤]¶V¤j.·íµM,§A¤]·|¦ºªº§ó§Ö.",
-	SurvivalGuide_entrie2moreinfo = " <H1> íL«Í·P©x <BR> <TEXT> ¦b¥Í¦s¼Ò¦¡¤¤,íL«Í¦³µø¤O¥H¤ÎÅ¥¤O. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> ¶]¨B·|»s³y¾¸­µ,¤Þ°_íL«Íªºª`·N. <BR> §A¯à¤ñíL«Í¶]±o§Ö,¦ý¨º¤£ªø¤[. <BR> "..
-    " ¤@­Ó©ú´¼ªºª±®a·|µ½¥Î¥ªCTRLÁä (©ÎªÌ§AÄ±±o·Æ¹«¥kÁä§ó¶¶¤â). ¶i¤J§ðÀ»«ººA¼Ò¦¡.§ðÀ»«ººA·|©ñºC§Aªº¸}¨B,¨Ã¥BÅý§A¦³¥R¤Àªº®É¶¡Æ[¹î¥|©P.¥B¦b¾D¹JíL«Í®É¥i¥H¶i¦æ§Ö³t§ðÀ» <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid¤£¬O¤@­ÓÄv³tÃþ¹CÀ¸.½ÐÁôÂÃ¦n¦Û¤v.íL«Í¥u¦³·Q¦Y±¼§A¤@ºØ·Qªk.",
-
-	SurvivalGuide_entrie3title = "¥Í¦s«ü«n #3 - ºë­ã§ðÀ»!",
-	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #3 - ºë­ã§ðÀ»! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> §A¦b»PíL«Í§@¾Ô.¦³®Ä§ðÀ»¬O«Ü­«­nªº! <LINE> <LINE> °O¦í:ºË·ÇíL«ÍµM«á§ðÀ»!",
-	SurvivalGuide_entrie3moreinfo = " <H1> ¾Ô°«¨t²Î <BR> <TEXT> ¨C­ÓªZ¾¹¯à³y¦¨ªº¶Ë®`³£¤£¦P.µM¦Ó,¥¦ªº«Â¤O¨ú¨M©ó§A¦Û¤vªº§Þ¯à©M§Þ¥©.µ½¥ÎªZ¾¹ªº¯SÂI©M§Þ¥©,¯àÅý§A¨Æ¥b¥\­¿. <BR> <H2> ºË·Ç "..
-            " <BR> <TEXT> ªñ¾ÔªZ¾¹ÃzÀYªº¤O¶q³£¬O¨ú¨M©ó§Aªº§Þ¯àµ¥¯Å. ¤£¹L, ¥t¤@­Ó­«­nªº¦]¯À¬O§A¬°³o¤@¤U§ðÀ»»W¤O/ºË·Ç¤F¦h¤[.°O¦í, ¨C¤@¤U§ðÀ»³£­n«ö¦í¥kÁä¼Æ¬í«á¦A¶i¦æ,³o·|½T«O§A¨C¤@¤Uªº§ðÀ»³£·|µo´§³Ì¦nªº®ÄªG(»W¤O§ðÀ»). <BR> »W¤O§ðÀ»¤ñ¤£°±«ö§ðÀ»Áä§ó¦³®Ä,ÀWÁcªºÂI§ðÀ»Áä,¨Ã¨S¦³¤°»ò¦n³B! <BR> <H2> §ðÀ»¶ZÂ÷ <BR> <TEXT> §ðÀ»¶ZÂ÷¤]¬O¤@­Ó­«­nªº¤¸¯À. <BR> ¨Ò¦p´Î²y´Î©M©òÀY,¥¦­ÌªºÀuÂI´N¬O¥¦­Ì¯à¦b»·¶ZÂ÷µo°Ê§ðÀ».  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> ¦ÓÀ\¤M,¥¤ªo¤Mµ¥ªZ¾¹ªºÀuÂI¬Oªñ¶ZÂ÷¨ë±þ®ÄªG.¤£¹L,¤£­n¹ï¥¤ªo¤M´Á±æ¤Ó°ª. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-            " <H2> GROUND ATTACKS <BR> <TEXT> ±þíL«Íªº¤èªk³q±`¬O§â¥¦­Ì±À­Ë,¦A¤£°±¦a§ðÀ»¥¦ªºÀY³¡. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> »W¤O´§°ÊªZ¾¹¦³´X²vÀ»­ËíL«Í,¦ýíL«Í¶i¤J§C§ðÀ»½d³ò¤º,«h¥u¯à±À¶}íL«Í. <BR> ·ííL«Í³QÀ»­Ë«á: ¨C¤@¦¸§ðÀ»³£±N¦Û°ÊºË·Ç³QÀ»­Ë¦b¦a­±¤WªºíL«Í.¤£¹LÁÙ¬O½ÐºË·ÇíL«ÍÀY³¡.³o±N«Ü§Ö±þ¦º¥¦­Ì. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
-
-	SurvivalGuide_entrie4title = "¥Í¦s«ü«n #4 - ¨D¤ô¤§¸ô",
-	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #4 - ¨D¤ô¤§¸ô <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> °®²bªº¤ô¹ï§Aªº«ùÄò¥Í¦s¦ÜÃö­«­n.",
-	SurvivalGuide_entrie4moreinfo = " <H1> ¤ô·½ <BR> <TEXT> ¨Ñ¤ô¨t²Î´N¹³¹q¤O¤@¼Ë,¤£·|¥Î¤§¤£ºÜ.¦pªG§A¤£·Q¦]¯Ê¤ô¦Ó´÷¦ºªº¸Ü,½ÐÀx³Æ¦n¤ô²~... <BR> §Aªº¨¤¦â·|¦Û°Ê±qÀH¨­ªº¥ô¦óÀx¤ô®e¾¹¸Ì³Ü¤ô. <BR> ­n³Ü¤ô©Î¸Ëº¡²~¤l,¥u»Ý¦b¹CÀ¸¤¤¥ô¦ó¯à¨Ñ¤ôªº¤è®æ/ª««~¤W¨Ï¥Î·Æ¹«¥kÁä¥\¯àªí§Y¥i. ¤ô¼Ñ,¯D¬û,¤ôÀsÀY... Ô£³£¦æ. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
-
-	SurvivalGuide_entrie5title = "¥Í¦s«ü«n #5 - ©T­Yª÷´ö",
-	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #5 - ©T­Yª÷´ö <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> íL«Í­Ì·|¯}Ãaªù©Mµ¡¤á!³Ì¨Î«ØÄ³:¥[©Tµ¡¤á!",
-	SurvivalGuide_entrie5moreinfo = " <H1> »s§@ <BR> <TEXT> ­n»s§@ª««~,¥u»Ý¦bÀH¨­§÷®Æ¤W«ö¥kÁä¿ï¾Ü»s§@§Y¥i. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE>§A¥i¥H¥Î¥¦»s§@ªº¦UºØ¦U¼Ëªºª««~,¥H¤Î§AÀH¨­Äâ±aªº¨ä¥Lª««~,³£·|¯«©_¦aÅã¥Ü¥X¨Ó! <BR>Â×´Iªº²i¶¹,¤ì¤u,ÂåÀø©M¥Í¦sµ¥°t¤è¯àµ¹§A¦b¥½¥@¤¤¦û¾ÚÀu¶Õ. <BR> <H1> ¥[©T <BR> <TEXT>§A¥i¥H¥Î¥kÁäÂIÀ»¨Ó¥[©T§Aªºµ¡¤á & ¦ý§AÀH¨­¥²¶·Äâ±aÁè¤l,¤ìªO©M°v¤l. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE>¥i¥H¨Ï¥Î¦h¶ô¤ìªO¨Ó¶i¤@¨B¥[©Tµ¡¤á. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
-            " <H1> ¤ì¤u <BR> <TEXT> ·í§A§ä¨ì§ó¦h¸ê·½©M§ó¦nªºÅKÁè,§A«K¥i¥Hºc«Ø¤@­Ó§ó¥[°í©Tªº¨¾¿m¤u¨Æ.¥u»Ý¦b·Q­n«Ø¿vªº¦a­±¤W«ö¥kÁä§Y¥iÅã¥Ü«Ø¿v±ø¥Ø.¶i¦æ¤ì¤u¤u§@®É¥²¶·ÀH¨­Äâ±aÅKÁè. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> ¦b³o¸Ì,§A¥i¥H¿ï¾Ü¥ô¦ó§A·í«e§Þ¯à©M§÷®Æ¯à»s§@¥X¨Óªºª««~. <BR> ·í¿ï¾Ü¦n­n«Ø¿vªºª««~«á,§A¥i¥H¥Î·Æ¹«²¾°Ê¥¦,§A¥i¥H¥Î·Æ¹«²¾°Ê¥¦,¨M©w¦n²z·Q¦ì¸m«á¦A«ö¥ªÁäÂ\©ñ. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> »s§@¤£·|Àþ¶¡§¹¦¨.PZ¬O­Ó°¾¦V²{¹êªº¹CÀ¸,¦pªG§A´¿¸g·í¹L«Ø¿v¤u§A´N·|©ú¥Õ³o¨ÇªF¦è»Ý­n®É¶¡. (½Ðª`·N,¦pªG¦³À°§Uªº¸Ü,§Ú­Ì½T¹ê¤¹³\±z¦b¹CÀ¸¤¤»s§@´XªM¯ù). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> ¦b§AÂ\©ñ¥´³yªºª««~«e¥i¥H«öRÁä¨Ó±ÛÂà¥¦. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> ¤Á°O: §A¥´³y±o¶V¦h,§Aªº¤âÃÀ´N·|¶V¦n.§ó°ªªº§Þ¯à¤ô·Ç·N¨ýµÛ§ó°ª«~½èªº²£«~,²£«~¤]§ó¬°¦³¥Î.",
-
-	SurvivalGuide_entrie6title = "¥Í¦s«ü«n #6 - ¨¾¤î°½¿s",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #6 - ¨¾¤î°½¿s <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> ÁöµM¥¦­Ì¥i¯à¤w¸g¦º¤F,¦ý¥¦­ÌÁÙ¬O¯à¬Ý³zµ¡¤á. <LINE> <LINE> ¨S¦³µ¡Ã®? »°§Ö°Ê¤â§a. ",
-	SurvivalGuide_entrie6moreinfo = " <H1> ªý¾×¥¦­Ìªºµø½u <BR> <TEXT> ¦bíL«Í¥½¤é¤¤¤@­Ó³Ì±`¨£ªº¿ù»~´N¬OÅýµ¡Ã®¶}µÛ.§Ñ°OÃöµ¡Ã®«áªG¬O­P©R©Êªº,¹C¿ºªºíL«Í·|µo²{¨Ã±þ¦º§A. <BR> ­nÃö³¬µ¡Ã®©Î¦Ê¸­µ¡: ¥Î¥kÁäµæ³æ. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> ¥[©Tµ¡¤á¤]¯àªý¤îíL«Í¬Ý¨ì¥ú½u©M°ÊÀR. <BR> ¦pªG¨º¨S¦³µ¡Ã®,¦Ó§A¤S¨S¦³³Æ¥Î¤ìªO,©Î³\¦³¤°»ò¨ä¥LªF¦è¥i¥H¥N´À?¨Ó§a,§ä§ä¬Ý.",
-
-	SurvivalGuide_entrie7title = "¥Í¦s«ü«n #7 - ¬ü¨ý¨ÎÀa",
-	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #7 - ¬ü¨ý¨ÎÀa <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> ­¹ª«¤¤¬r¥i¤£¦nª±.¦b¤j¨aÅÜ¤§¤¤¤×¨ä­P©R. <LINE> <LINE> ¦bíL«Í¥½¤é¤¤¦Y¤@¹y¼ö¶º¬O¥²¶·ªº.",
-	SurvivalGuide_entrie7moreinfo = " <H1> ²i¶¹ <BR> <TEXT> ¤û±Æ,Âû¦×ÁÙ¦³«Ü¦h¨ä¥Lªº­¹ª«¦b­¹¥Î«e³£»Ý­n¥ýµN¼ô. («¢?³o³à¤ß¯f¨gªº¹CÀ¸.) <BR> °£¤F­°§C­¹ª«¤¤¬rªº­·ÀI,°µ¦nªº¶ºµæ§ó¥O¤Hº¡·N, §ó¦³Àç¾i,¨Ã¥i¦b§óªøªº®É¶¡¤ºÁ×§KÄÈ¾j. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> §â­¹ª«©ñ¦b¹qºÏÄl/·LªiÄl/´N¥i¥H¶}©l²i¶¹¤F,¦pªG§A¤w¸gÂ÷¶}«°¥«ªº¸Ü,§A¥i¥H·Q¿ìªk¤É°_¤@°ïÀç¤õ¨Ó¥N´À¥¦­Ì. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> «ö¥kÁä±±¨î¶}Ãö,¨Ï¥Î«á¤Á°OÃö³¬¤õÄl,§_«h®É¶¡¤@ªø¤õÄl·|Ãz¬µ¼vµo¤õ¨a,¤Á°O. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
-            " <H1> ¯Ñ§@ <BR> <TEXT> §A»Ý­n¤@§âªdÃê©MºØ¤l´N¯àºØ´Ó, Â½¤g«á©ñ¤JºØ¤l¦A¼å¤ô. «Ü§Ö§A´N¦³·½·½¤£Â_ªº­¹ª«¤F. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-            " <H1> ·j´M <BR> <TEXT> ¦b´ËªL¸Ì§ä¨Ç¼ßªG©M¨ä¥L¤ôªG§a. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
-			" <H1> ¤£§@¦º¤£·|¦º <BR> <TEXT> ¦b¥ô¦ó®É­Ô³£½Ð¤p¤ßÁlÁl,¦º¤`·|Åý§A¥á¥¢©Ò¦³ª««~©M·í«e¤Hª«©Ò¦³§Þ¯à.",
-
-	SurvivalGuide_entrie8title = "¥Í¦s«ü«n #8 - §y¿nª«¸ê",
-	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #8 - §y¿nª«¸ê <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> ¥Øªº©ú½Tªº¦¬¶°ª«¸ê¥i¥H¸`¬Ù±zªº®É¶¡¬Æ¦Ü±Ï§A¤@©R!",
-	SurvivalGuide_entrie8moreinfo = " <H1> ¿ï¾Ü <BR> <TEXT> «ç¼Ë¥h®³,¨ú¥X,¥á±¼©M¨Ï¥Î©O?¦bProject Zomboid¸Ì§Ú­Ì¤j³¡¤À®É¶¡³£¦b°µ³o¨Ç°Ê§@! <BR> ¥D­n¤èªk´N¬Oª½±µ¥Î·Æ¹«©Ô©ñª««~ - ©ÎªÌ¥i¥H«ö¥kÁä¿ï¾Ü¥\¯àªí. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-            " «ö¦íLSHIFT¥i¥H¦P®É¿ï¾Ü¦h¼Ëª««~. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> ©ÎªÌ,§A¥i¥Hª½±µ«ö¦í¥ªÁä©Ô¥X¤@­Ó¤j¥¿¤è«¬¥h¿ï¾Ü¤@­Ó½d³ò. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-            " ©ÎªÌ§Ö³t¦a«ö¥ªÁä¨â¤U¨Ó¶i¦æ¬B¨ú.©ÎªÌ¦b«öª««~Äæ¥kÃäªº«ö¶s. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  ³á,¦pªG§A·Q¤@Áä¬B¨ú©Ò¦³ªF¦è,³o¸ÌÁÙ¤@­Ó¬B¨ú¥þ³¡ªº¿ï¾Ü. <LINE> "..
-            " <H1> ¦³¥Îªº­I¥]/³U¤l <BR> <TEXT> ¦UºØ³U¤l©M­I¥]¬O«D±`­«­nªºª««~.¥¦¥iÀ°§AÄâ±a§ó¦hªºª««~. <BR> ¦p­n¸Ë³Æ³U¤l©Î­I¥],«ö¥kÁä¿ï¾Ü¸Ë³Æ(¥ª¤â)¡A¸Ë³Æ(¥k¤â) ©Î­I¤W(­I¥]¤~¥i¥H­I¤W). "..
-            " <BR> ¸Ë³Æ«á,§A´N·|¬Ý¨£­I¥]¦b§Aªºª««~Äæ¸Ì - ·Ç³Æ¦n¥i¥Hª½±µ§âª««~©ñ¤J­I¥].­«­nªº¬O,­I¥]¥i¥H´î»´§AÁ`Åéªº­«¶q. ¨º¤£¬O«D±`¦³¥Î¶Ü? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-            " <H1> ¼ô½m¨Ï¥Î§Ö³tÁä  <BR> <TEXT> ¦b³]©w¸Ì¥i¥H³]©w§Ö³tÁä,¤w¸g¹w³]¤F¤@³¡¤À§Ö³tÁä. "..
-            " <BR> 1 : ¸Ë³Æ¶Ë®`³Ì°ªªºªZ¾¹ " ..
-			" <BR> 2 : ¸Ë³Æ¶Ë®`³Ì°ªªººj±ñ (¤£­n§Ñ°ORÁä¬O¸Ë¶ñ¼uÃÄ!)" ..
-			" <BR> 3 : ¸Ë¸m¶Ë®`³Ì°ªªºªñ¾ÔªZ¾¹ " ..
-			" <BR> F : ¸Ë³Æ(¶}±Ò)¥i§@¬°·Ó©úªº¹D¨ã ",
-
-    SurvivalGuide_entrie9title = "¥Í¦s«ü«n #9 - ¥æ³q¤u¨ã",
-    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #9 - ¥æ³q¤u¨ã <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> ¨®½øµ¹¥Í¦s±a¨Ó«Ü¦h¦n³B,¦ý¥¦­Ì¤]·|±a¨Ó¾¸­µ! ¤@¥x°ª¹BÂà¤ÞÀº·|§l¤Þ«Ü»·ªº¤@¤j¸síL«Í...",
-    SurvivalGuide_entrie9moreinfo = " <H1> ¶i¤J¨®½ø <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> ¦pªG§A¨«¹Bªº¸Ü,¨º»ò¨®¥D¥i¯à·|§âÆ_°Í¸¨¦b¨®ªù,ÂI¤õ¸Ë¸m©Î¤â®M½c¸Ì. ©ÎªÌ,·j¯ÁªþªñªºíL«Í¨­¤W,¨®¥D©Î³\´N¦b¨ä¤¤.¦P¼Ë,¦pªG§A¿ï¾Üªº¨®°±¦b©Ð¤l¥~­± - ½Ð¶¶«K·j¯Á©Ð¶¡.Æ_°Í¥i¯à´N¦b©Ð¤l¸Ì. <BR> ÁÙ¬O¤£¦æ¶Ü?¬°¤°»ò¤£¯}µ¡¦Ó¤J©O?¯{¸H¨®µ¡±N¨ä¸ÑÂê.¦pªG§A¦³2¯Å¶Â¤â©M1¯Å¹q¤u§Þ¯à,¨º»ò§A´N¯àµ¹¥¦µu±µµo°Ê. <BR> " ..
-            " <H1> ¾r¾p®É¥ú <BR> <TEXT> ÂIÀ»ÂI¤õ¸Ë¸m¨Ó´¡¤J§AªºÆ_°Í,±Ò°Êµo°Ê¾÷¨ÃÀË¬d»öªíªOÅª¼Æ.©ÎªÌ,¥u»Ý«ö¤U«e¶iÁä (Àq»{Áä: W) §Y¥i±Ò°Ê. <BR> ¦pªG¨T¨®ªºµo°Ê¾÷ª¬ªp¤£¦n, ¥i¯à¤£·|¤@¦¸´N±Ò°Ê.¦pªG¸Õ¤F«Ü¦h¦¸ÁÙµLªk±Ò°Ê,§A»Ý­nÀË¬d¤U¨®ªpµøµ¡¤F... <BR> ¤p¤ß¶}¨®! ¨T¨®ªºÁn­µ¶V¤j,´N·|§l¤Þ§ó¤j½d³òªºíL«Í¨Ã¸òÀH¨T¨®...  <BR> " ..
-            " <H1> »öªíªO <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> ¦b¨®½øªº»öªíªO¤W,±z¥i¥H¬Ý¨ì¦³¥Îªº¸ê°TÅª¼Æ,¦pªo¶q,³t«×©MÂà³t. <BR> »öªíªO³»³¡ªº¹Ï¥ÜÁÙ±N§i¶D±zµo°Ê¾÷ª¬ºA,«á³Æ½c¬O§_¥´¶},«e¤j¿O¬O§_¶}±Òµ¥.«ö¤@¤U³o¨Ç¹Ï¥Ü±N¥´¶}¥i¥Î¿ï¶µ - ¦]¦¹«ö¤@¤U ªÅ½Õ/¥[¼ö¾¹ ±N¥´¶}¬ÛÃöµøµ¡. <BR> " ..
-            " <H1> ¶êÀô¥\¯àªí <BR> <TEXT> ¦pªG§A¦b¨®¤º©Î®ÇÃä«ö'V'Áä,³o±N¯à¥´¶}¥¦ªº¶êÀôµæ³æ. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> ±q³o¸Ì±z¥i¥H¥æ´«®y¦ì,Âêªù, ±±¨î¿O,¥´¶}¨®ªpµøµ¡µ¥. <BR> " ..
-            " <H1> ¨®ªpµøµ¡ <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> ¨S¦³§Þ³Nªº­Æ¦sªÌ¥i¥HÀË¬d§Aªº¹q¦À¬O§_ÁÙ¦æ,¬d¬Ý¿Uªo¤ô¥­,¨Ãµo²{¨T¨®ªº¬Y¨Ç³¡¤À¬O§_¥X²{·lÃa. ¾Ö¦³¶Â¤â§Þ¯àªº­Æ¦sªÌ±N¯à°÷¬Ý¨ìÃB¥~ªº²Ó¸`,¨Ã¦w¸Ë©M¨ø¸ü³¡¥ó. <BR> ¦³Ãö¦¹§Þ¯à©M¶Â¤â§Þ¯àªº§ó¦h¸ê°T,½Ð«ö¤@¤U¨®ªpµøµ¡¥ª¤W¨¤ªº¸ê°T¹Ï¥Ü.",
-
-    SurvivalGuide_entrie10title = "¥Í¦s«ü«n #10 - ¤Ñ®ð¨t²Î",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #10 - ¤Ñ®ð¨t²Î <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Ãú, ­·¼É©M³·¨ÏíL«Íªº«Â¯Ù§ó¨ã¬D¾Ô©Ê! ·í¥V¤Ñ¨ÓÁ{®É°µ¦n«O·x...",
-    SurvivalGuide_entrie10moreinfo = "<H1> ®ð­ÔÅÜ¤Æ <BR> <TEXT> Project Zomboid¤¤ªº¤Ñ®ð¼Ò¦¡«D±`¹G¯u.Ãþ¤ñ®ð­Ô¨t²Î·|»s³y«B,³·,Ãú©M¹p¼Éµ¥¤Ñ®ð. <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> ´H§N©M»Å¼ö³£·|¹ï§Aªº¥Í¦s³y¦¨«Ü¤jªº¼vÅT. <LINE> " ..
-                                      " ¦pªG§A¶¼­¹¥R¨¬,Åé¤O¥R¨K¨Ã¬ïµÛ¥V¸Ë,¨º»ò¥V¤Ñ¤£·|ÅÜªº¨º»ò¥i©È,¦ý¬O¦çªA¼éÀã©Î¯e¯f¦b¥V¤Ñ¨ÌµM¬O«D±`¤jªº«Â¯Ù. <LINE> <BR> " ..
-                                      " ¦b·¥ºÝ´H§N¤Ñ®ð¤U,³Ì¦n¨Ï¥Î¨ú·x³]³Æ¶i¦æ¨ú·x:¾ÀÄl,¨T¨®·x®ð©M«Ç¥~êº¤õ³£¥i¥H¨ú·x(¦ý¤Á°O¦pªG¨S¦³¨¬°÷ªº¸gÅç,½Ð¤Å¦b«Ç¤ºÂI¿Uêº¤õ). <LINE> "..
-                                      " ¦b·¥ºÝª¢¼ö¤Ñ®ð¤U,³Ì¦nÀH¨­Äâ±a¥R¨¬ªº¶¼¤ô,¦P®É½Ð¾¨¶qµÛ¸Ë®L¸Ë. <LINE> <BR>" ..
-                                      " <H1> ·Å«× <BR> <TEXT> ¦pªG§A·Qª¾¹D²{¦bªº·Å«×,½Ð·j´M¤@°¦¹q¤l¿ö,¨ÃÀH¨­Äâ±a©Î¸Ë³Æ¦b¤â¤W.·Å«×±NÅã¥Ü¦b¥k¤W¨¤. <LINE> <BR> " ..
-                                      " <H1> ­·´H <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> ¯S§O¬O¦b¥V©u,­·´H¤]¬O¨M©w·Å«×ªº¤@­Ó¦]¯À,¥Ñ©ó±j­·©M¼É«B. ¼É­·³··|ÄY­«­°§C·Å«×. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> ­·´H·|¼vÅT§Aªº°·±d,¦ý¥¦¤£·|Åã¥Ü¦b¹q¤l¿ö¤W.½Ð®É¨è¯d·N§Aªº°·±dª¬ºA. <LINE> <BR> " ..
-                                      " ª`·N«O·x!",
-
-    SurvivalGuide_entrie11title = "¥Í¦s«ü«n #11 - Áô¯µ¦æ°Ê",
-    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> íL«Í¥Í¦s«ü«n <LINE> <SIZE:large> #11 - Áô¯µ¦æ°Ê <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - ¼ç¦æ <LINE> %2 - ½Ä¨ë <LINE> %3 - ºC¶]"
-    SurvivalGuide_entrie11moreinfo = "<H1> ÃÛ¤U <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> §A¥i¥HÃÛ¦bÀð©M¬]Äæ«á­±¥H­°§C¥L­Ìªº¥i¨£«×! <LINE> ±zÁÙ¥i¥H¦b¦¹ª¬ºA¤UºC¶]. <LINE> <BR> " ..
-                                        "<H1> ½Ä¨ë <BR> <TEXT> ¦pªGºC¶]¤£°÷§Ö - ½Ð¨Ï¥Î½Ä¨ë! <LINE> «ö¤U %1 ¶i¦æ½Ä¨ë - ¾¨ºÞ¸I¨ì»ÙÃªª«¦Ó¶^­Ë. <LINE> <BR> " ..
-                                        "<H1> ¦Û°ÊÂ½¶V <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> ­nÂ½¶VÆX¯¹,¥u»Ý­nºC¶]©Î½Ä¨ë´N·|¦Û°ÊÂ½¶V. <LINE> <BR> " ..
-                                        "<H1> ÃzÀY <BR> <TEXT> ·ííL«Í­Ë¤U®É:½ÐºË·ÇÀY³¡!¥´À»«DÀY³¡°Ï°ìµLªk³y¦¨¤j¶q¶Ë®`,¨Ã·|®ø¯Ó§A§ó¦hÅé¤O. <LINE> <BR> " ..
-                                        "<H1> ªø¥Ù <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> ¨Ï¥Îªø¥Ù»Ý­n¦X¾Aªº®É¾÷¤Î¶ZÂ÷.¦¹¥~,¬°¤°»ò¤£¸Õ¸Õªø¥Ù½Ä¨ë©O? <LINE> <BR> " ..
-                                        "<H1> ¨¾Å@ <BR> <TEXT> ¬ïµÛ¨¾¿m°ªªº¦çªA¥i¥H­°§C§A¨ü¶Ëªº´X²v. «ö %2 Áä¥´¶}µÛ¸Ë­±ªO¨Ó¬d¬Ý¦çªAªº¨¾Å@©Ê(½Ðª`·N,³Ì¦nªº¨¾Å@¨ÌµM¬O¸úÁ×íL«Í§ðÀ»¦Ó¤£¬O©MíL«Í¤¬¬Û¶Ë®`). <LINE> <BR> ",
-
+SurvivalGuide_CH = {
+    SurvivalGuide_entrie10moreinfo = "<H1> æ°£å€™è®ŠåŒ– <BR> <TEXT> Project Zomboidä¸­çš„å¤©æ°£æ¨¡å¼éžå¸¸é€¼çœŸ.é¡žæ¯”æ°£å€™ç³»çµ±æœƒè£½é€ é›¨,é›ª,éœ§å’Œé›·æš´ç­‰å¤©æ°£. <LINE>  ..",
+    SurvivalGuide_entrie10title = "ç”Ÿå­˜æŒ‡å— #10 - å¤©æ°£ç³»çµ±",
+    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> æ®­å±ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #10 - å¤©æ°£ç³»çµ± <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> éœ§, é¢¨æš´å’Œé›ªä½¿æ®­å±çš„å¨è„…æ›´å…·æŒ‘æˆ°æ€§! ç•¶å†¬å¤©ä¾†è‡¨æ™‚åšå¥½ä¿æš–...",
+    SurvivalGuide_entrie11moreinfo = "<H1> è¹²ä¸‹ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> ä½ å¯ä»¥è¹²åœ¨ç‰†å’ŒæŸµæ¬„å¾Œé¢ä»¥é™ä½Žä»–å€‘çš„å¯è¦‹åº¦! <LINE> æ‚¨é‚„å¯ä»¥åœ¨æ­¤ç‹€æ…‹ä¸‹æ…¢è·‘. <LINE> <BR>  ..",
+    SurvivalGuide_entrie11title = "ç”Ÿå­˜æŒ‡å— #11 - éš±ç§˜è¡Œå‹•",
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> æ®­å±ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #11 - éš±ç§˜è¡Œå‹• <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - æ½›è¡Œ <LINE> %2 - è¡åˆº <LINE> %3 - æ…¢è·‘",
+    SurvivalGuide_entrie1moreinfo = " <H1> ç§»å‹• <BR> <TEXT> æƒ³åœ¨ Project Zomboid å››è™•ç§»å‹•, ä½¿ç”¨ WASD éµ.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE>  ..",
+    SurvivalGuide_entrie1title = "ç”Ÿå­˜æŒ‡å— #1 - æŽ§åˆ¶è‡ªå·±",
+    SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #1 - æŽ§åˆ¶è‡ªå·± <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> ä½ è¦æ˜¯ä¸å¥½å¥½æ·±å‘¼å¸, å­¸ç¿’åŸºç¤Žçš„è©±æ˜¯æ´»ä¸ä¹…çš„. ",
+    SurvivalGuide_entrie2moreinfo = " <H1> æ®­å±æ„Ÿå®˜ <BR> <TEXT> ç”Ÿå­˜æ¨¡å¼ä¸­, æ­»è€…æœ‰è¦–è¦ºè·Ÿè½è¦ºåæ‡‰.  <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> è·‘æ­¥æœƒç”¢ç”Ÿå™ªéŸ³, ä½¿ä½ æ›´å®¹æ˜“å¸å¼•æ³¨æ„.  <BR> ä½ é›–ç„¶è·‘å¾—è´æ­»äºº, ä½†ä½ ä¸å¯èƒ½æ°¸é è·‘ä¸‹åŽ».  <BR> ..",
+    SurvivalGuide_entrie2title = "ç”Ÿå­˜æŒ‡å— #2 - ä¸è¦è·‘",
+    SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #2 - åˆ¥è·‘ <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> æ„›è·‘çš„å€–å­˜è€…æœƒè®Šæˆæ­»æŽ‰çš„å€–å­˜è€…. ",
+    SurvivalGuide_entrie3moreinfo = " <H1> æˆ°é¬¥ç³»çµ± <BR> <TEXT> æ¯å€‹æ­¦å™¨éƒ½æœ‰å…¶å‚·å®³å€¼. ä½†æ˜¯æ”»æ“ŠåŠ›é‚„æ˜¯å–æ±ºæ–¼ä½ è‡ªèº«çš„æŠ€èƒ½è·Ÿé«”æ…‹. <BR> <H2> è¬›ç©¶ç²¾æº– ..",
+    SurvivalGuide_entrie3title = "ç”Ÿå­˜æŒ‡å— #3 - è¬›ç©¶ç²¾æº–! ",
+    SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #3 - è¬›ç©¶ç²¾æº–!  <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> ä½ æ­£åœ¨å°æŠ—æ­»äºº! æƒ³æ“Šç©¿é ­æ®¼çš„è©±æ˜¯å¾—ç”¨é»žå¿ƒçš„!  <LINE> <LINE> åˆ‡è¨˜: è¡åˆºå’Œæ®æ“Š! ",
+    SurvivalGuide_entrie4moreinfo = " <H1> æ°´ <BR> <TEXT> æ°´ä¾›çµ¦, å¦‚åŒé›»åŠ›, æ˜¯æœ‰é™çš„. å¦‚æžœä½ æƒ³æŒçºŒä¸‹åŽ»çš„è©±æœ€å¥½æ”¶é›†ä¸€äº›æ°´ç“¶... <BR> ä½ çš„è§’è‰²æœƒè‡ªå‹•å¾žç‰©å“æ¬„å…§çš„å®¹å™¨å…§å–æ°´.  <BR> è¦å–æ°´æˆ–è€…è£æ°´çš„è©±, å°ä¸–ç•Œå…§æœ‰ä¾›æ°´çš„ç¶²æ ¼ / ç‰©ä»¶ä½¿ç”¨å³éµé¸å–®. æ°´æ§½, æµ´å®¤, æ°´é¾é ­... ç­‰ç­‰.  <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
+    SurvivalGuide_entrie4title = "ç”Ÿå­˜æŒ‡å— #4 - æ±‚æ°´ä¹‹è·¯",
+    SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #4 - æ±‚æ°´ä¹‹è·¯ <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> ä¹¾æ·¨çš„æ°´å°ä½ çš„ç”Ÿå‘½è‡³é—œé‡è¦. ",
+    SurvivalGuide_entrie5moreinfo = " <H1> ç‰©å“è£½ä½œ <BR> <TEXT> è¦åœ¨ç‰©å“æ¬„å…§è£½ä½œç‰©å“, åªéœ€å³éµé»žæ“Šä½ ç‰©å“æ¬„å…§æ‰€æ”œå¸¶çš„æ±è¥¿. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> æ‰€æœ‰ä½ èƒ½ä½¿ç”¨æ­¤ç‰©å“æˆ–å…¶ä»–ç‰©å“è£½ä½œçš„æ±è¥¿, éƒ½æœƒç¥žå¥‡åœ°å‡ºç¾!  <BR> å„ç¨®çƒ¹é£ª, æœ¨å·¥, é†«ç™‚, å’Œæ±‚ç”Ÿé…æ–¹éƒ½èƒ½åœ¨æœ«æ—¥ä¹‹ä¸­ç¥ä½ ä¸€è‡‚ä¹‹åŠ›.  <BR> <H1> åŠ å›ºé˜²ç¦¦ <BR> <TEXT> ä½ èƒ½ç”¨å³éµåŠ å›ºé–€çª—, ä½†ä½ çš„ç‰©å“æ¬„å…§éœ€è¦æœ¨æ¿å’Œé‡˜å­.  <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE> å¯ä»¥ä½¿ç”¨å¤šæ•¸æœ¨æ¿é€²è€Œå¼·åŒ–é–€èˆ‡çª—æˆ¶çš„å …å›ºåº¦.  <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> ..",
+    SurvivalGuide_entrie5title = "ç”Ÿå­˜æŒ‡å— #5 - è£½ä½œé€™å€‹é‚£å€‹",
+    SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #5 - è£½ä½œé€™å€‹é‚£å€‹ <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> æ®­å±å€‘æœƒå°é–€çª—æ”»æ“Š! ä¸æ”¾å¿ƒæ™‚: åŠ å›ºé˜²ç¦¦! ",
+    SurvivalGuide_entrie6moreinfo = " <H1> é˜»æ“‹ä»–å€‘çš„è¦–ç·š <BR> <TEXT> æ®­å±æœ«æ—¥ä¸­æœ€å¸¸è¦‹çš„éŒ¯èª¤ä¹‹ä¸€å°±æ˜¯æ²’æŠŠçª—ç°¾é—œä¸Š. å¿˜äº†é—œçª—å»‰å°±æ˜¯åœ¨é‚€è«‹å››è™•éŠè•©çš„æ®­å±å€‘åˆ°ä½ çš„é–€å‰ä½œå®¢, ç„¶å¾Œç›´è¡ä½ çš„è…¦è¢‹. <BR> è¦é—œä¸Šçª—ç°¾æˆ–ç™¾è‘‰çª—: ä½¿ç”¨å³éµé¸å–®.  <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> åŠ å›ºçª—æˆ¶ä¹Ÿèƒ½é˜²æ­¢æ­»äººå€‘çœ‹åˆ°å±‹å…§çš„ç‡ˆå…‰å’Œå‹•éœ.  <BR> å¦‚æžœæ²’æœ‰çª—ç°¾ä¹Ÿæ²’æœ‰å¤šé¤˜çš„æœ¨æ¿èƒ½æ‹¿ä¾†åŠ å›ºçš„è©±, ä¹Ÿè¨±ä½ èƒ½æŽ›ä¸Šå…¶å®ƒæ±è¥¿è©¦è©¦çœ‹? åŽ»å§, è©¦è©¦çœ‹. ",
+    SurvivalGuide_entrie6title = "ç”Ÿå­˜æŒ‡å— #6 - é˜²æ­¢å·çªº",
+    SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #6 - é˜²æ­¢å·çªº <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> ä»–å€‘é›–ç„¶æ­»äº†, ä½†é‚„æ˜¯èƒ½çœ‹éŽçª—æˆ¶.  <LINE> <LINE> æ²’æœ‰çª—ç°¾? è‡¨æ©Ÿæ‡‰è®Šå§. ",
+    SurvivalGuide_entrie7moreinfo = " <H1> çƒ¹é£ª <BR> <TEXT> ç‰›è‚‰, é›žè‚‰å’Œè¨±å¤šå…¶å®ƒé£Ÿç‰©éƒ½éœ€è¦çƒ¹ç…®éŽå¾Œæ‰èƒ½é£Ÿç”¨ (é‚£äº›éŠæˆ²çœŸç˜‹ç‹‚, æ˜¯å§? )  <BR> ä¸åªæ˜¯ç‚ºäº†é™ä½Žé£Ÿç‰©ä¸­æ¯’çš„é¢¨éšª, çƒ¹ç…®å¾Œçš„é£Ÿç‰©æ›´èƒ½æ»¿è¶³æƒ…ç·’, æä¾›ç‡Ÿé¤Š, è·Ÿå°æŠ—é£¢é¤“.  <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> æƒ³çƒ¹ç…®é£Ÿç‰©çš„è©±, åªéœ€å°‡å…¶æ”¾å…¥çƒ¤ç®±æˆ–å¾®æ³¢çˆå…§å°±å¥½ - æˆ–è€…ä½ ä¹Ÿå¯ä»¥è‡ªè¡Œç”Ÿç«.  <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> ä½¿ç”¨å³éµé¸å–®å°‡çƒ¹ç…®å®¶é›»æ‰“é–‹, é£Ÿç‰©ç…®ç†Ÿå¾Œå¾žæ‹¾å–è¦–çª—å…§å–å‡º. ç…®å®Œæ±è¥¿è¨˜å¾—é—œé–‰å®¶é›», ä»¥é˜²è¬ä¸€.  <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> ..",
+    SurvivalGuide_entrie7title = "ç”Ÿå­˜æŒ‡å— #7 - ç¾Žå‘³ä½³é¤š",
+    SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #7 - ç¾Žå‘³ä½³é¤š <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> é£Ÿç‰©ä¸­æ¯’ä¸€é»žä¹Ÿä¸å¥½çŽ©. åœ¨æœ«æ—¥ä¹‹ä¸­æ›´æ˜¯å¦‚æ­¤.  <LINE> <LINE> ç†±é¨°é¨°çš„é£Ÿç‰©èƒ½å¸¶ä¾†é•·ä¹…çš„å¥½è™•. ",
+    SurvivalGuide_entrie8moreinfo = " <H1> é¸æ“‡ <BR> <TEXT> è¦å¦‚ä½•ç¿»æ‰¾, æ‹¿åŽ», ä¸Ÿä¸‹å’Œä½¿ç”¨å„ç¨®ç‰©å“å‘¢? åœ¨ Project Zomboid è£¡é€™äº›å‹•ä½œåˆ°è™•éƒ½æ˜¯!  <BR> æœ€ä¸»è¦çš„æ–¹æ³•å°±æ˜¯ç°¡å–®åœ°é»žæ“Šå’Œæ‹–æ”¾ - æˆ–è€…ä½ ä¹Ÿå¯ä»¥ä½¿ç”¨å³éµé¸å–®.  <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE>  ..",
+    SurvivalGuide_entrie8title = "ç”Ÿå­˜æŒ‡å— #8 - å›¤ç©ç‰©è³‡",
+    SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #8 - å›¤ç©ç‰©è³‡ <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> æœ‰æ•ˆä¸”å¿«é€Ÿåœ°ç®¡ç†ä½ çš„ç‰©å“æ¬„ä¸ä½†èƒ½ç¯€çœæ™‚é–“ - é‚„èƒ½ä¿ä½æ€§å‘½! ",
+    SurvivalGuide_entrie9moreinfo = " <H1> é€²å…¥è»Šè¼› <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> å¦‚æžœä½ å¤ å¥½é‹çš„è©±, ä¹Ÿè¨±èƒ½æ‰¾åˆ°åŒ†å¿™è»Šä¸»ç•™åœ¨è»Šé–€, å„€éŒ¶æ¿æˆ–æ‰‹å¥—ç®±çš„è»Šé‘°åŒ™. ä½ ä¹Ÿå¯ä»¥æœå°‹é™„è¿‘çš„æ®­å±, å…¶ä¸­ä¹‹ä¸€å¯èƒ½å°±æ˜¯è»Šä¸». åŒæ¨£åœ°, å¦‚æžœä½ æƒ³æ‰¾åˆ°åœåœ¨å±‹å¤–è»Šè¼›çš„é‘°åŒ™ - æœç´¢å±‹å…§, é‘°åŒ™å¯èƒ½å°±åœ¨é‚£.  <BR> é‚„æ˜¯æ²’æ‰¾åˆ°å—Ž? ä½•ä¸ç›´æŽ¥é—–é€²åŽ»å‘¢? æ‰“ç ´è»Šçª—ä¾†è§£éŽ–è»Šé–€. å¦‚æžœä½ çš„æ©Ÿå·¥å’Œé›»å·¥æŠ€èƒ½å¤ é«˜çš„è©±, å°±å¯ä»¥çŸ­æŽ¥å•Ÿå‹•è»Šè¼›.  <BR>  ..",
+    SurvivalGuide_entrie9title = "ç”Ÿå­˜æŒ‡å— #9 - äº¤é€šå·¥å…·",
+    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ZOMBOID ç”Ÿå­˜æŒ‡å— <LINE> <SIZE:large> #9 - äº¤é€šå·¥å…· <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> è»Šè¼›å°ç”Ÿå­˜å¸¶ä¾†å¾ˆå¤§çš„å¹«åŠ©, ä½†ä¹Ÿå¸¶ä¾†å¾ˆå¤§çš„å™ªéŸ³! è½Ÿéš†éš†çš„å¼•æ“Žæœƒå¸å¼•é è™•çš„æ®­å±...",
 }

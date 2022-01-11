@@ -1,4 +1,9 @@
-Douggy_Sans(dfr12382)
-BigSmoke
-Washi(berice152233)
-Yuanmo(ligyik00)
+gamer.com.tw Translation: 
+- Douggy_Sans(dfr12382)
+- BigSmoke
+- Washi(berice152233)
+- Yuanmo(ligyik00)
+- 
+b41 Overhaul: 
+- mraz#9738
+- with special thanks to YD360 for playtesting.

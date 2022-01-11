@@ -51,10 +51,10 @@ Moodles_KO = {
     Moodles_panic_lvl4 = "공황상태",
 
 	-- Sick
-	Moodles_sick_lvl1 = "속이 안좋음",
+	Moodles_sick_lvl1 = "속이 안 좋음",
 	Moodles_sick_lvl2 = "메스꺼움",
-	Moodles_sick_lvl3 = "아픔",
-	Moodles_sick_lvl4 = "고열",
+	Moodles_sick_lvl3 = "병들었음",
+	Moodles_sick_lvl4 = "고열이 남",
 
 	-- Bored
     Moodles_bored_lvl1 = "심심함",
@@ -63,8 +63,8 @@ Moodles_KO = {
     Moodles_bored_lvl4 = "극심한 지루함",
 
 	-- Unhappy
-    Moodles_unhappy_lvl1 = "슬퍼짐",
-    Moodles_unhappy_lvl2 = "울고 싶음",
+    Moodles_unhappy_lvl1 = "약간 슬퍼짐",
+    Moodles_unhappy_lvl2 = "조금 눈물이 나올 것 같음",
     Moodles_unhappy_lvl3 = "우울함",
     Moodles_unhappy_lvl4 = "극심한 우울함",
 
@@ -93,10 +93,10 @@ Moodles_KO = {
     Moodles_injured_lvl4 = "치명적인 부상",
 
 	-- Pain
-    Moodles_pain_lvl1 = "약간 아픔",
-    Moodles_pain_lvl2 = "고통",
-    Moodles_pain_lvl3 = "심한 고통",
-    Moodles_pain_lvl4 = "극도의 고통",
+    Moodles_pain_lvl1 = "약간 고통스러움",
+    Moodles_pain_lvl2 = "고통스러움",
+    Moodles_pain_lvl3 = "심하게 고통스러움",
+    Moodles_pain_lvl4 = "극도로 고통스러움",
 
 	-- Drunk
     Moodles_drunk_lvl1 = "약한 술기운",
@@ -143,10 +143,10 @@ Moodles_KO = {
     Moodles_angry_desc_lvl4 = "싸움 걸고 다님.",
 
 	-- Stress
-    Moodles_stress_desc_lvl1 = "굉장히 예민함.",
-    Moodles_stress_desc_lvl2 = "신경과민.",
-    Moodles_stress_desc_lvl3 = "식은땀이 나고 불안감이 엄습.",
-    Moodles_stress_desc_lvl4 = "정신분열이 일어남.",
+    Moodles_stress_desc_lvl1 = "안절부절못함.",
+    Moodles_stress_desc_lvl2 = "불안하고 초조함.",
+    Moodles_stress_desc_lvl3 = "손바닥이 땀에 젖고, 신경이 두려움에 갉아먹힘.",
+    Moodles_stress_desc_lvl4 = "너무나 두렵다.",
 
 	-- Thirsty
     Moodles_thirst_desc_lvl1 = "입이 마름.",
@@ -158,13 +158,13 @@ Moodles_KO = {
     Moodles_tired_desc_lvl1 = "누울 데가 있으면 좋겠음.",
     Moodles_tired_desc_lvl2 = "집중력이 저하됨.",
     Moodles_tired_desc_lvl3 = "집중력이 크게 저하됨.",
-    Moodles_tired_desc_lvl4 = "정신을 잃을 수 있음.",
+    Moodles_tired_desc_lvl4 = "너무 피곤하고. 힘이 안 난다. 무시무시하게 피곤하다.",
 
 	-- Hungry
     Moodles_hungry_desc_lvl1 = "먹을 게 있으면 좋겠음.",
     Moodles_hungry_desc_lvl2 = "말이라도 있으면 먹고 싶음",
-    Moodles_hungry_desc_lvl3 = "힘과 치유능력이 크게 저하됨.",
-    Moodles_hungry_desc_lvl4 = "체력이 지속적으로 깎임.",
+    Moodles_hungry_desc_lvl3 = "근력과 치유능력이 크게 저하됨.",
+    Moodles_hungry_desc_lvl4 = "체력이 지속적으로 깎임...",
 	-- Panic
     Moodles_panic_desc_lvl1 = "숨어서 심호흡을 하십시오.",
     Moodles_panic_desc_lvl2 = "명중률이 저하됨.",
@@ -173,12 +173,12 @@ Moodles_KO = {
 
 	-- Sickness
     Moodles_sick_desc_lvl1 = "쉬어가면서 행동하십시오.",
-    Moodles_sick_desc_lvl2 = "힘과 치유능력이 저하됨.",
-    Moodles_sick_desc_lvl3 = "힘과 치유능력이 크게 저하됨.",
+    Moodles_sick_desc_lvl2 = "근력과 치유능력이 저하됨.",
+    Moodles_sick_desc_lvl3 = "근력과 치유능력이 크게 저하됨.",
     Moodles_sick_desc_lvl4 = "죽음의 위험이 점점 커짐.",
 
 	-- Bored
-    Moodles_bored_desc_lvl1 = "할 일이나 즐거운 일을 만들어 보십시오.",
+    Moodles_bored_desc_lvl1 = "정신 차리거나, 즐거운 일을 만들어 보세요.",
     Moodles_bored_desc_lvl2 = "우울증에 걸릴 수 있음.",
     Moodles_bored_desc_lvl3 = "우울증에 걸릴 확률이 높음.",
     Moodles_bored_desc_lvl4 = "우울증으로 가는 길.",
@@ -190,24 +190,24 @@ Moodles_KO = {
 
 	-- Bleeding
     Moodles_bleed_desc_lvl1 = "붕대가 필요합니다.",
-    Moodles_bleed_desc_lvl2 = "힘과 이동속도가 저하됨.",
-    Moodles_bleed_desc_lvl3 = "힘과 이동속도가 크게 저하됨.",
+    Moodles_bleed_desc_lvl2 = "근력과 이동속도가 저하됨.",
+    Moodles_bleed_desc_lvl3 = "근력과 이동속도가 크게 저하됨.",
     Moodles_bleed_desc_lvl4 = "사망 직전.",
 	-- Wet
     Moodles_wet_desc_lvl1 = "약간 축축하다. 비인가? 땀인가?",
-    Moodles_wet_desc_lvl2 = "축축하다. 땀이 많이나는건가? 비가 많이 오는건가?",
+    Moodles_wet_desc_lvl2 = "축축하다. 땀이 많이 나는 건가? 비가 많이 오는 건가?",
     Moodles_wet_desc_lvl3 = "감기에 걸릴 것 같다.",
     Moodles_wet_desc_lvl4 = "몹시 감기에 걸릴 것 같다.",
 	-- Has a cold
     Moodles_hasacold_desc_lvl1 = "가끔씩 재채기를 함.",
     Moodles_hasacold_desc_lvl2 = "자꾸만 재채기를 함.",
     Moodles_hasacold_desc_lvl3 = "기침을 동반한 재채기. 이동속도와 치유능력이 저하됨.",
-    Moodles_hasacold_desc_lvl4 = "이동속도와 치유능력 이 크게 저하됨.",
+    Moodles_hasacold_desc_lvl4 = "이동속도와 치유능력이 크게 저하됨.",
 
 	-- Injured
     Moodles_injured_desc_lvl1 = "응급조치가 필요함.",
-    Moodles_injured_desc_lvl2 = "힘과 이동속도가 저하됨.",
-    Moodles_injured_desc_lvl3 = "힘과 이동속도가 크게 저하됨.",
+    Moodles_injured_desc_lvl2 = "근력과 이동속도가 저하됨.",
+    Moodles_injured_desc_lvl3 = "근력과 이동속도가 크게 저하됨.",
     Moodles_injured_desc_lvl4 = "편히 잠들지 못할 것 같다...",
 	-- Pain
     Moodles_pain_desc_lvl1 = "약간의 고통을 느낌.",
@@ -224,7 +224,7 @@ Moodles_KO = {
     Moodles_drunk_desc_lvl1 = "술기운이 돌기 시작.",
     Moodles_drunk_desc_lvl2 = "몸이 마음대로 잘 안 움직임.",
     Moodles_drunk_desc_lvl3 = "몸을 가누기가 힘듦.",
-    Moodles_drunk_desc_lvl4 = "'느어랑 나밖에 업쓰어~ 이세상은 쓰렉기야! 사랑해~사랑해...'",
+    Moodles_drunk_desc_lvl4 = "'느어랑 나밖에 업쓰어~ 이 세상은 쓰렉기야! 사랑해~사랑해...'",
 
 	-- Dead
     Moodles_dead_desc_lvl1 = "쥐 먹이가 될 확률이 높음.",
@@ -233,13 +233,13 @@ Moodles_KO = {
     Moodles_zombified_desc_lvl1 = "사람이 맛있어 보임.",
 
 	-- Food eaten
-    Moodles_foodeaten_desc_lvl1 = "신경쓰이는 배고픔이 사라졌다.",
+    Moodles_foodeaten_desc_lvl1 = "신경 쓰이는 배고픔이 사라졌다.",
     Moodles_foodeaten_desc_lvl2 = "배가 꽉찼다, 당신의 몸을 이롭게 할 겁니다.",
-    Moodles_foodeaten_desc_lvl3 = "위장이 만족했다. 잠깐 체력과 힘이 증가한다.",
-    Moodles_foodeaten_desc_lvl4 = "한 입 더 먹는걸 멈추지 못했어... 힘과 치유 능력이 장시간 유지됨.",
+    Moodles_foodeaten_desc_lvl3 = "위장이 만족했다. 잠깐 체력과 근력이 증가한다.",
+    Moodles_foodeaten_desc_lvl4 = "한 입 더 먹는 걸 멈추지 못했어... 근력과 치유 능력이 장시간 유지됨.",
 
 	-- Hyperthermia
-    Moodles_hyperthermia_desc_lvl1 = "더워지기 시작함 옷을 벗고 싶음. 갈증이 증가함.",
+    Moodles_hyperthermia_desc_lvl1 = "더워지기 시작함. 옷을 벗고 싶음. 갈증이 증가함.",
     Moodles_hyperthermia_desc_lvl2 = "목이 마르고 땀이 남. 햇빛에 과다 노출됨.",
     Moodles_hyperthermia_desc_lvl3 = "메스껍고 집중력이 떨어짐. 수분을 찾아 혈안이 됨.",
     Moodles_hyperthermia_desc_lvl4 = "열사병으로 의식이 혼미함. 심각한 위기상황.",
@@ -248,7 +248,7 @@ Moodles_KO = {
     Moodles_hypothermia_desc_lvl1 = "여긴 좀 추운 것 같은데...",
     Moodles_hypothermia_desc_lvl2 = "따뜻하게 있을 방법을 찾으십시오.",
     Moodles_hypothermia_desc_lvl3 = "아직 살아있다. 엄청나게 추워.",
-    Moodles_hypothermia_desc_lvl4 = "몸과 마음이 추위에 사로 잡혔음. 얼어죽는다.",
+    Moodles_hypothermia_desc_lvl4 = "몸과 마음이 추위에 사로잡혔음. 얼어죽는다.",
 
 	-- Windchill
 
@@ -261,5 +261,9 @@ Moodles_KO = {
 	Moodles_windchill_desc_lvl2 = "실제보다 10-15도 정도 차갑게 느낀다.",
 	Moodles_windchill_desc_lvl3 = "실제보다 15-20도 정도 차갑게 느낀다.",
 	Moodles_windchill_desc_lvl4 = "실제보다 20도 넘게 차갑게 느낀다.",
+
+    -- CantSprint
+    Moodles_CantSprint = "전력질주할 수 없음."
+    Moodles_CantSprint_desc = "무거운 옷을 벗는 것을 고려해보세요."
 
 }

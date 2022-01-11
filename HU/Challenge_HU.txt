@@ -1,0 +1,79 @@
+Challenge_HU = {
+Challenge_YouHaveOneDay_name = "Egy napod van",
+Challenge_YouHaveOneDay_desc = "Visszatértél Knox megyébe. Újra ott vagy a térképen, ahol a Project Zomboid fertõzés elkezdõdött. <LINE> <LINE> Egy napod van a viszonylagos biztonságra. Zombik érkeznek nagy mennyiségben és meg fognak találni. Hol tartottál ki utoljára? Hol volt az utolsó állásod régen? Jobb, ha gyorsan megtalálod. <LINE> <LINE> [Köszönetet mondunk BobHeckling közösségi térképésznek, aki újjáépítette a régi 0.1.5 térképet a jelenlegi PZ eszközkészlettel.]",
+
+Challenge_WinterIsComing_name = "Közeleg a tél",
+Challenge_WinterIsComing_desc = "Július közepe van, de hirtelen szokatlanul hideg lesz a szél. Mindössze három nap múlva beköszönt a tél olyan keményen és hirtelen, mint eddig soha. <LINE> <LINE> Egy elszigetelt helyen ébredsz. Van némi szûkös ellátmány és az élõhalott hordáit lassítja a durva hideg - de ettõl nem kevésbé halálosak. <LINE> <LINE> Tekerd fel a meleget, túlélõ...",
+
+Challenge_OpeningHours_name = "Nyitvatartási idõ",
+Challenge_OpeningHours_desc = "A plázát körbevették. Egyszer, valamikor régen ez egy fontos hely volt az életükben. Az ösztönük az ajtókhoz vezette õket. Egy emlék a korábbi életükbõl... <LINE> <LINE> Egyedül vagy, de nem sokáig. 9-kor a pláza készen áll az eladásra: az ajtók kinyílnak, és a hordák beözönlenek. <LINE> <LINE> Készülj fel!",
+
+Challenge_AReallyCDDAy_name = "Egy igazán rossz nap",
+Challenge_AReallyCDDAy_desc = "Kijössz a zuhany alól, és esel egy hatalmasat. Tök részeg vagy, ráadásul baromi hideg van. <LINE> <LINE> Mindennek a tetejébe, a ház lángokban áll! A mai nap határozottan nem a te napod. <LINE> <LINE> [Az - Egy igazán rossz nap - kihívást ihlette a félelmetes és csodálatos és MUST-PLAY Cataclysm: Dark Days Ahead] ",
+
+Challenge_Challenge1_name = "Ház az erdõben - Az utolsó ellenállás",
+Challenge_Challenge1_desc = "Hallani, ahogy közelednek. Az élõholtak hordái minden oldalról támadják az elbarikádozott kunyhót. A halál elkerülhetetlen, de a sörétes puska kéznél van. <LINE> <LINE> Utolsó mentsvár a végtelen hullámokban érkezõ, egyre növekvõ számú zombival szemben. Túlélni, ameddig csak lehetséges a nyilvánvaló túlerõ dacára.",
+
+Challenge_Challenge2_name = "Ház az erdõben - Az utolsó ellenállás gyûjtögetéssel",
+Challenge_Challenge2_desc = "Egy másik nap, egy másik ház készen arra, hogy vérbe borítsd. A hordák a sarkadban vannak, a halálod ugyanolyan fájdalmas lesz, mint amilyen borzalmas. Menj és harcolj... <LINE> <LINE> Utolsó ellenállás gyûjtögetéssel, miközben végtelen hullámokban, egyre nagyobb számban érkeznek a hordák. Használd a dögök leölésével szerzett pénzt felszerelések vásárlásához, a véráztatta fegyverek fejlesztéséhez és javításához.",
+
+Challenge_AStormIsComing_name = "Vihar közeleg",
+Challenge_AStormIsComing_desc = "Felhõk gyûlnek Kentucky felett. A távolból már hallani a mennydörgést. <LINE> <LINE> Amint az égbolt elsötétül, a föld felett botladozó halottak nyugtalanná válnak. <LINE> <LINE> Ez egy olyan vihar, amely egyre csak növekedni fog és bár néha csendesedik, soha nem ér véget.",
+
+Challenge_TheDescendingFog_name = "Leszálló köd",
+Challenge_TheDescendingFog_desc = "Az emberek elõször a vízen láthatták. Halvány fehér takaró az Ohio folyó felett. <LINE> <LINE> Ködként kezdõdött. Aztán beborította az egész várost. A városlakók sikoltozva haltak meg a homályban. Most ott sétálnak. <LINE> <LINE> Észrevétlenül, csendben és könyörtelenül vadásznak az élõkre.",
+
+Challenge_Kingsmouth_name = "Kingsmouth",
+Challenge_Kingsmouth_desc = "Élvezze a pihentetõ kikapcsolódást a Kingsmouth-szigeten!",
+
+Challenge_Studio_name = "Stúdió",
+Challenge_Studio_desc = "Ahol a legjobb filmeket forgatják!",
+	-- On-screen UI
+Challenge_Challenge2_PressKey = "Nyomd meg az "o" gombot az állandó fejlesztéshez és a pénz elköltéséhez.",
+Challenge_Challenge2_WaveStart = "Hullám %1 in : %2 (nyomj Enter-t a kihagyáshoz)",
+Challenge_Challenge2_WaveDuration = "Hullám %1 : %2",
+Challenge_Challenge2_ZombiesLeft = "Ennyi zombi maradt : %1",
+Challenge_Challenge2_Money = "Pénz : %1",
+Challenge_Challenge2_Money2 = "Játékos %1 pénz : %2",
+Challenge_Challenge2_WaveFinished = "Hullám %1 kész : %2",
+Challenge_Challenge2_MoneyGained = "Megszerzett pénz : %1",
+Challenge_Challenge2_XPGained = "Megszerzett tapasztalat : %1",
+	-- Window
+Challenge_Challenge2_WindowTitle = "Utolsó állás",
+Challenge_Challenge2_TabPlayer = "Játékos",
+Challenge_Challenge2_Weapons = "Fegyverek",
+Challenge_Challenge2_TabItems = "Tárgyak",
+Challenge_Challenge2_TabRepair = "Javítás",
+Challenge_Challenge2_CurrentXp = "TP : %1",
+Challenge_Challenge2_ButtonSkill = "%1 szint %2 - %3 TP"
+Challenge_Challenge2_ButtonSkillMax = "%1 szint Max",
+Challenge_Challenge2_GoldBonus = "Arany bónusz",
+Challenge_Challenge2_XpBonus = "TP bónusz",
+Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 TP",
+Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+Challenge_Challenge2_ButtonStartGold = "+%1 Induló arany - %2 TP",
+Challenge_Challenge2_ButtonStartGoldMax = "Max induló arany %1",
+	-- PlayerUpWindow
+Challenge_Challenge2_Skills = "Készségek",
+Challenge_Challenge2_PermanentBonus = "Állandó bónusz",
+	-- VariousItemWindow
+Challenge_Challenge2_Carpentry = "Ács szakma",
+Challenge_Challenge2_Health = "Egészség",
+Challenge_Challenge2_ItemButton = "%1 - %2",
+Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+Challenge_Challenge2_RepairWeapon = "Fegyverjavítás",
+	-- WeaponUpWindow
+Challenge_Challenge2_Health = "Egészség",
+
+Challenge_OpeningHoursInfoBox = " <CENTRE> A bevásárlóközpont reggel 9-kor nyit. <LINE> <LINE> Készülj fel a tömegre...",
+Challenge_WinterIsComingInfoBox = " <CENTRE> Három nap múlva kezdõdik a végtelen tél. <LINE> <LINE> Melegen öltözz fel...",
+Challenge_YouHaveOneDayInfoBox = " <CENTRE>24 óra múlva a Knox megyébe való visszatérésed földi pokollá válik...",
+Challenge_AStormIsComingInfoBox = " <CENTRE> Végtelen rossz idõ elé nézünk...",
+Challenge_TheDescendingFogInfoBox = " <CENTRE> Köd lesz...",
+
+    -- v41.64
+	-- Átnézve 2021.12.18
+	-- Megjegyzés:
+    -- Nincs új sor és változás.
+}

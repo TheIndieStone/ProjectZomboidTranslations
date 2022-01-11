@@ -264,4 +264,11 @@ Tooltip_ES = {
 	Tooltip_Recipe_HockeyMaskSmashBottle = "Requiere el uso de una máscara de hockey.<br>Úsala con precaución.",
 	Tooltip_RemoveCurtains = "Da una %1.",
 	Tooltip_PickUpCurtains = "También puedes recoger las cortinas con la herramienta de mobiliario.",
+	Tooltip_media_title = "Título",
+	Tooltip_media_author = "Autor",
+	Tooltip_media_item_operate = "Equipar como primario o secundario para su uso.",
+	Tooltip_item_StackWeight = "Peso del montón",
+	Tooltip_Map_CantEdit = "Requiere una goma de borrar y un bolígrafo o un lápiz.",
+	Tooltip_CantCraftSecondLitCandle = "Ya tienes una vela encendida.",
+	Tooltip_item_empty_sack_container = "Puede utilizarse como contenedor si está vacío.",
 }

@@ -56,4 +56,14 @@ Farming_RU = {
 	Farming_Strawberry plant = "Клубника",
 	Farming_Tomato = "Томат",
 	Farming_Plowed_Land = "Вспаханная земля",
+
+	Farming_Tooltip_FurrowNeedsSeed = "Борозде требуются семена.",
+	Farming_Tooltip_ItemUsed = "Использовано",
+	Farming_Tooltip_NotAFurrow = "Не борозда.",
+	Farming_Tooltip_NotAPlant = "Не растение.",
+	Farming_Tooltip_NotEnoughWaterInInventory = "В инвентаре не хватает воды.",
+	Farming_Tooltip_NotReadyToHarvest = "Не готово к сбору.",
+	Farming_Tooltip_PlantHasEnoughWater = "Растение уже было полито.",
+	Farming_Tooltip_FurrowHasSeeds = "В борозде уже есть семена.",
+	Farming_MissingItem = "Требуется %1",
 }

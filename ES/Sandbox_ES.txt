@@ -586,4 +586,9 @@ Sandbox_ES = {
 	Sandbox_FuelStationGas_option6 = "Muy alto",
 	Sandbox_FuelStationGas_option7 = "Lleno",
 	Sandbox_FuelStationGas_option8 = "Infinito",
+	Sandbox_Map = "Mapa del juego",
+	Sandbox_AllowMiniMap = "Permitir mini mapa",
+	Sandbox_AllowWorldMap = "Permitir mapa del mundo",
+	Sandbox_AllClothesUnlocked = "Toda la ropa desbloqueada",
+	Sandbox_MapAllKnown = "Todo conocido al inicio",
 }

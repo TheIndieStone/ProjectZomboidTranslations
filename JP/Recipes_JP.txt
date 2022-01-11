@@ -2,8 +2,8 @@ Recipe_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.53
-	-- Date 08-05-2021
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -315,7 +315,6 @@ Recipe_JP = {
 	Recipe_Make_Suture_Needle_Holder = "縫合持針器を作る",
 	Recipe_Make_Tongs = "金箸を作る",
 	Recipe_Make_Tweezers = "医療ピンセットを作る",
-	Recipe_HotDrink = "熱い飲み物",
 	Recipe_Prepare_Beverage = "飲み物を作る",
 	Recipe_FruitSalad = "フルーツサラダ",
 	Recipe_Make_Fruit_Salad = "フルーツサラダを作る",
@@ -323,8 +322,7 @@ Recipe_JP = {
 	Recipe_Rip_Clothing = "布切れを作る",
 	Recipe_Make_Small_Metal_Sheet = "金属板(小さい)を作る",
 	Recipe_Wash_Clothing = "衣類を洗濯する",
-	Recipe_Make_Cold_Cuppa = "飲み物を作る",
-	Recipe_Make_Hot_Cuppa = "飲み物を作る",
+
 	Herbalist = "薬草を使った治療",
 	Recipe_Basic_Mechanics = "標準モデルの整備",
 	Recipe_Intermediate_Mechanics = "商用モデルの整備",
@@ -393,5 +391,11 @@ Recipe_JP = {
 	Recipe_Make Newspaper Hat = "帽子(新聞紙)を作る",
 	Recipe_Make Tin Foil Hat = "ティンホイル・ハットを作る",
 	Recipe_Saw Off Double Barrel Shotgun = "銃身と銃床を切り詰める",
+	Recipe_HotDrink = "温かい飲み物",
+	Recipe_HotDrinkRed = "温かい飲み物",
+	Recipe_HotDrinkSpiffo = "温かい飲み物",
+	Recipe_HotDrinkWhite = "温かい飲み物",
+	Recipe_Make_Cold_Cuppa = "冷たい飲み物を作る",
+	Recipe_Make_Hot_Cuppa = "温かい飲み物を作る",
 
 }
