@@ -1,28 +1,28 @@
 MultiStageBuild_CH = {
     -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "«Ø³y¤ìÀğ µ¥¯Å1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "¤É¯Å¤ìÀğ¨ì µ¥¯Å2",
-    MultiStageBuild_CreateWoodenWall_2 = "«Ø³y¤ìÀğ µ¥¯Å2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "¤É¯Å¤ìÀğ¨ì µ¥¯Å3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "¤É¯Å¤ìÀğ¨ì µ¥¯Å3",
-    MultiStageBuild_CreateWoodenWall_3 = "«Ø³y¤ìÀğ µ¥¯Å3",
+    MultiStageBuild_CreateWoodenWall_1 = "å»ºé€ æœ¨ç‰† ç­‰ç´š1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "å‡ç´šæœ¨ç‰†åˆ° ç­‰ç´š2",
+    MultiStageBuild_CreateWoodenWall_2 = "å»ºé€ æœ¨ç‰† ç­‰ç´š2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "å‡ç´šæœ¨ç‰†åˆ° ç­‰ç´š3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "å‡ç´šæœ¨ç‰†åˆ° ç­‰ç´š3",
+    MultiStageBuild_CreateWoodenWall_3 = "å»ºé€ æœ¨ç‰† ç­‰ç´š3",
     -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "«Ø³y¤ìµ¡ µ¥¯Å1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "¤É¯Å¤ìµ¡¨ì µ¥¯Å2",
-    MultiStageBuild_CreateWoodenWindow_2 = "«Ø³y¤ìµ¡ µ¥¯Å2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "¤É¯Å¤ìµ¡¨ì µ¥¯Å2",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "¤É¯Å¤ìµ¡¨ì µ¥¯Å3",
-    MultiStageBuild_CreateWoodenWindow_3 = "«Ø³y¤ìµ¡ µ¥¯Å3",
+    MultiStageBuild_CreateWoodenWindow_1 = "å»ºé€ æœ¨çª— ç­‰ç´š1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "å‡ç´šæœ¨çª—åˆ° ç­‰ç´š2",
+    MultiStageBuild_CreateWoodenWindow_2 = "å»ºé€ æœ¨çª— ç­‰ç´š2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "å‡ç´šæœ¨çª—åˆ° ç­‰ç´š2",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "å‡ç´šæœ¨çª—åˆ° ç­‰ç´š3",
+    MultiStageBuild_CreateWoodenWindow_3 = "å»ºé€ æœ¨çª— ç­‰ç´š3",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "«Ø³yª÷ÄİÀğ µ¥¯Å1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "¤É¯Åª÷ÄİÀğ¨ì µ¥¯Å2",
-    MultiStageBuild_CreateMetalWall_2 = "«Ø³yª÷ÄİÀğ µ¥¯Å2",
+    MultiStageBuild_CreateMetalWall_1 = "å»ºé€ é‡‘å±¬ç‰† ç­‰ç´š1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "å‡ç´šé‡‘å±¬ç‰†åˆ° ç­‰ç´š2",
+    MultiStageBuild_CreateMetalWall_2 = "å»ºé€ é‡‘å±¬ç‰† ç­‰ç´š2",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "«Ø³yª÷Äİµ¡ µ¥¯Å1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "¤É¯Åª÷Äİµ¡¨ì µ¥¯Å2",
-    MultiStageBuild_CreateMetalWindow_2 = "«Ø³yª÷Äİµ¡ µ¥¯Å2",
+    MultiStageBuild_CreateMetalWindow_1 = "å»ºé€ é‡‘å±¬çª— ç­‰ç´š1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "å‡ç´šé‡‘å±¬çª—åˆ° ç­‰ç´š2",
+    MultiStageBuild_CreateMetalWindow_2 = "å»ºé€ é‡‘å±¬çª— ç­‰ç´š2",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "¤É¯Å¤ìªù®Ø¨ì µ¥¯Å2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "¤É¯Å¤ìªù®Ø¨ì µ¥¯Å3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "å‡ç´šæœ¨é–€æ¡†åˆ° ç­‰ç´š2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "å‡ç´šæœ¨é–€æ¡†åˆ° ç­‰ç´š3",
 }
 

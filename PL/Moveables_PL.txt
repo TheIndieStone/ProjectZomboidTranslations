@@ -385,6 +385,7 @@ Moveables_PL = {
     Medium_Table = "Średni stół",
     Merry_Go_Round = "Karuzela",
     Metal_Crate = "Metalowa skrzynia",
+    Metal_Drum = "Beczka - metalowa",
     Metal_Locker = "Metalowe szafki",
     Metal_Wall_Shelves = "Metalowe półki ścienne",
     Middle_Evangelical_Banner = "Środkowy baner ewangelicki",

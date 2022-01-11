@@ -295,7 +295,7 @@ GameSound_CN = {
     GameSound_VehicleDoorOpen = "车门打开",
     GameSound_LockVehicleDoor = "车门上锁",
     GameSound_UnlockVehicleDoor = "车门解锁",
-    GameSound_VehicleDoorsLocked = "车门已锁",
+    GameSound_VehicleDoorIsLocked = "车门已锁",
     GameSound_VehicleHoodClose = "发动机罩关闭",
     GameSound_VehicleHoodOpen = "发动机罩打开",
     GameSound_VehicleTrunkClose = "后备箱关闭",
@@ -355,7 +355,7 @@ GameSound_CN = {
     GameSound_CatchFish = "插鱼",
     GameSound_CatchTrashWithRod = "插中垃圾",
     GameSound_StrikeWithFishingSpear = "长矛攻击",
-    GameSound_CheckFighingNet = "检查渔网",
+    GameSound_CheckFishingNet = "检查渔网",
     
     
 /* Zombie */
@@ -390,7 +390,6 @@ GameSound_CN = {
     GameSound_TutorialZombie = "僵尸教程",
 
     --Add Text--
-	GameSound_CheckFishingnet = "检查渔网",
-	GameSound_VehicleDoorIsLocked = "车门被锁",
+
 }
 

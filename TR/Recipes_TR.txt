@@ -398,4 +398,8 @@ Recipes_TR = {
     Recipes_Make_3_Log_Stacks = "3'lü Kütük Yığını Yap",
     Recipes_Make_4_Log_Stacks = "4'lü Kütük Yığını Yap",
     Recipes_Make_Splint = "Kırık Destek Çubuğu Yap",
+    Recipe_Place_Ingredients_in_Roasting_Pan = "Ürünleri Kızartma Tavasına Yerleştir",
+    Recipe_HotDrinkRed = "Sıcak İçecek Hazırla",
+    Recipe_HotDrinkWhite = "Sıcak İçecek Hazırla",
+    Recipe_HotDrinkSpiffo = "Sıcak İçecek Hazırla",
 }

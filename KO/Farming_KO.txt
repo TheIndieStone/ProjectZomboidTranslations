@@ -10,12 +10,12 @@ Farming_KO = {
 	Farming_Potatoes = "감자",
 	Farming_Cabbages = "양배추",
    -- 작물 성장 단계
-	Farming_Seedling = "파종단계 ",
-	Farming_Young = "새싹단계 ",
-	Farming_Ready_for_Harvest = "수확 가능",
-	Farming_In_bloom = "개화단계 ",
-	Farming_Seed-bearing = "씨앗 채취 가능",
-	Farming_Receding = "약한 상태",
+	Farming_Seedling = "이제 막 심은",
+	Farming_Young = "아직 덜 자란",
+	Farming_Ready_for_Harvest = "수확 가능한",
+	Farming_In_bloom = "꽃이 핀",
+	Farming_Seed-bearing = "씨앗 채취 가능한",
+	Farming_Receding = "비실비실한",
 	Farming_Rotten = "썩은",
 	Farming_Destroyed = "파괴됨",
    -- 농사 정보창 (타이틀)
