@@ -3,6 +3,7 @@ pedrosegato
 coda
 vhbenin
 Welenkens
+NezukeOkami
 
 HiveFuse:
 Bruno Duarte Machado (DuMa)

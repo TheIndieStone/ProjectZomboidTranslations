@@ -361,7 +361,7 @@ UI_PTBR = {
     UI_trait_PlaysBaseball = "Jogador de beisebol",
     UI_trait_PlaysBaseballDesc = "Hora de rebater cabeças!",
     UI_trait_Scout = "Escoteiro",
-    UI_trait_ScoutDesc = "Possui conhecimento de primeiros socorros e colheita de comidas silvestres",
+    UI_trait_ScoutDesc = "Possui conhecimento de primeiros socorros e coleta de comidas silvestres",
     UI_trait_SelfDefenseClass = "Defesa pessoal",
     UI_trait_SelfDefenseClassDesc = "Defende-se melhor",
     UI_trait_SlowHealer = "Saúde fraca",
@@ -864,6 +864,10 @@ UI_PTBR = {
     UI_NewGame_Sandbox = "Modo Sandbox",
     UI_NewGame_Sandbox_desc = "Personalize cada aspecto do apocalipse zumbi. Morra como achar melhor...",
     UI_NewGame_Sandbox_desc2 = "Customize a dificuldade e o modo de jogo",
+    UI_News_Anim3 = "<H1> Bem Vindo a Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Para a melhor experiência no momento em que estiver jogando multijogador, você é FORTEMENTE aconselhado a jogar em servidores permitidos ou no modo cooperativo Steam. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Embora o multijogador seja amplamente melhorado em relação ao Build 40, continuamos a aperfeiçoar e consertar. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Por favor, seja compreensivo enquanto melhoramos, consertamos e polimos. <LINE><LINE> ",
     UI_NewGame_Scenarios = "Cenários",
     UI_NewGame_SelectDifficulty = "Favor escolha um nível de dificuldade para iniciar.",
     UI_NewGame_SixMonths = "Seis meses depois",
@@ -1035,7 +1039,7 @@ UI_PTBR = {
     UI_ServerOption_DisableSafehouseWhenPlayerConnected_tooltip = "Faz com que refúgios se comportem como prédios normais quando um jogador membro estiver logado.",
     UI_ServerOption_DiscordChannelID_tooltip = "ID do canal do Discord. Não obrigatório. Use em caso de problemas com o nome do canal",
     UI_ServerOption_DiscordChannel_tooltip = "Nome do canal do Discord",
-    UI_ServerOption_DiscordEnable_tooltip = "Abilitar integração com o Discord",
+    UI_ServerOption_DiscordEnable_tooltip = "Habilitar integração com o Discord",
     UI_ServerOption_DiscordToken_tooltip = "Token de Acesso para bot do Discord",
     UI_ServerOption_DisplayUserName_tooltip = "Mostra o nome de usuário acima da cabeça dos jogadores dentro do jogo.",
     UI_ServerOption_DoLuaChecksum_tooltip = "Kickar usuários cujos arquivos de jogo não batam com os do Servidor",
@@ -1266,8 +1270,8 @@ UI_PTBR = {
     UI_chat_context_disable = "Desabilitar",
     UI_chat_context_disable_tags = "Desabilitar tags",
     UI_chat_context_disable_timestamp = "Desabilitar hora",
-    UI_chat_context_enable = "Abilitar",
-    UI_chat_context_enable_tags = "Abilitar tags",
+    UI_chat_context_enable = "Habilitar",
+    UI_chat_context_enable_tags = "Habilitar tags",
     UI_chat_context_enable_timestamp = "Mostrar hora",
     UI_chat_context_font_large = "Grande",
     UI_chat_context_font_medium = "Média",
@@ -1347,14 +1351,14 @@ UI_PTBR = {
     UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Usar apenas dessaturação",
     UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Usar blur e dessaturação",
     UI_optionscreen_Search_Mode_Overlay_Effect_None = "Não usar nenhum efeito.",
-    UI_foraging_Warning = "O modo de colheita mudou! Agora é baseado em procurar por itens. Dê uma olhada, use a tecla End apara ativar ou desativar o Modo de Procura.",
+    UI_foraging_Warning = "O modo de coleta mudou! Agora é baseado em procurar por itens. Dê uma olhada, use a tecla End apara ativar ou desativar o Modo de Procura.",
     UI_foraging_DiscardedItem = "Descartado",
     UI_foraging_DiscardItem = "Descartar",
     UI_investigate_area_window_title = "Investigar Área",
     UI_enable_search_mode = "Ativar Modo de Procura",
     UI_disable_search_mode = "Desativar Modo de Procura",
-    UI_SearchWindows_Tooltip = " <H1> COLHEITA / SISTEMA DE PROCURA <BR> <TEXT> <LINE> <LINE> " ..
-                                " <SIZE:medium> - NOVO MODO DE COLHEITA / SISTEMA DE PROCURA <LINE> " ..
+    UI_SearchWindows_Tooltip = " <H1> COLETA / SISTEMA DE PROCURA <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - NOVO MODO DE COLETA / SISTEMA DE PROCURA <LINE> " ..
                                     "<INDENT:8> - Clique na Lupa no canto esquerdo da Interface. <LINE> " ..
                                         "<INDENT:16> - A janela de "Investigar Área" irá lhe mostrar a zona que você está, o que afeta o loot que você pode achar. <LINE> " ..
                                         "<INDENT:16> - Se tem um "?????" aparecendo, não há nada próximo para achar. Isso é temporário até que mais zonas de procura sejam adicionadas ao mapa <LINE> <LINE> " ..
