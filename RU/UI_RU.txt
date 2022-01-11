@@ -17,8 +17,8 @@ UI_RU = {
 	UI_mainscreen_SavefileNotFound = "Это сохранение не может быть найдено, или было повреждено.",
 	UI_mainscreen_SavefileName = "Сохранение: %1",
 	UI_mainscreen_coop = "СВОЙ СЕРВЕР",
-	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.62 от 16.12.2021",
-	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.62 от 16.12.2021",
+	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.65 от 20.12.2021",
+	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.65 от 20.12.2021",
 	UI_mainscreen_InviteInGame = "Невозможно принять приглашение, когда вы в игре.",
 	UI_mainscreen_InviteMainMenu = "Пожалуйста, вернитесь в главное меню, чтобы принять приглашение.",
 	UI_mainscreen_InviteFormat = "Хозяин игры должен пригласить вас через меню «Пригласить друга» в игре.\n\n%1",
@@ -151,7 +151,7 @@ UI_RU = {
 	UI_optionscreen_temperature_celsius = "по шкале Цельсия",
 	UI_optionscreen_temperature_fahrenheit = "по шкале Фаренгейта",
 	UI_optionscreen_do_wind_sprite_effects = "Эффект ветра",
-	UI_optionscreen_do_door_sprite_effects = "Эффект взлома дверей",
+	UI_optionscreen_do_door_sprite_effects = "Эффект тряски дверей",
 	UI_optionscreen_CycleContainerKey = "Клавиша смены контейнера",
 	UI_optionscreen_CycleContainerKey1 = "'CTRL'",
 	UI_optionscreen_CycleContainerKey2 = "'SHIFT'",
@@ -229,7 +229,7 @@ UI_RU = {
 	UI_prof_securityguard = "Охранник",
 	UI_prof_constructionworker = "Строитель",
 	UI_prof_parkranger = "Рейнджер",
-	UI_prof_policeoff = "Офицер полиции",
+	UI_prof_policeoff = "Полицейский",
 	UI_prof_fireoff = "Пожарный",
 	UI_prof_unemployed = "Безработный",
 	UI_prof_Mechanics = "Механик",
@@ -266,7 +266,7 @@ UI_RU = {
 	UI_trait_broodingdesc = "Труднее оправиться после плохих настроений.",
 	UI_trait_brave = "Храбрый",
 	UI_trait_bravedesc = "Меньшая склонность к панике.",
-	UI_trait_SpeedDemon = "Демон Скорости",
+	UI_trait_SpeedDemon = "Демон скорости",
 	UI_trait_SpeedDemonDesc = "Предпочитает высокую скорость",
 	UI_trait_SundayDriver = "Воскресный водитель",
 	UI_trait_SundayDriverDesc = "Предпочитает медленную езду",
@@ -552,7 +552,7 @@ UI_RU = {
 	UI_mods_Done = "ОК",
 	UI_mods_Explanation = "Устанавливайте ваши моды в ",
 	UI_mods_GetModsHere = "Загрузите моды тут!",
-	UI_mods_OpenWebBrowser = "Кликните для перехода к ссылке мода в вашем браузере",
+	UI_mods_OpenWebBrowser = "Открыть страницу мода в браузере",
 	UI_mods_ID = "ID: %1",
 	UI_mods_Location = "Расположение:",
 	UI_mods_require = "Требуется:",
@@ -728,7 +728,7 @@ UI_RU = {
 	UI_WorkshopSubmit_VisibilityPublic = "Публичный",
 	UI_WorkshopSubmit_VisibilityFriendsOnly = "Только для друзей",
 	UI_WorkshopSubmit_VisibilityPrivate = "Приватный",
-	UI_WorkshopSubmit_OverlayButton = "Открыть оверлей Steam для этого файла",
+	UI_WorkshopSubmit_OverlayButton = "Открыть страницу мода в мастерской Steam",
 	UI_WorkshopSubmit_ItemPreview = "Рисунок превью:",
 	UI_WorkshopSubmit_Title3 = "НОВЫЙ ИЛИ УЖЕ ОПУБЛИКОВАННЫЙ МОД?",
 	UI_WorkshopSubmit_UnknownItem = "ID мастерской для этого файла неизвестен.",
@@ -1263,7 +1263,7 @@ UI_RU = {
 	UI_NewGame_Builder = "Строитель",
 	UI_NewGame_Builder_desc = "Более спокойный вариант игры, с акцентом на поиск лута и фермерство.",
 	UI_NewGame_Sandbox_desc2 = "Создавайте свои условия игры",
-	UI_News_Anim = "<H1> Добро пожаловать в тестовую сборку игры, <LINE> также известную как IWBUMS (версия 41) <LINE><LINE> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <TEXT> <CENTRE> <SIZE:medium> Эта версия в разработке, она имеет крупнейшее обновление кода, которое когда-либо было у PZ. Некоторые возможности были временно отключены - работа над ними продолжается. Вы наверняка встретите ошибки и проблемы с балансом - не сердитесь, принимайте участие, дайте нам знать об этом на нашем форуме или Discord-канале. <LINE><LINE><LINE> <CENTRE> Перевод на русский язык создаётся сообществом и также находится в разработке. <LINE> Вы можете оставить ваши замечания на форуме в разделе «PZ Community Translations» или на Discord-канале в разделе «#translations». ",
+	UI_News_Anim = "<H1> Добро пожаловать в тестовую сборку игры, <LINE> также известную как IWBUMS «Build 41»! <LINE><LINE> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <TEXT> <CENTRE> <SIZE:medium> Эта версия в разработке, она имеет крупнейшее обновление кода, которое когда-либо было у PZ. Некоторые возможности были временно отключены - работа над ними продолжается. Вы наверняка встретите ошибки и проблемы с балансом - не сердитесь, принимайте участие, дайте нам знать об этом на нашем форуме или Discord-канале. <LINE><LINE><LINE> <CENTRE> Перевод на русский язык создаётся сообществом и также находится в разработке. <LINE> Вы можете оставить ваши замечания на форуме в разделе «PZ Community Translations» или на Discord-канале в разделе «#translations». ",
 	UI_optionscreen_binding_Hotbar 1 = "Слот 1",
 	UI_optionscreen_binding_Hotbar 2 = "Слот 2",
 	UI_optionscreen_binding_Hotbar 3 = "Слот 3",
@@ -1332,10 +1332,10 @@ UI_RU = {
     	UI_foraging_DiscardedItem = "Отказано от",
     	UI_foraging_DiscardItem = "Отказаться от",
 
-    	UI_News_Anim2 = "<H1> Первая сетевая тестовая сборка «Build 41 MP» уже тут! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> Для наилучшего игрового опыта НАСТОЯТЕЛЬНО рекомендуется играть на серверах из белого списка или в кооперативном режиме Steam. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Это очень комплексное обновление, а мы небольшая команда. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Пожалуйста, будьте терпеливы, пока мы улучшаем, исправляем и полируем игру. <LINE><LINE> ",
+    	UI_News_Anim3 = "<H1> Добро пожаловать в «Build 41»! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Для наилучшего игрового опыта сетевой игры НАСТОЯТЕЛЬНО рекомендуется играть на серверах из белого списка или в кооперативном режиме Steam. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Хоть режим сетевой игры был значительно улучшен, по сравнению с «Build 40», мы всё ещё продолжаем улучшать его. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Пожалуйста, будьте терпеливы, пока мы исправляем, полируем и делаем игру лучше. <LINE><LINE> ",
     	UI_SearchWindows_Tooltip = " <H1> СИСТЕМА ПОИСКА/СОБИРАТЕЛЬСТВА <BR> <TEXT> <LINE> <LINE> " ..
                                 " <SIZE:medium> - Новая система поиска/собирательства <LINE> " ..
                                     "<INDENT:8> - Щелкните на значок увеличительного стекла в левой части интерфейса. <LINE> " ..

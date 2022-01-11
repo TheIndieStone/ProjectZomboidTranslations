@@ -169,7 +169,10 @@ UI_FR = {
     UI_NewGame_Tutorial_desc = "Le premier endroit où aller pour les tout nouveaux survivants de Project Zomboid...",
     UI_NewsVersion = "Version",
     UI_News_Anim = "<H1> BIENVENUE DANS LA BETA PUBLIQUE DU BUILD 41 ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE><CENTRE> <SIZE:large> Ceci est une version en cours de test de l'une des plus grosses mise à jour de code que PZ n'ait jamais connu. <LINE><LINE>  ..                    <CENTRE> Il y aura des bugs et beaucoup de problèmes d'équilibrage. Des améliorations et optimisations sont à prévoir. <LINE><LINE>  ..                    <CENTRE> Certains éléments ont été temporairement désactivés. <LINE><LINE>  ..                    <CENTRE> Si vous avez des problèmes : ne pétez pas les plombs, impliquez-vous. Faites-le nous savoir sur le forum. ",
-    UI_News_Anim2 = "<H1> ENFIN ! Le Build 41 Test Multijoueur est là ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_News_Anim3 = "<H1> Bienvenue sur le Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Afin de profiter de la meilleure expérience possible sur le multijoueur, nous vous recommendons FORTEMENT de jouer sur des serveurs avec liste blanche ou en Co-op. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Même si Multijoueur a été grandement amélioré depuis le Build 40, Nous continuons de l'améliorer et de le corriger. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Merci de votre compréhension. <LINE><LINE> ",
     UI_No = "Non",
     UI_None = "Aucun",
     UI_Off = "Désactivé",
@@ -217,7 +220,17 @@ UI_FR = {
     UI_Scoreboard_Unmute = "Remettre le son",
     UI_Scoreboard_VOIPMute = "Désactiver la voix",
     UI_Scoreboard_VOIPUnmute = "Activer la voix",
-    UI_SearchWindows_Tooltip = " <H1> MODE DE RECHERCHE <BR> <TEXT> <LINE> <LINE> ",
+	UI_SearchWindows_Tooltip = " <H1> SYSTÈME DE RECHERCHE <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - Nouveau système de recherche <LINE> " ..
+                                    "<INDENT:8> - Cliquez sur la loupe, dans l'interface à gauche. <LINE> " ..
+                                        "<INDENT:16> - La fenêtre d"Exploration" vous montrera dans quel type de zone vous êtes, ce qui affecte le butin que vous pouvez trouver. <LINE> " ..
+                                        "<INDENT:16> - S'il y a des "?????" , alors il n'y a rien à trouver aux alentours. Ceci est temporaire, le temps que nous ajoutions davantage de zone à explorer. <LINE> <LINE> " ..
+                                    "<INDENT:8> - Pour commencer la recherche, appuyez sur "Activer le mode de recherche" dans la fenêtre d'exploration. Votre personnage commencera alors à rechercher autour de lui pendant que vous marchez. <LINE> " ..
+                                    "<INDENT:8> - Un oeil apparaîtra au dessus de votre tête lorsque votre personnage aura trouvé qelque chose. <LINE> " ..
+                                        "<INDENT:16> Continuez de chercher autour de votre position jusqu'à ce que l'oeil soit complètement visible et une petite flèche vous indiquant l'objet trouvé apparaîtra. <LINE> " ..
+                                    "<INDENT:8> - Double-cliquez sur l'objet afin de le ramasser. <LINE> " ..
+                                    "<INDENT:8> - Regarder attentivement autour de vous (en visant) et discrètement affutera votre champ de vision et vous aidera à localiser des objets plus difficile à trouver. <LINE> " ..
+                                    "<INDENT:8> - L'obscurité, la météo, la compétence, la taille de l'objet et les humeurs négatives de votre personnage (stress, blessure, etc) affecteront vos chances de trouver quelque chose.",
     UI_ServerConnectPopup_Connect = "Connexion",
     UI_ServerConnectPopup_Label = "Vous allez vous connecter à :",
     UI_ServerOptionDesc_AddAllWhitelist = "Ajoute à la liste blanche tous les utilisateurs connectés via un mot de passe, de façon à protéger leurs comptes.",
@@ -794,7 +807,7 @@ UI_FR = {
     UI_optionscreen_Player = "Joueur",
     UI_optionscreen_PlayerOnly = "Joueur seulement",
     UI_optionscreen_SandboxOptions = "OPTIONS BAC À SABLE",
-    UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "Broullage uniquement",
+    UI_optionscreen_Search_Mode_Overlay_Effect_Blur = "Brouillage uniquement",
     UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Désaturation et brouillage",
     UI_optionscreen_Search_Mode_Overlay_Effect_Desaturate = "Désaturation uniquement",
     UI_optionscreen_Search_Mode_Overlay_Effect_Label = "Effet d'affichage du mode Recherche",

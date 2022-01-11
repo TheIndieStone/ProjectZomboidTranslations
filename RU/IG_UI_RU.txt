@@ -858,8 +858,8 @@ IGUI_RU = {
 	IGUI_ScavengeUI_Materials = "Материалы",
 	IGUI_ScavengeUI_Mushrooms = "Грибы",
 	IGUI_ScavengeUI_Berries = "Ягоды",
-	IGUI_ScavengeUI_Animals = "Животные",
-	IGUI_ScavengeUI_FishBait = "Наживка для рыбы",
+	IGUI_ScavengeUI_Animals = "Животных",
+	IGUI_ScavengeUI_FishBait = "Наживку для рыбы",
 	IGUI_ScavengeUI_MedicinalPlants = "Медицинские травы",
 	IGUI_PlayerStats_ManageInventory = "Управление инвентарём %1",
 	IGUI_PlayerStats_AddItem = "Добавить предмет (Module.ItemType)",
@@ -1500,7 +1500,7 @@ IGUI_RU = {
     IGUI_HaloNote_Drunkenness = "Опьянение",
     IGUI_HaloNote_Thirst = "Жажда",
     IGUI_HaloNote_Unhappiness = "Несчастье"
-    IGUI_PressSpaceContinue = "Нажмите ПРОБЕЛ чтобы продолжить.",
+    IGUI_PressSpaceContinue = "Нажмите ПРОБЕЛ, чтобы продолжить",
     IGUI_AdminPanel_ShowMPInfos = "Показать информацию о сетевой игре",
 	IGUI_MovableHasMaterial = "Внутри есть предметы.",
 	IGUI_SafehouseUI_Invitation = "%1 приглашает вас в своё убежище, принять приглашение?",
@@ -1528,7 +1528,7 @@ IGUI_RU = {
     IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "В этой местности ничего нет.",
     --SearchMode Zone Names
     IGUI_SearchMode_Zone_Names_TownZone = "Городской район",
-    IGUI_SearchMode_Zone_Names_Vegitation = "Растительная зона",
+    IGUI_SearchMode_Zone_Names_Vegitation = "Луг",
     IGUI_SearchMode_Zone_Names_Forest = "Лес",
     IGUI_SearchMode_Zone_Names_DeepForest = "Глубокий лес",
     IGUI_SearchMode_Zone_Names_FarmLand = "Сельская местность",
@@ -1538,8 +1538,9 @@ IGUI_RU = {
     --SearchMode Fuzzy Category Names
     IGUI_SearchMode_Categories_Materials = "Материалы",
     IGUI_SearchMode_Categories_Medicinal = "Лекарственные растения",
-    IGUI_SearchMode_Categories_Animals = "Животные",
-    IGUI_SearchMode_Categories_Food = "Еда",
+    IGUI_SearchMode_Categories_Animals = "Животных",
+    IGUI_SearchMode_Categories_Food = "Еду",
     IGUI_SearchMode_Categories_Other = "Прочее",
+    IGUI_SearchMode_Zone_Names_Unknown = "Тут ничего нет",
 
 }

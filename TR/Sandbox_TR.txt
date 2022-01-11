@@ -585,4 +585,9 @@ Sandbox_TR = {
     Sandbox_HoursForWorldItemRemoval = "Eşyaların kaldırılması için geçecek süre",
     Sandbox_ItemRemovalListBlacklistToggle_tooltip = "Bu ayar açıksa  WorldItemRemovalList listesinde bulunmayan her eşya kaldırılacaktır",
     Sandbox_WorldItemRemovalList = "Dünyadan Eşyaları Kaldırma Listesi",
+    Sandbox_AllClothesUnlocked = "Tüm Kıyafetler Açık",
+    Sandbox_AllowMiniMap = "Mini-Haritaya izin ver",
+    Sandbox_Map = "Oyun Haritası",
+    Sandbox_MapAllKnown = "Tüm Harita Açık Başla",
+    Sandbox_AllowWorldMap = "Dünya Haritasına İzin ver",
 }

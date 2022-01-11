@@ -173,6 +173,7 @@ UI_EN = {
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "Modifier key(s) held down while scrolling the mouse wheel over the inventory or loot lists, to cycle between containers.",
     UI_optionscreen_binding_Map = "Toggle Map",
+    UI_optionscreen_Show_Item_Mod_Info = "Show mod info in item tooltip",
     UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
     UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
     -- Map selecter (lua)
@@ -544,6 +545,7 @@ UI_EN = {
     UI_optionscreen_binding_Toggle Clothing Protection Panel = " Toggle Clothing Protection Panel",
     UI_optionscreen_binding_Toggle Info Panel = " Toggle Info Panel",
     UI_optionscreen_binding_Toggle Moveable Panel Mode = " Toggle Moveable Panel Mode",
+    UI_optionscreen_binding_Audio = "Audio",
     UI_optionscreen_binding_Toggle Music = " Toggle Music",
     UI_optionscreen_binding_Take screenshot = " Take Screenshot",
     UI_optionscreen_binding_Toggle Survival Guide = " Toggle Survival Guide",
@@ -1115,6 +1117,7 @@ UI_EN = {
     UI_optionscreen_voiceVolumeMicIndicator_tt = "Signal from microphone.",
     UI_ServerOption_DoLuaChecksum_tooltip = "Kick clients whose game files don't match the server's.",
     UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "Allow players to destroy world objects with sledgehammers.",
+    UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "Allow players to destroy world objects only in their safehouse (require AllowDestructionBySledgehammer to true).",
     UI_ServerOption_HoursForCorpseRemoval_tooltip = "Remove corpses that are older than this many in-game hours.",
     UI_ServerOption_MinutesPerPage_tooltip = "The number of game-world minutes it takes to read one page of a book.",
     UI_ServerOption_nightlengthmodifier_tooltip = "Controls how dark nightime is.  1.0=normal darkness, 0.0=bright.",
@@ -1314,9 +1317,9 @@ UI_EN = {
     UI_NewGame_Builder = "Builder",
     UI_NewGame_Builder_desc = "Construction, Exploration and Farming focus. A more relaxed experience.",
     UI_NewGame_Sandbox_desc2 = "Tailor design your own difficulty and play style.",
-    UI_News_Anim2 = "<H1> The first Build 41 MP test build is here! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> For the best experience you are STRONGLY advised to play on whitelisted servers or in Steam co-op. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> This is a hugely complex update, and we are a small team. <LINE><LINE> " ..
+    UI_News_Anim3 = "<H1> Welcome to Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> For the best experience when playing multiplayer you are STRONGLY advised to play on whitelisted servers, or with your friends in co-op. <LINE><LINE> " ..
+                                                                                                                      
                     "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ",
     UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
@@ -1358,7 +1361,8 @@ UI_EN = {
                                         "<INDENT:16> - The "Investigate Area" window will show you the type of zone you are in, which affects the loot you can find. <LINE> " ..
                                         "<INDENT:16> - If it has "?????" showing, there is nothing around to find. This is temporary until more foraging/search zones are added to the map. <LINE> <LINE> " ..
                                     "<INDENT:8> - To start searching, click the "Enable Search Mode" Button in the "Investigate Area" window. The character will start looking for items while you walk around. <LINE> " ..
-                                    "<INDENT:8> - An eye icon will appear overhead when your character spots something. <LINE> " ..
+                                    "<INDENT:8> - An arrow will appear when your character spots something. <LINE> " ..
+                                    "<INDENT:8> - An eye icon will appear overhead when your character is revealing an item. <LINE> " ..
                                         "<INDENT:16> Keep looking around until the eye is completely visible and the icon for the item will appear. <LINE> " ..
                                     "<INDENT:8> - Double click the item icon to pick it up. <LINE> " ..
                                     "<INDENT:8> - Looking around (by aiming) and sneaking will increase the vision radius to help spot hard to locate items. <LINE> " ..
