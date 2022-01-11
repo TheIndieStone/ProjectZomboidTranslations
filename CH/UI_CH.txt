@@ -155,9 +155,14 @@ UI_CH = {
     UI_NewGame_Tutorial = "教學",
     UI_NewGame_Tutorial_desc = "新受感染的 Project Zomboid 倖存者該前往的第一個地方... ",
     UI_NewsVersion = "版本",
-    UI_News_Anim = "<H1> 歡迎來到 41 版公開測試! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  ..",
-    UI_News_Anim2 = "",
-    UI_News_Anim3 = "<H1> 歡迎來到 41 版!  <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_News_Anim = "<H1> 歡迎來到 41 版公開測試! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> "..
+					"<CENTRE> <SIZE:large> 這是 PZ 有史以來最大程式更新的測試版. <LINE><LINE> "..
+                    "<CENTRE> 將會有種種 bug 和平衡問題. 而優化也還在進行中. <LINE><LINE> "..
+                    "<CENTRE> 特定的功能也已被暫時停用. <LINE><LINE> "..
+                    "<CENTRE> 如果遇到問題的話: 別生氣, 參與問題解決吧. 到論壇上讓我們知道問題在哪. ",
+    UI_News_Anim3 = "<H1> 歡迎來到 41 版!  <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> 為了確保遊玩多人遊戲時有最佳的體驗, 我們強烈推薦在白名單伺服器上遊玩, 或者和你的朋友進行合作遊戲. <LINE><LINE> "..                                                                                                                     
+                    "<CENTRE> <SIZE:large> 我們仍在修正和潤飾遊戲, 還請包容理解. <LINE><LINE> ",
     UI_No = "否",
     UI_None = "無",
     UI_Off = "關",
@@ -205,7 +210,18 @@ UI_CH = {
     UI_Scoreboard_Unmute = "取消靜音",
     UI_Scoreboard_VOIPMute = "語音靜音",
     UI_Scoreboard_VOIPUnmute = "取消靜音",
-    UI_SearchWindows_Tooltip = " <H1> 採集 / 搜索系統 <BR> <TEXT> <LINE> <LINE>  ..",
+    UI_SearchWindows_Tooltip = " <H1> 採集 / 搜索系統 <BR> <TEXT> <LINE> <LINE> "..
+                                " <SIZE:medium> - 全新採集 / 搜索系統 <LINE> "..
+                                    "<INDENT:8> - 點擊介面左側的放大鏡圖示.  <LINE> "..
+                                        "<INDENT:16> -  "調查區域" 視窗將會顯示你目前所處的區域類型, 區域類型影響你能找到的物品. <LINE> "..
+                                        "<INDENT:16> - 如果顯示 "?????" , 那就代表附近沒有任何物品可以搜尋. 這是更多採集 / 搜索區域被加入地圖前暫時的替代方案. <LINE> <LINE> "..
+                                    "<INDENT:8> - 要開始搜索, 點擊 "調查區域" 視窗內的 "啟用搜索模式" 按鈕. 你的角色在你四處走動時搜索附近的物品. <LINE> "..
+                                    "<INDENT:8> - 如果你的角色找到東西的話, 畫面上會出現一個箭頭. <LINE> "..
+                                    "<INDENT:8> - 如果出現一個眼睛圖示, 則表示你的角色就快要找到一樣物品了. <LINE> "..
+                                        "<INDENT:16> 繼續到處看看直到眼睛圖示完全清楚顯示, 此時物品圖示也會出現. <LINE> "..
+                                    "<INDENT:8> - 雙擊物品圖示來拾取物品. <LINE> "..
+                                    "<INDENT:8> - 四處看 (瞄準) 與潛行將會增加視野半徑, 來幫助找到難以發現的物品. <LINE> "..
+                                    "<INDENT:8> - 黑暗, 天氣, 技能, 物品大小和角色的負面情緒 (壓力, 受傷等) 將會影響找到物品的機率. ",
     UI_ServerConnectPopup_Connect = "連線",
     UI_ServerConnectPopup_Label = "你正要連線至: ",
     UI_ServerOptionDesc_AddAllWhitelist = "新增所有目前使用密碼連線的使用者至白名單, 使他們的帳號受保護. ",
