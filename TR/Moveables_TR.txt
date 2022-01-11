@@ -695,4 +695,6 @@ Moveables_TR = {
     Zippee_Wall_Shelves = "Zippee Duvar Rafı",
     Blood_Bank = "Köpek kulubesi",
     Metal_Drum = "Metal Varil",
+    Small_Rental_Shelves = "Küçük Duvar Rafı",
+    Large_Rental_Shelves = "Büyük Duvar Rafı",
 }

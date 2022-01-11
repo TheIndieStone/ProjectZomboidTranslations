@@ -272,5 +272,5 @@ Tooltip_FR = {
     Tooltip_weapon_SpentRoundChambered = "Réarmez l'arme",
     Tooltip_weapon_Stock = "Crosse",
     Tooltip_weapon_Type = "Type",
-    Tooltip_weapon_Unusable_at_max_exertion = "Inutilisable dans votre état d'épuisement",
+    Tooltip_weapon_Unusable_at_max_exertion = "Inutilisable si épuisement au max",
 }

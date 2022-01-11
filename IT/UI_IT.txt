@@ -163,6 +163,7 @@ UI_IT = {
 		    "<CENTRE> <SIZE:large> Per la migliore esperienza si consiglia vivamente di giocare su server whitelist o in co-op di Steam. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Questo è un aggiornamento enormemente complesso, e noi siamo una piccola squadra. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Per favore, siate comprensivi mentre miglioriamo, sistemiamo e perfezioniamo. <LINE><LINE> ",
+	UI_News_Anim3 = "<H1> Benvenuto nella build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> <CENTRE> <SIZE:large> Per la migliore esperienza nel momento in cui giochi in multiplayer, ti consigliamo VIVAMENTE di giocare su server autorizzati o in cooperativa Steam. <LINE><LINE> <CENTRE> <SIZE:large> Sebbene il multiplayer sia notevolmente migliorato rispetto alla build 40, stiamo continuando a perfezionare e correggere. <LINE><LINE> <CENTRE> <SIZE:large> Si prega di essere comprensivi mentre miglioriamo, correggiamo e rifiniamo. <LINE><LINE> ",
     UI_No = "No",
     UI_None = "Nessuna",
     UI_Off = "Off",
@@ -215,12 +216,11 @@ UI_IT = {
 				" <SIZE:medium> - Nuovo sistema di foraggiamento/ricerca <LINE> " ..
                                 "<INDENT:8> - Clicca sull'icona della lente d'ingrandimento sul lato sinistro dell'interfaccia utente. <LINE> " ..
                                     "<INDENT:16> - La finestra "Indaga nell'area" ti mostrerà il tipo di zona in cui ti trovi, che influisce sul bottino che puoi trovare. <LINE> " ..
-                                    "<INDENT:16> - Se ha "?????" mostrando, non c'è niente in giro da trovare. Questo è temporaneo fino a quando non vengono aggiunte alla mappa altre zone di raccolta/ricerca. <LINE> <LINE> " ..
+                                    "<INDENT:16> - Se mostra "?????", non c'è niente in giro da trovare. Questo è temporaneo fino a quando non vengono aggiunte alla mappa altre zone di raccolta/ricerca. <LINE> <LINE> " ..
                                 "<INDENT:8> - Per avviare la ricerca, fare clic sul pulsante "Abilita modalità di ricerca" nella finestra "Indaga area". Il personaggio inizierà a cercare oggetti mentre cammini. <LINE> " ..
                                 "<INDENT:8> - Un'icona a forma di occhio apparirà in alto quando il tuo personaggio individua qualcosa. <LINE> " ..
                                         "<INDENT:16> Continua a guardarti intorno finché l'occhio non sarà completamente visibile e apparirà l'icona dell'oggetto. <LINE> " ..
                                 "<INDENT:8> - Fai doppio clic sull'icona dell'oggetto per raccoglierlo. <LINE> " ..
-                                "<INDENT:8> - Correre renderà più difficile trovare oggetti <LINE> " ..
                                 "<INDENT:8> - Guardarsi intorno (mirando) aumenterà il raggio visivo per aiutare a individuare gli oggetti difficili da individuare. <LINE> " ..
                                 "<INDENT:8> - L'oscurità, il tempo atmosferico e gli stati d'animo negativi (stress, ferite, ecc.) influenzeranno la possibilità di trovare qualcosa",
     UI_ServerConnectPopup_Connect = "Connetti",
@@ -467,7 +467,7 @@ UI_IT = {
     UI_ServerStatus_Initialising = "Inizializzazione",
     UI_ServerStatus_Launching = "Avvio...",
     UI_ServerStatus_LoadingWorld = "Caricamento mondo",
-    UI_ServerStatus_Started = "Server acceso:",
+    UI_ServerStatus_Started = "Server avviato",
     UI_ServerStatus_Terminated = "Terminato",
     UI_ServerWorkshopItemErrorDetail_VersionMismatch = "È possibile che la versione del server sia obsoleta e che sia necessario riavviare il server. <br> Se la tua versione è obsoleta, prova a riavviare Steam per ottenere l'ultima versione.",
     UI_ServerWorkshopItemError_DownloadItemFalse = "DownloadItem() call fallito",
@@ -557,8 +557,9 @@ UI_IT = {
     UI_WorkshopSubmit_TitleEditTags = "Modifica etichette oggetto",
     UI_WorkshopSubmit_UnknownItem = "Workshop ID di questo oggetto sconosciuto.",
     UI_WorkshopSubmit_VisibilityFriendsOnly = "Solo amici",
-    UI_WorkshopSubmit_VisibilityPrivate = "Privato",
+    UI_WorkshopSubmit_VisibilityPrivate = "Nascosto",
     UI_WorkshopSubmit_VisibilityPublic = "Pubblico",
+	UI_WorkshopSubmit_VisibilityUnlisted = "Non in elenco",
     UI_WorldSelect_WorldN = "Mondo %1",
     UI_WorldSelect_title = "SELEZIONA IL MONDO",
     UI_WorldSelecter_title = "Scegli Mondo",
@@ -682,7 +683,7 @@ UI_IT = {
     UI_foraging_DiscardItem = "Scarta",
     UI_foraging_DiscardedItem = "Scartato",
     UI_foraging_UnknownItem = "Oggetto sconosciuto",
-    UI_foraging_Warning = "Il foraggiamento è cambiato! Ora si basa sulla ricerca di elementi. Guardati intorno, usa il tasto Fine per attivare/disattivare la ricerca.",
+    UI_foraging_Warning = "Il foraggiamento è cambiato! Ora si basa sulla ricerca di oggetti. Clicca sull'icona della lente d'ingrandimento sul lato sinistro dell'interfaccia utente. Usa il tasto Fine per attivare/disattivare la ricerca.",
     UI_foraging_WildFood = "Selvatico",
     UI_has_no_right_to_execute_command = "Il giocatore %1 non ha il diritto di eseguire il comando %2",
     UI_investigate_area_window_title = "Indaga sull'area",
@@ -1137,7 +1138,7 @@ UI_IT = {
     UI_servers_serverpwd_tt = "Richiesta per tutti gli utenti che entrano nel server. (opzionale)",
     UI_servers_showEmptyServer = "Mostra Server Vuoti",
     UI_servers_showPwdProtectedServer = "Mostra Server con Password",
-    UI_servers_showWhitelistServer = "Mostra Lista Bianca Server",
+    UI_servers_showWhitelistServer = "Mostra server con Whitelist",
     UI_servers_username = "Nome",
     UI_servers_username_tt = "Visualizzato dagli altri giocatori sul server.\nIncluso nel nome del salvataggio.",
     UI_servers_version = "Versione : ",

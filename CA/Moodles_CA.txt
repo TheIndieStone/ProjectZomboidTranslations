@@ -76,7 +76,7 @@ Moodles_CA = {
 	Moodles_injured_lvl3 = "Ferides greus",
 	Moodles_injured_lvl4 = "Ferides crítiques",
 	-- Pain
-	Moodles_pain_lvl1 = "Dolor llegur",
+	Moodles_pain_lvl1 = "Dolor lleuger",
 	Moodles_pain_lvl2 = "Endolorit",
 	Moodles_pain_lvl3 = "Dolor sever",
 	Moodles_pain_lvl4 = "Agonia",

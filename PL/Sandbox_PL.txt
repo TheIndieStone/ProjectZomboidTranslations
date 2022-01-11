@@ -252,6 +252,7 @@ Sandbox_PL = {
     Sandbox_LootSurvivalGears_tooltip = "Nasiona, piły, gwoździe, narzędzia, przedmioty naprawcze, wędki...",
     Sandbox_LootWeapon = "Broń",
     Sandbox_Map = "Mapa w grze",
+    Sandbox_MapAllKnown = "Cała mapa odkryta",
     Sandbox_MaxFogIntensity = "Maksymalna gęstość mgły",
     Sandbox_MaxFogIntensity_option1 = "Normalna",
     Sandbox_MaxFogIntensity_option2 = "Średnia",

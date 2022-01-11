@@ -10,58 +10,58 @@
 [Translations]
 
 	//0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
-	// last record = S¹ to rekruci armii amerykañskiej z pobliskich baz wojskowych, którzy cztery dni temu mieli zostaæ przetransportowani za ocean...
-	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = S¹ to rekruci armii amerykañskiej z pobliskich baz wojskowych, którzy cztery dni temu mieli zostaæ przetransportowani za ocean...
+	// last record = SÄ… to rekruci armii amerykaÅ„skiej z pobliskich baz wojskowych, ktÃ³rzy cztery dni temu mieli zostaÄ‡ przetransportowani za ocean...
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = SÄ… to rekruci armii amerykaÅ„skiej z pobliskich baz wojskowych, ktÃ³rzy cztery dni temu mieli zostaÄ‡ przetransportowani za ocean...
 
 	//1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
-	// last record = Dziœ jest trzeci dzieñ ewakuacji hrabstwa Knox.
-	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Dziœ jest trzeci dzieñ ewakuacji hrabstwa Knox.
+	// last record = DziÅ› jest trzeci dzieÅ„ ewakuacji hrabstwa Knox.
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = DziÅ› jest trzeci dzieÅ„ ewakuacji hrabstwa Knox.
 
 	//2. ORIGINAL [#FF00B050]: When I asked whether the military sensitivity of the region...
-	// last record = Kiedy zapyta³em, czy wysokie znaczenie wojskowe regionu...
-	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Kiedy zapyta³em, czy wysokie znaczenie wojskowe regionu...
+	// last record = Kiedy zapytaÅ‚em, czy wysokie znaczenie wojskowe regionu...
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Kiedy zapytaÅ‚em, czy wysokie znaczenie wojskowe regionu...
 
 	//3. ORIGINAL [#FF00B050]: LBMW ask the questions...
 	// last record = LBMW zadaje pytania...
 	fb720674-250f-41ca-b269-e5e69da97c0c = LBMW zadaje pytania...
 
 	//4. ORIGINAL [#FF00B050]: 'We don't feel safe.'
-	// last record = „Nie czujemy siê bezpieczni”.
-	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = „Nie czujemy siê bezpieczni”.
+	// last record = â€Nie czujemy siÄ™ bezpieczniâ€.
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = â€Nie czujemy siÄ™ bezpieczniâ€.
 
 	//5. ORIGINAL [#FF00B0F0]: And for the rumor-mongering that has grown around the so-called 'Knox Event'.
-	fe80180c-2253-456a-bb7e-75bb249da8ba = Oraz za powstawanie plotek o tak zwanym „Incydencie w Knox”.
+	fe80180c-2253-456a-bb7e-75bb249da8ba = Oraz za powstawanie plotek o tak zwanym â€Incydencie w Knoxâ€.
 
 	//6. ORIGINAL [#FF7030A0]: But there's still no official word on the true danger of the biological threat.
-	// last record = Nie zajêto jeszcze oficjalnego stanowiska co do zagro¿enia biologicznego...
-	3fb56972-8f69-4657-b2c2-f11c96615ee9 = Nie zajêto jeszcze oficjalnego stanowiska co do zagro¿enia biologicznego.
+	// last record = Nie zajÄ™to jeszcze oficjalnego stanowiska co do zagroÅ¼enia biologicznego...
+	3fb56972-8f69-4657-b2c2-f11c96615ee9 = Nie zajÄ™to jeszcze oficjalnego stanowiska co do zagroÅ¼enia biologicznego.
 
 	//7. ORIGINAL [Black]: <bzzt> <fzzt>
 	// last record = <bszzt> <fszzt>
 	16a40ca6-c815-4b5d-bcb2-fc332b817e1f = <bszzt> <fszzt>
 
 	//8. ORIGINAL [#FF00B050]: I was getting lunch in Spiffo's.
-	// last record = Jad³em obiad w Spiffo's.
-	f7d82c9d-d172-4134-a5b5-8829bc621648 = Jad³em obiad w Spiffo's.
+	// last record = JadÅ‚em obiad w Spiffo's.
+	f7d82c9d-d172-4134-a5b5-8829bc621648 = JadÅ‚em obiad w Spiffo's.
 
 	//9. ORIGINAL [Black]: <click> <bzzt> <fzzt>
-	// last record = <od³o¿enie s³uchawki> <bszzt> <fszzt>
-	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <odg³os odk³adanej s³uchawki> <bszzt> <fszzt>
+	// last record = <odÅ‚oÅ¼enie sÅ‚uchawki> <bszzt> <fszzt>
+	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <odgÅ‚os odkÅ‚adanej sÅ‚uchawki> <bszzt> <fszzt>
 
 	//10. ORIGINAL [#FF00B050]: <cough> I know what people will think.
-	// last record = <kaszle> Wiem, co pomyœl¹ ludzie.
-	b3af859d-e0d4-4ede-a185-597b785489b4 = <kaszle> Wiem, co pomyœl¹ ludzie.
+	// last record = <kaszle> Wiem, co pomyÅ›lÄ… ludzie.
+	b3af859d-e0d4-4ede-a185-597b785489b4 = <kaszle> Wiem, co pomyÅ›lÄ… ludzie.
 
 	//11. ORIGINAL [#FF00B050]: <cough> For me it's over. Whatever else happens to you...
-	// last record = <kaszle> Koniec ze mn¹. Cokolwiek stanie siê tobie...
-	d37f1120-58df-4e90-87a7-213c1279927d = <kaszle> Koniec ze mn¹. Cokolwiek stanie siê tobie...
+	// last record = <kaszle> Koniec ze mnÄ…. Cokolwiek stanie siÄ™ tobie...
+	d37f1120-58df-4e90-87a7-213c1279927d = <kaszle> Koniec ze mnÄ…. Cokolwiek stanie siÄ™ tobie...
 
 	//12. ORIGINAL [Black]: *distant explosion*
-	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *odleg³a eksplozja*
+	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *odlegÅ‚a eksplozja*
 
 	//13. ORIGINAL [#FF7030A0]: Warning shots.
-	// last record = To by³y strza³y ostrzegawcze.
-	f3439f8e-3452-48b5-9b6b-744d60c81e00 = To by³y strza³y ostrzegawcze.
+	// last record = To byÅ‚y strzaÅ‚y ostrzegawcze.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = To byÅ‚y strzaÅ‚y ostrzegawcze.
 
 	//14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
 	// last record = [img=music] If I could say... [img=music]
@@ -136,183 +136,183 @@
 	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] My boy once asked me, before he went away. [img=music]
 
 	//33. ORIGINAL [#FF7030A0]: A military perimeter set up almost overnight.
-	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = Ustawienie blokad wojskowych zajê³o im tylko odrobinê d³u¿ej ni¿ jedn¹ noc.
+	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = Ustawienie blokad wojskowych zajÄ™Å‚o im tylko odrobinÄ™ dÅ‚uÅ¼ej niÅ¼ jednÄ… noc.
 
 	//34. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
-	4f5162dd-e620-40e0-813e-2841fd354881 = Te¿ by³bym zdezorientowany, gdybym siê obudzi³, a wokó³ mnie ktoœ postawi³ kordon wojskowy!
+	4f5162dd-e620-40e0-813e-2841fd354881 = TeÅ¼ byÅ‚bym zdezorientowany, gdybym siÄ™ obudziÅ‚, a wokÃ³Å‚ mnie ktoÅ› postawiÅ‚ kordon wojskowy!
 
 	//35. ORIGINAL [#FF00B050]: So let's support our boys, people.
-	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Wesprzyjmy wiêc naszych ch³opaków, drodzy widzowie.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Wesprzyjmy wiÄ™c naszych chÅ‚opakÃ³w, drodzy widzowie.
 
 	//36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
-	// last record = „Od bardzo dawna nie jesteœmy gotowi”.
-	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = „Od bardzo dawna nie jesteœmy gotowi”.
+	// last record = â€Od bardzo dawna nie jesteÅ›my gotowiâ€.
+	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = â€Od bardzo dawna nie jesteÅ›my gotowiâ€.
 
 	//37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
-	// last record = Ludzie nie wiedz¹, co maj¹ robiæ, a wojsko nie wie, co zrobiæ z ludŸmi.
-	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = Ludzie nie wiedz¹ co maj¹ robiæ, a wojsko nie wie co zrobiæ z ludŸmi.
+	// last record = Ludzie nie wiedzÄ…, co majÄ… robiÄ‡, a wojsko nie wie, co zrobiÄ‡ z ludÅºmi.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = Ludzie nie wiedzÄ… co majÄ… robiÄ‡, a wojsko nie wie co zrobiÄ‡ z ludÅºmi.
 
 	//38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
-	// last record = Armia kupuje sobie czas. Chc¹ siê upewniæ, ¿e jesteœmy bezpieczni.
-	3433cccb-5d67-467b-89f2-bcb69677b093 = Armia kupuje sobie czas. Chc¹ siê upewniæ, ¿e jesteœmy bezpieczni.
+	// last record = Armia kupuje sobie czas. ChcÄ… siÄ™ upewniÄ‡, Å¼e jesteÅ›my bezpieczni.
+	3433cccb-5d67-467b-89f2-bcb69677b093 = Armia kupuje sobie czas. ChcÄ… siÄ™ upewniÄ‡, Å¼e jesteÅ›my bezpieczni.
 
 	//39. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
-	// last record = I dopiero po tym bêdê w stanie udzieliæ wiêcej odpowiedzi.
-	a33a9161-878b-47fc-a084-549ee52bbc6a = I dopiero po tym bêdê w stanie udzieliæ wiêcej odpowiedzi...
+	// last record = I dopiero po tym bÄ™dÄ™ w stanie udzieliÄ‡ wiÄ™cej odpowiedzi.
+	a33a9161-878b-47fc-a084-549ee52bbc6a = I dopiero po tym bÄ™dÄ™ w stanie udzieliÄ‡ wiÄ™cej odpowiedzi...
 
 	//40. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
-	// last record = Z obawy przed mo¿liwoœci¹ rozprzestrzenienia siê Incydentu w Knox...
-	184e6db0-da2b-4262-abac-cc0dc1680fe1 = Z obawy przed mo¿liwoœci¹ rozprzestrzenienia siê Incydentu w Knox...
+	// last record = Z obawy przed moÅ¼liwoÅ›ciÄ… rozprzestrzenienia siÄ™ Incydentu w Knox...
+	184e6db0-da2b-4262-abac-cc0dc1680fe1 = Z obawy przed moÅ¼liwoÅ›ciÄ… rozprzestrzenienia siÄ™ Incydentu w Knox...
 
 	//41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
-	// last record = Dzisiejsze zdjêcia ukazuj¹ prawdziw¹ bitwê pomiêdzy zamaskowanymi m³odymi ludŸmi...
-	ce98252a-4e30-4532-b46e-bdf328380815 = Dzisiejsze zdjêcia ukazuj¹ prawdziw¹ bitwê pomiêdzy zamaskowanymi m³odymi ludŸmi...
+	// last record = Dzisiejsze zdjÄ™cia ukazujÄ… prawdziwÄ… bitwÄ™ pomiÄ™dzy zamaskowanymi mÅ‚odymi ludÅºmi...
+	ce98252a-4e30-4532-b46e-bdf328380815 = Dzisiejsze zdjÄ™cia ukazujÄ… prawdziwÄ… bitwÄ™ pomiÄ™dzy zamaskowanymi mÅ‚odymi ludÅºmi...
 
 	//42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
-	// last record = ¯o³nierze na Times Square. Czo³gi w Miami Beach.
-	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = ¯o³nierze na Times Square. Czo³gi w Miami Beach.
+	// last record = Å»oÅ‚nierze na Times Square. CzoÅ‚gi w Miami Beach.
+	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = Å»oÅ‚nierze na Times Square. CzoÅ‚gi w Miami Beach.
 
 	//43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
-	// last record = Trzy-N odebra³o wstrz¹saj¹ce zdjêcia przemocy z wewn¹trz Strefy Zamkniêtej.
-	da14d0d0-b5e4-493d-bc55-4424e50cd975 = Trzy-N odebra³o wstrz¹saj¹ce zdjêcia przemocy z wewn¹trz Strefy Zamkniêtej.
+	// last record = Trzy-N odebraÅ‚o wstrzÄ…sajÄ…ce zdjÄ™cia przemocy z wewnÄ…trz Strefy ZamkniÄ™tej.
+	da14d0d0-b5e4-493d-bc55-4424e50cd975 = Trzy-N odebraÅ‚o wstrzÄ…sajÄ…ce zdjÄ™cia przemocy z wewnÄ…trz Strefy ZamkniÄ™tej.
 
 	//44. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
-	// last record = Ekipa Trzy-N myœli to samo co widzowie.
-	c99cd365-ac9d-463d-be67-2901750c1595 = Ekipa Trzy-N myœli to samo, co widzowie.
+	// last record = Ekipa Trzy-N myÅ›li to samo co widzowie.
+	c99cd365-ac9d-463d-be67-2901750c1595 = Ekipa Trzy-N myÅ›li to samo, co widzowie.
 
 	//45. ORIGINAL [#FF7030A0]: If the fever didn't get to you...
-	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = Je¿eli nie dopad³a ciê gor¹czka...
+	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = JeÅ¼eli nie dopadÅ‚a ciÄ™ gorÄ…czka...
 
 	//46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
-	// last record = Witamy w „Nocnych Rozmowach”. Razem z wami a¿ do œwitu! Jestem Dawn Stephenson.
-	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Witamy w „Nocnych Rozmowach”. Razem z wami a¿ do œwitu! Jestem Dawn Stephenson.
+	// last record = Witamy w â€Nocnych Rozmowachâ€. Razem z wami aÅ¼ do Å›witu! Jestem Dawn Stephenson.
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Witamy w â€Nocnych Rozmowachâ€. Razem z wami aÅ¼ do Å›witu! Jestem Dawn Stephenson.
 
 	//47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
-	// last record = ...zastanawiam siê, ¿e mo¿e faktycznie czegoœ siê od Raleigh nauczyli.
-	109f693d-3ebc-451d-97f0-4fd6d093f26e = I zastanawiam siê, ¿e mo¿e po incydencie w Raleigh faktycznie czegoœ siê nauczyli.
+	// last record = ...zastanawiam siÄ™, Å¼e moÅ¼e faktycznie czegoÅ› siÄ™ od Raleigh nauczyli.
+	109f693d-3ebc-451d-97f0-4fd6d093f26e = I zastanawiam siÄ™, Å¼e moÅ¼e po incydencie w Raleigh faktycznie czegoÅ› siÄ™ nauczyli.
 
 	//48. ORIGINAL [#FF7030A0]: Thank you Richard. Keep the reports coming.
-	// last record = Dziêkujê, Richardzie. Daj znaæ, jak dowiesz siê czegoœ nowego.
-	3f18f815-7017-41b2-ad00-6ddea2a2b19d = Dziêkujê, Richardzie. Daj znaæ, jak dowiesz siê czegoœ nowego.
+	// last record = DziÄ™kujÄ™, Richardzie. Daj znaÄ‡, jak dowiesz siÄ™ czegoÅ› nowego.
+	3f18f815-7017-41b2-ad00-6ddea2a2b19d = DziÄ™kujÄ™, Richardzie. Daj znaÄ‡, jak dowiesz siÄ™ czegoÅ› nowego.
 
 	//49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
-	// last record = Ludzie s¹ chorzy, ale te¿ panikuj¹ i s¹ zdezorientowani.
-	429d9b40-c818-4f7f-a07b-4931772fede1 = Ludzie s¹ chorzy, panikuj¹ i s¹ zdezorientowani.
+	// last record = Ludzie sÄ… chorzy, ale teÅ¼ panikujÄ… i sÄ… zdezorientowani.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = Ludzie sÄ… chorzy, panikujÄ… i sÄ… zdezorientowani.
 
 	//50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
-	// last record = Incydent w Knox dotkn¹³ wszystkich.
-	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = Incydent w Knox przerazi³ wszystkich.
+	// last record = Incydent w Knox dotknÄ…Å‚ wszystkich.
+	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = Incydent w Knox przeraziÅ‚ wszystkich.
 
 	//51. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
-	// last record = Powiedziano nam, ¿e to ma na celu: „usuniêcia wszelkiej niepewnoœci”.
-	a5cd6429-d856-4662-9729-c9175f237540 = Powiedziano nam, ¿e to ma na celu: „usuniêcie wszelkiej niepewnoœci”...
+	// last record = Powiedziano nam, Å¼e to ma na celu: â€usuniÄ™cia wszelkiej niepewnoÅ›ciâ€.
+	a5cd6429-d856-4662-9729-c9175f237540 = Powiedziano nam, Å¼e to ma na celu: â€usuniÄ™cie wszelkiej niepewnoÅ›ciâ€...
 
 	//52. ORIGINAL [#FF00B050]: They don't want to risk more riots.
-	// last record = Nie chc¹ ryzykowaæ kolejnych zamieszek.
-	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = Nie chc¹ ryzykowaæ kolejnych zamieszek.
+	// last record = Nie chcÄ… ryzykowaÄ‡ kolejnych zamieszek.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = Nie chcÄ… ryzykowaÄ‡ kolejnych zamieszek.
 
 	//53. ORIGINAL [#FF7030A0]: FUCK THIS SHIT!
-	// last record = Jebaæ to gówno!
-	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = Jebaæ to gówno!
+	// last record = JebaÄ‡ to gÃ³wno!
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = JebaÄ‡ to gÃ³wno!
 
 	//54. ORIGINAL [#FFFFC000]: There were thousands of infected, and they left their mark.
-	// last record = Zara¿onych przysz³o tysi¹ce i pogryŸli sporo ludzi.
-	20a8ee60-553a-45ce-add3-dbe20fd5555f = Zara¿onych by³o tysi¹ce i spowodowali ogromne straty.
+	// last record = ZaraÅ¼onych przyszÅ‚o tysiÄ…ce i pogryÅºli sporo ludzi.
+	20a8ee60-553a-45ce-add3-dbe20fd5555f = ZaraÅ¼onych byÅ‚o tysiÄ…ce i spowodowali ogromne straty.
 
 	//55. ORIGINAL [#FFFFC000]: People who sustained infected attacks in yesterday's chaotic scenes.
-	// last record = Ludzie ranni od infekuj¹cych ugryzieñ we wczorajszych atakach.
-	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Ludzie, którzy ponieœli rany od zainfekowanych we wczorajszych atakach.
+	// last record = Ludzie ranni od infekujÄ…cych ugryzieÅ„ we wczorajszych atakach.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Ludzie, ktÃ³rzy ponieÅ›li rany od zainfekowanych we wczorajszych atakach.
 
 	//56. ORIGINAL [#FFFFC000]: That can't be true.
-	// last record = To nie mo¿e byæ prawda.
-	de1a7a5c-e799-4a92-b942-d7683f46449a = To nie mo¿e byæ prawda.
+	// last record = To nie moÅ¼e byÄ‡ prawda.
+	de1a7a5c-e799-4a92-b942-d7683f46449a = To nie moÅ¼e byÄ‡ prawda.
 
 	//57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
-	// last record = Centrum mojej wiary stanowi przekonanie, ¿e istnieje inne miejsce.
-	47c01a90-d68e-483a-9271-24b7e7e60178 = 15.99$, plus koszty wysy³ki!
+	// last record = Centrum mojej wiary stanowi przekonanie, Å¼e istnieje inne miejsce.
+	47c01a90-d68e-483a-9271-24b7e7e60178 = 15.99$, plus koszty wysyÅ‚ki!
 
 	//58. ORIGINAL [#FF7030A0]: You know why we're here...
-	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = Wiesz, dlaczego tutaj jesteœmy...
+	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = Wiesz, dlaczego tutaj jesteÅ›my...
 
 	//59. ORIGINAL [#FF00B050]: <sigh>
 	4d474699-6df3-4b02-beec-bdea6b0a8e55 = <westchnienie>
 
 	//60. ORIGINAL [#FFFFC000]: Take a trowel. A shovel... hell maybe even your bare hands.
-	// last record = WeŸcie ³opatkê ogrodnicz¹ lub ³opatê.
-	d5a7a459-120c-46d2-915a-84ba1453d013 = WeŸcie ³opatkê ogrodnicz¹ lub ³opatê albo kopcie nawet w³asnymi rêkoma.
+	// last record = WeÅºcie Å‚opatkÄ™ ogrodniczÄ… lub Å‚opatÄ™.
+	d5a7a459-120c-46d2-915a-84ba1453d013 = WeÅºcie Å‚opatkÄ™ ogrodniczÄ… lub Å‚opatÄ™ albo kopcie nawet wÅ‚asnymi rÄ™koma.
 
 	//61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
-	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = Niewa¿ne, dok¹d pójdê, pacjenci mówi¹: „dziêkujemy, doktorze Cox”.
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = NiewaÅ¼ne, dokÄ…d pÃ³jdÄ™, pacjenci mÃ³wiÄ…: â€dziÄ™kujemy, doktorze Coxâ€.
 
 	//62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
-	// last record = Stan¹³em na wadze parê dni temu...
-	fc89eb09-6ed8-4d34-a175-19b234f583fc = Stan¹³em na wadze parê dni temu...
+	// last record = StanÄ…Å‚em na wadze parÄ™ dni temu...
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = StanÄ…Å‚em na wadze parÄ™ dni temu...
 
 	//63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
-	// last record = Cztery deski! Cztery gwoŸdzie! Jedna klamka! Dwa zawiasy!
-	dbaceec5-1ead-424d-809b-61a681de22c8 = Cztery deski! Cztery gwoŸdzie! Jedna klamka! Dwa zawiasy!
+	// last record = Cztery deski! Cztery gwoÅºdzie! Jedna klamka! Dwa zawiasy!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Cztery deski! Cztery gwoÅºdzie! Jedna klamka! Dwa zawiasy!
 
 	//64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
-	// last record = WeŸ trzy kawa³ki drewna - mog¹ byæ to deski.
-	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = WeŸ trzy kawa³ki drewna - mog¹ byæ to deski.
+	// last record = WeÅº trzy kawaÅ‚ki drewna - mogÄ… byÄ‡ to deski.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = WeÅº trzy kawaÅ‚ki drewna - mogÄ… byÄ‡ to deski.
 
 	//65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
-	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Nie mia³em pojêcia, ¿e Skandynawia to takie wspania³e miejsce!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Nie miaÅ‚em pojÄ™cia, Å¼e Skandynawia to takie wspaniaÅ‚e miejsce!
 
 	//66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
-	// last record = Co porabiacie? Ogl¹dasz „Proste Gotowanie”!
-	85b904e0-14e3-4daf-b354-33a7eb31df83 = Co porabiacie? Ogl¹dacie „Proste Gotowanie”!
+	// last record = Co porabiacie? OglÄ…dasz â€Proste Gotowanieâ€!
+	85b904e0-14e3-4daf-b354-33a7eb31df83 = Co porabiacie? OglÄ…dacie â€Proste Gotowanieâ€!
 
 	//67. ORIGINAL [#FFFFC000]: I'm shutting the whole Paranormal department down!
-	// last record = Zamykam ca³y wydzia³ od Wydzia³ Paranormalny!
-	819bf863-8eaf-4521-a433-e2f536815951 = Zamykam ca³y Wydzia³ Paranormalny!
+	// last record = Zamykam caÅ‚y wydziaÅ‚ od WydziaÅ‚ Paranormalny!
+	819bf863-8eaf-4521-a433-e2f536815951 = Zamykam caÅ‚y WydziaÅ‚ Paranormalny!
 
 	//68. ORIGINAL [#FF00B0F0]: [img=music] Jaunty music [img=music]
-	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] Weso³a melodia [img=music]
+	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] WesoÅ‚a melodia [img=music]
 
 	//69. ORIGINAL [#FF00B0F0]: [img=music] Orchestral music [img=music]
-	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] Muzyka grana przez orkiestrê [img=music]
+	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] Muzyka grana przez orkiestrÄ™ [img=music]
 
 	//70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
-	// last record = Najnowszy film, Dr Oids, wchodzi w³aœnie do kin...
-	4e76091e-9469-4004-9b8e-066d57cd91bc = Najnowszy film, „Dr Oids”, wchodzi w³aœnie do kin...
+	// last record = Najnowszy film, Dr Oids, wchodzi wÅ‚aÅ›nie do kin...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = Najnowszy film, â€Dr Oidsâ€, wchodzi wÅ‚aÅ›nie do kin...
 
 	//71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
-	// last record = Jak przygotowywa³eœ siê do roli dr. Oidsa?
-	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Jak przygotowywa³eœ siê do roli dr. Oidsa?
+	// last record = Jak przygotowywaÅ‚eÅ› siÄ™ do roli dr. Oidsa?
+	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Jak przygotowywaÅ‚eÅ› siÄ™ do roli dr. Oidsa?
 
 	//72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
-	// last record = „Dr Oids” jest ju¿ w kinach!
-	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = „Dr Oids” jest ju¿ w kinach.
+	// last record = â€Dr Oidsâ€ jest juÅ¼ w kinach!
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = â€Dr Oidsâ€ jest juÅ¼ w kinach.
 
 	//73. ORIGINAL [Black]: *bang!* *bang*
-	// last record = *strza³y z pistoletu*
-	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *strza³y z pistoletu*
+	// last record = *strzaÅ‚y z pistoletu*
+	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *strzaÅ‚y z pistoletu*
 
 	//74. ORIGINAL [Black]: *Applause in Courtroom*
 	// last record = *oklaski w sali rozpraw*
 	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *oklaski w sali rozpraw*
 
 	//75. ORIGINAL [#FF00B050]: Paul, you're on 2000 dollars! Well done!
-	// last record = Paul, na swoim koncie masz ju¿ 2000$! Znakomicie!
-	c0402817-3eb0-46ca-b709-64ae6638e745 = Paul, na swoim koncie masz ju¿ 2000$! Znakomicie!
+	// last record = Paul, na swoim koncie masz juÅ¼ 2000$! Znakomicie!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = Paul, na swoim koncie masz juÅ¼ 2000$! Znakomicie!
 
 	//76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
-	// last record = Za 3000$: twoj¹ odpowiedzi¹ jest „Poznañ”.
-	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Za 3000$: twoj¹ odpowiedzi¹ jest „Poznañ”.
+	// last record = Za 3000$: twojÄ… odpowiedziÄ… jest â€PoznaÅ„â€.
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Za 3000$: twojÄ… odpowiedziÄ… jest â€PoznaÅ„â€.
 
 	//77. ORIGINAL [#FF00B050]: Robert Johnson, you're on 1000 dollars! Well done!
-	// last record = Pan Robert Johnson wygra³ w³aœnie 1000$! Brawo!
-	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Pan Robert Johnson wygra³ w³aœnie 1000$! Brawo!
+	// last record = Pan Robert Johnson wygraÅ‚ wÅ‚aÅ›nie 1000$! Brawo!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Pan Robert Johnson wygraÅ‚ wÅ‚aÅ›nie 1000$! Brawo!
 
 	//78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
-	c9b01cec-94a2-4fb0-95d2-0677e237538f = Widzê, ¿e jest z nami g³upiec, który wtr¹ci³ Arcyksiêcia Oldworlda w Otch³añ Chaosu?
+	c9b01cec-94a2-4fb0-95d2-0677e237538f = WidzÄ™, Å¼e jest z nami gÅ‚upiec, ktÃ³ry wtrÄ…ciÅ‚ ArcyksiÄ™cia Oldworlda w OtchÅ‚aÅ„ Chaosu?
 
 	//79. ORIGINAL [Red]: Sponsored by Spiffo's?!
 	980e2e5d-fb55-417d-a38d-7d08838abdaf = Sponsorowane przez Spiffo's?!
 
 	//80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
-	a706a64e-f46a-407f-b853-91c7e0b607bf = A czy ty, Zachary, chcia³byœ siê pohuœtaæ na huœtawce?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = A czy ty, Zachary, chciaÅ‚byÅ› siÄ™ pohuÅ›taÄ‡ na huÅ›tawce?
 
 	//81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
 	// last record = Ten elegancki, szwajcarski zestaw do fondue? 33.99L.
@@ -322,56 +322,56 @@
 	72ff543a-10c4-409f-a7c2-9603dc521c11 = Ja... umieram!
 
 	//83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
-	a44a5560-5f13-4575-9cd4-9a931123f3fd = Krecik Kret? Czy jego nosek nie porusza siê uroczo?
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = Krecik Kret? Czy jego nosek nie porusza siÄ™ uroczo?
 
 	//84. ORIGINAL [#FF00B050]: Let's help your little friend here...
-	// last record = Pomó¿my twojej zabawce...
-	845988d3-0acf-464a-952e-b0b05050ad46 = Pomó¿my twojej zabawce...
+	// last record = PomÃ³Å¼my twojej zabawce...
+	845988d3-0acf-464a-952e-b0b05050ad46 = PomÃ³Å¼my twojej zabawce...
 
 	//85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
-	// last record = 15,99$ plus koszty wysy³ki!
-	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15,99$ plus koszty wysy³ki.
+	// last record = 15,99$ plus koszty wysyÅ‚ki!
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15,99$ plus koszty wysyÅ‚ki.
 
 	//86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
-	// last record = Proszê tylko o jedno: pamiêtajcie o mnie, gdy niebo pociemnieje.
-	4f019495-c989-495d-8c31-ed833ef9c7e7 = Proszê tylko o jedno: pamiêtajcie o mnie, gdy niebo pociemnieje.
+	// last record = ProszÄ™ tylko o jedno: pamiÄ™tajcie o mnie, gdy niebo pociemnieje.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = ProszÄ™ tylko o jedno: pamiÄ™tajcie o mnie, gdy niebo pociemnieje.
 
 	//87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
-	3707534c-49f2-4dc1-bbff-6ef689a945e7 = Puchaty Króliczek Puchatostopy? Widzieliœcie kiedyœ tak przecudnie puchatego króliczka?
+	3707534c-49f2-4dc1-bbff-6ef689a945e7 = Puchaty KrÃ³liczek Puchatostopy? WidzieliÅ›cie kiedyÅ› tak przecudnie puchatego krÃ³liczka?
 
 	//88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
-	// last record = Np. LBMW tego ranka mówi³o nam: „nie wychodŸcie z domów”.
-	1046a459-6ead-4145-acc5-192fa0e4398d = Np. LBMW tego ranka mówi³o nam: „nie wychodŸcie z domów”.
+	// last record = Np. LBMW tego ranka mÃ³wiÅ‚o nam: â€nie wychodÅºcie z domÃ³wâ€.
+	1046a459-6ead-4145-acc5-192fa0e4398d = Np. LBMW tego ranka mÃ³wiÅ‚o nam: â€nie wychodÅºcie z domÃ³wâ€.
 
 	//89. ORIGINAL [#FF00B050]: You'll just need to find a way to distract the...
-	// last record = Bêdziecie musieli jedynie odwróciæ uwagê tej...
-	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Bêdziecie musieli jedynie odwróciæ uwagê tej...
+	// last record = BÄ™dziecie musieli jedynie odwrÃ³ciÄ‡ uwagÄ™ tej...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = BÄ™dziecie musieli jedynie odwrÃ³ciÄ‡ uwagÄ™ tej...
 
 	//90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
-	// last record = Wiesz dok¹d pójdê?
-	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Ja wiem, dok¹d pójdê!
+	// last record = Wiesz dokÄ…d pÃ³jdÄ™?
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Ja wiem, dokÄ…d pÃ³jdÄ™!
 
 	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
-	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = Ju¿ dziœ odwiedŸcie „Ja *serce* Wok and Rolls”!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = JuÅ¼ dziÅ› odwiedÅºcie â€Ja *serce* Wok and Rollsâ€!
 
 	//92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
-	// last record = [img=music] Zrób roboci taniec [img=music]
-	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] Zrób roboci taniec [img=music]
+	// last record = [img=music] ZrÃ³b roboci taniec [img=music]
+	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] ZrÃ³b roboci taniec [img=music]
 
 	//93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
-	// last record = Dr Oids. Dla ca³ej rodziny.
-	75fa01e1-5c17-493a-b539-1d009ade45f2 = Dr Oids. Dla ca³ej rodziny.
+	// last record = Dr Oids. Dla caÅ‚ej rodziny.
+	75fa01e1-5c17-493a-b539-1d009ade45f2 = Dr Oids. Dla caÅ‚ej rodziny.
 
 	//94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
-	// last record = Dziêkujê za polecenie doktorom rodzinnym sugerowanie œrodka Incontileve.
-	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = Dziêkujê doktorom rodzinnym za polecanie œrodka Incontileve.
+	// last record = DziÄ™kujÄ™ za polecenie doktorom rodzinnym sugerowanie Å›rodka Incontileve.
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = DziÄ™kujÄ™ doktorom rodzinnym za polecanie Å›rodka Incontileve.
 
 	//95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
-	// last record = Jestem Joe McKenzie i jestem w³aœcicielem Pony Roam-O w hrabstwie Knox.
-	77383a36-ae45-466d-9c4c-78c036d2862f = Jestem Joe McKenzie i jestem w³aœcicielem Pony Roam-O w hrabstwie Knox.
+	// last record = Jestem Joe McKenzie i jestem wÅ‚aÅ›cicielem Pony Roam-O w hrabstwie Knox.
+	77383a36-ae45-466d-9c4c-78c036d2862f = Jestem Joe McKenzie i jestem wÅ‚aÅ›cicielem Pony Roam-O w hrabstwie Knox.
 
 	//96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
-	// last record = Konie to najwspanialsze zwierzêta jakie nasz kraj ma do zaoferowania.
-	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Konie to najwspanialsze zwierzêta jakie nasz kraj ma do zaoferowania.
+	// last record = Konie to najwspanialsze zwierzÄ™ta jakie nasz kraj ma do zaoferowania.
+	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Konie to najwspanialsze zwierzÄ™ta jakie nasz kraj ma do zaoferowania.
 
 [/Translations]

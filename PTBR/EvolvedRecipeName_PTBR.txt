@@ -1,5 +1,5 @@
 EvolvedRecipeName_PTBR = {
-    EvolvedRecipeName_Base.CannedBologneseOpen = "Lata de Bolonhesa",
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Lata de Bolonhesa",
     EvolvedRecipeName_Base.CannedCarrotsOpen = "Lata de Cenoura",
     EvolvedRecipeName_Base.CannedChiliOpen = "Lata de Chili",
     EvolvedRecipeName_Base.CannedCornOpen = "Lata de Milho",

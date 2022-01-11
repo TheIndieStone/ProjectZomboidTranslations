@@ -197,7 +197,7 @@ Sandbox_CN = {
     Sandbox_FarmingSpeed_option4 = "慢",
     Sandbox_FarmingSpeed_option5 = "非常慢",
     Sandbox_NatureAmount = "野外资源量",
-    Sandbox_NatureAmount_tooltip = "影响钓鱼/采集的难度.",
+    Sandbox_NatureAmount_tooltip = "影响钓鱼/搜寻的难度.",
     Sandbox_NatureAmount_option1 = "非常贫瘠",
     Sandbox_NatureAmount_option2 = "贫瘠",
     Sandbox_NatureAmount_option3 = "正常",
@@ -594,3 +594,4 @@ Sandbox_CN = {
 	Sandbox_MapAllKnown = "地图全开",
 	Sandbox_AllClothesUnlocked = "服装全解锁",
 }
+
