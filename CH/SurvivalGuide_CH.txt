@@ -63,23 +63,23 @@ SurvivalGuide_CH = {
 
     SurvivalGuide_entrie10title = "生存指南 #10 - 氣候",
     SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #10 - 氣候 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 濃霧, 暴風雨和雪都能讓殭屍的威脅變得更具有挑戰性! 當冬天逼近時, 記得把自己包得暖暖的...",
-    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變化 <BR> <TEXT> Project Zomboid 裡的天氣變化很真實. 氣候模擬系統運用季節, 虛擬鋒面, 來在適當的時間製造降雨, 下雪, 濃霧和雷雨.  <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫冷暖對你的生存有所影響.  <LINE> " ..
-                                      " 當冬天逼近時, 你能透過充足飲食, 保持好精神且適當穿著保暖衣物來達到最佳抗寒效果. 這麼做也可以幫助你保持活躍並且保持良好體態. 潮濕和生病都會增加你因寒冷而受苦的可能性.  <LINE> <BR> " ..
+    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變化 <BR> <TEXT> Project Zomboid 裡的天氣變化很真實. 氣候模擬系統運用季節, 虛擬鋒面, 來在適當的時間製造降雨, 下雪, 濃霧和雷雨.  <LINE> "..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫冷暖對你的生存有所影響.  <LINE> "..
+                                      " 當冬天逼近時, 你能透過充足飲食, 保持好精神且適當穿著保暖衣物來達到最佳抗寒效果. 這麼做也可以幫助你保持活躍並且保持良好體態. 潮濕和生病都會增加你因寒冷而受苦的可能性.  <LINE> <BR> "..
                                       " 當氣溫到達寒冷極端時, 最好透過熱源或是待在室內來保持溫暖: 營火, 車內暖氣, 或是火爐都能幫助你溫暖身體. <LINE> "..
-                                      " 若是要在炎熱氣候下生存, 則注意保持水分充足並不要穿著太多衣物. <LINE> <BR>" ..
-                                      " <H1> 得知氣溫 <BR> <TEXT> 若你想知道目前所在位置的氣溫的話, 可以透過配戴電子錶來在介面上顯示溫度. <LINE> <BR> " ..
-                                      " <H1> 冷風 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 尤其是冬季時, 戶外的冷風也是影響要素之一 - 大雨也有所影響. 冬季中期的暴風雪可能會因為其強風和低溫大幅地降低體溫. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 但不會在電子錶上直接顯示體感溫度上的差距. 小心留意心情圖示來查看冷風是否對你有所影響. <LINE> <BR> " ..
+                                      " 若是要在炎熱氣候下生存, 則注意保持水分充足並不要穿著太多衣物. <LINE> <BR>"..
+                                      " <H1> 得知氣溫 <BR> <TEXT> 若你想知道目前所在位置的氣溫的話, 可以透過配戴電子錶來在介面上顯示溫度. <LINE> <BR> "..
+                                      " <H1> 冷風 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 尤其是冬季時, 戶外的冷風也是影響要素之一 - 大雨也有所影響. 冬季中期的暴風雪可能會因為其強風和低溫大幅地降低體溫. <LINE> <BR> "..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 但不會在電子錶上直接顯示體感溫度上的差距. 小心留意心情圖示來查看冷風是否對你有所影響. <LINE> <BR> "..
                                       " 穿暖活點吧, 倖存者! ",
 
     SurvivalGuide_entrie11title = "生存指南 #11 - 找掩護",
     SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> 新 - 找掩護 <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - 潛行 <LINE> %2 - 衝刺 <LINE> %3 - 慢跑"
-    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 倖存者們現在可以蹲在牆後來降低可見度!  <LINE> 在這個狀態下你也可以慢跑.  <LINE> <BR> " ..
-                                        "<H1> 衝刺 <BR> <TEXT> 如果慢跑不夠快的話 - 那麼可以試試衝刺!  <LINE> 按下 %1 來衝刺 - 但請注意, 慌張時可能會跌倒.  <LINE> <BR> " ..
-                                        "<H1> 自動爬越 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> 要翻過圍牆的話, 只需跑向或衝向它們.  <LINE> <BR> " ..
-                                        "<H1> 踩踏頭部 <BR> <TEXT> 當殭屍被擊倒在地時: 瞄準頭部! 若攻擊下方身體部位的話, 效果可能不理想.  <LINE> <BR> " ..
-                                        "<H1> 長矛 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 使用長矛需適當地拿捏時機和距離. 還有, 何不試試拿著長矛向落單的殭屍衝刺呢?  <LINE> <BR> " ..
+    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 倖存者們現在可以蹲在牆後來降低可見度!  <LINE> 在這個狀態下你也可以慢跑.  <LINE> <BR> "..
+                                        "<H1> 衝刺 <BR> <TEXT> 如果慢跑不夠快的話 - 那麼可以試試衝刺!  <LINE> 按下 %1 來衝刺 - 但請注意, 慌張時可能會跌倒.  <LINE> <BR> "..
+                                        "<H1> 自動爬越 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> 要翻過圍牆的話, 只需跑向或衝向它們.  <LINE> <BR> "..
+                                        "<H1> 踩踏頭部 <BR> <TEXT> 當殭屍被擊倒在地時: 瞄準頭部! 若攻擊下方身體部位的話, 效果可能不理想.  <LINE> <BR> "..
+                                        "<H1> 長矛 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 使用長矛需適當地拿捏時機和距離. 還有, 何不試試拿著長矛向落單的殭屍衝刺呢?  <LINE> <BR> "..
                                         "<H1> 服裝防護 <BR> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 %2 開啟服裝防護面板來檢視你的倖存者目前的防護等級.  <LINE> <BR> ",
 
 }
