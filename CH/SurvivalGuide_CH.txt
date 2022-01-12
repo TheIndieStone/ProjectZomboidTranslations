@@ -3,22 +3,22 @@ SurvivalGuide_CH = {
     SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 你要是不好好深呼吸, 學習基礎的話是活不久的. ",
     SurvivalGuide_entrie1moreinfo = " <H1> 移動 <BR> <TEXT> 想在 Project Zomboid 四處移動, 使用 WASD 鍵.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
             " 按住 LSHIFT 鍵來快速跑動.  <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "　..
-            "戰鬥 <BR> <TEXT> To attack a deadhead, you'll first have to hold RMB to engage strafe mode. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  To pull back the swing of a melee weapon, just hold RMB. The point you're aiming at will always be towards the mouse cursor. The very best survivors will simultaneously strafe with WASD to get themselves into position for their desperate zombie bashing."..
-            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> To connect melee weapon with dead person's skull, hit LMB. Bear in mind that shots are charged & so frenzied clicking is not the way ahead. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> LCTRL doubles as a sneak mode. If you want to avoid the attention of the local shambling infected, its use is strongly advised..  <BR> <H1> INTERACTION <BR> "..
-            "<H2> MOUSE CLICKS <BR> <TEXT> You can interact with nearby objects with a click of LMB. This will, for example, open doors or fling open cupboards you'd like to loot.. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
-            "<H2> CONTEXT KEY <BR> <TEXT> Another way to interact is by pressing E. This will let you open doors and windows while in an attack stance. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> This will allow for opening doors while in combat stance, for example. <BR>  <TEXT> Holding E will also let you interact in a secondary manner & generally in times of desperation. If you want to climb through a window while the zeds are following, for example, then E is your friend. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-            " <LINE> <H2> CONTEXT MENU <BR> <TEXT> More detailed interaction, such as crafting, can be accessed with a context menu that's triggered with RMB. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
+            "戰鬥 <BR> <TEXT> 要攻擊死人, 首先你得按住右鍵來進入橫移模式.  <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 要準備揮舞近戰武器, 只需按住右鍵. 你所瞄準的方向會跟著你的游標改變. 最強悍的倖存者會同時使用 WASD 鍵來調整至打爆殭屍的最佳位置. "..
+            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 要把武器打到死人頭上, 請按左鍵. 記住, 每次攻擊都需要預備時間, 所以不停地點擊不是好策略.  <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> LCTRL 也能用來進入潛行模式. 如果你想避免吸引附近殭屍的注意力的話, 請好好使用... <BR> <H1> 互動 <BR> "..
+            "<H2> 滑鼠點擊 <BR> <TEXT> 你可以透過點擊左鍵來和附近的物件互動. 舉例來說, 這可以用來打開門或是開啟你想拾取的櫥櫃... <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
+            "<H2> 互動按鍵 <BR> <TEXT> 另一個能用來與物件互動的按鍵是 E 鍵. 這能夠讓你在攻擊模式下也能打開門窗.  <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> 舉例來說, 這能讓你在戰鬥姿態下打開門.  <BR>  <TEXT> 按住 E 鍵也能讓你進行次要的互動動作, 通常在時間緊迫時使用. 舉例來說, 如果你想在被殭屍跟著時爬過窗戶, 那麼 E 就是你的好朋友.  <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+            " <LINE> <H2> 右鍵選單 <BR> <TEXT> 更詳細的互動選項, 例如製作物品, 能透過右鍵選單來選取.  <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
 
     SurvivalGuide_entrie2title = "生存指南 #2 - 不要跑",
     SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #2 - 別跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> 愛跑的倖存者會變成死掉的倖存者. ",
     SurvivalGuide_entrie2moreinfo = " <H1> 殭屍感官 <BR> <TEXT> 生存模式中, 死者有視覺跟聽覺反應.  <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 跑步會產生噪音, 使你更容易吸引注意.  <BR> 你雖然跑得贏死人, 但你不可能永遠跑下去.  <BR> "..
-    " A wise survivor befriends LCTRL (or RMB if they're buttered that way). This enables sneak / strafe mode. Slow sneaking makes you harder to spot, and reduces the pitter-patter of your doomed feet. It will also let you turn on your heel that much easier & to make sure nothing's about to take a chunk from your neck. <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid is not a popularity contest. Keep to the shadows. Zombies only want to eat you. They do not hug.",
+    " 聰明的倖存者會與 LCTRL 當好朋友 (或者右鍵, 如果他們想的話) . 這能開啟潛行 / 橫移模式. 緩慢地潛行能讓你更難被發現, 並降低你害死人的腳步聲. 也能夠讓你更快地轉身, 確保身後沒有想咬你脖子一口的殭屍.  <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> Project Zomboid 不是人氣比賽. 保持低調. 殭屍只想吃你, 不想抱你. ",
 
     SurvivalGuide_entrie3title = "生存指南 #3 - 講究精準! ",
     SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #3 - 講究精準!  <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 你正在對抗死人! 想擊穿頭殼的話是得用點心的!  <LINE> <LINE> 切記: 衝刺和揮擊! ",
     SurvivalGuide_entrie3moreinfo = " <H1> 戰鬥系統 <BR> <TEXT> 每個武器都有其傷害值. 但是攻擊力還是取決於你自身的技能跟體態. <BR> <H2> 講究精準"..
-            " <BR> <TEXT> The brain-mushing power of a melee shot is also determined by your skill level. Another vital factor, however, is how long you've 'prepared' the swing. You must hold RMB for several seconds before each swing: this will let you focus, take aim, and put your full force into your attempt at deadhead-dispatch. <BR> A charged swing has FAR more force than rapid, frequent blows. In this new dawn of the deadheads mouse-spamming takes lives! <BR> <H2> RANGE <BR> <TEXT> Range is another vital factor & although the sweet-spot for dead-downing will depend on what you're wielding. <BR> In general, swinging weapons like a bat or axe benefit from swings at their maximum possible range.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> Weapons like knives, and other stabby weapons, benefit greatly from thrusts at close range. Don't expect much from the butter knife though. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-            " <H2> GROUND ATTACKS <BR> <TEXT> The best way to re-dead a dead person is to knock them to the floor & then get all bashy with their brains. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> This can be done with a powerful swing, or by pushing the zombie over. Pushing will happen automatically if a member of the horde is inside your weapon's minimum range (generally if you're waving an axe, bat or something else of their ilk) or if you're unarmed. <BR> When the zombies hit the floor: your attacks will be downward. Damage will be done. There will be brains. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
+            " <BR> <TEXT> 近戰攻擊的威力也取決於你的技能等級. 另一個重要因素, 則是你 '預備' 攻擊的時間. 你必須按住右鍵數秒後再進行揮擊: 這能讓你專注, 瞄準, 並將全部的力道灌注在消滅殭屍.  <BR> 一個預備充足的揮擊比起快速, 頻繁的打擊還要強力許多. 這在死人的新世界中, 不停地點擊滑鼠是會送命的!  <BR> <H2> 距離 <BR> <TEXT> 距離是另一個重要因素, 但攻擊殭屍的最佳距離取決於你手上拿著的武器.  <BR> 一般來說, 揮舞像是球棒或者斧頭這類的武器, 最好是在最大的可能距離.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> 像是刀類等等尖銳的武器, 則受惠於近距離. 但還是別對奶油刀抱有太大的期望.  <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+            " <H2> 地面攻擊 <BR> <TEXT> 要讓死人再死一回, 最好的方式就是先把他們打倒在地上, 然後再打碎他們的腦.  <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 你可以透過強力的攻擊或是推擊來推倒殭屍. 如果殭屍在你武器最短距離以內 (如果你使用的是斧頭, 球棒等等類型的武器的話) 或是空手攻擊的話, 會自動進行推擊.  <BR> 當殭屍倒地後: 你的攻擊將會往下. 會造成重大傷害, 也會造成腦漿四溢.  <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
 
     SurvivalGuide_entrie4title = "生存指南 #4 - 求水之路",
     SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #4 - 求水之路 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 乾淨的水對你的生命至關重要. ",
@@ -27,7 +27,7 @@ SurvivalGuide_CH = {
     SurvivalGuide_entrie5title = "生存指南 #5 - 製作這個那個",
     SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #5 - 製作這個那個 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 殭屍們會對門窗攻擊! 不放心時: 加固防禦! ",
     SurvivalGuide_entrie5moreinfo = " <H1> 物品製作 <BR> <TEXT> 要在物品欄內製作物品, 只需右鍵點擊你物品欄內所攜帶的東西. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 所有你能使用此物品或其他物品製作的東西, 都會神奇地出現!  <BR> 各種烹飪, 木工, 醫療, 和求生配方都能在末日之中祝你一臂之力.  <BR> <H1> 加固防禦 <BR> <TEXT> 你能用右鍵加固門窗, 但你的物品欄內需要木板和釘子.  <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE> 可以使用多數木板進而強化門與窗戶的堅固度.  <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE>"..
-            " <H1> CARPENTRY <BR> <TEXT> As you find resources and become more competent with a hammer, you can eventually construct entire buildings. All budding builders MUST have a hammer in their inventory. Simply right click on the ground to get the build menu. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> From here, you can select any piece of furniture that your skills and materials can produce. <BR> Once selected, you will have a transparent representation of the final product will appear & which you can then move around the world and place with LMB. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> The process isn't a rapid one. PZ is a realism-devoted game, and if you've ever had builders in you'll know these things take time. (Please note we do let you craft cups of tea in-game, if it helps). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> You can rotate crafted items before placement by pressing R. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> REMEMBER: the more you craft, the better you you'll become. Higher skill levels means better quality items, and more useful ones too.",
+            " <H1> 木工 <BR> <TEXT> 隨著你搜尋物資且越來越擅長使用鎚子, 你將可以學會建造一整棟建築物. 所有建築師的物品欄內都必須有一把鎚子. 只需右鍵點擊地面就可以顯示出建造選單.  <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 從這裡, 你可以選擇任何一項你的技能和資源允許建造的家具.  <BR> 選擇之後, 你會看見一個透明的指示, 來顯示最終成品會出現在哪, 你可以到處移動再透過左鍵開始建造.  <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 建造的過程需要花上許多時間. PZ 是講究寫實的遊戲, 如果你建造過建築的話, 你就知道這些東西得花上不少時間.  (請記得, 我們也讓你可以在遊戲建造一杯茶, 如果這樣有比較好的話).  <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 你可以在放置以前透過 R 鍵旋轉物件.  <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 切記: 你做製造的物品越多, 你也會變得更熟練. 技能等級越高代表你建造物件的品質越好, 還有可以建造更有用的物件. ",
 
     SurvivalGuide_entrie6title = "生存指南 #6 - 防止偷窺",
     SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #6 - 防止偷窺 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 他們雖然死了, 但還是能看過窗戶.  <LINE> <LINE> 沒有窗簾? 臨機應變吧. ",
@@ -36,50 +36,50 @@ SurvivalGuide_CH = {
     SurvivalGuide_entrie7title = "生存指南 #7 - 美味佳餚",
     SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #7 - 美味佳餚 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒一點也不好玩. 在末日之中更是如此.  <LINE> <LINE> 熱騰騰的食物能帶來長久的好處. ",
     SurvivalGuide_entrie7moreinfo = " <H1> 烹飪 <BR> <TEXT> 牛肉, 雞肉和許多其它食物都需要烹煮過後才能食用 (那些遊戲真瘋狂, 是吧? )  <BR> 不只是為了降低食物中毒的風險, 烹煮後的食物更能滿足情緒, 提供營養, 跟對抗飢餓.  <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 想烹煮食物的話, 只需將其放入烤箱或微波爐內就好 - 或者你也可以自行生火.  <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 使用右鍵選單將烹煮家電打開, 食物煮熟後從拾取視窗內取出. 煮完東西記得關閉家電, 以防萬一.  <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE>"..
-            " <H1> FARMING <BR> <TEXT> To grow your own food, simply find a trowel and some seeds. Plough the soil and scatter, and soon you'll be fed and waterered by your own survivalist hand. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-            " <H1> FORAGING <BR> <TEXT> Find berries and other fruits out in the wilderness. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> "..
-			" <H1> DON'T DIE <BR> <TEXT> Try not to die at all times.",
+            " <H1> 農耕 <BR> <TEXT> 要自己耕種食物的話, 只需先找到鏟子和種子. 打鬆土並播種, 很快地你就能靠自己的雙手餵飽自己.  <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+            " <H1> 採集 <BR> <TEXT> 在野外搜索漿果和其他水果.  <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> "..
+			" <H1> 別死 <BR> <TEXT> 隨時注意不要死. ",
 
     SurvivalGuide_entrie8title = "生存指南 #8 - 囤積物資",
     SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #8 - 囤積物資 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 有效且快速地管理你的物品欄不但能節省時間 - 還能保住性命! ",
     SurvivalGuide_entrie8moreinfo = " <H1> 選擇 <BR> <TEXT> 要如何翻找, 拿去, 丟下和使用各種物品呢? 在 Project Zomboid 裡這些動作到處都是!  <BR> 最主要的方法就是簡單地點擊和拖放 - 或者你也可以使用右鍵選單.  <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> "..
-            " Holding LSHIFT will also allow you select multiple items. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> Or, why not go CRAZY and drag a square over multiple items with your mouse? <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-            " OR why not double-click something in the loot inventory for a quick grab? OR OR, slam on quick context button on the right of your selection. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  Oh, and there's 'Loot All' if you're so excited that you have to grab EVERYTHING. <LINE> "..
-            " <H1> THE GLORY OF BAGS <BR> <TEXT> Bags are important. They help you carry stuff. <BR> To equip one and hurriedly throw your items in: right click and atatch it to your primary hand, secondary hand or (if it's a rucksack) on your back. "..
-            " <BR> You'll then see the equipped bag in your inventory - all ready for you to drag & drop your loot into. Vitally, bags will grant you a weight reduction. You can carry more. Useful, non? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-            " <H1> KNOW THY HOTKEYS  <BR> <TEXT> Hotkey are bindable in the options menu, but we've pre-bound some. As we're nice like that. "..
-            " <BR> 1 : Equips the best melee weapon. "..
-			" <BR> 2 : Equips the best firearm. (Don't forget 'r' reloads!)  "..
-			" <BR> 3 : Equips your best stabbing weapon for close quarter engagements. "..
-			" <BR> F : Equips (and turns on) your best light source. ",
+            " 按住 LSHIFT 能讓你一次選取多個物品.  <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者, 何不用滑鼠拖拉出選取方格來選取多項物品呢?  <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+            " 又或者, 何不雙擊拾取視窗內的物品來快速拿取呢? 還有還有, 也可以用右鍵選單內的按鈕.  <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  噢, 還有 '拾取全部' 按鈕, 如果你興奮到想要全都拿走的話.  <LINE> "..
+            " <H1> 包包的榮耀 <BR> <TEXT> 包包很重要. 它們能用來幫助你攜帶東西.  <BR> 要裝備一個包包並把東西快速地收進去的話: 右鍵點擊並將它裝備在主手, 副手, 或者是背上 (如果是背包的話) . "..
+            " <BR> 接下來你可以在你的物品欄內看見已裝備的包包 - 準備好讓你把物資都拖拉進去. 重要的是, 包包能降低物品的重量, 這樣一來你可以攜帶更多物品. 很有用, 對吧?  <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+            " <H1> 熟悉你的快捷鍵 <BR> <TEXT> 快捷鍵可以在選項選單內綁定, 但我們已經事先綁定了一些, 因為我們就是這麼好心. "..
+            " <BR> 1 : 裝備最好的近戰武器. "..
+			" <BR> 2 : 裝備最好的槍械.  (別忘了 'r' 可以重新填裝子彈!) "..
+			" <BR> 3 : 裝備最適合近距離戰鬥使用的尖銳武器. "..
+			" <BR> F : 裝備 (並打開) 你身上最好的照明物品. ",
 
     SurvivalGuide_entrie9title = "生存指南 #9 - 交通工具",
     SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛對生存帶來很大的幫助, 但也帶來很大的噪音! 轟隆隆的引擎會吸引遠處的殭屍...",
-    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你夠好運的話, 也許能找到匆忙車主留在車門, 儀錶板或手套箱的車鑰匙. 你也可以搜尋附近的殭屍, 其中之一可能就是車主. 同樣地, 如果你想找到停在屋外車輛的鑰匙 - 搜索屋內, 鑰匙可能就在那.  <BR> 還是沒找到嗎? 何不直接闖進去呢? 打破車窗來解鎖車門. 如果你的機工和電工技能夠高的話, 就可以短接啟動車輛.  <BR> "..
-            " <H1> TIME TO DRIVE <BR> <TEXT> Click on the ignition to insert your key, turn on the engine and inspect the dashboard read-outs. Alternatively, just press the forward key (default: W) to get rolling <BR> If the car's engine condition isn't high, it may not start first time. If it's refusing to turn over at all, it might be time to inspect the Mechanic Skill window... <BR> Drive cautiously! The louder a car, the wider the radius of nearby zombies that'll be alerted and start to follow the noise...  <BR> "..
-            " <H1> DASHBOARD <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> On a vehicle's Dashboard you can see helpful read-outs of information like the its fuel levels, speed and RPM. <BR> Icons on top of the dash will also tell you engine status, whether the trunk is open, whether the headlights are operational etc. Clicking these icons will open up available options - so clicking on the AC/Heater will open up the relevant window. <BR> "..
-            " <H1> RADIAL MENU <BR> <TEXT> If you're inside or next to a vehicle press 'V'. This will open its radial menu <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> From here you can switch seats, lock doors, operate lights, open up the Mechanics window and more. <BR> "..
-            " <H1> MECHANIC WINDOW <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> An unskilled survivor can check if your battery is still ok, see fuel levels and notice whether certain parts of the car appear damaged. A survivor with Mechanic skills will be able to see extra details, and install and uninstall parts. <BR> For more information on this and the Mechanic skill, click the info icon in the top left corner of the Mechanic window.",
+    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你夠好運的話, 也許能找到匆忙車主留在車門, 儀表板或手套箱的車鑰匙. 你也可以搜尋附近的殭屍, 其中之一可能就是車主. 同樣地, 如果你想找到停在屋外車輛的鑰匙 - 搜索屋內, 鑰匙可能就在那.  <BR> 還是沒找到嗎? 何不直接闖進去呢? 打破車窗來解鎖車門. 如果你的機工和電工技能夠高的話, 就可以熱接發動車輛.  <BR> "..
+            " <H1> 是時候開車了 <BR> <TEXT> 點擊發動鑰匙孔來插入鑰匙, 發動引擎並檢視儀表板資訊. 或者你也可以按下前進鍵 (預設: W) 來發動車輛.  <BR> 如果車輛的引擎狀況不好, 可能沒辦法一次就成功發動. 如果不管怎麼樣都沒辦法發動的話, 那麼也許是時候檢查一下你的機工技能視窗了... <BR> 小心駕駛! 車輛發出的聲音越大, 就會吸引更大範圍內的殭屍注意, 並使他們開始往聲音的源頭前進...  <BR> "..
+            " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 你可以在儀表板上看到有用的資訊, 例如油量, 速度和 RPM.  <BR> 儀表板上方的圖示也能告訴你引擎狀態, 車廂是否打開, 頭燈是否正常運作等等...點擊這些圖示能開啟可用的選項 - 像是點擊空調 / 暖氣的話會打開相關的視窗. <BR> "..
+            " <H1> 環狀選單 <BR> <TEXT> 如果你在車輛內或車輛旁, 按下 'V'. 這會開啟車輛的環狀選單 <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 從這裡你可以切換座位, 鎖門, 操作車燈, 開啟機工視窗等等. <BR> "..
+            " <H1> 機工視窗 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 一個技能不佳的倖存者可以檢查電池狀況, 油量, 並注意到特定零件是否看起來已受損. 一個擅長機工技能的倖存者則可以看到更多細節, 並安裝或是拆除零件. <BR> 若想知道更多與機工技能有關的資訊, 請點擊機工視窗左上角的資訊圖示. ",
 
-    SurvivalGuide_entrie10title = "生存指南 #10 - 天氣系統",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #10 - 天氣系統 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 霧, 風暴和雪使殭屍的威脅更具挑戰性! 當冬天來臨時做好保暖...",
-    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變化 <BR> <TEXT> Project Zomboid中的天氣模式非常逼真.類比氣候系統會製造雨,雪,霧和雷暴等天氣. <LINE> "..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> The impact of cold, and warm, temperatures have an impact on your survival. <LINE> "..
-                                      " When winter draws in your resistance to the cold be highest if you're well fed, not tired and wearing proper winter clothing. It will also help to keep active and be physically fit. Wetness and sickness will both increase the likelihood of you suffering from the cold. <LINE> <BR> "..
-                                      " During periods of extreme cold it's best to warm up with a heatsource or inside a building: campfires, car heaters and stoves will all warm you up. <LINE> "..
-                                      " When surviving during hot weather, meanwhile, staying well-hydrated and wearing lighter clothing is advisable. <LINE> <BR>"..
-                                      " <H1> KNOWING TEMPERATURE <BR> <TEXT> If you want to know the temperature in your immediate area, then many digital watches can be used to show the temperature on your UI. <LINE> <BR> "..
-                                      " <H1> WIND CHILL <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> During winter months, especially, outside wind chill will also become a factor - and heavy rain will also compound this. Blizzards in mid-winter can severely drop the temperature due to the strong wind and low temperature. <LINE> <BR> "..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Wind chill affects your body, but won’t show a direct difference in temperature on your digital watch. Keep an eye on your moodles to see when it's impacting on you. <LINE> <BR> "..
-                                      " Wrap up warm survivor!",
+    SurvivalGuide_entrie10title = "生存指南 #10 - 氣候",
+    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #10 - 氣候 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 濃霧, 暴風雨和雪都能讓殭屍的威脅變得更具有挑戰性! 當冬天逼近時, 記得把自己包得暖暖的...",
+    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變化 <BR> <TEXT> Project Zomboid 裡的天氣變化很真實. 氣候模擬系統運用季節, 虛擬鋒面, 來在適當的時間製造降雨, 下雪, 濃霧和雷雨.  <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫冷暖對你的生存有所影響.  <LINE> " ..
+                                      " 當冬天逼近時, 你能透過充足飲食, 保持好精神且適當穿著保暖衣物來達到最佳抗寒效果. 這麼做也可以幫助你保持活躍並且保持良好體態. 潮濕和生病都會增加你因寒冷而受苦的可能性.  <LINE> <BR> " ..
+                                      " 當氣溫到達寒冷極端時, 最好透過熱源或是待在室內來保持溫暖: 營火, 車內暖氣, 或是火爐都能幫助你溫暖身體. <LINE> "..
+                                      " 若是要在炎熱氣候下生存, 則注意保持水分充足並不要穿著太多衣物. <LINE> <BR>" ..
+                                      " <H1> 得知氣溫 <BR> <TEXT> 若你想知道目前所在位置的氣溫的話, 可以透過配戴電子錶來在介面上顯示溫度. <LINE> <BR> " ..
+                                      " <H1> 冷風 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 尤其是冬季時, 戶外的冷風也是影響要素之一 - 大雨也有所影響. 冬季中期的暴風雪可能會因為其強風和低溫大幅地降低體溫. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 但不會在電子錶上直接顯示體感溫度上的差距. 小心留意心情圖示來查看冷風是否對你有所影響. <LINE> <BR> " ..
+                                      " 穿暖活點吧, 倖存者! ",
 
-    SurvivalGuide_entrie11title = "生存指南 #11 - 隱秘行動",
-    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> 殭屍生存指南 <LINE> <SIZE:large> #11 - 隱秘行動 <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - 潛行 <LINE> %2 - 衝刺 <LINE> %3 - 慢跑",
-    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 你可以蹲在牆和柵欄後面以降低他們的可見度! <LINE> 您還可以在此狀態下慢跑. <LINE> <BR> "..
-                                        "<H1> SPRINT <BR> <TEXT> If Jogging isn't fast enough - then there's Sprinting too! <LINE> Press %1 to Sprint - although be careful as panicked collisions could make you fall. <LINE> <BR> "..
-                                        "<H1> AUTO-CLIMB <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> To climb over fences, simply Jog or Sprint towards them. <LINE> <BR> "
-                                        "<H1> STOMP THE HEAD <BR> <TEXT> When a zombie has been downed: aim for the head! Hitting its lower body is less likely to have the desired effect. <LINE> <BR> "..
-                                        "<H1> SPEARS <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> Spears require good timing and a well-managed distance. Also, why not try Sprinting with a spear to charge down a lone zombie? <LINE> <BR> "..
-                                        "<H1> CLOTHING PROTECTION <BR> <TEXT> Wearing the right clothing could protect you from bites, scratches and lacerations. Press %2 to open the Clothing Protection Panel and see an overview of your survivor's current protection levels. <LINE> <BR> ",
+    SurvivalGuide_entrie11title = "生存指南 #11 - 找掩護",
+    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> 新 - 找掩護 <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - 潛行 <LINE> %2 - 衝刺 <LINE> %3 - 慢跑"
+    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 倖存者們現在可以蹲在牆後來降低可見度!  <LINE> 在這個狀態下你也可以慢跑.  <LINE> <BR> " ..
+                                        "<H1> 衝刺 <BR> <TEXT> 如果慢跑不夠快的話 - 那麼可以試試衝刺!  <LINE> 按下 %1 來衝刺 - 但請注意, 慌張時可能會跌倒.  <LINE> <BR> " ..
+                                        "<H1> 自動爬越 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> 要翻過圍牆的話, 只需跑向或衝向它們.  <LINE> <BR> " ..
+                                        "<H1> 踩踏頭部 <BR> <TEXT> 當殭屍被擊倒在地時: 瞄準頭部! 若攻擊下方身體部位的話, 效果可能不理想.  <LINE> <BR> " ..
+                                        "<H1> 長矛 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 使用長矛需適當地拿捏時機和距離. 還有, 何不試試拿著長矛向落單的殭屍衝刺呢?  <LINE> <BR> " ..
+                                        "<H1> 服裝防護 <BR> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 %2 開啟服裝防護面板來檢視你的倖存者目前的防護等級.  <LINE> <BR> ",
 
 }
