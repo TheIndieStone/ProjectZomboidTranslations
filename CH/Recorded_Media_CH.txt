@@ -206,7 +206,7 @@ RM_f8cbc205-71b5-464d-98c4-71873a9ca247 = "發行於 1969 年四月. 德克薩�
 RM_218e97ed-3d04-45a1-89a6-27a6b31e88d2 = "[img=music] 讓我來跟你說說是什麼使我沉思.  [img=music]"
 RM_324be9f0-e999-4f63-8fb2-61ebb561c3bb = "[img=music] 在我戒酒的那天才突然明白.  [img=music]"
 RM_009a847d-0ba4-4ddf-9423-2a4734ad6185 = "[img=music] 我太太她走了.  [img=music]"
-RM_bca5de6d-2d7f-447c-8632-a4e0ecf97ccf = "[img=music] 我女兒說 '再會了'.  [img=music]"
+RM_bca5de6d-2d7f-447c-8632-a4e0ecf97ccf = "[img=music] 我女兒說 '再會了' .  [img=music]"
 RM_6ce18524-71f0-4e40-ba89-bf9032c6d8aa = "[img=music] 他們留我獨自一人.  [img=music]"
 RM_8052acc4-82c4-4179-bed9-c6c79154f382 = "[img=music] 而現在我正往下沉淪... [img=music]"
 RM_9365bbd6-94f8-4c87-9df4-8c010dcfb5bd = "[img=music] 就是那樣才使我沉思.  [img=music]"
