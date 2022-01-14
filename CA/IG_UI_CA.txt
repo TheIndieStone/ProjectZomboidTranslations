@@ -583,7 +583,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
     IGUI_Cycle1 = "mou-te pels objectes de la casella",
     IGUI_Cycle2 = "mou-te pels objectes de l'inventari",
     IGUI_Cycle3 = "alterna entre els possibles costats",
-    IGUI_HoldButton = "Mantín el botó i mou el cursos per a rotar l'objecte",
+    IGUI_HoldButton = "Mantín el botó i mou el cursor per a rotar l'objecte",
     IGUI_ToggleMode = "Prem "%1" per a canviar de mode.",
 
     IGUI_PickupItem = "Arreplegar objecte",
