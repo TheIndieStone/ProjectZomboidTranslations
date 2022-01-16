@@ -1819,4 +1819,5 @@ ItemName_CS = {
     ItemName_farming.TomatoSeed = "Semena rajčat",
     ItemName_farming.WateredCan = "Prázdná konev",
     ItemName_farming.WateredCanFull = "Konev s vodou",
+    ItemName_Base.Stew = "Guláš",
 }
