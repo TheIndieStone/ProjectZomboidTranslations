@@ -168,7 +168,7 @@ UI_FR = {
     UI_NewGame_Tutorial = "Tutoriel",
     UI_NewGame_Tutorial_desc = "Le premier endroit où aller pour les tout nouveaux survivants de Project Zomboid...",
     UI_NewsVersion = "Version",
-    UI_News_Anim = "<H1> BIENVENUE DANS LA BETA PUBLIQUE DU BUILD 41 ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE><CENTRE> <SIZE:large> Ceci est une version en cours de test de l'une des plus grosses mise à jour de code que PZ n'ait jamais connu. <LINE><LINE>  ..                    <CENTRE> Il y aura des bugs et beaucoup de problèmes d'équilibrage. Des améliorations et optimisations sont à prévoir. <LINE><LINE>  ..                    <CENTRE> Certains éléments ont été temporairement désactivés. <LINE><LINE>  ..                    <CENTRE> Si vous avez des problèmes : ne pétez pas les plombs, impliquez-vous. Faites-le nous savoir sur le forum. ",
+    UI_News_Anim = "<H1> BIENVENUE DANS LA BETA PUBLIQUE DU BUILD 41 ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE><CENTRE> <SIZE:large> Ceci est une version en cours de test de l'une des plus grosses mise à jour de code que PZ n'ait jamais connu. <LINE><LINE>  ..  <CENTRE> Il y aura des bugs et beaucoup de problèmes d'équilibrage. Des améliorations et optimisations sont à prévoir. <LINE><LINE>  .. <CENTRE> Certains éléments ont été temporairement désactivés. <LINE><LINE>  .. <CENTRE> Si vous avez des problèmes : ne pétez pas les plombs, impliquez-vous. Faites-le nous savoir sur le forum. ",
     UI_News_Anim3 = "<H1> Bienvenue sur le Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Afin de profiter de la meilleure expérience possible sur le multijoueur, nous vous recommendons FORTEMENT de jouer sur des serveurs avec liste blanche ou en Co-op. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Même si Multijoueur a été grandement amélioré depuis le Build 40, Nous continuons de l'améliorer et de le corriger. <LINE><LINE> " ..
@@ -220,14 +220,15 @@ UI_FR = {
     UI_Scoreboard_Unmute = "Remettre le son",
     UI_Scoreboard_VOIPMute = "Désactiver la voix",
     UI_Scoreboard_VOIPUnmute = "Activer la voix",
-	UI_SearchWindows_Tooltip = " <H1> SYSTÈME DE RECHERCHE <BR> <TEXT> <LINE> <LINE> " ..
+    UI_SearchWindows_Tooltip = " <H1> SYSTÈME DE RECHERCHE <BR> <TEXT> <LINE> <LINE> " ..
                                 " <SIZE:medium> - Nouveau système de recherche <LINE> " ..
                                     "<INDENT:8> - Cliquez sur la loupe, dans l'interface à gauche. <LINE> " ..
-                                        "<INDENT:16> - La fenêtre d"Exploration" vous montrera dans quel type de zone vous êtes, ce qui affecte le butin que vous pouvez trouver. <LINE> " ..
-                                        "<INDENT:16> - S'il y a des "?????" , alors il n'y a rien à trouver aux alentours. Ceci est temporaire, le temps que nous ajoutions davantage de zone à explorer. <LINE> <LINE> " ..
+                                    "<INDENT:16> - La fenêtre d"Exploration" vous montrera dans quel type de zone vous êtes, ce qui affecte le butin que vous pouvez trouver. <LINE> " ..
+                                    "<INDENT:16> - S'il y a des "?????" , alors il n'y a rien à trouver aux alentours. Ceci est temporaire, le temps que nous ajoutions davantage de zone à explorer. <LINE> <LINE> " ..
                                     "<INDENT:8> - Pour commencer la recherche, appuyez sur "Activer le mode de recherche" dans la fenêtre d'exploration. Votre personnage commencera alors à rechercher autour de lui pendant que vous marchez. <LINE> " ..
-                                    "<INDENT:8> - Un oeil apparaîtra au dessus de votre tête lorsque votre personnage aura trouvé qelque chose. <LINE> " ..
-                                        "<INDENT:16> Continuez de chercher autour de votre position jusqu'à ce que l'oeil soit complètement visible et une petite flèche vous indiquant l'objet trouvé apparaîtra. <LINE> " ..
+                                    "<INDENT:8> - Une flèche apparaîtra quand votre personnage aura trouvé quelque chose. <LINE> " ..
+                                    "<INDENT:8> - Un oeil apparaîtra au dessus de votre tête lorsque votre personnage révèlera sa découverte. <LINE> " ..
+                                    "<INDENT:16> Continuez de chercher autour de votre position jusqu'à ce que l'oeil soit complètement visible et l'icône de la découverte apparaîtra. <LINE> " ..
                                     "<INDENT:8> - Double-cliquez sur l'objet afin de le ramasser. <LINE> " ..
                                     "<INDENT:8> - Regarder attentivement autour de vous (en visant) et discrètement affutera votre champ de vision et vous aidera à localiser des objets plus difficile à trouver. <LINE> " ..
                                     "<INDENT:8> - L'obscurité, la météo, la compétence, la taille de l'objet et les humeurs négatives de votre personnage (stress, blessure, etc) affecteront vos chances de trouver quelque chose.",
@@ -279,6 +280,7 @@ UI_FR = {
     UI_ServerOptionDesc_VoiceBan = "Bloque la voix de l'utilisateur \nom d'utilisateur\, utilisez : /voiceban \nom d'utilisateur\ -valeur, par exemple /voiceban \rj\ -true (ou -false)",
     UI_ServerOption_AdminSafehouse_tooltip = "Les admins peuvent revendiquer des abris.",
     UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "Autorise les joueurs à détruire les objets avec une masse.",
+    UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "Autorise les joueurs à détruire des objets uniquement dans leur abri (AllowDestructionBySledgehammer doit être activé pour fonctionner).",
     UI_ServerOption_AllowNonAsciiUsername = "Autoriser les nom d'utilisateur non normalisés US (cyrillique, etc ...)",
     UI_ServerOption_AllowNonAsciiUsername_tooltip = "Autoriser ou non l'utilisation de caractères non normalisés US (Cyrillique, etc ...) pour le nom d'utilisateur.",
     UI_ServerOption_AllowTradeUI_tooltip = "Permet aux joueurs d'utiliser le système de marchandage sécurisé.",
@@ -779,7 +781,7 @@ UI_FR = {
     UI_optionscreen_CycleContainerKey3 = "Ctrl + Shift",
     UI_optionscreen_CycleContainerKey_tt = "Garder la (les) touche(s) enfoncée(s) lors du défilement avec la molette de la souris sur l'inventaire ou sur les listes de butin pour faire défiler les conteneurs.",
     UI_optionscreen_DblTapRunToSprint = "Double appui sur %1 pour sprinter",
-    UI_optionscreen_DblTapRunToSprintTooltip = "Si activé, appuyez deux fois sur %1 vous fera sprinter \n Maintenez %1 enfoncé pour continuer de sprinter.",
+    UI_optionscreen_DblTapRunToSprintTooltip = "Si activé, appuyez deux fois sur %1 vous fera sprinter \n Maintenez %2 enfoncé pour continuer de sprinter.",
     UI_optionscreen_DisplayMode = "Mode d'affichage",
     UI_optionscreen_DisplayMode1 = "Plein écran",
     UI_optionscreen_DisplayMode2 = "Fenêtré sans bordures",
@@ -902,6 +904,7 @@ UI_FR = {
     UI_optionscreen_binding_Toggle Inventory = "Afficher / Masquer l'inventaire",
     UI_optionscreen_binding_Toggle Lua Debugger = "Activer le debug lua",
     UI_optionscreen_binding_Toggle Moveable Panel Mode = "Afficher / Masquer la fenêtre des objets déplaçables",
+    UI_optionscreen_binding_Audio = "Audio",
     UI_optionscreen_binding_Toggle Music = "Activer / Désactiver la musique",
     UI_optionscreen_binding_Toggle Safety = "Activer / Désactiver le mode sécurisé",
     UI_optionscreen_binding_Toggle Search Mode = "Activer / Désactiver le mode de recherche",
@@ -1018,6 +1021,7 @@ UI_FR = {
     UI_optionscreen_shaders = "Shaders",
     UI_optionscreen_shaders2 = "Post-traitement",
     UI_optionscreen_shadersunsupported = "Incompatible avec votre matériel",
+    UI_optionscreen_Show_Item_Mod_Info = "Afficher les infos sur le mod dans la fenêtre d'info de l'objet",
     UI_optionscreen_showUsername = "Afficher votre nom d'utilisateur",
     UI_optionscreen_showUsernameTooltip = "Votre nom d'utilisateur est toujours visible pour les autres, mais peut être masqué de votre affichage.",
     UI_optionscreen_sound_volume = "Volume du son",
@@ -1065,7 +1069,7 @@ UI_FR = {
     UI_prof_FitnessInstructor = "Professeur de fitness",
     UI_prof_Lumberjack = "Bûcheron",
     UI_prof_Mechanics = "Mécanicien",
-    UI_prof_MetalWorker = "Ferronier",
+    UI_prof_MetalWorker = "Ferronnier",
     UI_prof_Metalworker = "Ferronier",
     UI_prof_Nurse = "Infirmier",
     UI_prof_Repairman = "Réparateur",
@@ -1227,7 +1231,7 @@ UI_FR = {
     UI_trait_Mechanics = "Mécanicien amateur",
     UI_trait_Mechanics2Desc = "À l'aise avec l'entretien et la réparation de tous les types de véhicules présents sur les routes du Kentucky.",
     UI_trait_MechanicsDesc = "Possède des connaissances détaillées sur l'entretien et la réparation des modèles de véhicules ordinaires et commerciaux.",
-    UI_trait_Metalworker = "Ferronier",
+    UI_trait_Metalworker = "Bricoleur",
     UI_trait_MetalworkerDesc = "Peut souder le métal de récupération pour créer des objets et des barricades.",
     UI_trait_MoreSleep = "Paresseux",
     UI_trait_MoreSleepDesc = "A besoin de plus de sommeil.",
