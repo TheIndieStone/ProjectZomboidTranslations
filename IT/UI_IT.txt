@@ -163,7 +163,7 @@ UI_IT = {
 		    "<CENTRE> <SIZE:large> Per la migliore esperienza si consiglia vivamente di giocare su server whitelist o in co-op di Steam. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Questo è un aggiornamento enormemente complesso, e noi siamo una piccola squadra. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Per favore, siate comprensivi mentre miglioriamo, sistemiamo e perfezioniamo. <LINE><LINE> ",
-	UI_News_Anim3 = "<H1> Benvenuto nella build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> <CENTRE> <SIZE:large> Per la migliore esperienza nel momento in cui giochi in multiplayer, ti consigliamo VIVAMENTE di giocare su server autorizzati o in cooperativa Steam. <LINE><LINE> <CENTRE> <SIZE:large> Sebbene il multiplayer sia notevolmente migliorato rispetto alla build 40, stiamo continuando a perfezionare e correggere. <LINE><LINE> <CENTRE> <SIZE:large> Si prega di essere comprensivi mentre miglioriamo, correggiamo e rifiniamo. <LINE><LINE> ",
+	UI_News_Anim3 = "<H1> Benvenuto nella build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> <CENTRE> <SIZE:large> Per la migliore esperienza quando si gioca in multiplayer si consiglia vivamente di giocare su server whitelist, o con i tuoi amici in co-op. <LINE><LINE> <CENTRE> <SIZE:large> Si prega di essere comprensivi mentre miglioriamo, correggiamo e rifiniamo. <LINE><LINE> ",
     UI_No = "No",
     UI_None = "Nessuna",
     UI_Off = "Off",
@@ -218,7 +218,8 @@ UI_IT = {
                                     "<INDENT:16> - La finestra "Indaga nell'area" ti mostrerà il tipo di zona in cui ti trovi, che influisce sul bottino che puoi trovare. <LINE> " ..
                                     "<INDENT:16> - Se mostra "?????", non c'è niente in giro da trovare. Questo è temporaneo fino a quando non vengono aggiunte alla mappa altre zone di raccolta/ricerca. <LINE> <LINE> " ..
                                 "<INDENT:8> - Per avviare la ricerca, fare clic sul pulsante "Abilita modalità di ricerca" nella finestra "Indaga area". Il personaggio inizierà a cercare oggetti mentre cammini. <LINE> " ..
-                                "<INDENT:8> - Un'icona a forma di occhio apparirà in alto quando il tuo personaggio individua qualcosa. <LINE> " ..
+                                "<INDENT:8> - Una freccia apparirà quando il tuo personaggio individua qualcosa. <LINE> " ..
+								"<INDENT:8> - Un'icona a forma di occhio apparirà in alto quando il tuo personaggio sta rivelando un oggetto. <LINE> " ..
                                         "<INDENT:16> Continua a guardarti intorno finché l'occhio non sarà completamente visibile e apparirà l'icona dell'oggetto. <LINE> " ..
                                 "<INDENT:8> - Fai doppio clic sull'icona dell'oggetto per raccoglierlo. <LINE> " ..
                                 "<INDENT:8> - Guardarsi intorno (mirando) aumenterà il raggio visivo per aiutare a individuare gli oggetti difficili da individuare. <LINE> " ..
@@ -271,6 +272,7 @@ UI_IT = {
     UI_ServerOptionDesc_VoiceBan = "Disabilita la voce da utente \nome utente\, usa : /voiceban \nome utente\ -valore, es. /voiceban \rj\ -true (altrimenti -false)",
     UI_ServerOption_AdminSafehouse_tooltip = "Solo gli Amministratori possono reclamare i rifugi.",
     UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "Permetti ai giocatori di distruggere gli oggetti del Mondo con il Martello da demolizione.",
+	UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "Permettere ai giocatori di distruggere gli oggetti del mondo solo nel loro rifugio (richiede AllowDestructionBySledgehammer su vero).",
     UI_ServerOption_AllowNonAsciiUsername = "Consenti nome utente non Ascii",
     UI_ServerOption_AllowNonAsciiUsername_tooltip = "Consenti o meno l'uso di caratteri non Ascii (cirillici...) nel nome utente",
     UI_ServerOption_AllowTradeUI_tooltip = "Permette ai giocatori di usare il sistema di scambi sicuro.",
@@ -861,6 +863,7 @@ UI_IT = {
     UI_optionscreen_binding_Main Menu = " Menù Principale",
     UI_optionscreen_binding_ManualFloorAtk = "Attacco manuale al suolo",
     UI_optionscreen_binding_Map = "Attiva/disattiva mappa",
+	UI_optionscreen_Show_Item_Mod_Info = "Mostra le informazioni sulla mod nel tooltip dell'oggetto",
     UI_optionscreen_binding_Melee = "Spingere/Calpestare",
     UI_optionscreen_binding_Melee = "Spingere/Calpestare",
     UI_optionscreen_binding_Multiplayer = "Multiplayer",
@@ -888,6 +891,7 @@ UI_IT = {
     UI_optionscreen_binding_Toggle Inventory = " Mostra Inventario",
     UI_optionscreen_binding_Toggle Lua Debugger = " Attiva/Disattiva Lua Debugger",
     UI_optionscreen_binding_Toggle Moveable Panel Mode = "Mostra Pannello Spostamento Mobilio",
+	UI_optionscreen_binding_Audio = "Audio",
     UI_optionscreen_binding_Toggle Music = " Attiva/Disattiva Musica",
     UI_optionscreen_binding_Toggle Safety = " Attiva/Disattiva Sicurezza",
     UI_optionscreen_binding_Toggle Search Mode = "Attiva/disattiva modalità di ricerca",
@@ -1044,7 +1048,7 @@ UI_IT = {
     UI_optionscreen_zoom = "Abilita zoom",
     UI_optionscreen_zoomlevels = "Livelli zoom",
     UI_prof_Blacksmith = "Forgiatore",
-    UI_prof_BurgerFlipper = "Paninaro",
+    UI_prof_BurgerFlipper = "Operatore Fast Food",
     UI_prof_Burglar = "Ladro",
     UI_prof_Carpenter = "Carpentiere",
     UI_prof_Chef = "Chef",
@@ -1227,7 +1231,7 @@ UI_IT = {
     UI_trait_PackmuleDesc = "Capacità dell'inventario aumentata",
     UI_trait_PlaysBaseball = "Giocatore di Baseball",
     UI_trait_PlaysBaseballDesc = "",
-    UI_trait_Scout = "Scout",
+    UI_trait_Scout = "Esploratore",
     UI_trait_ScoutDesc = "",
     UI_trait_SelfDefenseClass = "Autodifesa",
     UI_trait_SelfDefenseClassDesc = "",
@@ -1254,7 +1258,7 @@ UI_IT = {
     UI_trait_athletic = "Atletico",
     UI_trait_athleticdesc = "Velocità di corsa maggiore.<br>Puoi correre più a lungo senza stancarti.",
     UI_trait_axeman = "Abile con ascia",
-    UI_trait_axemandesc = "Velocità raddoppiata per sfondare porte con ascia.<br>Colpo con ascia più veloce.",
+    UI_trait_axemandesc = "Più efficiente nel tagliare gli alberi<br>Colpo con ascia più veloce.",
     UI_trait_brave = "Coraggioso",
     UI_trait_bravedesc = "Meno soggetto ad attacchi di panico.",
     UI_trait_brooding = "Pensieroso",

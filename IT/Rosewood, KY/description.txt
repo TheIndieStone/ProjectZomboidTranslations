@@ -1,10 +1,10 @@
 Rosewood
  <LINE> <LINE>
- Un breve soggiorno a Rosewood è piacevole, ma un lungo soggiorno?
+ Un breve soggiorno a Rosewood è piacevole... ma un lungo?
  Ebbene, i detenuti del famoso penitenziario Knox te lo diranno: non è così divertente!
  <LINE> <LINE>
- Situato in posizione geografica ideale per un facile accesso, Rosewood è un hub della comunità per l'amministrazione
- e servizi per la comunità, nonché un importante centro di detenzione.
+ Situato in posizione geografica ideale per un facile accesso, Rosewood è un centro focale della comunità per la gestione dei servizi amministrativi
+ e dei servizi comunitari, nonché un importante centro di detenzione.
  Il tribunale della contea, un dipartimento dei vigili del fuoco recentemente ristrutturato e una vivace struttura delle forze dell'ordine
- fanno di questo uno dei centri più importanti della zona! Vieni a trovarci oggi!
+ fanno di questo uno dei centri più importanti della zona! Vieni a visitarlo oggi!
 

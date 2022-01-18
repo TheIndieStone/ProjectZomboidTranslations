@@ -168,6 +168,7 @@ UI_FR = {
     UI_NewGame_Tutorial = "Tutoriel",
     UI_NewGame_Tutorial_desc = "Le premier endroit où aller pour les tout nouveaux survivants de Project Zomboid...",
     UI_NewsVersion = "Version",
+
     UI_News_Anim = "<H1> BIENVENUE DANS LA BETA PUBLIQUE DU BUILD 41 ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE><CENTRE> <SIZE:large> Ceci est une version en cours de test de l'une des plus grosses mise à jour de code que PZ n'ait jamais connu. <LINE><LINE>  ..  <CENTRE> Il y aura des bugs et beaucoup de problèmes d'équilibrage. Des améliorations et optimisations sont à prévoir. <LINE><LINE>  .. <CENTRE> Certains éléments ont été temporairement désactivés. <LINE><LINE>  .. <CENTRE> Si vous avez des problèmes : ne pétez pas les plombs, impliquez-vous. Faites-le nous savoir sur le forum. ",
     UI_News_Anim3 = "<H1> Bienvenue sur le Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Afin de profiter de la meilleure expérience possible sur le multijoueur, nous vous recommendons FORTEMENT de jouer sur des serveurs avec liste blanche ou en Co-op. <LINE><LINE> " ..
