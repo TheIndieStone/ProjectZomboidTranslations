@@ -1350,4 +1350,8 @@ UI_TR = {
     UI_optionscreen_binding_Toggle Search Mode = "Araştırma modunu aç",
     UI_investigate_area_window_title = "Bölgeyi araştır",
     UI_foraging_DiscardItem = "At",
+    UI_News_Anim3 = "<H1>Sürüm 41 e Hoşgeldin! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_optionscreen_binding_Audio = "Ses",
+    UI_optionscreen_Show_Item_Mod_Info = "Öğe ipucunda mod bilgilerini göster",
+    UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "Oyuncuların dünya nesnelerini yalnızca güvenli evlerinde yok etmelerine izin verin (AllowDestructionBySledgehammer 'ın true olmasını gerektirir).",
 }

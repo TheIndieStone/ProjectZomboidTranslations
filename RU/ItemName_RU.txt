@@ -767,7 +767,7 @@ ItemName_RU = {
 	ItemName_Base.Hat_Army = "Армейский шлем",
 	ItemName_Base.Tshirt_ArmyGreen = "Армейская футболка",
 	ItemName_Base.Trousers_CamoUrban = "Армейские штаны «городской камуфляж»",
-	ItemName_Base.Shirt_CamoUrban = "Армейская футболка «городской камуфляж»",
+	ItemName_Base.Shirt_CamoUrban = "Армейская рубашка «городской камуфляж»",
 	ItemName_Base.Tshirt_CamoUrban = "Армейская футболка «городской камуфляж»",
 	ItemName_Base.Milk = "Молоко",
 	ItemName_farming.Milk = "Молоко",
@@ -1622,7 +1622,7 @@ ItemName_RU = {
     	ItemName_Base.Croissant = "Круассан",
     	ItemName_Base.Daikon = "Дайкон",
     	ItemName_Base.DoughnutChocolate = "Шоколадный пончик",
-    	ItemName_Base.DoughnutFrosted = "Замороженный пончик",
+    	ItemName_Base.DoughnutFrosted = "Глазированный пончик",
     	ItemName_Base.DoughnutJelly = "Пончик с желе",
     	ItemName_Base.DoughnutPlain = "Пончик",
     	ItemName_Base.DressKnees_Straps = "Платье до колена с бретельками",
@@ -1829,6 +1829,12 @@ ItemName_RU = {
 	ItemName_Base.GlassTumbler = "Стакан",
 	ItemName_Base.GlassWine = "Бокал для вина",
 	ItemName_Base.GrillBrush = "Щётка для гриля",
+    	ItemName_Base.CinnamonRoll = "Булочка с корицей",
+    	ItemName_Base.DehydratedMeatStick = "Вяленая колбаска",
+    	ItemName_Base.Guacamole = "Гуакамоле",
+    	ItemName_Base.LicoriceBlack = "Черная лакрица",
+    	ItemName_Base.LicoriceRed = "Красная лакрица",
+    	ItemName_Base.Painauchocolat = "Шоколатин",
 
 
 }

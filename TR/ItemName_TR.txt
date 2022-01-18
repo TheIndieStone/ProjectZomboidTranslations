@@ -1813,4 +1813,10 @@ ItemName_TR = {
     ItemName_Base.Corset_Medical = "Medikal Korse",
     ItemName_Base.Shirt_Bowling_White = "Beyaz Bowling Tshirt",
     ItemName_Base.GrillBrush = "Izgara Fırçası",
+    ItemName_Base.DehydratedMeatStick = "Kurutulmuş Çubuk Et",
+    ItemName_Base.LicoriceRed = "Kırmızı Meyan Kökü",
+    ItemName_Base.Painauchocolat = "Çikolatalı Ekmek",
+    ItemName_Base.LicoriceBlack = "Siyah Meyankökü",
+    ItemName_Base.Guacamole = "Guacamole",
+    ItemName_Base.CinnamonRoll = "Tarçınlı Çörek",
 }
