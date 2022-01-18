@@ -1217,9 +1217,9 @@ ItemName_CN = {
     ItemName_Base.RemoteCraftedV2 = "远程遥控器V2",
     ItemName_Base.RemoteCraftedV3 = "远程遥控器V3",
     ItemName_Base.Revolver = "M625 左轮手枪",
-	ItemName_Base.RevolverCase1 = "左轮手枪箱",
-    ItemName_Base.RevolverCase2 = "左轮手枪箱",
-    ItemName_Base.RevolverCase3 = "左轮手枪箱",
+	ItemName_Base.RevolverCase1 = "左轮箱",
+    ItemName_Base.RevolverCase2 = "左轮箱",
+    ItemName_Base.RevolverCase3 = "左轮箱",
     ItemName_Base.Revolver_Long = "马格南 左轮手枪",
     ItemName_Base.Revolver_Short = "M36 左轮手枪",
     ItemName_Base.Rice = "大米",
@@ -1377,8 +1377,8 @@ ItemName_CN = {
     ItemName_Base.Shorts_ShortFormal = "短裤",
     ItemName_Base.Shorts_ShortSport = "运动短裤",
     ItemName_Base.Shotgun = "JS-2000霰弹枪",
-    ItemName_Base.ShotgunCase1 = "霰弹枪箱",
-    ItemName_Base.ShotgunCase2 = "霰弹枪箱",
+    ItemName_Base.ShotgunCase1 = "猎枪箱",
+    ItemName_Base.ShotgunCase2 = "猎枪箱",
     ItemName_Base.ShotgunSawnoff = "JS-2000霰弹枪(锯短)",
     ItemName_Base.ShotgunShells = "霰弹枪子弹",
     ItemName_Base.ShotgunShellsBox = "霰弹枪子弹(盒装)",
@@ -1816,6 +1816,6 @@ ItemName_CN = {
     ItemName_farming.WateredCanFull = "洒水壶(水)",
 
     --Add Text--
-    ItemName_Base.ShotgunCase3 = "霰弹枪箱",
+    ItemName_Base.ShotgunCase3 = "猎枪箱",
 }
 
