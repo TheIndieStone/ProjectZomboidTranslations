@@ -220,6 +220,7 @@ Tooltip_EN = {
     Tooltip_weapon_Jammed = "Weapon jammed. Rack it.",
     Tooltip_weapon_NoRoundChambered = "No round in chamber. Rack it.",
     Tooltip_weapon_SpentRoundChambered = "Spent round in chamber. Rack it.",
+    Tooltip_weapon_SpentRounds = "Spent Rounds",
     Tooltip_weapon_ContainsClip = "Contains Magazine.",
     Tooltip_weapon_NoClip = "Need magazine to operate."
     Tooltip_BiteDefense = "Bite Defense",

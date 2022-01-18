@@ -1501,6 +1501,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
 	IGUI_SearchMode_Debug_Overlay = "SearchMode Overlay",
 	IGUI_SearchMode_Debug_Mode_Activated = "SearchMode Activated",
 	IGUI_SearchMode_Debug_Icons = "Debug Icons",
+	IGUI_SearchMode_Debug_Icons_Locations = "Debug Icons Locations",
 	IGUI_SearchMode_Debug_Icons_Extended = "Debug Icons Extended Info",
 	IGUI_SearchMode_Debug_Icons_Vision = "Debug Icons Vision Info",
 	IGUI_SearchMode_Debug_Icons_Radius = "Debug Icons Vision Radius",
