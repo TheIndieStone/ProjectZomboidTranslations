@@ -830,6 +830,7 @@ IG_UI_CH = {
     IGUI_SearchMode_Debug_General_Title = "一般變數",
     IGUI_SearchMode_Debug_Icons = "Debug 圖示",
     IGUI_SearchMode_Debug_Icons_Extended = "Debug 圖示加長資訊",
+    IGUI_SearchMode_Debug_Icons_Locations = "Debug 圖示位置",
     IGUI_SearchMode_Debug_Icons_Radius = "Debug 圖示視野半徑",
     IGUI_SearchMode_Debug_Icons_Vision = "Debug 圖示視野資訊",
     IGUI_SearchMode_Debug_Mode_Activated = "已啟動搜索模式",

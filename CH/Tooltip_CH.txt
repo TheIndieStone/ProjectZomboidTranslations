@@ -267,6 +267,7 @@ Tooltip_CH = {
     Tooltip_weapon_Scope = "瞄具",
     Tooltip_weapon_Sling = "槍帶",
     Tooltip_weapon_SpentRoundChambered = "膛內有已發子彈. 請拉動. ",
+    Tooltip_weapon_SpentRounds = "已用子彈",
     Tooltip_weapon_Stock = "槍托",
     Tooltip_weapon_Type = "種類",
     Tooltip_weapon_Unusable_at_max_exertion = "沒有力氣時無法使用. ",
