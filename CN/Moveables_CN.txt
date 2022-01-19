@@ -713,5 +713,25 @@ Moveables_CN = {
 	Pallet_With_Bricks = "砖块托盘",
 	Big_Wall_Spiffo = "斯皮福大壁纸",
 	Satellite_Dish = "卫星天线",
+	
+	Female_Bust = "半身石像(女)",
+	Male_Bust = "半身石像(男)",
+	Painting = "油画",
+	Grey_Plastic_Chair = "灰色塑料椅",
+	Imekagi_HK533P = "HK533P 架式摄像机",
+	Military_Locker = "军用储物柜",
+	50s_Diner_Table = "50年代餐桌",
+	Extractor_Hood = "抽油烟机",
+	Espresso_Deluxe = "高级咖啡机",
+	Flood_Lights = "探照灯",
+	David_The_Gnome = "小矮人大卫",
+	Golf_Put = "高尔夫球洞",
+	Pecking_Imitation_Flamingo = "火烈鸟装饰",
+	Bird_Bath = "鸟浴池",
+	Bake_O_Matic_Industrial = "商用自动烘培机",
+	Fryers_Club_Industrial_2000 = "肯塔鸡2000商用电炸压力灶",
+	Large_Industrial_Sink = "大型工业水槽",
+	Coffee_X_press = "随心咖啡机",
+	
 }
 
