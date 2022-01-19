@@ -220,6 +220,7 @@ Tooltip_CN = {
     Tooltip_weapon_Jammed = "武器卡壳,请手动退膛.",
     Tooltip_weapon_NoRoundChambered = "膛内没有子弹,请上弹.",
     Tooltip_weapon_SpentRoundChambered = "膛内已有子弹,请上膛.",
+	Tooltip_weapon_SpentRounds = "用过的弹药",
     Tooltip_weapon_ContainsClip = "已有弹匣.",
     Tooltip_weapon_NoClip = "需要弹匣."
     Tooltip_BiteDefense = "防咬",
