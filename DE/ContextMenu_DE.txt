@@ -137,7 +137,6 @@ ContextMenu_DE = {
     ContextMenu_EvolvedRecipe_Roasted Vegetables = "Gebratenes",
     ContextMenu_EvolvedRecipe_Salad = "Salat",
     ContextMenu_EvolvedRecipe_Sandwich = "Sandwich",
-    ContextMenu_EvolvedRecipe_Sandwich Baguette = "Sandwich",
     ContextMenu_EvolvedRecipe_Sandwich_Baguette = "Sandwich",
     ContextMenu_EvolvedRecipe_Soup = "Suppe",
     ContextMenu_EvolvedRecipe_Spice = " als Gewürz",
