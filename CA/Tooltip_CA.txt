@@ -220,6 +220,7 @@ Tooltip_CA = {
     Tooltip_weapon_Jammed = "Arma embossada. Amartella-la.",
     Tooltip_weapon_NoRoundChambered = "Sense bala en la càmera. Amartella-la.",
     Tooltip_weapon_SpentRoundChambered = "Bala gastada en la càmera. Amartella-la.",
+    Tooltip_weapon_SpentRounds = "Bales gastades",
     Tooltip_weapon_ContainsClip = "Conté carregador.",
     Tooltip_weapon_NoClip = "Necessita carregador per a usar-se."
     Tooltip_BiteDefense = "Defensa contra mossos",
