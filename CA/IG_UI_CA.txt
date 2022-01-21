@@ -1501,6 +1501,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
 	IGUI_SearchMode_Debug_Overlay = "Superposició del mode d'exploració",
 	IGUI_SearchMode_Debug_Mode_Activated = "Mode d'exploració activat",
 	IGUI_SearchMode_Debug_Icons = "Icones de debug",
+	IGUI_SearchMode_Debug_Icons_Locations = "Localització de les icones de debug",
 	IGUI_SearchMode_Debug_Icons_Extended = "Informació estesa de les icones de debug",
 	IGUI_SearchMode_Debug_Icons_Vision = "Informació visual de les icones de debug",
 	IGUI_SearchMode_Debug_Icons_Radius = "Debug Icons Vision Radius",
