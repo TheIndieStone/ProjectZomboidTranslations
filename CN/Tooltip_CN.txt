@@ -39,7 +39,7 @@ Tooltip_CN = {
 	Tooltip_item_TwoHandWeapon = "单手使用时效果有限.",
 	-- Crafting tooltip
 	Tooltip_craft_barElementDesc = "木制的柜台,也许能在一个受欢迎的酒馆里找到. ",
-	Tooltip_craft_woodenStakeDesc = "插在地上的木桩,可以连接倒刺铁丝网. ",
+	Tooltip_craft_woodenStakeDesc = "插在地上的木桩,可以连接带刺铁丝网. ",
 	Tooltip_craft_Needs = "需要",
 	Tooltip_craft_barbedFenceDesc = "减慢移动速度,并可造成皮外伤. ",
 	Tooltip_craft_woodenFenceDesc = "面对僵尸时提供有限的防护. ",
