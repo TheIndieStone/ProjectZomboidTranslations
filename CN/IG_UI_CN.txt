@@ -193,7 +193,7 @@ IGUI_CN = {
 	IGUI_perks_Mechanics = "技工",
 	-- Item category
 	IGUI_ItemCat_Item = "物品",
-	IGUI_ItemCat_Accessory = "附件"
+	IGUI_ItemCat_Accessory = "配饰"
 	IGUI_ItemCat_Ammo = "弹药"
 	IGUI_ItemCat_Appearance = "外观"
 	IGUI_ItemCat_Bag = "背包"
