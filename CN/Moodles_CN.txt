@@ -190,7 +190,7 @@ Moodles_CN = {
 	Moodles_heavyload_desc_lvl1 = "拿的有点多.",
 	Moodles_heavyload_desc_lvl2 = "移动速度降低.",
 	Moodles_heavyload_desc_lvl3 = "移动速度严重下降.",
-	Moodles_heavyload_desc_lvl4 = "不能再拿了,移动速度急剧下降.",
+	Moodles_heavyload_desc_lvl4 = "不能再拿了!移动速度急剧下降.",
 	-- Drunk
 	Moodles_drunk_desc_lvl1 = "喝了一点酒.",
 	Moodles_drunk_desc_lvl2 = "身体协调能力轻微受影响.",
