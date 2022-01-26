@@ -157,9 +157,15 @@ UI_PL = {
     UI_NewGame_Tutorial = "Samouczek",
     UI_NewGame_Tutorial_desc = "Pierwsze miejsce, do którego powinni udać się wszyscy ocaleni, świeżo zainfekowani wirusem Project Zomboid.",
     UI_NewsVersion = "Wersja",
-    UI_News_Anim = "<H1> WITAJ W PUBLICZNEJ BECIE WERSJI GRY BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <CENTRE> <SIZE:large> Niniejsza wersja gry to wciąż rozwijana wersja największej aktualizacji kodu gry w historii PZ. <LINE><LINE> <CENTRE> Spodziewaj się błędów i problemów z balansem rozgrywki. Trwają prace nad ulepszeniem wydajności. <LINE><LINE> <CENTRE> Niektóre funkcje gry zostały tymczasowo wyłączone. <LINE><LINE> <CENTRE> Jeśli napotkasz problemy, nie trać cierpliwości - daj nam znać. Napisz do nas na naszym forum.",
-    UI_News_Anim2 = "<H1> Pierwsza wersja testowa 'Build 41 MP' jest już dostępna! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
-    UI_News_Anim3 = "<H1> Witamy w wersji gry Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_News_Anim = "<H1> WITAJ W PUBLICZNEJ BECIE WERSJI GRY BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> "..
+		"<CENTRE> <SIZE:large> Niniejsza wersja gry to wciąż rozwijana wersja największej aktualizacji kodu gry w historii PZ. <LINE><LINE> "..
+		"<CENTRE> Spodziewaj się błędów i problemów z balansem rozgrywki. Trwają prace nad ulepszeniem wydajności. <LINE><LINE> "..
+		"<CENTRE> Niektóre funkcje gry zostały tymczasowo wyłączone. <LINE><LINE> "..
+		"<CENTRE> Jeśli napotkasz problemy, nie trać cierpliwości - daj nam znać. Napisz do nas na naszym forum.",
+    UI_News_Anim3 = "<H1> Witamy w wersji gry Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+	"<CENTRE> <SIZE:large> Dla najlepszych wrażeń z rozgrywki zalecamy grę na serwerach z białą listą lub poprzez grę kooperacyjną na Steam. <LINE><LINE> " ..
+	"<CENTRE> <SIZE:large> Tryb dla wielu graczy został znacznie ulepszony, porównując go z wersją gry Build 40. Wciąż też będziemy naprawiać błędy i udoskonalać ten tryb. <LINE><LINE> " ..
+	"<CENTRE> <SIZE:large> Prosimy o wyrozumiałość podczas gry wprowadzamy ulepszenia i naprawiamy błędy. <LINE><LINE> ",
     UI_No = "Nie",
     UI_None = "Brak",
     UI_Off = "Wyłączony",
