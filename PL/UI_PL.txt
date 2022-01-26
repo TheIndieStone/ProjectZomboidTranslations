@@ -165,7 +165,7 @@ UI_PL = {
     UI_News_Anim3 = "<H1> Witamy w wersji gry Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
 	"<CENTRE> <SIZE:large> Dla najlepszych wrażeń z rozgrywki zalecamy grę na serwerach z białą listą lub poprzez grę kooperacyjną na Steam. <LINE><LINE> " ..
 	"<CENTRE> <SIZE:large> Tryb dla wielu graczy został znacznie ulepszony, porównując go z wersją gry Build 40. Wciąż też będziemy naprawiać błędy i udoskonalać ten tryb. <LINE><LINE> " ..
-	"<CENTRE> <SIZE:large> Prosimy o wyrozumiałość podczas gry wprowadzamy ulepszenia i naprawiamy błędy. <LINE><LINE> ",
+	"<CENTRE> <SIZE:large> Prosimy o wyrozumiałość, podczas gdy wprowadzamy ulepszenia i naprawiamy błędy. <LINE><LINE> ",
     UI_No = "Nie",
     UI_None = "Brak",
     UI_Off = "Wyłączony",
