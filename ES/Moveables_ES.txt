@@ -696,4 +696,6 @@ Moveables_ES = {
 	Golf_Put = "Bandera de golf",
 	Blood_Bank = "Kennel",
 	Metal_Drum = "Bidón de metal",
+	Large_Rental_Shelves = "Large Rental Shelves",
+	Small_Rental_Shelves = "Small Rental Shelves",
 }
