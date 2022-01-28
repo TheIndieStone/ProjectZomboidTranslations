@@ -1,79 +1,79 @@
 Challenge_HU = {
 Challenge_YouHaveOneDay_name = "Egy napod van",
-Challenge_YouHaveOneDay_desc = "Visszatértél Knox megyébe. Újra ott vagy a térképen, ahol a Project Zomboid fertõzés elkezdõdött. <LINE> <LINE> Egy napod van a viszonylagos biztonságra. Zombik érkeznek nagy mennyiségben és meg fognak találni. Hol tartottál ki utoljára? Hol volt az utolsó állásod régen? Jobb, ha gyorsan megtalálod. <LINE> <LINE> [Köszönetet mondunk BobHeckling közösségi térképésznek, aki újjáépítette a régi 0.1.5 térképet a jelenlegi PZ eszközkészlettel.]",
+Challenge_YouHaveOneDay_desc = "VisszatÃ©rtÃ©l Knox megyÃ©be. Ãšjra ott vagy a tÃ©rkÃ©pen, ahol a Project Zomboid fertÅ‘zÃ©s elkezdÅ‘dÃ¶tt. <LINE> <LINE> Egy napod van a viszonylagos biztonsÃ¡gra. Zombik Ã©rkeznek nagy mennyisÃ©gben Ã©s meg fognak talÃ¡lni. Hol tartottÃ¡l ki utoljÃ¡ra? Hol volt az utolsÃ³ Ã¡llÃ¡sod rÃ©gen? Jobb, ha gyorsan megtalÃ¡lod. <LINE> <LINE> [KÃ¶szÃ¶netet mondunk BobHeckling kÃ¶zÃ¶ssÃ©gi tÃ©rkÃ©pÃ©sznek, aki ÃºjjÃ¡Ã©pÃ­tette a rÃ©gi 0.1.5 tÃ©rkÃ©pet a jelenlegi PZ eszkÃ¶zkÃ©szlettel.]",
 
-Challenge_WinterIsComing_name = "Közeleg a tél",
-Challenge_WinterIsComing_desc = "Július közepe van, de hirtelen szokatlanul hideg lesz a szél. Mindössze három nap múlva beköszönt a tél olyan keményen és hirtelen, mint eddig soha. <LINE> <LINE> Egy elszigetelt helyen ébredsz. Van némi szûkös ellátmány és az élõhalott hordáit lassítja a durva hideg - de ettõl nem kevésbé halálosak. <LINE> <LINE> Tekerd fel a meleget, túlélõ...",
+Challenge_WinterIsComing_name = "KÃ¶zeleg a tÃ©l",
+Challenge_WinterIsComing_desc = "JÃºlius kÃ¶zepe van, de hirtelen szokatlanul hideg lesz a szÃ©l. MindÃ¶ssze hÃ¡rom nap mÃºlva bekÃ¶szÃ¶nt a tÃ©l olyan kemÃ©nyen Ã©s hirtelen, mint eddig soha. <LINE> <LINE> Egy elszigetelt helyen Ã©bredsz. Van nÃ©mi szÅ±kÃ¶s ellÃ¡tmÃ¡ny Ã©s az Ã©lÅ‘halott hordÃ¡it lassÃ­tja a durva hideg - de ettÅ‘l nem kevÃ©sbÃ© halÃ¡losak. <LINE> <LINE> Tekerd fel a meleget, tÃºlÃ©lÅ‘...",
 
-Challenge_OpeningHours_name = "Nyitvatartási idõ",
-Challenge_OpeningHours_desc = "A plázát körbevették. Egyszer, valamikor régen ez egy fontos hely volt az életükben. Az ösztönük az ajtókhoz vezette õket. Egy emlék a korábbi életükbõl... <LINE> <LINE> Egyedül vagy, de nem sokáig. 9-kor a pláza készen áll az eladásra: az ajtók kinyílnak, és a hordák beözönlenek. <LINE> <LINE> Készülj fel!",
+Challenge_OpeningHours_name = "NyitvatartÃ¡si idÅ‘",
+Challenge_OpeningHours_desc = "A plÃ¡zÃ¡t kÃ¶rbevettÃ©k. Egyszer, valamikor rÃ©gen ez egy fontos hely volt az Ã©letÃ¼kben. Az Ã¶sztÃ¶nÃ¼k az ajtÃ³khoz vezette Å‘ket. Egy emlÃ©k a korÃ¡bbi Ã©letÃ¼kbÅ‘l... <LINE> <LINE> EgyedÃ¼l vagy, de nem sokÃ¡ig. 9-kor a plÃ¡za kÃ©szen Ã¡ll az eladÃ¡sra: az ajtÃ³k kinyÃ­lnak, Ã©s a hordÃ¡k beÃ¶zÃ¶nlenek. <LINE> <LINE> KÃ©szÃ¼lj fel!",
 
-Challenge_AReallyCDDAy_name = "Egy igazán rossz nap",
-Challenge_AReallyCDDAy_desc = "Kijössz a zuhany alól, és esel egy hatalmasat. Tök részeg vagy, ráadásul baromi hideg van. <LINE> <LINE> Mindennek a tetejébe, a ház lángokban áll! A mai nap határozottan nem a te napod. <LINE> <LINE> [Az - Egy igazán rossz nap - kihívást ihlette a félelmetes és csodálatos és MUST-PLAY Cataclysm: Dark Days Ahead] ",
+Challenge_AReallyCDDAy_name = "Egy igazÃ¡n rossz nap",
+Challenge_AReallyCDDAy_desc = "KijÃ¶ssz a zuhany alÃ³l, Ã©s esel egy hatalmasat. TÃ¶k rÃ©szeg vagy, rÃ¡adÃ¡sul baromi hideg van. <LINE> <LINE> Mindennek a tetejÃ©be, a hÃ¡z lÃ¡ngokban Ã¡ll! A mai nap hatÃ¡rozottan nem a te napod. <LINE> <LINE> [Az - Egy igazÃ¡n rossz nap - kihÃ­vÃ¡st ihlette a fÃ©lelmetes Ã©s csodÃ¡latos Ã©s MUST-PLAY Cataclysm: Dark Days Ahead] ",
 
-Challenge_Challenge1_name = "Ház az erdõben - Az utolsó ellenállás",
-Challenge_Challenge1_desc = "Hallani, ahogy közelednek. Az élõholtak hordái minden oldalról támadják az elbarikádozott kunyhót. A halál elkerülhetetlen, de a sörétes puska kéznél van. <LINE> <LINE> Utolsó mentsvár a végtelen hullámokban érkezõ, egyre növekvõ számú zombival szemben. Túlélni, ameddig csak lehetséges a nyilvánvaló túlerõ dacára.",
+Challenge_Challenge1_name = "HÃ¡z az erdÅ‘ben - Az utolsÃ³ ellenÃ¡llÃ¡s",
+Challenge_Challenge1_desc = "Hallani, ahogy kÃ¶zelednek. Az Ã©lÅ‘holtak hordÃ¡i minden oldalrÃ³l tÃ¡madjÃ¡k az elbarikÃ¡dozott kunyhÃ³t. A halÃ¡l elkerÃ¼lhetetlen, de a sÃ¶rÃ©tes puska kÃ©znÃ©l van. <LINE> <LINE> UtolsÃ³ mentsvÃ¡r a vÃ©gtelen hullÃ¡mokban Ã©rkezÅ‘, egyre nÃ¶vekvÅ‘ szÃ¡mÃº zombival szemben. TÃºlÃ©lni, ameddig csak lehetsÃ©ges a nyilvÃ¡nvalÃ³ tÃºlerÅ‘ dacÃ¡ra.",
 
-Challenge_Challenge2_name = "Ház az erdõben - Az utolsó ellenállás gyûjtögetéssel",
-Challenge_Challenge2_desc = "Egy másik nap, egy másik ház készen arra, hogy vérbe borítsd. A hordák a sarkadban vannak, a halálod ugyanolyan fájdalmas lesz, mint amilyen borzalmas. Menj és harcolj... <LINE> <LINE> Utolsó ellenállás gyûjtögetéssel, miközben végtelen hullámokban, egyre nagyobb számban érkeznek a hordák. Használd a dögök leölésével szerzett pénzt felszerelések vásárlásához, a véráztatta fegyverek fejlesztéséhez és javításához.",
+Challenge_Challenge2_name = "HÃ¡z az erdÅ‘ben - Az utolsÃ³ ellenÃ¡llÃ¡s gyÅ±jtÃ¶getÃ©ssel",
+Challenge_Challenge2_desc = "Egy mÃ¡sik nap, egy mÃ¡sik hÃ¡z kÃ©szen arra, hogy vÃ©rbe borÃ­tsd. A hordÃ¡k a sarkadban vannak, a halÃ¡lod ugyanolyan fÃ¡jdalmas lesz, mint amilyen borzalmas. Menj Ã©s harcolj... <LINE> <LINE> UtolsÃ³ ellenÃ¡llÃ¡s gyÅ±jtÃ¶getÃ©ssel, mikÃ¶zben vÃ©gtelen hullÃ¡mokban, egyre nagyobb szÃ¡mban Ã©rkeznek a hordÃ¡k. HasznÃ¡ld a dÃ¶gÃ¶k leÃ¶lÃ©sÃ©vel szerzett pÃ©nzt felszerelÃ©sek vÃ¡sÃ¡rlÃ¡sÃ¡hoz, a vÃ©rÃ¡ztatta fegyverek fejlesztÃ©sÃ©hez Ã©s javÃ­tÃ¡sÃ¡hoz.",
 
-Challenge_AStormIsComing_name = "Vihar közeleg",
-Challenge_AStormIsComing_desc = "Felhõk gyûlnek Kentucky felett. A távolból már hallani a mennydörgést. <LINE> <LINE> Amint az égbolt elsötétül, a föld felett botladozó halottak nyugtalanná válnak. <LINE> <LINE> Ez egy olyan vihar, amely egyre csak növekedni fog és bár néha csendesedik, soha nem ér véget.",
+Challenge_AStormIsComing_name = "Vihar kÃ¶zeleg",
+Challenge_AStormIsComing_desc = "FelhÅ‘k gyÅ±lnek Kentucky felett. A tÃ¡volbÃ³l mÃ¡r hallani a mennydÃ¶rgÃ©st. <LINE> <LINE> Amint az Ã©gbolt elsÃ¶tÃ©tÃ¼l, a fÃ¶ld felett botladozÃ³ halottak nyugtalannÃ¡ vÃ¡lnak. <LINE> <LINE> Ez egy olyan vihar, amely egyre csak nÃ¶vekedni fog Ã©s bÃ¡r nÃ©ha csendesedik, soha nem Ã©r vÃ©get.",
 
-Challenge_TheDescendingFog_name = "Leszálló köd",
-Challenge_TheDescendingFog_desc = "Az emberek elõször a vízen láthatták. Halvány fehér takaró az Ohio folyó felett. <LINE> <LINE> Ködként kezdõdött. Aztán beborította az egész várost. A városlakók sikoltozva haltak meg a homályban. Most ott sétálnak. <LINE> <LINE> Észrevétlenül, csendben és könyörtelenül vadásznak az élõkre.",
+Challenge_TheDescendingFog_name = "LeszÃ¡llÃ³ kÃ¶d",
+Challenge_TheDescendingFog_desc = "Az emberek elÅ‘szÃ¶r a vÃ­zen lÃ¡thattÃ¡k. HalvÃ¡ny fehÃ©r takarÃ³ az Ohio folyÃ³ felett. <LINE> <LINE> KÃ¶dkÃ©nt kezdÅ‘dÃ¶tt. AztÃ¡n beborÃ­totta az egÃ©sz vÃ¡rost. A vÃ¡roslakÃ³k sikoltozva haltak meg a homÃ¡lyban. Most ott sÃ©tÃ¡lnak. <LINE> <LINE> Ã‰szrevÃ©tlenÃ¼l, csendben Ã©s kÃ¶nyÃ¶rtelenÃ¼l vadÃ¡sznak az Ã©lÅ‘kre.",
 
 Challenge_Kingsmouth_name = "Kingsmouth",
-Challenge_Kingsmouth_desc = "Élvezze a pihentetõ kikapcsolódást a Kingsmouth-szigeten!",
+Challenge_Kingsmouth_desc = "Ã‰lvezze a pihentetÅ‘ kikapcsolÃ³dÃ¡st a Kingsmouth-szigeten!",
 
-Challenge_Studio_name = "Stúdió",
-Challenge_Studio_desc = "Ahol a legjobb filmeket forgatják!",
+Challenge_Studio_name = "StÃºdiÃ³",
+Challenge_Studio_desc = "Ahol a legjobb filmeket forgatjÃ¡k!",
 	-- On-screen UI
-Challenge_Challenge2_PressKey = "Nyomd meg az "o" gombot az állandó fejlesztéshez és a pénz elköltéséhez.",
-Challenge_Challenge2_WaveStart = "Hullám %1 in : %2 (nyomj Enter-t a kihagyáshoz)",
-Challenge_Challenge2_WaveDuration = "Hullám %1 : %2",
+Challenge_Challenge2_PressKey = "Nyomd meg az "o" gombot az Ã¡llandÃ³ fejlesztÃ©shez Ã©s a pÃ©nz elkÃ¶ltÃ©sÃ©hez.",
+Challenge_Challenge2_WaveStart = "HullÃ¡m %1 in : %2 (nyomj Enter-t a kihagyÃ¡shoz)",
+Challenge_Challenge2_WaveDuration = "HullÃ¡m %1 : %2",
 Challenge_Challenge2_ZombiesLeft = "Ennyi zombi maradt : %1",
-Challenge_Challenge2_Money = "Pénz : %1",
-Challenge_Challenge2_Money2 = "Játékos %1 pénz : %2",
-Challenge_Challenge2_WaveFinished = "Hullám %1 kész : %2",
-Challenge_Challenge2_MoneyGained = "Megszerzett pénz : %1",
+Challenge_Challenge2_Money = "PÃ©nz : %1",
+Challenge_Challenge2_Money2 = "JÃ¡tÃ©kos %1 pÃ©nz : %2",
+Challenge_Challenge2_WaveFinished = "HullÃ¡m %1 kÃ©sz : %2",
+Challenge_Challenge2_MoneyGained = "Megszerzett pÃ©nz : %1",
 Challenge_Challenge2_XPGained = "Megszerzett tapasztalat : %1",
 	-- Window
-Challenge_Challenge2_WindowTitle = "Utolsó állás",
-Challenge_Challenge2_TabPlayer = "Játékos",
+Challenge_Challenge2_WindowTitle = "UtolsÃ³ Ã¡llÃ¡s",
+Challenge_Challenge2_TabPlayer = "JÃ¡tÃ©kos",
 Challenge_Challenge2_Weapons = "Fegyverek",
-Challenge_Challenge2_TabItems = "Tárgyak",
-Challenge_Challenge2_TabRepair = "Javítás",
+Challenge_Challenge2_TabItems = "TÃ¡rgyak",
+Challenge_Challenge2_TabRepair = "JavÃ­tÃ¡s",
 Challenge_Challenge2_CurrentXp = "TP : %1",
 Challenge_Challenge2_ButtonSkill = "%1 szint %2 - %3 TP"
 Challenge_Challenge2_ButtonSkillMax = "%1 szint Max",
-Challenge_Challenge2_GoldBonus = "Arany bónusz",
-Challenge_Challenge2_XpBonus = "TP bónusz",
+Challenge_Challenge2_GoldBonus = "Arany bÃ³nusz",
+Challenge_Challenge2_XpBonus = "TP bÃ³nusz",
 Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 TP",
 Challenge_Challenge2_ButtonBonusMax = "%1 Max",
-Challenge_Challenge2_ButtonStartGold = "+%1 Induló arany - %2 TP",
-Challenge_Challenge2_ButtonStartGoldMax = "Max induló arany %1",
+Challenge_Challenge2_ButtonStartGold = "+%1 IndulÃ³ arany - %2 TP",
+Challenge_Challenge2_ButtonStartGoldMax = "Max indulÃ³ arany %1",
 	-- PlayerUpWindow
-Challenge_Challenge2_Skills = "Készségek",
-Challenge_Challenge2_PermanentBonus = "Állandó bónusz",
+Challenge_Challenge2_Skills = "KÃ©szsÃ©gek",
+Challenge_Challenge2_PermanentBonus = "ÃllandÃ³ bÃ³nusz",
 	-- VariousItemWindow
-Challenge_Challenge2_Carpentry = "Ács szakma",
-Challenge_Challenge2_Health = "Egészség",
+Challenge_Challenge2_Carpentry = "Ãcs szakma",
+Challenge_Challenge2_Health = "EgÃ©szsÃ©g",
 Challenge_Challenge2_ItemButton = "%1 - %2",
 Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
 	-- WeaponRepairWindow
-Challenge_Challenge2_RepairWeapon = "Fegyverjavítás",
+Challenge_Challenge2_RepairWeapon = "FegyverjavÃ­tÃ¡s",
 	-- WeaponUpWindow
-Challenge_Challenge2_Health = "Egészség",
+Challenge_Challenge2_Health = "EgÃ©szsÃ©g",
 
-Challenge_OpeningHoursInfoBox = " <CENTRE> A bevásárlóközpont reggel 9-kor nyit. <LINE> <LINE> Készülj fel a tömegre...",
-Challenge_WinterIsComingInfoBox = " <CENTRE> Három nap múlva kezdõdik a végtelen tél. <LINE> <LINE> Melegen öltözz fel...",
-Challenge_YouHaveOneDayInfoBox = " <CENTRE>24 óra múlva a Knox megyébe való visszatérésed földi pokollá válik...",
-Challenge_AStormIsComingInfoBox = " <CENTRE> Végtelen rossz idõ elé nézünk...",
-Challenge_TheDescendingFogInfoBox = " <CENTRE> Köd lesz...",
+Challenge_OpeningHoursInfoBox = " <CENTRE> A bevÃ¡sÃ¡rlÃ³kÃ¶zpont reggel 9-kor nyit. <LINE> <LINE> KÃ©szÃ¼lj fel a tÃ¶megre...",
+Challenge_WinterIsComingInfoBox = " <CENTRE> HÃ¡rom nap mÃºlva kezdÅ‘dik a vÃ©gtelen tÃ©l. <LINE> <LINE> Melegen Ã¶ltÃ¶zz fel...",
+Challenge_YouHaveOneDayInfoBox = " <CENTRE>24 Ã³ra mÃºlva a Knox megyÃ©be valÃ³ visszatÃ©rÃ©sed fÃ¶ldi pokollÃ¡ vÃ¡lik...",
+Challenge_AStormIsComingInfoBox = " <CENTRE> VÃ©gtelen rossz idÅ‘ elÃ© nÃ©zÃ¼nk...",
+Challenge_TheDescendingFogInfoBox = " <CENTRE> KÃ¶d lesz...",
 
-    -- v41.64
-	-- Átnézve 2021.12.18
-	-- Megjegyzés:
-    -- Nincs új sor és változás.
+    -- v41.65
+	-- ÃtnÃ©zve 2022.01.09
+	-- MegjegyzÃ©s:
+    -- Nincs Ãºj sor Ã©s vÃ¡ltozÃ¡s.
 }

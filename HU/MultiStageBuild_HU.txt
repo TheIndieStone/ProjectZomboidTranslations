@@ -1,32 +1,32 @@
 MultiStageBuild_HU = {
     -- Wooden Wall
-MultiStageBuild_CreateWoodenWall_1 = "1-es szintû Fa Fal készítés",
-MultiStageBuild_UpgradeWoodenWall_1To2 = "1-es szintû Fa Fal fejlesztés 2-es szintûre",
-MultiStageBuild_CreateWoodenWall_2 = "2-es szintû Fa Fal készítés",
-MultiStageBuild_UpgradeWoodenWall_1To3 = "1-es szintû Fa Fal fejlesztés 3-as szintûre",
-MultiStageBuild_UpgradeWoodenWall_2To3 = "2-es szintû Fa Fal fejlesztés 3-as szintûre",
-MultiStageBuild_CreateWoodenWall_3 = "3-as szintû Fa Fal készítés",
+MultiStageBuild_CreateWoodenWall_1 = "1-es szintÅ± Fa Fal kÃ©szÃ­tÃ©s",
+MultiStageBuild_UpgradeWoodenWall_1To2 = "1-es szintÅ± Fa Fal fejlesztÃ©s 2-es szintÅ±re",
+MultiStageBuild_CreateWoodenWall_2 = "2-es szintÅ± Fa Fal kÃ©szÃ­tÃ©s",
+MultiStageBuild_UpgradeWoodenWall_1To3 = "1-es szintÅ± Fa Fal fejlesztÃ©s 3-as szintÅ±re",
+MultiStageBuild_UpgradeWoodenWall_2To3 = "2-es szintÅ± Fa Fal fejlesztÃ©s 3-as szintÅ±re",
+MultiStageBuild_CreateWoodenWall_3 = "3-as szintÅ± Fa Fal kÃ©szÃ­tÃ©s",
     -- Wooden Window
-MultiStageBuild_CreateWoodenWindow_1 = "1-es szintû Fa Ablak készítés",
-MultiStageBuild_UpgradeWoodenWindow_1To2 = "1-es szintû Fa Ablak fejlesztés 2-es szintûre",
-MultiStageBuild_CreateWoodenWindow_2 = "2-es szintû Fa Ablak készítés",
-MultiStageBuild_UpgradeWoodenWindow_1To3 = "1-es szintû Fa Ablak fejlesztés 3-as szintûre",
-MultiStageBuild_UpgradeWoodenWindow_2To3 = "2-es szintû Fa Ablak fejlesztés 3-as szintûre",
-MultiStageBuild_CreateWoodenWindow_3 = "3-as szintû Fa Ablak készítés",
+MultiStageBuild_CreateWoodenWindow_1 = "1-es szintÅ± Fa Ablak kÃ©szÃ­tÃ©s",
+MultiStageBuild_UpgradeWoodenWindow_1To2 = "1-es szintÅ± Fa Ablak fejlesztÃ©s 2-es szintÅ±re",
+MultiStageBuild_CreateWoodenWindow_2 = "2-es szintÅ± Fa Ablak kÃ©szÃ­tÃ©s",
+MultiStageBuild_UpgradeWoodenWindow_1To3 = "1-es szintÅ± Fa Ablak fejlesztÃ©s 3-as szintÅ±re",
+MultiStageBuild_UpgradeWoodenWindow_2To3 = "2-es szintÅ± Fa Ablak fejlesztÃ©s 3-as szintÅ±re",
+MultiStageBuild_CreateWoodenWindow_3 = "3-as szintÅ± Fa Ablak kÃ©szÃ­tÃ©s",
     -- Metal Wall
-MultiStageBuild_CreateMetalWall_1 = "1-es szintû Fém Fal készítés",
-MultiStageBuild_UpgradeMetalWall_1To2 = "1-es szintû Fém Fal fejlesztés 2-es szintûre",
-MultiStageBuild_CreateMetalWall_2 = "2-es szintû Fém Fal készítés",
+MultiStageBuild_CreateMetalWall_1 = "1-es szintÅ± FÃ©m Fal kÃ©szÃ­tÃ©s",
+MultiStageBuild_UpgradeMetalWall_1To2 = "1-es szintÅ± FÃ©m Fal fejlesztÃ©s 2-es szintÅ±re",
+MultiStageBuild_CreateMetalWall_2 = "2-es szintÅ± FÃ©m Fal kÃ©szÃ­tÃ©s",
     -- Metal Window
-MultiStageBuild_CreateMetalWindow_1 = "1-es szintû Fém Ablak készítés",
-MultiStageBuild_UpgradeMetalWindow_1To2 = "1-es szintû Fém Ablak fejlesztés 2-es szintûre",
-MultiStageBuild_CreateMetalWindow_2 = "2-es szintû Fém Ablak készítés",
+MultiStageBuild_CreateMetalWindow_1 = "1-es szintÅ± FÃ©m Ablak kÃ©szÃ­tÃ©s",
+MultiStageBuild_UpgradeMetalWindow_1To2 = "1-es szintÅ± FÃ©m Ablak fejlesztÃ©s 2-es szintÅ±re",
+MultiStageBuild_CreateMetalWindow_2 = "2-es szintÅ± FÃ©m Ablak kÃ©szÃ­tÃ©s",
     -- wooden door frame
-MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "1-es szintû Fa Ajtó Keret fejlesztés 2-es szintûre",
-MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "2-es szintû Fa Ajtó Keret fejlesztés 3-as szintûre",
+MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "1-es szintÅ± Fa AjtÃ³ Keret fejlesztÃ©s 2-es szintÅ±re",
+MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "2-es szintÅ± Fa AjtÃ³ Keret fejlesztÃ©s 3-as szintÅ±re",
 
-    -- v41.64
-	-- Átnézve 2021.12.18
-	-- Megjegyzés:
-	-- Egész átnézve. 100%!
+    -- v41.65
+	-- ÃtnÃ©zve 2022.01.09
+	-- MegjegyzÃ©s:
+	-- EgÃ©sz Ã¡tnÃ©zve. 100%!
 }
