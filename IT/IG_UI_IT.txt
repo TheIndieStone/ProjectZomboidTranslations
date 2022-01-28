@@ -861,6 +861,7 @@ IG_UI_IT = {
 	IGUI_SearchMode_Debug_Overlay = "Sovrapposizione modalità di ricerca",
 	IGUI_SearchMode_Debug_Mode_Activated = "Modalità di ricerca attivata",
 	IGUI_SearchMode_Debug_Icons = "Icone di debug",
+	IGUI_SearchMode_Debug_Icons_Locations = "Posizioni delle icone di debug",
 	IGUI_SearchMode_Debug_Icons_Extended = "Icone di debug Informazioni estese",
 	IGUI_SearchMode_Debug_Icons_Vision = "Icone di debug Informazioni sulla visione",
 	IGUI_SearchMode_Debug_Icons_Radius = "Icone di debug Raggio di visione",
