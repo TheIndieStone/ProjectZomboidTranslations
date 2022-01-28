@@ -169,6 +169,7 @@ UI_DE = {
     UI_NewGame_Tutorial_desc = "Die erste Anlaufstelle für alle frisch infizierten Projekt Zomboid-Überlebende...",
     UI_NewScreew_SelectDifficulty = "Bitte wähle einen Schwierigkeitsgrad, um fortzufahren.",
     UI_NewsVersion = "Version",
+    UI_News_Anim = "<H1> WILLKOMMEN ZUR ÖFFENTLICHEN BETA VON BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  ..",
     UI_News_Anim3 = "<H1> Willkommen zu Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Für die beste Erfahrung beim Spielen von Multiplayer-Spielen wird euch DRINGEND empfohlen, auf Whitelist-Servern oder im Coop-Modus zu spielen. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Während der Multiplayer im Vergleich zu Build 40 erheblich verbessert wurde, arbeiten wir weiterhin an der Optimierung und Verbesserung. <LINE><LINE> "
@@ -193,6 +194,7 @@ UI_DE = {
     UI_OnConnectFailed_MaxAccountsReached = "Es können keine weitere Konten erstellt werden.",
     UI_OnConnectFailed_ModRequired = "Die Mod '%1', ist nicht installiert",
     UI_OnConnectFailed_NonAsciiCharacters = "Der Benutzername enthält nicht-ASCII Zeichen.",
+    UI_OnConnectFailed_QueueTimeOut = "Verbindungszeitüberschreitung. Ihr Client braucht zu lange, um eine Verbindung herzustellen.",
     UI_OnConnectFailed_ServerFull = "Der Server ist voll.",
     UI_OnConnectFailed_UnknownHost = "Unbekannter Host.",
     UI_OnConnectFailed_UnknownUsername = "Der angegebene Benutzername ist unbekannt.",
@@ -219,6 +221,17 @@ UI_DE = {
     UI_Scoreboard_Unmute = "Laut",
     UI_Scoreboard_VOIPMute = "Stummschaltung aktivieren",
     UI_Scoreboard_VOIPUnmute = "Stummschaltung deaktivieren",
+    UI_SearchWindows_Tooltip = " <H1> SUCHMODUS <BR> <TEXT> <LINE> <LINE> " ..
+                                " <SIZE:medium> - Neuer Suchmodus <LINE> " ..
+                                    "<INDENT:8> - Klicke auf das Lupensymbol auf der linken Seite der Benutzeroberfläche. <LINE> " ..
+                                        "<INDENT:16> - Das Fenster "Gebiet untersuchen" zeigt dir die Art der Zone, in der du dich befindest. Dies wirkt sich auf die Beute aus, die du finden kannst. <LINE> " ..
+                                        "<INDENT:16> - Wenn "?????" angezeigt wird, gibt es hier nichts zu finden. Dies ist nur vorübergehend, bis der Karte weitere Suchzonen hinzugefügt werden. <LINE> <LINE> " ..
+                                    "<INDENT:8> - Um mit der Suche zu beginnen, klicke auf die Schaltfläche "Suchmodus aktivieren" im Fenster "Gebiet untersuchen". Der Charakter fängt an, nach Gegenständen zu suchen, während du herumläufst. <LINE> " ..
+                                    "<INDENT:8> - Ein Augensymbol erscheint über dem Kopf, wenn dein Charakter etwas entdeckt. <LINE> " ..
+                                        "<INDENT:16> Schau dich weiter um, bis das Auge vollständig sichtbar ist und das Symbol für den Gegenstand erscheint. <LINE> " ..
+                                    "<INDENT:8> - Doppelklick auf das Gegenstandssymbol, um ihn aufzuheben. <LINE> " ..
+                                    "<INDENT:8> - Durch Umschauen (Zielen) und Schleichen wird der Sichtradius vergrößert, um schwer zu findende Gegenstände zu erkennen.  <LINE> " ..
+                                    "<INDENT:8> - Dunkelheit, Wetter, Geschicklichkeit, Gegenstandsgröße und negative Stimmungen des Charakters (Stress, Verletzungen usw.) beeinflussen die Chance, etwas zu finden.",
     UI_ServerConnectPopup_Connect = "VERBINDEN",
     UI_ServerConnectPopup_Label = "Du bist dabei eine Verbindung aufzubauen:",
     UI_ServerOptionDesc_AddAllWhitelist = "Fügt alle aktuell verbundenen Benutzer mit einem Passwort zur Weißenliste hinzu, so dass die Konten geschützt sind.",
@@ -1027,7 +1040,8 @@ UI_DE = {
     UI_optionscreen_vehicle_engine_volume = "Lautstärke des Fahrzeugmotors",
     UI_optionscreen_vehicle_engine_volume_tt = "Bruum! Bruum! BRUUM!",
     UI_optionscreen_vehicles = "FAHRZEUGE",
-    UI_optionscreen_videomemory = "Video Speicher ",
+    UI_optionscreen_videomemory = "Video Speicher",
+    UI_optionscreen_voiceAGCMode = "Automatischer Verstärkungsregelungsmodus",
     UI_optionscreen_voiceEnable = "Sprachchat aktivieren",
     UI_optionscreen_voiceMode = "Sprachaktivierungsmodus",
     UI_optionscreen_voiceRecordDevice = "Aufnahmegerät",
@@ -1084,17 +1098,6 @@ UI_DE = {
     UI_profdesc_xp2 = "Hoher EP boost für %1",
     UI_profdesc_xp3 = "Gewaltiger EP boost für %1",
     UI_restart_game_to_apply = "Bitte Projekt Zomboid neustarten, um Änderungen zu übernehmen.",
-    UI_SearchWindows_Tooltip = " <H1> SUCHMODUS <BR> <TEXT> <LINE> <LINE> " ..
-                                " <SIZE:medium> - Neuer Suchmodus <LINE> " ..
-                                    "<INDENT:8> - Klicke auf das Lupensymbol auf der linken Seite der Benutzeroberfläche. <LINE> " ..
-                                        "<INDENT:16> - Das Fenster "Gebiet untersuchen" zeigt dir die Art der Zone, in der du dich befindest. Dies wirkt sich auf die Beute aus, die du finden kannst. <LINE> " ..
-                                        "<INDENT:16> - Wenn "?????" angezeigt wird, gibt es hier nichts zu finden. Dies ist nur vorübergehend, bis der Karte weitere Suchzonen hinzugefügt werden. <LINE> <LINE> " ..
-                                    "<INDENT:8> - Um mit der Suche zu beginnen, klicke auf die Schaltfläche "Suchmodus aktivieren" im Fenster "Gebiet untersuchen". Der Charakter fängt an, nach Gegenständen zu suchen, während du herumläufst. <LINE> " ..
-                                    "<INDENT:8> - Ein Augensymbol erscheint über dem Kopf, wenn dein Charakter etwas entdeckt. <LINE> " ..
-                                        "<INDENT:16> Schau dich weiter um, bis das Auge vollständig sichtbar ist und das Symbol für den Gegenstand erscheint. <LINE> " ..
-                                    "<INDENT:8> - Doppelklick auf das Gegenstandssymbol, um ihn aufzuheben. <LINE> " ..
-                                    "<INDENT:8> - Durch Umschauen (Zielen) und Schleichen wird der Sichtradius vergrößert, um schwer zu findende Gegenstände zu erkennen.  <LINE> " ..
-                                    "<INDENT:8> - Dunkelheit, Wetter, Geschicklichkeit, Gegenstandsgröße und negative Stimmungen des Charakters (Stress, Verletzungen usw.) beeinflussen die Chance, etwas zu finden.",
     UI_servers_AlreadyAuthenticated = "Bereits Authentifiziert",
     UI_servers_AuthPending = "Autorisiere mit Steam...",
     UI_servers_Connected = "Spiel beitritt...",

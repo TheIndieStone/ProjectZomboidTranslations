@@ -16,8 +16,8 @@ UI_CN = {
     UI_mainscreen_SavefileNotFound = "找不到存档或存档无效.",
     UI_mainscreen_SavefileName = "存档: %1",
     UI_mainscreen_coop = "建立服务器",
-    UI_mainscreen_version = "官方【v41.65】版简中 当前游戏版本: %1 ",
-    UI_mainscreen_version_steam = "官方【v41.65】版简中 当前游戏版本: %1 (Steam)",
+    UI_mainscreen_version = "官方【v41.66】版简中 当前游戏版本: %1 ",
+    UI_mainscreen_version_steam = "官方【v41.66】版简中 当前游戏版本: %1 (Steam)",
     UI_mainscreen_InviteInGame = "游戏时不能接受邀请.",
     UI_mainscreen_InviteMainMenu = "请在接受邀请前返回主菜单.",
     UI_mainscreen_InviteFormat = "主机需要使用邀请功能来使你的朋友加入服务器.\n\n%1",
@@ -173,6 +173,7 @@ UI_CN = {
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "在库存或战利品列表上滚动鼠标滚轮时按住循环键,以便在容器之间循环.",
     UI_optionscreen_binding_Map = "切换地图",
+	UI_optionscreen_Show_Item_Mod_Info = "在物品工具提示中显示模组信息",
     UI_ConfirmMonitorSettings_Prompt = "保留这些屏幕设置吗?",
     UI_ConfirmMonitorSettings_RevertIn = " %1 秒后恢复设置.",
     -- Map selecter (lua)
@@ -544,6 +545,7 @@ UI_CN = {
     UI_optionscreen_binding_Toggle Clothing Protection Panel = "切换衣物防护面板",
     UI_optionscreen_binding_Toggle Info Panel = "显示/隐藏信息面板",
     UI_optionscreen_binding_Toggle Moveable Panel Mode = "切换搬运模式",
+	UI_optionscreen_binding_Audio = "音频",
     UI_optionscreen_binding_Toggle Music = "开/关音乐",
     UI_optionscreen_binding_Take screenshot = "截屏",
     UI_optionscreen_binding_Toggle Survival Guide = "开/关生存指南",
@@ -902,6 +904,7 @@ UI_CN = {
     UI_OnConnectFailed_FailedTCPTest = "无法连接至服务器TCP下载端口 %1",
     UI_OnConnectFailed_CreateQueryUGCDetailsRequest = "获取创意工坊插件发生错误",
     UI_OnConnectFailed_ModRequired = "未安装服务端"%1"插件,请安装后再试",
+	UI_OnConnectFailed_QueueTimeOut = "连接超时,你的客户端连接时间过长.",
     --
     UI_GameLoad_UnexpectedError1 = "很抱歉,客户端发生了未知的意外错误,按下Esc或点击鼠标左键退出.",
     UI_GameLoad_UnexpectedError2 = "以下文件可能会包含有关此错误的详细信息:",
@@ -1098,6 +1101,7 @@ UI_CN = {
     UI_optionscreen_voiceEnable = "启用VOIP",
     UI_optionscreen_voiceRecordDevice = "录音设备",
     UI_optionscreen_voiceVADMode = "自动开麦模式",
+	UI_optionscreen_voiceAGCMode = "自动增益控制模式",
     UI_optionscreen_binding_Voice = "语音",
     UI_optionscreen_binding_Enable voice transmit = "按说话键",
     UI_PPT = "按键说话",
@@ -1107,6 +1111,9 @@ UI_CN = {
     UI_VADMode2_LowBitrate = "低音质",
     UI_VADMode3_Aggressive = "高灵敏",
     UI_VADMode4_VeryAggressive = "极高灵敏",
+    UI_AGCMode1_AdaptiveAnalog = "自适应模拟",
+    UI_AGCMode2_AdaptiveDigital = "自适应数字",
+    UI_AGCMode3_FixedDigital = "固定数字",
     UI_optionscreen_voiceVolumeMic = "麦克风增强",
     UI_optionscreen_voiceVolumeMic_tt = "麦克风增强.",
     UI_optionscreen_voiceVolumePlayers = "语音音量",
@@ -1115,7 +1122,8 @@ UI_CN = {
     UI_optionscreen_voiceVolumeMicIndicator_tt = "麦克风信号.",
     UI_ServerOption_DoLuaChecksum_tooltip = "踢出和服务器文件不匹配的玩家.",
     UI_ServerOption_AllowDestructionBySledgehammer_tooltip = "设置是否允许玩家使用大铁锤摧毁地图项目.",
-    UI_ServerOption_HoursForCorpseRemoval_tooltip = "设置自动移除尸体的时间[单位:游戏每小时].",
+	UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "只允许玩家在他们的安全屋内摧毁世界物体(要求允许使用大锤破坏).",
+    UI_ServerOption_HoursForCorpseRemoval_tooltip = "移除超过此游戏时间的尸体",
     UI_ServerOption_MinutesPerPage_tooltip = "设置阅读书籍所需的时间.",
     UI_ServerOption_nightlengthmodifier_tooltip = "控制夜间有多黑暗.  1.0=正常黑暗, 0.0=明亮.",
     UI_ServerOption_SaveWorldEveryMinutes_tooltip = "设置自动保存服务器存档的时间.",
@@ -1315,8 +1323,8 @@ UI_CN = {
     UI_NewGame_Builder_desc = "以建设,探索和种田为重点,更轻松的体验.",
     UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格.",
 	UI_News_Anim3 = "<H1> 欢迎来到41稳定版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> 为了获得目前玩多人游戏的最佳体验<br>我们强烈建议你在白名单的服务器上或在Steam合作中玩 <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> 虽然多人游戏比40稳定版有很大的改进,但我们仍在继续打磨和修复 <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> 为了获得目前玩多人游戏的最佳体验<br>我们强烈建议你在白名单服务器上游玩,或者和你的朋友进行合作游戏. <LINE><LINE> " ..
+                                                                                                                      
                     "<CENTRE> <SIZE:large> 请在我们改进、修复和完善过程中请多谅解 <LINE><LINE> ",
     UI_News_Anim = "<H1>欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本. <LINE><LINE> " ..
@@ -1358,8 +1366,9 @@ UI_CN = {
                                         "<INDENT:16> - 窗口会显示你所在区域的类型,这会影响你能找到的物品. <LINE> " ..
                                         "<INDENT:16> - 如果显示"?????",则周围不会找到任何东西,不过随着时间的流逝这只是暂时现象. <LINE> <LINE> " ..
                                     "<INDENT:8> - 要开始搜寻,请单击"调查区域"窗口中的"启用搜寻模式"按钮,角色将在附近走动开始寻找物品. <LINE> " ..
-                                    "<INDENT:8> - 当你的角色发现某物时,头顶会出现一个眼睛图标. <LINE> " ..
-                                        "<INDENT:16> 继续环顾四周,直到眼睛完全可见并且项目的图标出现. <LINE> " ..
+                                    "<INDENT:8> - 当你的角色发现什么东西时,会出现一个方向箭头. <LINE> " ..
+                                    "<INDENT:8> - 当你的角色揭示物品时,头顶上会出现一个眼睛图标. <LINE> " ..
+                                        "<INDENT:16> 继续环顾四周,直到眼睛完全可见并且物品的图标出现. <LINE> " ..
                                     "<INDENT:8> - 双击物品图标将其捡起. <LINE> " ..
                                     "<INDENT:8> - 环顾四周(通过瞄准)和潜行会增加视野半径,以帮助发现难以定位的物品. <LINE> " ..
                                     "<INDENT:8> - 黑暗,天气,负面状态(压力,受伤等)会影响找到东西的机会.",

@@ -10,8 +10,8 @@ EvolvedRecipeName_Base.CannedSardinesOpen = "Szardínia Konzerv",
 EvolvedRecipeName_Base.CannedTomatoOpen = "Paradicsom Konzerv",
 EvolvedRecipeName_Base.Teabag2 = "Tea",
 
-    -- v41.64
-	-- Átnézve 2021.12.18
+    -- v41.65
+	-- Átnézve 2022.01.09
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

@@ -32,7 +32,7 @@ DynamicRadio_CN {
     AEBS_weather_storm = "雷暴",
     AEBS_weather_tropical = "热带风暴",
     AEBS_weather_blizzard = "暴雪",
-    AEBS_weather_snowfall = "且有几率降雪。",
+    AEBS_weather_snowfall = "有几率降雪。",
     AEBS_weather_storm_C = "雷暴",
     AEBS_weather_tropical_C = "热带风暴",
     AEBS_weather_blizzard_C = "暴雪",
@@ -77,7 +77,7 @@ DynamicRadio_CN {
     AEBS_random_12 = "<噗滋>... 我不相信他 <滋> 谁说... 不可能是真的 <呜滋>",
     AEBS_random_13 = "<噗滋>... 说他们是从东边来的 <滋> 重复：东... <呜滋>",
 
-    AEBS_segment_night = "夜晚",
+    AEBS_segment_night = "夜间",
     AEBS_segment_early_morning = "早晨",
     AEBS_segment_morning = "上午",
     AEBS_segment_afternoon = "下午",

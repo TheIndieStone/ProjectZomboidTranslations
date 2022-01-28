@@ -1369,6 +1369,11 @@ UI_RU = {
     UI_optionscreen_Search_Mode_Overlay_Effect_Both = "Размытие и обесвечивание",
     UI_optionscreen_Search_Mode_Overlay_Effect_None = "Без эффектов",
     UI_optionscreen_binding_Audio = "Аудио",
+    UI_OnConnectFailed_QueueTimeOut = "Время соединения вышло. Ваш клиент слишком долго подключается.",
+    UI_optionscreen_voiceAGCMode = "Режим автоматической регулировки усиления",
+    UI_AGCMode1_AdaptiveAnalog = "Адаптивный аналоговый",
+    UI_AGCMode2_AdaptiveDigital = "Адаптивный цифровой",
+    UI_AGCMode3_FixedDigital = "Фиксированный цифровой",
 
     UI_BadWordCheck = "Были использованы слова, буквы или фразы - %1, которые не могут быть использованы при создании сервера. Пожалуйста, повторите попытку.",
 }

@@ -272,4 +272,5 @@ Tooltip_RU = {
 	Tooltip_AddPaddingToAll = "Добавить заплатки, где нет дыр, используя ",
 	Tooltip_RemoveCurtains = "Даёт %1.",
 	Tooltip_PickUpCurtains = "Вы так же можете подобрать занавески с помощью «подбора мебели».",
+    	Tooltip_weapon_SpentRounds = "Стреляные гильзы",
 }
