@@ -55,7 +55,7 @@ SurvivalGuide_CH = {
 
     SurvivalGuide_entrie9title = "生存指南 #9 - 交通工具",
     SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ZOMBOID 生存指南 <LINE> <SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛對生存帶來很大的幫助, 但也帶來很大的噪音! 轟隆隆的引擎會吸引遠處的殭屍...",
-    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你夠好運的話, 也許能找到匆忙車主留在車門, 儀表板或手套箱的車鑰匙. 你也可以搜尋附近的殭屍, 其中之一可能就是車主. 同樣地, 如果你想找到停在屋外車輛的鑰匙 - 搜索屋內, 鑰匙可能就在那.  <BR> 還是沒找到嗎? 何不直接闖進去呢? 打破車窗來解鎖車門. 如果你的機工和電工技能夠高的話, 就可以熱接發動車輛.  <BR> "..
+    SurvivalGuide_entrie9moreinfo = " <H1> 進入車輛 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你夠好運的話, 也許能找到匆忙車主留在車門, 儀表板或手套箱的車鑰匙. 你也可以搜尋附近的殭屍, 其中之一可能就是車主. 同樣地, 如果你想找到停在屋外車輛的鑰匙 - 搜索屋內, 鑰匙可能就在那.  <BR> 還是沒找到嗎? 何不直接闖進去呢? 打破車窗來解鎖車門. 如果你的機工和電工技能夠高的話, 就可以短接發動車輛.  <BR> "..
             " <H1> 是時候開車了 <BR> <TEXT> 點擊發動鑰匙孔來插入鑰匙, 發動引擎並檢視儀表板資訊. 或者你也可以按下前進鍵 (預設: W) 來發動車輛.  <BR> 如果車輛的引擎狀況不好, 可能沒辦法一次就成功發動. 如果不管怎麼樣都沒辦法發動的話, 那麼也許是時候檢查一下你的機工技能視窗了... <BR> 小心駕駛! 車輛發出的聲音越大, 就會吸引更大範圍內的殭屍注意, 並使他們開始往聲音的源頭前進...  <BR> "..
             " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 你可以在儀表板上看到有用的資訊, 例如油量, 速度和 RPM.  <BR> 儀表板上方的圖示也能告訴你引擎狀態, 車廂是否打開, 頭燈是否正常運作等等...點擊這些圖示能開啟可用的選項 - 像是點擊空調 / 暖氣的話會打開相關的視窗. <BR> "..
             " <H1> 環狀選單 <BR> <TEXT> 如果你在車輛內或車輛旁, 按下 'V'. 這會開啟車輛的環狀選單 <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 從這裡你可以切換座位, 鎖門, 操作車燈, 開啟機工視窗等等. <BR> "..
