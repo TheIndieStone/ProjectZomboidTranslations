@@ -2,8 +2,8 @@ Moodles_CS = {
 	-- Moodle type :
 	-- Endurance
         Moodles_endurance_lvl1 = "Mírná námaha",
-	Moodles_endurance_lvl2 = "Vysoká namáha",
-	Moodles_endurance_lvl3 = "Nadměrná namáha",
+	Moodles_endurance_lvl2 = "Vysoká námaha",
+	Moodles_endurance_lvl3 = "Nadměrná námaha",
 	Moodles_endurance_lvl4 = "Vyčerpání",
   -- Heavy Load
 	Moodles_heavyload_lvl1 = "Celkem velké zatížení",
@@ -174,8 +174,8 @@ Moodles_CS = {
   -- Has a cold
 	Moodles_hasacold_desc_lvl1 = "Příležitostně i kýcháš.",
 	Moodles_hasacold_desc_lvl2 = "Kýcháš docela často.",
-	Moodles_hasacold_desc_lvl3 = "Kýcháš a kašleš. Snižila se ti rychlost s léčením.",
-	Moodles_hasacold_desc_lvl4 = "Značně se ti snižila rychlost s léčením.",
+	Moodles_hasacold_desc_lvl3 = "Kýcháš a kašleš. Snížila se ti rychlost s léčením.",
+	Moodles_hasacold_desc_lvl4 = "Značně se ti snížila rychlost s léčením.",
   -- Injured
 	Moodles_injured_desc_lvl1 = "Potřebuješ první pomoc.",
 	Moodles_injured_desc_lvl2 = "Síla s rychlostí jsou sníženy.",
@@ -197,7 +197,7 @@ Moodles_CS = {
 	Moodles_drunk_desc_lvl3 = "Koordinace snížena.",
 	Moodles_drunk_desc_lvl4 = "'Zi to ty a já... proti celýmu svjetu. Já tě miluju. VÁŽNJE MILUJU!.'",
   -- Dead
-	Moodles_dead_desc_lvl1 = "Vysoká šance, že se staneš krmivem pro okolní zvěr.",
+	Moodles_dead_desc_lvl1 = "Vysoká šance, že se staneš krmivem pro okolní zvěř.",
   -- Zombified
 	Moodles_zombified_desc_lvl1 = "Začínáš mít 'vybrané' chutě.",
   -- Food eaten
