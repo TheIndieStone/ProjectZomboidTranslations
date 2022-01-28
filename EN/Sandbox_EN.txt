@@ -214,8 +214,8 @@ Sandbox_EN = {
     Sandbox_CompostTime_option8 = "12 Weeks",
     --
     Sandbox_LootRarity = "Loot Rarity",
-    Sandbox_LootSurvivalGears = "Survival Gears",
-    Sandbox_LootSurvivalGears_tooltip = "Seeds, saw, nails, various tools, fixing items, fishing rod..."
+    Sandbox_LootSurvivalGears = "Survival Essentials",
+    Sandbox_LootSurvivalGears_tooltip = "Seeds, Nails, Saws, Fishing Rods, various tools, etc..."
     Sandbox_LootMedical = "Medical",
     Sandbox_LootFood = "Fresh Food",
     Sandbox_LootLiterature = "Literature",
