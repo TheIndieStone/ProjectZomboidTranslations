@@ -1814,4 +1814,5 @@ ItemName_PL = {
     ItemName_farming.TomatoSeed = "Nasiona pomidora",
     ItemName_farming.WateredCan = "Konewka",
     ItemName_farming.WateredCanFull = "Konewka z wodą",
+    ItemName_Base.GlassWine = "Kieliszek wina",
 }
