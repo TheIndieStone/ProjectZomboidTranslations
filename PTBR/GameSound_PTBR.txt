@@ -1,20 +1,20 @@
 GameSound_PTBR = {
-    GameSound_ButtonAdvanced = "Avançado",
-    GameSound_ButtonReload = "Recarregar",
-    GameSound_ButtonReload_tt = "Recarregar todos arquivos de sound.txt.",
-    GameSound_VolumeControlTooltip = "Volume: %1%<br>Volume Geral: %2 %3%",
+    GameSound_ButtonAdvanced = "Advanced",
+    GameSound_ButtonReload = "Reload",
+    GameSound_ButtonReload_tt = "Reload all sounds.txt files.",
+    GameSound_VolumeControlTooltip = "Volume: %1%<br>Master Volume: %2 %3%",
 
     /* These are the names of tabs in the ui. */
     /* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
     GameSound_Category_AUTO = "AUTO",
     GameSound_Category_Item = "Item",
     GameSound_Category_Meta = "Meta",
-    GameSound_Category_Music = "Música",
-    GameSound_Category_Object = "Objeto",
-    GameSound_Category_Player = "Jogador",
-    GameSound_Category_Vehicle = "Veículo",
-    GameSound_Category_World = "Mundo",
-    GameSound_Category_Zombie = "Zumbi",
+    GameSound_Category_Music = "Music",
+    GameSound_Category_Object = "Object",
+    GameSound_Category_Player = "Player",
+    GameSound_Category_Vehicle = "Vehicle",
+    GameSound_Category_World = "World",
+    GameSound_Category_Zombie = "Zombie",
 
     /* You can provide translations for every GameSound if you want to, some might appear in the menu but not in this file */
 
