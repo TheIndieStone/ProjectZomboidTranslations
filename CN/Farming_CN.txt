@@ -16,6 +16,9 @@ Farming_CN = {
     Farming_Receding = "枯萎",
     Farming_Rotten = "腐烂",
     Farming_Destroyed = "毁坏",
+	Farming_Seedling = "发芽",
+    Farming_Fully_grown = "成熟",
+    Farming_Ready_to_harvest = "丰收",
     -- farming info text
     -- title
     Farming_Plant_Information = "植物信息",
@@ -32,10 +35,6 @@ Farming_CN = {
     Farming_Thirsty = "缺水",
     Farming_Dry = "干旱",
     Farming_Parched = "干枯",
-    -- growing phase
-    Farming_Seedling = "发芽",
-    Farming_Fully_grown = "成熟",
-    Farming_Ready_to_harvest = "丰收",
     -- disease
     Farming_Mildew = "白粉病",
     Farming_Pest_Flies = "虫害",
@@ -56,7 +55,7 @@ Farming_CN = {
     Farming_Tooltip_ItemUsed = "已使用的物品",
     Farming_Tooltip_NotAFurrow = "不是犁沟。",
     Farming_Tooltip_NotAPlant = "不是植物。",
-    Farming_Tooltip_NotEnoughWaterInInventory = "库存中没有足够的水。",
+    Farming_Tooltip_NotEnoughWaterInInventory = "物品栏中没有足够的水。",
     Farming_Tooltip_NotReadyToHarvest = "还没准备好收获。",
     Farming_Tooltip_PlantHasEnoughWater = "植物有足够的水分。",
     Farming_Tooltip_FurrowHasSeeds = "犁沟已经有种子了。",
@@ -66,4 +65,3 @@ Farming_CN = {
     Farming_Plowed_Land = "耕地",
     Farming_MissingItem = "你需要 %1",
 }
-
