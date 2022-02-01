@@ -300,11 +300,15 @@ ContextMenu_CN = {
 	ContextMenu_DamagedHands = "你的手伤得太厉害了。",
 	ContextMenu_Blacksmith = "锻造",
 	ContextMenu_Stone_Furnace = "石炉",
+	ContextMenu_Furnace_Info = "石炉信息",
 	ContextMenu_Anvil = "铁砧",
 	ContextMenu_Metal_Drum = "金属桶",
 	ContextMenu_UseBellows = "使用鼓风箱",
-	ContextMenu_LitDrum = "点燃",
+	ContextMenu_LitDrum = "点燃金属桶",
+	ContextMenu_LitStoneFurnace = "点燃石炉",
 	ContextMenu_RemoveCharcoal = "移除木炭",
+	ContextMenu_Add_Logs = "添加原木",
+	ContextMenu_Remove_Logs = "移除原木",
 	ContextMenu_WallFencing = "围墙/围栏",
 	ContextMenu_MetalShelves = "金属架",
 	ContextMenu_MetalCounter = "金属柜",
@@ -482,4 +486,3 @@ ContextMenu_CN = {
 	ContextMenu_PlaceAll = "放置所有",
 	ContextMenu_NeedCooked = "需要煮熟.",
 } 
-
