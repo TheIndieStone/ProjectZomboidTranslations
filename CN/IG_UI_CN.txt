@@ -391,7 +391,7 @@ IGUI_CN = {
 	IGUI_CraftUI_CountUnits = "%1 (%2 单位)",
 	IGUI_CraftUI_Controls1 = "%1/%2 = 上/下     %3/%4 = 变更类别     C = 合成一个     R = 合成全部     F = 收藏     ESC = 关闭",
 	IGUI_CraftUI_Controls2 = "%1/%2 = 上/下     %3/%4 = 变更类别     C = 添加配料     F = 收藏     ESC = 关闭",
-	IGUI_CraftUI_Note = "提示:可从你附近的容器和库存里拿取物品进行合成.",
+	IGUI_CraftUI_Note = "提示:可从你附近的容器和物品栏里拿取物品进行合成.",
 	-- Crafting controller prompts
 	IGUI_CraftUI_CraftOne = "合成一个",
 	IGUI_CraftUI_CraftAll = "合成全部",
@@ -882,7 +882,7 @@ IGUI_CN = {
 	IGUI_TradingUI_TooFarAway = "你距离玩家 %1 太远了!",
 	IGUI_TradingUI_ItemNeedUnequip = "物品 %1 需要取消装备."
 	IGUI_TradingUI_CantAddFavorite = "不能添加已收藏的物品."
-	IGUI_TradingUI_CantRightClick = "你不能在交易时使用库存菜单."
+	IGUI_TradingUI_CantRightClick = "你不能在交易时使用物品栏菜单."
 	IGUI_ToggleToRun = "切换 %1 键功能[长按/点按]",
 	IGUI_ToggleAutoProneAtk = "自动进行地面或站立攻击",
 	IGUI_ToggleAutoProneAtkTooltip = "如果为否,你需要一直按住 %1 键才能攻击地面, %2 键仍可以踩踏.",
@@ -924,7 +924,7 @@ IGUI_CN = {
 	IGUI_ScavengeUI_Title = "搜寻目标",
 	IGUI_ScavengeUI_LootAbundance = "搜寻资源余量: ",
 	IGUI_ScavengeUI_PutItemInBag = "将物品放入 %1 (%2)",
-	IGUI_ScavengeUI_PutItemInPlayerInv = "将物品放在主库存里",
+	IGUI_ScavengeUI_PutItemInPlayerInv = "将物品放在主物品栏里",
 	IGUI_ScavengeUI_1stHand = "第1只手",
 	IGUI_ScavengeUI_2ndHand = "第2只手",
 	IGUI_ScavengeUI_Back = "背包",
@@ -1203,7 +1203,7 @@ IGUI_CN = {
 	IGUI_AdminPanel_HealthCheat = "健康面板作弊模式",
 	IGUI_AdminPanel_ShowAdminTag = "如果未选择列表中的任何内容,则不会显示头部上方的红色管理标记.",
 	IGUI_AdminPanel_ItemList = "物品列表查看器",
-	IGUI_ItemList_Info = "双击一个物品或使用其下面的一个按钮将它加入到您的库存里.",
+	IGUI_ItemList_Info = "双击一个物品或使用其下面的一个按钮将它加入到您的物品栏里.",
 
 	IGUI_Adm_Weather_ClimateControl = "气候控制",
 	IGUI_Adm_Weather_Climate = "气候",
