@@ -131,6 +131,8 @@ Tooltip_CN = {
     Tooltip_craft_anvilDesc = "铁匠装备,用它来锻造金属物品.",
     Tooltip_craft_metalDrumDesc = "金属桶用来收集水源和制作木炭.",
     Tooltip_Bellows = "用于石炉加热.",
+	Tooltip_Charcoal_Logs = "添加 5 根原木来制作木炭，完成后，用打火机点燃木桶并等待",
+	Tooltip_Charcoal_Progression = "木炭进度",
     Tooltip_Charcoal = "点燃后等两天来得到木炭.",
     Tooltip_craft_woodenWallFrameDesc = "墙体或窗户的框架.",
     Tooltip_Wetness = "湿度",
@@ -175,6 +177,7 @@ Tooltip_CN = {
     Tooltip_Map_NeedPencil = "需要铅笔.",
     Tooltip_clothing_dirty = "肮脏",
     Tooltip_clothing_bloody = "染血",
+    Tooltip_clothing_wet = "湿润",
     Tooltip_clothing_wet = "潮湿",
     Tooltip_clothing_soaked = "湿透",
     Tooltip_clothing_worn = "破损",
@@ -274,4 +277,3 @@ Tooltip_CN = {
     Tooltip_media_item_operate = "装备到左手或右手来进行操作."
     Tooltip_item_empty_sack_container = "如果是空的可以用作容器.",
 }
-
