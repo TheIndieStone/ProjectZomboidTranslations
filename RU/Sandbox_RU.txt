@@ -209,7 +209,7 @@ Sandbox_RU = {
 	--
 	Sandbox_LootRarity = "КОЛИЧЕСТВО ПРЕДМЕТОВ В МИРЕ",
 	Sandbox_LootSurvivalGears = "ПРИНАДЛЕЖНОСТИ ВЫЖИВАНИЯ:",
-	Sandbox_LootSurvivalGears_tooltip = "Семена, пилы, гвозди, различные инструменты, крепёжные изделия, удочки ...",
+	Sandbox_LootSurvivalGears_tooltip = "Семена, пилы, гвозди, различные инструменты, удочки и тд...",
 	Sandbox_LootMedical = "МЕДИКАМЕНТЫ:",
 	Sandbox_LootFood = "СВЕЖАЯ ЕДА:",
 	Sandbox_LootLiterature = "ЛИТЕРАТУРА:",
