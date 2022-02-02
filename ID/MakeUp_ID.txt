@@ -1,0 +1,37 @@
+MakeUp_ID = {
+    MakeUpCategory_Eyes = "Mata",
+    MakeUpCategory_EyesShadow = "Eyeshadow",
+    MakeUpCategory_FullFace = "Wajah Penuh",
+    MakeUpCategory_Lips = "Bibir",
+
+    MakeUpType_EyesCrow = "Gagak",
+    MakeUpType_EyesRedStripes1 = "Garis Merah 1",
+    MakeUpType_EyesRedStripes2 = "Garis Merah 2",
+    MakeUpType_EyesCamo1 = "Camo 1",
+    MakeUpType_EyesCamo2 = "Camo 2",
+    MakeUpType_EyesCamoStripes = "Bergaris",
+    MakeUpType_EyesFootball = "Sepak Bola",
+
+    MakeUpType_EyeShadowWhite = "Pewarna Mata Putih",
+    MakeUpType_EyeShadowLightBlue = "Pewarna Mata Biru Muda",
+    MakeUpType_EyeShadowBlue = "Eyeshadow Biru",
+    MakeUpType_EyeShadowRed = "Eyeshadow Merah",
+    MakeUpType_EyeShadowPink = "Eyeshadow Pink",
+    MakeUpType_EyeShadowGreen = "Eyeshadow Hijau",
+    MakeUpType_EyeShadowYellow = "Eyeshadow Kuning",
+
+    MakeUpType_FullFaceCamo1 = "Camo Penuh 1",
+    MakeUpType_FullFaceCamo2 = "Camo Penuh 2",
+    MakeUpType_FullFaceWarrior = "Prajurit",
+    MakeUpType_FullFaceClown1 = "Badut 1",
+    MakeUpType_FullFaceClown2 = "Badut 2",
+    MakeUpType_FullFaceSkull1 = "Tengkorak 1",
+    MakeUpType_FullFaceSkull2 = "Tengkorak 2",
+
+    MakeUpType_LipsRed = "Lipstik Merah",
+    MakeUpType_LipsLightBlue = "Lipstik Biru Muda",
+    MakeUpType_LipsBlue = "Lipstik Biru",
+    MakeUpType_LipsBlack = "Lipstik Hitam",
+    MakeUpType_LipsGreen = "Lipstik Hijau",
+    MakeUpType_LipsPink = "Lipstik Pink",
+}
