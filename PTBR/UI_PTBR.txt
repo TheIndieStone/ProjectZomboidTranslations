@@ -1,5 +1,5 @@
 UI_PTBR = {
-    -- Main screen (lua) :
+    -- Tela principal (lua) :
     UI_mainscreen_laststand = "DEFESA FINAL",
     UI_mainscreen_option = "OPÇÕES",
     UI_mainscreen_debug = "DEBUG",
@@ -175,7 +175,7 @@ UI_PTBR = {
     UI_optionscreen_binding_Map = "Alternar Mapa",
     UI_ConfirmMonitorSettings_Prompt = "Manter essas configurações da tela?",
     UI_ConfirmMonitorSettings_RevertIn = "Revertendo em %1 segundos.",
-    -- Map selecter (lua)
+    -- Seletor de mapa (lua)
     UI_mapselecter_title = "SELECIONE O MAPA",
     UI_mapselecter_savename = "Nome do Save: ",
     -- Map spawn region selecter
@@ -186,7 +186,7 @@ UI_PTBR = {
     UI_mapspawn_WithPlayer2 = "Com Jogador 2",
     UI_mapspawn_WithPlayer3 = "Com Jogador 3",
     UI_mapspawn_WithPlayer4 = "Com Jogador 4",
-    -- World screen (lua)
+    -- Tela do mundo (lua)
     UI_LoadGameScreen_title = "SELECIONAR JOGO SALVO",
     UI_LoadGameScreen_Mods = "Mods:",
     UI_LoadGameScreen_NoMods = "Nenhum mod usado.",
@@ -208,7 +208,7 @@ UI_PTBR = {
     UI_worldscreen_SavefileOld = "Este arquivo é muito antigo para ser carregado.",
     UI_worldscreen_SavefileUseBeta41_50 = "Por favor cheque as betas do PZ na steam para versão 41.50.",
     UI_worldscreen_SavefileVersion = "Versão do save: %1 <LINE> Versão atual: %2",
-    -- login screen (lua)
+    -- Tela de login (lua)
     UI_loginscreen_desurakey = "Chave Desura:",
     UI_loginscreen_username = "Nome de usuário:",
     UI_loginscreen_purchasemethod = "Método de compra: ",
@@ -218,7 +218,7 @@ UI_PTBR = {
     UI_loginscreen_login = "LOGAR",
     UI_loginscreen_loginfailed = "LOGIN FALHOU",
     UI_loginscreen_loginsuccess = "LOGADO COM SUCESSO",
-    -- characters creation (lua)
+    -- Criação de personagens (lua)
     UI_characreation_title = "CUSTOMIZAR PERSONAGEM",
     UI_characreation_title2 = "Selecionar Ocupação e Traços",
     UI_characreation_forename = "Nome",
