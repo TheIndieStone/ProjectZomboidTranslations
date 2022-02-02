@@ -1,5 +1,5 @@
 IG_UI_PTBR = {
-    IGUI_AddMakeUp = "Adicionar maquiagem",
+    IGUI_AddMakeUp = "Adicionar Maquiagem",
     IGUI_Adm_Weather_Climate = "Clima",
     IGUI_Adm_Weather_ClimateControl = "Controle de Clima",
     IGUI_Adm_Weather_ClimateEnabled = "Habilitar simulação de clima",
