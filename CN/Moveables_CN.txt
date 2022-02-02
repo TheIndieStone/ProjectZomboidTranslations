@@ -734,7 +734,7 @@ Moveables_CN = {
 	Coffee_X_press = "随心咖啡机",
 	Wall_Bin = "垃圾通道",
 	Cinema_Projector = "影院投影机",
-	
+	Dark_Grey_Squares = "深灰色方块地板",
 	
 }
 
