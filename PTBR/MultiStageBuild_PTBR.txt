@@ -1,7 +1,7 @@
 MultiStageBuild_PTBR = {
     -- Parede de Madeira
     MultiStageBuild_CreateWoodenWall_1 = "Criar Parede de Madeira Nvl 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Melhorar Parede de Madeira para o Nvl 2",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Melhorar Parede de Madeira Nvl 1 para o Nvl 2",
     MultiStageBuild_CreateWoodenWall_2 = "Criar Parede de Madeira Nvl 2",
     MultiStageBuild_UpgradeWoodenWall_1To3 = "Melhorar Parede de Madeira Nvl 1 para o Nvl 3",
     MultiStageBuild_UpgradeWoodenWall_2To3 = "Melhorar Parede de Madeira Nvl 2 para o Nvl 3",
