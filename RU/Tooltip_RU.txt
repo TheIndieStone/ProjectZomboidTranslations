@@ -273,4 +273,7 @@ Tooltip_RU = {
 	Tooltip_RemoveCurtains = "Даёт %1.",
 	Tooltip_PickUpCurtains = "Вы так же можете подобрать занавески с помощью «подбора мебели».",
     	Tooltip_weapon_SpentRounds = "Стреляные гильзы",
+    Tooltip_Charcoal_Logs = "Чтобы сделать древесный уголь: добавьте 5 бревен, после этого подожгите бочку зажигалкой и подождите.",
+    Tooltip_Charcoal_Progression = "Прогресс угля",
+    Tooltip_clothing_holes = "Дыры",
 }
