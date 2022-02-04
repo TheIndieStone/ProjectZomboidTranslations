@@ -39,8 +39,8 @@ SurvivalGuide_CH = {
                                     "<BR> <LINE> <H1> 撿起世界網格 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 世界中大部分的家具與固定物件都能夠被撿起. 只需要將游標移到畫面左上的木櫃圖示上, 並選取撿起, 放置, 或旋轉以及拆解圖示. 在任何這些模式之中, 可以透過 Tab 鍵來循環至下一個模式. <BR> 撿起或拆解物件也許會需要特定的工具或是技能才能成功. 移動物件可以用來幫助你加強基地的防禦 (透過在門窗前放置物件) , 或者是移動像是冰箱或箱子等有用物品到新的地點. <BR>",
 
 	SurvivalGuide_entrie6title = "#6 - 偷窺狂",
-	SurvivalGuide_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 偷窺狂 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 他們也許死了, 但還是看的到窗戶的另一方. <LINE> 沒有窗簾嗎?臨機應變. ",
-	SurvivalGuide_entrie6moreinfo = " <H1> 阻擋他們的視線 <BR> <TEXT> 殭屍末日中最常見的錯誤之一, 就是忘記關窗廉. 敞開的窗簾就像在邀請四處遊蕩的殭屍們到你前門, 再到你腦門. <BR> 要拉上窗簾的話: 使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗戶也會阻擋殭屍的視線, 更能阻擋他們進出窗戶. <BR> 如果你沒有多的窗簾, 也沒有木板的話, 也許你能掛上其他東西?去啊, 試試看吧. <BR>",
+	SurvivalGuide_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 偷窺狂 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 他們也許死了, 但還是看的到窗戶的另一方. <LINE> 沒有窗簾嗎? 臨機應變. ",
+	SurvivalGuide_entrie6moreinfo = " <H1> 阻擋他們的視線 <BR> <TEXT> 殭屍末日中最常見的錯誤之一, 就是忘記關窗廉. 敞開的窗簾就像在邀請四處遊蕩的殭屍們到你前門, 再到你腦門. <BR> 要拉上窗簾的話: 使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗戶也會阻擋殭屍的視線, 更能阻擋他們進出窗戶. <BR> 如果你沒有多的窗簾, 也沒有木板的話, 也許你能掛上其他東西? 去啊, 試試看吧. <BR>",
 
 	SurvivalGuide_entrie7title = "#7 - 健康飲食",
 	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 健康飲食 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒一點也不好笑, 尤其是在末日期間. <LINE> <LINE> 熱騰騰的一餐能帶來許多好處.",
@@ -50,8 +50,8 @@ SurvivalGuide_CH = {
 
 	SurvivalGuide_entrie8title = "#8 - 精明搜刮",
 	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 精明搜刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速且有效率地管理你的物品欄不僅能節省時間 - 還能延長性命!",
-	SurvivalGuide_entrie8moreinfo = " <H1> 選取 <BR> <TEXT> 那麼在 Project Zomboid 中, 你該如何翻找, 拿取, 丟下, 使用各種物品呢?最主要的方式是透過拖放, 或者使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-                                    " 按住左 SHIFT 能夠選取多個物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者, 何不試試看用滑鼠拉出一個選取方框呢?<BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+	SurvivalGuide_entrie8moreinfo = " <H1> 選取 <BR> <TEXT> 那麼在 Project Zomboid 中, 你該如何翻找, 拿取, 丟下, 使用各種物品呢? 最主要的方式是透過拖放, 或者使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+                                    " 按住左 SHIFT 能夠選取多個物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者, 何不試試看用滑鼠拉出一個選取方框呢? <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
                                     " 雙擊拾取視窗內的物品能夠快速拿取, 或者你也可以點擊你選取物品右方的選單按鈕. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  如果你興奮到想要拿走所有容器內的東西的話, 你也可以使用 '拾取全部' 按鈕. <LINE> "..
                                     " <BR> <H1> 包包的榮耀 <BR> <TEXT> 包包很重要. 它們可以幫你帶東西. <BR> 要裝備一個包包好用來把東西都亂丟進去的話: 右鍵點擊並選擇裝備於主手, 副手或者特定包包可以裝備在背上. "..
                                     " <BR> 你可以在物品欄內看到你已裝備的包包, 準備好讓你把找到的物資都拖拉進去. 重要的是, 包包能讓你減輕物品的重量, 幫助你攜帶更多東西, 但請注意: 如果你在包包裡放太多東西, 還是會讓你的行動變得緩慢. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
@@ -64,7 +64,7 @@ SurvivalGuide_CH = {
 
     SurvivalGuide_entrie9title = "#9 - 車輛",
     SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!引擎聲會吸引遙遠距離外的屍群...",
-    SurvivalGuide_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在門上, 發動孔內, 或者手套箱裡. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手?把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
+    SurvivalGuide_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在門上, 發動孔內, 或者手套箱裡. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手? 把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
                                     " <H1> 開車上路 <BR> <TEXT> 點擊發動孔來插入鑰匙, 再點擊儀表板上的引擎圖示 (或按 N) 來發動引擎. 或者, 你也可以按前進鍵 <SPACE><KEY:Forward><SPACE> 來發動. <BR> 如果車輛的引擎狀況不好, 也許第一次發動不會成功. 如果不管怎麼樣也發動不了的話, 也許車子沒油了, 最好檢查機工視窗... <BR> 小心開車!車子越大聲, 就會吸引越大範圍內的殭屍跟過來...  <BR> " ..
                                     " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 車輛的儀表板上顯示許多有用的資訊, 例如油量, 速度, 與 RPM. <BR> 儀表板上的圖示也會告訴你引擎狀況, 或者車廂是否打開, 頭燈是否運作正常, 等等. <BR> " ..
                                     " <H1> 環狀選單 <BR> <TEXT> 在車內或車旁時按 <SPACE><KEY:VehicleRadialMenu>. 這會開啟它的環狀選單. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 從這裡你可以切換座位, 鎖門, 操作燈號, 開啟機工視窗, 等等. <BR> " ..
@@ -81,7 +81,7 @@ SurvivalGuide_CH = {
                                       " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 卻不會直接在電子錶上顯示溫度的差距. 隨時注意你的情緒圖示來看看冷風是不是正在影響你. <LINE> <BR> "<H1> 衣物防禦 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 P 開啟服裝防護面板來檢視你的倖存者目前的防護等級. <BR> 若擁有正確的素材與裁縫等級, 你可以修補衣物上的破洞, 也可以加強衣物的防禦. 只需右鍵點擊衣物, 並點 '檢查' , 再右鍵點擊你想要修補或加強的部分. 確保你的物品欄內有皮革條, 丹寧條, 或是適當的布料, 還有針與線. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
     SurvivalGuide_entrie11title = "#11 - 採集",
-    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界中到處都是有用的東西, 你只需要知道他們在哪 (還有什麼時候跟怎麼找) !<LINE> <LINE> 莓果, 蘑菇, 石頭... 誰知道在對的地方你能找到什麼呢?",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界中到處都是有用的東西, 你只需要知道他們在哪 (還有什麼時候跟怎麼找) !<LINE> <LINE> 莓果, 蘑菇, 石頭... 誰知道在對的地方你能找到什麼呢? ",
     SurvivalGuide_entrie11moreinfo = " <H1> 採集 / 搜索系統 <BR> " ..
                                      " <TEXT> <SIZE:small>" ..
                                      " 調查區域視窗顯示你目前所在的區域類型. 這會影響你能夠找到的物資." ..
