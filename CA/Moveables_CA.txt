@@ -86,6 +86,7 @@ Moveables_CA = {
     Blue_Theatre_Chair = "Cadira de teatre blava",
     Blue_Wall_Locker = "Taquilla de paret blava",
     Blue_Washing_Machine = "Llavadora blava",
+    Blue_Combo_Washer_Dryer = "Llavadora/eixugadora blava",
     Blue_Zippee_Floor = "Pis blau",
     Bonsai_Tree = "Bonsai",
     Book_Naked_Sign = "Cartell de Book Naked",
