@@ -485,4 +485,6 @@ ContextMenu_EN = {
     ContextMenu_PlaceHalf = "Place Half",
     ContextMenu_PlaceAll = "Place All",
     ContextMenu_NeedCooked = "Need to be cooked.",
+    ContextMenu_ComboWasherDryer_SetModeWasher = "Set Mode: Washer",
+    ContextMenu_ComboWasherDryer_SetModeDryer = "Set Mode: Dryer",
 } 
