@@ -86,12 +86,12 @@ ContextMenu_PTBR = {
 	ContextMenu_NaturalWaterSource = "Fonte de Água Natural"
 
 	-- Menu de fabricação
-	ContextMenu_Door = "Porta",
+	ContextMenu_Door = "Portas",
 	ContextMenu_Stairs = "Escadas",
-	ContextMenu_Floor = "Piso",
-	ContextMenu_Bar = "Barra",
+	ContextMenu_Floor = "Pisos",
+	ContextMenu_Bar = "Bar",
 	ContextMenu_Furniture = "Mobília",
-	ContextMenu_Fence = "Cerca",
+	ContextMenu_Fence = "Cercas",
 	ContextMenu_Wooden_Stake = "Estaca de Madeira",
 	ContextMenu_Barbed_Fence = "Cerca Farpada",
 	ContextMenu_Wooden_Fence = "Cerca de Madeira",
