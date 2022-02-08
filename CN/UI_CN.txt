@@ -1025,7 +1025,6 @@ UI_CN = {
 	UI_ServerOption_PauseEmpty_tooltip = "服务器没有玩家时,自动暂停服务器",
 	UI_ServerOption_GlobalChat_tooltip = "打开或关闭全局聊天.",
 	UI_ServerOption_ServerWelcomeMessage_tooltip = "在聊天面板中可见的第一条欢迎信息.<br>这将在玩家登录后立即显示.<br>你可以使用 RGB 颜色来决定欢迎信息的颜色.你也可以使用 <LINE> 来在你的文本中创建一个单独的行.使用: <RGB:1,0,0> 这条信息将显示为红色！",
-	UI_ServerOption_LogLocalChat_tooltip = "在聊天面板中显示本地聊天(只有附近的玩家可以看到它).",
 	UI_ServerOption_Mods_tooltip  = "在此处输入模组加载 ID.可在 \Steam\steamapps\workshop\modID\mods\modName\info.txt 中找到",
 	UI_ServerOption_Map_tooltip  = "输入在 \Steam\steamapps\workshop\modID\mods\modName\media\maps\中找到的模组的文件夹名",
 	UI_ServerOption_MaxPlayers_tooltip  = "设置服务器的人数上限,不含管理员.",
@@ -1394,7 +1393,6 @@ UI_CN = {
 	UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格.",
 	UI_News_Anim3 = "<H1> 欢迎来到41稳定版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
 					"<CENTRE> <SIZE:large> 为了获得最佳的多人游戏体验, 我们强烈建议你在白名单的服务器上进行游戏, 或者与你的朋友一起合作. <LINE><LINE> " ..
-																													  
 					"<CENTRE> <SIZE:large> 请在我们改进、修复和完善过程中请多谅解 <LINE><LINE> ",
 	UI_News_Anim = "<H1>欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
 					"<CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本. <LINE><LINE> " ..
@@ -1465,6 +1463,7 @@ UI_CN = {
 	UI_ServerOption_PlayerSaveOnDamage_tooltip  = "如果为启用,每次玩家受到伤害时将保存数据.",
 	UI_ServerOption_AllowTradeUI_tooltip  = "允许玩家使用安全交易系统.",
 	UI_ServerOption_ZombieUpdateDelta_tooltip = "自动批量刷新僵尸间隔(秒)",
+	UI_ServerOption_LogLocalChat_tooltip = "在聊天面板中显示本地聊天(只有附近的玩家可以看到它).",
 	
 
 }
