@@ -732,6 +732,9 @@ Moveables_CN = {
 	Fryers_Club_Industrial_2000 = "肯塔鸡2000商用电炸压力灶",
 	Large_Industrial_Sink = "大型工业水槽",
 	Coffee_X_press = "随心咖啡机",
+	Wall_Bin = "垃圾通道",
+	Cinema_Projector = "影院投影机",
+	Dark_Grey_Squares = "深灰色方块地板",
 	
 }
 
