@@ -3,8 +3,7 @@ SurvivalGuide_CN = {
 	SurvivalGuide_entrie1title = "#1 - 基础", 
 	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:large> #1 - 控制你自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不需要深呼吸, 而是学习基础知识. ", 
 	SurvivalGuide_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 要在 PZ 中四处走动, 请使用 WASD 键 <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE>"..
-                                    " <LINE> <H1> 战斗 <BR> <TEXT> 要攻击, 先按住 鼠标右键 或 CTRL <SPACE><KEY:Aim><SPACE> 瞄准, 再点击 鼠标左键 攻击. 没有装备武器只能推搡
- (你也可以点击 <SPACE><KEY:Melee><SPACE> 推搡, 装备了武器也可以这样推搡 <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 请将你的鼠标光标始终指向你的目标, 即鼠标光标显示的的白色圆圈. 有关战斗的更深入信息, 请参阅本指南的第 3 页 <BR>"..
+                                    " <LINE> <H1> 战斗 <BR> <TEXT> 要攻击, 先按住 鼠标右键 或 CTRL <SPACE><KEY:Aim><SPACE> 瞄准, 再点击 鼠标左键 攻击. 没有装备武器只能推搡(你也可以点击 <SPACE><KEY:Melee><SPACE> 推搡, 装备了武器也可以这样推搡 <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 请将你的鼠标光标始终指向你的目标, 即鼠标光标显示的的白色圆圈. 有关战斗的更深入信息, 请参阅本指南的第 3 页 <BR>"..
                                     " <LINE> <H1> 状态 <BR> <TEXT> 有时会出现在屏幕右上角的小图标被称为状态. 这些图标可以让你了然地了解幸存者的身体状况. 将鼠标悬停在图标上以了解更多详细信息. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
                                     " <LINE> <H1> 鼠标控制 <BR> <TEXT>你可以通过单击 鼠标左键 与附近的物体进行交互. 例如, 打开你想要抢劫房屋的门或橱柜 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 按住 鼠标右键 让你环顾四周并瞄准. 使用鼠标滚轮或使用键盘上的 <SPACE><KEY:Zoom&nbsp;in><SPACE> 和 <SPACE><KEY:Zoom&nbsp;out><SPACE> 键来放大和缩小画面 <BR>"..
                                     " <LINE> <H1> 健康 <BR> <TEXT> 点击左上角的心形图标查看你的健康状况. 从这里你可以进行伤口急救 - 或检查可怕的咬痕 <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
@@ -70,6 +69,7 @@ SurvivalGuide_CN = {
                                     " <H1> 车辆信息 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 在车辆的仪表板上, 你可以看到有用的信息读数, 例如燃油辆、速度和档位 <BR> 仪表板顶部的图标还会告诉你发动机状态、后备箱是否开启、大灯是否工作等等 <BR>"..
                                     " <H1> 车辆菜单 <BR> <TEXT> 如果你在车辆内部或旁边, 请点击 <SPACE><KEY:VehicleRadialMenu> . 这将打开其互动菜单 <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 从这里你可以切换座位、锁门、操作灯、打开车辆信息等等 <BR>"..
                                     " <H1> 车辆窗口 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 幸存者可以检查他们的电池是否有电, 查看燃料水平, 并注意某些部分是否汽车出现损坏. 技工技能较高的幸存者将能够看到额外的细节, 并安装和卸载零件 <BR> 有关此和技工技能的更多信息, 请单击技工左上角的信息图标窗口 <BR>", 
+
 	SurvivalGuide_entrie10title = "#10 - 天气", 
     SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 天气和衣服 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 请记住, 你的衣服可以防止更多不仅仅是风... ", 
     SurvivalGuide_entrie10moreinfo = " <H1> 气候变化 <BR> <TEXT> PZ 项目中的天气模式是真实的. 模拟气候系统使用一年中的时间和虚拟天气前沿, 在相关的地方创造雨、雪、雾和雷暴一年四季. 请穿对衣服, 使得冬暖夏凉, 记得保持良好状态！<LINE>"..
