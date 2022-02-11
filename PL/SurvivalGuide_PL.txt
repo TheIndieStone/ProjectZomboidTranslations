@@ -1,4 +1,5 @@
 SurvivalGuide_PL = {
+    SurvivalGuide_WindowTitle = "ZOMBOID: PORADNIK PRZETRWANIA",
     SurvivalGuide_entrie10moreinfo = "<H1> ZMIENIAJĄCY SIĘ KLIMAT <BR> <TEXT> Wzory pogodowe w Project Zomboid są realistyczne. Symulowany system klimatyczny korzysta z pór roku i wirtualnych frontów pogodowych, by tworzyć deszcz, śnieg, zamglenia i burze w odpowiednich porach roku. <LINE>  ..",
     SurvivalGuide_entrie10title = "SZKOŁA PRZETRWANIA #10 - POGODA",
     SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> SZKOŁA PRZETRWANIA ZOMBOID <LINE> <SIZE:large> POGODA <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Dzięki mgłom, burzom i opadom śniegu nieumarli stanowią jeszcze większe niebezpieczeństwo! Ubierz się ciepło, gdy zacznie zbliżać się zima...",
