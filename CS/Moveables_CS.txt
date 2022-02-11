@@ -696,4 +696,5 @@ Moveables_CS = {
     Zippee_Market_Sign = "Cedule Zippee Market",
     Zippee_Shelves_Rack = "Regál Zippee",
     Zippee_Wall_Shelves = "Nástěnné police Zippee",
+    Blue_Combo_Washer_Dryer = "Modrá pračka se sušičkou",
 }
