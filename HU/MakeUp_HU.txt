@@ -1,42 +1,42 @@
 MakeUp_HU = {
 MakeUpCategory_Eyes = "Szem",
-MakeUpCategory_EyesShadow = "SzemhÈj",
+MakeUpCategory_EyesShadow = "Szemh√©j",
 MakeUpCategory_FullFace = "Teljes Arc",
 MakeUpCategory_Lips = "Ajak",
 
-MakeUpType_EyesCrow = "Varj˙",
-MakeUpType_EyesRedStripes1 = "Piros CsÌkos 1",
-MakeUpType_EyesRedStripes2 = "Piros CsÌkos 2",
-MakeUpType_EyesCamo1 = "¡lc·zÛ 1",
-MakeUpType_EyesCamo2 = "¡lc·zÛ 2",
-MakeUpType_EyesCamoStripes = "CsÌkos",
+MakeUpType_EyesCrow = "Varj√∫",
+MakeUpType_EyesRedStripes1 = "Piros Cs√≠kos 1",
+MakeUpType_EyesRedStripes2 = "Piros Cs√≠kos 2",
+MakeUpType_EyesCamo1 = "√Ålc√°z√≥ 1",
+MakeUpType_EyesCamo2 = "√Ålc√°z√≥ 2",
+MakeUpType_EyesCamoStripes = "Cs√≠kos",
 MakeUpType_EyesFootball = "Futball",
 
-MakeUpType_EyeShadowWhite = "FehÈr SzemhÈj",
-MakeUpType_EyeShadowLightBlue = "Vil·goskÈk SzemhÈj",
-MakeUpType_EyeShadowBlue = "KÈk SzemhÈj",
-MakeUpType_EyeShadowRed = "Piros SzemhÈj",
-MakeUpType_EyeShadowPink = "RÛzsaszÌn SzemhÈj",
-MakeUpType_EyeShadowGreen = "Zˆld SzemhÈj",
-MakeUpType_EyeShadowYellow = "S·rga SzemhÈj",
+MakeUpType_EyeShadowWhite = "Feh√©r Szemh√©j",
+MakeUpType_EyeShadowLightBlue = "Vil√°gosk√©k Szemh√©j",
+MakeUpType_EyeShadowBlue = "K√©k Szemh√©j",
+MakeUpType_EyeShadowRed = "Piros Szemh√©j",
+MakeUpType_EyeShadowPink = "R√≥zsasz√≠n Szemh√©j",
+MakeUpType_EyeShadowGreen = "Z√∂ld Szemh√©j",
+MakeUpType_EyeShadowYellow = "S√°rga Szemh√©j",
 
-MakeUpType_FullFaceCamo1 = "Teljes ¡lc·z·s 1",
-MakeUpType_FullFaceCamo2 = "Teljes ¡lc·z·s 2",
+MakeUpType_FullFaceCamo1 = "Teljes √Ålc√°z√°s 1",
+MakeUpType_FullFaceCamo2 = "Teljes √Ålc√°z√°s 2",
 MakeUpType_FullFaceWarrior = "Harcos",
-MakeUpType_FullFaceClown1 = "BohÛc 1",
-MakeUpType_FullFaceClown2 = "BohÛc 2",
+MakeUpType_FullFaceClown1 = "Boh√≥c 1",
+MakeUpType_FullFaceClown2 = "Boh√≥c 2",
 MakeUpType_FullFaceSkull1 = "Koponya 1",
 MakeUpType_FullFaceSkull2 = "Koponya 2",
 
-MakeUpType_LipsRed = "Piros Ajakr˙zs",
-MakeUpType_LipsLightBlue = "Vil·goskÈk Ajakr˙zs",
-MakeUpType_LipsBlue = "KÈk Ajakr˙zs",
-MakeUpType_LipsBlack = "Fekete Ajakr˙zs",
-MakeUpType_LipsGreen = "Zˆld Ajakr˙zs",
-MakeUpType_LipsPink = "RÛzsaszÌn Ajakr˙zs",
+MakeUpType_LipsRed = "Piros Ajakr√∫zs",
+MakeUpType_LipsLightBlue = "Vil√°gosk√©k Ajakr√∫zs",
+MakeUpType_LipsBlue = "K√©k Ajakr√∫zs",
+MakeUpType_LipsBlack = "Fekete Ajakr√∫zs",
+MakeUpType_LipsGreen = "Z√∂ld Ajakr√∫zs",
+MakeUpType_LipsPink = "R√≥zsasz√≠n Ajakr√∫zs",
 
-    -- v41.64
-	-- ¡tnÈzve 2021.12.18
-	-- MegjegyzÈs:
-	-- EgÈsz ·tnÈzve. 100%!
+    -- v41.65
+	-- √Åtn√©zve 2022.01.09
+	-- Megjegyz√©s:
+	-- Eg√©sz √°tn√©zve. 100%!
 }

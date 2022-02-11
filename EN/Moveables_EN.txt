@@ -86,6 +86,7 @@ Moveables_EN = {
     Blue_Theatre_Chair = "Blue Theater Chair",
     Blue_Wall_Locker = "Blue Wall Locker",
     Blue_Washing_Machine = "Blue Washing Machine",
+    Blue_Combo_Washer_Dryer = "Blue Combo Washer/Dryer",
     Blue_Zippee_Floor = "Blue Zippee Floor",
     Bonsai_Tree = "Bonsai Tree",
     Book_Naked_Sign = "Book Naked Sign",
