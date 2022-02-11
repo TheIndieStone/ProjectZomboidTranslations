@@ -1201,7 +1201,7 @@ UI_CH = {
                                          "<CENTRE> <SIZE:large> 請注意, 超過 32 名線上玩家的伺服器可能會有地圖串流效能不佳或者是同步問題. <LINE><LINE> " ..
                                          "<CENTRE> <SIZE:large> 我們繼續改善, 修正與潤飾的同時, 還請多加包涵理解. <LINE><LINE> ",
 	UI_servers_showPwdProtectedServer = "顯示密碼保護的伺服器",
-    UI_servers_showWhitelistServer = "顯示白名單伺服器",
+	UI_servers_showWhitelistServer = "顯示白名單伺服器",
     UI_servers_username = "帳號使用者名稱: ",
     UI_servers_username_tt = "伺服器上的其他玩家可見. \n包含在存檔名稱內. ",
     UI_servers_version = "版本: ",
