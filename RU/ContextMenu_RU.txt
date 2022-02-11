@@ -481,4 +481,6 @@ ContextMenu_RU = {
 	ContextMenu_PatchAllHoles = "Заштопать все дырки используя ",
 	ContextMenu_RemoveAllPatches = "Убрать все заплатки",
 	ContextMenu_AddPaddingAll = "Добавить заплатки используя ",
+	ContextMenu_ComboWasherDryer_SetModeWasher = "Установить режим: Стирать",
+    ContextMenu_ComboWasherDryer_SetModeDryer = "Установить режим: Сушить",
 }
