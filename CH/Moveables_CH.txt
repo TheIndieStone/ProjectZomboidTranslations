@@ -65,6 +65,7 @@ Moveables_CH = {
     Blue_Bed = "藍色床",
     Blue_Carpet = "藍色地毯",
     Blue_Checkered_Tiles = "藍色方格瓷磚",
+    Blue_Combo_Washer_Dryer = "藍色洗衣 / 烘衣機",
     Blue_Comfy_Chair = "藍色舒適椅",
     Blue_Comfy_Couch = "藍色舒適沙發",
     Blue_Cross_Sign = "藍色十字招牌",

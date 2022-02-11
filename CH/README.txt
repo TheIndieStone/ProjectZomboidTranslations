@@ -6,4 +6,4 @@ Example:
 	You should enter:
 		你好, 我 (就是我! ) 是一個句子. 
 		
-mraz, Dec. 19 2021
+Also, make sure your files are using Big5 encoding.
