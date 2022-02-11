@@ -1198,7 +1198,7 @@ UI_CH = {
     UI_servers_showEmptyServer = "顯示空伺服器",
     UI_servers_showLargeServer = "顯示較高玩家數伺服器",
     UI_servers_showLargeServer_warning = "<H1> 公開伺服器公告 <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> "..
-                                         "<CENTRE> <SIZE:large> 請注意, 超過 32 名線上玩家的伺服器可能會有地圖串流效能不佳或者是同步問題. <LINE><LINE> " ..
+                                         "<CENTRE> <SIZE:large> 請注意, 超過 32 名線上玩家的伺服器可能會造成地圖串流效能不佳或者是發生同步問題. <LINE><LINE> " ..
                                          "<CENTRE> <SIZE:large> 我們繼續改善, 修正與潤飾的同時, 還請多加包涵理解. <LINE><LINE> ",
     UI_servers_showPwdProtectedServer = "顯示密碼保護的伺服器",
     UI_servers_showWhitelistServer = "顯示白名單伺服器",
