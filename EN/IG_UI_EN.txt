@@ -314,6 +314,7 @@ IGUI_EN = {
     IGUI_Gametime_zombiesCount = "You killed %1 zombies.",
     IGUI_Gametime_zombieCount = "You killed %1 zombie.",
     IGUI_FoodNaming = "%2 (%1)",
+    IGUI_FoodTemperatureNaming = "%2 (%1)",
     IGUI_ItemNaming = "%2 (%1)",
     IGUI_ItemNameTaintedWater = "%1 (Tainted)",
     IGUI_ItemNameControllerLinked = "%1 (Linked)",
@@ -1579,6 +1580,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
 	IGUI_SearchMode_Categories_Clothing = "Clothing",
 	IGUI_SearchMode_Categories_Medical = "Medical Items",
     IGUI_SearchMode_Categories_MedicinalPlants = "Medicinal Plants",
+    IGUI_SearchMode_Categories_WildPlants = "Wild Plants",
 	--SearchMode Vision Effects Tooltip
 	IGUI_SearchMode_Vision_Effect_Title = "Vision Effectiveness",
 	IGUI_SearchMode_Vision_Effect_Radius = "Search Radius",
