@@ -314,6 +314,7 @@ IGUI_CN = {
 	IGUI_Gametime_zombiesCount = "你杀死了 %1 个僵尸.",
 	IGUI_Gametime_zombieCount = "你杀死了 %1 个僵尸.",
 	IGUI_FoodNaming = "%2 (%1)",
+	IGUI_FoodTemperatureNaming = "%2 (%1)",
 	IGUI_ItemNaming = "%2 (%1)",
 	IGUI_ItemNameTaintedWater = "%1 (污染)",
 	IGUI_ItemNameControllerLinked = "%1 (连接)",
@@ -1579,6 +1580,7 @@ IGUI_CN = {
 	IGUI_SearchMode_Categories_Clothing = "服装",
 	IGUI_SearchMode_Categories_Medical = "医疗物品",
     IGUI_SearchMode_Categories_MedicinalPlants = "药用植物",
+	IGUI_SearchMode_Categories_WildPlants = "野生植物",
 	--SearchMode Vision Effects Tooltip
 	IGUI_SearchMode_Vision_Effect_Title = "视觉影响: ",
 	IGUI_SearchMode_Vision_Effect_Radius = "搜寻半径: ",
