@@ -878,6 +878,10 @@ UI_CN = {
 	UI_servers_showEmptyServer = "显示空的服务器",
 	UI_servers_showWhitelistServer = "显示启用白名单的服务器",
 	UI_servers_showPwdProtectedServer = "显示密码保护的服务器",
+	UI_servers_showLargeServer = "显示高玩家数量的服务器",
+    UI_servers_showLargeServer_warning = "<H1> 服务器公告 <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> "..
+                                         "<CENTRE> <SIZE:large> 服务器超过32人将可能导致地图错乱和不同步现象,请控制人员数量! <LINE><LINE> " ..
+                                         "<CENTRE> <SIZE:large> 遇到问题时请理解,我们正在努力完善它. <LINE><LINE> ",
 	UI_ServerConnectPopup_Label = "你将要连接到:",
 	UI_ServerConnectPopup_Connect = "连接",
 	UI_CoopConnectPopup_Title = "加入本地合作游戏",
@@ -1027,7 +1031,7 @@ UI_CN = {
 	UI_ServerOption_ServerWelcomeMessage_tooltip = "在聊天面板中可见的第一条欢迎信息.<br>这将在玩家登录后立即显示.<br>你可以使用 RGB 颜色来决定欢迎信息的颜色.你也可以使用 <LINE> 来在你的文本中创建一个单独的行.使用: <RGB:1,0,0> 这条信息将显示为红色！",
 	UI_ServerOption_Mods_tooltip  = "在此处输入模组加载 ID.可在 \Steam\steamapps\workshop\modID\mods\modName\info.txt 中找到",
 	UI_ServerOption_Map_tooltip  = "输入在 \Steam\steamapps\workshop\modID\mods\modName\media\maps\中找到的模组的文件夹名",
-	UI_ServerOption_MaxPlayers_tooltip  = "设置服务器的人数上限,不含管理员.",
+	UI_ServerOption_MaxPlayers_tooltip  = "设置服务器的人数上限,不含管理员.警告:服务器超过32人将可能导致地图错乱和不同步现象,请控制人员数量!",
 	UI_ServerOption_PingLimit_tooltip  = "玩家被踢出服务器之前的 Ping 限制,以毫秒为单位,(设置为 100 以禁用)",
 	UI_ServerOption_NoFireSpread_tooltip  = "切换火势蔓延,火不会在地板之间传播(僵尸和僵尸仍然可以传播火).",
 	UI_ServerOption_NoFire_tooltip  = "除篝火外,所有形式的火源均禁用.",
@@ -1076,7 +1080,7 @@ UI_CN = {
 	UI_ServerOption_SafehouseAllowRespawn_tooltip = "设置玩家死亡后是否在已设定的安全屋内重生.",
 	UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "设置玩家存活几天后才可设置安全屋.",
 	UI_ServerOption_SafeHouseRemovalTime_tooltip = "自动移除超过设置时间(现实世界)没有上线玩家的安全屋.",
-	UI_ServerOption_UPnP_tooltip = "启用UPnP网关,并自动配置端口转发规则.<br>如果失败,服务器将退回到默认端口",																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																																   
+	UI_ServerOption_UPnP_tooltip = "启用UPnP网关,并自动配置端口转发规则.<br>如果失败,服务器将退回到默认端口",																		
 	UI_ServerOption_VoiceEnable_tooltip  = "如果为启用,则启用VOIP.",
 	UI_ServerOption_VoiceMinDistance_tooltip = "可以听到 VOIP 声音的最小距离.默认为 10",
 	UI_ServerOption_VoiceMaxDistance_tooltip  = "可以听到 VOIP 声音的最大距离.默认为 30.",
@@ -1129,7 +1133,6 @@ UI_CN = {
 	UI_ServerOption_SledgehammerOnlyInSafehouse_tooltip = "允许玩家只在他们的安全屋内摧毁世界物体(要求允许使用大锤破坏).",
 	UI_ServerOption_HoursForCorpseRemoval_tooltip = "移除超过此设定的游戏内小时数的尸体",
 	UI_ServerOption_MinutesPerPage_tooltip = "设置阅读书籍所需的时间.",
-	UI_ServerOption_nightlengthmodifier_tooltip = "控制夜间的黑暗程度.  1.0=正常黑暗, 0.0=明亮.",
 	UI_ServerOption_SaveWorldEveryMinutes_tooltip = "地图的加载部分在经过设定的现实分钟数后保存.(地图通常仅在客户端离开加载区域后保存).",
 	UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "如果为启用,当 移尸时间 触发时,同时删除玩家的尸体.",
 	UI_ServerOption_TrashDeleteAll_tooltip = "如果为启用, 玩家可以使用垃圾桶内的"删除全部" 按钮.",
@@ -1222,7 +1225,6 @@ UI_CN = {
 	UI_ServerOptions_SpawnRegionFile3 = "-- 管理员可以根据需要添加多个出生点.",
 	UI_ServerOptions_SpawnRegionFile4 = "-- 其中定义了一个自定义的出生点,位置在西点的Twiggy酒吧.",
 	UI_ServerOptions_SpawnRegionFile5 = "取消对以下行的注释来添加服务器的自定义出生点.",
-	UI_ServerOptionDesc_NightModifier = "设置夜间长度调节器,1.0 = 正常,0.5 = 一半,0.0 = 无夜晚.使用:/nightlengthmodifier",
 	UI_ServerOptionDesc_Disconnect = "根据客户端的连接号码来踢出.可以通过/connections 查看连接号码.使用:/disconnect 编号,比如/disconnect 2",
 	UI_userpanel_factionpanel = "阵营",
 	UI_mainscreen_userpanel = "用户面板",
@@ -1442,6 +1444,7 @@ UI_CN = {
 	UI_DisplayOptions_Clock = "时钟",
 	UI_DisplayOptions_RenderingAndPerformance = "渲染和性能",
 	UI_DisplayOptions_Language = "语言",
+	UI_MaxPlayers_Notification = "服务器超过32人将可能导致地图错乱和不同步现象,请控制人员数量.",
 	
 	
 	------- remove??? ------
@@ -1464,6 +1467,6 @@ UI_CN = {
 	UI_ServerOption_AllowTradeUI_tooltip  = "允许玩家使用安全交易系统.",
 	UI_ServerOption_ZombieUpdateDelta_tooltip = "自动批量刷新僵尸间隔(秒)",
 	UI_ServerOption_LogLocalChat_tooltip = "在聊天面板中显示本地聊天(只有附近的玩家可以看到它).",
-	
-
+	UI_ServerOption_nightlengthmodifier_tooltip = "控制夜间的黑暗程度.  1.0=正常黑暗, 0.0=明亮.",
+	UI_ServerOptionDesc_NightModifier = "设置夜间长度调节器,1.0 = 正常,0.5 = 一半,0.0 = 无夜晚.使用:/nightlengthmodifier",
 }
