@@ -16,7 +16,7 @@ Farming_CN = {
     Farming_Receding = "枯萎",
     Farming_Rotten = "腐烂",
     Farming_Destroyed = "毁坏",
-	Farming_Seedling = "发芽",
+    Farming_Seedling = "发芽",
     Farming_Fully_grown = "成熟",
     Farming_Ready_to_harvest = "丰收",
     -- farming info text
@@ -65,3 +65,4 @@ Farming_CN = {
     Farming_Plowed_Land = "耕地",
     Farming_MissingItem = "你需要 %1",
 }
+
