@@ -86,6 +86,7 @@ Moveables_CN = {
     Blue_Theatre_Chair = "蓝色剧院椅",
     Blue_Wall_Locker = "蓝色储物柜",
     Blue_Washing_Machine = "蓝色洗衣机",
+    Blue_Combo_Washer_Dryer = "蓝色烘洗一体机",
     Blue_Zippee_Floor = "蓝色兹裴商店地板",
     Bonsai_Tree = "盆景树",
     Book_Naked_Sign = "成人书刊标牌",
@@ -732,6 +733,9 @@ Moveables_CN = {
 	Fryers_Club_Industrial_2000 = "肯塔鸡2000商用电炸压力灶",
 	Large_Industrial_Sink = "大型工业水槽",
 	Coffee_X_press = "随心咖啡机",
+	Wall_Bin = "垃圾通道",
+	Cinema_Projector = "影院投影机",
+	Dark_Grey_Squares = "深灰色方块地板",
 	
 }
 
