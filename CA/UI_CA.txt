@@ -173,6 +173,7 @@ UI_CA = {
     UI_optionscreen_CycleContainerKey3 = "Control+Shift",
     UI_optionscreen_CycleContainerKey_tt = "Les tecles que cal prémer mentres s'usa la roda del ratolí sobre l'inventari o les llistes de saqueig per a canviar de contenidor.",
     UI_optionscreen_binding_Map = "Fixar mapa",
+    UI_optionscreen_Show_Item_Mod_Info = "Mostrar la informació del mod a l'explicació d'una cosa",
     UI_ConfirmMonitorSettings_Prompt = "Mantindre aquesta configuració de pantalla?",
     UI_ConfirmMonitorSettings_RevertIn = "Retornant en %1 segons.",
     -- Map selecter (lua)
@@ -544,6 +545,7 @@ UI_CA = {
     UI_optionscreen_binding_Toggle Clothing Protection Panel = " Visualitzar panell de protecció de la roba",
     UI_optionscreen_binding_Toggle Info Panel = " Visualitzar panell d'informació",
     UI_optionscreen_binding_Toggle Moveable Panel Mode = " Visualitzar mode de panells mòbils",
+    UI_optionscreen_binding_Audio = "Àudio",
     UI_optionscreen_binding_Toggle Music = " Visualitzar música",
     UI_optionscreen_binding_Take screenshot = " Fer captura de pantalla",
     UI_optionscreen_binding_Toggle Survival Guide = " Visualitzar guia de supervivència",
@@ -770,6 +772,7 @@ UI_CA = {
     UI_WorkshopSubmit_VisibilityPublic = "Públic",
     UI_WorkshopSubmit_VisibilityFriendsOnly = "Només amics",
     UI_WorkshopSubmit_VisibilityPrivate = "Privat",
+    UI_WorkshopSubmit_VisibilityUnlisted = "Fora de llista",
     UI_WorkshopSubmit_OverlayButton = "Obrir Steam Overlay d'aquesta cosa",
     UI_WorkshopSubmit_ItemPreview = "Previsualitzar imatge:",
     UI_WorkshopSubmit_Title3 = "Cosa nova o existent?",
@@ -901,6 +904,7 @@ UI_CA = {
     UI_OnConnectFailed_FailedTCPTest = "Connexió fallida al port de descàrrega de TCP %1",
     UI_OnConnectFailed_CreateQueryUGCDetailsRequest = "Error obtenint els detalls de la cosa del taller",
     UI_OnConnectFailed_ModRequired = "El mod "%1" no està instal·lat",
+    UI_OnConnectFailed_QueueTimeOut = "Excés de temps per a la connexió. El teu client tarda massa en connectar-s'hi.",
     --
     UI_GameLoad_UnexpectedError1 = "Disculpeu, hi ha hagut un error inesperat.",
     UI_GameLoad_UnexpectedError2 = "L'arxiu següent pot contindre informació útil sobre aquest error:",
@@ -1097,6 +1101,7 @@ UI_CA = {
     UI_optionscreen_voiceEnable = "Activar VOIP",
     UI_optionscreen_voiceRecordDevice = "Dispositiu de gravació",
     UI_optionscreen_voiceVADMode = "Mode de detecció de veu",
+    UI_optionscreen_voiceAGCMode = "Mode de control automàtic de guany",
     UI_optionscreen_binding_Voice = " Veu",
     UI_optionscreen_binding_Enable voice transmit = "Tecla prem-per-a-parlar",
     UI_PPT = "Prem-per-a-parlar",
@@ -1106,6 +1111,9 @@ UI_CA = {
     UI_VADMode2_LowBitrate = "Baixa velocitat",
     UI_VADMode3_Aggressive = "Agressiu",
     UI_VADMode4_VeryAggressive = "Molt agressiu",
+    UI_AGCMode1_AdaptiveAnalog = "Analògic adaptatiu",
+    UI_AGCMode2_AdaptiveDigital = "Digital adaptatiu",
+    UI_AGCMode3_FixedDigital = "Digital fixat",
     UI_optionscreen_voiceVolumeMic = "Augment del micròfon",
     UI_optionscreen_voiceVolumeMic_tt = "Augment del volum del micròfon.",
     UI_optionscreen_voiceVolumePlayers = "Volum de la veu",
@@ -1313,10 +1321,6 @@ UI_CA = {
     UI_NewGame_Builder = "Constructor",
     UI_NewGame_Builder_desc = "Enfocat en la construcció, exploració i agricultura. Una experiència més calmada.",
     UI_NewGame_Sandbox_desc2 = "Disenya la teua pròpia dificultat i estil de joc.",
-    UI_News_Anim2 = "<H1> Per fi ha arribat la primera beta de la versió 41 amb multijugador! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> Per a tindre la millor experiència te recomanem FORTAMENT que jugues als servidors amb llista blanca o amb Steam co-op. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Aquesta és una actualització increïblement complexa i som un equip menut. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Per favor, sigues comprensiu mentres el millorem, solucionem i polim. <LINE><LINE> ",
     UI_News_Anim = "<H1> BENVINGUT A LA BETA PÚBLICA DE LA VERSIÓ 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Açò és un treball en progrés de la major actualització de codi que mai ha sofrit PZ. <LINE><LINE> " ..
                     "<CENTRE> Hi trobaràs bugs, errors i problemes d'equilibri. Estem fent millores en l'optimització. <LINE><LINE> " ..
@@ -1324,6 +1328,7 @@ UI_CA = {
                     "<CENTRE> Si tens cap problema: no et sulfures, involucra-t'hi. Fes-nos-ho conéixer en els nostres fòrums.",
     UI_News_Anim3 = "<H1> Benvinguts a la Versió 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Per a tindre la millor experiència jugant amb la multijugador, de moment et recomanem FORTAMENT que jugues amb servidors de llista blanca o amb Steam co-op. <LINE><LINE> " ..
+		    
                     "<CENTRE> <SIZE:large> Encara que la multijugador ha millorat abastament des de la versió 40, continuem polint-la i arreglant-la. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Per favor, sigues comprensiu mentres la millorem, arreglem i polim. <LINE><LINE> ",
     UI_optionscreen_binding_Hotbar 1 = "Arma 1",

@@ -477,5 +477,9 @@ ContextMenu_ES = {
 	ContextMenu_EvolvedRecipe_Sandwich Baguette = "Bocadillo",
 	ContextMenu_EvolvedRecipe_Muffin = "Muffin",
 	ContextMenu_FoodType_Chocolate = "Chocolate",
-	ContextMenu_GetCloser = "Tienes que acercarte a %1.",
+	ContextMenu_GetCloser = "%1 tiene que estar más cerca.",
+	ContextMenu_Furnace_Info = "Información del horno",
+	ContextMenu_LitStoneFurnace = "Encender horno de piedra",
+	ContextMenu_Add_Logs = "Añadir troncos",
+	ContextMenu_Remove_Logs = "Quitar troncos",
 }

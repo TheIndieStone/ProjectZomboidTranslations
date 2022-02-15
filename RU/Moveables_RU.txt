@@ -602,7 +602,7 @@ Moveables_RU = {
 	Wall_Vault = "Банковская ячейка",
 	Wanted_Notices = "Объявления: разыскиваются",
 	Washing_Bin = "Корзина для стирки",
-	Water_Dispenser = "Офисный бойлер",
+	Water_Dispenser = "Офисный кулер",
 	Waterbeach_Hills_Painting = "Картина «Холмы»",
 	Weathered_Notices = "Объявления",
 	Weighing_Scale = "Весы",
@@ -681,6 +681,7 @@ Moveables_RU = {
 	Type_A_Grey_Cubicle = "Серая оф. перегородка, тип A",
 	Type_B_Blue_Cubicle = "Синяя оф. перегородка, тип В",
 	Type_B_Grey_Cubicle = "Серая оф. перегородка, тип В",
+    	Blue_Combo_Washer_Dryer = "Синяя стиральная машина с сушкой",
 	
 	
 	-- ISMoveableSpriteProps names

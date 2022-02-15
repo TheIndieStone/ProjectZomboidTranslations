@@ -1824,4 +1824,5 @@ ItemName_PL = {
     ItemName_Radio.WalkieTalkie4 = "Walkie-talkie taktyczne",
     ItemName_Radio.WalkieTalkie5 = "Walkie-talkie wojskowe",
     ItemName_Radio.WalkieTalkieMakeShift = "Walkie-talkie własnej roboty",
+    ItemName_Base.Sausage = "Kiełbasa",
 }
