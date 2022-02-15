@@ -78,6 +78,7 @@ IGUI_EN = {
     IGUI_ContainerTitle_smallbox = "Box",
     IGUI_ContainerTitle_smallcrate = "Crate",
     IGUI_ContainerTitle_stove = "Oven",
+    IGUI_ContainerTitle_toolcabinet = "Tool Cabinet",
     IGUI_ContainerTitle_vendingGt = "Vending Machine",
     IGUI_ContainerTitle_vendingsnack = "Vending Machine",
     IGUI_ContainerTitle_vendingpop = "Vending Machine",
