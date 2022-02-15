@@ -29,7 +29,7 @@ Challenge_CN = {
     Challenge_Studio_name = "9. 影棚",
     Challenge_Studio_desc = "最好的电影都出自这里！",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "按下'o'键 来花点钱并获得永久加成。",
+	Challenge_Challenge2_PressKey = "按下"o"键 来花点钱并获得永久加成。",
 	Challenge_Challenge2_WaveStart = "第 %1 波： %2 (按 Enter 键跳过)",
 	Challenge_Challenge2_WaveDuration = "第 %1 波： %2",
 	Challenge_Challenge2_ZombiesLeft = "剩余僵尸： %1",
