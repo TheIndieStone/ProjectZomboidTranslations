@@ -1264,6 +1264,7 @@ ItemName_RU = {
 	ItemName_farming.TomatoSeed = "Семена томата",
 	ItemName_farming.TomatoBagSeed = "Пачка семян томата",
 	ItemName_Base.Tongs = "Щипцы",
+    	ItemName_Base.KitchenTongs = "Кухонные щипцы",
 	ItemName_Base.Toolbox = "Ящик для инструментов",
 	ItemName_Base.Bag_Toolbox_LHand = "Ящик для инструментов",
 	ItemName_Base.Bag_Toolbox_RHand = "Ящик для инструментов",
@@ -1835,6 +1836,9 @@ ItemName_RU = {
     	ItemName_Base.LicoriceBlack = "Черная лакрица",
     	ItemName_Base.LicoriceRed = "Красная лакрица",
     	ItemName_Base.Painauchocolat = "Шоколатин",
+    	ItemName_Base.Peppermint = "Мята",
+    	ItemName_Base.Perogies = "Вареники",
+    	ItemName_Base.PotatoPancakes = "Драники",
 
 
 }

@@ -258,6 +258,7 @@ IGUI_RU = {
 	IGUI_Gametime_zombiesCount = "Вы убили %1 зомби.",
 	IGUI_Gametime_zombieCount = "Вы убили %1 зомби.",
 	IGUI_FoodNaming = "%2 (%1)",
+	IGUI_FoodTemperatureNaming = "%2 (%1)",
 	IGUI_ItemNaming = "%2 (%1)",
 	IGUI_ItemNameTaintedWater = "%1 (не для питья)",
 	IGUI_ItemNameControllerLinked = "%1 (соединено)",
@@ -1571,6 +1572,7 @@ IGUI_RU = {
 	IGUI_SearchMode_Categories_Clothing = "Одежда",
 	IGUI_SearchMode_Categories_Medical = "Медицинские вещи",
     	IGUI_SearchMode_Categories_MedicinalPlants = "Лекарственные растения",
+    	IGUI_SearchMode_Categories_WildPlants = "Дикие растения",
 	--SearchMode Vision Effects Tooltip
 	IGUI_SearchMode_Vision_Effect_Title = "Эффективность поиска: ",
 	IGUI_SearchMode_Vision_Effect_Radius = "Радиус поиска: ",

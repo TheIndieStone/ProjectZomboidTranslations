@@ -961,7 +961,7 @@ UI_RU = {
 	UI_ServerOption_LogLocalChat_tooltip = "Отображать местные разговоры в окне чата (только игроки рядом видят его).",
 	UI_ServerOption_Mods_tooltip = "Введите ID загружаемого мода здесь. Его можно найти в \Steam\steamapps\workshop\modID\mods\названиеМода\info.txt",
 	UI_ServerOption_Map_tooltip = "Войдите в папку с модом, которую найдёте в \Steam\steamapps\workshop\modID\mods\modName\media\maps\",
-	UI_ServerOption_MaxPlayers_tooltip = "Максимальное количество игроков, которые могут находиться на сервере одновременно, исключая Админов. Steam позволяет максимум 126 игроков.",
+	UI_ServerOption_MaxPlayers_tooltip = "Максимальное количество игроков, которые могут находиться на сервере одновременно, исключая Админов. <br>ВНИМАНИЕ: Пожалуйста учтите, что количество игроков на сервере выше 32-х может привести к плохой прогрузке карты и рассинхронизации.",
 	UI_ServerOption_PingFrequency_tooltip = "Время между каждым пингом клиента в секундах.",
 	UI_ServerOption_PingLimit_tooltip = "Ограничение пинга в миллисекундах перед тем, как быть кикнутым с сервера. (Установите 100, чтобы отключить)",
 	UI_ServerOption_NoFireSpread_tooltip = "Если включено, то огонь не распространяется (зомби всё равно могут распространять огонь).",
@@ -997,7 +997,7 @@ UI_RU = {
 	UI_ServerOption_SafetyToggleTimer_tooltip = "Время необходимое игроку, чтобы войти или выйти из режима ПВП.",
 	UI_ServerOption_SafetyCooldownTimer_tooltip = "Временная задержка входа в режим ПВП. Тем самым запрещает очень часто входить и выходить из данного режима.",
 	UI_ServerOption_SteamScoreboard_tooltip = "Отображать Steam профили и аватары в Списке Игроков. Может быть включено ((true) всем), выключено ((false)(не видно никому))или Админ ((admin)видно только администраторам).",
-	UI_ServerOption_HoursForLootRespawn_tooltip = "Сколько часов зона должна быть вне видимости, чтобы в ней появились предметы. Опция песочницы «ПОЯВЛЕНИЕ НОВЫХ ПРЕДМЕТОВ» игнорируется.",
+	UI_ServerOption_HoursForLootRespawn_tooltip = "По истечении X часов, весь лут в контейнерах снова появился. Чтобы появился лут появился, контейнер должен быть обчищен хотя бы один раз. Появление лута не зависит от видимости.",
 	UI_ServerOption_MaxItemsForLootRespawn_tooltip = "Если контейнеры не свободны (количество предметов выше чем указано), то респавна предметов не будет.",
 	UI_ServerOption_ConstructionPreventsLootRespawn_tooltip = "Предметы не будут появляться в тех зонах, где живут игроки.",
 	UI_ServerOption_ItemNumbersLimitPerContainer_tooltip = "Максимальное количество предметов, которые можно поместить в контейнер. Ноль означает без ограничений.",
@@ -1452,9 +1452,14 @@ UI_RU = {
     UI_DisplayOptions_Clock = "Часы",
     UI_DisplayOptions_RenderingAndPerformance = "Рендеринг и производительность",
     UI_DisplayOptions_Language = "Язык",
+    UI_MaxPlayers_Notification = "Сервер на 32+ игроков. Потенциально нестабильно.",
 	UI_characreation_resettraits = "УДАЛИТЬ ХАРАКТЕРИСТИКИ",
 	UI_optionscreen_ShowSurvivalGuide = "Показывать руководство при запуске",
 	    UI_optionscreen_InventoryContainerSize = "Размер кнопки контейнера в инвентаре",
+    UI_servers_showLargeServer = "Показать сервера с большим количеством игроков",
+    UI_servers_showLargeServer_warning = "<H1> ВАЖНОЕ ОБЪЯВЛЕНИЕ <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> "..
+                                         "<CENTRE> <SIZE:large> Сервера с более чем 32 игроками могут потенциально привести к плохой прогрузке карты и рассинхронизации. Играйте на свой страх и риск. <LINE><LINE> " ..
+                                         "<CENTRE> <SIZE:large> Пожалуйста, будьте терпеливы, пока мы исправляем, полируем и делаем игру лучше. <LINE><LINE> ",
 
     UI_BadWordCheck = "Были использованы слова, буквы или фразы - %1, которые не могут быть использованы при создании сервера. Пожалуйста, повторите попытку.",
 }
