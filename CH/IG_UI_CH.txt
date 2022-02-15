@@ -142,6 +142,7 @@ IG_UI_CH = {
     IGUI_ContainerTitle_smallbox = "盒子",
     IGUI_ContainerTitle_smallcrate = "箱子",
     IGUI_ContainerTitle_stove = "烤爐",
+    IGUI_ContainerTitle_toolcabinet = "工具櫃",
     IGUI_ContainerTitle_vendingGt = "自動販賣機",
     IGUI_ContainerTitle_vendingpop = "自動販賣機",
     IGUI_ContainerTitle_vendingsnack = "自動販賣機",
