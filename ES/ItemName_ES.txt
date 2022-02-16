@@ -1873,4 +1873,8 @@ ItemName_ES = {
 	ItemName_Base.LicoriceBlack = "Regaliz negro",
 	ItemName_Base.LicoriceRed = "Regaliz rojo",
 	ItemName_Base.Painauchocolat = "Napolitana de chocolate",
+	ItemName_Base.Perogies = "Pierogis",
+	ItemName_Base.PotatoPancakes = "Tortitas de patata",
+	ItemName_Base.KitchenTongs = "Pinzas de cocina",
+	ItemName_Base.Peppermint = "Caramelo de menta",
 }
