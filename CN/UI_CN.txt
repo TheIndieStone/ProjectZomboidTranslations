@@ -100,7 +100,7 @@ UI_CN = {
 	UI_optionscreen_inventory_font = "容器字体",
 	UI_optionscreen_tooltip_font = "说明字体",
 	UI_optionscreen_InventoryContainerSize = "物品栏容器按钮大小",
-	UI_optionscreen_clock_format = "时钟格式",  
+	UI_optionscreen_clock_format = "时钟格式",
 	UI_optionscreen_clock_month_day = "月/日",
 	UI_optionscreen_clock_day_month = "日/月",
 	UI_optionscreen_clock_Size = "时钟显示尺寸",
@@ -175,7 +175,7 @@ UI_CN = {
 	UI_optionscreen_CycleContainerKey_tt = "在物品栏或战利品列表上滚动鼠标滚轮时按住循环键,以便在容器之间循环.",
 	UI_optionscreen_binding_Map = "切换地图",
 	UI_optionscreen_Show_Item_Mod_Info = "在物品提示中显示模组信息",
-	UI_optionscreen_ShowSurvivalGuide = "启动时显示生存指南",	
+	UI_optionscreen_ShowSurvivalGuide = "启动时显示生存指南",
 	UI_ConfirmMonitorSettings_Prompt = "保留这些屏幕设置吗?",
 	UI_ConfirmMonitorSettings_RevertIn = " %1 秒后恢复设置.",
 	-- Map selecter (lua)
@@ -928,10 +928,10 @@ UI_CN = {
 	UI_ValidationFailed_Type7 = "检测到格式错误的数据包.类型：7.",
 	UI_ValidationFailed_Type8 = "检测到格式错误的数据包.类型：8.",
 	UI_Policy_Ban = "你已被此服务器禁止进入",
-	UI_Policy_Kick = "你已被踢出此服务器",	
+	UI_Policy_Kick = "你已被踢出此服务器",
 	--
 	UI_GameLoad_UnexpectedError1 = "很抱歉,客户端发生了未知的意外错误,按下Esc或点击鼠标左键退出.",
-	UI_GameLoad_UnexpectedError2 = "以下文件可能会包含有关此错误的详细信息:",										 
+	UI_GameLoad_UnexpectedError2 = "以下文件可能会包含有关此错误的详细信息:",
 	UI_GameLoad_HowToExit = "按下ESC键或鼠标左键退出游戏.",
 	UI_GameLoad_MapDownloadFailed = "无法从服务器下载地图.",
 	UI_GameLoad_KickChecksum = "你被踢出了服务器,因为你的游戏文件与服务器不匹配.",
@@ -1080,7 +1080,7 @@ UI_CN = {
 	UI_ServerOption_SafehouseAllowRespawn_tooltip = "设置玩家死亡后是否在已设定的安全屋内重生.",
 	UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "设置玩家存活几天后才可设置安全屋.",
 	UI_ServerOption_SafeHouseRemovalTime_tooltip = "自动移除超过设置时间(现实世界)没有上线玩家的安全屋.",
-	UI_ServerOption_UPnP_tooltip = "启用UPnP网关,并自动配置端口转发规则.<br>如果失败,服务器将退回到默认端口",																		
+	UI_ServerOption_UPnP_tooltip = "启用UPnP网关,并自动配置端口转发规则.<br>如果失败,服务器将退回到默认端口",
 	UI_ServerOption_VoiceEnable_tooltip  = "如果为启用,则启用VOIP.",
 	UI_ServerOption_VoiceMinDistance_tooltip = "可以听到 VOIP 声音的最小距离.默认为 10",
 	UI_ServerOption_VoiceMaxDistance_tooltip  = "可以听到 VOIP 声音的最大距离.默认为 30.",
@@ -1186,7 +1186,7 @@ UI_CN = {
 	UI_ServerOptionDesc_StartStorm = "在服务器上开始风暴.使用 /startstorm "duration",可选是游戏时间",
 	UI_ServerOptionDesc_StopWeather = "停止服务器上的天气",
 	UI_ServerOptionDesc_Thunder = "使用 /thunder "username",用户名是可选的,除了来自服务器控制台",
-	UI_ServerOptionDesc_Lightning = "使用 /lightning "username",用户名是可选的,服务器控制台除外",											 
+	UI_ServerOptionDesc_Lightning = "使用 /lightning "username",用户名是可选的,服务器控制台除外",
 	UI_ServerOptionDesc_ReloadOptions = "重新加载服务器上的选项(ServerOptions.ini)并将它们同步至客户端",
 	UI_ServerOptionDesc_BanUser = "封禁玩家,命令:/banuser /"用户名/" -ip -r /"封禁原因/",示例:/banuser /"rj/" -ip -r /"恶意破坏/"",
 	UI_ServerOptionDesc_UnBanUser = "解封玩家,命令:/unbanuser /"用户名/"",
@@ -1446,9 +1446,7 @@ UI_CN = {
 	UI_DisplayOptions_Language = "语言",
 	UI_MaxPlayers_Notification = "服务器超过32人将可能导致地图错乱和不同步现象,请控制人员数量.",
 	
-	
-	------- remove??? ------
-
+	--41.66 remove?--
 	UI_ServerOption_PingFrequency_tooltip  = "客户端向服务器发送ping包的时间,以秒为单位.",
 	UI_ServerOption_SteamPort1_tooltip  = "Steam的UDP端口,必须为启用Steam的服务器转发此端口.",
 	UI_ServerOption_SteamPort2_tooltip  = "Steam的第二个UDP端口,目前尚未使用.",
@@ -1470,3 +1468,4 @@ UI_CN = {
 	UI_ServerOption_nightlengthmodifier_tooltip = "控制夜间的黑暗程度.  1.0=正常黑暗, 0.0=明亮.",
 	UI_ServerOptionDesc_NightModifier = "设置夜间长度调节器,1.0 = 正常,0.5 = 一半,0.0 = 无夜晚.使用:/nightlengthmodifier",
 }
+
