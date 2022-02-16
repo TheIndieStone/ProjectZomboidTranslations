@@ -146,6 +146,7 @@ IG_UI_IT = {
     IGUI_ContainerTitle_smallbox = "Scatola",
     IGUI_ContainerTitle_smallcrate = "Cassa",
     IGUI_ContainerTitle_stove = "Forno",
+	IGUI_ContainerTitle_toolcabinet = "Armadietto degli attrezzi",
     IGUI_ContainerTitle_vendingGt = "Distributore automatico",
     IGUI_ContainerTitle_vendingpop = "Distributore automatico",
     IGUI_ContainerTitle_vendingsnack = "Distributore automatico",

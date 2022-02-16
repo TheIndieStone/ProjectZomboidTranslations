@@ -1,0 +1,38 @@
+MakeUp_FI = {
+    MakeUpCategory_Eyes = "Silmät",
+    MakeUpCategory_EyesShadow = "Luomiväri",
+    MakeUpCategory_FullFace = "Koko naama",
+    MakeUpCategory_Lips = "Huulet",
+
+    MakeUpType_EyesCrow = "Varis",
+    MakeUpType_EyesRedStripes1 = "Punaiset raidat 1",
+    MakeUpType_EyesRedStripes2 = "Punaiset raidat 2",
+    MakeUpType_EyesCamo1 = "Camo 1",
+    MakeUpType_EyesCamo2 = "Camo 2",
+    MakeUpType_EyesCamoStripes = "Raidat",
+    MakeUpType_EyesFootball = "Jalkapallo",
+
+    MakeUpType_EyeShadowWhite = "Valkoinen luomiväri",
+    MakeUpType_EyeShadowLightBlue = "Vaaleansininen luomiväri",
+    MakeUpType_EyeShadowBlue = "Sininen luomiväri",
+    MakeUpType_EyeShadowRed = "Punainen luomiväri",
+    MakeUpType_EyeShadowPink = "Pinkki luomiväri",
+    MakeUpType_EyeShadowGreen = "Vihreä luomiväri",
+    MakeUpType_EyeShadowYellow = "Keltainen luomiväri",
+
+    MakeUpType_FullFaceCamo1 = "Täysi Camo 1",
+    MakeUpType_FullFaceCamo2 = "Täysi Camo 2",
+    MakeUpType_FullFaceWarrior = "Soturi",
+    MakeUpType_FullFaceClown1 = "Pelle 1",
+    MakeUpType_FullFaceClown2 = "Pelle 2",
+    MakeUpType_FullFaceSkull1 = "Kallo 1",
+    MakeUpType_FullFaceSkull2 = "Kallo 2",
+
+    MakeUpType_LipsRed = "Punainen huulipuna",
+    MakeUpType_LipsLightBlue = "Vaaleansininen huulipuna",
+    MakeUpType_LipsBlue = "Sininen huulipuna",
+    MakeUpType_LipsBlack = "Musta huulipuna",
+    MakeUpType_LipsGreen = "Vihreä huulipuna",
+    MakeUpType_LipsPink = "Vaaleanpunainen huulipuna",
+}
+
