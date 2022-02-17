@@ -78,6 +78,7 @@ IGUI_CN = {
 	IGUI_ContainerTitle_smallbox = "盒子",
 	IGUI_ContainerTitle_smallcrate = "板条箱",
 	IGUI_ContainerTitle_stove = "烤炉",
+	IGUI_ContainerTitle_toolcabinet = "工具柜",
 	IGUI_ContainerTitle_vendingGt = "自动售货机",
 	IGUI_ContainerTitle_vendingsnack = "自动售货机",
 	IGUI_ContainerTitle_vendingpop = "自动售货机",
