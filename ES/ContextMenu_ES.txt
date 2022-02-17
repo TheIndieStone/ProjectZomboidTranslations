@@ -482,4 +482,6 @@ ContextMenu_ES = {
 	ContextMenu_LitStoneFurnace = "Encender horno de piedra",
 	ContextMenu_Add_Logs = "Añadir troncos",
 	ContextMenu_Remove_Logs = "Quitar troncos",
+	ContextMenu_ComboWasherDryer_SetModeWasher = "Modo de configuración: Lavadora",
+	ContextMenu_ComboWasherDryer_SetModeDryer = "Modo de configuración: Secadora",
 }

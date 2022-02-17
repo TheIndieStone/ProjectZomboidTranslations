@@ -698,4 +698,8 @@ Moveables_ES = {
 	Metal_Drum = "Bidón de metal",
 	Large_Rental_Shelves = "Large Rental Shelves",
 	Small_Rental_Shelves = "Small Rental Shelves",
+	Blue_Combo_Washer_Dryer = "Blue Combo Washer/Dryer",
+	Animal_Trough = "Animal Trough",
+	Childrens_Play_Castle = "Childrens Play Castle",
+	Red_Mobile_Tool_Cabinet = "Red Mobile Tool Cabinet",
 }
