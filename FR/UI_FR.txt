@@ -243,7 +243,7 @@ UI_FR = {
     UI_News_Anim3 = "    UI_News_Anim3 = "<H1> Bienvenue sur le Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> Afin de profiter de la meilleure expérience possible sur le multijoueur, nous vous recommendons FORTEMENT de jouer sur des serveurs avec liste blanche ou en Co-op. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Même si Multijoueur a été grandement amélioré depuis le Build 40, Nous continuons de l'améliorer et de le corriger. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Merci de votre compréhension. <LINE><LINE> "",
+                    "<CENTRE> <SIZE:large> Merci de votre compréhension. <LINE><LINE>",
     UI_No = "Non",
     UI_None = "Aucun",
     UI_Off = "Désactivé",
