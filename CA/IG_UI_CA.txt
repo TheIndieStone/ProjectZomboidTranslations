@@ -78,6 +78,7 @@ IGUI_CA = {
     IGUI_ContainerTitle_smallbox = "Caixa",
     IGUI_ContainerTitle_smallcrate = "Caixó",
     IGUI_ContainerTitle_stove = "Forn",
+    IGUI_ContainerTitle_toolcabinet = "Armari de ferramentes",
     IGUI_ContainerTitle_vendingGt = "Màquina expenedora",
     IGUI_ContainerTitle_vendingsnack = "Màquina expenedora",
     IGUI_ContainerTitle_vendingpop = "Màquina expenedora",
