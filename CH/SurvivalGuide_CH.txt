@@ -92,7 +92,7 @@ SurvivalGuide_CH = {
                                      " 當倖存者找到東西時會出現箭頭指向物品. 隨著角色接近並確認物品, 頭上會出現眼睛圖示. <LINE> <LINE>" ..
                                      " 雙擊找到的物品來撿起它. 右鍵點擊來顯示更多撿起的選項. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> IMPROVING YOUR SEARCHING <TEXT> <BR> " ..
+                                     " <SIZE:medium> <CENTRE> 加強搜索能力 <TEXT> <BR> " ..
                                      " 使用瞄準往四周察看並蹲下都可以增加搜索半徑. 暗度, 不良天氣, 技能, 物品大小, 負面情緒 (壓力, 受傷, 等) 都會影響物品的可見度. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> 重要!<TEXT> <BR> " ..
