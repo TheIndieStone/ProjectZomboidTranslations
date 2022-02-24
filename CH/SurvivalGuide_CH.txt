@@ -1,7 +1,7 @@
 SurvivalGuide_CH = {
 	SurvivalGuide_WindowTitle = "ZOMBOID 生存指南",
 	SurvivalGuide_entrie1title = "#1 - 基礎",
-	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 若你不打算深吸口氣並好好學習基礎的話, 你是活不久的.",
+	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 若你不打算深吸口氣 <BR> 並好好學習基礎的話, 你是活不久的.",
 	SurvivalGuide_entrie1moreinfo = " <H1> 移動 <BR> <TEXT> 要在 Project Zomboid 裡四處移動的話, 使用 WASD 鍵. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
                                     "<LINE> <H1> 戰鬥 <BR> <TEXT> 要攻擊敵人, 先按住右鍵或是 <SPACE><KEY:Aim><SPACE> 來瞄準, 再按左鍵進行攻擊. 若沒有裝備武器, 你只能夠用手推敵人 (若有裝備武器時, 你也可以按 <SPACE><KEY:Melee><SPACE> 來推敵人) . <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 你所瞄準的目標地點總是面向立體游標, 也就是地面上那個接近你滑鼠游標的白色圓圈. 若想要查看更進階的戰鬥資訊, 請至第 3 頁. <BR> "..
                                     "<LINE> <H1> 情緒圖示 <BR> <TEXT> 畫面右上方有時會出現的小圖示叫做情緒圖示. 這些圖示讓你可以很快地了解你目前的狀態. 將滑鼠移至它們上方來查看更多細節. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
@@ -49,7 +49,7 @@ SurvivalGuide_CH = {
                                     " <H1> 採集 <BR> <TEXT> 點擊畫面左上方的放大鏡, 並使用 '搜索模式' 來尋找莓果, 石頭, 木枝與其它更有用的物品. <BR> 當 '眼睛' 圖示顯示於你的頭上時, 你可以透過看向正確的方向來找到特定半徑內的物品. 你的技能等級, 你所在的位置, 照明等級等都會影響採集的搜索半徑. 要了解更多與採集相關的資訊的話, 請至此指南的第 11 頁, 或者點擊搜索視窗左上角的資訊圖示. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
 	SurvivalGuide_entrie8title = "#8 - 精明搜刮",
-	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 精明搜刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速且有效率地管理你的物品欄不僅能節省時間 - 還能延長性命!",
+	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 精明搜刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速且有效率地管理你的物品欄 <BR> 不僅能節省時間 - 還能延長性命!",
 	SurvivalGuide_entrie8moreinfo = " <H1> 選取 <BR> <TEXT> 那麼在 Project Zomboid 中, 你該如何翻找, 拿取, 丟下, 使用各種物品呢? 最主要的方式是透過拖放, 或者使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
                                     " 按住左 SHIFT 能夠選取多個物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者, 何不試試看用滑鼠拉出一個選取方框呢? <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
                                     " 雙擊拾取視窗內的物品能夠快速拿取, 或者你也可以點擊你選取物品右方的選單按鈕. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  如果你興奮到想要拿走所有容器內的東西的話, 你也可以使用 '拾取全部' 按鈕. <LINE> "..
@@ -63,7 +63,7 @@ SurvivalGuide_CH = {
 			                        " <BR> <KEY:Toggle&nbsp;Search&nbsp;Mode><SPACE> : 開關採集搜索模式.",
 
     SurvivalGuide_entrie9title = "#9 - 車輛",
-    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!引擎聲會吸引遙遠距離外的屍群...",
+    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!  <BR> 引擎聲會吸引遙遠距離外的屍群...",
     SurvivalGuide_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在門上, 發動孔內, 或者手套箱裡. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手? 把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
                                     " <H1> 開車上路 <BR> <TEXT> 點擊發動孔來插入鑰匙, 再點擊儀表板上的引擎圖示 (或按 N) 來發動引擎. 或者, 你也可以按前進鍵 <SPACE><KEY:Forward><SPACE> 來發動. <BR> 如果車輛的引擎狀況不好, 也許第一次發動不會成功. 如果不管怎麼樣也發動不了的話, 也許車子沒油了, 最好檢查機工視窗... <BR> 小心開車!車子越大聲, 就會吸引越大範圍內的殭屍跟過來...  <BR> " ..
                                     " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 車輛的儀表板上顯示許多有用的資訊, 例如油量, 速度, 與 RPM. <BR> 儀表板上的圖示也會告訴你引擎狀況, 或者車廂是否打開, 頭燈是否運作正常, 等等. <BR> " ..
@@ -92,7 +92,7 @@ SurvivalGuide_CH = {
                                      " 當倖存者找到東西時會出現箭頭指向物品. 隨著角色接近並確認物品, 頭上會出現眼睛圖示. <LINE> <LINE>" ..
                                      " 雙擊找到的物品來撿起它. 右鍵點擊來顯示更多撿起的選項. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> IMPROVING YOUR SEARCHING <TEXT> <BR> " ..
+                                     " <SIZE:medium> <CENTRE> 加強搜索能力 <TEXT> <BR> " ..
                                      " 使用瞄準往四周察看並蹲下都可以增加搜索半徑. 暗度, 不良天氣, 技能, 物品大小, 負面情緒 (壓力, 受傷, 等) 都會影響物品的可見度. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> 重要!<TEXT> <BR> " ..
