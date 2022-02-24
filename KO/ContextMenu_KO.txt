@@ -499,4 +499,10 @@ ContextMenu_KO = {
     ContextMenu_FoodType_Chocolate = "초콜릿",
     ContextMenu_EvolvedRecipe_Sandwich Baguette = "샌드위치",
     ContextMenu_FoodType_Rice = "쌀",
+	ContextMenu_Add_Logs = "통나무 추가하기",
+    ContextMenu_ComboWasherDryer_SetModeWasher = "기능 선택: 세탁",
+    ContextMenu_ComboWasherDryer_SetModeDryer = "기능 선택: 건조",
+	ContextMenu_LitStoneFurnace = "석조 용광로",
+	ContextMenu_Remove_Logs = "통나무 제거하기",
+	ContextMenu_Furnace_Info = "용광로 정보",
 }
