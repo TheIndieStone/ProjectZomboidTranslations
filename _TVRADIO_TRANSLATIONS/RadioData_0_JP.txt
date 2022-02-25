@@ -3043,7 +3043,7 @@
 	b1c616d4-6f2b-4e4d-9b5b-c05f25c8f2da = イギリスのノーフォーク、ロンドン。
 	
 	//1011. ORIGINAL: Newcastle, England.
-	f0df88b0-d188-49ba-bb1d-34d18d0b4980 = 並びに、ニューキャッスル。
+	f0df88b0-d188-49ba-bb1d-34d18d0b4980 = 並びに、ニューカッスル。
 	
 	//1012. ORIGINAL: Mogadishu, Somalia - in Africa.
 	ddadff76-360b-4d99-9f41-a0e1504bb4c1 = アフリカのソマリアの、モガディシュ。
@@ -3505,10 +3505,10 @@
 	f02eb3a3-d5d2-4b75-b642-272ddf577823 = マズいよな。
 	
 	//1165. ORIGINAL: You can smell it in the air.
-	ffe9cad0-5810-4fae-850c-9cb888cebc27 = 雰囲気で分かるだろ。
+	ffe9cad0-5810-4fae-850c-9cb888cebc27 = 臭いが漂ってる。
 	
 	//1166. ORIGINAL: Something's smelled bad for weeks, it gets into your lungs.
-	a19825aa-07f3-471c-b9af-0d897e8b57e0 = この何週間何かがおかしい、あんたも気づいてるよな。
+	a19825aa-07f3-471c-b9af-0d897e8b57e0 = この何週間も臭うから、あんたの肺にも侵入してる。
 	
 	//1167. ORIGINAL: That's what's behind it.
 	a5150226-538a-42a6-b65c-c3ca786c6b9b = 裏に何かがある。
@@ -4303,7 +4303,7 @@
 	e0d30e24-38ca-43d3-a67f-14e651105005 = これはテロリズム。テロリズムだというのが私の考え。
 	
 	//1431. ORIGINAL: They've been coming for us for years.
-	b61bd1ad-17df-4237-8c45-343da7812e26 = 奴らは何年もかけてやって来た。
+	b61bd1ad-17df-4237-8c45-343da7812e26 = 奴らは何年も前から私たちを狙っていた。
 	
 	//1432. ORIGINAL: This is their moment.
 	c7e3b476-4037-4ebd-90d8-a53ac87d1bd8 = これは始まりにすぎないの。
@@ -8977,10 +8977,10 @@
 	776cfc09-6101-4fe4-8192-96be888add67 = ミスフォールドしたタンパク質、プリオンが答えなのです。その脳内物質が食物連鎖に回帰しているのです。
 	
 	//2989. ORIGINAL: These prions have been building up in countless generations of cattle.
-	af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = これらのタンパク質が、何世代にも渡って牛に蓄積されてきました。
+	af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = これらのタンパク質が、数えきれないほど何世代にも渡って牛に蓄積されてきました。
 	
 	//2990. ORIGINAL: This is quite clearly a neurological disorder.
-	c615c381-d028-4520-9653-4ec8f73a7b3d = 今回の事件は、明らかに神経障害です。
+	c615c381-d028-4520-9653-4ec8f73a7b3d = 今回の事件は、明らかに神経学的な障害です。
 	
 	//2991. ORIGINAL: You think this is linked to the Mad Cow crisis?
 	5c7e245c-1b95-4e60-b0c2-be49eaa0b075 = この事件は狂牛病の危機が関連しているとお考えでしょうか?
@@ -9508,40 +9508,40 @@
 	cc4e1c82-813b-47ad-8944-6051800e5253 = 私たちは全ての足枷から解放されることでしょう。
 	
 	//3166. ORIGINAL: How you doing? Welcome back to the Cook show!
-	f17f9259-0ab3-4928-9390-09e068ffc18f = 調子はどう? Cook Showへようこそ!
+	f17f9259-0ab3-4928-9390-09e068ffc18f = 調子はどう? Cook Showへおかえり!
 	
 	//3167. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware.
-	28f9b202-f015-43e5-a6bb-84e9822bcd25 = Kitten Knivesは、アメリカ製の素晴らしい料理道具です。
+	28f9b202-f015-43e5-a6bb-84e9822bcd25 = Kitten Knivesは、アメリカの高級調理器具です。
 	
 	//3168. ORIGINAL: Let's quit fooling around!
 	50f68741-dfdb-4c53-96f1-720b66080a17 = 長話はここまで!
 	
 	//3169. ORIGINAL: You know why we're here..
-	e33fd4a1-9667-4e67-825e-0ba5cf43c568 = 私たちがここにいる理由が分かるよね...
+	e33fd4a1-9667-4e67-825e-0ba5cf43c568 = 私たちがここにいる理由は...
 	
 	//3170. ORIGINAL: Cake!
 	cb326038-5384-469a-b8d3-e9163dcce967 = ケーキ!
 	
 	//3171. ORIGINAL: First you need a batter - take a bowl and mix in...
-	f035ab6e-45c4-4572-919c-7b7b31210b6d = まず必要なのはインパクト。ボウルに入れてかき混ぜるのは...
+	f035ab6e-45c4-4572-919c-7b7b31210b6d = まず最初に必要な、ボウルに入れてかき混ぜるのは...
 	
 	//3172. ORIGINAL: Flour! Butter! Sugar! Egg! Yeast! Milk!
 	5bd3ba61-8cbb-46fc-8056-f3ac787a35aa = 小麦粉! バター! 砂糖! 卵! 酵母! 牛乳!
 	
 	//3173. ORIGINAL: You get all that?
-	c48a1eee-caca-405d-b38f-a17fc423d263 = 全部用意した?
+	c48a1eee-caca-405d-b38f-a17fc423d263 = これで全部ね?
 	
 	//3174. ORIGINAL: Add it all into a Baking Pan and... add some flavor.
-	7bca042a-b269-416f-97d3-813d82f48323 = それをベーキングパンに入れて... 風味を少し足そう。
+	7bca042a-b269-416f-97d3-813d82f48323 = それをベーキングパンに入れて... 風味を加えよう。
 	
 	//3175. ORIGINAL: Today I'm using banana, berries...
-	3824fb45-d8d5-4463-ad1c-83f74824d660 = 今日はバナナ、ベリー...
+	3824fb45-d8d5-4463-ad1c-83f74824d660 = 今日はバナナとベリーを使って...
 	
 	//3176. ORIGINAL: And a squeeze of lemon.
-	a0bdfc7c-bc61-4dc1-9829-e8aef411b8b9 = あとレモンの絞り汁を使いましょ。
+	a0bdfc7c-bc61-4dc1-9829-e8aef411b8b9 = あとレモンを絞ってみたわ。
 	
 	//3177. ORIGINAL: Then into the oven, and leave to get delicious!
-	5e29b81b-d45c-4fec-9a60-0e857843d364 = それからオーブンに入れて、美味しく食べよう!
+	5e29b81b-d45c-4fec-9a60-0e857843d364 = それからオーブンに入れて、美味しくなるまで放置!
 	
 	//3178. ORIGINAL: Can't beat that smell, huh?
 	85f20595-35a8-46be-a89b-83701bfa4db0 = この香り最高だと思わない?
@@ -9550,7 +9550,7 @@
 	da30d9a5-9fed-4116-af1d-67d22a60c36e = また明日!
 	
 	//3180. ORIGINAL: Y'all are watching Woodcraft!
-	C = みんなが見ているのはWoodcraftだ!
+	d363f154-086a-44c8-bf79-db09bfa3299c = みんなが見ているのはWoodcraftだ!
 	
 	//3181. ORIGINAL: Your one stop shop for home improvement!
 	207759c5-e89e-421e-bc89-61170ee4ba03 = より良い家にするための、なんでも屋さんだ!
@@ -9619,22 +9619,22 @@
 	00c08fac-3e3e-4be4-adfa-e74671a5f5ac = [img=music] Wood... craft! [img=music]
 	
 	//3203. ORIGINAL: Welcome back to Exposure Survival guys.
-	1ccbd6ed-40a5-4659-b6bf-2f35f0915dde = 皆さん、Exposure Survivalへようこそ。
+	1ccbd6ed-40a5-4659-b6bf-2f35f0915dde = 皆さん、Exposure Survivalへおかえりなさい。
 	
 	//3204. ORIGINAL: I'm Dean and I'm goin' back to nature.
 	4d751882-f643-42b4-a1d7-ba2fddc434f8 = 僕はディーンです。自然に帰ってきました。
 	
 	//3205. ORIGINAL: Okay so here's the deal.
-	4a3ec703-ece6-47e6-8004-0453558b03d4 = さて、ここで私からの条件です。
+	4a3ec703-ece6-47e6-8004-0453558b03d4 = さて、ここからが本題です。
 	
 	//3206. ORIGINAL: You're a long way from home.
-	f6056be4-2d46-4024-8f12-a4a3aba823ee = あなたは家から遠く離れています。
+	f6056be4-2d46-4024-8f12-a4a3aba823ee = あなたは家から遠く離れた場所にいます。
 	
 	//3207. ORIGINAL: You're hungry, you're lost, you're alone.
 	86c4eae6-91fb-4ba4-a503-543d41d608a4 = 遭難し空腹になり、あなた1人しかいません。
 	
 	//3208. ORIGINAL: Life isn't all... Coke Floats and laughing it up.
-	87be4172-cfa1-45a2-8aa8-c37444ad2df4 = 人生は... 笑いやアイスクリームコーヒーが全てではありませんよ。
+	87be4172-cfa1-45a2-8aa8-c37444ad2df4 = 人生は... 笑いやアイスクリームコーヒーがすべてではありませんよ。
 	
 	//3209. ORIGINAL: Find a river that's jumping with fish.
 	c1ee98c8-e7d0-46aa-84f6-e9c2341f39fa = 魚が飛び跳ねている川を見つけてください。
@@ -9649,7 +9649,7 @@
 	e2a87468-49a6-4ed7-86a9-d8f2ec26fee5 = このように...
 	
 	//3213. ORIGINAL: And use a paperclip on the end to snag those fish.
-	8bea8acf-6f00-4a38-8f62-dc96dd73e3f4 = そして最後にクリップを使い、獲物を引っ掛けて釣ります。
+	8bea8acf-6f00-4a38-8f62-dc96dd73e3f4 = そして先端にクリップをつけて、獲物を引っ掛けて釣ります。
 	
 	//3214. ORIGINAL: Now if you're a smart-arse, you're saying:
 	b5466d25-25f2-4450-8a5f-69cc5895b5ed = もしあなたが切れ者ならば、こう言うでしょう:
@@ -9658,10 +9658,10 @@
 	a23769e9-1aa8-4afd-8a13-01401eca0917 = 「ねえディーンさん、どこからクリップが出てきたの?」
 	
 	//3216. ORIGINAL: I always carry a paperclip guys, and so should you.
-	eff1b184-fc08-4c16-b51a-7a46a3b8a8a1 = 僕はいつもクリップを持ち歩いています、あなたも持ち歩くべきです。
+	eff1b184-fc08-4c16-b51a-7a46a3b8a8a1 = 僕はいつもクリップを持ち歩いています、あなたもそうするべきです。
 	
 	//3217. ORIGINAL: It's the first thing they teach in the Army.
-	0da8d741-ccc6-4b08-90ec-3c60002425af = 軍では最初に教えることです。
+	0da8d741-ccc6-4b08-90ec-3c60002425af = 軍では最初に教わることですからね。
 	
 	//3218. ORIGINAL: Until next time guys.
 	9b777b3d-0369-4b1c-ae28-dec646df769e = 皆さん、ではまた次回。
@@ -9670,16 +9670,16 @@
 	7dea7ccd-9896-4937-bcff-d0fe9bf97b99 = 皆様、またお会いしましたね、Cook Showです。
 	
 	//3220. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware
-	cbc81305-9643-4602-8686-425aaae53aed = Kitten Knivesはアメリカがもたらした素晴らしい調理器具です。
+	cbc81305-9643-4602-8686-425aaae53aed = Kitten Knivesは、アメリカの高級調理器具です。
 	
 	//3221. ORIGINAL: Today's the day for a nourishing Chicken and Noodle soup.
-	01d55321-a94c-4b63-b442-4951a6535df0 = 今日は栄養価の高い鶏肉とラーメンの日よ。
+	01d55321-a94c-4b63-b442-4951a6535df0 = 今日は栄養たっぷりのチキンとヌードルスープね。
 	
 	//3222. ORIGINAL: I don't know about you, but a good Chicken soup?
-	18f2d508-0c09-41d7-9c2a-7660a3a311bd = あなたついては知らないけど、鶏肉のスープは好きだよね?
+	18f2d508-0c09-41d7-9c2a-7660a3a311bd = あなたはどうか知らないけど、美味しいチキンスープは好き?
 	
 	//3223. ORIGINAL: It solves everything.
-	686820ce-1ff5-495b-a146-deaca79b41fa = 鶏肉のラーメンは全てを解決してくれる。
+	686820ce-1ff5-495b-a146-deaca79b41fa = 全てを解決してくれるのよ。
 	
 	//3224. ORIGINAL: Nourishing, mood-lifting...
 	16102657-fb87-419d-ae7e-bd6d9b975625 = 栄養補給、気分転換...
@@ -9688,25 +9688,25 @@
 	ba88efb8-6046-4b62-ba0b-a85346f7d459 = 実家のお母さんの味って感じ?
 	
 	//3226. ORIGINAL: To start, you need some cooked chicken.
-	b31bcd26-273a-42e4-be83-0f6dbc362e6a = 始めるには、調理済みの鶏肉が必要ね。
+	b31bcd26-273a-42e4-be83-0f6dbc362e6a = まず、調理済みの鶏肉が必要ね。
 	
 	//3227. ORIGINAL: Broil, fry, bake - your choice.
 	08ad0333-2e95-4a1e-846e-fd5155b26712 = 炙る、揚げる、焼くかはあなたの自由。
 	
 	//3228. ORIGINAL: Then get yourself a pot of water.
-	ce21bffc-3873-45a2-a161-e534d548138a = それから、水が入った鍋を自分で用意して。
+	ce21bffc-3873-45a2-a161-e534d548138a = そして、鍋に水を用意しよう。
 	
 	//3229. ORIGINAL: Add it in, bring to the boil and add...
-	0fc5302f-8b25-48d5-8525-4fdcbada5d5d = 調理済みの鶏肉を入れて、沸騰させて...
+	0fc5302f-8b25-48d5-8525-4fdcbada5d5d = さっきのやつを入れて沸騰させて、さらに...
 	
 	//3230. ORIGINAL: Bell Pepper, Onion, Potato...
-	303298cd-2ea0-4568-ab6d-6852e93dc253 = ピーマン、タマネギ、ジャガイモを入れて...
+	303298cd-2ea0-4568-ab6d-6852e93dc253 = ピーマン、タマネギ、ジャガイモ...
 	
 	//3231. ORIGINAL: Don't matter if anything's getting stale.
 	7045520e-d6a1-40e3-a166-cad0e00ed5de = 古い食材でも大丈夫。
 	
 	//3232. ORIGINAL: Soup fixes everything.
-	6929e73c-f6d7-46db-b08c-014af1ca9299 = スープは全てを帳消しにしてくれるから。
+	6929e73c-f6d7-46db-b08c-014af1ca9299 = スープはすべてを帳消しにしてくれるから。
 	
 	//3233. ORIGINAL: Then don't forget those dry ramen noodles and...
 	c13613c6-ced4-4d1b-b565-f5c385f99875 = それから、一番肝心な乾燥インスタントラーメンと...
@@ -9715,10 +9715,10 @@
 	48b062d1-e3e9-4a8e-b54c-6288289e552b = 胡椒を少々。
 	
 	//3235. ORIGINAL: Bam! Chicken and Noodle soup.
-	533c0a62-b452-48d6-bb6a-2b3a0b66585d = バン! 鶏肉とラーメンのできあがり。
+	533c0a62-b452-48d6-bb6a-2b3a0b66585d = バン! チキンとヌードルスープのできあがり。
 	
 	//3236. ORIGINAL: Guaranteed to lighten a rainy day.
-	a5f5d607-9e38-4853-9842-f860c85355a9 = 気分が晴れやかになると保証するわ。
+	a5f5d607-9e38-4853-9842-f860c85355a9 = 気分が晴れやかになるって保証するわ。
 	
 	//3237. ORIGINAL: See y'all tomorrow!
 	67f2417d-cba8-4e2d-8870-0f31b0124a17 = また明日!
@@ -9763,34 +9763,34 @@
 	d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86 = 皆さん、Exposure Survivalへようこそ。
 	
 	//3251. ORIGINAL: This is a show that'll teach you the basics of outdoor life.
-	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = これは屋外生活の基本を教える番組です。
+	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = あなたにアウトドアライフの基本を教える番組です。
 	
 	//3252. ORIGINAL: But before we get to survival - lets nail the basics.
-	47678484-cd61-4e31-b818-fad7262e80cb = しかし生き残る前に、基礎を固めましょう。
+	47678484-cd61-4e31-b818-fad7262e80cb = しかし、サバイバルに入る前に基礎を固めておきましょう。
 	
 	//3253. ORIGINAL: Let's fish.
-	1ced94ac-bf3d-4595-807f-2f5f4170493f = では釣りをしましょう。
+	1ced94ac-bf3d-4595-807f-2f5f4170493f = 釣りをしましょう。
 	
 	//3254. ORIGINAL: Now I'm sure you've got your rod...
-	33b32f34-f359-482c-8f10-47ec8f84566e = 今あなたは竿を持っているとします...
+	33b32f34-f359-482c-8f10-47ec8f84566e = さて、あなたは竿を持っているとします...
 	
 	//3255. ORIGINAL: But then: bait.
 	13b70353-12dd-4185-9bee-21626b593d56 = そうは言っても餌が必要です。
 	
 	//3256. ORIGINAL: What bait should you get?
-	e6d3084e-b437-4e29-9614-7112f23933be = 何の餌を付けるべきでしょうか?
+	e6d3084e-b437-4e29-9614-7112f23933be = 何の餌を用意すればいいのでしょうか?
 	
 	//3257. ORIGINAL: Well worms are common, right?
-	dcfe96b8-c582-474c-9384-a80f8b505342 = まあ、ミミズが一般的ですよね?
+	dcfe96b8-c582-474c-9384-a80f8b505342 = ミミズが一般的でしょうか。
 	
 	//3258. ORIGINAL: So dig, and get a bunch.
-	977cb9da-ab0c-492b-babf-adcc23f4d59c = では地面を掘って、見つけたら針に刺してください。
+	977cb9da-ab0c-492b-babf-adcc23f4d59c = では地面を掘って、たくさん取ってください。
 	
 	//3259. ORIGINAL: Or there's lures, or maybe smaller fish - ey?
 	8161a6b6-2819-42f6-a942-035f9e2aea74 = もしくは、ルアーや小さな魚でも代用できますよ。
 	
 	//3260. ORIGINAL: Find your river, cast the line - wait a while.
-	4f5b5625-32cb-4162-9b54-c342cd37baeb = 川を探します、釣り糸を垂らします、しばらく待ってください。
+	4f5b5625-32cb-4162-9b54-c342cd37baeb = 川を見つけて、釣り糸を垂らし、しばらく待ってください。
 	
 	//3261. ORIGINAL: Job done.
 	96b96624-9826-41b3-b41a-3167cd9af168 = これで完了です。
@@ -9826,22 +9826,22 @@
 	0b7679b9-6578-4a17-aaa9-eb53ae5ef81a = 私の家族はアウトドア派。
 	
 	//3272. ORIGINAL: So my refrigerator can get kinda interesting.
-	580204b5-8bf4-402f-98ec-d3735b073632 = だから私の冷蔵庫の中身が面白いことになってるの。
+	580204b5-8bf4-402f-98ec-d3735b073632 = だから私の冷蔵庫の中身は、ちょっと面白いことになってるの。
 	
 	//3273. ORIGINAL: One thing I can cook - and cook mighty fine - is rabbit.
-	005f58ac-903b-4694-bc5b-28c4e85f0d12 = ウサギを調理する時はとても気分が良いわ。
+	005f58ac-903b-4694-bc5b-28c4e85f0d12 = その中の1つ、ウサギは私も調理できるしとても美味しいの。
 	
 	//3274. ORIGINAL: Now rabbit's a light flavor, so in today's stew...
-	b536fa5a-62f2-4045-a899-49e4385194ea = でも、ウサギは風味が薄い、だから今日のシチューは...
+	b536fa5a-62f2-4045-a899-49e4385194ea = ウサギは淡白な味だから今日のシチューは...
 	
 	//3275. ORIGINAL: We're gonna back it up with bacon.
-	1f87e2b8-7a7e-4f76-8567-97673ce9acc8 = ベーコンに助けを借りよう。
+	1f87e2b8-7a7e-4f76-8567-97673ce9acc8 = ベーコンの助けを借りよう。
 	
 	//3276. ORIGINAL: Everyone likes bacon, huh?
-	0187b55e-5f3b-46bd-8bd0-6fef8184a22f = みんなはベーコンはお好き?
+	0187b55e-5f3b-46bd-8bd0-6fef8184a22f = みんなベーコンは好きでしょ?
 	
 	//3277. ORIGINAL: Cook your rabbit meat, add to a pot of water then...
-	8dce6f6f-0281-4137-bcdd-c68d923dfc24 = あなたのウサギの肉を調理するね、水が入った鍋を用意して...
+	8dce6f6f-0281-4137-bcdd-c68d923dfc24 = 下処理したウサギの肉と、水が入った鍋を用意して...
 	
 	//3278. ORIGINAL: Throw in your bacon, your tomato, your onion...
 	666e502f-eef9-4df1-bd77-c34a74cd64f5 = あなたのベーコン、あなたのトマト、あなたのタマネギを投げ入れて...
@@ -9853,13 +9853,13 @@
 	1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9 = それから、私だったら風味付けに塩をちょっと入れちゃうよ。
 	
 	//3281. ORIGINAL: Seventy minutes on high heat will do ya.
-	8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0 = 高温で70分間煮詰めよう。
+	8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0 = 強火で70分間煮詰めよう。
 	
 	//3282. ORIGINAL: Bam! Looks good, huh?
-	978b7301-fe57-4561-bbfc-eaee8130f154 = バン! 良い感じじゃない?
+	978b7301-fe57-4561-bbfc-eaee8130f154 = バン! 美味しそうでしょ?
 	
 	//3283. ORIGINAL: Split into four bowls, or two if you're hungry.
-	e31cd106-bdfd-4528-8f90-32b6483db250 = 4つのボウルに分けるよ、お腹が空いていたら2つにして多めでも良いね。
+	e31cd106-bdfd-4528-8f90-32b6483db250 = 4つのボウルに分けるよ、お腹が空いていたら2つでも良いね。
 	
 	//3284. ORIGINAL: See y'all tomorrow.
 	80365889-9ba0-4056-8cb4-fa76f41d3b92 = じゃあまた明日。
@@ -9913,22 +9913,22 @@
 	54467c55-8b17-4861-9560-6fa3b6802f7d = それは椅子だ! 見逃すなよ!
 	
 	//3301. ORIGINAL: I'm Dean and we're goin' back to nature.
-	aca869a0-bb3e-4895-be1e-c075720a85d0 = 私はディーン、自然に帰ってきました。
+	aca869a0-bb3e-4895-be1e-c075720a85d0 =　ディーンです、私たちは自然に帰るのです。
 	
 	//3302. ORIGINAL: So you're a million miles from civilization, right?
-	e7a81556-30c1-4212-8d2e-8507d693ead1 = そして、あなたは文明から何千kmも離れていると仮定します、いいですか?
+	e7a81556-30c1-4212-8d2e-8507d693ead1 = そして、あなたは文明から100万マイルも離れた場所にいるわけですよね?
 	
 	//3303. ORIGINAL: You've got a camp.
 	56d27802-e9ac-4fa1-861a-55d091dc08c3 = あなたはキャンプをしています。
 	
 	//3304. ORIGINAL: You've got a water supply.
-	0b5ac31b-32d9-4be3-9c69-29e900107f4d = 給水設備はあります。
+	0b5ac31b-32d9-4be3-9c69-29e900107f4d = 水は手に入れています。
 	
 	//3305. ORIGINAL: But you're in for the long haul.
-	8ebdc86d-7ae5-4036-81b6-1b48ea023ae5 = ですが、長くは生活できません。
+	8ebdc86d-7ae5-4036-81b6-1b48ea023ae5 = ですが長い目で見てください。
 	
 	//3306. ORIGINAL: Let's Robinson Crusoe! Right?
-	47f643b5-3423-4bde-b50e-762ab4b96069 = そこで、ロビンソン・クルーソーです! いいですね?
+	47f643b5-3423-4bde-b50e-762ab4b96069 = ロビンソン・クルーソーをしましょう! いいですね?
 	
 	//3307. ORIGINAL: Time to farm.
 	3e67beca-7ec8-43d8-817f-7e6246305821 = 耕作のお時間です。
@@ -9937,7 +9937,7 @@
 	030ea125-3258-4226-9766-1d36dac0ecd2 = 種が無ければ何の意味もありません、では種を見つけましょう。
 	
 	//3309. ORIGINAL: Take a trowel.
-	d5a7a459-120c-46d2-915a-84ba1453d013 = 移植ごてを手に取ります。シャベルでも良いですが... 素手はオススメできませんね。
+	d5a7a459-120c-46d2-915a-84ba1453d013 = ハンドシャベルを手に取ります。シャベルでも良いですが... 素手はオススメできません。
 	
 	//3310. ORIGINAL: Dig some earth.
 	04b62f42-6c22-4dfb-88e2-e7051614cb69 = 少し地面を掘ります。
@@ -9949,7 +9949,7 @@
 	c7e0a365-1610-477d-865d-1268d0588a22 = 水をあげ続けてください、踏んではいけませんよ...
 	
 	//3313. ORIGINAL: ...and watch the sky.
-	a71c6b8f-9db6-46c9-8411-c2f6a2098e13 = ...あと、雨の様子を見てください。
+	a71c6b8f-9db6-46c9-8411-c2f6a2098e13 = ...あとは、空の様子を見てください。
 	
 	//3314. ORIGINAL: You're at the mercy of the elements here.
 	40f82a39-1039-458d-b95c-690497e00f5e = そこは自然に任せましょう。
@@ -9985,7 +9985,7 @@
 	281289a5-de51-4005-9cd6-c279c762cc34 = 今すぐ、かかりつけ医に相談してください。
 	
 	//3325. ORIGINAL: Now, I stood on the scales the other day. .
-	fc89eb09-6ed8-4d34-a175-19b234f583fc = ところでついこの間の話なんだけど、体重計の上に乗ってみたの。
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = ところで、ついこの前の話なんだけど、体重計に乗ってみたの。
 	
 	//3326. ORIGINAL: I got a shock people!
 	99f46cc4-9931-4216-a556-876151731454 = もうびっくりよ!
@@ -9997,7 +9997,7 @@
 	78945f53-354c-4ae2-a6a5-e67160bf6c79 = それに相応しいのは、サラダ・スペシャルよ!
 	
 	//3329. ORIGINAL: Just cause there's leaves, don't mean you'll heave.
-	7e4fbfd1-b736-4971-865b-9950e0db132c = ちゃんとした葉っぱを用意、投げやりじゃなくてよ。
+	7e4fbfd1-b736-4971-865b-9950e0db132c = 投げやりじゃなくて、ちゃんとした葉っぱを用意。
 	
 	//3330. ORIGINAL: Take a bowl - and as a base throw in some lettuce.
 	97f3d925-0d4c-48f0-b2f4-0e95f4909601 = ボウルを手にとって、レタスを何枚か底に敷く。
@@ -10015,13 +10015,13 @@
 	13e9fac4-189c-494e-9d94-de6bdd692c0e = バン!
 	
 	//3335. ORIGINAL: Light and delicious!
-	e1275fb7-1124-4c78-ab93-aa34bc70778e = 食べやすくて美味しいね! 
+	e1275fb7-1124-4c78-ab93-aa34bc70778e = 健康的で美味しいね! 
 	
 	//3336. ORIGINAL: Just don't leave it too long huh?
-	86536db4-09dd-4971-b423-3c382f9c9909 = あと、保存期間はあまり長くないからね?
+	86536db4-09dd-4971-b423-3c382f9c9909 = ただ、あまり長く放置しないでね?
 	
 	//3337. ORIGINAL: Can't wait to hand this out to the team here!
-	ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a = これをみんなに渡すのが待ちきれないわ!
+	ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a = これをみんなに渡すのが待ちきれない!
 	
 	//3338. ORIGINAL: We're at intermediary level still and...
 	2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6 = 俺たちはまだ中級編だが...
@@ -10117,43 +10117,43 @@
 	ade87393-e60f-4677-a43a-8ed67a311547 = $49.99に不満な人はいないですよね? 今直ぐお電話を!
 	
 	//3369. ORIGINAL: You're back with the Cook Show!
-	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = Cook Showへようこそ!
+	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = お待たせしましたCook Showへ!
 	
 	//3370. ORIGINAL: Today, we're gettin' a taste of Asia - with a frying pan.
-	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = 今日は、フライパンでアジアの風味を出すわ。
+	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = 今日は、フライパンでアジアの味を堪能するわ。
 	
 	//3371. ORIGINAL: Now, minding you don't cut yourself with this...
-	2eafacda-b10d-4b76-98cb-df605ee56082 = そうね、スーパー尖ったKitten Knivesで...
+	2eafacda-b10d-4b76-98cb-df605ee56082 = そうね、切れ味抜群のKitten Knivesで...
 	
 	//3372. ORIGINAL: Super sharp Kitten Knife.
-	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = 手を切らないようにしてね。
+	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = 怪我をしないように気をつけてね。
 	
 	//3373. ORIGINAL: Cut your pork to pieces and throw it into fry.
-	f39c4529-1e48-4153-86d7-acada2c63689 = 豚肉は切ってから揚げよう。
+	f39c4529-1e48-4153-86d7-acada2c63689 = 豚肉を適当な大きさに切って、フライパンに入れよう。
 	
 	//3374. ORIGINAL: Then add in some fresh vegetables.
 	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = それから、新鮮な野菜を入れよう。
 	
 	//3375. ORIGINAL: I'm using onion to start, then Bell Pepper and Eggplant.
-	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = タマネギから始めて、それからピーマンとナスも。
+	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = 最初にタマネギから、それからピーマンとナスも。
 	
 	//3376. ORIGINAL: If you're hungry then try it out with some noodles.
 	0098df83-551b-4c76-a1e5-845646fcfdcb = お腹が空いているのなら、ラーメンでも試してみてね。
 	
 	//3377. ORIGINAL: See? Cooking can be fun and easy.
-	b8dd565e-5918-4d83-b087-f0f54df9ac99 = 分かった? 料理は楽しくて簡単なの。
+	b8dd565e-5918-4d83-b087-f0f54df9ac99 = ほらね? 料理は楽しく、簡単にできる。
 	
 	//3378. ORIGINAL: And it's always healthy.
-	844cc720-8fd6-4e1c-9b57-5969a3e14b02 = そして、いつも健康でいられる。
+	844cc720-8fd6-4e1c-9b57-5969a3e14b02 = しかも、いつもヘルシー。
 	
 	//3379. ORIGINAL: Puts a smile on your face and...
-	0c708785-44c8-4d78-b573-d899a134c412 = 顔に笑顔が現れてきたようね...
+	0c708785-44c8-4d78-b573-d899a134c412 = 笑顔になれるし...
 	
 	//3380. ORIGINAL: A spring in your step too!
-	5513ee36-c70b-4ce8-b61c-d2d9c5b6bddb = あなたの実力にも春がきたわ!
+	5513ee36-c70b-4ce8-b61c-d2d9c5b6bddb = そして足取りも軽くなる!
 	
 	//3381. ORIGINAL: Now you have a great day!
-	c43d17b7-a0d1-4d43-bf58-0a5498612f42 = それでは素晴らしい1日を!
+	c43d17b7-a0d1-4d43-bf58-0a5498612f42 = それでは素晴らしい一日を!
 	
 	//3382. ORIGINAL: Well hey! Y'all just caught me working out!
 	a79671d6-18b7-43cf-8336-bcb536ef8b14 = おやおや! 鍛えているところを君たちに見られたな!
@@ -10204,34 +10204,34 @@
 	1006b8b3-c428-4b98-bdb5-bb575549b919 = バンッ、バンッ、淑女の皆さん、 そしてイィィヤッホオォー!
 	
 	//3398. ORIGINAL: Welcome back to Exposure Survival.
-	046f3a29-112e-48d5-a4ce-8182bfcabf0a = Exposure Survivalへようこそ。
+	046f3a29-112e-48d5-a4ce-8182bfcabf0a = Exposure Survivalへおかえり。
 	
 	//3399. ORIGINAL: I'm Dean guys, and I'm back with nature.
-	54ce5b00-9903-4661-92b2-02230c24ad76 = 私はディーンです、自然に帰ってきました。
+	54ce5b00-9903-4661-92b2-02230c24ad76 = 皆さん私はディーンです、自然に帰ってきました。
 	
 	//3400. ORIGINAL: Alright so you're closing in on Everest Base Camp.
-	d27641c5-0573-442b-9f9c-537dd9b5cc6f = そうですね、あなたはエベレストのベースキャンプにいるとします。
+	d27641c5-0573-442b-9f9c-537dd9b5cc6f = そうですね、あなたはエベレストのベースキャンプの近くにいます。
 	
 	//3401. ORIGINAL: But it's getting dark.
 	1838e0b1-f471-4cce-88f8-c72573f89f73 = しかし、空が暗くなってきました。
 	
 	//3402. ORIGINAL: It's cold as hell, and oxygen isn't there.
-	f6e390bc-6e80-475a-9e52-19d7743dfef9 = 地獄のように寒くて、そこには酸素もありません。
+	f6e390bc-6e80-475a-9e52-19d7743dfef9 = 地獄のように寒さで息苦しく、酸素も足りていません。
 	
 	//3403. ORIGINAL: What do you do? You build a fire!
-	7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c = あなたは何をしますか? 火を起こすのです!
+	7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c = あなたはどうしますか? 火を起こすのです!
 	
 	//3404. ORIGINAL: Take three pieces of wood - planks maybe
 	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = 丸太を3本ほど集めましょう。木材でも大丈夫です。
 	
 	//3405. ORIGINAL: Then you need fuel. Anything that burns.
-	645eb206-000b-499f-a452-b0000ab14c53 = それから燃料が必要です。何か燃える物です。
+	645eb206-000b-499f-a452-b0000ab14c53 = それから燃料が必要です。燃える物なら何でも構いません。
 	
 	//3406. ORIGINAL: Old newspaper, books, bandages.
 	15e22dfd-2295-484b-ab82-811828ceaeac = 古新聞、本、包帯。
 	
 	//3407. ORIGINAL: Add a bit of the old rocket fuel... get it, ey?
-	939dbae3-6db4-40a2-b4d9-18882f81fba2 = 古いロケット燃料も入れましょう... 手に入れたらの話ですよ?
+	939dbae3-6db4-40a2-b4d9-18882f81fba2 = 古いロケット燃料も少し加えて... 手に入れたらの話ですよ?
 	
 	//3408. ORIGINAL: And flick your lighter like... this...
 	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = そして、ライターをつけてください... このように...
@@ -10243,7 +10243,7 @@
 	9f872cad-40d4-474e-88c1-2b15ff386069 = 暖かくなって、シェルパの人も喜びますね!
 	
 	//3411. ORIGINAL: Big shout out to the 42nd!
-	8498f3bc-0e70-422a-8c4d-1dca706f14cc = 四十二番街に感謝しましょう!
+	8498f3bc-0e70-422a-8c4d-1dca706f14cc = The 42ndに大きな拍手を!
 	
 	//3412. ORIGINAL: Until next time guys!
 	ec3ecb39-e84d-42fd-bb38-6257446cc92a = 皆さん、またお会いしましょう!
@@ -10282,43 +10282,43 @@
 	c1e5ae2c-31d8-4f9f-a89c-b19249c8a4b1 = どうも。またお会いしましたね。Cook Showです!
 	
 	//3424. ORIGINAL: Now I hear it all the time - why so simple?
-	eb63a55a-d500-41cf-90ad-851e9041c215 = さて、なぜこんなに簡単なのですか? って質問されるの。
+	eb63a55a-d500-41cf-90ad-851e9041c215 = さて、私はよく「なぜこんなに簡単なのですか?」 って質問されるの。
 	
 	//3425. ORIGINAL: I tell you why so simple...
-	7f8cc3e2-8a99-4618-87d0-da2f326340ce = なんでこんなに簡単なのか教えるわ...
+	7f8cc3e2-8a99-4618-87d0-da2f326340ce = その理由をお話ししましょう...
 	
 	//3426. ORIGINAL: I want to make healthy cooking as easy as...
-	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = Pizza WhirledやSpiffo'sの行列で座って待つだけのような...
+	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = 私は健康的な料理を簡単にしたいと思ってて...
 	
 	//3427. ORIGINAL: ...standing in line at Spiffos' or sittin' in Pizza Whirled.
-	9b784828-ffa8-4735-bfb5-7c220501b804 = ...簡単で健康的な料理を作りたいの。
+	9b784828-ffa8-4735-bfb5-7c220501b804 = ...Spiffo'sやPizza Whirledの行列を待って座るぐらい簡単にしたいの。
 	
 	//3428. ORIGINAL: Now I love a BLT.
-	7ec30333-076d-490e-a761-fed0cdfe33d9 = そうね、私はBLTが大好きなの。
+	7ec30333-076d-490e-a761-fed0cdfe33d9 = そうね、私はBLTが大好き。
 	
 	//3429. ORIGINAL: That's a Bacon, Lettuce and Tomato sandwich.
-	1c250bfa-5e0a-4b64-af85-5b1f39c04747 = ベーコン、レタス、トマトのサンドイッチの略よ。
+	1c250bfa-5e0a-4b64-af85-5b1f39c04747 = ベーコン、レタス、トマトのサンドウィッチ。
 	
 	//3430. ORIGINAL: It's God's Gift to bread.
-	d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449 = 神様のパンへの贈り物だわ。
+	d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449 = パンへの神様からの贈り物だわ。
 	
 	//3431. ORIGINAL: So let's make one together!
-	47c60ee5-afa9-4819-897d-eaccb2ed8959 = じゃあ、一緒に作ろう!
+	47c60ee5-afa9-4819-897d-eaccb2ed8959 = じゃあ、一緒に作ってみよう!
 	
 	//3432. ORIGINAL: First - you cook up that bacon.
-	09683445-71e0-4c98-9cdc-3d7ea76aa54d = 最初に、ベーコンを調理するよ。
+	09683445-71e0-4c98-9cdc-3d7ea76aa54d = 最初はベーコンを焼こう。
 	
 	//3433. ORIGINAL: I like mine crispy as all heck, but do it to your liking.
-	1479d319-a621-44e6-abe0-ab561e0445fc = 私はシャキシャキした食感が好きだけど、自分の好みに合わせてね。
+	1479d319-a621-44e6-abe0-ab561e0445fc = 私はカリカリに焼くのが好きだけど、そこはお好みで。
 	
 	//3434. ORIGINAL: Then take your bread, and add in that bacon.
-	43030225-2881-431f-a553-7ba7cf4d8173 = それから、パンを手にとってベーコンを挟もう。
+	43030225-2881-431f-a553-7ba7cf4d8173 = それから、パンにベーコンを挟もう。
 	
 	//3435. ORIGINAL: Then tomato and your lettuce.
 	320d9059-11e3-4770-b42a-71d76ec10bd4 = あと、トマトとレタスも。
 	
 	//3436. ORIGINAL: Not too much lettuce.
-	90ba018c-d084-4646-b163-5b6793f69e43 = レタスは多くても多すぎることは無いわ。
+	90ba018c-d084-4646-b163-5b6793f69e43 = レタスは多すぎない程度に。
 	
 	//3437. ORIGINAL: And bam! Easy as that!
 	69a2eeef-e405-431d-a3eb-15127c386fc2 = そしてバンッ! 簡単だったね!
@@ -10327,13 +10327,13 @@
 	b3d9ee68-773b-4a22-ab5f-14e4a82e6314 = まるでママが作ったみたい!
 	
 	//3439. ORIGINAL: And if you want to be a bit more decadent? One word:
-	e83866e4-3ec9-4295-8be1-7401989760a1 = あと、もう少し健康に気を使わなくても良いのだったら? これよ。
+	e83866e4-3ec9-4295-8be1-7401989760a1 = あと、もうちょっと贅沢にしたい時は? これよ:
 	
 	//3440. ORIGINAL: Meat patty!
 	832e055a-65f1-431e-9ef5-a421a1b249af = ミートパテ!
 	
 	//3441. ORIGINAL: I make mine with an egg to hold it all together!
-	7b661604-8164-4946-a886-f42371a86cf2 = 好みで卵を入れても良いわ!
+	7b661604-8164-4946-a886-f42371a86cf2 = 私は卵でとじちゃう!
 	
 	//3442. ORIGINAL: Who can resist a juicy burger?
 	bc59ce51-6383-44d2-a749-691fb14dfdd4 = ジューシーなハンバーガーに勝てる人はいるのかしら?
@@ -10342,52 +10342,52 @@
 	5abcfcda-7c0b-4532-811e-59aafe63a983 = みんな、また明日!
 	
 	//3444. ORIGINAL: We're there! Advanced Carpentry! Yee-hah!
-	f29576b6-134f-407b-b586-fde1aa1bc770 = やあみんな! 大工仕事の上級編だ! ヒイィーハァー!
+	f29576b6-134f-407b-b586-fde1aa1bc770 = ついに来たぞ! 大工仕事の上級編だ! イィヤッホー!
 	
 	//3445. ORIGINAL: Now I broke my bed last week.
 	f154a2c3-cd16-439c-87e0-aa84548abc76 = ところで、先週俺はベッドを壊しちまった。
 	
 	//3446. ORIGINAL: I'll spare you the details, as y'all would blush.
-	ced05294-7426-4a29-ad90-48572f61bbb2 = 話の内容は、出し惜しみはしないぜ。
+	ced05294-7426-4a29-ad90-48572f61bbb2 = 詳細は割愛するぜ、みんなの顔が赤くなるからな。
 	
 	//3447. ORIGINAL: I needed a new place to rest my head, and I needed it quick.
-	21934aeb-45d9-4cd4-8ce2-32a81e09329f = 俺は頭を休めるために新しい場所が必要だった。できるだけ早く。
+	21934aeb-45d9-4cd4-8ce2-32a81e09329f = 頭を休める新しい場所が必要だった。できるだけ早くな。
 	
 	//3448. ORIGINAL: So what did I do? I'll show you!
-	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = じゃあ俺は何をしていたのか、お見せしよう!
+	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = で、俺はどうしたか、お見せしよう!
 	
 	//3449. ORIGINAL: Let's build a bed ladies! Let's do it now!
-	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = 奥さん、ベッドを作りましょう! たった今からです!
+	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = 淑女の方々、ベッドを作りましょう! 今からです!
 	
 	//3450. ORIGINAL: Six planks! Four nails! One mattress!
 	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = 木板を6枚! 釘を4本! マットレスを1枚!
 	
 	//3451. ORIGINAL: Bang! Bang! Yee-hah!
-	7c465766-f93d-4cf9-9345-93c087861712 = バンッ! バンッ! ヒイィーハァー!
+	7c465766-f93d-4cf9-9345-93c087861712 = バンッ! バンッ! イィヤッホー!
 	
 	//3452. ORIGINAL: Yee-hah!
-	fb743edb-7220-4b3e-811e-5c22499b9c50 = ヒイィーハァー!
+	fb743edb-7220-4b3e-811e-5c22499b9c50 = イィヤッホー!
 	
 	//3453. ORIGINAL: And there she is, but the test drive can wait.
-	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = 彼女がいるけど、試さずにはいられないね。
+	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = 淑女の方、試乗は後回しにしましょう。
 	
 	//3454. ORIGINAL: We done the exciting stuff...
-	0071b9ec-3368-4614-9721-b89c7eea9616 = エキサイティングなことをやったけど...
+	0071b9ec-3368-4614-9721-b89c7eea9616 = エキサイティングなことをしましたが...
 	
 	//3455. ORIGINAL: ...but I've also gotta show you how to make a Large Table.
-	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ...でも、君には大きなテーブルの作り方も見せる必要があるね。
+	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ...大きいテーブルの作り方もお見せしなければなりません。
 	
 	//3456. ORIGINAL: It's no bed, and that's for sure.
-	2976889b-47fb-4075-af81-550319e886f4 = ベッドじゃないぞ。
+	2976889b-47fb-4075-af81-550319e886f4 = ベッドじゃないのは確かですよ。
 	
 	//3457. ORIGINAL: Take six planks and four nails.
-	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = 木板を6枚、釘を4本手に取る。
+	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = 木板を6枚、釘を4本手に取って。
 	
 	//3458. ORIGINAL: Neat, huh?
-	7637a703-c2f6-4481-9ddf-6e1c937e28ed = ついて来れてるか?
+	7637a703-c2f6-4481-9ddf-6e1c937e28ed = こんな感じか?
 	
 	//3459. ORIGINAL: Next time: I'm taking y'all upstairs.
-	72bfe800-8f23-4f45-9556-0396734fb084 = 次回:みんなを上に連れて行くぞ。
+	72bfe800-8f23-4f45-9556-0396734fb084 = 次回:みんなを2階に連れて行くぞ。
 	
 	//3460. ORIGINAL: On stairs!
 	9167df6f-9e2c-45cf-a7f8-65614776d17e = 階段で!
@@ -10396,7 +10396,7 @@
 	b92962a6-4166-4a4c-b2da-1cf77fad2103 = また次回!
 	
 	//3462. ORIGINAL: Hey, I'm back with nature and I'm Dean.
-	c2d0fac9-c1c4-4e23-b23b-ff9e51104a48 = どうも、自然に帰ってきました。僕はディーンです。
+	c2d0fac9-c1c4-4e23-b23b-ff9e51104a48 = どうも、自然に帰ってたディーンです。
 	
 	//3463. ORIGINAL: One time I was out in the woods on South Island and...
 	8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3 = 南の島の森へ行ったことが一度ありますが...
@@ -10405,25 +10405,25 @@
 	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = ふと気付くと、僕のテントが無くなっていたのです。
 	
 	//3465. ORIGINAL: Nightmare, ey?
-	4c619e77-239e-4d88-8b8d-84dbe1d23722 = これは悪夢ですよね?
+	4c619e77-239e-4d88-8b8d-84dbe1d23722 = 悪夢ですよね?
 	
 	//3466. ORIGINAL: What I did have was four tent pegs - and four sheets.
-	aeb93f9a-899b-4ee3-8cc9-143153b89993 = 僕はテントペグを4本、シートを4本持っていました。
+	aeb93f9a-899b-4ee3-8cc9-143153b89993 = 持っていたのはテントペグを4本、1枚のタープです。
 	
 	//3467. ORIGINAL: Using a stick I found foraging I built... this.
-	23297493-a224-4874-a624-f07a148705a8 = 採取で見つけた木の棒も用いてこれを... 組み立てました。
+	23297493-a224-4874-a624-f07a148705a8 = 2本の頑丈な棒で作ったのが... これです。
 	
 	//3468. ORIGINAL: Not much, but it's home - or one with fabric walls, ey?
-	ea128bdf-0efa-4242-bb2f-f41b59fad8c2 = 布で作った壁の家も、それほど悪くないですよ。
+	ea128bdf-0efa-4242-bb2f-f41b59fad8c2 = 布で作った壁の家も、それほど悪くはないですよ。
 	
 	//3469. ORIGINAL: Don't get me wrong, it gets cold alright.
-	0f243369-6582-41e6-9b5d-688ce8f49f7e = 誤解しないでください、実際は寒いですよ。
+	0f243369-6582-41e6-9b5d-688ce8f49f7e = 誤解しないでほしいのは、寒いのが現実です。
 	
 	//3470. ORIGINAL: But it keeps out the elements.
-	73781365-fe9e-492e-8a52-c05dc94595e0 = ですが、雨風は防ぎます。
+	73781365-fe9e-492e-8a52-c05dc94595e0 = ですが、雨風は防ぎます。時にはそれで十分なのです。
 	
 	//3471. ORIGINAL: Sometimes that's enough.
-	67d9ef10-3ffc-4065-8bbf-4e1b36f259c1 = 時にはそれで十分なのです。
+	67d9ef10-3ffc-4065-8bbf-4e1b36f259c1 = いざというときは、テントペグではなく、小さな杭を使ってもいいでしょう。
 	
 	//3472. ORIGINAL: We've got a caller! Hi Dean!
 	f2590d4b-839f-4b0b-ba56-d560094b6c5f = 電話が繋がりましたね! どうもディーンさん!
@@ -10462,7 +10462,7 @@
 	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = さて、今日のレシピは私の家族がお気に入りのパイ!
 	
 	//3484. ORIGINAL: And not the sweet cherry pie kind...
-	d5a4b433-df99-4c56-b37c-9c42756fd528 = 普通の甘いサクランボのパイってわけじゃなくて...
+	d5a4b433-df99-4c56-b37c-9c42756fd528 = 普通の甘いサクランボのパイってわけじゃなく...
 	
 	//3485. ORIGINAL: A delicious, hearty and wholesome savory pie...
 	f3d37cf1-c6e4-480d-a6b5-e01aee96be78 = 美味しくて、健康的しかも心のこもったパイ...
@@ -10477,13 +10477,13 @@
 	68fc612e-bf5d-40dd-a345-7f0314894861 = 小麦粉、酵母、砂糖、バターを混ぜ合わせよう。
 	
 	//3489. ORIGINAL: Use all that with your rolling pin...
-	158d96f8-9f48-4f28-809c-cd97a5409876 = 麺棒の全体を使って...
+	158d96f8-9f48-4f28-809c-cd97a5409876 = それを麺棒で伸ばして...
 	
 	//3490. ORIGINAL: That right there is a Pie Preparation!
-	d606fe94-c699-43a3-8260-cfdec2ecbe50 = パイの生地は準備完了!
+	d606fe94-c699-43a3-8260-cfdec2ecbe50 = これはパイの下準備ね!
 	
 	//3491. ORIGINAL: Wrap in your lamb or mutton, your leeks and your carrots.
-	49b860f4-5611-4b14-962e-2e6ffb16c155 = 羊肉を、リーキとニンジンを包むよ!
+	49b860f4-5611-4b14-962e-2e6ffb16c155 = 羊肉とリーキとニンジンを包むよ!
 	
 	//3492. ORIGINAL: And season to taste!
 	30ac0d85-270f-47c4-afa2-bf5aca404f84 = そして好みで味付け!
@@ -10492,49 +10492,49 @@
 	326b2a43-9e96-4001-865c-62c18cf87358 = そして、焼く!
 	
 	//3494. ORIGINAL: This show is real special: it's for the ladies.
-	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = 今回の番組内容は、特別に女性の方に向けて作られているぞ。
+	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = これは淑女の方々に向けられた特別な番組だ。
 	
 	//3495. ORIGINAL: In my experience ladies LOVE stairs!
-	349efa40-ae15-46c6-96bb-3f4114d61309 = 俺の経験では女性は階段を"愛している!"
+	349efa40-ae15-46c6-96bb-3f4114d61309 = 俺の経験だと、淑女の方々は階段を"愛している!"
 	
 	//3496. ORIGINAL: They're smilin' when they go up them...
-	2b54a98e-1358-49e9-8033-3661b2e7d0f2 = 彼女たちは上の階に行く時には微笑んでて...
+	2b54a98e-1358-49e9-8033-3661b2e7d0f2 = 階段を上るときには笑顔になり...
 	
 	//3497. ORIGINAL: ...and they're smilin' more when they come back down.
-	3735f9c6-7588-4492-a061-8a3383c2c0bf = ...そして、降りてきた時はもっと微笑んでいる。
+	3735f9c6-7588-4492-a061-8a3383c2c0bf = ...下りてくるときにはさらに笑顔になる。
 	
 	//3498. ORIGINAL: Yeehah! So what do we need?
-	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = ヒイィーハァー! じゃあ何が必要だんだろうね?
+	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = イィヤッホー! 何が必要だ?
 	
 	//3499. ORIGINAL: Eight planks! Eight nails and an A-D-Vanced knowledge of Car-pen-try!
 	781b56bf-9b2e-455e-9b03-6540c5542ae8 = 木板を8枚! 釘を8本と、高～度～な大～工～仕事の知識だ!
 	
 	//3500. ORIGINAL: Gonna need some more over...Here...
-	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = 階段の一番上にある... 何か良い物に...
+	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = ここには...何か物足りない...
 	
 	//3501. ORIGINAL: What goes good at the top of a flight of stairs?
-	b050eeb9-5e91-4c89-a023-e97a0677354e = 辿り着けたかい?
+	b050eeb9-5e91-4c89-a023-e97a0677354e = 階段の一番上には何が相応しいんだろうな?
 	
 	//3502. ORIGINAL: A table with a drawer in it, right? That make you yee-hah?
-	71137512-25bd-4173-886f-2479778cc093 = テーブルには引き出しがあるよね? ヒイィーハァーしてきた?
+	71137512-25bd-4173-886f-2479778cc093 = 引き出しのついたテーブルだよな? イィヤッホーな気分になったか?
 	
 	//3503. ORIGINAL: Makes me yee-hah anyways.
-	b5edf317-8dc9-42da-b5d4-23c2284bfa69 = とにかくヒイィーハァーってなるよね。
+	b5edf317-8dc9-42da-b5d4-23c2284bfa69 = 俺はイィヤッホーってなったよ。
 	
 	//3504. ORIGINAL: A lady could keep her valuables in it.
-	5132bbcf-64d0-422d-a26e-3c6ca11bc4eb = 奥さんは貴重品を保管することができます。
+	5132bbcf-64d0-422d-a26e-3c6ca11bc4eb = 淑女の方は貴重品をおしまいいただけます。
 	
 	//3505. ORIGINAL: Maybe a bible, maybe a gun.
-	1bad3260-46d1-4047-8574-6ce13254a8eb = 聖書とか、銃もね。
+	1bad3260-46d1-4047-8574-6ce13254a8eb = 聖書とか、銃とかもね。
 	
 	//3506. ORIGINAL: Five planks! Four nails! Go!
 	224cfa55-b945-4883-b436-8bdda1b74b67 = 木板を5枚! 釘を4本! さあ!
 	
 	//3507. ORIGINAL: That's enough for this week, huh?
-	9a3212d2-64ea-4338-a2e1-554c3dad3782 = 今週はもう十分だよね?
+	9a3212d2-64ea-4338-a2e1-554c3dad3782 = 今週はこれくらいでいいか?
 	
 	//3508. ORIGINAL: If you're wantin' more - I'll be upstairs.
-	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = 君がもっと学びたいんだったら、俺は上の階で待ってるよ。
+	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = もっと求めてるのなら - 俺は2階にいるぜ。
 	
 	//3509. ORIGINAL: Hey, it's me. Dean - back with some nature.
 	2f29b7e4-f698-4339-aeb0-653303d4a031 = どうも、僕です。ディーンは自然に帰ってきました。
@@ -10546,19 +10546,19 @@
 	7291af6e-8dea-4011-ab2b-54b48ec9c9e8 = ですが、時には生き残るためにはやむを得ませんよね?
 	
 	//3512. ORIGINAL: Today we're building what I call a 'Wooden Cage Trap'.
-	1886312f-e076-4361-b745-f4e6bc8c9c10 = 今日は、「クレート式の罠」と呼んでいるものを作ります。
+	1886312f-e076-4361-b745-f4e6bc8c9c10 = 今日は「木製のケージトラップ」と呼んでいるものを作ります。
 	
 	//3513. ORIGINAL: It's this cage you build out of wood.
-	3e3dc4ba-124a-4db2-95bd-e64a66f7704c = このクレートは木材で作ります。
+	3e3dc4ba-124a-4db2-95bd-e64a66f7704c = 木で作った檻です。
 	
 	//3514. ORIGINAL: Inside it you trap stuff.
-	21699af6-00ab-43a2-849f-4ec246019801 = 中に罠を仕掛けます。
+	21699af6-00ab-43a2-849f-4ec246019801 = 中に閉じ込めるのです。
 	
 	//3515. ORIGINAL: So right now I'm taking this saw to three planks.
 	e5a10065-d958-4e40-998c-27f9278911ae = では、木板を3枚このようにして切ります。
 	
 	//3516. ORIGINAL: Then, five nails should do you right.
-	4dba4aa0-770f-48c3-9eaa-88623d5bd144 = それから、ちょうど釘を5本?
+	4dba4aa0-770f-48c3-9eaa-88623d5bd144 = あとは釘を5本打てば完成です。
 	
 	//3517. ORIGINAL: Just hammer it all into place...
 	f40ec98e-99cc-4e24-807d-d8e62d6f9e91 = それぞれ金槌で...
@@ -10570,22 +10570,22 @@
 	f9c62c4c-c7b9-430c-8361-1725f3bb0443 = さて、どこか静かな所に行きましょう。
 	
 	//3520. ORIGINAL: Here I am in the woods, and I'm setting down the trap.
-	19040afe-7570-45e2-8101-d338702f8496 = ここは森の中です、そして罠を設置しています。
+	19040afe-7570-45e2-8101-d338702f8496 = ここは森の中です、そして罠を仕掛けています。
 	
 	//3521. ORIGINAL: Just... chuck in some bait like this and get outta there.
-	678c9acd-0d48-4b64-ade3-00e5e1d82854 = ちょうど... このようにいくつか餌を放り投げ、そこから離れてください。
+	678c9acd-0d48-4b64-ade3-00e5e1d82854 = こうやって... いくつか餌を放り投げ、そこから離れてください。
 	
 	//3522. ORIGINAL: When you come back?
 	07800c34-064f-47ab-975e-1160593e38b8 = 戻ってきた時には?
 	
 	//3523. ORIGINAL: Maybe there'll be a little animal guy there.
-	6e49f4b3-8706-413e-a92d-5f03f201eea6 = おそらくそこには小動物が入っているでしょう。
+	6e49f4b3-8706-413e-a92d-5f03f201eea6 = もしかすると、そこには小動物が入っているでしょう。
 	
 	//3524. ORIGINAL: Ready for the pot.
-	45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518 = そして獲物を捕らえましょう。
+	45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518 = 鍋の準備をしましょう。
 	
 	//3525. ORIGINAL: Once you've killed and gutted him anyway.
-	9df26228-fd2d-45b6-94ac-18729eda5d8c = 仕留めさえすれば、もうあなたの思うがままです。
+	9df26228-fd2d-45b6-94ac-18729eda5d8c = 殺してから内臓を取り出せば、もう思うがままです。
 	
 	//3526. ORIGINAL: It Steams! It Broils! It can even fricassee!
 	2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8 = 蒸す! 焼く! フランス料理のフリカッセさえ調理可能!
@@ -10639,31 +10639,31 @@
 	4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e = ディーンがExposure Survivalに帰ってきました!
 	
 	//3543. ORIGINAL: Hey guys! Welcome back to Nature!
-	d3279147-c24a-4441-991f-729d6804a4c8 = やあ皆さん! 自然へようこそ!
+	d3279147-c24a-4441-991f-729d6804a4c8 = やあ皆さん! 自然へおかえり!
 	
 	//3544. ORIGINAL: All the time people ask: "Dean - where do you find all this stuff?"
-	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = いつも皆さんは「ディーンさん、どこでこの道具を見つけるのですか?」
+	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = いつも聞かれるのが:「ディーンさん、どこでこの道具を見つけたの?」
 	
 	//3545. ORIGINAL: "You're in the middle of nowhere but you've got cool gear."
-	65516990-5571-425b-9073-2c16b613f033 = 「人里離れた場所ですが、便利な道具を持っていますよね。」と尋ねてきます。
+	65516990-5571-425b-9073-2c16b613f033 = 「人里離れた場所なのに、便利な道具を持ってるね。」
 	
 	//3546. ORIGINAL: Well there's two answers to that question-asker.
-	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = えー、その質問には2つ答えがあります。
+	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = えー、その質問には2つの答えがあります。
 	
 	//3547. ORIGINAL: One is the paperclip: which stays on me at ALL times.
 	ef497181-a22d-4e8b-8870-2187d81f285b = 1つ目はクリップ。これは"いつも"持ち歩いています。
 	
 	//3548. ORIGINAL: The second is foraging.
-	dd875aa3-b6ff-4418-a377-35bdee71f20e = 2つ目は、採集で集めます。
+	dd875aa3-b6ff-4418-a377-35bdee71f20e = 2つ目は、採集です。
 	
 	//3549. ORIGINAL: It's amazing the sort of stuff that nature can provide.
-	3f50871d-a047-4314-af45-bbdf5d0f4782 = 自然は素晴らしいものを恵んでくれます。
+	3f50871d-a047-4314-af45-bbdf5d0f4782 = 自然が恵んでくれるものには驚かされます。
 	
 	//3550. ORIGINAL: So next time you're in the woods: open your eyes.
-	b34a4abf-d023-4eb9-b15b-9f58c2b37b02 = では、次は森のなかに居るとします:目を開けてください。
+	b34a4abf-d023-4eb9-b15b-9f58c2b37b02 = では、次は森のなかにいるとします:目を開けてください。
 	
 	//3551. ORIGINAL: Look around.
-	1cc3b153-1e07-4d52-a685-99322df5a52b = 周りを見てください。
+	1cc3b153-1e07-4d52-a685-99322df5a52b = 周りを見回してください。
 	
 	//3552. ORIGINAL: And when you've picked up what you can find?
 	d8981302-0c98-46d1-adea-d0510c30a87d = あなたは見つけた物を拾いましたね?
@@ -10672,7 +10672,7 @@
 	fa6ad372-4889-498b-ae6d-1a3bae3c9992 = えぇ、素晴らしことですよ?
 	
 	//3554. ORIGINAL: Then check out the woods next door.
-	8c9a85c8-04c3-4a71-a6c3-3426f2083892 = それから、少し離れた木々も調べます。
+	8c9a85c8-04c3-4a71-a6c3-3426f2083892 = それから、森を少し歩いてその辺りも調べます。
 	
 	//3555. ORIGINAL: Woods are just awesome.
 	7e0e663c-e6bb-4fbd-b89d-82658cf2c8ed = 森は本当に素晴らしいですね。
@@ -10717,28 +10717,28 @@
 	6c1b23db-580e-462d-b7ac-2f3e98380f1b = 私の人生は、Connall and Cobleのおかげで明るくなりました。
 	
 	//3569. ORIGINAL: Dean right here: welcoming YOU back to Nature.
-	bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f = ディーンさんは自然に帰ってきました。
+	bab7d4c7-baa0-40e2-82cd-83af7ccb6a5f = ディーンは、"あなた"が自然に帰るのを歓迎しています。
 	
 	//3570. ORIGINAL: This is: Exposure Survival!
 	299d0d6c-a7f5-4e07-8db4-9f52846cdbda = これはExposure Survivalです!
 	
 	//3571. ORIGINAL: Everyone gets thirsty, right? I know I do.
-	2f5141a6-192d-4dac-9491-e0d998251eab = 皆さん、喉は渇きますよね? 僕もそうです。
+	2f5141a6-192d-4dac-9491-e0d998251eab = 誰でも喉が渇きますよね? 僕もそうです。
 	
 	//3572. ORIGINAL: If you're a way away from a river though, and there's no tap?
-	024f1e84-0a68-4179-af7b-f7fe07f8b036 = もし、あなたは川から離れてた場所に居て、そこに蛇口無かったら?
+	024f1e84-0a68-4179-af7b-f7fe07f8b036 = もし、川から離れてた場所にいて、そこに蛇口無かったら?
 	
 	//3573. ORIGINAL: What are you going to do when the sky stops providing?
-	ca117ee4-b696-452c-81cd-cb27acafad4a = 空が暗くなったらあなたは何をしますか?
+	ca117ee4-b696-452c-81cd-cb27acafad4a = 空の恵みが無くなったらどうしますか?
 	
 	//3574. ORIGINAL: I'm talking rain guys.
 	d1996bb9-c634-4f62-8de1-2c15328086c8 = 皆さん、僕は雨の話をしているのです。
 	
 	//3575. ORIGINAL: Storing rain, or 'water', is vital to survival.
-	37354046-9ab5-4b76-ac75-9d45f8ca9f6f = 生き残るためには、雨、つまり「水」を貯めることが不可欠です。
+	37354046-9ab5-4b76-ac75-9d45f8ca9f6f = 雨、つまり「水」を蓄えることは、生き残るために不可欠です。
 	
 	//3576. ORIGINAL: So build a Rain Collector Barrel to collect water.
-	51c11cc2-1a7d-48da-bd36-3fe363fe5a27 = そして、水を集めるためには雨水タンクが必要です。
+	51c11cc2-1a7d-48da-bd36-3fe363fe5a27 = そこで、水を集めるための「雨樽」が作りましょう。
 	
 	//3577. ORIGINAL: Take four wooden planks, four nails and...
 	2b119fb1-53d7-495a-a1ba-b3f995696f67 = 木板を4枚、釘を4本手に取って...
@@ -10759,7 +10759,7 @@
 	5d998990-8428-42bc-9220-a481f4918db8 = あなたはこう思うでしょう「わぉ、もう死ぬことは無いな。」
 	
 	//3583. ORIGINAL: "And that is awesome!"
-	a168155a-98a2-418c-b13d-62c10750cb60 = 「これは素晴らしい!」と。
+	a168155a-98a2-418c-b13d-62c10750cb60 = 「これは素晴らしい!」
 	
 	//3584. ORIGINAL: How you doing? You're on the Cook Channel!
 	85b904e0-14e3-4daf-b354-33a7eb31df83 = 調子はどう? Cook Showです!
@@ -11455,7 +11455,7 @@
 	1a925f13-ab5c-4a98-befa-82d93bb9f4b2 = ダニエルさんありがとうございます。興奮しています!
 	
 	//3815. ORIGINAL: For $3000: your answer is 'Newcastle'
-	d7e9480d-695c-4dd1-92af-ad2ec640d201 = 賞金$3000:「ニューキャッスル」について答えてくれ。
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = 賞金$3000:「ニューカッスル」について答えてくれ。
 	
 	//3816. ORIGINAL: You have three attempts remaining.
 	de1c72f2-b53c-407f-84d0-b017a83eaa52 = 君には3回チャンスが残っているぞ。
@@ -11794,28 +11794,28 @@
 	9a40ce0c-cd67-4731-b8aa-9dcc7d843920 = "更生してください!"
 	
 	//3928. ORIGINAL: [img=music] We are the Moderators! [img=music]
-	dcff2b1e-29ec-49dc-96d6-3966bbd4d8a7 = [img=music] We are the Moderator! [img=music]
+	dcff2b1e-29ec-49dc-96d6-3966bbd4d8a7 = [img=music] 僕たちはモデレーター! [img=music]
 	
 	//3929. ORIGINAL: [img=music] Sworn to protect the innocent, there for every incident! [img=music]
-	ff2923c5-eee3-4ae1-80ee-64ce587bda7f = [img=music] 無実を守るために誓った、あらゆる事件に立ち向かう! [img=music]
+	ff2923c5-eee3-4ae1-80ee-64ce587bda7f = [img=music] 無実の人を守るため、あらゆる事件に立ち向かうと誓う! [img=music]
 	
 	//3930. ORIGINAL: [img=music] Deep down in your hearts: We are the Moderators! [img=music]
-	15106e7f-524f-4b85-97ab-c150dc21c3cb = [img=music] 君も心の中で言ってみて:We are the Moderator! [img=music]
+	15106e7f-524f-4b85-97ab-c150dc21c3cb = [img=music] 君の心の奥底に秘める。 僕たちはモデレーター! [img=music]
 	
 	//3931. ORIGINAL: [img=music] Moderators! MODERATORS! [img=music]
-	5b4532cb-01ec-45ff-95cf-16c56e49aa70 = [img=music] Moderator! "Moderator!" [img=music]
+	5b4532cb-01ec-45ff-95cf-16c56e49aa70 = [img=music] モデレーター! "モデレーター"! [img=music]
 	
 	//3932. ORIGINAL: Welcome to my Ice Palace, friends. From here: we strike back.
-	cf7eb6b1-7bc4-450a-8dd0-13e0c7f115bd = 私の氷の宮殿へようこそ、友よ:反撃の時だ。
+	cf7eb6b1-7bc4-450a-8dd0-13e0c7f115bd = 私の氷の宮殿へようこそ、友よ。ここから反撃の時だ。
 	
 	//3933. ORIGINAL: How can we fight a force imbued with our own power?
-	83b5a758-ab73-4534-ba33-7a3405b9d713 = 今の戦力でどうやって戦えばいいの?
+	83b5a758-ab73-4534-ba33-7a3405b9d713 = 今の戦力でどう対抗するの?
 	
 	//3934. ORIGINAL: I see the fool that who hurled ArchDuke OldWorld into the Chaos Abyss is among us?
-	c7604bc4-c689-4bd6-8fd2-8797fc1de922 = 混沌とした深淵に投げ出された旧世界の大公が、現世に現れたらしいじゃん?
+	c7604bc4-c689-4bd6-8fd2-8797fc1de922 = 旧世界の大公を混沌とした深淵に突き落とした奴が、俺たちの中にいるらしいじゃん?
 	
 	//3935. ORIGINAL: I cast the fiend into the pit to SAVE all we know!
-	96e9b75d-5360-4606-935c-55b0066e88c9 = 皆知ってるけど、世界を"救う"ために大公を穴の中に投げ入れたんだよな!
+	96e9b75d-5360-4606-935c-55b0066e88c9 = 私は悪魔を穴に投げ込み、我々が知るすべての人を救ったのです!
 	
 	//3936. ORIGINAL: Yet now the ArchDuke runs rampant through our flock!
 	99bef947-fd40-4b0e-a364-0222ad1feca5 = でも今、大公は数えきれない民を脅かしているわ!
@@ -11824,37 +11824,37 @@
 	dcf8a2f2-f4ea-45fd-9297-52734831ecfb = 奴は現実を曲げて歪ませた! 運命は歪められたのだ!
 	
 	//3938. ORIGINAL: The greatest calamity since the time of the Dark One is at hand!
-	d92c2158-d552-41b4-bd65-4ed85ed7a17f = 最大の惨事、暗黒の時代がすぐ手の届くところまで来ているのだ!
+	d92c2158-d552-41b4-bd65-4ed85ed7a17f = 暗黒の時代以来の大厄災が目前に迫っているのだ!
 	
 	//3939. ORIGINAL: I feel the rage of a thousand suns!
-	642a053d-1528-4fd1-a2a4-cb85b35344d0 = 強烈な光の怒りを感じるわ!
+	642a053d-1528-4fd1-a2a4-cb85b35344d0 = 千の太陽の怒りを感じるわ!
 	
 	//3940. ORIGINAL: Be calm! My frozen walls melt! They begin to flow free!
 	96207256-f95b-4cd1-896f-cb46895c9135 = 止めろ! 私の氷の壁が! 溶け始めているじゃないか!
 	
 	//3941. ORIGINAL: Fellow Moderator!
-	2b51ad79-a027-48f1-9cd8-18667baed1f2 = Moderator様!
+	2b51ad79-a027-48f1-9cd8-18667baed1f2 = 我々はモデレーターだ!
 	
 	//3942. ORIGINAL: Use your arcane understanding of the mind!
 	abc23f27-3ce2-4534-8b34-a11a8d97103a = 内なる神秘的な力をお使いください!
 	
 	//3943. ORIGINAL: Becalm him! Before my Celestial Ice Palace floods our land!
-	7c43bf8d-247f-403d-b976-73ff825e44b5 = 止めさせろ! 私の神聖な氷の宮殿が溶ける前に!
+	7c43bf8d-247f-403d-b976-73ff825e44b5 = 奴を殺せ! 私の神聖な氷の宮殿が溶ける前に!
 	
 	//3944. ORIGINAL: The end! It is near!
 	ad9f444b-cfc1-4b62-a49b-99d9d647f93b = 終わりよ! もうダメだわ!
 	
 	//3945. ORIGINAL: Feel my ancestral power oh friend!
-	880f1159-3a40-4dfc-b64e-2262f6b74e1f = 代々受け継がれている俺の力で止めてやる、ああ友よ!
+	880f1159-3a40-4dfc-b64e-2262f6b74e1f = 俺の先祖代々の力で止めてやる、ああ友よ!
 	
 	//3946. ORIGINAL: The anger! It burns!
-	7d52cf7d-373b-4e81-b828-8cfdb465b7c9 = どうしようもないわ! 燃えちゃう!
+	7d52cf7d-373b-4e81-b828-8cfdb465b7c9 = どうしようもないわ! 燃えてしまう!
 	
 	//3947. ORIGINAL: It's time to visit the Magical Woodland!
 	6cb711ba-f180-45b2-87d6-e73cb26beb55 = Magical Woodlandがやってきたよ!
 	
 	//3948. ORIGINAL: Sponsored by Spiffos™!
-	9233196b-97dc-4fd9-804c-f45715875d4d = Spiffo'sの提供でお送りします!
+	9233196b-97dc-4fd9-804c-f45715875d4d = Spiffo™の提供でお送りします!
 	
 	//3949. ORIGINAL: Hi there Spiffo! Who's your little friend?
 	b8feed00-3e07-412c-bc23-390ca80efe8b = こんにちはSpiffo! その君の小さなお友達は誰かな?
@@ -11974,13 +11974,13 @@
 	6421244d-9883-456f-b1b0-8f78eb94a176 = わあぁい!
 	
 	//3988. ORIGINAL: Greetings, fellow Moderators.
-	08d9e170-e771-4b1d-8476-75d7c7f051aa = 敬礼、Moderator様だ。
+	08d9e170-e771-4b1d-8476-75d7c7f051aa = モデレーターの皆さん、こんにちは。
 	
 	//3989. ORIGINAL: This meeting has been convened at a time of dire need.
 	f161f1e3-46f6-4889-9350-affaa859a934 = この会議は極めて緊急に招集された。
 	
 	//3990. ORIGINAL: I agree, my good and worthy companion.
-	56ad5c5e-d4b2-40e9-957c-eb802e14e264 = 良き価値のある仲間の仰る通りですわ。
+	56ad5c5e-d4b2-40e9-957c-eb802e14e264 = 善良で立派な仲間の仰る通りですわ。
 	
 	//3991. ORIGINAL: I awoke to fresh frost atop my ice palace.
 	d8097354-de4e-483d-96ad-d8c2b0d41267 = 私の氷の宮殿の上に、できたばかりの霜があることに気が付いたの。
@@ -11995,28 +11995,28 @@
 	e943c359-995b-49c5-b762-d95521474ff1 = 民は困惑している。私たちが導かなければ。
 	
 	//3995. ORIGINAL: BUT HOW CAN YOU ACT, WHEN I...
-	30a34819-fe2c-4ae0-a135-ec66cc131e31 = "我、旧世界の大公が... 復活したが..."
+	30a34819-fe2c-4ae0-a135-ec66cc131e31 = "貴様らが... どう抗うというのだ..."
 	
 	//3996. ORIGINAL: ARCHDUKE OLDWORLD... HAVE RETURNED!
-	cb402d0d-9da5-43e4-96bc-6a22875e7e16 = "貴様らが... どう抗うというのだ!"
+	cb402d0d-9da5-43e4-96bc-6a22875e7e16 = "我、旧世界の大公が... 復活したぞ!"
 	
 	//3997. ORIGINAL: But, how can this be?
-	cfe9f380-4dd3-4564-8c4c-8b6eb9925768 = 待って、どうやって復活したんだ?
+	cfe9f380-4dd3-4564-8c4c-8b6eb9925768 = でも、どうやって復活したんだ?
 	
 	//3998. ORIGINAL: FOOLS!
 	e8237d0c-83a6-4b25-81f8-9a0495abce2c = "愚かな!"
 	
 	//3999. ORIGINAL: BY CASTING ME INTO THE CHAOS ABYSS YOU HAVE IMBUED ME...
-	887b19ce-5c0a-4cbb-896c-205787fe9ed0 = "我は、Moderator内なる力で、我を混沌とした深淵の中に放り込んだ..."
+	887b19ce-5c0a-4cbb-896c-205787fe9ed0 = "我をカオスの深淵に投げ入れることによって..."
 	
 	//4000. ORIGINAL: WITH THE POWER OF THE MODERATORS THEMSELVES!
-	ce6f3a0b-785b-49b2-9f17-658f29a4f4fc = "貴様らに腹を立てておるのだ!"
+	ce6f3a0b-785b-49b2-9f17-658f29a4f4fc = "モデレーターの力を私に吹き込んだのだ!"
 	
 	//4001. ORIGINAL: But, this is what was foretold!
-	e19574c4-4278-4629-927c-a481d37a21bc = まって、この復活は予言されていたことよ!
+	e19574c4-4278-4629-927c-a481d37a21bc = そんな、この復活は予言されていたことよ!
 	
 	//4002. ORIGINAL: These are the end-times!
-	09abd3ff-0653-42f9-9455-32af3b5eea53 = 終末がそこまで来ているのか!
+	09abd3ff-0653-42f9-9455-32af3b5eea53 = 終末の時はそこまで来ているのか!
 	
 	//4003. ORIGINAL: Boris the Badger? His stripes are so lovely.
 	146e0bc5-9cd4-4750-90a3-e8fdccffbf76 = アナグマのボリス? 彼の毛並みは素敵ね。
@@ -12211,7 +12211,7 @@
 	4a998fe6-7e41-4ab9-905c-1267d3f12831 = そうだね、ナニー・バニー!
 	
 	//4067. ORIGINAL: WELCOME MODERATORS. YOU AWAKE IN CHAINS!
-	46a892b9-7380-456f-abcc-e431843c72d0 = "ようこそModeratorらよ。目を覚ましたようだが鎖に繋がれているぞ!"
+	46a892b9-7380-456f-abcc-e431843c72d0 = "ようこそモデレーターらよ。目を覚ましたようだが鎖に繋がれているぞ!"
 	
 	//4068. ORIGINAL: THE ICE PALACE IS MELTING.
 	8865dd3d-f692-490c-9b47-4324a57f3142 = "氷の宮殿は今もなお溶け続けている"。
@@ -12223,7 +12223,7 @@
 	5325c27e-d502-4066-9660-332fddee5aac = 何? 何があったのですか?
 	
 	//4071. ORIGINAL: WHILE YOUR THREE FRIENDS FOUGHT, I STOLE YOU AS YOU SLEPT.
-	b731f78d-64af-4b07-b0c2-96375a13e900 = "貴様の3人の友がくたばっている間に、我が貴様を縛ったのだ"。
+	b731f78d-64af-4b07-b0c2-96375a13e900 = "貴様の3人の友がくたばっている間に、我が貴様をさらったのだ"。
 	
 	//4072. ORIGINAL: My liege? Are you there?
 	5823c908-41fd-4317-a84e-fea26b0e56a0 = 陛下ですが? そこにおられるのですか?
@@ -12232,13 +12232,13 @@
 	c2255b5b-0172-4520-814e-302dcc308f63 = 家臣ですか? 暗くて見えない、そこにいるのですか?
 	
 	//4074. ORIGINAL: IT IS HE! YOU THOUGHT HIM DEAD, BUT NO.
-	4e38e4b3-4e55-4201-bc49-5ded180a59f1 = "貴様は彼を死んだものと思っていたが、それは違うぞ"。
+	4e38e4b3-4e55-4201-bc49-5ded180a59f1 = "そうだ家臣だ! 貴様は奴を死んだものと思っていたな? だが違う"。
 	
 	//4075. ORIGINAL: AT DAWN I REWRITE THE COSMOS.
 	7b9abd20-4ddf-4a3a-8688-424c1ac7742b = "宇宙の秩序を書き換える時が来たのだ"。
 	
 	//4076. ORIGINAL: YOU WILL PERISH TOGETHER, AS WAS FORETOLD. FAREWELL!
-	ed91375f-4347-4f26-8e90-fbcfb026758e = "予言されているように、一緒に滅びるがいい。また会おう!"
+	ed91375f-4347-4f26-8e90-fbcfb026758e = "予言通り貴様たちは死ぬだろう。さらばだ!"
 	
 	//4077. ORIGINAL: My liege, you must listen.
 	fa19c2be-a160-4f28-b702-5c753015bf3b = 陛下、お聞きください。
@@ -12253,7 +12253,7 @@
 	b6dd2822-f2fd-4f13-8bf7-3cd33feec883 = それは... 陛下の杖です。お受け取りください。
 	
 	//4081. ORIGINAL: Reunite the Moderators, in this the people's time of need.
-	1ca97a85-f67c-47b9-92ed-6389c70a1475 = 他のModeratorの方と再会しましょう。民は困り果てています。
+	1ca97a85-f67c-47b9-92ed-6389c70a1475 = 他のモデレーターの方と合流しましょう。民が必要としている時なのです。
 	
 	//4082. ORIGINAL: Can it be real? The Pole of Justice returned to my hand?
 	2feb4d0d-5953-48f6-8178-bbca6db2e7b5 = それは本当ですか? 正義の杖が私の手に戻った?
@@ -12382,7 +12382,7 @@
 	96ee5ff8-0404-4e6e-acee-da2bbefacb79 = 私の内なる力が崩壊し始めているのが分かります!
 	
 	//4124. ORIGINAL: Moderators! Quell your fires!
-	47ebff32-c19d-4d3d-9d53-94ba57eabc34 = Moderatorの皆さん! 火を鎮めてください!
+	47ebff32-c19d-4d3d-9d53-94ba57eabc34 = モデレーターの皆さん! 火を鎮めてください!
 	
 	//4125. ORIGINAL: Is it... Is it he?
 	2572be66-da5c-4c69-a71f-1ddeb3f24c16 = ん... 彼は?
@@ -12397,25 +12397,25 @@
 	f47d77b2-1e9d-4f2c-aca1-85d3c608a745 = 俺は無力だった。俺にとってあいつは息子同然だった。
 	
 	//4129. ORIGINAL: To us all, friend.
-	4d6aaebb-a280-45bb-9f7d-276ef4b13234 = 皆が友人です。
+	4d6aaebb-a280-45bb-9f7d-276ef4b13234 = 皆にとって友人です。
 	
 	//4130. ORIGINAL: I felt this disturbance amidst the spray of the dawn snow.
-	a0d8361e-df3c-4930-b672-9679f7197b8c = 雪の降る夜明けの中に邪悪ななにかを感じる。
+	a0d8361e-df3c-4930-b672-9679f7197b8c = 暁の雪煙の中に邪悪ななにかを感じる。
 	
 	//4131. ORIGINAL: Moderators, the time for argument is now over.
-	a6635519-9616-4deb-aa02-20889409c958 = Moderator、今は議論の時ではありません。
+	a6635519-9616-4deb-aa02-20889409c958 = モデレーター、今は議論の時ではありません。
 	
 	//4132. ORIGINAL: When first we discovered the Power of the Moderators, it was a time of dire need.
-	b9a28364-d37d-4a39-85d9-a870a2c8be6c = 最初にModeratorの力を発見した時、何か大いなることに貢献できるだろうと思いました。
+	b9a28364-d37d-4a39-85d9-a870a2c8be6c = 最初にモデレーターの力を発見した時、何か大いなることに貢献できるだろうと思いました。
 	
 	//4133. ORIGINAL: The reign of the Dark One was at its height.
 	5bd39430-4b7f-4da3-a6e3-69eadc73ec44 = 暗黒が世界を覆うまで時間がありません。
 	
 	//4134. ORIGINAL: Together we fought him. Together we defeated him.
-	615d8001-1823-4328-a7ca-4e10a9d62abd = かつて私たち皆は大公と戦った。一度大公を倒したのです。
+	615d8001-1823-4328-a7ca-4e10a9d62abd = かつて私たち皆は大公と戦った。共に大公を倒したのです。
 	
 	//4135. ORIGINAL: Only through unity and friendship, can we hope to repel that which follows.
-	801dc74e-da54-4bc8-b891-592b01ea61a8 = 団結と友情があれば、撃退することができるはずです。
+	801dc74e-da54-4bc8-b891-592b01ea61a8 = 団結と友情があれば、望むのであれば民を導き、撃退することができるはずです。
 	
 	//4136. ORIGINAL: Who will stand with me in the fight against ArchDuke OldWorld?
 	ffd4368b-f933-43c0-94c4-ab924b4adc43 = 旧世界の大公を前に、誰か一緒に戦ってくれませんか?
@@ -12427,7 +12427,7 @@
 	bc7f86b4-1110-4c60-a2d6-4a9b85a17573 = 私も。
 	
 	//4139. ORIGINAL: The Moderators will prevail.
-	afa94a72-f887-4e02-97d0-ce1d5f3e9a33 = Moderatorが優勢だな。
+	afa94a72-f887-4e02-97d0-ce1d5f3e9a33 = モデレーターが勝つだろう。
 	
 	//4140. ORIGINAL: Friends, I bear the Pole of Justice.
 	f4727304-a97e-4def-b06c-cbcb80587de8 = 皆さん、私は正義の杖を持っています。
@@ -12538,7 +12538,7 @@
 	7132ab1c-0a5d-4072-acf9-c955d2a0d451 = "貴様の友の運命は我の手中にある"。
 	
 	//4176. ORIGINAL: WATCH MY VICTORY, MODERATORS.
-	cd316aa9-6fe6-450d-812e-4c265b548e94 = "Moderatorよ、我の勝利を見届けるがいい"。
+	cd316aa9-6fe6-450d-812e-4c265b548e94 = "モデレーター達よ、我の勝利を見届けるがいい"。
 	
 	//4177. ORIGINAL: IT IS THE LAST YOU WILL KNOW.
 	911d05b7-3f48-4575-8a53-03fc91d9ac0d = "これで貴様は終わりだ"。
@@ -12556,19 +12556,19 @@
 	9816a60c-6ed7-4270-af58-36a8e2ebbba4 = 見よ、私の氷の力を!
 	
 	//4182. ORIGINAL: Burn in the rage of a thousands suns!
-	4ae929a7-5165-45d4-bbc8-bb8697af6d74 = このあふれるような光の情熱で燃え尽きなさい!
+	4ae929a7-5165-45d4-bbc8-bb8697af6d74 = 幾千の光の情熱で燃え尽きなさい!
 	
 	//4183. ORIGINAL: ARGH! HOW CAN I WITHSTAND THIS?
 	e6e83974-76ea-46bb-b851-861d56d7a137 = "あぁ! なんなんだこの力は!"
 	
 	//4184. ORIGINAL: THE POWER OF THE MODERATORS!
-	91d2b6cc-d170-426b-bf07-fe70fc8db975 = "これがModeratorの力か!"
+	91d2b6cc-d170-426b-bf07-fe70fc8db975 = "これがモデレーターの力か!"
 	
 	//4185. ORIGINAL: Ahah! Our revenge is at hand!
 	333fdf5b-2e3f-4a1c-85c0-2d50ee11b6fe = あぁ! 復讐を遂げられるのね!
 	
 	//4186. ORIGINAL: I AM DEFEATED, BUT WITH MY OWN POWER OF THE MODERATORS I CAN END THIS!
-	e303e0da-10fb-4908-b07a-a44ce786195a = "我は敗北した、だが貴様らModeratorと同じ力が我にもある、これで終わりだ!"
+	e303e0da-10fb-4908-b07a-a44ce786195a = "我は敗北した、だが貴様らモデレーターと同じ力が我にもある、これで終わりだ!"
 	
 	//4187. ORIGINAL: I CAN END IT ALL!
 	25d04fec-f88d-4bd8-b585-7c6c3dc4b040 = "全てを終わらせる!"
@@ -12577,7 +12577,7 @@
 	adbe859a-c558-428a-ac85-a32d78741d69 = "この世界を破滅させるのだ!"
 	
 	//4189. ORIGINAL: No! ArchDuke OldWorld! I felt it then, and I feel it now!
-	799be616-289c-480b-9f28-923c3b19a302 = 止めろ! 旧世界の大公! 俺は今を生きている!
+	799be616-289c-480b-9f28-923c3b19a302 = 止めろ! 旧世界の大公! あの時も感じた、今だってそうだ!
 	
 	//4190. ORIGINAL: There is still good in you!
 	e18ce0cd-61c5-4096-84e7-10f3bb5a85fd = あんたにもまだ良心があるだろ!
@@ -12586,7 +12586,7 @@
 	3a9a948b-14c8-4a1a-81db-938be4784476 = 世界が崩壊する前に力を鎮めろ!
 	
 	//4192. ORIGINAL: NO, I CANNOT! ALL WILL FADE!
-	68f38843-9859-4761-a11d-31331d70da0b = "無理だ! 我にはできない! もう終わりなのだ!"
+	68f38843-9859-4761-a11d-31331d70da0b = "無理だ! 我にはできない! 全て消え去れ!"
 	
 	//4193. ORIGINAL: You can, ArchDuke. Look to me! Feel my compassion!
 	001339b1-1904-480a-8b78-670892aae5d9 = 大公、あんたならできる。俺を見ろ! 俺の目を見るんだ!
@@ -12595,10 +12595,10 @@
 	ec848353-45a1-48aa-8a4b-3234352f8f7b = "我は... 我は... 分かった"。
 	
 	//4195. ORIGINAL: THE POWER OF THE MODERATORS IS BEYOND ALL COMPREHENSION.
-	1012194d-e3cc-462e-b046-293cb5e4d6fa = "私のModeratorの力は全て内に留めた"。
+	1012194d-e3cc-462e-b046-293cb5e4d6fa = "モデレーターの力はあらゆる理解を超越している"。
 	
 	//4196. ORIGINAL: I SHALL TAKE MY LEAVE. YOUR REALM IS SAFE.
-	549a6a13-2d65-47d6-822f-e5411d891542 = "ここを離れるとしよう、貴様らの世界はもう安全だ"。
+	549a6a13-2d65-47d6-822f-e5411d891542 = "ここを去るとしよう、貴様らの世界はもう安全だ"。
 	
 	//4197. ORIGINAL: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME
 	4f019495-c989-495d-8c31-ed833ef9c7e7 = "だがこれだけは頼む、夜空を見たら我を思い出してくれ"。
@@ -12613,10 +12613,10 @@
 	070aeaa5-bc0c-4f28-91ef-6dcb2bfae7b4 = 私たちが民を守るためにここにいることを、忘れないでください。
 	
 	//4201. ORIGINAL: We go by many names. But forever and a day, we shall be...
-	5e2feef8-1f07-4283-ada5-e3afb3d8830a = 彼らは様々な名前で呼ばれている。しかし、この名前は語り継がれるだろう...
+	5e2feef8-1f07-4283-ada5-e3afb3d8830a = 我々には様々な呼び名がある。しかし、この名前は永遠に語り継がれるだろう...
 	
 	//4202. ORIGINAL: The Moderators.
-	53d39394-4601-499e-b8d1-5e04c1be0d4a = The Moderator
+	53d39394-4601-499e-b8d1-5e04c1be0d4a = モデレーター
 	
 	//4203. ORIGINAL: Huzzah!
 	653cc063-72cd-4968-bff7-6ace03113817 = めでたし、めでたし!

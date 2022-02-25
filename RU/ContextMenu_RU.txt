@@ -401,7 +401,7 @@ ContextMenu_RU = {
 	ContextMenu_NoBullets = "Патроны не найдены",
 	ContextMenu_UnloadMagazine = "Разрядить магазин",
 	ContextMenu_NoMagazineFound = "%1 не найден, или пустой",
-	ContextMenu_Rack = "Перезарядить %1",
+	ContextMenu_Rack = "Передёрнуть затвор %1",
 	ContextMenu_Unjam = "Устранить осечку %1",
 	ContextMenu_InsertBullets = "Зарядить %3 (%2 x%1)",
 	ContextMenu_TrimBeard = "Сбрить бороду",
@@ -481,4 +481,6 @@ ContextMenu_RU = {
 	ContextMenu_PatchAllHoles = "Заштопать все дырки используя ",
 	ContextMenu_RemoveAllPatches = "Убрать все заплатки",
 	ContextMenu_AddPaddingAll = "Добавить заплатки используя ",
+	ContextMenu_ComboWasherDryer_SetModeWasher = "Установить режим: Стирать",
+    ContextMenu_ComboWasherDryer_SetModeDryer = "Установить режим: Сушить",
 }

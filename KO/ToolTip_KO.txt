@@ -279,4 +279,8 @@ Tooltip_KO = {
     Tooltip_item_empty_sack_container = "비어있는 경우 보관함으로 사용할 수 있습니다.",
     Tooltip_Map_CantEdit = "지우개와 연필 또는 펜이 필요합니다.",
     Tooltip_CantCraftSecondLitCandle = "이미 촛불이 켜져있음.",
+    Tooltip_Charcoal_Logs = "숯을 만들기 위해 통나무 5개를 넣고, 불을 붙이고 기다리세요.",
+    Tooltip_clothing_holes = "구멍",
+    Tooltip_weapon_SpentRounds = "사용된 탄약",
+    Tooltip_Charcoal_Progression = "숯 진행도",
 }

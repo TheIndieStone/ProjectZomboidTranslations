@@ -9,9 +9,9 @@ Moveables_RU = {
 	Air_Blower = "Диспенсер для бумажных полотенец",
 	Air_Conditioner = "Кондиционер",
 	Angelic_Gravestone = "Ангельское надгробье",
-	Antique_Outdoor_Lamp = "Антикварный уличный фонарь",
-	Antique_Oven = "Антикварная печь",
-	Antique_Television = "Антикварный телевизор",
+	Antique_Outdoor_Lamp = "Старый уличный фонарь",
+	Antique_Oven = "Дровяная печь",
+	Antique_Television = "Старый телевизор",
 	Arched_Gravestone = "Арочный надгробный камень",
 	Awl_Sew_Sign = "Вывеска: «Awl Sew»",
 	Bail_Bonds_Sign = "Вывеска: «Поручительское агентство»",
@@ -671,7 +671,7 @@ Moveables_RU = {
 	Zippee_Market_Sign = "Вывеска: «Zippee»",
 	Zippee_Shelves_Rack = "Стеллаж «Zippee»",
 	Zippee_Wall_Shelves = "Полки «Zippee»",
-	Bar_Tap_Antique = "Антикварный барный кран",
+	Bar_Tap_Antique = "Старый барный кран",
 	Generic_Cooled_Shelves = "Холодильная витрина",
 	Small_Crate = "Маленький ящик",
 	Small_Wide_Mirror = "Маленькое широкое зеркало",
@@ -681,6 +681,7 @@ Moveables_RU = {
 	Type_A_Grey_Cubicle = "Серая оф. перегородка, тип A",
 	Type_B_Blue_Cubicle = "Синяя оф. перегородка, тип В",
 	Type_B_Grey_Cubicle = "Серая оф. перегородка, тип В",
+    	Blue_Combo_Washer_Dryer = "Синяя стиральная машина с сушкой",
 	
 	
 	-- ISMoveableSpriteProps names
