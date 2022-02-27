@@ -315,6 +315,7 @@ IGUI_CA = {
     IGUI_Gametime_zombiesCount = "Has matat %1 zombis.",
     IGUI_Gametime_zombieCount = "Has matat %1 zombi.",
     IGUI_FoodNaming = "%2 (%1)",
+    IGUI_FoodTemperatureNaming = "%2 (%1)",
     IGUI_ItemNaming = "%2 (%1)",
     IGUI_ItemNameTaintedWater = "%1 (Contaminada)",
     IGUI_ItemNameControllerLinked = "%1 (Enllaçat)",
@@ -1580,6 +1581,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
 	IGUI_SearchMode_Categories_Clothing = "Roba",
 	IGUI_SearchMode_Categories_Medical = "Coses mèdiques",
     IGUI_SearchMode_Categories_MedicinalPlants = "Plantes medicinals",
+    IGUI_SearchMode_Categories_WildPlants = "Plantes bordes",
 	--SearchMode Vision Effects Tooltip
 	IGUI_SearchMode_Vision_Effect_Title = "Eficàcia de la visió",
 	IGUI_SearchMode_Vision_Effect_Radius = "Radi de cerca",
