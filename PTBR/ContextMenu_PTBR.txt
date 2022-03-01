@@ -485,4 +485,6 @@ ContextMenu_PTBR = {
     ContextMenu_PlaceHalf = "Posicionar Metade",
     ContextMenu_PlaceAll = "Posicionar Tudo",
     ContextMenu_NeedCooked = "Precisa ser cozido.",
+    ContextMenu_ComboWasherDryer_SetModeWasher = "Set Mode: Washer",
+    ContextMenu_ComboWasherDryer_SetModeDryer = "Set Mode: Dryer",
 } 
