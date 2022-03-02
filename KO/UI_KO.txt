@@ -14,8 +14,8 @@ UI_KO = {
     UI_mainscreen_continue = "이어하기",
     UI_mainscreen_exit = "나가기",
     UI_mainscreen_workshop = "Steam 워크샵",
-    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.66용 <2022년 2월 24일자>",
-    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.66용 <2022년 2월 24일자>",
+    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.66용 <2022년 2월 26일자>",
+    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.66용 <2022년 2월 26일자>",
     --UI_mainscreen_version_steam = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     --UI_mainscreen_version = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     UI_Details = "갱신 정보",
@@ -1469,4 +1469,5 @@ UI_KO = {
     UI_MaxPlayers_Notification = "32+ 서버. 불안정합니다.",
 
     UI_ServerOptionDesc_StopWeather = "서버 날씨 멈추기",
+    UI_AGCMode3_FixedDigital = "디지털 고정",
 }

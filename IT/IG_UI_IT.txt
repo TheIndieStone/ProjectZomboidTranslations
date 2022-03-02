@@ -446,6 +446,7 @@ IG_UI_IT = {
     IGUI_HaloNote_Fear = "Paura",
     IGUI_HaloNote_Fitness = "Fitness",
     IGUI_HaloNote_Hunger = "Fame",
+	IGUI_HaloNote_LearnedRecipe = "Imparato %1",
     IGUI_HaloNote_Morale = "Morale",
     IGUI_HaloNote_Pain = "Dolore",
     IGUI_HaloNote_Panic = "Panico",
