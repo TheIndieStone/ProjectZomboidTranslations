@@ -450,7 +450,7 @@ ItemName_CN = {
     ItemName_Base.Cube = "魔方",
     ItemName_Base.Cupcake = "纸杯蛋糕",
     ItemName_Base.CuttingBoardPlastic = "塑料砧板",
-    ItemName_Base.CuttingBoardWooden = "木质砧板",
+    ItemName_Base.CuttingBoardWooden = "木制砧板",
     ItemName_Base.Daikon = "白萝卜",
     ItemName_Base.Dart = "飞镖",
     ItemName_Base.DeadBird = "死鸟",
@@ -1854,8 +1854,4 @@ ItemName_CN = {
     ItemName_farming.TomatoSeed = "番茄种子",
     ItemName_farming.WateredCan = "洒水壶",
     ItemName_farming.WateredCanFull = "洒水壶(水)",
-
-    --Add Text--
-    ItemName_Base.ShotgunCase3 = "猎枪箱",
 }
-
