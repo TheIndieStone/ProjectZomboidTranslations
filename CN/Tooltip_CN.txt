@@ -277,4 +277,3 @@ Tooltip_CN = {
     Tooltip_media_item_operate = "装备到左手或右手来进行操作."
     Tooltip_item_empty_sack_container = "如果是空的可以用作容器.",
 }
-
