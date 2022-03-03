@@ -65,4 +65,3 @@ Farming_CN = {
     Farming_Plowed_Land = "耕地",
     Farming_MissingItem = "你需要 %1",
 }
-
