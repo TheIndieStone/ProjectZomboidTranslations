@@ -711,14 +711,15 @@ Moveables_CN = {
 	Corner_A_Shelves = "矮货架(左)",
 	Middle_Shelves = "矮货架(中)",
 	Oak_Left_Bar = "酒吧橡木货架(左)",
-    Oak_Middle_Bar = "酒吧橡木货架(中)",
-    Oak_Right_Bar = "酒吧橡木货架(右)",
+	Oak_Middle_Bar = "酒吧橡木货架(中)",
+	Oak_Right_Bar = "酒吧橡木货架(右)",
 	Blue_Canopy = "蓝色遮挡棚",
 	Large_Wide_Mirror = "大型宽镜",
 	Pallet_With_Bricks = "砖块托盘",
 	Big_Wall_Spiffo = "斯皮福大壁纸",
 	Satellite_Dish = "卫星天线",
 	
+	--Add Text--
 	Female_Bust = "半身石像(女)",
 	Male_Bust = "半身石像(男)",
 	Painting = "油画",
