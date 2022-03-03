@@ -96,4 +96,3 @@ Stash_CN = {
 	Stash_RosewoodStashMap3_Text2 = "这里可能有武器，有备无患",
 	Stash_RosewoodStashMap3_Text3 = "不要走这条路",
 }
-
