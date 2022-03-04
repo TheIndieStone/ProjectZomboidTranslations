@@ -582,7 +582,7 @@ ItemName_CN = {
     ItemName_Base.Flightcase = "航空转运箱",
     ItemName_Base.FlintKnife = "石刀",
     ItemName_Base.Flour = "面粉",
-    ItemName_Base.FluffyfootBunny = "兔子毛脚",
+    ItemName_Base.FluffyfootBunny = "兔子茸毛脚",
     ItemName_Base.Flute = "长笛",
     ItemName_Base.Football = "橄榄球",
     ItemName_Base.Football2 = "橄榄球",
@@ -1121,7 +1121,7 @@ ItemName_CN = {
     ItemName_Base.Pan = "平底煎锅",
     ItemName_Base.PanFriedVegetables = "平底煎锅(炒菜)",
     ItemName_Base.PanFriedVegetables2 = "烤盘(烧烤)",
-    ItemName_Base.PancakeHedgehog = "刺猬煎饼",
+    ItemName_Base.PancakeHedgehog = "刺猬庞佩克",
 	ItemName_Base.PancakeMix = "煎饼粉",
     ItemName_Base.Pancakes = "薄煎饼",
     ItemName_Base.PancakesCraft = "薄煎饼",
@@ -1854,8 +1854,4 @@ ItemName_CN = {
     ItemName_farming.TomatoSeed = "番茄种子",
     ItemName_farming.WateredCan = "洒水壶",
     ItemName_farming.WateredCanFull = "洒水壶(水)",
-
-    --Add Text--
-    ItemName_Base.ShotgunCase3 = "猎枪箱",
 }
-

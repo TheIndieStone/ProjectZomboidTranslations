@@ -224,4 +224,3 @@ Moodles_CN = {
     Moodles_CantSprint = "行动能力受限"
     Moodles_CantSprint_desc = "厚重的衣服,笨重的袋子或大件物品让你慢下来!"
 }
-
