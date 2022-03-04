@@ -363,7 +363,7 @@ UI_CH = {
     UI_ServerOption_AntiCheatProtectionType8_tooltip = "停用 8 類反作弊保護. ",
     UI_ServerOption_AntiCheatProtectionType9ThresholdMultiplier_tooltip = "反作弊保護的限制數值倍數: 9 類.",
     UI_ServerOption_AntiCheatProtectionType9_tooltip = "停用 9 類反作弊保護. ",
-    UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "當玩家加入時將未知的使用者名稱加入白名單. 客戶端加入時將提供自己的使用者名稱 / 密碼. (用於開放",
+    UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "當玩家加入時將未知的使用者名稱加入白名單. 客戶端加入時將提供自己的使用者名稱 / 密碼. (用於 Open=true 的伺服器) ",
     UI_ServerOption_BloodSplatLifespanDays = "管理血跡消失前可見的天數",
     UI_ServerOption_BloodSplatLifespanDays_tooltip = "移除舊血跡前所需經過天數. <br>移除動作將於地圖區塊被載入時執行. <br>若為零則代表血跡永遠不會消失",
     UI_ServerOption_CarEngineAttractionModifier_tooltip = "調整車輛吸引殭屍的距離. (較低的數值可以幫助緩解延遲. ) ",
