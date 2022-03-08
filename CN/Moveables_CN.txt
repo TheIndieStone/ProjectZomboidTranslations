@@ -747,6 +747,5 @@ Moveables_CN = {
 	Right_Bar_Wall_Bar = "酒吧酒墙架(右)",
 	USA_Flag = "美国国旗",
 	
-	
 }
 
