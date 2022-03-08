@@ -741,6 +741,12 @@ Moveables_CN = {
 	Wall_Bin = "垃圾通道",
 	Cinema_Projector = "影院投影机",
 	Dark_Grey_Squares = "深灰色方块地板",
+	Metal_Turnstile = "金属三杆闸",
+	Left_Bar_Wall_Bar = "酒吧酒墙架(左)",
+	Bar_Wall_Bar = "酒吧酒墙架",
+	Right_Bar_Wall_Bar = "酒吧酒墙架(右)",
+	USA_Flag = "美国国旗",
+	
 	
 }
 
