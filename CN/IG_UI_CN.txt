@@ -779,7 +779,7 @@ IGUI_CN = {
 	IGUI_Safehouse_DaysSurvivedToClaim = "生存 %1 天后才可添加安全屋.",
 	IGUI_SafehouseUI_RemoveConfirm = "移除 %1 的权限?",
 	IGUI_FactionUI_RemoveConfirm = "确认将玩家 %1 移出该阵营?",
-	IGUI_SafehouseUI_ReleaseConfirm = "你真的要放弃这个安全屋吗？",
+	IGUI_SafehouseUI_ReleaseConfirm = "你真的要放弃这个安全屋吗?",
 	IGUI_SafehouseUI_ChangeTitle = "更改标题",
 	IGUI_SafehouseUI_ChangeOwnership = "更改全部",
 	IGUI_SafehouseUI_QuitSafehouse = "退出安全屋",
@@ -1630,5 +1630,5 @@ IGUI_CN = {
     IGUI_SearchMode_Tip_Seasons_Title = "季节",
     IGUI_SearchMode_Tip_Seasons_Text = "所有自然产生的物品都受月份和季节的影响. 你能找到什么取决于一年中的时间!",
 	IGUI_SearchMode_Tip_SearchFocus_Title = "搜寻重点",
-	IGUI_SearchMode_Tip_SearchFocus_Text = "寻找特别的东西？ 使用搜寻重点来增加找到选定类别的机会！",
+	IGUI_SearchMode_Tip_SearchFocus_Text = "寻找特别的东西? 使用搜寻重点来增加找到选定类别的机会!",
 }
