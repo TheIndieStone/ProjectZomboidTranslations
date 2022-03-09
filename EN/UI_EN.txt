@@ -1096,6 +1096,7 @@ UI_EN = {
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "Players will respawn in a safehouse that they were a member of before they died",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "Players must have survived this number of in-game days before they are allowed to claim a safehouse",
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "Players are automatically removed from a safehouse they have not visited for this many real-world hours",
+    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "Governs whether players can claim non-residential buildings.",
     UI_ServerOption_UPnP_tooltip = "Attempt to configure a UPnP-enabled internet gateway to automatically setup port forwarding rules. The server will fall back to default ports if this fails",
     UI_ServerOption_VoiceEnable_tooltip  = "VOIP is enabled when checked",
     UI_ServerOption_VoiceMinDistance_tooltip  = "The minimum tile distance over which VOIP sounds can be heard. Default is 10",
