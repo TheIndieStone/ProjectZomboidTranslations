@@ -429,6 +429,7 @@ UI_CH = {
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "玩家若經過此真實世界小時數沒有造訪安全屋, 將會被從安全屋移除",
     UI_ServerOption_SafehouseAllowFire_tooltip = "允許火焰傷害安全屋",
     UI_ServerOption_SafehouseAllowLoot_tooltip = "允許非成員從安全屋內拿取物品",
+    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "管理玩家是否可以將非民用住宅的建築設為安全屋. ",
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "玩家於死前所屬安全屋內重生",
     UI_ServerOption_SafehouseAllowTrepass_tooltip = "允許非成員未經邀請進入安全屋",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "玩家必須生存此遊戲天數後才允許設定安全屋",
