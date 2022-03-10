@@ -1,7 +1,7 @@
 UI_PL = {
     UI_Alarm = "Budzik",
     UI_All = "Wszystko",
-    UI_BadWordCheck = "Słowo, literyu lub wyrażenie '%1' nie może zostać użyte przy zakładaniu serwera. Spróbuj ponownie.",
+    UI_BadWordCheck = "Słowo, litery lub wyrażenie '%1' nie może zostać użyte przy zakładaniu serwera. Spróbuj ponownie.",
     UI_BloodDecals0 = "Brak",
     UI_BloodDecals1 = "10%",
     UI_BloodDecals10 = "100%",
