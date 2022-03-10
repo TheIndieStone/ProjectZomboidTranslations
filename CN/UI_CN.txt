@@ -177,7 +177,7 @@ UI_CN = {
 	UI_optionscreen_Show_Item_Mod_Info = "在物品提示中显示模组信息",
 	UI_optionscreen_ShowSurvivalGuide = "启动时显示生存指南",
 	UI_ConfirmMonitorSettings_Prompt = "保留这些屏幕设置吗?",
-	UI_optionscreen_EnableLeftJoystickRadialMenu = "启用左摇杆圆环菜单",
+	UI_optionscreen_EnableLeftJoystickRadialMenu = "启用左操纵杆圆环菜单",
 	UI_ConfirmMonitorSettings_RevertIn = " %1 秒后恢复设置.",
 	-- Map selecter (lua)
 	UI_mapselecter_title = "选择地图",
