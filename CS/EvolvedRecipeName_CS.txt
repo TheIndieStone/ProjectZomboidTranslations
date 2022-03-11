@@ -1,0 +1,12 @@
+EvolvedRecipeName_CS = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Boloňská omáčka v konzervě",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Mrkve v konzervě",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Chilli v konzervě",
+    EvolvedRecipeName_Base.CannedCornOpen = "Kukuřice v konzervě",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Hovězí v konzervě",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Hrášek v konzervě",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Brambory v konzervě",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Sardinky v konzervě",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Rajčata v konzervě",
+    EvolvedRecipeName_Base.Teabag2 = "Čaj",
+}

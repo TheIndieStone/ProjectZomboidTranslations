@@ -1,41 +1,41 @@
 Challenge_CN = {
-    Challenge_YouHaveOneDay_name = "最后时刻",
-	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初的地图上。 <LINE> <LINE> 你只有一天时间做准备。 然后尸潮将会蜂拥而至， 它们会无情的猎杀你。 你将在何方背水一战？ 你昔日在何方背水一战？ 赶紧准备吧。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
+    Challenge_YouHaveOneDay_name = "1. 最后时刻",
+	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初的地图上。 <LINE> <LINE> 你只有一天时间做准备。 然后尸潮将会蜂拥而至， 它们会无情的猎杀你。 你将在何处坚守阵地？ 你昔日在何处坚守阵地？ 赶紧找到它吧。 <LINE> <LINE> 【感谢社区地图制作者 BobHeckling 使用当前的 PZ 工具集重新创建了 0.1.5 版本的地图。】",
 
-    Challenge_WinterIsComing_name = "凛冬将至",
-	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然有一阵寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 而不死大军可能会因为严寒而减慢脚步 - 但他们的致命性丝毫不减。 <LINE> <LINE> 多穿点，幸存者…",
+    Challenge_WinterIsComing_name = "2. 凛冬将至",
+	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然传来一股寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 不死族群可能会因为严寒而减慢脚步， 但它们致命不减。 <LINE> <LINE> 多穿点，幸存者…",
 
 	Challenge_OpeningHours_name = "营业时间",
-    Challenge_OpeningHours_desc = "商场周围这些可怜的人都是来购物的,这是它们经常来的地方 <br><br> 本能驱使它们在营业时间进入商场 <LINE> <LINE> 虽然你只有一个人,但过一会商场门会打开,僵尸们将一拥而入.",
+    Challenge_OpeningHours_desc = "商场被包围了， 从前这里是它们生活中的重要场所。 本能将它们引向了大门。 对它们过去所做事情的记忆... <LINE> <LINE> 你独自一人， 但不会太久。 上午九点， 商场将开始营业：门会打开， 成群的僵尸将进入。 <LINE> <LINE> 准备好迎接它们。",
 
-	Challenge_AReallyCDDAy_name = "真大灾变",
-	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔个重伤。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的幸运日。 <LINE> <LINE> 【这个挑战的灵感来自于 超赞、精彩、必玩的 大灾变：即将到来的黑暗日子 中的 真是糟糕的一天】",
+	Challenge_AReallyCDDAy_name = "3. 真正的大灾变",
+	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔得很惨。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的幸运日。 <LINE> <LINE> 【这个挑战的灵感来自于超赞、精彩、必玩的 《大灾变：黑暗之日》 中的＂真正糟糕的一天＂】",
 
-	Challenge_Challenge1_name = "林中小屋 - 背水一战",
-	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的尸潮， 从四面八方侵入你与世隔绝的小屋。 死亡是躲不掉了， 但猎枪就在手边。 <LINE> <LINE> 背水一战 的 特色是数量不断增加的无尽的尸潮。 在压倒性的困难中尽可能长久地生存下去。",
+	Challenge_Challenge1_name = "4. 林中小屋－背水一战",
+	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的尸潮， 从四面八方侵入你与世隔绝的小屋。 死亡是不可避免的， 但猎枪近在咫尺。 <LINE> <LINE> 背水一战 的特色是数量不断增加的无尽尸潮。 在压倒性的困难中尽可能长久地生存下去。",
 
-	Challenge_Challenge2_name = "林中小屋2 - 背水一战 累计赏金",
-	Challenge_Challenge2_desc = "另一天， 又是一间准备血拼的小屋。 成群的尸潮向你涌来， 一不留神会死的很痛苦。 所以出去战斗吧... <LINE> <LINE> 背水一战 – 累计赏金 的 特色是数量不断增加的无尽的尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那猩红色的武器。",
+	Challenge_Challenge2_name = "5. 林中小屋－背水一战 累计赏金",
+	Challenge_Challenge2_desc = "另一天， 又是一间准备浴血的小屋。 成群的尸潮向你涌来， 你的死亡将是痛苦而可怕的。 所以出去战斗吧... <LINE> <LINE> 背水一战－累计赏金 的特色是数量不断增加的无尽尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那猩红的武器。",
 
-    Challenge_AStormIsComing_name = "风暴将至",
+    Challenge_AStormIsComing_name = "6. 暴风骤雨",
 	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处传来雷鸣。 <LINE> <LINE> 随着天色渐暗， 地上的死者开始躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱， 但永远不会结束。",
 
-    Challenge_TheDescendingFog_name = "迷雾降临",
-    Challenge_TheDescendingFog_desc = "人们先在水面上看到它。 像一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出来了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
+    Challenge_TheDescendingFog_name = "7. 迷雾降临",
+    Challenge_TheDescendingFog_desc = "人们第一次看到它是在水面上。 像一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇上的人在阴霾中尖叫着死去。 现在它们走出来了。 <LINE> <LINE> 在对生者的追逐中， 无形， 无声， 无情。",
 
-    Challenge_Kingsmouth_name = "王口岛",
-    Challenge_Kingsmouth_desc = "祝您在王口岛上度过一段轻松的时光！",
+    Challenge_Kingsmouth_name = "8. 王口岛",
+    Challenge_Kingsmouth_desc = "在王口岛享受轻松的时光吧！",
 
-    Challenge_Studio_name = "影棚",
+    Challenge_Studio_name = "9. 影棚",
     Challenge_Studio_desc = "最好的电影都出自这里！",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "按下 'o' 键 来花点钱并获得永久加成。",
-	Challenge_Challenge2_WaveStart = "第 %1 波： %2 后 (按回车键跳过等待时间)",
+	Challenge_Challenge2_PressKey = "按下'o'键 来花点钱并获得永久加成。",
+	Challenge_Challenge2_WaveStart = "第 %1 波： %2 (按 Enter 键跳过)",
 	Challenge_Challenge2_WaveDuration = "第 %1 波： %2",
-	Challenge_Challenge2_ZombiesLeft = "僵尸剩余： %1",
+	Challenge_Challenge2_ZombiesLeft = "剩余僵尸： %1",
 	Challenge_Challenge2_Money = "金钱： %1",
 	Challenge_Challenge2_Money2 = "玩家 %1 金钱： %2",
-	Challenge_Challenge2_WaveFinished = "第 %1 波 剩余： %2 完成",
+	Challenge_Challenge2_WaveFinished = "第 %1 波 完成时间： %2",
 	Challenge_Challenge2_MoneyGained = "获得金钱： %1",
 	Challenge_Challenge2_XPGained = "获得经验： %1",
 	-- Window
@@ -66,9 +66,10 @@ Challenge_CN = {
 	-- WeaponUpWindow
 	Challenge_Challenge2_Health = "医疗",
 
-	Challenge_OpeningHoursInfoBox =  " <CENTRE> 商场在上午九点开门。 <LINE> <LINE> 准备好迎接尸潮...",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> 商场在上午九点开门。 <LINE> <LINE> 准备好迎接尸潮...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> 再过三天无尽的冬天就开始了。 <LINE> <LINE> 多穿点...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你在诺克斯郡的旅程就会变的困难无比…",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你在诺克斯县的旅程就会变的困难无比…",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> 你将面对无穷无尽的恶劣天气…",
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越朦胧了…",
 }
+

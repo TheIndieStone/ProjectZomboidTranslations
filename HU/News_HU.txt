@@ -1,0 +1,3 @@
+[VERSION] 41.65
+[NEWS]
+Verzióinformáció az angol nyelvben érhető el!

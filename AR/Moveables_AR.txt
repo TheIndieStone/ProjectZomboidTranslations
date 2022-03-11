@@ -1,12 +1,7 @@
-Moveables_ES = {
-
--- Build 41.35
--- 22-04-2020
--- Autor: Sopa - Ender
-
+Moveables_AR = {
     50s_Barstool = "Banqueta de los 50",
     50s_Seat = "Sillón de los 50",
-    50s_Diner_Table = “Mesa de restaurante de los 50”;
+    50s_Diner_Table = "“Mesa de restaurante de los 50”;",
     99_Cent_Sale_Sign = "Cartel de todo por 99",
     Acacia_Tiles = "Baldosas acacia",
     Administrative_Flag = "Bandera del gobierno",
@@ -96,13 +91,13 @@ Moveables_ES = {
     Bordeaux_Carpet = "Piso de alfombra bordo",
     Bordeaux_Rug = "Alfombra bordo",
     Bouquet_of_Roses = "Florero con rosas ",
-    Brick_Mall_Bench = "Banco de ladrillos”,
+    Brick_Mall_Bench = "Banco de ladrillos”",
     Broad_White_Table = "Tablón blanco",
     Brown_Carpet = "Piso de alfombra alfombra marrón",
     Brown_Curtain = "Cortina marrón",
     Brown_Lazy_Chair = "Silla reclinable marron",
     Brown_Lazy_Couch = "Sillon-cama marrón",
-    Brown_Low_Table = "Mesa ratona marrón”,
+    Brown_Low_Table = "Mesa ratona marrón”",
     Brown_Motel_Floor = "Piso marrón de motel",
     Brown_Picknic_Table = "Mesa de picnic marrón",
     Brown_Plant = "Planta marrón",
@@ -480,7 +475,7 @@ Moveables_ES = {
     Quality_Crafted_Counter = "Quality Crafted Counter",
     Quality_Table = "Mesa de luz excelente",
     Rain_Collector_Barrel = "Recolector de agua de lluvia",
-    Raised_Plantbed = "Maceta”,
+    Raised_Plantbed = "Maceta”",
     Random_Notices = "Noticias aleatorias",
     Recycle_Bin = "Tacho de reciclaje",
     Red_Carpet = "Piso de alfombra roja",
@@ -649,7 +644,7 @@ Moveables_ES = {
     White_Wall_Shelves = "Repisa blanca",
     White_Wardrobe = "Ropero blanco",
     White_Washing_Machine = "Lavarropas blanca",
-    White_Window = “Ventana blanca",
+    White_Window = "“Ventana blanca",
     White_Wooden_Chair = "Silla de madera blanca",
     Window = "Ventana",
     Wok_n_Rolls_Sign = "Cartel de Wok n Rolls",
@@ -679,17 +674,25 @@ Moveables_ES = {
     Zippee_Wall_Shelves = "Repisa de Zippee",
     Fence_gate = "Puerta de la valla",
     Broken_Glass = "Pedazos de vidrio",
-
-    -- ISMoveableSpriteProps names
     Moveable_object = "Objeto movible",
     Scrapable_object = "Objeto desarmable",
-    
-    -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
     Lamp_on_Pillar = "Pilar con linterna",
     Metal_Crate = "Caja de metal",
     Stone_Pile = "Pila de piedras",
     Wooden_Picket = "Palo de madera",
     Wooden_Stairs = "Escaleras de madera",
-
+    Metal_Drum = "Barril de metal",
+    Door = "Puerta",
+    Small_Crate = "Caja pequeña",
+    Blood_Bank = "Kennel",
+    Mounted_Deer_Trophy = "Trofeo de ciervo",
+    Spiffos_Type_B_Table = "Mesa de Spiffo",
+    Type_A_Blue_Cubicle = "Cubículo azul tipo A",
+    Bar_Tap_Antique = "Grifo antiguo de cerveza",
+    Spiffos_Type_A_Table = "Mesa grande de Spiffo",
+    Type_A_Grey_Cubicle = "Cubículo gris tipo A",
+    Small_Wide_Mirror = "Espejo ancho",
+    Generic_Cooled_Shelves = "Vitrinas refrigeradas",
+    Type_B_Blue_Cubicle = "Cubículo azul tipo B",
+    Type_B_Grey_Cubicle = "Cubículo gris tipo B",
 }
-

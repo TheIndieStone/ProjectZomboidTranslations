@@ -1,9 +1,9 @@
-﻿Farming_JP = {
+Farming_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.23
-	-- Date 12-19-2019
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -81,5 +81,15 @@
 	Farming_Tooltip_TimeOfGrow = "収穫に必要な日数：",
 	Farming_Tooltip_AverageWater = "栽培に最適な水量：",
 	Farming_Tooltip_RequiredSeeds = "種蒔きに必要な種子の量：",
+
+	Farming_Tooltip_FurrowNeedsSeed = "耕された畑には種子が必要です。",
+	Farming_Tooltip_ItemUsed = "使用アイテム",
+	Farming_Tooltip_NotAFurrow = "耕された畑がありません。",
+	Farming_Tooltip_NotAPlant = "畑がありません。",
+	Farming_Tooltip_NotEnoughWaterInInventory = "作物に必要な水分が足りません。",
+	Farming_Tooltip_NotReadyToHarvest = "収穫できる状態ではありません。",
+	Farming_Tooltip_PlantHasEnoughWater = "作物には十分な水分があります。",
+	Farming_Tooltip_FurrowHasSeeds = "耕された畑には既に種子が撒かれています。",
+	Farming_MissingItem = "%1が必要です。",
 
 }

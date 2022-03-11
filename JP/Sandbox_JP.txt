@@ -1,9 +1,9 @@
-﻿Sandbox_JP = {
+Sandbox_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.23
-	-- Date 12-19-2019
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -138,7 +138,7 @@
 	Sandbox_FridgeEffect_option5 = "とても遅い",
 
 	Sandbox_DaysForRottenFoodRemoval = "腐敗した食料の削除",
-	Sandbox_DaysForRottenFoodRemoval_tooltip = "腐敗した食料が地図から削除されるまでのゲーム内の日数。 \n-1に設定すると腐敗した食料は削除されません。",
+	Sandbox_DaysForRottenFoodRemoval_tooltip = "腐敗した食料が地図から削除されるまでのゲーム内の日数。 \n「-1」に設定すると腐敗した食料は削除されません。",
 
 	Sandbox_LootRespawn = "戦利品の再配置",
 	Sandbox_LootRespawn_tooltip = "定期的に地域の戦利品を復活させるための設定です。",
@@ -149,7 +149,7 @@
 	Sandbox_Respawn_option5 = "2ヶ月間隔",
 
 	Sandbox_SeenHoursPreventLootRespawn = "戦利品の再配置防止",
-	Sandbox_SeenHoursPreventLootRespawn_tooltip = "設定値が0の場合は、この時間内に訪れた地域には戦利品は再配置されません。",
+	Sandbox_SeenHoursPreventLootRespawn_tooltip = "設定値が「0」の場合は、この時間内に訪れた地域には戦利品は再配置されません。",
 
 	Sandbox_TimeSinceApo = "ゲーム開始時期",
 	Sandbox_TimeSinceApo_option1 = "黙示録の直後",
@@ -230,7 +230,7 @@
 	Sandbox_ErosionSpeed_option5 = "とても遅い (500日)",
 
 	Sandbox_ErosionDays = "浸食日数",
-	Sandbox_ErosionDays_tooltip = "100％浸食するまでの日数を細かく設定することができます。\n設定を-1にすると浸食が無効になります。\n設定を0にした場合は、(侵食の早さ)の設定に依存します。\n1=(1日) 365=(1年) 最大数値 36500=(100年)",
+	Sandbox_ErosionDays_tooltip = "100％浸食するまでの日数を細かく設定することができます。\n設定を-1にすると浸食が無効になります。\n設定を「0」にした場合は、(侵食の早さ)の設定に依存します。\n1=(1日) 365=(1年) 最大数値 36500=(100年)",
 
 	Sandbox_FarmingSpeed = "農作物の成長速度",
 	Sandbox_FarmingSpeed_option1 = "とても速い",
@@ -313,7 +313,7 @@
 	Sandbox_GeneratorSpawning_option5 = "とても多い",
 
 	Sandbox_GeneratorFuelConsumption = "発電機の燃料消費率",
-	Sandbox_GeneratorFuelConsumption_tooltip = "発電機の燃料消費率を設定します。0.0 で燃料を消費しません。",
+	Sandbox_GeneratorFuelConsumption_tooltip = "発電機の燃料消費率を設定します。「0.0」で燃料を消費しません。",
 
 	Sandbox_SurvivorHouseChance = "特定の家に関する生成割合",
 	Sandbox_SurvivorHouseChance_option1 = "無効",
@@ -323,7 +323,8 @@
 	Sandbox_SurvivorHouseChance_option5 = "多い",
 	Sandbox_SurvivorHouseChance_option6 = "とても多い",
 	Sandbox_SurvivorHouseChance_tooltip = "ゲーム上にランダムに出現する特別な家(全焼した家・セーフハウス・死体がある家) の生成割合を設定します。",
-
+	Sandbox_VehicleStoryChance = "車両に関するストーリーチャンスの生成割合",
+	Sandbox_ZoneStoryChance = "ランダムに発生する区域に関するストーリーチャンスの生成割合",
 	Sandbox_AnnotatedMapChance = "地図（メモが書かれた）の生成割合",
 	Sandbox_AnnotatedMapChance_tooltip = "地図（メモが書かれた）には、生存者が書き残した 秘密の隠れ家やアイテムの隠し場所が書いてあります。",
 	Sandbox_AnnotatedMapChance_option1 = "無効",
@@ -457,7 +458,7 @@
 	Sandbox_CarSpawnRate_option2 = "少ない",
 	Sandbox_CarSpawnRate_option3 = "普通",
 	Sandbox_CarSpawnRate_option4 = "少し多い",
-	Sandbox_CarSpawnRate_option5 = "とても多い",
+	Sandbox_CarSpawnRate_option5 = "多い",
 
 	Sandbox_ZombieAttractionMultiplier = "車両のエンジン音量",
 	Sandbox_ZombieAttractionMultiplier_tooltip = "ゾンビの反応に影響を与えるエンジン音量の増減を設定します。",
@@ -510,7 +511,7 @@
 	Sandbox_PlayerDamageFromCrash_tooltip = "車両事故でプレーヤー受けるダメージを有効または無効にします。",
 
 	Sandbox_SirenShutoffHours = "サイレン停止時間",
-	Sandbox_SirenShutoffHours_tooltip = "車両のサイレン音が停止するまでの時間を設定します。\n0に設定した場合は車両のバッテリが無くなるまで鳴り続けます。",
+	Sandbox_SirenShutoffHours_tooltip = "車両のサイレン音が停止するまでの時間を設定します。\n「0」に設定した場合は車両のバッテリが無くなるまで鳴り続けます。",
 
 	Sandbox_CarDamageOnImpact = "車両が受ける損傷",
 	Sandbox_CarDamageOnImpact_tooltip = "車両が損傷する際に受ける車体へのダメージ量を設定します。",
@@ -582,6 +583,15 @@
 	Sandbox_ZCognition_option3 = "初歩的な追跡",
 	Sandbox_ZCognition_option4 = "ランダム",
 
+	Sandbox_ZCrawlUnderVehicle = "車両の下に潜る",
+	Sandbox_ZCrawlUnderVehicle_option1 = "無い",
+	Sandbox_ZCrawlUnderVehicle_option2 = "非常にまれ",
+	Sandbox_ZCrawlUnderVehicle_option3 = "まれにある",
+	Sandbox_ZCrawlUnderVehicle_option4 = "普通",
+	Sandbox_ZCrawlUnderVehicle_option5 = "少し多い",
+	Sandbox_ZCrawlUnderVehicle_option6 = "多い",
+	Sandbox_ZCrawlUnderVehicle_option7 = "常に",
+
 	Sandbox_ZMemory = "記憶能力",
 	Sandbox_ZMemory_option1 = "長い",
 	Sandbox_ZMemory_option2 = "普通",
@@ -623,11 +633,14 @@
 	Sandbox_ActiveOnly_option2 = "夜間に行動",
 	Sandbox_ActiveOnly_option3 = "昼間に行動",
 
-	Sandbox_TriggerHouseAlarm = "住宅防犯アラームの設定",
-	Sandbox_TriggerHouseAlarm_tooltip = "ゾンビが窓やドアを突破した際に住宅防犯アラームが動作するか設定します。",
+	Sandbox_TriggerHouseAlarm = "住宅防犯アラームの作動",
+	Sandbox_TriggerHouseAlarm_tooltip = "ゾンビが窓やドアを突破した際に住宅防犯アラームが動作します。",
 
 	Sandbox_ZombiesDragDown = "引き下ろす",
 	Sandbox_ZombiesDragDown_tooltip = "複数ゾンビから攻撃を受けた場合、ゾンビの強さにより引きずられて捕食される可能性があります。",
+
+	Sandbox_ZombiesFenceLunge = "フェンスに突進",
+	Sandbox_ZombiesFenceLunge_tooltip = "ゾンビがフェンスを乗り越えて突進する場合があります。",
 
 	--
 
@@ -648,7 +661,7 @@
 	Sandbox_PopulationPeakDay_help = "ゾンビの数がピークに達するまでの日数。",
 
 	Sandbox_RespawnHours = "範囲内のリスポーン時間",
-	Sandbox_RespawnHours_help = "ゾンビがセル内にリスポーンするまでの時間。\n0の場合はリスポーンは無効となります。",
+	Sandbox_RespawnHours_help = "ゾンビがセル内にリスポーンするまでの時間。\n「0」の場合はリスポーンは無効となります。",
 
 	Sandbox_RespawnUnseenHours = "範囲外のリスポーン時間",
 	Sandbox_RespawnUnseenHours_help = "ゾンビがリスポーンする前に集団が見えていてはいけない時間。",
@@ -657,13 +670,13 @@
 	Sandbox_RespawnMultiplier_help = "リスポーン時間ごとに復活するセル上の希望に応じたゾンビの割合。",
 
 	Sandbox_RedistributeHours = "ゾンビの再分配時間",
-	Sandbox_RedistributeHours_help = "ゾンビが同じセルの何もない箇所に移動するまでの経過時間。",
+	Sandbox_RedistributeHours_help = "ゾンビが同じセル内のゾンビのいない箇所に移動するまでの経過時間。",
 
 	Sandbox_FollowSoundDistance = "ゾンビの音に対する反応距離",
 	Sandbox_FollowSoundDistance_help = "ゾンビが最後に音の聞こえた地点に歩いて行こうとする距離。",
 
 	Sandbox_RallyGroupSize = "ゾンビ集団の大きさ",
-	Sandbox_RallyGroupSize_help = "通常時にゾンビが形成する集団の大きさ。0であればゾンビは集団を形成しません。\nまた、建物の中や森林地域ではゾンビの集団は形成されません。",
+	Sandbox_RallyGroupSize_help = "通常時にゾンビが形成する集団の大きさ。「0」であればゾンビは集団を形成しません。\nまた、建物の中や森林地域ではゾンビの集団は形成されません。",
 
 	Sandbox_RallyTravelDistance = "ゾンビ集団形成の距離",
 	Sandbox_RallyTravelDistance_help = "通常時にゾンビが集団を形成しようと移動する距離。",
@@ -675,7 +688,6 @@
 	Sandbox_RallyGroupRadius_help = "ゾンビ集団のリーダーとメンバーとの距離を設定します。",
 
 	Sandbox_MinMaxDefault = "\n設定数値 最大値 = %2 通常値 = %3 最小値 = %1",
-
 
 	Sandbox_ZombieRespawn = "ゾンビの再配置間隔",
 	Sandbox_ZombieRespawn_tooltip = "定期的に地域のゾンビを再配置させるための設定です。",
@@ -694,5 +706,25 @@
 	Sandbox_ZombieRespawnPercent_option10 = "100 %",
 
 	Sandbox_PresetName_Error = "以下の文字は使用できません: /  \\  :  ;  \  .",
+	Sandbox_DeletePresetPrompt = "設定ファイル'%1'を削除しますか？",
+
+	Sandbox_WorldItemRemovalList = "戦利品の削除リスト",
+	Sandbox_WorldItemRemovalList_tooltip = "削除リストの時間で設定されている、削除される戦利品タイプのカンマで区切ったリストです。",
+	Sandbox_HoursForWorldItemRemoval = "戦利品が削除される迄の時間",
+	Sandbox_HoursForWorldItemRemoval_tooltip = "地面に落ちている戦利品が削除されるまでの時間数です。\n戦利品は、マップが次にロードされたときに取り除かれます。\n設定の値が「0」の場合は、戦利品は取り除かれません。",
+	Sandbox_ItemRemovalListBlacklistToggle = "ホワイトリストとしての削除リスト",
+	Sandbox_ItemRemovalListBlacklistToggle_tooltip = "有効にすると、戦利品の削除リストに「無い」戦利品が削除されます。",
+	Sandbox_ZTransmission_option4 = "無し",
+
+	Sandbox_FuelStationGas = "ガソリンスタンドの貯蔵量",
+	Sandbox_FuelStationGas_tooltip = "給油所のガソリンタンクがゲームスタート時にどれだけの量を貯蔵しているか設定します。",
+	Sandbox_FuelStationGas_option1 = "無い",
+	Sandbox_FuelStationGas_option2 = "非常に少ない",
+	Sandbox_FuelStationGas_option3 = "少ない",
+	Sandbox_FuelStationGas_option4 = "普通",
+	Sandbox_FuelStationGas_option5 = "少し多い",
+	Sandbox_FuelStationGas_option6 = "多い",
+	Sandbox_FuelStationGas_option7 = "満タン",
+	Sandbox_FuelStationGas_option8 = "無制限",
 
 }

@@ -1,4 +1,4 @@
-VERSION = 1,
-text = Català (CA),
-charset = Cp1252,
 
+VERSION = 1,
+text = Catalan,
+charset = ISO-8859-15,

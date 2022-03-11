@@ -1,0 +1,12 @@
+EvolvedRecipeName_ID = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Kaleng Bolognese",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Kaleng Wortel",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Kaleng Cabe",
+	EvolvedRecipeName_Base.CannedCornOpen = "Kaleng Jagung",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Kaleng Daging Korner",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Kaleng Kacang Polong",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Kaleng Kentang",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Kaleng Ikan Sarden",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Kaleng Tomat",
+	EvolvedRecipeName_Base.Teabag2 = "Teh",
+}

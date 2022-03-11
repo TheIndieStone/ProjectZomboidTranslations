@@ -1,0 +1,21 @@
+EvolvedRecipeName_JP = {
+
+	-- Official Japanese Translation Data Information
+	-- Update history
+	-- Build-41.54
+	-- Date 09-24-2021
+	-- Translation by Falcon33jp (Koichi Takebe)
+	-- E-mail:falcon33jp@gmail.com
+
+	EvolvedRecipeName_Base.CannedBologneseOpen = "開封済の缶詰(ミートソース)",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "開封済の缶詰(ニンジン)",
+	EvolvedRecipeName_Base.CannedChiliOpen = "開封済の缶詰(チリソース)",
+	EvolvedRecipeName_Base.CannedCornOpen = "開封済の缶詰(トウモロコシ)",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "開封済の缶詰(コンビーフ)",
+	EvolvedRecipeName_Base.CannedPeasOpen = "開封済の缶詰(グリーンピース)",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "開封済の缶詰(ジャガイモ)",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "開封済の缶詰(イワシ)",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "開封済の缶詰(トマト)",
+	EvolvedRecipeName_Base.Teabag2 = "紅茶バッグ",
+
+}

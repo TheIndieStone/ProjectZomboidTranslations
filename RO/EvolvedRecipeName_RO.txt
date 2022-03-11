@@ -1,0 +1,12 @@
+EvolvedRecipeName_RO = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Conservă cu Spaghete Bolognese",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Conservă Morcovi",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Conservă Chili",
+    EvolvedRecipeName_Base.CannedCornOpen = "Conservă cu Porumb",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Conservă cu Carne de Vită",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Conservă Mazăre",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Conservă Cartof",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Conservă cu Sardine",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Conservă cu Roșii",
+    EvolvedRecipeName_Base.Teabag2 = "Ceai",
+}

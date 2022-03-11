@@ -1,9 +1,9 @@
-﻿Recipe_JP = {
+Recipe_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.23
-	-- Date 12-19-2019
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -26,8 +26,7 @@
 	Recipe_Sawn-off = "銃身と銃床を切り詰める",
 	Recipe_Craft_Spiked_Plank = "釘板を作る",
 	Recipe_Empty_Whisky_Bottle = "ウィスキーボトルを空にする",
-	Recipe_Rip_bandages = "破って包帯にする",
-	Recipe_Saw_Logs = "丸太を鋸で切る",
+	Recipe_Rip_bandages = "包帯を作る",
 	Recipe_Make_Pot_of_Soup = "缶詰(スープ)を調理鍋に入れる",
 	Recipe_Slice_Watermelon = "スイカを薄切りにする",
 	Recipe_Smash_Watermelon = "スイカを割る",
@@ -38,7 +37,7 @@
 	Recipe_Open_Canned_Tuna = "缶詰(ツナ)を開封する",
 	Recipe_Make_Bowl_of_Soup = "ボウルにスープを取り分ける",
 	Recipe_Make_Ramen = "インスタントラーメンを作る",
-	Recipe_Light_Candle = "ロウソクに火を灯す",
+	Recipe_Light_Candle = "蝋燭に火を灯す",
 	Recipe_Make_Cheese_Sandwich = "チーズサンドイッチを作る",
 	Recipe_Make_Grilled_Cheese_Sandwich = "グリルドチーズサンドイッチを作る",
 	Recipe_Make_Broccoli_Chicken_Casserole = "ブロッコリーと鶏肉のキャセロールを作る",
@@ -97,7 +96,6 @@
 	Recipe_Make_Stone_Hammer = "石の金槌を作る",
 	Recipe_Make_Stone_Axe = "石の斧を作る",
 	Recipe_Make_Wooden_Lance = "木製の槍を作る",
-	Recipe_Rip_sheets = "布切れを作る",
 	Recipe_Disinfect_Bandage = "消毒する",
 	Recipe_Disinfect_Rag = "消毒する",
 	Recipe_Clean_Rag = "水で洗浄する",
@@ -210,7 +208,6 @@
 	Recipe_Place_Pie_in_Baking_Pan = "生地をベイクパンに入れる",
 	Recipe_Place_Screws_in_Box = "箱に入れる",
 	Recipe_Place_Shotgun_Shells_in_Box = "箱に入れる",
-	Recipe_Place_Vegetables_in_Roasting_Pan = "ローストパンに食材を入れる",
 	Recipe_Put_Broccoli_Seeds_in_Packet = "種子を袋に入れる",
 	Recipe_Put_Cabbage_Seeds_in_Packet = "種子を袋に入れる",
 	Recipe_Put_Carrots_Seeds_in_Packet = "種子を袋に入れる",
@@ -318,7 +315,6 @@
 	Recipe_Make_Suture_Needle_Holder = "縫合持針器を作る",
 	Recipe_Make_Tongs = "金箸を作る",
 	Recipe_Make_Tweezers = "医療ピンセットを作る",
-	Recipe_HotDrink = "熱い飲み物",
 	Recipe_Prepare_Beverage = "飲み物を作る",
 	Recipe_FruitSalad = "フルーツサラダ",
 	Recipe_Make_Fruit_Salad = "フルーツサラダを作る",
@@ -326,8 +322,7 @@
 	Recipe_Rip_Clothing = "布切れを作る",
 	Recipe_Make_Small_Metal_Sheet = "金属板(小さい)を作る",
 	Recipe_Wash_Clothing = "衣類を洗濯する",
-	Recipe_Make_Cold_Cuppa = "飲み物を作る",
-	Recipe_Make_Hot_Cuppa = "飲み物を作る",
+
 	Herbalist = "薬草を使った治療",
 	Recipe_Basic_Mechanics = "標準モデルの整備",
 	Recipe_Intermediate_Mechanics = "商用モデルの整備",
@@ -378,8 +373,29 @@
 	Recipe_Reclaim_Scissors_from_Spear = "槍からハサミを取り外す",
 	Recipe_Reclaim_Screwdriver_from_Spear = "槍からスクリュードライバーを取り外す",
 	Recipe_Reclaim_Spoon_from_Spear = "槍からスプーンを取り外す",
-	Recipe_Reclaim_Kitchen_Knife_to_Spear = "槍から包丁を取り外す",
+	Recipe_Reclaim_Kitchen_Knife_from_Spear = "槍から包丁を取り外す",
 	Recipe_Clean_Denim_Strips = "布地を洗う",
 	Recipe_Clean_Leather_Strips = "革を洗う",
+	Recipe_Close_Umbrella = "傘を閉じる",
+	Recipe_Rip_Sheets = "布切れを作る",
+	Recipe_Rip_sheets = "布切れを作る",
+	Recipe_Insert_Battery_into_Duck = "電池を入れる",
+	Recipe_Make_Stone_Knife = "石のナイフを作る",
+	Recipe_Open_Umbrella = "傘を開く",
+	Recipe_Saw_Logs2 = "丸太を切る",
+	Recipe_Saw_Logs = "丸太を切る",
+	Recipe_Empty_Griddle_Pan = "グリドルパンを空にする",
+	Recipe_Place_Ingredients_in_Roasting_Pan = "ローストパンに食材を入れる",
+	Recipe_Place_Vegetables_in_Roasting_Pan = "ローストパンに食材を入れる",
+	Recipe_Extinguish Candle = "蝋燭の火を消す",
+	Recipe_Make Newspaper Hat = "帽子(新聞紙)を作る",
+	Recipe_Make Tin Foil Hat = "ティンホイル・ハットを作る",
+	Recipe_Saw Off Double Barrel Shotgun = "銃身と銃床を切り詰める",
+	Recipe_HotDrink = "温かい飲み物",
+	Recipe_HotDrinkRed = "温かい飲み物",
+	Recipe_HotDrinkSpiffo = "温かい飲み物",
+	Recipe_HotDrinkWhite = "温かい飲み物",
+	Recipe_Make_Cold_Cuppa = "冷たい飲み物を作る",
+	Recipe_Make_Hot_Cuppa = "温かい飲み物を作る",
 
 }

@@ -1,9 +1,9 @@
-﻿Moodles_JP = {
+Moodles_JP = {
 
 	-- Official Japanese Translation Data Information
 	-- Update history
-	-- Build-41.23
-	-- Date 12-19-2019
+	-- Build-41.54
+	-- Date 09-24-2021
 	-- Translation by Falcon33jp (Koichi Takebe)
 	-- E-mail:falcon33jp@gmail.com
 
@@ -139,7 +139,7 @@
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "一息入れるべきだ。",
 	Moodles_endurance_desc_lvl2 = "かろうじて走れる。",
-	Moodles_endurance_desc_lvl3 = "かろうじて歩るける。",
+	Moodles_endurance_desc_lvl3 = "かろうじて歩ける。",
 	Moodles_endurance_desc_lvl4 = "息途絶え途絶え。",
 
 	-- Angry
@@ -273,5 +273,8 @@
 	Moodles_windchill_desc_lvl2 = "実際よりも10-15度くらい冷たく感じる。",
 	Moodles_windchill_desc_lvl3 = "実際よりも15-20度くらい冷たく感じる。",
 	Moodles_windchill_desc_lvl4 = "実際よりも20度以上冷たく感じる。",
+
+	Moodles_CantSprint = "制限された移動",
+	Moodles_CantSprint_desc = "重い被服、かさばるバッグ、大きな荷物などで動きが重くなる！",
 
 }

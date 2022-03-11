@@ -1,0 +1,37 @@
+MakeUp_CS = {
+    MakeUpCategory_Eyes = "Oči",
+    MakeUpCategory_EyesShadow = "Oční stíny",
+    MakeUpCategory_FullFace = "Celý obličej",
+    MakeUpCategory_Lips = "Rty",
+
+    MakeUpType_EyesRedStripes1 = "Červené pruhy 1",
+    MakeUpType_EyesRedStripes2 = "Červené pruhy 2",
+    MakeUpType_EyesCamo1 = "Maskování 1",
+    MakeUpType_EyesCamo2 = "Maskování 2",
+    MakeUpType_EyesCamoStripes = "Proužky",
+    MakeUpType_EyesFootball = "Fotbal"
+    MakeUpType_EyesCrow = "Vrána"
+	
+    MakeUpType_EyeShadowWhite = "Bílé oční stíny",
+    MakeUpType_EyeShadowLightBlue = "Světle modré oční stíny",
+    MakeUpType_EyeShadowBlue = "Modré oční stíny",
+    MakeUpType_EyeShadowRed = "Červené oční stíny",
+    MakeUpType_EyeShadowPink = "Růžové oční stíny",
+    MakeUpType_EyeShadowGreen = "Zelené oční stíny",
+    MakeUpType_EyeShadowYellow = "Žluté oční stíny",
+	
+    MakeUpType_FullFaceCamo1 = "Celkové maskování 1",
+    MakeUpType_FullFaceCamo2 = "Celkové maskování 2",
+    MakeUpType_FullFaceWarrior = "Válečník",
+    MakeUpType_FullFaceClown2 = "Klaun 2",
+    MakeUpType_FullFaceClown1 = "Klaun 1",
+    MakeUpType_FullFaceSkull1 = "Lebka 1",
+    MakeUpType_FullFaceSkull2 = "Lebka 2",
+	
+    MakeUpType_LipsRed = "Červená rtěnka",
+    MakeUpType_LipsLightBlue = "Světle modrá rtěnka",
+    MakeUpType_LipsBlack = "Černá rtěnka",
+    MakeUpType_LipsGreen = "Zelená rtěnka",
+    MakeUpType_LipsPink = "Růžová rtěnka",
+    MakeUpType_LipsBlue = "Modrá rtěnka"
+}

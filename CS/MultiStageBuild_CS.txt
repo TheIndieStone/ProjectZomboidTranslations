@@ -1,0 +1,27 @@
+MultiStageBuild_CS = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Vyrobit dřevěnou zeď lvl.1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Vylepšit dřevěnou zeď na lvl.2",
+    MultiStageBuild_CreateWoodenWall_2 = "Vyrobit dřevěnou zeď lvl.2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Vylepšit dřevěnou zeď na lvl.3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Vylepšit dřevěnou zeď na lvl.3",
+    MultiStageBuild_CreateWoodenWall_3 = "Vyrobit dřevěnou zeď lvl.3",
+	-- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Vyrobit dřevěnou zeď s oknem lvl.1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Vylepšit dřevěnou zeď s oknem lvl.2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Vyrobit dřevěnou zeď s oknem lvl.2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Vylepšit dřevěnou zeď s oknem lvl.3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Vylepšit dřevěnou zeď s oknem lvl.3",
+	MultiStageBuild_CreateWoodenWindow_3 = "Vyrobit dřevěnou zeď s oknem lvl.3",
+	-- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Vyrobit plechovou stěnu lvl.1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Vylepšit plechovou stěnu na lvl.2",
+    MultiStageBuild_CreateMetalWall_2 = "Vyrobit plechovou stěnu lvl.2",
+	-- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Vyrobit plechovou stěnu s oknem lvl.1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Vylepšit plechovou stěnu s oknem na lvl.2",
+    MultiStageBuild_CreateMetalWindow_2 = "Vyrobit plechovou stěnu s oknem lvl.2",
+	-- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Vylepšit dřevěný rám dveří na lvl.2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Vylepšit dřevěný rám dveří na lvl.3",
+}

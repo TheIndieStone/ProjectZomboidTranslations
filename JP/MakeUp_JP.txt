@@ -1,0 +1,42 @@
+MakeUp_JP = {
+
+	-- Official Japanese Translation Data Information
+	-- Update history
+	-- Build-41.54
+	-- Date 09-24-2021
+	-- Translation by Falcon33jp (Koichi Takebe)
+	-- E-mail:falcon33jp@gmail.com
+
+	MakeUpCategory_Eyes = "目",
+	MakeUpCategory_EyesShadow = "アイシャドウ",
+	MakeUpCategory_FullFace = "顔",
+	MakeUpCategory_Lips = "口",
+	MakeUpType_EyesCrow = "カラス",
+	MakeUpType_EyesRedStripes1 = "レットストライプ パターン1",
+	MakeUpType_EyesRedStripes2 = "レットストライプ パターン2",
+	MakeUpType_EyesCamo1 = "カモフラージュ パターン1",
+	MakeUpType_EyesCamo2 = "カモフラージュ パターン2",
+	MakeUpType_EyesCamoStripes = "カモフラージュ ストライプ",
+	MakeUpType_EyesFootball = "アイブラック",
+	MakeUpType_EyeShadowWhite = "アイシャドウ ホワイト",
+	MakeUpType_EyeShadowLightBlue = "アイシャドウ ライトブルー",
+	MakeUpType_EyeShadowBlue = "アイシャドウ ブルー",
+	MakeUpType_EyeShadowRed = "アイシャドウ レッド",
+	MakeUpType_EyeShadowPink = "アイシャドウ ピンク",
+	MakeUpType_EyeShadowGreen = "アイシャドウ グリーン",
+	MakeUpType_EyeShadowYellow = "アイシャドウ イエロー",
+	MakeUpType_FullFaceCamo1 = "フルカモフラージュ パターン1",
+	MakeUpType_FullFaceCamo2 = "フルカモフラージュ パターン2",
+	MakeUpType_FullFaceWarrior = "ウォリア",
+	MakeUpType_FullFaceClown1 = "ピエロ パターン1",
+	MakeUpType_FullFaceClown2 = "ピエロ パターン2",
+	MakeUpType_FullFaceSkull1 = "骸骨 パターン1",
+	MakeUpType_FullFaceSkull2 = "骸骨 パターン2",
+	MakeUpType_LipsRed = "リップスティック ピンク",
+	MakeUpType_LipsLightBlue = "リップスティック ライトブルー",
+	MakeUpType_LipsBlue = "リップスティック ブルー",
+	MakeUpType_LipsBlack = "リップスティック ブラック",
+	MakeUpType_LipsGreen = "リップスティック グリーン",
+	MakeUpType_LipsPink = "リップスティック ピンク",
+
+}

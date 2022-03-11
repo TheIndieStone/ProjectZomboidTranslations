@@ -56,4 +56,13 @@ Farming_UA = {
 	Farming_Strawberry plant = "Полуниця",
 	Farming_Tomato = "Томат",
 	Farming_Plowed_Land = "Вспахана земля",
+	Farming_Tooltip_FurrowNeedsSeed = "Борозні потрібне насіння.",
+	Farming_Tooltip_ItemUsed = "Елемент використовується",
+	Farming_Tooltip_NotAFurrow = "Немає борозни.",
+	Farming_Tooltip_NotAPlant = "Не рослина.",
+	Farming_Tooltip_NotEnoughWaterInInventory = "Недостатньо води в інвентарі.",
+	Farming_Tooltip_NotReadyToHarvest = "Не готове до збирання.",
+	Farming_Tooltip_PlantHasEnoughWater = "Рослині достатньо води.",
+	Farming_Tooltip_FurrowHasSeeds = "Борозна вже має насіння.",
+	Farming_MissingItem = "Тобі потрібно %1",
 }

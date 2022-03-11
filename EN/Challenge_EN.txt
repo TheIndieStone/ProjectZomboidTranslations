@@ -29,7 +29,7 @@ Challenge_EN = {
     Challenge_Studio_name = "Studio",
     Challenge_Studio_desc = "Where all the best movies are filmed!",
 	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Press 'o' for permanent boost and to spend some money.",
+	Challenge_Challenge2_PressKey = "Press "o" for permanent boost and to spend some money.",
 	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (press Enter to skip)",
 	Challenge_Challenge2_WaveDuration = "Wave %1 : %2",
 	Challenge_Challenge2_ZombiesLeft = "Zombies left : %1",

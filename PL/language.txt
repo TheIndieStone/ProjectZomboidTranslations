@@ -1,4 +1,3 @@
 VERSION = 1,
 text = Polish,
 charset = Cp1250,
-

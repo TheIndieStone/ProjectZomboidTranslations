@@ -1,0 +1,9 @@
+Muldraugh
+ <LINE> <LINE>
+ Muldraugh este un mic oraș într-o zonă pe care localnicii o cunosc drept 'Knox Country' -
+ mijlocul statului Kentucky. S-a dezvoltat drept un oraș militar, dar acum întâmpină
+ oameni de pe toate drumurile vieții - oameni care fac naveta în orașele mari apropiate, familii militare și localnici care trăiesc sub pragul sărăciei.
+ <LINE> <LINE>
+ Este un loc micuț, plin de oameni buni - ca să nu mai vorbim de cel mai bun Pui și Biscuiți din partea aceasta a Kentucky-ului, 
+ făcut de către Spiffo! Sigur, nu se întâmplă multe pe aici - dar asta nu înseamnă că viața în Muldraugh este plictisitoare...
+

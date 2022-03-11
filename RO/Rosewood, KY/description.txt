@@ -1,0 +1,9 @@
+Rosewood
+ <LINE> <LINE>
+ O vizită scurtă în Rosewood e plăcută, dar oare una lungă?
+ Ei bine, prizonierii faimosului Penitenciar Knox îți vor răspunde: nu e foarte amuzantă!
+ <LINE> <LINE>
+ Ideal situat geografic pentru un acces ușor, Rosewood este un centru comunitar pentru administrare,
+ servicii comunitare și un centru de încarcerare fruntaș.
+ Tribunalul județean, o stație de pompieri recent renovată și o secție de poliție plină de viață
+ îl fac unul dintre cele mai importante orașe din zonă! Visitează azi!
