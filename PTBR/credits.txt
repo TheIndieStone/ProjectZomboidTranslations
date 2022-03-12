@@ -1,10 +1,10 @@
 Official Brazilian Translation Server 
 ___________________________________________
 Translation Team:
-Rafael "R4to0" 
+Rafael "R4to0" Alves
 Victor "Benin" Hugo
 Ranieri "Gravedigger" Welenkens
-Guilherme "NaoEoGui" Alves
+Guilherme "NaoeoGui" Alves
 
 ___________________________________________
 Reviewer:
