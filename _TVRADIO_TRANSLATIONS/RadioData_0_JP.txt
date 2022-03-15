@@ -1,4 +1,4 @@
-// Localization Table	
+﻿// Localization Table	
 // Language: Japanese	
 [Info]	
 	version = 0
@@ -343,7 +343,7 @@
 	e3f0c2a9-68de-418b-8f74-2e6fb98afa68 = あぁ、待ってください、たった今報告がありました。
 	
 	//111. ORIGINAL: It's a statement from the President distributed to all media.
-	028bee7b-0c38-4163-bd05-424cd8d359ae = 全てのメディアに当てた大統領の声明文です。
+	028bee7b-0c38-4163-bd05-424cd8d359ae = すべてのメディアに当てた大統領の声明文です。
 	
 	//112. ORIGINAL: This is a distressing time.
 	4296776d-6ee6-411c-b8f2-b887514a1a12 = 現在深刻な状況にあります。
@@ -706,7 +706,7 @@
 	40f5478b-f7b9-46a1-bf33-2cc7bcc2e0fb = 更なる情報を随時公開します...
 	
 	//232. ORIGINAL: ...FULL information...
-	dc5c5b50-fe58-4d63-b072-1d0d8fc28442 = ...私の手元に集約された"全て"の情報を...
+	dc5c5b50-fe58-4d63-b072-1d0d8fc28442 = ...私の手元に集約された"すべて"の情報を...
 	
 	//233. ORIGINAL: When I have it in my hand.
 	c2d3184e-be50-489b-978f-e4048721367a = 公開します。
@@ -739,7 +739,7 @@
 	b3b664e0-6f5b-491d-8853-6e7fd8a194f9 = WHO:世界保健機関により、アメリカの国際線の民間航空機の運航が差し止められました。
 	
 	//243. ORIGINAL: Any flight scheduled to take off after six tonight is cancelled.
-	6abe4027-7766-4caa-8ec0-3ce48c281db9 = 今夜の18時以降に出発が予定されている便は全て欠航となります。
+	6abe4027-7766-4caa-8ec0-3ce48c281db9 = 今夜の18時以降に出発が予定されている便はすべて欠航となります。
 	
 	//244. ORIGINAL: In a statement the World Health Organisation highlights...
 	fb094ff3-fd90-49b6-ae11-32668a57d874 = WHOの声明は...
@@ -775,7 +775,7 @@
 	e91e923b-e6cf-4ac3-81fc-57a6f9c0c8d5 = 現在、封鎖区域内に複数の研究室を設けました。
 	
 	//255. ORIGINAL: I assure the American people that every dollar I have at my disposal...
-	88a87684-c393-471e-905a-03ed9fa463f8 = 私はアメリカ国民に対し費やす予算の全てを...
+	88a87684-c393-471e-905a-03ed9fa463f8 = 私はアメリカ国民に対し費やす予算のすべてを...
 	
 	//256. ORIGINAL: ...will go toward their healing and rehabilitation.
 	0ae4b081-c033-4dd5-b14a-c78cb812085f = ...患者の方の回復と社会復帰に充てることをお約束します。
@@ -943,7 +943,7 @@
 	5f03af59-8783-4c16-b939-5acc9e8dc577 = 報道関係者の方は責任のある行動をしてください。
 	
 	//311. ORIGINAL: We are examining all potentialities.
-	88725dc7-5942-41dc-9e14-0e54b1b48985 = 政府は全てのあらゆる可能性を分析しています。
+	88725dc7-5942-41dc-9e14-0e54b1b48985 = 政府はすべてのあらゆる可能性を分析しています。
 	
 	//312. ORIGINAL: I will update you whenever we have new information.
 	afc5b0bb-5e8c-4634-a3dd-a17c2eb4d60b = 新たな情報が入り次第公開します。
@@ -1042,7 +1042,7 @@
 	7558faba-50c8-4126-8313-ab48222d374a = <ザザッー>
 	
 	//344. ORIGINAL: <bzzt> impacting on all communications <fzzt>
-	e1ba861f-7a89-454c-b1b7-75ef90505289 = <ザッー> 全ての通信網に対し影響が <ザザッー>
+	e1ba861f-7a89-454c-b1b7-75ef90505289 = <ザッー> すべての通信網に対し影響が <ザザッー>
 	
 	//345. ORIGINAL: <bzzt> some flights <bzzt>
 	590a1c74-e511-4694-8903-3f95cabacd97 = <ザッー> 何か飛んで <ザッー>
@@ -1510,7 +1510,7 @@
 	91715188-24d6-4b74-a770-a24ea5b69d40 = どこか人気のない場所へ行き、バリケードを築き、身を隠してください。
 	
 	//500. ORIGINAL: Wait till it all blows over.
-	ce6dab55-b260-487a-8f06-7960a36147c9 = 全てが過ぎ去るまでです。
+	ce6dab55-b260-487a-8f06-7960a36147c9 = すべてが過ぎ去るまでです。
 	
 	//501. ORIGINAL: Find a way to...
 	53c91752-3b77-4146-9176-c0da91adf46e = 脱出するための手段を... 
@@ -1765,7 +1765,7 @@
 	0e5431c6-ae5a-47fe-b691-04543e949be6 = 長距離の移動は行わないこと。
 	
 	//585. ORIGINAL: Assume all major urban areas have been compromised.
-	35ac7688-7455-488f-9917-da24dba34d07 = 主要な大都市の全てに感染が及んだと想定される。
+	35ac7688-7455-488f-9917-da24dba34d07 = 主要な大都市のすべてに感染が及んだと想定される。
 	
 	//586. ORIGINAL: We are doing all we can to reclaim American soil.
 	b0ab86be-9aad-42e1-85e6-a629ac5bb713 = 政府はアメリカ合衆国の再生に全力をあげている。
@@ -1777,7 +1777,7 @@
 	061f2e55-e448-410b-a61e-cb943a72d611 = この放送は繰り返し再生するように設定されています。
 	
 	//589. ORIGINAL: All further updates will be broadcast on this frequency.
-	fc8c1440-65a7-4b0c-a27b-b2c5a8d5c945 = 今後の状況は全てこの周波数にて放送されます。
+	fc8c1440-65a7-4b0c-a27b-b2c5a8d5c945 = 今後の状況はすべてこの周波数にて放送されます。
 	
 	//590. ORIGINAL: Good luck.
 	3880fe04-94b0-49af-a6ea-dd488e8c1834 = 幸運を。
@@ -2266,7 +2266,7 @@
 	96fc905a-346f-4793-9dc5-0f2c610cd395 = WHO:世界保健機関の要請により...
 	
 	//752. ORIGINAL: ...have been grounded by the World Health Organisation.
-	98819380-529d-4d9a-b282-77aa0fd3da9e = 今夜のEST:東部標準時午後18時以降、アメリカ本土を出発する"全て"の航空機は欠航になります。
+	98819380-529d-4d9a-b282-77aa0fd3da9e = 今夜のEST:東部標準時午後18時以降、アメリカ本土を出発する"すべて"の航空機は欠航になります。
 	
 	//753. ORIGINAL: Their concern?
 	9013df14-eac3-4e99-af7c-634cbd68b4ab = WHOが懸念していることとは何でしょうか?
@@ -2494,7 +2494,7 @@
 	b5cfe549-6778-4ef5-8dd7-fd9e855aae68 = 夜間外出禁止令は状況が改善されるまで継続されるでしょう。
 	
 	//828. ORIGINAL: Your regional NNR station will have all the details.
-	4c230f0f-0aab-4ecc-bd3b-a7312f765b75 = NNRには全ての情報が集約され、各地域ごとに放送されます。
+	4c230f0f-0aab-4ecc-bd3b-a7312f765b75 = NNRにはすべての情報が集約され、各地域ごとに放送されます。
 	
 	//829. ORIGINAL: God bless America.
 	00a41d2e-2f19-4f73-b02e-0a8fd2cf51c1 = アメリカ合衆国に神のご加護を。
@@ -3220,7 +3220,7 @@
 	d8c0d3c1-3105-46f6-8337-a21cb55cf45a = 私は狩りをします。私は射撃をします。私は釣りをします。
 	
 	//1070. ORIGINAL: I see nature all around.
-	fdbec377-f5c3-463a-84dd-75421aa40d6a = 私は自然の全てを目の当たりにしています。
+	fdbec377-f5c3-463a-84dd-75421aa40d6a = 私は自然のすべてを目の当たりにしています。
 	
 	//1071. ORIGINAL: And it's clean, it's clear, it's as God intended.
 	b9bcf2d1-baa7-4525-a5a5-71f28e5ac33e = 清らかであり、綺麗であり、まさに神の創造物です。
@@ -4195,7 +4195,7 @@
 	4a69fb1e-a62d-440f-93e5-eb64c93fe0d1 = 私はただ感謝の気持ちを言いたいだけです。
 	
 	//1395. ORIGINAL: All those other stations. The TV.
-	d0a32efc-11f5-4274-b2c2-0e5dc39bfb33 = 全てのラジオ局、テレビ局にです。
+	d0a32efc-11f5-4274-b2c2-0e5dc39bfb33 = すべてのラジオ局、テレビ局にです。
 	
 	//1396. ORIGINAL: They're just saying what they want them to say.
 	6b60419b-51ad-46e8-b3db-29cb4487991b = 私は皆さんの言いたいことを代弁しています。
@@ -4537,7 +4537,7 @@
 	5358c17d-1458-4c81-bbe3-4fc5918faf94 = 怖がっていますね。
 	
 	//1509. ORIGINAL: They've taken all the food.
-	6fe3413d-17f5-4bed-aede-087e6434a025 = 食料品は全て略奪されています。
+	6fe3413d-17f5-4bed-aede-087e6434a025 = 食料品はすべて略奪されています。
 	
 	//1510. ORIGINAL: There's fighting in the line for gas...
 	ce17bc6f-c2fe-4527-86a2-ac00745e4142 = ガソリンの供給も危うい状態です...
@@ -5014,7 +5014,7 @@
 	75a80f13-1ab8-4f30-9490-918aeedaeb93 = 一緒に乗り越えましょう。
 	
 	//1668. ORIGINAL: Some say there's an immunity.
-	fb332e23-2849-4305-a416-4928d2dbdb7f = 全ての人が感染しているわけではないとの報告もあります。
+	fb332e23-2849-4305-a416-4928d2dbdb7f = すべての人が感染しているわけではないとの報告もあります。
 	
 	//1669. ORIGINAL: Let's salvage something somehow.
 	24c2b067-ed5f-4634-a1e3-679e6c85f422 = 何としてでも救い出しましょう。
@@ -5119,7 +5119,7 @@
 	3f24784a-087d-4a24-876e-493366e48d3d = [img=music] 何もしてくれないの? [img=music]
 	
 	//1703. ORIGINAL: [img=music] Can't you tell you are my world? [img=music]
-	6cd0abfa-abed-4cba-904f-c135d99fb787 = [img=music] 僕の全てって言ってくれないの? [img=music]
+	6cd0abfa-abed-4cba-904f-c135d99fb787 = [img=music] 僕のすべてって言ってくれないの? [img=music]
 	
 	//1704. ORIGINAL: [img=music] You came along, I just unfurled! [img=music]
 	61391c12-5f17-469f-b672-1911b48166a6 = [img=music] あなたがそばにきて、ただ想いを伝えた! [img=music]
@@ -5149,7 +5149,7 @@
 	36e03497-183d-4c3b-bae0-40494572cd05 = この曲を聴くだろう。
 	
 	//1713. ORIGINAL: It's Every Reason with Your Smile... Your Kiss!
-	a749bd1d-d825-44a7-8121-bb85bf7060a1 = Every ReasonからYour Smile... Your Kiss!
+	a749bd1d-d825-44a7-8121-bb85bf7060a1 = Every Reasonから「君の笑顔... 君のキス!」
 	
 	//1714. ORIGINAL: [img=music] I don't know if she loves me. [img=music]
 	ac75eaa9-9b5e-4d8e-82d6-5a64428352e1 = [img=music] 君は僕を愛しているのかな。 [img=music]
@@ -5164,7 +5164,7 @@
 	c9df893d-14b1-4ec2-9722-0d3272f89a61 = [img=music] 君に尽くす価値が無いなんて、誰にも言わせない! [img=music]
 	
 	//1718. ORIGINAL: [img=music] Your smile. Your kiss. [img=music]
-	ce5b2ad0-c385-4aac-b358-60690428887b = [img=music] Your smile。 Your kiss。 [img=music]
+	ce5b2ad0-c385-4aac-b358-60690428887b = [img=music] あなたの笑顔。あなたのキス。 [img=music]
 	
 	//1719. ORIGINAL: [img=music] I'd give it all - I'd sell my soul! [img=music]
 	43f0192f-b672-4709-af3d-93640b97aaf9 = [img=music] すべてを捧げる - 僕の魂を! [img=music]
@@ -5221,7 +5221,7 @@
 	022d2ec6-ba98-423c-8479-ee73c9b2fefa = ぜひ楽しみましょう。
 	
 	//1737. ORIGINAL: This is Billy's Show. All country, all the time.
-	4b7619b7-f45b-4926-887b-5a1e66f545ab = ビリーがお届けします。All country、 all the time。
+	4b7619b7-f45b-4926-887b-5a1e66f545ab = ビリーがお届けします。ありとあらゆる場所に、いつまでも。
 	
 	//1738. ORIGINAL: Bad news today, huh?
 	dc66bb0d-c0e6-4372-ba70-78246e6646ef = 今日は悪いニュースが多いって?
@@ -5275,7 +5275,7 @@
 	92fe82f2-906d-4ef8-bf30-ec1df85a116b = これはスティーブさんからのリクエスト、リサさんへの曲ですね。
 	
 	//1755. ORIGINAL: He'll see you soon Lisa. Be strong.
-	b982bd9b-c145-47dd-8988-56da4a7e3a8f = リサさんによろしく伝えてくださいね。Be strong。
+	b982bd9b-c145-47dd-8988-56da4a7e3a8f = リサさんによろしく伝えてください。お互い頑張りましょう。
 	
 	//1756. ORIGINAL: [img=music]  If I could say... [img=music]
 	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] わがままを言えるのなら... [img=music]
@@ -6529,7 +6529,7 @@
 	486bd77e-7960-4484-95d5-a09c7831bf31 = その一帯に蔓延している病気そのものについて、ご説明していただけませんか?
 	
 	//2173. ORIGINAL: I'm sorry, but that's all classified.
-	b3cfa702-d9eb-4b0f-9b49-54a82d94998b = 申し訳ありませんが、その件については全て機密事項です。
+	b3cfa702-d9eb-4b0f-9b49-54a82d94998b = 申し訳ありませんが、その件についてはすべて機密事項です。
 	
 	//2174. ORIGINAL: I can confirm, though, that it's a fever. And initial symptoms can turn to panic and confusion.
 	5f8597d1-8ddd-410b-bc4b-e1dac8d73401 = とはいえ、発熱するは間違いありません。また、初期症状はパニック障害、並びに錯乱状態への変移もあり得ます。
@@ -6751,7 +6751,7 @@
 	a33a9161-878b-47fc-a084-549ee52bbc6a = 私からより多くの情報を提供します...
 	
 	//2247. ORIGINAL: ... FULL information...
-	1fe4e47c-cf73-4812-9c7d-b45242886e44 = ...私の手元に集約された"全て"の情報を...
+	1fe4e47c-cf73-4812-9c7d-b45242886e44 = ...私の手元に集約された"すべて"の情報を...
 	
 	//2248. ORIGINAL: ... when I have it in my hand.
 	b4a761e9-f476-4d38-8896-684abde65f83 = ...公開します。
@@ -7000,7 +7000,7 @@
 	50409413-06ac-4741-a09f-d35df3e65da8 = 夜間外出禁止令はEST:東部標準時の午後6時から実施されます。ご自宅で待機してください。
 	
 	//2330. ORIGINAL: Please tune in to local programming for curfew information.
-	bd3c295a-ec4a-4c5d-85ee-8c3ec44a2f6d = 夜間外出禁止令の詳細については、各地域のローカル番組にてお伝えしています。
+	bd3c295a-ec4a-4c5d-85ee-8c3ec44a2f6d = 夜間外出禁止令の詳細については、各地域のローカル番組にてご確認ください。
 	
 	//2331. ORIGINAL: Yes, I saw the pictures. We got the fax.
 	0dff74f2-02db-4829-9a9f-15cab7b6e157 = ええ、写真を見ました。FAXで入手しましたよ。
@@ -7405,7 +7405,7 @@
 	22298f17-75da-4ab3-843e-447421c117d3 = こちらの映像をご覧ください... 彼らはヒトではありません。
 	
 	//2465. ORIGINAL: There's an image in amongst it all.
-	a0bb50f4-11e4-42ca-9be7-f195b9c2acee = この映像が全てを物語っています。
+	a0bb50f4-11e4-42ca-9be7-f195b9c2acee = この映像がすべてを物語っています。
 	
 	//2466. ORIGINAL: A young girl calling for help, dragged from a car.
 	0f516e60-1457-4f11-9501-4d57ad4f4240 = 車から引きずり出されている女の子です。助けを求めています。
@@ -7435,7 +7435,7 @@
 	2cd76e36-1e63-4ea1-8152-0e145704a924 = はい。ここは恐ろしい状況になっています。
 	
 	//2475. ORIGINAL: All reports indicate that violence and gunfire in the border camp...
-	dbbe1ea8-1ae9-4873-988d-225ad5111f52 = 報告する全てが、封鎖線の避難所での暴動と銃撃により...
+	dbbe1ea8-1ae9-4873-988d-225ad5111f52 = 報告するすべてが、封鎖線の避難所での暴動と銃撃により...
 	
 	//2476. ORIGINAL: ... caused a surge of infected civilians that broke through the border.
 	ca37cbf2-080f-4cf6-b630-4ace2a9584c1 = ...引き寄せられた感染した市民が封鎖線を乗り越えたことに関します。
@@ -7546,7 +7546,7 @@
 	3fe05d95-d664-4bbe-aba6-e9d391ec026c = 咬まれずとも感染する原因は不明ですが、これは事実です。
 	
 	//2512. ORIGINAL: Keep away from people, animals... everything.
-	c7b138f3-b769-4876-bb26-5d9dbfa234c6 = 人、動物... 全ての生き物に近づかないでください。
+	c7b138f3-b769-4876-bb26-5d9dbfa234c6 = 人、動物... すべての生き物に近づかないでください。
 	
 	//2513. ORIGINAL: Purify water. Turn off electrics. Hide.
 	9a16d61c-c7e2-44d8-b6a2-0d2477a5a880 = 水を浄化してください。電気を消してください。身を隠してください。
@@ -7609,7 +7609,7 @@
 	eb5526cd-2914-457f-9a92-d38df1ef2b57 = 一方、国家間の渡航を縮小する試みがされています。
 	
 	//2533. ORIGINAL: Key bridges and river crossings are being blocked.
-	997fa380-2ff9-4842-92d2-4774f5144813 = 主要な橋と河川の船舶は全て封鎖、運休しています。
+	997fa380-2ff9-4842-92d2-4774f5144813 = 主要な橋と河川の船舶はすべて封鎖、運休しています。
 	
 	//2534. ORIGINAL: We'll update you throughout the day...
 	c1219f44-89b3-4a1f-99cf-f7e554b46b7d = 1日を通して何か動きがあれば...
@@ -7846,7 +7846,7 @@
 	33481eef-08d0-499b-80b6-c3278c32c638 = 彼のピックアップトラックに乗せてもらい、あらゆる場所に行きましたが...
 	
 	//2612. ORIGINAL: There are barriers everywhere. Lots of perimeter patrols...
-	4c665102-1923-44f5-8a3a-0a08f51ed50d = その全ての場所に壁が設置されていました。沢山の兵士が警戒しており...
+	4c665102-1923-44f5-8a3a-0a08f51ed50d = そのすべての場所に壁が設置されていました。沢山の兵士が警戒しており...
 	
 	//2613. ORIGINAL: We were picked up pretty much instantly.
 	c2a15257-329f-470c-9de7-f7ea9c1c1abd = 早々と捕まってしまいました。
@@ -8227,7 +8227,7 @@
 	f6bba9ac-7141-40e2-8fc1-5fd48ea1eaf5 = ここの人々の怒りは収まりません。
 	
 	//2739. ORIGINAL: They're angry because they don't think they know the full story.
-	e1187759-abab-4018-b107-f252312c4746 = 全ての情報を公開していないと思っています。
+	e1187759-abab-4018-b107-f252312c4746 = すべての情報を公開していないと思っています。
 	
 	//2740. ORIGINAL: Security is high here today, Diane. Lots of uniforms, lots of nervous faces.
 	e1e5aeb5-0555-48d7-b72c-998e4d5a83e4 = ダイアンさん、今日は警備員が増員され警備が厳重です、厳しい表情をしています。
@@ -8455,7 +8455,7 @@
 	71504778-d09c-4e77-99d1-f01e21a61e16 = 責任のある行動を取ってください、とお伝えしているだけです。
 	
 	//2815. ORIGINAL: The Knox Event has us all wired up
-	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = ノックス事件については全て把握しています。
+	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = ノックス事件についてはすべて把握しています。
 	
 	//2816. ORIGINAL: But listen to what we're being told.
 	03ee6e23-5392-4e21-85f6-4ade1cfb1032 = ですが、私たちが申し上げることには耳を傾けてください。
@@ -8473,7 +8473,7 @@
 	beb6023d-3ac5-42b2-a356-33729ffa35c9 = 本当ですか?
 	
 	//2821. ORIGINAL: We're looking at all eventualities.
-	e441f9ac-6852-4ef2-9ead-403aa5bee5e5 = 私たちは起こり得る全ての事態を考慮しています。
+	e441f9ac-6852-4ef2-9ead-403aa5bee5e5 = 私たちは起こり得るすべての事態を考慮しています。
 	
 	//2822. ORIGINAL: In all likelihood in a few days this will have all blown over.
 	91f486bd-5347-4001-b8d8-f852681d6dec = 今の状況は数日後にはほぼ確実に収束するでしょう。
@@ -8518,10 +8518,10 @@
 	bad8e381-4b9e-4cc4-9c45-fea75162588e = 多くの逮捕者が出ました。
 	
 	//2836. ORIGINAL: We'll have all the latest, coming up after this.
-	d9d14a4b-ed10-4a58-9111-8554c8810415 = この後、最新情報を全てお届けします。
+	d9d14a4b-ed10-4a58-9111-8554c8810415 = この後、最新情報をすべてお届けします。
 	
 	//2837. ORIGINAL: After 6pm EST tonight: all flights are off.
-	263c9bde-29ea-454d-bb6a-2851397b6e35 = EST:東部標準時間の今夜の午後6時以降の空の便は全て欠航します。
+	263c9bde-29ea-454d-bb6a-2851397b6e35 = EST:東部標準時間の今夜の午後6時以降の空の便はすべて欠航します。
 	
 	//2838. ORIGINAL: Every air journey, both internal and international, will be grounded.
 	096fc094-5c10-45d5-91e6-730b3d1fe41d = 国内線と国際線共に、空の旅は地上ですることになるでしょうね。
@@ -8695,7 +8695,7 @@
 	dbe1dc15-daab-4e0d-b8e0-87f0ff84852a = ...ノックス事件の封鎖区域の拡大からわずか24時間足らずで...
 	
 	//2895. ORIGINAL: ... a mere 24 hours after the widening of the Knox Event Exclusion Zone.
-	1279bddc-77cf-4470-88c9-eb5b4ceadf0c = ...全ての主要都市に対し午後6時以降の夜間外出禁止令が発令されました。
+	1279bddc-77cf-4470-88c9-eb5b4ceadf0c = ...すべての主要都市に対し午後6時以降の夜間外出禁止令が発令されました。
 	
 	//2896. ORIGINAL: Phil Hartup is on the ground in Washington.
 	9c041619-2a80-4f66-9207-155304443f30 = ワシントン現地にいるフィル・ハートアップさんと中継が繋がっています。
@@ -8770,7 +8770,7 @@
 	311b6dc6-47c3-4844-baa7-2b98b09ae3cd = 希望はここ数日で急速に失われつつあります。
 	
 	//2920. ORIGINAL: The faces of the soldiers on the barricades suggested this all along.
-	769a280c-9cdd-45d2-9d16-8616108ab836 = バリケードにいる兵士らの顔にこれらのことの全てが現れています。
+	769a280c-9cdd-45d2-9d16-8616108ab836 = バリケードにいる兵士らの顔にこれらのことのすべてが現れています。
 	
 	//2921. ORIGINAL: But still the people here ask: 'why?'.
 	6f39d0ad-322d-4a43-8fef-59a8d797f6ed = しかし、依然としてここの人々は「なぜ?」と問います。
@@ -8992,7 +8992,7 @@
 	fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = 私たちは何年も前から牛肉を摂取してきました。
 	
 	//2994. ORIGINAL: Every trip to Spiffos. Every pot roast.
-	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = 全ての牛肉がSpiffo'sに配達され、そこで全てが鍋で焼かれています。
+	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = すべての牛肉がSpiffo'sに配達され、そこですべてが鍋で焼かれています。
 	
 	//2995. ORIGINAL: It's lain dormant, and now the Knox Event has set it free.
 	8df463f6-6bbf-4e16-b643-f54faa0568a9 = 潜伏していましたが、それが発症したのが今回のノックス事件です。
@@ -9505,13 +9505,13 @@
 	8899aea1-6410-40f7-8b41-02144519f1f9 = トーマスは疑いましたが、彼はしょく罪しました。
 	
 	//3165. ORIGINAL: We will all be forgiven.
-	cc4e1c82-813b-47ad-8944-6051800e5253 = 私たちは全ての足枷から解放されることでしょう。
+	cc4e1c82-813b-47ad-8944-6051800e5253 = 私たちはすべての足枷から解放されることでしょう。
 	
 	//3166. ORIGINAL: How you doing? Welcome back to the Cook show!
 	f17f9259-0ab3-4928-9390-09e068ffc18f = 調子はどう? Cook Showへおかえり!
 	
 	//3167. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware.
-	28f9b202-f015-43e5-a6bb-84e9822bcd25 = Kitten Knivesは、アメリカの高級調理器具です。
+	28f9b202-f015-43e5-a6bb-84e9822bcd25 = 子猫ナイフは、アメリカの高級調理器具です。
 	
 	//3168. ORIGINAL: Let's quit fooling around!
 	50f68741-dfdb-4c53-96f1-720b66080a17 = 長話はここまで!
@@ -9670,7 +9670,7 @@
 	7dea7ccd-9896-4937-bcff-d0fe9bf97b99 = 皆様、またお会いしましたね、Cook Showです。
 	
 	//3220. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware
-	cbc81305-9643-4602-8686-425aaae53aed = Kitten Knivesは、アメリカの高級調理器具です。
+	cbc81305-9643-4602-8686-425aaae53aed = 子猫ナイフは、アメリカの高級調理器具です。
 	
 	//3221. ORIGINAL: Today's the day for a nourishing Chicken and Noodle soup.
 	01d55321-a94c-4b63-b442-4951a6535df0 = 今日は栄養たっぷりのチキンとヌードルスープね。
@@ -9679,7 +9679,7 @@
 	18f2d508-0c09-41d7-9c2a-7660a3a311bd = あなたはどうか知らないけど、美味しいチキンスープは好き?
 	
 	//3223. ORIGINAL: It solves everything.
-	686820ce-1ff5-495b-a146-deaca79b41fa = 全てを解決してくれるのよ。
+	686820ce-1ff5-495b-a146-deaca79b41fa = すべてを解決してくれるのよ。
 	
 	//3224. ORIGINAL: Nourishing, mood-lifting...
 	16102657-fb87-419d-ae7e-bd6d9b975625 = 栄養補給、気分転換...
@@ -9805,10 +9805,10 @@
 	67442fcf-a525-4ccd-bb34-6dd678de2bdc = まあ、俺の思い込みかもしれないけど。
 	
 	//3265. ORIGINAL: This is a Kitchen Knife by Kitten.
-	b698aecf-c505-4dcb-a178-600335d7b24d = これはKitten Knivesだ。
+	b698aecf-c505-4dcb-a178-600335d7b24d = これは子猫ナイフだ。
 	
 	//3266. ORIGINAL: Kitten Knives are strong, sturdy and sharp.
-	a87ba511-d5d3-44ec-9028-83d959beb72e = Kitten Knivesは強くて、丈夫で、シャープ。
+	a87ba511-d5d3-44ec-9028-83d959beb72e = 子猫ナイフは強くて、丈夫で、シャープ。
 	
 	//3267. ORIGINAL: Look at this handle, I mean just look at the handle.
 	dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2 = この切れ味を見てよ。この切れ味。
@@ -9817,7 +9817,7 @@
 	929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf = みじん切り、薄切り、角切り。
 	
 	//3269. ORIGINAL: All a joy.
-	20a5303d-1e14-4266-a5d1-51d2d19ba303 = 全てが楽しいぞ。
+	20a5303d-1e14-4266-a5d1-51d2d19ba303 = すべてが楽しいぞ。
 	
 	//3270. ORIGINAL: Hey! You're with the Cook Show!
 	a33fe7e9-d933-4e6b-9d6f-58479b671e8d = やあ! Cook Showのお時間です!
@@ -9871,13 +9871,13 @@
 	f39b90b5-3046-47bd-a98e-2f77f08d6e06 = 男の顔を見ることにうんざりしている、淑女の皆様はいらっしゃいませんか?
 	
 	//3287. ORIGINAL: You need a wall in there: a big one.
-	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = そこには大きな壁が必要だ。
+	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = そこには大きな壁が必要だ。でもその前に、それを置くためのフレームが必要だ!
 	
 	//3288. ORIGINAL: Three nails, three planks... take that hammer and...
-	7e755ce2-145c-411c-8d8c-4c3022454141 = 釘を3本、木板を3枚... 金槌を持って...
+	7e755ce2-145c-411c-8d8c-4c3022454141 = 板と釘と少しの腕力...
 	
 	//3289. ORIGINAL: That there's a piece of wall.
-	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = 壁の一部ができた。
+	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = 次は壁そのものだ。板を2枚。釘を4本...
 	
 	//3290. ORIGINAL: Neat huh?
 	1b3090b7-2c5f-488a-bcb8-4ee536f59520 = 良い感じじゃないか?
@@ -9892,16 +9892,16 @@
 	c6acc4d4-3b99-47b9-890c-93fa920aa0f8 = 取り付ける場所を見つけることだ。
 	
 	//3294. ORIGINAL: Window frames, door frames... all the same to me.
-	89f9ee40-99fb-466e-8cb0-81169bf0f161 = 窓の枠、ドアの枠... 俺の真似をしてくれ。
+	89f9ee40-99fb-466e-8cb0-81169bf0f161 = 窓枠は2枚、ドア枠は4枚必要...
 	
 	//3295. ORIGINAL: Four planks and nails! Let's go!
-	552b3b91-dbb7-4ec9-ad6d-9b87ef272a82 = 木板4枚と釘4本! さあ行こう!
+	552b3b91-dbb7-4ec9-ad6d-9b87ef272a82 = そして、どちらも4本の釘が必要...
 	
 	//3296. ORIGINAL: There you go ladies!
 	93c8a004-5612-443c-ac66-be1be4a309fa = 淑女の皆様、お待たせしました!
 	
 	//3297. ORIGINAL: Most fun I had recently with ma shirt on!
-	7d09882f-c3c7-4c91-8679-26b8ff456db8 = この前、ママの服を着たことが1番楽しかった!
+	7d09882f-c3c7-4c91-8679-26b8ff456db8 = 落ち着いた場所があるのは最高だよな!
 	
 	//3298. ORIGINAL: Next time - intermediary part 2!
 	fd350e46-62ba-4e34-9f83-4a9e7292b509 = 次回は-中級編パート2!
@@ -10036,7 +10036,7 @@
 	aff6f93b-c6f0-46bf-9307-074baa74871c = この履いてきたカッコいいパンツは素敵だと思わないか?
 	
 	//3342. ORIGINAL: Hey! Pay attention! Today: it's chairs!
-	f5aa61a4-98a5-41f7-9534-888179e2443b = はい! 注目! 今日は椅子だ！
+	f5aa61a4-98a5-41f7-9534-888179e2443b = はい! 注目! 今日は椅子だ!
 	
 	//3343. ORIGINAL: What do we need?
 	c05dbebd-9cdd-45fa-accb-46fba79f8f24 = 何が必要かって?
@@ -10048,7 +10048,7 @@
 	0dc9767e-75eb-43aa-8b31-e1542f8281e3 = 淑女の皆さん! 信ーじーていただけましたか?
 	
 	//3346. ORIGINAL: Now hows about some shelves?
-	1125fee2-3248-48d7-9ee6-78291961e7db = お次は棚を作ってみませんか?
+	1125fee2-3248-48d7-9ee6-78291961e7db = お次は二段棚を作ってみませんか?
 	
 	//3347. ORIGINAL: Someplace for your jewelleries, your precious stuff?
 	9d5cd69e-419b-48fa-a3ae-4ef6532e5a04 = 宝石や大事なものを置く場所が必要ですよ。
@@ -10093,28 +10093,28 @@
 	fbc35c77-7a87-4917-befe-3141bfec8a0a = イィヤッホーの準備は良いか?
 	
 	//3361. ORIGINAL: Now I'd like you to meet my good friend Tooks Bear.
-	5b256688-3ca3-4cb6-aa83-142fe98b55cc = さて、私の友人のトゥック・ベアに会っていただきます。
+	5b256688-3ca3-4cb6-aa83-142fe98b55cc = さて、私の友人のトゥック・ベアを紹介しましょう。
 	
 	//3362. ORIGINAL: Tooks Bear is the friendliest, smiliest, bounciest bear in town.
-	a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3 = トゥック・ベアは町で1番人懐っこくて、1番笑顔が素敵で、1番元気いっぱいです。
+	a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3 = トゥック・ベアは町で1番人懐っこくて、笑顔が素敵なクマさんです。
 	
 	//3363. ORIGINAL: You know why you'll like him the most?
 	4009cbdb-f9db-4741-9258-de17df18b90e = 彼がなぜ、最も好かれているのかご存知でしょうか?
 	
 	//3364. ORIGINAL: He's only $49.99 plus postage and packing.
-	361268c6-0b75-4d1c-be51-020f7808e2b4 = わずか$49.99と送料で梱包してくれるからです。
+	361268c6-0b75-4d1c-be51-020f7808e2b4 = たったの$49.99+送料+梱包料だからです。
 	
 	//3365. ORIGINAL: All I have to do is press this little button on his paw and...
-	fb798ae7-afae-43f2-9e14-a85f50c465c0 = 私の使命は、彼の足にあるこの小さなボタンを押すこと...
+	fb798ae7-afae-43f2-9e14-a85f50c465c0 = あとは、この前足の小さなボタンを押すだけで...
 	
 	//3366. ORIGINAL: I'm Tooks Bear! Let's go on an adventure!
-	c1e3f233-80a0-4254-83b3-cde19a4e0cfe = 僕はトゥック・ベアだよ! 冒険に行こう!
+	c1e3f233-80a0-4254-83b3-cde19a4e0cfe = 僕はトゥック・ベアだよ! 冒険の旅に行こう!
 	
 	//3367. ORIGINAL: We sure will Tooks!
 	3b595ea3-ed30-4eda-affc-5c3c91d6f24a = トゥックにまかせて!
 	
 	//3368. ORIGINAL: For $49.99 who'd resist? Call now!
-	ade87393-e60f-4677-a43a-8ed67a311547 = $49.99に不満な人はいないですよね? 今直ぐお電話を!
+	ade87393-e60f-4677-a43a-8ed67a311547 = $49.99なら、誰でも買いたくなりますよね？ 今直ぐお電話を!
 	
 	//3369. ORIGINAL: You're back with the Cook Show!
 	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = お待たせしましたCook Showへ!
@@ -10123,7 +10123,7 @@
 	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = 今日は、フライパンでアジアの味を堪能するわ。
 	
 	//3371. ORIGINAL: Now, minding you don't cut yourself with this...
-	2eafacda-b10d-4b76-98cb-df605ee56082 = そうね、切れ味抜群のKitten Knivesで...
+	2eafacda-b10d-4b76-98cb-df605ee56082 = そうね、切れ味抜群の子猫ナイフで...
 	
 	//3372. ORIGINAL: Super sharp Kitten Knife.
 	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = 怪我をしないように気をつけてね。
@@ -10189,13 +10189,13 @@
 	d3cbcede-e847-453b-ae04-beeaadf6c833 = 淑女の方のベッドの横に置いても違和感がないぞ。
 	
 	//3393. ORIGINAL: A clever readin' lady, with three planks and four nails.
-	b603ccd1-dc28-4789-8a98-541feb8f9716 = 賢い読書家の淑女の方は、木板3枚と釘4本をご用意ください。
+	b603ccd1-dc28-4789-8a98-541feb8f9716 = 賢い読書家の淑女の方は、木板3枚と釘3本をご用意ください。
 	
 	//3394. ORIGINAL: Now that's my best yet!
 	604aefc7-1277-4521-a86f-f7c44a434ca2 = 今までで最高の出来だ!
 	
 	//3395. ORIGINAL: I'll put it here next to my four plank, four nail table.
-	8f9b54e2-0c16-4c5c-92c1-4180f4df63e8 = 木板を4枚、釘を4本をテーブルに置いておこう。
+	8f9b54e2-0c16-4c5c-92c1-4180f4df63e8 = 木板を5枚、釘を4本をテーブルに置いておこう。
 	
 	//3396. ORIGINAL: Next time? Beds!
 	5efb8e88-e84c-4939-a464-62d522519757 = 次回は? ベッドだ!
@@ -10507,7 +10507,7 @@
 	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = イィヤッホー! 何が必要だ?
 	
 	//3499. ORIGINAL: Eight planks! Eight nails and an A-D-Vanced knowledge of Car-pen-try!
-	781b56bf-9b2e-455e-9b03-6540c5542ae8 = 木板を8枚! 釘を8本と、高～度～な大～工～仕事の知識だ!
+	781b56bf-9b2e-455e-9b03-6540c5542ae8 = 木板を15枚! 釘を15本と、高～度～な大～工～仕事の知識だ!
 	
 	//3500. ORIGINAL: Gonna need some more over...Here...
 	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = ここには...何か物足りない...
@@ -10873,28 +10873,28 @@
 	eb7f9886-893b-4f5b-83d6-3fa7874a3b72 = ただ今から、通常通りの番組内容に戻ります。
 	
 	//3621. ORIGINAL: [img=music] Doop-ity doo. Wee-woo. Wee-woo. [img=music]
-	ba3df5b8-853f-404f-9e15-480e3f02e256 = [img=music] ドゥピドゥ ウィーウー ウィーウー [img=music]
+	ba3df5b8-853f-404f-9e15-480e3f02e256 = [img=music] ドゥピドゥ。 ウィーウー。 ウィーウー。 [img=music]
 	
 	//3622. ORIGINAL: [img=music] Woo. [img=music]
-	d4e2d45f-5706-4289-85c2-a5814dd36978 = [img=music] ウー [img=music]
+	d4e2d45f-5706-4289-85c2-a5814dd36978 = [img=music] ウー。 [img=music]
 	
 	//3623. ORIGINAL: You're way out of line Hargrave.
-	9f66988e-7ced-496e-af44-9b945b81f8ce = ハーグレーブ、君は的外れている。
+	9f66988e-7ced-496e-af44-9b945b81f8ce = ハーグレーブ、お前は的外れている。
 	
 	//3624. ORIGINAL: You think this is a game?
 	c3e43834-8fff-4679-8469-2ea6ec5a505c = これがゲームと思っているのか?
 	
 	//3625. ORIGINAL: You cannot expect the FBI to fund these... ghost hunts.
-	680c709e-dab2-467b-a859-41954c5c1957 = 我々FBIがこれらの... ゴーストハントとやらに予算を出すことはないだろう。
+	680c709e-dab2-467b-a859-41954c5c1957 = FBIがこれらの... ゴーストハントとやらに予算を出すことはないだろう。
 	
 	//3626. ORIGINAL: Ghost hunts? This is real. This is science.
 	245764d0-5054-4daa-b135-7214af803dba = ゴーストハント? これは現実です。科学的な問題です。
 	
 	//3627. ORIGINAL: And why should the Federal Bureau of Investigation be involved?
-	de3a8f28-52e4-42ca-a566-bf530b6c343e = なぜ、FBI:連邦捜査局が関与するべきなんだ?
+	de3a8f28-52e4-42ca-a566-bf530b6c343e = なぜ、連邦捜査局が関与するんだ?
 	
 	//3628. ORIGINAL: Because a man, a father of two children, was found dead.
-	33ba1ad8-b33b-40d1-948f-83aa2b718a32 = 2人の子どもの父親が、亡くなっているのが発見されたからです。
+	33ba1ad8-b33b-40d1-948f-83aa2b718a32 = ある男性の死体が発見されたからです、2人の子供の父親です。
 	
 	//3629. ORIGINAL: Then find the murderer!
 	5b9a43d3-9a13-4ae4-b70b-da52bb9f6ebc = じゃあ、殺した奴を見つけないとな!
@@ -10903,13 +10903,13 @@
 	35410de1-22d9-4a67-8ea7-4a4f16a13754 = 殺人犯は分かっています! 所長は理解しがたいのでしょうね!
 	
 	//3631. ORIGINAL: A ghost turned his head inside out? Do you want me fired?
-	a8caa131-efec-4dec-b1cb-f4cbf475a31c = 幽霊がその父親の頭部をひっくり返したらしいな? お前はクビにしてほしいのか?
+	a8caa131-efec-4dec-b1cb-f4cbf475a31c = 幽霊が父親の頭をひっくり返したらしいな? お前はクビにしてほしいのか?
 	
 	//3632. ORIGINAL: I'm shutting you down!
 	8b4a70ca-2a13-47b5-b65d-90289a8ccd8b = お前はクビだ!
 	
 	//3633. ORIGINAL: I'm shutting the whole paranormal department down!
-	819bf863-8eaf-4521-a433-e2f536815951 = 超常現象科を全て閉鎖する!
+	819bf863-8eaf-4521-a433-e2f536815951 = 超常現象部門をすべて閉鎖する!
 	
 	//3634. ORIGINAL: You can't do that!
 	6fee6c8a-0cbd-4d13-bc9d-5ec5828e746f = 止めてください!
@@ -10918,7 +10918,7 @@
 	abc6b584-4660-46bb-ad35-b56686c79ac5 = もう遅い。
 	
 	//3636. ORIGINAL: [img=music] Jaunty music. [img=music]
-	9c31b20e-aa58-41d3-9075-2720b980a89a = [img=music] 陽気な音楽 [img=music]
+	9c31b20e-aa58-41d3-9075-2720b980a89a = [img=music] 陽気な音楽。 [img=music]
 	
 	//3637. ORIGINAL: 3rd December 1992. Personal diary of Albert Wellen QC.
 	434d45c0-832f-4c84-8ee8-f2839bb8e023 = 1992年12月3日。王室顧問弁護士アルバート・ウェレンの個人日誌。
@@ -10927,16 +10927,16 @@
 	fe78c652-284c-4ed1-b16d-15a3fded56ab = 17歳の時、人生は思っていたより一筋縄ではいかなかった。
 	
 	//3639. ORIGINAL: Life's even trickier when you're a Queen's Counsel in the British Judicial System.
-	3eecc27d-b503-4623-a63e-c0e089d328ac = イギリス司法制度の女王弁護士に仕えているからだ。
+	3eecc27d-b503-4623-a63e-c0e089d328ac = 司法制度における女王の顧問弁護士となると、人生はさらに厄介なものとなる。
 	
 	//3640. ORIGINAL: I've learned rather a lot of tough lessons today.
-	612026be-3c5f-40de-b75e-2b0973d05b97 = この日誌はとても難しい授業を、たくさん学んだものである。
+	612026be-3c5f-40de-b75e-2b0973d05b97 = この日誌は多くの厳しい教訓を学んだものである。
 	
 	//3641. ORIGINAL: Lessons about love. Lessons about life.
-	5aa763a4-f9b8-44d6-b9f8-99f69abf815e = 愛についての授業。人生についての授業。
+	5aa763a4-f9b8-44d6-b9f8-99f69abf815e = 愛についての教訓。人生についての教訓。
 	
 	//3642. ORIGINAL: Lessons about legislature...
-	52f8f07a-229a-4484-a4db-ee8d8fe644fb = 議会についての授業...
+	52f8f07a-229a-4484-a4db-ee8d8fe644fb = 立法府についての教訓...
 	
 	//3643. ORIGINAL: Albert, are you asking me out on a date?
 	7ba94cc7-e5e3-4554-9b6f-3c842d7871fa = アルバート、結局デートはどうするの?
@@ -10945,7 +10945,7 @@
 	e004265b-cbff-4488-af74-2f4b5bdcc028 = え、あぁ。返事はしたと思うけど。
 	
 	//3645. ORIGINAL: Oh Albert, I've been waiting so long...
-	0009bc32-db7b-4795-b83d-47dd4ca27857 = あぁアルバート、まだなんだけど...
+	0009bc32-db7b-4795-b83d-47dd4ca27857 = あぁアルバート、ずっと待ってるんだけど...
 	
 	//3646. ORIGINAL: Sir, you're required in the James vs. Greggs hearing.
 	2cc0d3b1-b611-41d6-948a-82c8bbf32c3e = 先生、ジェームズ氏とグレッグ氏の裁判が始まります。
@@ -10966,7 +10966,7 @@
 	18c65067-4204-4f0b-a8a9-6776a3c548e5 = 先生、弁護が待っています。
 	
 	//3652. ORIGINAL: I'm needed. I'm sorry.
-	6fa52e84-bb4c-4e78-9db8-7266b3366bc8 = 本当にすまない。
+	6fa52e84-bb4c-4e78-9db8-7266b3366bc8 = 僕は必要とされている。本当にすまない。
 	
 	//3653. ORIGINAL: <sigh>
 	956c0a5e-2241-45a9-936d-a49ddbc71ee9 = <はぁ>
@@ -10975,19 +10975,19 @@
 	9b99f2f4-c6a8-42f2-91dc-2433621f60e5 = 先生、急いでください。
 	
 	//3655. ORIGINAL: [img=music] Orchestral music. [img=music]
-	e347b12b-0b9e-4628-82ce-873117588dc8 = [img=music] オーケストラの音楽 [img=music]
+	e347b12b-0b9e-4628-82ce-873117588dc8 = [img=music] オーケストラの音楽。 [img=music]
 	
 	//3656. ORIGINAL: Joshie, what's wrong?
 	c89de8d8-ffcf-4369-ad62-b893ef6953d2 = ジョシー、どうしたの?
 	
 	//3657. ORIGINAL: You just won the Orange County Football tournament...
-	736dd5b0-2dd7-4e13-8a32-112958e8568d = あなたさっき、オレンジ・カウンティ・フットボール・トーナメントで優勝したけど...
+	736dd5b0-2dd7-4e13-8a32-112958e8568d = あなたさっき、オレンジ群フットボール・トーナメントで優勝したけど...
 	
 	//3658. ORIGINAL: ...but you look so sad.
-	301e2bef-7633-40d8-b614-e1f4291e08ae = ...なんだか悲しそうね。
+	301e2bef-7633-40d8-b614-e1f4291e08ae = ...でも悲しそうな顔してる。
 	
 	//3659. ORIGINAL: I'm happy Mary-Beth. And when you led the cheer-leading...
-	013ddfc2-d46b-4158-b2b1-af7c8bf3d7c4 = メアリー・ベス、僕は嬉しいよ。君が率いたチアリーダーは...
+	013ddfc2-d46b-4158-b2b1-af7c8bf3d7c4 = メアリー・ベス、僕は嬉しいよ。君が率いた応援団は...
 	
 	//3660. ORIGINAL: ... that was so amazing.
 	96803651-b5aa-4e50-9f08-d51010bf22b7 = ...本当に素晴らしかったよ。
@@ -11005,28 +11005,28 @@
 	7a362fcb-33e0-4f4c-9961-9599dec11ded = 僕は... 何もしてないよ?
 	
 	//3665. ORIGINAL: Let's row this boat ashore Joshie
-	db351d15-92b6-49db-8453-4ae476042288 = ジョシー、このボートで浜辺まで漕ごう。
+	db351d15-92b6-49db-8453-4ae476042288 = ジョシー、オールを漕いで。浜辺まで行こう。
 	
 	//3666. ORIGINAL: I will. I sure will.
-	14e40724-d921-428d-a7f5-2242f257dd05 = 分かった。分かったよ。
+	14e40724-d921-428d-a7f5-2242f257dd05 = そうする。分かったそうするよ。
 	
 	//3667. ORIGINAL: Hargrave, FBI Director Anderson just shut you down!
 	e4d5913b-5757-413f-bbc7-18f1f4158dcf = ハーグレーブ君、アンダーソンFBI長官があなたをクビにしたわ!
 	
 	//3668. ORIGINAL: He shut the whole Paranormal department down!
-	c70c3c28-297f-4f84-9648-475d1f8a40fb = 長官は超常現象科を全て閉鎖したのよ!
+	c70c3c28-297f-4f84-9648-475d1f8a40fb = 長官は超常現象科をすべて閉鎖したのよ!
 	
 	//3669. ORIGINAL: You think I don't know that Mantell?
-	f1acf83c-26c2-4899-b616-cb5b016c1be4 = 僕がマンテルさんを知らないとでも?
+	f1acf83c-26c2-4899-b616-cb5b016c1be4 = 僕がマンテルさんの件をどうでもいいって思ってる?
 	
 	//3670. ORIGINAL: Well, clearly - as otherwise why would you be going to Cincinnati?
 	1c28e915-a563-4557-b089-bb1e703598ab = まあ、そうね、でもそうじゃなかったら、なんでシンシナティに行くのよ?
 	
 	//3671. ORIGINAL: Because in Cincinnati there's a ghost who turned a man's head inside-out!
-	7da0c766-9515-4a79-b06b-ac5dde1393ce = シンシナティに、男性の頭部をひっくり返した幽霊がいるからだよ!
+	7da0c766-9515-4a79-b06b-ac5dde1393ce = シンシナティに、男性の頭をひっくり返した幽霊がいるからだよ!
 	
 	//3672. ORIGINAL: A father of two Mantell!
-	97a0ec81-e7ef-4548-b883-c8dbc62fc34a = マンテルさんは2人の子どもを持つ父親だ!
+	97a0ec81-e7ef-4548-b883-c8dbc62fc34a = マンテルさんは2人の子どもの父親だ!
 	
 	//3673. ORIGINAL: I owe it to those kids.
 	1e5ed0b9-0743-4186-8ddd-705042f9cc32 = 子どもたちのために成し遂げなければならない。
@@ -11035,7 +11035,7 @@
 	d87c7283-4252-49a1-a689-d31f5811ae23 = ハーグレーブ君、その男性に... 気掛かりなことが起こったのは分かったわ。
 	
 	//3675. ORIGINAL: But ghosts who turn people's heads inside out?
-	7083ec42-78f1-4c11-98c4-d0af273e9e0b = 人の頭をひっくり返した幽霊?
+	7083ec42-78f1-4c11-98c4-d0af273e9e0b = でも、人の頭をひっくり返した幽霊?
 	
 	//3676. ORIGINAL: It just doesn't make sense.
 	1662d7ce-0124-4640-ae0e-7a3c1fa94e37 = 意味が分からない。
@@ -11050,7 +11050,7 @@
 	5265b4ad-34ea-46af-900c-e73abcd74523 = 当時、7月5日の夜...
 	
 	//3680. ORIGINAL: ... my client was *not* atop the roof of Greggs the pastry chef!
-	1dcdb35c-ffc7-4fa1-9622-1f8c2f744277 = ...被告人のグレッグ氏はケーキ屋の屋上にはいません!
+	1dcdb35c-ffc7-4fa1-9622-1f8c2f744277 = ...被告人のグレッグ氏はケーキ屋の屋上には"いません"でした!
 	
 	//3681. ORIGINAL: He was, in fact, saving the life of the Earl of Basildon.
 	99a00051-0073-4b94-b8e7-d32431e70b20 = 被告人は当時、バジルドン伯爵の命を救っていました。
@@ -11071,16 +11071,16 @@
 	53c9f3ad-f471-425e-a1b0-a02d6471ce79 = 異議申し立てを却下する!
 	
 	//3687. ORIGINAL: Mr Wellen, do you have any evidence for this outlandish claim?
-	f0e5e901-003b-4c4a-ad1b-13066ec5628a = ウェレン氏、この異様な主張に対して何か証拠はありますか。
+	f0e5e901-003b-4c4a-ad1b-13066ec5628a = ウェレン氏、その突飛な主張に対して何か証拠はありますか。
 	
 	//3688. ORIGINAL: I have two pieces of evidence!
-	c61668cd-a031-46eb-b7d1-df4532df5b92 = 2つの証拠があります!
+	c61668cd-a031-46eb-b7d1-df4532df5b92 = 証拠が2つあります!
 	
 	//3689. ORIGINAL: Firstly, the scar on Mr James was NOT administered by a pastry cutter!
 	bc58db38-666c-4e38-b23b-a3172492adc0 = 1つ目、ジェームズ氏の傷跡はペストリーカッターによって付いたものでは"ありません!"
 	
 	//3690. ORIGINAL: But instead by a surgeon's scalpel!
-	1b9566ba-a53f-4e10-8997-68a4407a316f = その代わりに、外科医用のメスによるものでした!
+	1b9566ba-a53f-4e10-8997-68a4407a316f = 代わりに、外科医用のメスによるものでした!
 	
 	//3691. ORIGINAL: Secondly!
 	dffd93b2-cc21-44fb-8195-6d369229c136 = 2つ目!
@@ -11110,7 +11110,7 @@
 	da3f82b3-0a5c-4b2b-a682-2ba780b437be = チャールズ君、変わった見た目をしていますね!?
 	
 	//3700. ORIGINAL: It's a cartoon, but it's all... in a computer?
-	ede51031-3dde-493a-9a5d-153847f89499 = 見た感じアニメのキャラクターみたいですけど... 全てがコンピューターだそうですね?
+	ede51031-3dde-493a-9a5d-153847f89499 = 見た感じアニメのキャラクターみたいですけど... すべてがコンピューターだそうですね?
 	
 	//3701. ORIGINAL: I know right? Those guys wear glasses and are all like 'horrdihooorrr'!
 	96b4e6fb-e957-42fa-9980-3541cf459091 = 分かる? 皆がメガネをかけていて「horrdihooorrr」みたいだ!
@@ -11164,16 +11164,16 @@
 	e192386b-96c9-4ec1-b878-b9bfa07ef952 = ハハッ!
 	
 	//3718. ORIGINAL: [img=music] Sunset Drive. Got you on my mind... [img=music]
-	1389d3f9-832f-450e-aa73-1d208ad49655 = [img=music] Sunset Drive 君のことが頭から離れない... [img=music]
+	1389d3f9-832f-450e-aa73-1d208ad49655 = [img=music] サンセット・ドライブ。 君のことが頭から離れない... [img=music]
 	
 	//3719. ORIGINAL: [img=music] On Sun... set... Drive! [img=music]
-	b2e693e1-0efd-441e-8e06-601dcbc2d052 = [img=music] Sun... set... Drive! [img=music]
+	b2e693e1-0efd-441e-8e06-601dcbc2d052 = [img=music] サン... セット... ドライブ! [img=music]
 	
 	//3720. ORIGINAL: That's not what it looks like!
-	b4dac93f-567d-4c84-8e7e-14f80a9c7fe9 = そうじゃないわ!
+	b4dac93f-567d-4c84-8e7e-14f80a9c7fe9 = 全然似てない!
 	
 	//3721. ORIGINAL: Oh really Janine? Looks to ME like my father's writing!
-	d61ac815-8805-4796-9e66-9f5f7bde62b5 = あぁ、ジャニー本当かい? "俺の"親父に似てるよ!
+	d61ac815-8805-4796-9e66-9f5f7bde62b5 = あぁ、本当かジャニー? "俺の"親父に似てるよ!
 	
 	//3722. ORIGINAL: Is this true? It's HIS baby?!
 	36f47f8f-122c-422e-8dfb-7d7aa1b45a83 = 嘘だよな? "親父の"赤ちゃん!?
@@ -11188,16 +11188,16 @@
 	167dc63e-6934-41d3-acb1-9331b554093d = 僕が昏睡状態の時にできたのか?
 	
 	//3726. ORIGINAL: That's when... that's when it began.
-	d424010e-1d65-4dae-af90-012dec2cdc31 = それは... それよりより前のことなの。
+	d424010e-1d65-4dae-af90-012dec2cdc31 = その時から...その時から始まったの。
 	
 	//3727. ORIGINAL: I'm so sorry. I was weak.
-	c28aba0b-230f-48c4-bd28-2e9c2be7868c = 本当にごめんなさい。私は無力だった。
+	c28aba0b-230f-48c4-bd28-2e9c2be7868c = 本当にごめん。私は弱かった。
 	
 	//3728. ORIGINAL: I'm sorry sir, but is this really necessary?
-	fab62ad1-ee76-4b79-ad16-8a851dce3885 = 本当にごめんなさい、でもこれは本当に必要だったのよ?
+	fab62ad1-ee76-4b79-ad16-8a851dce3885 = 本当にごめんなさい、でもこれは本当に必要ことだったのよ?
 	
 	//3729. ORIGINAL: You're all present to hear your father's last will and testament.
-	42d897aa-94df-4991-bebd-1ddf504f0f6e = お父さんの最後と遺言をあなたに聞かせたかったの。
+	42d897aa-94df-4991-bebd-1ddf504f0f6e = お父さんの遺言をあなたに聞かせたかったの。
 	
 	//3730. ORIGINAL: You bet we are...
 	74648638-c8f9-4750-8378-b22a06241583 = もう私たちは...
@@ -11206,25 +11206,25 @@
 	86c8758f-502b-4149-aae9-f7f4b097871b = [img=music] On Sun... Set... Drive! [img=music]
 	
 	//3732. ORIGINAL: What the hell are you doing in Cincinnati Hargave?
-	b5c1cbc8-4c76-4bf4-9146-466dc1907481 = ハーグレーブ、シンシナティに行って何をするつもりだ?
+	b5c1cbc8-4c76-4bf4-9146-466dc1907481 = ハーグレーブ、シンシナティで何をするつもりだ?
 	
 	//3733. ORIGINAL: This time you're WAY outta line!
-	b40571fa-e023-4d5c-af29-217f60c05ee2 = 今度は、"お前"が狂ったのか!
+	b40571fa-e023-4d5c-af29-217f60c05ee2 = 今度は"お前"が狂ったのか!
 	
 	//3734. ORIGINAL: I shut you down! Is Mantell with you?
-	98e4470c-6d42-4bb1-bdb1-5bc64317af0c = マンテルの現場にいるのか?
+	98e4470c-6d42-4bb1-bdb1-5bc64317af0c = お前はクビだと言っただろう! マンテルの現場にいるのか?
 	
 	//3735. ORIGINAL: No sir.
 	65f0b636-71e9-4af5-9b3e-3f11ad6fea4f = 違います、長官。
 	
 	//3736. ORIGINAL: I want you back. Right now.
-	dde36fdc-7b73-4183-9b24-e3cf936a3511 = 帰ってこい。今すぐにだ。
+	dde36fdc-7b73-4183-9b24-e3cf936a3511 = 戻ってこい。今すぐにだ。
 	
 	//3737. ORIGINAL: I'll be back right after I keep a promise, sir.
 	f8b6c97c-a665-44ed-acd1-79dfbfccc163 = 長官、私は約束を果たした後に戻ります。
 	
 	//3738. ORIGINAL: A promise to a little girl whose Dad's head was turned inside out...
-	2b79529d-3878-41d1-bab0-ad32d6c3ef57 = 頭部をひっくり返された父親の、小さな娘さんとの...
+	2b79529d-3878-41d1-bab0-ad32d6c3ef57 = 頭をひっくり返された父親の、小さな娘さんとの...
 	
 	//3739. ORIGINAL: ... by a ghost.
 	6156b1e8-39fa-4ddf-8e30-0612fed0c8e1 = ...約束です。
@@ -11242,7 +11242,7 @@
 	42db1874-c93c-4a57-9df2-7c09ea2841e1 = ここで事件が起こった。
 	
 	//3744. ORIGINAL: I'll get the flashlights.
-	2d78166a-f4cc-49d3-9691-8ea45ad11cff = 懐中電灯を探してくるわ。
+	2d78166a-f4cc-49d3-9691-8ea45ad11cff = 懐中電灯を持ってくるわ。
 	
 	//3745. ORIGINAL: So, of course, if we look at this as a ... quadratic equation.
 	c2a827ed-51db-4095-a45c-dd9130fd9fe4 = よって、これは... 2次方程式だと見なせますね。
@@ -11275,7 +11275,7 @@
 	148ad271-361d-47bf-82e3-71a712d7e2f0 = もう嫌なのよ。
 	
 	//3755. ORIGINAL: I've been asked to the Wetherspoons ball by Edmund Fothergay-Stroud.
-	da43bc0c-e40e-47c7-a8b0-44d50c05a90f = エドモンド・フォザーゲイ・ストロウドさんとウェザースプーンと出会ったのよ。
+	da43bc0c-e40e-47c7-a8b0-44d50c05a90f = エドモンド・フォザーゲイ・ストロウドさんとウェザースプーンの舞踏会に誘われたの。
 	
 	//3756. ORIGINAL: Fothergay-Stroud? The man's a monster!
 	83211f74-11b0-41bc-b496-ba663f9df799 = フォザーゲイ・ストロウド? あいつは怪物だぞ!
@@ -11293,7 +11293,7 @@
 	0d20c846-955f-4b63-a0ee-3889f6818ed0 = イギリスの司法制度なんてどうでもいいわ!
 	
 	//3761. ORIGINAL: Silence! Or I'll have you all stay behind after school!
-	bbf0afbc-3b73-45bb-88a9-9a99e7dd9208 = 静かにしてください! それか学校に居残ってもらいますよ!
+	bbf0afbc-3b73-45bb-88a9-9a99e7dd9208 = 静かに! 放課後も居残ってもらいますよ!
 	
 	//3762. ORIGINAL: Botheration.
 	8d7a6159-3357-4a57-b419-7f177207262e = 煩わしいな。
@@ -11305,10 +11305,10 @@
 	3e3379b8-d06c-4280-bc2b-17b6978841b2 = ジョシー、あなたとは幼稚園の頃からの親友ね。
 	
 	//3765. ORIGINAL: I know there's something wrong.
-	197baa71-f27c-48b2-987e-92e8ef40f589 = 行き違ったことがあるのも分かってるわ。
+	197baa71-f27c-48b2-987e-92e8ef40f589 = 何かあったんでしょ。
 	
 	//3766. ORIGINAL: There is. There is something wrong.
-	449dbcf7-a963-4950-83a3-53dc4e9bd19c = あのさ、1つ言いたいことがあって。
+	449dbcf7-a963-4950-83a3-53dc4e9bd19c = そう、1つ言いたいことがあってさ。
 	
 	//3767. ORIGINAL: It's Mary-Beth.
 	1aae8e7e-7c35-44ff-9b7f-e152cf8ea25b = メアリー・ベスのことなんだけど。
@@ -11317,16 +11317,16 @@
 	9f822e76-d6fa-4d97-b47e-d60459604d55 = メアリー・ベス?
 	
 	//3769. ORIGINAL: I know... it's been great, huh?
-	4a9a638a-d4f1-4452-a04c-952dc8aa7bce = 素敵... だろ?
+	4a9a638a-d4f1-4452-a04c-952dc8aa7bce = 素敵なこと... だろ?
 	
 	//3770. ORIGINAL: But... what if it's too great.
 	61ac48c0-4bd8-4956-9abc-85a47e5e2483 = けど... 僕には勿体無いよね。
 	
 	//3771. ORIGINAL: What if you can love someone... too much?
-	23917528-1662-48ea-9492-384c4b4c7bc7 = もし、君が僕を... とても愛していたら?
+	23917528-1662-48ea-9492-384c4b4c7bc7 = もし誰かを... 愛しすぎてしまったら?
 	
 	//3772. ORIGINAL: I... yeah I understand that feeling Joshie.
-	ada94ddd-998b-4c4a-b154-2f8338e8de41 = ジョシー、あなたの思っていることは理解してるわ。
+	ada94ddd-998b-4c4a-b154-2f8338e8de41 = ジョシー、その気持ちは分かるわ。
 	
 	//3773. ORIGINAL: You do?
 	e78daf62-96e3-4dc2-ad66-6fcc8a049d26 = ほんとに?
@@ -11344,13 +11344,13 @@
 	8fcb6377-3e3c-4da0-8285-814a7cf3b6c9 = 彼女に言ってくるよ。
 	
 	//3778. ORIGINAL: Let go of the oar Dirk, let's get ashore
-	9aef0eae-fd7c-486a-be9c-cf8d74a1a3dd = ディルク、オールを漕いで。岸に行こう。
+	9aef0eae-fd7c-486a-be9c-cf8d74a1a3dd = ディルク、オールを漕いで。浜辺まで行こう。
 	
 	//3779. ORIGINAL: I'm letting it go Joshie.
 	c1c7993a-c832-4754-b59f-296403631ffc = ジョシー、あなたの好きなようにしたらいい。
 	
 	//3780. ORIGINAL: I'm... letting it go.
-	df351965-b2e0-4049-84a5-687c46af3451 = 想いを伝えてあげて。
+	df351965-b2e0-4049-84a5-687c46af3451 = 想いを... 伝えてあげて。
 	
 	//3781. ORIGINAL: It's empty. Just racks of boxes.
 	d3c57853-e077-4563-a6a6-a4a381964687 = 空っぽね。箱の棚しかないわ。
@@ -11362,7 +11362,7 @@
 	7c0bfb29-6517-4d6d-9a72-c42758a4e17c = あぁマンテルさん、ここで事件が起こったのか。
 	
 	//3784. ORIGINAL: This is where his head was turned inside out.
-	95a06b97-78f7-491d-ba85-df6b0e2ac006 = ここが、彼の頭部がひっくり返された現場だ。
+	95a06b97-78f7-491d-ba85-df6b0e2ac006 = ここが、彼の頭がひっくり返された現場だ。
 	
 	//3785. ORIGINAL: Hargrave... I'm feeling dizzy.
 	da84fbed-fe8e-4026-b3fc-de040e5fe1b0 = ハーグレーブ君... めまいがしてきたわ。
@@ -11389,7 +11389,7 @@
 	cf308e39-50b6-4691-8936-219f8f4fa7df = ...女の頭が裏返しになるのを見届けるか。
 	
 	//3793. ORIGINAL: You knew him?
-	bc37df61-7bc7-4d1d-99ec-c5b9bd25e68a = マンテルさんと会ったことがあるのか?
+	bc37df61-7bc7-4d1d-99ec-c5b9bd25e68a = マンテルさんを知ってるのか?
 	
 	//3794. ORIGINAL: Argh! My head! My head!
 	3ed0ad5e-c360-4d78-8040-4d009ee00523 = ああっ! 頭が! 頭が!
@@ -11398,7 +11398,7 @@
 	d17ddd74-42d3-4941-9cff-c4d91ee862ec = 選択の余地は無いな...
 	
 	//3796. ORIGINAL: <bang!>  <bang>
-	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *バンッ!* *バンッ*
+	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = <バンッ!> <バンッ>
 	
 	//3797. ORIGINAL: What... I don't remember what just happened.
 	b57a7b45-f55b-47a5-81a9-4359cc4bcdb6 = 何が... 何が起こったのか思い出せないわ。
@@ -11410,22 +11410,22 @@
 	d69df4e0-e725-48eb-bdd4-53b72af1a9a2 = もうすぐだ。
 	
 	//3800. ORIGINAL: Mr James, this court has found you not guilty...
-	480d089e-e38b-4f44-8103-b11bf324d271 = ジェームズ氏、グレッグス氏が訴えているケーキ屋での強盗罪に関する罪状において....
+	480d089e-e38b-4f44-8103-b11bf324d271 = ジェームズ氏、グレッグス氏が訴えているケーキ屋での窃盗と暴行に関する罪状において....
 	
 	//3801. ORIGINAL: ... of the crimes of assault and theft from Greggs the Pastry-makers.
-	624a7300-1dad-4ce0-843b-ee9ed6283d05 = ...この裁判にて、あなたは無罪であることが判明しました。
+	624a7300-1dad-4ce0-843b-ee9ed6283d05 = ...当法廷はあなたを無罪と裁定しました。
 	
 	//3802. ORIGINAL: You may walk from this court a free man.
-	65f3e7fd-2b32-4129-a3cd-8dc6d309b2ba = この裁判から自由の身になるかもしれません。
+	65f3e7fd-2b32-4129-a3cd-8dc6d309b2ba = あなたは自由人として 当法廷を去ることができます。
 	
 	//3803. ORIGINAL: Were it not for the quite extraordinary defense raised by Albert Wellen QC...
-	57036de1-6b8a-4ddb-8adb-4bbde419e374 = 非常に素晴らしい弁護を提起した、アルバート・ウェレン王室顧問弁護士は...
+	57036de1-6b8a-4ddb-8adb-4bbde419e374 = わずか17歳のアルバート・ウェレン王室顧問弁護士によって提起された...
 	
 	//3804. ORIGINAL: Who is only seventeen...
-	9c90c4af-2421-4385-9a87-a2afd1b49582 = わずか17歳です...
+	9c90c4af-2421-4385-9a87-a2afd1b49582 = 非常に素晴らしい弁護がなければ...
 	
 	//3805. ORIGINAL: The day would have been very different.
-	0e9934f7-0e3b-4f05-acf1-a7fc91aec0dd = とても多忙な日々だったでしょう。
+	0e9934f7-0e3b-4f05-acf1-a7fc91aec0dd = この日は全く違ったものになっていたでしょう。
 	
 	//3806. ORIGINAL: Congratulations Mr Wellen.
 	fb4115aa-dd20-4d63-91cb-03d450d2781d = ウェレン氏にお祝いを申し上げます。
@@ -11635,7 +11635,7 @@
 	1fa5dbf8-eb6f-4398-a2dd-974702b09de0 = みんな、ありがとう。
 	
 	//3875. ORIGINAL: I'm sure it is. We want to talk to you about Hargrave.
-	0c1d542e-3869-47b6-81c8-17aa2040bc96 = そうですね。ハーグレーブ氏について話しましょう。
+	0c1d542e-3869-47b6-81c8-17aa2040bc96 = そうですね。ハーグレーブ氏について話を伺いたいのですが。
 	
 	//3876. ORIGINAL: Hargrave? He's old news. You don't have to worry.
 	a17af003-2dec-4b6f-9feb-c72500e99d1d = ハーグレーブ? 彼はもういい。君が心配する必要は無い。
@@ -11644,22 +11644,22 @@
 	365229fb-355f-45cf-bed6-968db03e9d00 = アンダーソン長官、彼を戻してほしいのです。
 	
 	//3878. ORIGINAL: That can't happen. The Paranormal department is shut down.
-	2c87fe46-926a-4e49-929e-0a21b6305fc6 = それはありえない。超常現象科は閉鎖している。
+	2c87fe46-926a-4e49-929e-0a21b6305fc6 = それは無理だ。超常現象部門は閉鎖している。
 	
 	//3879. ORIGINAL: Then... open it back up.
 	adfc6c7b-c99b-43d1-a7cb-fea257aabedf = それを... 元に戻してほしいのです。
 	
 	//3880. ORIGINAL: Can I ask why?
-	b13f45fb-d969-46cc-947f-1d47b85984b3 = 理由はなんだ?
+	b13f45fb-d969-46cc-947f-1d47b85984b3 = 理由を聞いても良いか?
 	
 	//3881. ORIGINAL: You can ask, but seeing as many of the people in this room...
-	7695a2c9-ac3e-400b-afd3-90696580f342 = 長官は質問ができますが、この部屋にいる職員の大半は質問ができません...
+	7695a2c9-ac3e-400b-afd3-90696580f342 = 聞いてもいいのですが、この部屋にいる人間の多くは存在しないとされる上...
 	
 	//3882. ORIGINAL: ... don't exist, and neither does this meeting itself...
-	1e014030-9ef7-4bdc-8304-85c04172c13b = ...また、この会議自体が意味がなく...
+	1e014030-9ef7-4bdc-8304-85c04172c13b = ...この会議自体も存在しないので...
 	
 	//3883. ORIGINAL: ... I wouldn't expect an answer.
-	20aa1e38-b58a-4e8c-8011-ae50873117b3 = ...私は答えを期待していません。
+	20aa1e38-b58a-4e8c-8011-ae50873117b3 = ...回答は期待できませんよ。
 	
 	//3884. ORIGINAL: Hargrave is a fruit loop. He's a liability.
 	87928271-bc25-4b3a-8e63-d040285734a3 = ハーグレーブは変わり者だ。彼はお荷物だ。
@@ -11674,7 +11674,7 @@
 	b4f487b4-3a5e-43ce-a415-c28b92b6fc39 = アンダーソンFBI長官に幽霊を見て欲しいのです。
 	
 	//3888. ORIGINAL: His hunt is back on.
-	dc268e31-c4bd-4709-ab45-780e8dbe119d = 捜査を再開します。
+	dc268e31-c4bd-4709-ab45-780e8dbe119d = 彼の追跡を再開します。
 	
 	//3889. ORIGINAL: <bzzt> there's something I need to tell you Mary-Beth <bzzt>
 	92de6851-623f-4648-a18a-2d2bb7521d34 = <ザッー> メアリー・ベスに伝えたいことがあるんだ。 <ザッー>
@@ -11686,10 +11686,10 @@
 	088521ce-2561-4fe6-a63b-e490062ade59 = イライザ。なぜウェザースプーン・ボールの外で泣いているんだ? 何かあったのか?
 	
 	//3892. ORIGINAL: They didn't let me in. I got ID-ed.
-	e36423a6-0fa6-4dd2-90c0-4a432f8d7cb8 = 彼らが中に入れてくれないのよ。IDも取ったのに。
+	e36423a6-0fa6-4dd2-90c0-4a432f8d7cb8 = 彼らが中に入れてくれないのよ。身分証明書も見せたのに。
 	
 	//3893. ORIGINAL: But Fothergay-Stroud. He... he...
-	dac3411b-26e0-4bf7-95e9-7fd1b062c66e = それにフォザーゲイ・ストロウドは、彼が... 彼が...
+	dac3411b-26e0-4bf7-95e9-7fd1b062c66e = でもフォザーゲイ・ストロウドは、彼は... 彼は...
 	
 	//3894. ORIGINAL: He went in without you, didn't he? The monster!
 	dcc4c36c-3630-477e-a8ac-4dbfdb41f316 = 君を見捨てたのか? なんてやつだ!
@@ -11716,19 +11716,19 @@
 	d142dd20-ceeb-47d2-8222-87b9a927030b = 法律を遵守し、愛に飢え...
 	
 	//3902. ORIGINAL: A brief glimpse of what life really means.
-	8ccdc7f4-eb86-48b8-941a-109cdaa08c75 = 人生の本当の意味が垣間見えたようだった。
+	8ccdc7f4-eb86-48b8-941a-109cdaa08c75 = 人生の本当の意味が垣間見ることができた。
 	
 	//3903. ORIGINAL: Tomorrow is another day.
 	a94250c7-1498-4b73-ada4-1dc9df498329 = 明日はまた違う人生。
 	
 	//3904. ORIGINAL: Another day of law... and love.
-	8d4a5289-3036-4b09-98de-4f4d167257de = また来るであろう開廷日... そして愛。
+	8d4a5289-3036-4b09-98de-4f4d167257de = 法律と...愛に満ちた一日。
 	
 	//3905. ORIGINAL: Albert Wellen QC...
 	31b4a0d0-cb4a-4bc5-831e-d042be442b15 = アルバート・ウェレン王立顧問弁護士...
 	
 	//3906. ORIGINAL: Will see you in court...
-	08ca0476-69df-4eff-bd8f-1842fa60f102 = また裁判で会うことになるでしょう...
+	08ca0476-69df-4eff-bd8f-1842fa60f102 = また法廷でお会いしましょう...
 	
 	//3907. ORIGINAL: Is spreading fast, and it's spreading without fluid contact.
 	b757ffed-1b27-497f-a7fa-4494ea812794 = 血液に接触することなく、急速に拡大しています。
@@ -11773,7 +11773,7 @@
 	82f30555-7adb-4bba-a366-cf937e0b25ae = もう... 手遅れですよ。
 	
 	//3921. ORIGINAL: That's mine! It's all mine!
-	614d0099-8e3a-4c9d-836f-45c472e2f788 = 私のものだ! 全て私のものだ!
+	614d0099-8e3a-4c9d-836f-45c472e2f788 = 私のものだ! すべて私のものだ!
 	
 	//3922. ORIGINAL: I'm afraid that by law this is the property of Ms Wachowski.
 	760c691d-64a1-4bc9-95b8-dcd2182a27e4 = 残念ですが法律に基づき、サンセット・スパはウォシャウスキー氏の財産となりました。
@@ -11851,19 +11851,19 @@
 	7d52cf7d-373b-4e81-b828-8cfdb465b7c9 = どうしようもないわ! 燃えてしまう!
 	
 	//3947. ORIGINAL: It's time to visit the Magical Woodland!
-	6cb711ba-f180-45b2-87d6-e73cb26beb55 = Magical Woodlandがやってきたよ!
+	6cb711ba-f180-45b2-87d6-e73cb26beb55 = 魔法の森に行く時間だ!
 	
 	//3948. ORIGINAL: Sponsored by Spiffos™!
 	9233196b-97dc-4fd9-804c-f45715875d4d = Spiffo™の提供でお送りします!
 	
 	//3949. ORIGINAL: Hi there Spiffo! Who's your little friend?
-	b8feed00-3e07-412c-bc23-390ca80efe8b = こんにちはSpiffo! その君の小さなお友達は誰かな?
+	b8feed00-3e07-412c-bc23-390ca80efe8b = こんにちはSpiffo! 君の小さなお友達は誰かな?
 	
 	//3950. ORIGINAL: What's that?
 	79d3b96b-90bf-44d9-900d-aaf616e84c93 = お名前は?
 	
 	//3951. ORIGINAL: Furbert the Squirrel? What a lovely acorn he's clutching.
-	a969516d-2541-421b-a985-d356be7a7197 = リスのファーベルト? 彼は可愛らしいドングリを掴んでいるね。
+	a969516d-2541-421b-a985-d356be7a7197 = リスのファーベルト? 彼は可愛らしいドングリを握りしめてるね。
 	
 	//3952. ORIGINAL: Building?
 	382809ff-4c3d-499f-8610-e88a0e6d60a7 = 工作をしているの?
@@ -11881,28 +11881,28 @@
 	5cac2826-1cd4-46a3-a9d9-86e523c9c5c2 = ファーベルト、君は本当に優秀な特別な建築家ね、とても賢い!
 	
 	//3957. ORIGINAL: Oh no! It's time for bed.
-	e6e8bc85-e4eb-40eb-8bf9-2ad017e8f983 = ああ! 寝る時間だね。
+	e6e8bc85-e4eb-40eb-8bf9-2ad017e8f983 = ああ! もう寝る時間だね。
 	
 	//3958. ORIGINAL: Goodnight Furbert.
-	a3605f45-e896-4cad-8f7e-22618fbb3e40 = ファーベルトの紹介はここまで。
+	a3605f45-e896-4cad-8f7e-22618fbb3e40 = おやすみなさい、ファーベルト。
 	
 	//3959. ORIGINAL: Good night Magical Woodland. Good night.
-	1cd4d845-dee8-42f7-bfcd-fabbd8027136 = おやすみMagical Woodland。おやすみ。
+	1cd4d845-dee8-42f7-bfcd-fabbd8027136 = おやすみ魔法の森。おやすみ。
 	
 	//3960. ORIGINAL: Good night.
-	16095543-6f3f-4ebf-a8d3-42a0ea68af34 = みんなもおやすみなさい。
+	16095543-6f3f-4ebf-a8d3-42a0ea68af34 = おやすみなさい。
 	
 	//3961. ORIGINAL: What is this amazing machine Jane?
 	28f4f424-ce9a-451b-bf9c-c97c73553df0 = ジェーンさん、この素晴らしい機械は何ですか?
 	
 	//3962. ORIGINAL: [img=music] Hug Bunnies! [img=music]
-	39aef9eb-9347-4db5-a13e-796f1c24a419 = [img=music] ウサギを だきしめよう! [img=music]
+	39aef9eb-9347-4db5-a13e-796f1c24a419 = [img=music] ハグ・バニー! [img=music]
 	
 	//3963. ORIGINAL: [img=music] Having fun, we learn through play! [img=music]
 	8a84e7bd-c57b-4cda-ba6a-519acfd00a53 = [img=music] あそんで たのしく おべんきょうしよう! [img=music]
 	
 	//3964. ORIGINAL: [img=music] Hug bunnies! [img=music]
-	895aafc8-953c-4e09-a4c5-6a0c06075ff5 = [img=music] ウサギを だきしめよう! [img=music]
+	895aafc8-953c-4e09-a4c5-6a0c06075ff5 = [img=music] ハグ・バニー! [img=music]
 	
 	//3965. ORIGINAL: [img=music] In the sunshine every day! [img=music]
 	fea9193c-6853-4b25-9c92-c49bcb6cbec7 = [img=music] きょうも いい てんきだね! [img=music]
@@ -11917,13 +11917,13 @@
 	239d980c-5bda-46c3-8a16-0561de6655b6 = ジェミマ、なにしているの?
 	
 	//3969. ORIGINAL: I'm counting bricks!
-	21cc0554-3af9-4820-acd8-605ceca3a5cb = レンガを かぞえているの!
+	21cc0554-3af9-4820-acd8-605ceca3a5cb = つみきを かぞえているの!
 	
 	//3970. ORIGINAL: One. Two...
 	5d541a87-1d2b-4518-8e6b-20fcdb4ac286 = 1つ。2つ...
 	
 	//3971. ORIGINAL: I want to count bricks too!
-	3ee84835-d196-4abb-b629-405d1a38c112 = ぼくも レンガを かぞえたい!
+	3ee84835-d196-4abb-b629-405d1a38c112 = ぼくも つみきを かぞえたい!
 	
 	//3972. ORIGINAL: You must wait your turn.
 	774fcd1e-298b-454a-95cd-bc7f55099ae0 = ザカリーの じゅんばんまで まってて。
@@ -11938,7 +11938,7 @@
 	41488db3-5d88-423d-905e-c088d4249110 = ザカリー・バニー! なにを しているのですか?
 	
 	//3976. ORIGINAL: Jemima won't let me count her bricks!
-	f9d553f7-bf14-42c1-a019-87e651da1e6b = ジェミマ、レンガを かぞえさせてよ!
+	f9d553f7-bf14-42c1-a019-87e651da1e6b = ジェミマ、つみきを かぞえさせてよ!
 	
 	//3977. ORIGINAL: Zachary Bunny - round here we have one rule.
 	7090d052-9908-4102-91d5-3538ac82054e = ザカリー・バニー、ルールを まもって ください。
@@ -11947,28 +11947,28 @@
 	deee28ee-cab6-4d89-b484-96735f6940d6 = いいこに なってください!
 	
 	//3979. ORIGINAL: You can count your bricks... together.
-	dbc68f2f-60fe-4adb-b8d1-e274ded0ddce = ザカリーの レンガを... いっしょに かぞえて ください。
+	dbc68f2f-60fe-4adb-b8d1-e274ded0ddce = ザカリーの つみきを... いっしょに かぞえて ください。
 	
 	//3980. ORIGINAL: One brick.
-	2c06c1b2-b92b-4f6a-86cf-a003c7590fe4 = レンガが 1つ。
+	2c06c1b2-b92b-4f6a-86cf-a003c7590fe4 = つみきが 1つ。
 	
 	//3981. ORIGINAL: Two bricks.
-	1f34fd9e-7341-4c47-b74e-04f29cc5c8ee = レンガが 2つ。
+	1f34fd9e-7341-4c47-b74e-04f29cc5c8ee = つみきが 2つ。
 	
 	//3982. ORIGINAL: Three bricks!
-	be6ee69e-9eb1-4c95-81db-5e6f5c411a43 = レンガが 3つ!
+	be6ee69e-9eb1-4c95-81db-5e6f5c411a43 = つみきが 3つ!
 	
 	//3983. ORIGINAL: Now then, shall we hug?
-	81c92753-77b0-4360-b853-080d2cdc298f = では、なかなおり できますね?
+	81c92753-77b0-4360-b853-080d2cdc298f = では、ハグは できますね?
 	
 	//3984. ORIGINAL: Huuuu-
-	354e3bae-6902-4d5b-afef-ff4e6d954f71 = なあぁぁかあぁぁー
+	354e3bae-6902-4d5b-afef-ff4e6d954f71 = はあぁぁー
 	
 	//3985. ORIGINAL: -uuuu-
-	6f006640-939e-4375-9073-87eac4ca82c4 = ーなあぁぁおぉぉー
+	6f006640-939e-4375-9073-87eac4ca82c4 = ーぁぁぁぁー
 	
 	//3986. ORIGINAL: -uuug!
-	fea952c5-e7c4-4f1c-911e-e23fc4cbaabe = ーりいぃぃ!
+	fea952c5-e7c4-4f1c-911e-e23fc4cbaabe = ーぁぁぁあぐ!
 	
 	//3987. ORIGINAL: Yippee!
 	6421244d-9883-456f-b1b0-8f78eb94a176 = わあぁい!
@@ -12019,7 +12019,7 @@
 	09abd3ff-0653-42f9-9455-32af3b5eea53 = 終末の時はそこまで来ているのか!
 	
 	//4003. ORIGINAL: Boris the Badger? His stripes are so lovely.
-	146e0bc5-9cd4-4750-90a3-e8fdccffbf76 = アナグマのボリス? 彼の毛並みは素敵ね。
+	146e0bc5-9cd4-4750-90a3-e8fdccffbf76 = アナグマのボリス? 彼の縞模様の毛並みは素敵ね。
 	
 	//4004. ORIGINAL: Scuba-diving?
 	f3f09c00-8cb6-4dcb-a01f-6963298f62bb = スキューバダイビングをしているの?
@@ -12031,7 +12031,7 @@
 	2d82863e-fa03-4060-8f73-a3024468af02 = 泳いでいる魚を一面に見たりとか!
 	
 	//4007. ORIGINAL: Don't tread on the big orange fish Boris!
-	83fb2d68-9fae-4025-87f5-343f2e563fc8 = ボリス、大きなオレンジ色の魚を踏まないで!
+	83fb2d68-9fae-4025-87f5-343f2e563fc8 = ボリス、大きなオレンジ色の魚を踏まないでね!
 	
 	//4008. ORIGINAL: Goodnight Boris.
 	132e4748-15cb-468e-945b-7755420cf11e = ボリスの紹介はここまで。
@@ -12268,7 +12268,7 @@
 	932a3c38-1e38-4425-a68c-f67bd8323354 = 早く... 行ってください!
 	
 	//4086. ORIGINAL: Moley the mole? Doesn't his nose twitch adorably?
-	3ad6254b-f189-4606-9d4e-ba54fd7ca70f = モグラのモーリー? 彼の鼻は魅力的よね?
+	3ad6254b-f189-4606-9d4e-ba54fd7ca70f = モグラのモーリー? 鼻がピクピクして可愛らしいでしょ?
 	
 	//4087. ORIGINAL: Soccer?
 	d1b29ffd-09ee-4898-a0ab-33943dbd1c5e = サッカーをしているの?
@@ -12280,10 +12280,10 @@
 	a6eec51c-c0a9-480e-8c5b-9dcf942c95a2 = 試合をしたりいっぱい学べるよね!
 	
 	//4090. ORIGINAL: Don't fall over on the grass Moley!
-	28cc2cc6-0b97-4f96-9c21-db18fd8c1cb7 = モーリー、芝生の上で横にならないで!
+	28cc2cc6-0b97-4f96-9c21-db18fd8c1cb7 = モーリー、芝生で転ばないでね!
 	
 	//4091. ORIGINAL: Goodnight Moley.
-	1af46e16-9830-478f-bdfb-ea017c482c87 = モーリーの紹介はここまで。
+	1af46e16-9830-478f-bdfb-ea017c482c87 = おやすみなさい、モーリー。
 	
 	//4092. ORIGINAL: Hey Joel, what's that you've got?
 	2cdef805-2d43-4559-ad4e-342047f2614c = どうもジョエルさん、何を持っているのですか?
@@ -12442,10 +12442,10 @@
 	220d0778-0ed7-4556-bceb-03acac66f149 = ハリネズミのパンケーキ? 彼女の目はとても明るくて青いよね!
 	
 	//4144. ORIGINAL: Playing chess?
-	38ec0caf-e48c-4295-b317-f3b06ebda84c = チェスをしているの?
+	38ec0caf-e48c-4295-b317-f3b06ebda84c = チェスで遊んでいるの?
 	
 	//4145. ORIGINAL: Such fun! Thinking hard and moving pieces.
-	e08c96f8-ccf4-4913-8f20-603f10995e29 = 楽しいよね! 冷静に駒の動きを考えたりするよね。
+	e08c96f8-ccf4-4913-8f20-603f10995e29 = 楽しいよね! 冷静に考えて駒を動かすよ。
 	
 	//4146. ORIGINAL: Testing your cleverness and remembering rules!
 	962179d2-8853-4b39-b5b3-ecd4cc15f794 = 君が利口でルールを覚えているかテストしよう!
@@ -12454,7 +12454,7 @@
 	6119c7d2-f626-4fe0-8f77-6d3af56bc8e8 = パンケーキ、チェス盤の上で踊らないで!
 	
 	//4148. ORIGINAL: Goodnight Pancake.
-	091bd276-fc5f-4e9a-a0f7-f7147d5eec6d = パンケーキの紹介はここまで。
+	091bd276-fc5f-4e9a-a0f7-f7147d5eec6d = おやすみなさい、パンケーキ。
 	
 	//4149. ORIGINAL: Hey Joel, what are you playing?
 	13aabdde-68ea-42a9-8f8d-c192d867e6ea = やあジョエルさん、何をしているのですか?
@@ -12571,7 +12571,7 @@
 	e303e0da-10fb-4908-b07a-a44ce786195a = "我は敗北した、だが貴様らモデレーターと同じ力が我にもある、これで終わりだ!"
 	
 	//4187. ORIGINAL: I CAN END IT ALL!
-	25d04fec-f88d-4bd8-b585-7c6c3dc4b040 = "全てを終わらせる!"
+	25d04fec-f88d-4bd8-b585-7c6c3dc4b040 = "すべてを終わらせる!"
 	
 	//4188. ORIGINAL: REALITY SHALL BECOME UNDONE!
 	adbe859a-c558-428a-ac85-a32d78741d69 = "この世界を破滅させるのだ!"
@@ -12586,7 +12586,7 @@
 	3a9a948b-14c8-4a1a-81db-938be4784476 = 世界が崩壊する前に力を鎮めろ!
 	
 	//4192. ORIGINAL: NO, I CANNOT! ALL WILL FADE!
-	68f38843-9859-4761-a11d-31331d70da0b = "無理だ! 我にはできない! 全て消え去れ!"
+	68f38843-9859-4761-a11d-31331d70da0b = "無理だ! 我にはできない! すべて消え去れ!"
 	
 	//4193. ORIGINAL: You can, ArchDuke. Look to me! Feel my compassion!
 	001339b1-1904-480a-8b78-670892aae5d9 = 大公、あんたならできる。俺を見ろ! 俺の目を見るんだ!
@@ -12622,7 +12622,7 @@
 	653cc063-72cd-4968-bff7-6ace03113817 = めでたし、めでたし!
 	
 	//4204. ORIGINAL: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?”
-	ad6b0586-a322-4201-8d85-8a9d9e3b8c1e = ふわふわうさちゃんのフルッフィー・フット? 今までこんな素敵なウサギを見たことがある?
+	ad6b0586-a322-4201-8d85-8a9d9e3b8c1e = モフモフうさぎののフルッフィー・フット? 今までこんなにフワフワしたウサギを見たことある?
 	
 	//4205. ORIGINAL: Disco dancing?
 	ed19de0c-f9ea-4882-8a3e-1c14c9e6b528 = ディスコダンス?
@@ -12637,7 +12637,7 @@
 	ecf67c38-2c78-4e79-bb52-d4ba0cefd62d = フルッフィー・フットが踊り続けているよ! 楽しそう!
 	
 	//4209. ORIGINAL: Goodnight Fluffyfoot.
-	e5ca8f4c-5188-40ea-b7a1-619178ca3b91 = フルッフィー・フットの紹介はここまで。
+	e5ca8f4c-5188-40ea-b7a1-619178ca3b91 = おやすみなさい、フルッフィー・フット。
 	
 	//4210. ORIGINAL: I'm splashing in water!
 	761fa7de-d25f-45b7-86a8-54722b24bfbd = ぼくは みずに とびこんでいるよ!
@@ -12760,7 +12760,7 @@
 	b6d1894b-ef90-400a-baf8-dc609e4d0a70 = まったくダメだった。
 	
 	//4250. ORIGINAL: I even tried this little back road. All blocked.
-	6368aab6-5aaa-4755-ae69-6228aad0274e = この裏道を通ろうとしたけど、全て封鎖されていたね。
+	6368aab6-5aaa-4755-ae69-6228aad0274e = この裏道を通ろうとしたけど、すべて封鎖されていたね。
 	
 	//4251. ORIGINAL: One way traffic.
 	ef1f72a0-8229-46b5-bc5b-645ce2185a0f = 一方通行だ。
@@ -12778,7 +12778,7 @@
 	c3dae23b-ea74-4114-87b7-033a7767869a = 俺はテレビを見てるし、ラジオも聴いている。
 	
 	//4256. ORIGINAL: I'm sorry to use the word but it's all... bull crap.
-	f63e897a-44ae-41e1-ae81-c5ff5f8ab098 = あえて言うが全てが... でたらめだ。
+	f63e897a-44ae-41e1-ae81-c5ff5f8ab098 = あえて言うがすべてが... でたらめだ。
 	
 	//4257. ORIGINAL: Reporters over there, sitting in bed with the Army.
 	78fe1f51-fc79-4184-ab60-6daf81951a46 = そこにいる記者たちは、軍のベッドに座っている。
@@ -12799,7 +12799,7 @@
 	8b6b23eb-9c28-4faf-9603-120f33d6b150 = ...おかしくなったこと"
 	
 	//4263. ORIGINAL: That's what I heard.
-	aca8e4df-f458-4cff-a987-6fa9541f31d2 = これが俺の知ってる全てだ。
+	aca8e4df-f458-4cff-a987-6fa9541f31d2 = これが俺の知ってるすべてだ。
 	
 	//4264. ORIGINAL: Sorry for disappearing this morning guys.
 	d48a0d7a-598d-4175-ba23-22bbbf2393c4 = 今朝は顔を出せなくてすまない。
@@ -13345,7 +13345,7 @@
 	33e32af2-1f24-4138-8e3d-51fb0dbe1034 = 「かしこまりました!」
 	
 	//4445. ORIGINAL: [img=music] Never let the music stop! [img=music]
-	04ed02bc-38b6-4384-8de8-fc5b20003ed9 = [img=music] Never let the music stop! [img=music]
+	04ed02bc-38b6-4384-8de8-fc5b20003ed9 = [img=music] 音楽を止めるな! [img=music]
 	
 	//4446. ORIGINAL: [img=music] Grab, grab, grab a can of... POP! [img=music]
 	684663bd-96d5-421c-ac90-e21e71d82c22 = [img=music] ジュースを... 掴んで、掴んで、掴もう! [img=music]
@@ -13423,10 +13423,10 @@
 	6e703116-4991-46aa-8cab-7021859ebeb0 = アライグマがいました。
 	
 	//4471. ORIGINAL: A Raccoon with a mission.
-	a8c1deda-6ba3-4917-8e00-e620b9aa9647 = アライグマには使命があります。
+	a8c1deda-6ba3-4917-8e00-e620b9aa9647 = ある使命を持ったアライグマ。
 	
 	//4472. ORIGINAL: A Raccoon who would change everything.
-	03ee593a-41f9-465b-92c4-26c7ec4a061f = 全てを変えるアライグマ。
+	03ee593a-41f9-465b-92c4-26c7ec4a061f = すべてを変えるアライグマ。
 	
 	//4473. ORIGINAL: He would show the world how to laugh.
 	128680a6-135b-4f8f-9c08-cc8d4e714b1c = 世界を笑いで包む術を示すだろう。
@@ -13624,10 +13624,10 @@
 	2a3e552a-4c36-493c-a896-6ca247132fd3 = 以上。牛のメッセージでした。
 	
 	//4538. ORIGINAL: [img=music] Churn R Us! Arms above your head! [img=music]
-	94dc1227-a766-43c3-b4aa-fdccb467bff3 = [img=music] Churn R Us! 腕を頭に上まで上げて! [img=music]
+	94dc1227-a766-43c3-b4aa-fdccb467bff3 = [img=music] Churn R Us! 腕を頭に上に上げて! [img=music]
 	
 	//4539. ORIGINAL: [img=music] Say: "YAAAAAY!" [img=music]
-	5ab44286-8548-4abf-a1cf-3fa940c6586a = [img=music] 言ってみよう:"いえぇぇぇい!" [img=music]
+	5ab44286-8548-4abf-a1cf-3fa940c6586a = [img=music] 声に出して:"いえぇぇぇい!" [img=music]
 	
 	//4540. ORIGINAL: Welcome to Pile o' Crepe!
 	309cf2f7-647f-416d-aec4-cbfc85a78547 = Pile o' Crepeへようこそ!
@@ -13645,7 +13645,7 @@
 	fb74f2c6-6d04-4f92-ac9e-cd098024b1cd = "パアァァンケーキ!"
 	
 	//4545. ORIGINAL: What sort of pancake sir? We have over 20 on the menu!
-	d05b4fd8-7f8b-460e-aca7-bee2e5c25496 = パンケーキでよろしいですか? 他にも20種類のメニューがありますよ!
+	d05b4fd8-7f8b-460e-aca7-bee2e5c25496 = どのパンケーキでよろしいですか? 20種類のメニューがありますよ!
 	
 	//4546. ORIGINAL: PAAAAAANCAAAAKES!
 	138e1483-f0e4-4c92-b638-2f3654ed8e1d = "パアァァァンケエェェェキ!"
@@ -13654,7 +13654,7 @@
 	e99a365a-3fc4-4ac8-b3f8-845f37ddd39c = ただいまお持ちします!
 	
 	//4548. ORIGINAL: [img=music] We're called Pile o' Crepe! [img=music]
-	37c822f3-da1e-417a-bc8f-a3d321e616a9 = [img=music] Pile o' Crepeって呼ばれているよ! [img=music]
+	37c822f3-da1e-417a-bc8f-a3d321e616a9 = [img=music] 僕たちはPile o' Crepeって呼ばれてるよ! [img=music]
 	
 	//4549. ORIGINAL: [img=music] Pile o' Crepe! Pile o' Crepe! [img=music]
 	a3043512-7926-433b-a48f-a50c2ff1153d = [img=music] Pile o' Crepe! Pile o' Crepe! [img=music]
@@ -13813,7 +13813,7 @@
 	8af01ccb-40bd-4863-b668-b16fb1eeb746 = "TACO DEL PANCHOに来てね!"
 	
 	//4601. ORIGINAL: Take it from me! I'm wearing a hat!
-	5ec18628-1f94-4560-ae72-a3b26c54e1bc = 帽子を被って待ってるよ!
+	5ec18628-1f94-4560-ae72-a3b26c54e1bc = 僕から帽子を取ってみて! 帽子をかぶるんだ!
 	
 	//4602. ORIGINAL: Arriba!
 	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = じゃあね!

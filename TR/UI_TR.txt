@@ -241,7 +241,9 @@ UI_TR = {
     UI_NewsVersion = "Versiyon",
     UI_News_Anim = "<H1> BUILD 41 AÇIK BETA'YA HOŞ GELDİNİZ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> ..",
     UI_News_Anim2 = "<H1> İlk Build 41 MP test sürümü geldi ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
-    UI_News_Anim3 = "<H1>Sürüm 41 e Hoşgeldin! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_News_Anim3 = "<H1> Sürüm 41 Geldi! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Daha iyi bir çoklu oyunculu deneyimi için Arkadaşlarınızla veya whitelist olan sunucularda oynamanız tavsiye edilir. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Biz oyunu daha iyi bir hale getirirken lütfen anlayışlı olunuz. <LINE><LINE> ",
     UI_No = "Hayır",
     UI_None = "Yok",
     UI_Off = "Kapalı",
@@ -441,6 +443,7 @@ UI_TR = {
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "Oyuncular, gerçek zamanla bu kadar saat içinde sığınağı ziyaret etmediklerinde, sığınak üyeliğinden otomatik olarak silinirler.",
     UI_ServerOption_SafehouseAllowFire_tooltip = "Sığınaklarda yangın çıkmasına ve çıkarılmasına izin verir.",
     UI_ServerOption_SafehouseAllowLoot_tooltip = "Sığınak üyesi olmayanların sığınaktan eşya almalarına izin verir.",
+    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "Oyuncuların konut dışı binaları talep edip edemeyeceğini belirler.",
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "Oyuncular öldüğü zaman, üye oldukları sığınaklarında yeniden doğarlar.",
     UI_ServerOption_SafehouseAllowTrepass_tooltip = "Sığınak üyesi olmayanların sığınağa girmesine izin verir.",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "Oyuncular, sığınak sahiplenebilmek için oyun içi zaman ile bu kadar gün hayatta kalmış olmalıdır.",

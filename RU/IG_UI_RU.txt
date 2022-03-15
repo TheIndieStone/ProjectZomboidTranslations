@@ -210,7 +210,7 @@ IGUI_RU = {
 	IGUI_Fish_PanFish = "Рыба-солнце",
 	IGUI_Fish_Perch = "Окунь",
 	-- Controller
-	IGUI_Controller_TakeOverPlayer = "Управлять джойстиком",
+	IGUI_Controller_TakeOverPlayer = "Управлять %1",
 	IGUI_Controller_AddNewPlayer = "Добавить игрока",
 	IGUI_Controller_AddSavedPlayer = "Добавить: %1 %2",
 	IGUI_Controller_Interact = "Меню действий",
@@ -291,7 +291,7 @@ IGUI_RU = {
 	IGUI_BackButton_FF2 = "Ускорение x3",
 	IGUI_BackButton_FF3 = "Ускорение x4",
 	IGUI_BackButton_LastStand = "Последний рубеж",
-	IGUI_BackButton_Movable = "Передвижение мебели",
+	IGUI_BackButton_Movable = "Передвинуть мебель",
 	-- BBQ window
 	IGUI_BBQ_FuelAmount = "Количество топлива: %1",
 	IGUI_BBQ_TypeCharcoal = "Барбекю угольный",
@@ -1537,7 +1537,7 @@ IGUI_RU = {
 	IGUI_ContainerTitle_mannequin = "Манекен",
 	IGUI_ContainerTitle_militarycrate = "Военный ящик",
     --SearchMode Zone Display Window
-    	IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "В этой местности возможно найти: ",
+    	IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "В этой местности находится: ",
     	IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "В этой местности ничего нет.",
     --SearchMode Zone Names
     	IGUI_SearchMode_Zone_Names_TownZone = "Городской район",
@@ -1551,8 +1551,8 @@ IGUI_RU = {
     --SearchMode Fuzzy Category Names
     	IGUI_SearchMode_Categories_Materials = "Материалы",
     	IGUI_SearchMode_Categories_Medicinal = "Лекарственные растения",
-    	IGUI_SearchMode_Categories_Animals = "Животных",
-    	IGUI_SearchMode_Categories_Food = "Еду",
+    	IGUI_SearchMode_Categories_Animals = "Животные",
+    	IGUI_SearchMode_Categories_Food = "Еда",
     	IGUI_SearchMode_Categories_Other = "Прочее",
     	IGUI_SearchMode_Zone_Names_Unknown = "Тут ничего нет",
 	--SearchMode Exact Category Names
@@ -1564,11 +1564,11 @@ IGUI_RU = {
 	IGUI_SearchMode_Categories_Trash = "Мусор",
 	IGUI_SearchMode_Categories_Fruits = "Фрукты",
 	IGUI_SearchMode_Categories_Vegetables = "Овощи",
-	IGUI_SearchMode_Categories_Crops = "Crops",
+	IGUI_SearchMode_Categories_Crops = "Агрокультуры",
 	IGUI_SearchMode_Categories_Junk = "Хлам",
 	IGUI_SearchMode_Categories_JunkWeapons = "Оружие",
 	IGUI_SearchMode_Categories_Ammunition = "Патроны",
-	IGUI_SearchMode_Categories_JunkFood = "Еда в упаковке",
+	IGUI_SearchMode_Categories_JunkFood = "Нездоровая пища",
 	IGUI_SearchMode_Categories_Clothing = "Одежда",
 	IGUI_SearchMode_Categories_Medical = "Медицинские вещи",
     	IGUI_SearchMode_Categories_MedicinalPlants = "Лекарственные растения",
@@ -1621,10 +1621,13 @@ IGUI_RU = {
 	IGUI_SearchMode_Tip_Categories_Text = "Больше категорий лута можно увидеть во всплывающей подсказке окна поиска на более высоких уровнях собирательства. Вы научитесь лучше замечать маловероятные предметы.",
     IGUI_SearchMode_Tip_WildPlants_Title = "Дикорастущие растения",
     IGUI_SearchMode_Tip_WildPlants_Text = "Дикорастущие фрукты и овощи чаще всего встречаются в сельской местности и на лугах. Некоторые виды могут проявиться только зимой.",
-    IGUI_SearchMode_Tip_Crops_Title = "Дикие культуры",
-    IGUI_SearchMode_Tip_Crops_Text = "Дикие культуры чаще всего встречаются в сельской местности, так же есть шанс, что они могут дать семена.",
+    IGUI_SearchMode_Tip_Crops_Title = "Дикие агрокультуры",
+    IGUI_SearchMode_Tip_Crops_Text = "Дикие агрокультуры чаще всего встречаются в сельской местности, так же есть шанс, что они могут дать семена.",
     IGUI_SearchMode_Tip_Seasons_Title = "Времена года",
     IGUI_SearchMode_Tip_Seasons_Text = "Все встречающиеся в природе предметы регулируются месяцами. То, что вы можете найти, зависит от времени года!",
+	IGUI_SearchMode_Tip_SearchFocus_Title = "Фокус",
+	IGUI_SearchMode_Tip_SearchFocus_Text = "Что-то ищите? Используйте фокус, чтобы увеличить шансы найти выбранную категорию!",
+
 }
 
 }
