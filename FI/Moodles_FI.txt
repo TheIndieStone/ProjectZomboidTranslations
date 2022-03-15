@@ -1,0 +1,226 @@
+Moodles_FI = {
+	-- Moodle type :
+	-- Endurance
+	Moodles_endurance_lvl1 = "Kohtalainen rasitus",
+	Moodles_endurance_lvl2 = "Korkea rasitus",
+	Moodles_endurance_lvl3 = "Liiallinen rasitus",
+	Moodles_endurance_lvl4 = "Uupumus",
+	-- Heavy Load
+	Moodles_heavyload_lvl1 = "Melko raskas kuorma",
+	Moodles_heavyload_lvl2 = "Raskas kuorma",
+	Moodles_heavyload_lvl3 = "Todella raskas kuorma",
+	Moodles_heavyload_lvl4 = "Erittäin raskas kuorma",
+	-- Angry
+	Moodles_angry_lvl1 = "Äkeä",
+	Moodles_angry_lvl2 = "Ärsyyntynyt",
+	Moodles_angry_lvl3 = "Vihainen",
+	Moodles_angry_lvl4 = "Raivoissaan",
+	-- Stress
+	Moodles_stress_lvl1 = "Ahdistunut",
+	Moodles_stress_lvl2 = "Levoton",
+	Moodles_stress_lvl3 = "Stressaantunut",
+	Moodles_stress_lvl4 = "Hermoraunio",
+	-- Thirst
+	Moodles_thirst_lvl1 = "Hieman janoinen",
+	Moodles_thirst_lvl2 = "Janoinen",
+	Moodles_thirst_lvl3 = "Nestehukassa",
+	Moodles_thirst_lvl4 = "Kuolemassa janoon",
+	-- Tired
+	Moodles_tired_lvl1 = "Unelias",
+	Moodles_tired_lvl2 = "Väsynyt",
+	Moodles_tired_lvl3 = "Hyvin väsynyt",
+	Moodles_tired_lvl4 = "Naurettavan väsynyt",
+	-- Hungry
+	Moodles_hungry_lvl1 = "Hiukoo",
+	Moodles_hungry_lvl2 = "Nälkäinen",
+	Moodles_hungry_lvl3 = "Todella nälissään",
+	Moodles_hungry_lvl4 = "Nälkään nääntymässä",
+	-- Panic
+	Moodles_panic_lvl1 = "Lievä paniikki",
+	Moodles_panic_lvl2 = "Paniikki",
+	Moodles_panic_lvl3 = "Paha paniikki",
+	Moodles_panic_lvl4 = "Äärimmäinen paniikki",
+	-- Sick
+	Moodles_sick_lvl1 = "Hutera olo",
+	Moodles_sick_lvl2 = "Pahoinvoiva",
+	Moodles_sick_lvl3 = "Sairas",
+	Moodles_sick_lvl4 = "Kuumeinen",
+	-- Bored
+	Moodles_bored_lvl1 = "Pitkästyttää hieman",
+	Moodles_bored_lvl2 = "Pitkästynyt",
+	Moodles_bored_lvl3 = "Todella pitkästynyt",
+	Moodles_bored_lvl4 = "Äärimmäisen pitkästynyt",
+	-- Unhappy
+	Moodles_unhappy_lvl1 = "Haikea olo",
+	Moodles_unhappy_lvl2 = "Itkuinen",
+	Moodles_unhappy_lvl3 = "Masentunut",
+	Moodles_unhappy_lvl4 = "Vakavasti masentunut",
+	-- Bleeding
+	Moodles_bleeding_lvl1 = "Lievää verenvuotoa",
+	Moodles_bleeding_lvl2 = "Verenvuotoa",
+	Moodles_bleeding_lvl3 = "Voimakasta verenvuotoa",
+	Moodles_bleeding_lvl4 = "Massiivinen verenhukka",
+	-- Wet
+	Moodles_wet_lvl1 = "Nihkeä",
+	Moodles_wet_lvl2 = "Kostea",
+	Moodles_wet_lvl3 = "Märkä",
+	Moodles_wet_lvl4 = "Likomärkä",
+	-- Has a cold
+	Moodles_hascold_lvl1 = "Vuotava nenä",
+	Moodles_hascold_lvl2 = "Nuha",
+	Moodles_hascold_lvl3 = "Flunssa",
+	Moodles_hascold_lvl4 = "Paha flunssa",
+	-- Injured
+	Moodles_injured_lvl1 = "Epämukavuutta",
+	Moodles_injured_lvl2 = "Loukkaantunut",
+	Moodles_injured_lvl3 = "Vakavasti loukkaantunut",
+	Moodles_injured_lvl4 = "Kriittisessä tilassa",
+	-- Pain
+	Moodles_pain_lvl1 = "Lievää kipua",
+	Moodles_pain_lvl2 = "Kipua",
+	Moodles_pain_lvl3 = "Voimakasta kipua",
+	Moodles_pain_lvl4 = "Silkkaa tuskaa",
+	-- Drunk
+	Moodles_drunk_lvl1 = "Hiprakassa",
+	Moodles_drunk_lvl2 = "Päihtynyt",
+	Moodles_drunk_lvl3 = "Kännissä",
+	Moodles_drunk_lvl4 = "Aivan naamat",
+	-- Dead
+	Moodles_dead_lvl1 = "Kuollut",
+	-- Zombified
+	Moodles_zombie_lvl1 = "Epäkuollut",
+	-- Food eaten
+	Moodles_foodeaten_lvl1 = "Nälätön",
+	Moodles_foodeaten_lvl2 = "Kylläinen",
+	Moodles_foodeaten_lvl3 = "Täynnä",
+	Moodles_foodeaten_lvl4 = "Ähky",
+	-- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "Epämiellyttävän lämmin",
+	Moodles_hyperthermia_lvl2 = "Ylikuumentunut",
+	Moodles_hyperthermia_lvl3 = "Auringonpistoksessa",
+	Moodles_hyperthermia_lvl4 = "Lämpöhalvauksessa",
+	-- Hypothermia
+	Moodles_hypothermia_lvl1 = "Viluissaan",
+	Moodles_hypothermia_lvl2 = "Kylmissään",
+	Moodles_hypothermia_lvl3 = "Todella palelee",
+	Moodles_hypothermia_lvl4 = "Alilämpöinen",
+    -- Windchill
+    Moodles_windchill_lvl1 = "Viileä vinkka",
+    Moodles_windchill_lvl2 = "Kylmä tuuli",
+    Moodles_windchill_lvl3 = "Jäinen tuuli",
+    Moodles_windchill_lvl4 = "Kauhea viima",
+
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "Levon tarpeessa.",
+	Moodles_endurance_desc_lvl2 = "Hädintuskin jaksaa hölkätä.",
+	Moodles_endurance_desc_lvl3 = "Hädintuskin pystyy kävelemään.",
+	Moodles_endurance_desc_lvl4 = "Juuri ja juuri pystyy edes liikkumaan.",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "Nakertaa.",
+	Moodles_angry_desc_lvl2 = "Huonolla tuulella.",
+	Moodles_angry_desc_lvl3 = "Todella kypsynyt.",
+	Moodles_angry_desc_lvl4 = "Kerjää tappelua.",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "Kireä.",
+	Moodles_stress_desc_lvl2 = "Jännittynyt ja säikky.",
+	Moodles_stress_desc_lvl3 = "Hikiset kädet. Kalvava pelko.",
+	Moodles_stress_desc_lvl4 = "Pakokauhussa.",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "Suuta kuivaa.",
+	Moodles_thirst_desc_lvl2 = "Elimistö kuivunut.",
+	Moodles_thirst_desc_lvl3 = "Heikottaa ja huimaa.",
+	Moodles_thirst_desc_lvl4 = "Kipeästi nesteytyksen tarpeessa.",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "Voisi ottaa torkut.",
+	Moodles_tired_desc_lvl2 = "Valppaus herpaantunut.",
+	Moodles_tired_desc_lvl3 = "Valppaus pahasti herpaantunut.",
+	Moodles_tired_desc_lvl4 = "Niin kovin väsynyt. Niin epätoivoisen, epäinhimillisen väsynyt.",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "Voisi syödä pari suupalaa.",
+	Moodles_hungry_desc_lvl2 = "Söisi vaikka kokonaisen hevosen.",
+	Moodles_hungry_desc_lvl3 = "Vahvuus ja paraneminen heikentyneet.",
+	Moodles_hungry_desc_lvl4 = "Kuihtuu hengiltä silmissä...",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "Yritä pysyä rauhallisena.",
+	Moodles_panic_desc_lvl2 = "Osumatarkkuus alentunut.",
+	Moodles_panic_desc_lvl3 = "Osumatarkkuus tuntuvasti alentunut.",
+	Moodles_panic_desc_lvl4 = "Osumatarkkuus ja näkö tuntuvasti alentuneet.",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "Yritä lepäillä.",
+	Moodles_sick_desc_lvl2 = "Vahvuus ja paraneminen heikentyneet",
+	Moodles_sick_desc_lvl3 = "Vahvuus ja paraneminen tuntuvasti heikentyneet.",
+	Moodles_sick_desc_lvl4 = "Kuolemanvaarassa.",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "Keksi tekemistä tai etsi viihdettä.",
+	Moodles_bored_desc_lvl2 = "Saattaa tulla surulliseksi.",
+	Moodles_bored_desc_lvl3 = "Todennäköisesti tulee surulliseksi.",
+	Moodles_bored_desc_lvl4 = "Erittäin todennäköisesti tulee surulliseksi.",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "Keksi jotain, millä nostaa mielialaasi.",
+	Moodles_unhappy_desc_lvl2 = "Jännitystä elämään tai ihmisvuorovaikutusta.",
+	Moodles_unhappy_desc_lvl3 = "Menetyksen ja epätoivon runtelema.",
+	Moodles_unhappy_desc_lvl4 = "Tarvitsee keinon paeta todellisuutta.",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "Tarvitsee haavasiteen.",
+	Moodles_bleed_desc_lvl2 = "Vahvuus ja nopeus heikentyneet.",
+	Moodles_bleed_desc_lvl3 = "Vahvuus ja nopeus tuntuvasti heikentyneet.",
+	Moodles_bleed_desc_lvl4 = "Kuolema häämöttää.",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "Hieman kostea. Sateesta vai hiestä?",
+	Moodles_wet_desc_lvl2 = "Hikisempi, vai pidempään sateessa seisonut?",
+    Moodles_wet_desc_lvl3 = "Saattaa vilustua.",
+    Moodles_wet_desc_lvl4 = "Todennäköisesti vilustuu.",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "Satunnaista aivastelua.",
+	Moodles_hasacold_desc_lvl2 = "Altis aivastelulle.",
+	Moodles_hasacold_desc_lvl3 = "Aivastelua ja yskimistä. Nopeus ja paraneminen heikentyneet.",
+	Moodles_hasacold_desc_lvl4 = "Nopeus ja paraneminen tuntuvasti heikentyneet.",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "Jotenkin outo olo...",
+	Moodles_injured_desc_lvl2 = "Vahvuus ja nopeus heikentyneet.",
+	Moodles_injured_desc_lvl3 = "Vahvuus ja nopeus tuntuvasti heikentyneet.",
+	Moodles_injured_desc_lvl4 = "Ei lempeästi lähde siihen hyvään yöhön...",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "Koskee hieman.",
+	Moodles_pain_desc_lvl2 = "Nopeus ja osumatarkkuus hieman heikentyneet.",
+	Moodles_pain_desc_lvl3 = "Nopeus ja osumatarkkuus heikentyneet.",
+	Moodles_pain_desc_lvl4 = "Nopeus ja osumatarkkuus tuntuvasti heikentyneet.",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "Hieman liikaa kantamuksia.",
+	Moodles_heavyload_desc_lvl2 = "Kävelyvauhti hidastunut.",
+	Moodles_heavyload_desc_lvl3 = "Kävelyvauhti tuntuvasti hidastunut.",
+	Moodles_heavyload_desc_lvl4 = "Ei voi kestää paljon enempää! Liikkumiskyky vaarantunut.",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "Nauttinut pari juomaa.",
+	Moodles_drunk_desc_lvl2 = "Koordinaatiokyky hieman heikentynyt.",
+	Moodles_drunk_desc_lvl3 = "Koordinaatiokyky heikentynyt.",
+	Moodles_drunk_desc_lvl4 = "'Me kaksh muuta maailmaa vashtaan. Mä rakashtan shua. MÄ RAKASHTAN SHUA.'",
+	-- Dead
+	Moodles_dead_desc_lvl1 = "Todennäköisesti päätyy rotanruoaksi.",
+	-- Zombified
+	Moodles_zombified_desc_lvl1 = "Yhtäkkiä tekee mieli syödä ihmisiä.",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "Ei minkäänlaista näläntunnetta.",
+	Moodles_foodeaten_desc_lvl2 = "Vatsa täynnä. Ruis matkalla ranteisiin.",
+	Moodles_foodeaten_desc_lvl3 = "Vatsa tyytyväinen. Terveys ja vahvuus vahvoilla.",
+	Moodles_foodeaten_desc_lvl4 = "Et saa alas yhtä ainokaista lusikallistakaan enää.",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "Harkitse vaatetuksen keventämistä. Jano nousee.",
+	Moodles_hyperthermia_desc_lvl2 = "Janoinen. Hikinen. Paistumaisillaan.",
+	Moodles_hyperthermia_desc_lvl3 = "Pahoinvoiva, keskittymiskyvytön ja nesteytyksen tarpeessa.",
+	Moodles_hyperthermia_desc_lvl4 = "Lämpöhalvaukseseta houraileva. Vakavassa vaarassa.",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "Hieman kohmeinen.",
+	Moodles_hypothermia_desc_lvl2 = "Täytyy pysyä lämpimänä...",
+	Moodles_hypothermia_desc_lvl3 = "Piru vie, miten palelee!"
+	Moodles_hypothermia_desc_lvl4 = "Keho ja mieli kokonaan kylmän vallassa.",
+    -- Windchill
+    Moodles_windchill_desc_lvl1 = "Tuntuu 5-10 astetta varsinaista lämpötilaa kylmemmältä.",
+    Moodles_windchill_desc_lvl2 = "Tuntuu 10-15 astetta varsinaista lämpötilaa kylmemmältä.",
+    Moodles_windchill_desc_lvl3 = "Tuntuu 15-20 astetta varsinaista lämpötilaa kylmemmältä.",
+    Moodles_windchill_desc_lvl4 = "Tuntuu yli 20 astetta varsinaista lämpötilaa kylmemmältä.",
+    -- CantSprint
+    Moodles_CantSprint = "Rajallinen kävelykyky"
+    Moodles_CantSprint_desc = "Raskas vaatetus, kömpelöt kantamukset tai kookkaat tavarat hidastavat sinua!"
+}

@@ -4692,148 +4692,337 @@ Fixed a Lua error adding a saved splitscreen player in multiplayer.
 
 
 [VERSION]41.66
-[SECTION]
-Don't show the "ADMIN POWER:" debug text in multiplayer.
-Added display what mod an item is from to tooltip. Can be turned off in main options.
-Added admin panel tool for creating custom safehouses
-Added back the "Toggle Music" key binding, bound to nothing by default. It appears under the new "Audio" category near the bottom of the key-binding UI.
-Server sets a Steam server rule named "PVP" with a value of "1" or "0" depending on the value of the "PVP" server option.
+[SECTION]MP CHANGES
+Increased experimental maximum player limit to 100. Default remains at 32. Servers with more than 32 players will likely result in poor map streaming and desync, so proceed with caution.
+[NODOT]<LINE>
+Optional Login Queue system for MP servers added.
+[NODOT]<INDENT:40> Players connecting to a full server will be placed in a login queue, connecting automatically once a slot freed up. The queue will advance after the client has finished loading the game.
+[NODOT]<INDENT:40> LoginQueueConnectTimeout=60 server option determines for how long the server should wait for a connection of the client before they are timed out.
+[NODOT]<LINE>
+Added options for automatic server backups.
+Several cheating security fixes to prevent unwanted admin access as well as unwanted actions performed by clients.
+[NODOT]<LINE>
+Several improvements and fixes for VOIP. Added Automatic Gain Control options.
+Allow VOIP and text to travel to radios tuned into the same frequency.
+Non-equipped stationary radios now two-way for text comms
+[NODOT]<LINE>
+Added admin panel tool for creating custom safehouses/safezones
+Added new PvP icons
+Servers now set a Steam server rule named "PVP" with a value of "1" or "0" depending on the value of the "PVP" server option. This can be used by server browsers to distinguish between pure PVE and PVP enabled servers.
 Added a "SledgehammerOnlyInSafehouse" server option:
 [NODOT]<INDENT:40> if AllowDestructionBySledgehammer is enabled, you can set SledgehammerOnlyInSafehouse to true to allow destroying stuff with sledge only in player's safehouse.
-Players can now dismantle several player-built structures (floors, etc)
+[NODOT]<LINE>
+Added buildUtil.setHaveConstruction
+[NODOT]<INDENT:40> This is a function to set the haveConstruction flag on a zone to prevent loot respawn if ConstructionPreventsLootRespawn is enabled in the server sandbox settings.
+[NODOT]<INDENT:40> set haveConstruction on zone for building, movable, barricading events and when claiming a safehouse, so a home won't spawn loot after being claimed, even if a player hasn't built anything in them yet.
+[NODOT]<LINE>
+Updated /rainstart /rainstop and /thunder commands
+Added /lightning /startstorm and /stopweather commands
+Added providing optional reason in KickUserCommand
+Added providing optional coordinates in AddVehicleCommand
+Updated text for server commands
+Updated ShowOptionsCommand to allow use by non admins
+Disabled doubled-up commands AddAllToWhiteListCommand and AddUserToWhiteListCommand
+Removed unnecessary server options.
+[NODOT]<LINE>
+Updated overhead username display
+[NODOT]<INDENT:40> with only ShowFirstAndLastName enabled, show player name
+[NODOT]<INDENT:40> with only DisplayUserName enabled, show username
+[NODOT]<INDENT:40> with both options enabled, show player name with username in brackets
+[NODOT]<LINE>
+Server .ini file now has the tooltips for the various options and settings attached as comments
+Added limit for server public names to 64 characters and public descriptions to 256 characters
+Disabled NightLengthModifier since it is currently non-functional. Will be reintroduced soon.
+Added check and teleport for safehouse trespassing.
+[NODOT]<INDENT:40> Fixes issue with players becoming trapped when a safehouse owner goes offline with DisableSafehouseWhenPlayerConnected enabled
+[NODOT]<INDENT:40> Fixes issue with players intruding in safezone areas via movement exploits
+[NODOT]<LINE>
+[NODOT]Safehouse fixes:
+admins and moderators can quit safehouse (if not owner)
+admins and moderators can invite themselves to a safehouse
+admins and moderators can quit safehouse (if not owner)
+admins and moderators can invite themselves to a safehouse
+do not show the 'Quit Safehouse' button to admins who are not in this safehouse
+[NODOT]<LINE>
+Fixed non-relevant Lucky/Unlucky traits being usable in MP.
+Fixed some duplication exploits.
+Fixed being unable to access/change player inventory as admin.
+Fixed Ping Limiter not working. 
+Fixed showing the "ADMIN POWER:" debug text in multiplayer.
+Fixed some cases where crashes at low speeds cause fatal injuries.
+Fixes for some instances where black boxing could still occur when players were passengers in vehicles.
+Fixed an exploit that allowed bypassing container item limits.
+Fixed non-members being able to perform moveables actions inside safehouses.
+Fixed admins in ghost/invisible mode still making sounds.
+Fixed "Medical check" on another char in a car causing chars to be stuck in a car
+Fixed crawlers sometimes teleporting when trying to path to a player. They will now turn to the target.
+Fixed, via removal, defunct server option "LogLocalChat".
+Fixed kicks in relation to Safehouse creations.
+Fixed being able to exit a vehicle when inside a safehouse without having appropriate permissions.
+Fixed a bug that rendered passengers unable to leave a car.
+Fixed death by bleeding while driving causing a kick from the server.
+Fixed not being able to die near other players until hp drops down, and not being able to move if char died while other players try to rescue.
+Fixed looting animation stopping when another player attempts to grab the bag/container. 
+
+
+
+[SECTION]NEW
+Added back the "Toggle Music" key binding, bound to nothing by default. It appears under the new "Audio" category near the bottom of the key-binding UI.
+Players can now dismantle several player-built structures (floors, etc).
 Corner pillars will now be built automatically when placing walls/fences etc.
-Removed Lucky/Unlucky traits in MP. They had no effect. 
-Added buildUtil.setHaveConstruction. Set haveConstruction on zone for building, movable, barricading events and when claiming a safehouse
 Updated Kingsmouth and Studio maps. Room definitions, bed and foundation fixes, added video cameras, military equipment, and more.
+Added tooltip information on what mod an item is from. Can be turned off in main options.
+Added "Inventory Container Button Size" Display option to change the size of the buttons on the right-hand side of the inventory and loot windows.
+Updated Survival Guide. Merged into a single window and also made to work with a controller
+Added trait reset button to character creation screen.
+Implemented the blue combination washer/dryer appliance. Use the context menu to switch between washer and dryer mode.
+Context Menu is now usable in the loot panel backpack list.
+Added more CDs and VHS tapes, including Dog Goblin sequels.
+Updated ISCraftingUI and CraftTooltip to display multiple choice item counts, as well as heat requirements for recipe ingredients.
+Added AllowFrozenItem parameter to recipes and evolved recipes.
+Added Perogies, Peppermint, Potato Pancakes.
+Added OnCreate item script property.
+
+
+[SECTION]BALANCE
+Setting Cruise Control now starts at current speed when switched on.
+Attempting to sprint when the character is too exhausted to sprint will now make the character run as fast as they can instead of walking and having to press the "Run" key separately.
+Fixed M16 still having its initial experimental values. No longer a death laser. MinDamage reduced to 0.8, MaxDamage reduced to 1.4.
+Greased back hair now requires hair gel.
+Frog legs and whole fish are now dangerous uncooked.
+Military lockers and crates now movable. They'll also contain loot.
+Unified spawn items and starter kit functions in SpawnItems.lua.
+Fixed drinking directly from river/puddles not making characters sick. 
+Drinking tainted water now more merciful if character is already sick.
+Added ability to use sheet ropes to create log stacks
+Fixed players not becoming bored inside player-built rooms.
+Agoraphobic and Claustrophobic traits fixed to work inside player-built rooms.
+Added relevant tile properties (pick-up, rotate, water source etc) to: new farm dirt tile, washer-driers, dead farm plants, hay bales, red mobile tool cabinet, troughs, play castles, bird baths, sinks and more.
+[NODOT]<LINE>
+[NODOT]Spear charge fixes (MP and SP):
+Charge only zombies in front of the player.
+Reset sprinting time when spear charge occurs.
 
 [SECTION]NOISEWORKS
-Added the violin melee hit/whoosh sounds
-Added a volume automation for the hard of hearing trait in addition to the muffling we already had, additional -6db (needs some testing if this is okay)
-Minor volume tweak to zombie voices when they're very close, they were a bit too loud
-Added occlusion to vehicle engines, horn, sirens (needs some testing)
-Slight adjustment to the bass of the footstomp
+Added a volume automation for the hard of hearing trait in addition to the muffling we already had, additional -6db (needs some testing if this is okay).
+Added EmptyPan sound for "Empty Frying Pan" and 2 other recipes.  The sound is a placeholder for now. 
+Added values MeleeHitSurface for per-weapon door-hitting sounds.
+Added DoorSound=WoodShackDoor for new door sounds for wood-plank doors.
+Added StoveTimer sound.
+Added sounds played while constructing gravel-bag and sand-bag fences.
+Added sounds for turning media devices on/off and muting/unmuting.
+Added Dismantle sound for radios and televisions. 
+Added generator repair, connect and refuel sounds. 
+Added sounds for drinking and filling containers from water dispensers.
+Added new climb sound for high finces.
+Added bullet impact sounds.
+Added the violin melee hit/whoosh sounds.
+[NODOT]<LINE>
+Minor volume tweak to zombie voices when they're very close, they were a bit too loud.
+Added occlusion to vehicle engines, horn, sirens (needs some testing).
+Slight adjustment to the bass of the footstomp.
 Play PourLiquidOnGround when emptying paint buckets and similar items.
-Added EmptyPan sound for "Empty Frying Pan" and 2 other recipes.  The sound is a placeholder for now.
 Fixed playing DrinkingFromTap or GetWaterFromTap when drinking from a river sometimes.
+Play the FallLight sound when tripping over a hedge/tree.
 
 [SECTION]IN-GAME MAP
 Added a button to the in-game map to remove all annotations and forget map knowledge.
 Hide the mini-map when the inventory and loot windows are visible when using a controller (so the mini-map doesn't overlap).
+Display controller button prompts in the in-game map.
+Play the MapOpen and MapClose sounds when viewing the in-game map.
+[NODOT]<LINE>
 Fixed the in-game map view not being centered on the player the first time it's displayed, when the mini-map is also used.
+Fixed moving map symbols with the mouse.
 
-[SECTION]BALANCE
-Fixed M16 still having its initial test values. No longer a death laser. MinDamage reduced to 0.8, MaxDamage reduced to 1.4.                                                                                                                                                            
-Increased weight of Stone Axe from 1.2 to 2.
-Greased back hair now requires hair gel
-Frog legs and whole fish are now dangerous uncooked
+
+[SECTION]KNOX EVENT MAP
+Export of current dev map - including some new locations and improvement of general landscape.
+Pylons and radio masts added to map.
+Various map fixes.
+
 
 [SECTION]FORAGING / SEARCH SYSTEM
-Overlay radius now used instead of item radius for placing investigate arrow markers
-Restructured trait/profession multipliers now uses definitions
-Added profession and trait category specialisations
-[NODOT]<INDENT:40> Big bonuses to spot categories for professions
-[NODOT]<INDENT:40> Small/medium bonuses to spot categories for traits
-Added functions for modders to add trait/profession definitions
-Added ammunition category to urban loot
-Added medical category to urban loot
-Added clothing items to urban loot
-Added some more misc items/fruits/veggies
-Added pinecones (only available from September to December)
-Added pinecones can be used as campfire fuel
-Show spotting arrows immediately when the player notices something
-Force-find now reveals an item nearby for the player instead of just moving it closer
-New identifying items system items can be identified if close enough or from afar with high skill
-Zone display now reveals exact categories when reaching high enough level (identifyCategoryLevel)
-Set a minimum dark overlay value so the search radius is always visible even in bright daylight
-Categories can be more or less common (or not available) during rain or snow
-Items can be more or less common (or not available) at night or during the day
-Items and categories can be more or less common (or not available) after it has rained
-Items are moved to player inventory if a backpack goes over capacity otherwise dropped onto the floor
-Refactored, bugfixed and documented many functions
-Fixed resetting itemTotal when fillZone is called
-Fixed inverted light level values when indoors
-Added foraging weather effect reduction for equipped umbrellas
-Increased darkness/weather effect reduction cap
-Resolved an issue with calculating foraging darkness/weather effect reduction
-Fixed issue causing item markers to disappear when looking away
-Added a chance to generate extra items on affinity sprites more firewood in forests more stones on roads
-Tweaked and tidied bonus item generation and syncing
-Added a flag to bonus icons for future management
-Set affinity check to occur after all icons are loaded
-Activate nearby zones inside radius
-Allow multiple categories per affinity sprite
-Show item ghost before spotting if in visible radius
-Added bonus vision definitions for all professions
-Place item marker arrows when inside item spotting radius if item is visible
-Cloud darkness and fog level visibility increased on zone display
-Added some variation to the zone display fog
-Added zone display vision effectiveness tooltip
-Updated search info tip
-Skip checking icons outside loaded cell
-Changed default itemDef value canBeOnTreeSquare to true
+Added foraging tips system to investigate area window.
+Added some fixes to make the system work with controllers.
+Overlay radius now used instead of item radius for placing investigate arrow markers.
+Restructured trait/profession multipliers - now uses definitions.
+Added profession and trait category specialisations.
+[NODOT]<INDENT:40> - Big bonuses to spot categories for professions.
+[NODOT]<INDENT:40> - Small/medium bonuses to spot categories for traits.
+Added functions for modders to add trait/profession definitions.
+Added ammunition category to urban loot.
+Added medical category to urban loot.
+Added clothing items to urban loot.
+Added some more misc items/fruits/veggies.
+Added pinecones (only available from September to December).
+Added pinecones can be used as campfire fuel.
+Show spotting arrows immediately when the player notices something.
+Force-find now reveals an item nearby for the player instead of just moving it closer.
+New identifying items system - items can be identified if close enough or from afar with high skill.
+Zone display now reveals exact categories when reaching high enough level (identifyCategoryLevel).
+Set a minimum dark overlay value so the search radius is always visible even in bright daylight.
+Categories can be more or less common (or not available) during rain or snow.
+Items can be more or less common (or not available) at night or during the day.
+Items and categories can be more or less common (or not available) after it has rained.
+Items are moved to player inventory if a backpack goes over capacity - otherwise dropped onto the floor.
+Refactored, bugfixed and documented many functions.
+Fixed resetting itemTotal when fillZone is called.
+Fixed inverted light level values when indoors.
+Added foraging weather effect reduction for equipped umbrellas.
+Increased darkness/weather effect reduction cap.
+Resolved an issue with calculating foraging darkness/weather effect reduction.
+Fixed issue causing item markers to disappear when looking away.
+Added a chance to generate extra items on affinity sprites - more firewood in forests - more stones on roads.
+Tweaked and tidied bonus item generation and syncing.
+Added a flag to bonus icons for future management.
+Set affinity check to occur after all icons are loaded.
+Activate nearby zones inside radius.
+Allow multiple categories per affinity sprite.
+Show item ghost before spotting if in visible radius.
+Added bonus vision definitions for all professions.
+Place item marker arrows when inside item spotting radius if item is visible.
+Cloud darkness and fog level visibility increased on zone display.
+Added some variation to the zone display fog.
+Added zone display vision effectiveness tooltip.
+Updated search info tip.
+Skip checking icons outside loaded cell.
+Changed default itemDef value canBeOnTreeSquare to true.
+Added more search radius/trait/profession bonus info to Investigate Area tooltip.
+Added showing the poison skull on forage pins for mushrooms/berries if player has herbalist skill.
+More categories visible on Investigate Area window tooltip with high skill.
+Tidied up and documented ISSearchManager/ISBaseIcon.
+Tweaked forageSystem penalty calculations.
+Fixed icon arrows remaining on screen when sprinting.
+Added short sighted foraging debuff can be removed by wearing glasses/reading glasses.
+Added testFuncs to skill definitions.
+Fix rerolling zone icons while sprinting.
+Fix spotting icons while fast forwarding.
+Vision radius calculations refactored and tidied.
+Icon performance improvements.
+Fixed icons recreating with incorrect conditions.
+Reduced and capped stuttering caused by cell checks.
+Fixed overlay toggling in vehicles.
+Improved search radius transitions when toggling mode.
+Improved forage zone activation, icon moving, bonus icon generation.
+Fixed wild crop seed spawns.
+Fixed using the wrong broccoli type for foraging.
+Fixed issues in force find tracker.
+Skip sprite affinity checks on squares with trees or attached data.
+Fixed missing spaces in search window tooltips.
+Fixed missing item texture on pins for floor items.
+Fixed moved objects spawning bonus items.
+Removed performance impact for ISSearchManager, ISZoneDisplay, ISSearchWindow when UI not visible.
+Removed seasonal variances from medicinal plants.
+Added WildPlants category for seasonal wild foods.
+Updated ISSearchManager table resets to use table.wipe.
+Updated radius and modifiers in ISZoneDisplay vision tooltip.
+Tidied up some debug stuff in ISZoneDisplay.
+Added foraging profession and trait specialisations for WildPlants.
 [NODOT]<LINE>
 [NODOT]Balance:
-Increased maximum possible spotting range further for specialised characters
-Reduced base XP rewards for foraging
-Tweaked icon density in zones
-Added enforcing a minimum distance between icons (force-find/affinity icons are exempt)
-Insects, mushrooms, herbs are now much more common at night
-Medicinal herbs are much easier to see
-Increased medicinal herb yields
-Herbs and mushrooms are more common in the rain and after it has rained
-Added disabling search mode if a zombie is very close (about 1 square away)
-Reduced headwear vision penalties, added penalties for more types (not hats, never hats)
-Increased chance of items to be on affinity sprites (stones on stones, etc)
-Allow affinity icons to be moved again if they were not noticed before
-Malus for item size adjusted to a curve to be less punishing
-Rebalanced many item sizes with overrides for spotting (fruit trees, crops, etc)
-Reduced berries poison level by a lot not likely to be fatal
-Reduced mushroom toxicity range still very risky to eat unidentified
-Added additional food sickness penalty for consuming poison berries and mushrooms
-Added a new increased minimum vision radius for well-lit squares
-Increased variance of medicinal herb yields
-Weather penalty calculation tweaked for snow cover
-Weather penalty maximum increased
-Overlay radius tweaked to use forageSystem min/max size values
-Stones more likely to be found in cracks in the road + rates increased on roads
-Removed skill requirements for some item categories
-Tweaked sprite affinity and bonus icon chances
-Tweaked sprite affinity/bonus icon chances
-Foraged drainable items roll for a remaining amount
-Increased zone icon density
-Additional variation for zone density
-Added more sprite affinities to trash, junk icons, and insects
-Reduced chance of finding rotten wild foods
-Increased chance of fresh wild foods with high skill
-Profession and trait vision modifiers also affect the overlay maximum vision radius
-Increased vision cap for extremely skilled and specialised characters
-Decreased vision cap for non specialised characters
-Ensure vision radius bonus always applies when aiming or sneaking
-Rebalanced profession and trait darkness effect modifiers
-Check darkness cap before placing item marker arrows
-Removed override item size for some small items
-Added more sprite affinities to categories
-Removed enforcement of minimum icon spacing
-Dead animals much more likely to be stale or rotten
-Aiming takes priority over crouching bonus in forageSystem
-Bonus vision effects apply to maximum radius
-Chance to find logs reduced
+Increased maximum possible spotting range further for specialised characters.
+Reduced base XP rewards for foraging.
+Tweaked icon density in zones.
+Insects, mushrooms, herbs are now much more common at night.
+Medicinal herbs are much easier to see.
+Increased medicinal herb yields.
+Herbs and mushrooms are more common in the rain and after it has rained.
+Added disabling search mode if a zombie is very close (about 1 square away).
+Reduced headwear vision penalties, added penalties for more types (not hats, never hats).
+Increased chance of items to be on affinity sprites (stones on stones, etc).
+Allow affinity icons to be moved again if they were not noticed before.
+Malus for item size adjusted to a curve to be less punishing.
+Rebalanced many item sizes with overrides for spotting (fruit trees, crops, etc).
+Reduced berries poison level by a lot - not likely to be fatal.
+Reduced mushroom toxicity range - still very risky to eat unidentified.
+Added additional food sickness penalty for consuming poison berries and mushrooms.
+Added a new increased minimum vision radius for well-lit squares.
+Increased variance of medicinal herb yields.
+Weather penalty calculation tweaked for snow cover.
+Weather penalty maximum increased.
+Overlay radius tweaked to use forageSystem min/max size values.
+Stones more likely to be found in cracks in the road + rates increased on roads.
+Removed skill requirements for some item categories.
+Tweaked sprite affinity and bonus icon chances.
+Tweaked sprite affinity/bonus icon chances.
+Foraged drainable items roll for a remaining amount.
+Increased zone icon density.
+Additional variation for zone density.
+Added more sprite affinities to trash, junk icons, and insects.
+Reduced chance of finding rotten wild foods.
+Increased chance of fresh wild foods with high skill.
+Profession and trait vision modifiers also affect the overlay maximum vision radius.
+Increased vision cap for extremely skilled and specialised characters.
+Decreased vision cap for non specialised characters.
+Ensure vision radius bonus always applies when aiming or sneaking.
+Rebalanced profession and trait darkness effect modifiers.
+Check darkness cap before placing item marker arrows.
+Removed override item size for some small items.
+Added more sprite affinities to categories.
+Dead animals much more likely to be stale or rotten.
+Aiming takes priority over crouching bonus in forageSystem.
+Bonus vision effects apply to maximum radius.
+Chance to find logs reduced.
+Rebalanced vision radius/view distance for spotting.
+Increased maximum hunger bonus for food items.
+Tweaked vision penalties for clothing.
+Increased base spotting speed and bonus spotting speed when aiming/sneaking.
+Reduced snow cover and cloud penalty.
+Umbrella rain penalty reduction increased and only applies to rain.
+Minor zone item count balance tweak.
+Added more sprite affinities for stones.
+Adjusted profession vision bonuses.
+Category chances tweaked to accommodate WildPlants.
 [NODOT]<LINE>
 [NODOT]Debug:
-Added a new IsoMarker type for debugging icon vision radius
-Added icon vision radius + category info debug options
+Added a new IsoMarker type for debugging icon vision radius.
+Added icon vision radius + category info debug options.
+Added debug option: "Show Icons Locations".
 [NODOT]<LINE>
 [NODOT]Splitscreen fixes:
-Fixed split screen icon syncing
-Fixed picking up forage icons with controller in split screen
-Moved forage icon pickup option to the top of right click context menu
-Increased range of back button wheel pickup option
-Back button wheel forage options now use item textures
-Added discard item option to back button wheel
-Tidied up changes for split screen icon syncing
-Fixed syncing of arrows/markers when an item is moved or removed
-Fixed removal of icons noticed by co-op player
-Added zone display split screen support
+Fixed split screen icon syncing.
+Fixed picking up forage icons with controller in split screen.
+Moved forage icon pickup option to the top of right click context menu.
+Increased range of back button wheel pickup option.
+Back button wheel forage options now use item textures.
+Added discard item option to back button wheel.
+Tidied up changes for split screen icon syncing.
+Fixed syncing of arrows/markers when an item is moved or removed.
+Fixed removal of icons noticed by co-op player.
+Added zone display split screen support.
+Sync forage item poison values in splitscreen co-op.
+Fixed a bug when co-op player simultaneously picks up items in ISForageAction.
+
+
+[SECTION]MODDING
+Added ISCarMechanicsOverlay.PartList[].vehicles tables to any parts that don't have them.
+VehiclePart.setInventoryItem() no longer calls setModelVisible(true|false) for all models, because this interferes with some mods that choose different models based on which item is installed for a part. Instead, a new method VehiclePart.setAllModelsVisible(true|false) was added that is called from these Lua functions:
+[NODOT]<INDENT:80>Vehicles.Init.XXX
+[NODOT]<INDENT:80>Vehicles.InstallComplete.XXX
+[NODOT]<INDENT:80>Vehicles.UninstallComplete.XXX
+[NODOT]<INDENT:40>Mods that define "init", "install.complete" and/or "uninstall.complete" Lua functions can now choose to hide or show whichever models they want.
+[NODOT]<INDENT:40>Additionally, VehiclePart.repair() now calls the part's "init" Lua function (if it is defined) when creating a missing item.
+[NODOT]<INDENT:40>This allows the "init" function to hide or show models.
+[NODOT]<LINE>
+Added vehicle.part.setAllModelsVisible=true|false script parameter.  The default value is true.
+[NODOT]<INDENT:40>When true, VehiclePart.setInventoryItem() will call VehiclePart.setAllModelsVisible(item != null).
+[NODOT]<INDENT:40>When false, model visibility is not affected when VehiclePart.setInventoryItem() is called.
+[NODOT]<LINE>The game will look for mod texture-pack files named Pack2x.floor.pack (correct) and then Pack.floor2x.pack (incorrect) if the first file doesn't exist.
+Added IsoGameCharacter.XP.setPerkBoost(Perk perk, int level). This is for mods that want to change an existing player's XP multiplier for a skill.
+Added IsHidden parameter for recipes and evolved recipes
+[NODOT]<INDENT:40>- If true, this hides the recipe on the crafting menu.
+[NODOT]<INDENT:40>- Hidden recipes are still able to be crafted via the right click menu.
+[NODOT]<INDENT:40>- Evolved recipes are hidden unless a result item exists.
+[NODOT]<INDENT:80>- This allows adding additional ingredients via the crafting menu.
+
+
+[SECTION]CONTROLLER
+Pressing and holding the left analogue stick displays a radial menu that allows toggling crouching, sitting on the ground, and auto-walking. A quick press of the left joystick button toggles crouch, the same as before.
+Pressing the controller A button when a text entry has the focus displays the on-screen keyboard.
+[NODOT]<INDENT:40>- Left shoulder button changes focus between the text entry and keyboard.
+[NODOT]<INDENT:40>- D-pad navigates in the text entry.
+Foraging / Search mode improved to work with controllers.
+
 
 [SECTION]FIXES
 Fixed a Lua error when trying to spawn a new character in game when the AllClothesUnlocked sandbox option or Character.CreateAllOutfits debug option is enabled.
@@ -4846,59 +5035,51 @@ Fixed sitting zombies facing random angles in multiplayer.
 Fixed an IllegalArgumentException in IsoChunk.SafeRead() when reading an empty map_X_Y.bin file.
 Fixed the mini-map displaying the game's map data in cells that have been overridden by mods.
 Fixed some curved-road zones.
-Implemented "traffjam / ParkingStall" and "rtrafficjam / ParkingStall" for polyline zones, so traffic jams work on curved roads.
+Fixed traffic jams on curved roads by implementing "traffjam / ParkingStall" and "rtrafficjam / ParkingStall" for polyline zones
 Fixed exercises not starting when a two-handed weapon attached to the back is equipped in both hands.
 Fixed a thread-synchronization bug with ZomboidFileSystem.getString() accessing RelativeMap. This led to walls not being cutaway due to failing to load the CircleStencil Shader.
-Changed Character.Debug.PlaySoundWhenInvisible default from true to false.
+Fixed Character.Debug.PlaySoundWhenInvisible default being true when it should be false.
 Fixed a few cases where sounds from invisible players could be heard in multiplayer.
 Fixed bug in world dictionary when an item similarly named to a base item but with different module would be removed. This was due to scriptmanager.getModule defaulting to 'base' when the module was not found.
 Fixed scriptmanager.getModule testing for equals("Base") or startsWith("Base.") instead of startsWith("Base"). This would otherwise result in the same error happening still if one would name their module for example "BaseBuilding".
 Fixed item loading when trying to create an item with the same name in a different module. When a mod adds "MyMod.Apple" this a new item that exists alongside "Base.Apple", when MyMod is removed the "MyMod.Apple" bytes in the saves should be skipped. However due to ItemFactory.CreateItem calling the same scriptmanager functions that default to "Base" when no module found, it would try and instance "Base.Apple".
 Fixed bug in WorldDictionary ItemInfo where print debug would not print all lines.
 Fixed GameLoadingState doing GameClient stuff in single player.
-Print any exception that occurs when the "failed to create vehicles database" message is displayed.
-Fixed spawned fish in shops and stories unable to be filleted
-Added OnCreate item script property
-Fixed getting extra materials when multiple players scrap an object
-Fixed being unable to construct objects or floors through an open window
-Fixed being unable to disassemble closed doors facing S and E
-Fixed "take pills" anim playing only once when the action is queued
-Disabled take pills action while running (it has no animation)
+Fixed any exception that occurs when the "failed to create vehicles database" message is displayed not being printed.
+Fixed spawned fish in shops and stories unable to be filleted.
+Fixed getting extra materials when multiple players scrap an object.
+Fixed being unable to construct objects or floors through an open window.
+Fixed being unable to disassemble closed doors facing S and E.
+Fixed "take pills" anim playing only once when the action is queued.
+Fixed 'take pills' action being possible while running (it has no animation).
 Fixed the resize behavior of the "Select Spawn Location" ui.
-Allow scrolling the map description in the "Select Spawn Location" ui using a controller.
+Fixed disallowed scrolling of map description in the "Select Spawn Location" ui using a controller.
 Fixed some forest and vegetation zones near curved streets.
 Fixed "ReceiveRemoveCorpse: incorrect square" messages on the client due to corpse rotting. These messages weren't errors.
 Fixed incorrect looping in RandomizedZoneStoryBase.cleanAreaForStory().
-Fixed multithreading issues on the server with the vehicles database. There were three different threads possibly accessing the vehicle database. Only one thread is allowed to do this.
-[NODOT]<INDENT:40> Changes:
-[NODOT]<INDENT:40> 1) ServerChunkLoader.LoaderThread no longer calls VehiclesDB2.loadChunk().
-[NODOT]<INDENT:40> 2) IsoChunk.Save() no longer calls VehiclesDB2.unloadChunk().
-[NODOT]<INDENT:40> 3) Loading vehicles is now initiated on the main thread by ServerCell.loadVehicles().
-[NODOT]<INDENT:40> 4) The new VehiclesDB2.QueueLoadChunk class handles vehicle loading in a thread-safe manner (hopefully).
-[NODOT]<INDENT:40> 5) Saving vehicles is initiated on the main thread by ServerCell.Unload() and ServerCell.Save().
+Fixed multithreading issues on the server with the vehicles database. 
 Fixed radial menu for light sources only available for secondary item slot
-Fixed double-clicking a watch runs an action but doesn't equip it
-Fixed adhesive bandages weighing too much
-Fixed mechanics books not being in SkillBook category
-Fixed missing Fishing.OnCreateFish function on server
-Set the default name of a profession preset to the name of the profession, plus a number if there is already a preset with that name.
-Fixed bowl of beans recipe not scaling to source can's hunger reduction
+Fixed double-clicking a watch runs an action but doesn't equip it.
+Fixed adhesive bandages weighing too much.
+Fixed mechanics books not being in SkillBook category.
+Fixed missing Fishing.OnCreateFish function on server.
+Fixed default name of a profession preset not being the name of the profession (has a number if there is already a preset with that name)
+Fixed bowl of beans recipe not scaling to source can's hunger reduction.
 Fixed two-tile table stories possibly spawning on two different tables, possibly with a wall in between.
 Fixed trailers being detached on the client but attached on the server.
 Fixed explosive traps not damaging zombies in singleplayer.
 Fixed server soft-reset throwing errors.
-Fixed lightbulbs breaking even if unpowered
-Allow to plumb sinks in existing buildings if the water is still on
+Fixed "bare hands" checks which used translated item names.
+Fixed lightbulbs breaking even if unpowered.
+Fixed inability to plumb sinks in existing buildings if the water is still on.
 Fixed zombies densities not affecting loot spawn in MP. This caused Sledgehammers and other items to be a lot rarer in MP than in SP.
 Fixed not being able to climb over tall fences when a vehicle is nearby.
 Fixed being able to get XP from VHS tapes again after relog.
 Fixed TVs showing test screen (only happens 14 days after apocalypse and onward).
 Fixed one TV screen not showing in the screen 'animation'.
 Fixed the first channel not being properly loaded when radio loads its savefile.
-Disabled zomboid radio debugger in mp client (throws error due to stuff not being present on client).
-Fixed bug that caused the temperature panel to display all values as zero. (the call to PZMath.clamp in the panels would randomly pick the int or float overload between diff game boots).
-[NODOT]<INDENT:40> added PZMath.clampFloat()
-[NODOT]<INDENT:40> added Thermoregulator node debugger panel.
+Fixed, via disabling, zomboid radio debugger in mp client that was throwing errors due to stuff not being present on client
+Fixed bug that caused the temperature panel to display all values as zero. (the call to PZMath.clamp in the panels would randomly pick the int or float overload between diff game boots). Also added Thermoregulator node debugger panel.
 Fixed WAV sounds flickering between speakers when near the player's location.
 Fixed some problems with clothing losing condition due to holes.
 Fixed the client savefile not being deleted when the server savefile is soft-reset or recreated.
@@ -4906,5 +5087,59 @@ Fixed playing DrinkingFromTap or GetWaterFromTap when drinking from a river some
 Fixed trap synchronization issues in multiplayer (including multiple explosion sounds).
 Fixed noise-trap sound continuing after the trap is picked up.
 Fixed farm-plant names not being translated in multiplayer.
-Added translation for "Spent Rounds" in firearm tooltips.
+Fixed missing translation for "Spent Rounds" in firearm tooltips.
 Fixed Disassemble tooltips for movables showing the incorrect object name (and no icon)
+Fixed unlimited maximum title and text entry for journals, notebooks, paper
+Fixed impossible disassembly of tall fences south and west of player
+Fixed missing radioInteraction codes for perks
+Fixed bug in RadialProgressBar with texture offsets
+Fixed bug in ISSafetyUI where second part of the radial cooldown would display incorrectly.
+Fixed alarms being enabled in buildings the player spawns in (in MP).
+Fixed NullPointerException in DeadPlayerPacket.set().
+Fixed ability to have more than three saved splitscreen players in multiplayer.
+Fixed issues managing saved splitscreen players in multiplayer.
+Fixed SafeHouseRemovalTime greater than 596 removing safehouses.
+Fixed player facing direction never getting set on the server.
+Fixed Survival Guide error showing the guide when isShowFirstTimeSneakTutorial() is true.
+Fixed the "Learned Recipe" text above the player's head when watching a VHS not being translated.
+Fixed EvolvedRecipe.java using DecimalFormat (which uses the default locale) and instead use NumberFormat.getInstance(Locale.US) to try and fix rare crafting exceptions.
+Fixed getting Fitness XP without exercising when starting exercises while aiming.
+Fixed being able to dismantle carpentry window frames and door frames before removing the window or door.
+Fixed Z location check in RecipeManager isNearItem
+Fixed playing sound from the waist of zombies that are on the ground and instead play from their head.
+Fixed incorrect plant names (and "Mystery Plant") being displayed in the farming-info window.
+Fixed not being able to dismantle Metal Floor.
+Fixed, via removal, leftover Multi-core option that had no effect anymore.
+Fixed double-jump animation climbing over fences when holding a two-handed weapon. This mostly occured on Linux distributions.
+Fixed Pacifist trait not reducing XP gains with LongBlade weapons.
+Fixed Soup bowls, Stew bowls and Pie Slices inheriting original hunger values.
+Fixed not being able to scroll the outfit panel with the mouse wheel in the character-creation ui (with all outfits enabled).
+Fixed setStopOnWalk/setStopOnRun recipe function typos.
+Fixed uncooked Omelette being safe to consume.
+Fixed an ISZoneDisplay error when debug teleporting in single player.
+Fixed placing 3D items skipping a movement step if the player begins at the destination.
+Fixed being unable to pack/unpack frozen egg cartons.
+Fixed evolved recipes with matching item names not displaying correctly in ISCraftingUI.
+Fixed possible to add uncooked ingredients when cooking is required via ISCraftingUI.
+Fixed being unable to use "vegetable sacks" after they are emptied.
+Fixed temperature and frozen status of items used in recipes not being maintained.
+Fixed being unable to add burnt ingredients to recipes requiring cooked items.
+Fixed Paperbag icon.
+Fixed sports car front trailer attachment.
+Fixed lack of check for ReplaceOnCooked when drainables are cooked.
+Fixed duplicate entries in newBags, clothing_bags, newitems scripts.
+Fixed sackProduce items not being in items_food script.
+Fixed new tongs item not being called kitchen tongs (due to metalworking tongs existing).
+Fixed characters queueing the "Exit Car" action and therefore being able to exit a car when they should not be able to.
+Fixed characters being able to open/close vehicle doors while vehicle is in motion.
+Fixes to tutorial to improve SteamDeck experience
+Fixed collision for rain tanks, roof fences, large green lockers, Acorn plaza signs .
+Fixed not being able to jump turnstiles in both directions.
+Fixed being unable to rest on Red Theatre Chair.
+Fixed transparent stockings making the player's legs transparent.
+Fixed Lua error in MapSpawnSelect when the filename entry is hidden.
+Fixed pyramid.zip files not being allowed in Steam Workshop uploads.
+Fixed 3D models being clipped in savefile thumbnails when the minimap is displayed.
+Fixed duplicate ZombiesZoneDefinition.StreetPoor.
+Fixed the music volume setting being implied improperly.
+Fixed the sound of zombies eating continuing to play while exiting to the main menu.

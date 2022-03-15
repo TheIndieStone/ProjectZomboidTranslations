@@ -3,7 +3,7 @@ gamer.com.tw Translation:
 - BigSmoke
 - Washi(berice152233)
 - Yuanmo(ligyik00)
-- 
-b41 Overhaul: 
 - mraz#9738
-- with special thanks to YD360 for playtesting.
+- eva08maicy02
+- 
+- special thanks to YD360 for playtesting.
