@@ -16,6 +16,9 @@ Farming_CA = {
     Farming_Receding = "En retrocés",
     Farming_Rotten = "Podrida",
     Farming_Destroyed = "Destruïda",
+    Farming_Seedling = "Brotant",
+    Farming_Fully_grown = "Adulta",
+    Farming_Ready_to_harvest = "Per a collir",
     -- farming info text
     -- title
     Farming_Plant_Information = "Informació de la planta",
@@ -32,10 +35,6 @@ Farming_CA = {
     Farming_Thirsty = "Amb set",
     Farming_Dry = "Seca",
     Farming_Parched = "Terra aterrossada",
-    -- growing phase
-    Farming_Seedling = "Brotant",
-    Farming_Fully_grown = "Adulta",
-    Farming_Ready_to_harvest = "Per a collir",
     -- disease
     Farming_Mildew = "Fumagina",
     Farming_Pest_Flies = "Mosca blanca",
