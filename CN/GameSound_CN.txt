@@ -388,5 +388,6 @@ GameSound_CN = {
     GameSound_ZombieFootstepsCombined = "僵尸群脚步",
     GameSound_ZombieSurprisedPlayer = "僵尸惊吓到玩家",
     GameSound_TutorialZombie = "教程僵尸",
+
 }
 

@@ -8,14 +8,14 @@ Challenge_CN = {
 	Challenge_OpeningHours_name = "营业时间",
     Challenge_OpeningHours_desc = "商场被包围了， 从前这里是它们生活中的重要场所。 本能将它们引向了大门。 对它们过去所做事情的记忆... <LINE> <LINE> 你独自一人， 但不会太久。 上午九点， 商场将开始营业：门会打开， 成群的僵尸将进入。 <LINE> <LINE> 准备好迎接它们。",
 
-	Challenge_AReallyCDDAy_name = "3. 真正的大灾变",
-	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔得很惨。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的幸运日。 <LINE> <LINE> 【这个挑战的灵感来自于超赞、精彩、必玩的 《大灾变：黑暗之日》 中的＂真正糟糕的一天＂】",
+	Challenge_AReallyCDDAy_name = "3. 真大灾变",
+	Challenge_AReallyCDDAy_desc = "你从浴室里出来就摔得很惨。 你喝得烂醉如泥， 还得了重感冒。 <LINE> <LINE> 最重要的是， 房子着火了！ 今天绝对不是你的幸运日。 <LINE> <LINE> 【这个挑战的灵感来自于超赞、精彩、必玩的 《大灾变：黑暗之日》 中的"真正糟糕的一天"】",
 
-	Challenge_Challenge1_name = "4. 林中小屋－背水一战",
+	Challenge_Challenge1_name = "4. 林中小屋 - 背水一战",
 	Challenge_Challenge1_desc = "你可以听到他们正在靠近。 成群结队的尸潮， 从四面八方侵入你与世隔绝的小屋。 死亡是不可避免的， 但猎枪近在咫尺。 <LINE> <LINE> 背水一战 的特色是数量不断增加的无尽尸潮。 在压倒性的困难中尽可能长久地生存下去。",
 
-	Challenge_Challenge2_name = "5. 林中小屋－背水一战 累计赏金",
-	Challenge_Challenge2_desc = "另一天， 又是一间准备浴血的小屋。 成群的尸潮向你涌来， 你的死亡将是痛苦而可怕的。 所以出去战斗吧... <LINE> <LINE> 背水一战－累计赏金 的特色是数量不断增加的无尽尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那猩红的武器。",
+	Challenge_Challenge2_name = "5. 林中小屋 - 背水一战 累计赏金",
+	Challenge_Challenge2_desc = "另一天， 又是一间准备浴血的小屋。 成群的尸潮向你涌来， 你的死亡将是痛苦而可怕的。 所以出去战斗吧... <LINE> <LINE> 背水一战 - 累计赏金 的特色是数量不断增加的无尽尸潮。 用击杀僵尸赚到的钱来购买装备， 提升等级和修理你那猩红的武器。",
 
     Challenge_AStormIsComing_name = "6. 暴风骤雨",
 	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处传来雷鸣。 <LINE> <LINE> 随着天色渐暗， 地上的死者开始躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱， 但永远不会结束。",
@@ -72,4 +72,3 @@ Challenge_CN = {
 	Challenge_AStormIsComingInfoBox = " <CENTRE> 你将面对无穷无尽的恶劣天气…",
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越朦胧了…",
 }
-
