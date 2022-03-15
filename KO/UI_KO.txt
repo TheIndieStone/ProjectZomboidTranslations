@@ -14,8 +14,8 @@ UI_KO = {
     UI_mainscreen_continue = "이어하기",
     UI_mainscreen_exit = "나가기",
     UI_mainscreen_workshop = "Steam 워크샵",
-    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.66용 <2022년 2월 24일자>",
-    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.66용 <2022년 2월 24일자>",
+    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.68용 <2022년 3월 09일자>",
+    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.68용 <2022년 3월 09일자>",
     --UI_mainscreen_version_steam = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     --UI_mainscreen_version = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     UI_Details = "갱신 정보",
@@ -758,7 +758,7 @@ UI_KO = {
     UI_ServerSettingGroup_Fire = "화재 설정",
     UI_ServerSettingGroup_PVP = "PVP 설정",
     UI_ServerOption_PVP_tooltip = "적용 시 플레이어는 다른 플레이어를 살상할 수 있게 됩니다.",
-    UI_ServerOption_SafetySystem_tooltip = "적용 시, 플레이어는 개별적으로 PvP 모드를 떠날 수 있게 됩니다.<br> 또한 플레이어 중 한쪽 또는 양쪽의 플레이어가 PvP 모드에 있을 때는 다른 플레이어를 공격할 수 있습니다.<br>'Safety System'이 유효하게 되어 있는 경우에는, 플레이어들은 서로 자유롭게 공격하는 것이 가능하게 됩니다.",
+    UI_ServerOption_SafetySystem_tooltip = "적용 시, 플레이어는 PvP 모드를 활성화 할 수 있습니다.<br> 또한 플레이어 중 한쪽 또는 양쪽의 플레이어가 PvP 모드에 있을 때는 다른 플레이어를 공격할 수 있습니다.<br>Safety System=false라면, 플레이어는 언제든지 PVP를 활성화하여 서로에게 상처를 입힐 수 있습니다.",
     UI_ServerOption_ShowSafety_tooltip = "적용 시, PvP 모드로 되어 있는 플레이어 머리 위에 두개골 아이콘을 표시합니다.",
     UI_ServerOption_SafetyToggleTimer_tooltip = "플레이어가 PvP 모드를 종료(모드 교체)하는데 필요한 시간을 설정합니다.",
     UI_ServerOption_SafetyCooldownTimer_tooltip = "플레이어가 다시 PvP 모드를 떠날 때까지의 지연 시간을 설정합니다.",
@@ -1469,4 +1469,9 @@ UI_KO = {
     UI_MaxPlayers_Notification = "32+ 서버. 불안정합니다.",
 
     UI_ServerOptionDesc_StopWeather = "서버 날씨 멈추기",
+    UI_AGCMode3_FixedDigital = "디지털 고정",
+
+    UI_search_mode_focus = "탐색할 목표 선택",
+    UI_search_mode_no_focus = "목표 선택 안함",
+    UI_search_mode_change_focus = "탐색할 목표 변경",
 }
