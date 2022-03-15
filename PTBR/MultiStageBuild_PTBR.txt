@@ -1,12 +1,12 @@
 MultiStageBuild_PTBR = {
-    -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Create Wooden Wall Lvl 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Upgrade to Wooden Wall Lvl 2",
-    MultiStageBuild_CreateWoodenWall_2 = "Create Wooden Wall Lvl 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Upgrade to Wooden Wall Lvl 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Upgrade to Wooden Wall Lvl 3",
+    -- Parede de Madeira
+    MultiStageBuild_CreateWoodenWall_1 = "Criar Parede de Madeira Nvl 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Melhorar Parede de Madeira Nvl 1 para o Nvl 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Criar Parede de Madeira Nvl 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Melhorar Parede de Madeira Nvl 1 para o Nvl 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Melhorar Parede de Madeira Nvl 2 para o Nvl 3",
     MultiStageBuild_CreateWoodenWall_3 = "Create Wooden Wall Lvl 3",
-    -- Wooden Window
+    -- Janela de Madeira
     MultiStageBuild_CreateWoodenWindow_1 = "Create Wooden Window Lvl 1",
     MultiStageBuild_UpgradeWoodenWindow_1To2 = "Upgrade to Wooden Window Lvl 2",
     MultiStageBuild_CreateWoodenWindow_2 = "Create Wooden Window Lvl 2",
