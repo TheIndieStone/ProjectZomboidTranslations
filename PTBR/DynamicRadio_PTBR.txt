@@ -1,5 +1,5 @@
 DynamicRadio_PTBR {
-    AEBS_Intro = "<bzzt> Fiver Zero Two. <wzzt> Sistema de transmissão automatizado. <bzzt>",
+    AEBS_Intro = "<bzzt> Cinco Zero Dois. <wzzt> Sistema de transmissão automatizado. <bzzt>",
     AEBS_Choppah = "Atividade Aérea detectada.",
     AEBS_Power_1 = "Knox Power Grid: Flutuações de energia detectadas.",
     AEBS_Power_2 = "Knox Power Grid: Sistemas falhando. Rede comprometida.",
