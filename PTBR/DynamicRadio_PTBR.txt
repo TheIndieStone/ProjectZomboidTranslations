@@ -12,7 +12,7 @@ DynamicRadio_PTBR {
     AEBS_wind_0 = "%s vento do %s. Máximo de %s esperado. %s",
     AEBS_wind_1 = "Suave",
     AEBS_wind_2 = "Moderado",
-    AEBS_wind_3 = "Strong",
+    AEBS_wind_3 = "Forte",
     AEBS_wind_4 = "Força da tempestade",
     AEBS_clouds_0 = "Céu limpo.",
     AEBS_clouds_1 = "Algumas nuvens.",
