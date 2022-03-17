@@ -1,11 +1,10 @@
 West Point
  <LINE> <LINE>
- Se você está passeando pela praça da cidade, comendo em uma de nossas tortas
- ou apenas conversando com os locais amigáveis - West Point é a verdadeira Cidade Pequena dos Estados Unidos.
+ Seja passeando pela praça da cidade, comendo uma de nossas tortas
+ ou apenas conversando com habitantes amigáveis - West Point é a verdadeira cidadezinha dos Estados Unidos.
  <LINE> <LINE>
- Não durma nas ruas, casas e acres acessíveis
- de laminação de terras agrícolas o engana - esta é a administração do País Knox
- centro. Se nosso prefeito não estiver ocupado carimbando as portarias públicas no
- na prefeitura, você pode encontrá-lo no famoso Bar do Twiggy!
- Não importa o tempo de sua estadia: uma recepção em West Point é garantida!
-
+ Não deixe que ruas pacatas, moradias acessíveis e hectares
+ de terras agrícolas o enganem - este é o centro administrativo de Knox Country.
+ Se nosso prefeito não estiver ocupado carimbando decretos públicos
+ na prefeitura, você pode encontrá-lo no famoso Twiggy's Bar!
+ Não importa a duração da sua estadia: as boas-vindas em West Point são garantidas!
