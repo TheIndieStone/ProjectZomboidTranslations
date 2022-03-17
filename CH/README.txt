@@ -12,7 +12,7 @@
 			你好, 我 (就是我! ) 是一個句子. 	
 
 3. If you're using TranslationZed, keep the following quirks in mind:
-	- It does not support Recorded_Media.
+	- It does NOT support Recorded_Media.
 	- It fails to recognize keywords containing "=" correctly.
 	- It fails to recognize multi-line keywords correctly. (You'll see the keyword ending with ".." instead of properly showing the next line)			
 
