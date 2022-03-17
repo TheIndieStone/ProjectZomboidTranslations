@@ -1,11 +1,10 @@
 West Point
  <LINE> <LINE>
- Whether you're strolling through the town square, chowing on one of our pies
- or just chatting with friendly locals - West Point is the true Small Town USA.
+ Seja passeando pela praça da cidade, comendo uma de nossas tortas
+ ou apenas conversando com habitantes amigáveis - West Point é a verdadeira cidadezinha dos Estados Unidos.
  <LINE> <LINE>
- Don't let sleepy streets, affordable housing and acres
- of rolling farmland fool you - this is the Knox Country administrative
- hub. If our mayor isn't busy rubber-stamping public ordinances in the
- town hall, you might just find him in the famous Twiggy's Bar!
- No matter how long your stay: a West Point welcome is guaranteed!
-
+ Não deixe que ruas pacatas, moradias acessíveis e hectares
+ de terras agrícolas o enganem - este é o centro administrativo de Knox Country.
+ Se nosso prefeito não estiver ocupado carimbando decretos públicos
+ na prefeitura, você pode encontrá-lo no famoso Twiggy's Bar!
+ Não importa a duração da sua estadia: as boas-vindas em West Point são garantidas!
