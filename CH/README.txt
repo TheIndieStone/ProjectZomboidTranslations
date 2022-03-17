@@ -1,4 +1,4 @@
-IMPORTANT RULES TO FOLLOW
+>>> IMPORTANT RULES TO FOLLOW <<<
 
 1. Make sure you're using Big5 encoding.
 	To ensure that you're file is in the correct encoding, it is recommended that you edit them using Notepad++ and always check the encoding settings.
@@ -10,3 +10,5 @@ IMPORTANT RULES TO FOLLOW
 			你好，我（就是我！）是一個句子。
 		You should enter:
 			你好, 我 (就是我! ) 是一個句子. 
+			
+THE RULES WRITTEN HERE ARE FOR TRADITIONAL CHINESE (CH) TRANSLATIONS, IF YOU'RE CONTRIBUTING TRANSLATIONS OF OTHER LANGUAGES, PLEASE REFER TO THEIR OWN SPECIFIC RULES.
