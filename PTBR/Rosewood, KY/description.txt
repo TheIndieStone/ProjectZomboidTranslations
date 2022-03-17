@@ -1,10 +1,10 @@
 Rosewood
  <LINE> <LINE>
  Uma curta estadia em Rosewood é agradável, mas uma longa estadia?
- Bem, os detentos da famosa Penitenciária Knox lhe dirão: isso não é tão divertido!
+ Bem, os detentos da famosa Penitenciária de Knox lhe dirão: isso não é tão divertido!
  <LINE> <LINE>
- Localizado geograficamente de forma ideal para facilitar o acesso, Rosewood é um centro comunitário para a administração
+ Localizado geograficamente de forma ideal para facilitar o acesso, Rosewood é um centro comunitário para administração
  e serviços comunitários, assim como um importante centro de encarceramento.
- O tribunal do condado, um departamento de bombeiros recentemente reformado e um centro de aplicação da lei
- fazer desta uma das cidades mais importantes da região! Venha nos visitar hoje!
+ O fórum, um departamento de bombeiros recentemente reformado e uma delegacia
+ faz desta uma das cidades mais importantes da região! Venha nos visitar hoje!
 
