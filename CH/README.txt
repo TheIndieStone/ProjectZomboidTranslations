@@ -1,4 +1,4 @@
-IMPORTANT RULES TO FOLLOW WHEN YOU EDIT
+IMPORTANT RULES TO FOLLOW
 
 1. Make sure you're using Big5 encoding.
 	To ensure that you're file is in the correct encoding, it is recommended that you edit them using Notepad++ and always check the encoding settings.
