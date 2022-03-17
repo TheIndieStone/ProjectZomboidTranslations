@@ -9,6 +9,11 @@
 		Instead of:
 			你好，我（就是我！）是一個句子。
 		You should enter:
-			你好, 我 (就是我! ) 是一個句子. 
-			
+			你好, 我 (就是我! ) 是一個句子. 	
+
+3. If you're using TranslationZed, keep the following quirks in mind:
+	- It does not support Recorded_Media.
+	- It fails to recognize keywords containing "=" correctly.
+	- It fails to recognize multi-line keywords correctly. (You'll see the keyword ending with ".." instead of properly showing the next line)			
+
 THE RULES WRITTEN HERE ARE FOR TRADITIONAL CHINESE (CH) TRANSLATIONS, IF YOU'RE CONTRIBUTING TRANSLATIONS OF OTHER LANGUAGES, PLEASE REFER TO THEIR OWN SPECIFIC RULES.
