@@ -1028,6 +1028,7 @@ UI_IT = {
     UI_optionscreen_do_door_sprite_effects = "La porta si scuote quando viene colpita",
     UI_optionscreen_do_wind_sprite_effects = "Effetti di sprite del vento",
     UI_optionscreen_easy = "Facile",
+	UI_optionscreen_EnableLeftJoystickRadialMenu = "Abilita il menu radiale del joystick sinistro",
     UI_optionscreen_enableVehicle = "Abilita veicolo",
     UI_optionscreen_flies_volume = "Volume mosche",
     UI_optionscreen_flies_volume_tt = "Il suono delle mosche che ronzano intorno ai cadaveri.",
