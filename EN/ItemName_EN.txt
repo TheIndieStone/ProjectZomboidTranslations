@@ -1223,6 +1223,7 @@ ItemName_EN = {
     ItemName_Base.PotOfSoupRecipe = "Pot of Soup",
     ItemName_Base.PotOfStew = "Pot of Stew",
     ItemName_Base.PotatoPancakes = "Potato Pancakes",
+    ItemName_Base.Pretzel = "Pretzel",
     ItemName_Base.Processedcheese = "Processed Cheese",
     ItemName_Base.PropaneTank = "Propane Tank",
     ItemName_Base.Pumpkin = "Pumpkin",

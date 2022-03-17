@@ -176,6 +176,7 @@ UI_EN = {
     UI_optionscreen_binding_Map = "Toggle Map",
     UI_optionscreen_Show_Item_Mod_Info = "Show mod info in item tooltip",
     UI_optionscreen_ShowSurvivalGuide = "Show the Survival Guide on startup",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "Enable left joystick radial menu",
     UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
     UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
     -- Map selecter (lua)
