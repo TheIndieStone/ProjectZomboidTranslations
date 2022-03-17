@@ -1,11 +1,11 @@
 Muldraugh
  <LINE> <LINE>
  Muldraugh é uma pequena cidade em uma área que os habitantes locais conhecem como "Knox Country" -
- o centro morto do Estado de Kentucky. Cresceu como uma cidade do Exército, mas agora recebe
+ o centro pacato do Estado de Kentucky. Cresceu como uma cidade do Exército, mas agora recebe
  pessoas de todos os estilos de vida - alguns viajantes que se deslocam para as cidades maiores
- nas proximidades, algumas famílias militares e algumas que vivem abaixo da linha de pobreza.
+ famílias de militares e outras que vivem abaixo da linha de pobreza.
  <LINE> <LINE>
- É um lugar pequeno, cheio de gente boa - para não mencionar Spiffo's o melhor
- Frango e Bolachas deste lado de Kentucky! Claro, não acontece muito aqui -
- mas isso não significa que a vida de Muldraugh seja chata.
+ É um lugar pequeno, cheio de gente boa - sem mencionar o Spiffo's, o melhor
+ Frango e Biscoitos deste lado de Kentucky! Claro, não acontece muito aqui -
+ mas isso não significa que a vida em Muldraugh seja chata.
 
