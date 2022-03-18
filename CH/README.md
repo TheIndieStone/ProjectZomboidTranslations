@@ -12,6 +12,7 @@ Example:
 
 Instead of:
 `你好，我（就是我！）是一個句子。`
+
 You should enter:
 `你好, 我 (就是我! ) 是一個句子. `
 
