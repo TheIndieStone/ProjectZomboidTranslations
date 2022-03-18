@@ -10,7 +10,7 @@ It is also recommended that you **DO NOT** make edits straight on GitHub, as we'
 
 ## 2. Make sure you are **NOT** using any full-form symbols, the font **DOES NOT** support them as of build 41, and I don't expect it to work anytime soon.
 
-### Example:
+Example,
 
 Instead of:
 
