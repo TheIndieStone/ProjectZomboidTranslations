@@ -11,9 +11,11 @@ It is also recommended that you **DO NOT** make edits straight on GitHub, as we'
 Example:
 
 Instead of:
+
 `你好，我（就是我！）是一個句子。`
 
 You should enter:
+
 `你好, 我 (就是我! ) 是一個句子. `
 
 ## 3. If you're using TranslationZed, keep the following quirks in mind:
