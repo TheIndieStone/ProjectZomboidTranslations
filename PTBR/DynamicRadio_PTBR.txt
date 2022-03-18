@@ -69,7 +69,7 @@ DynamicRadio_PTBR {
     --AEBS_random_4 = "<fzzt>",
     AEBS_random_5 = "<bzzt>..me ajude! <fzzt> pelo amor de <szzt> POR FAVOR NÃO!! <fzzt> ajuda... <wzzt>",
     AEBS_random_6 = "<bzzt>eles querem puxá-lo... <bzzt> fazer assim... <wzzt>",
-    AEBS_random_7 = "<bzzt>..ESTÁ QUEBRADO!... <bzzt> DAMMIT, MERDA, ACOMPANHE-ME! NÓS PRECISAMOS DE AJ...<wzzt>",
+    AEBS_random_7 = "<bzzt>..ESTÁ QUEBRADO!... <bzzt> DAMMIT, MERDA, ACOMPANHE-ME! NÓS PRECISAMOS DE AJU...<wzzt>",
     AEBS_random_8 = "<bzzt>... eles precisam de mais dados...<wzzt>",
     AEBS_random_9 = "<bzzt>... escapou... <fzzt> mudando para ...<wzzt>",
     AEBS_random_10 = "<bzzt>... Operação Artemis <fzzt> alta prioridade ...<wzzt>",
