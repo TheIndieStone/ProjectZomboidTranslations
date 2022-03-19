@@ -1223,6 +1223,7 @@ ItemName_CN = {
     ItemName_Base.PotOfSoupRecipe = "蒸煮锅(炖菜)",
     ItemName_Base.PotOfStew = "蒸煮锅(炖肉)",
     ItemName_Base.PotatoPancakes = "土豆煎饼",
+	ItemName_Base.Pretzel = "椒盐卷饼",
     ItemName_Base.Processedcheese = "再制干酪",
     ItemName_Base.PropaneTank = "丙烷罐",
     ItemName_Base.Pumpkin = "南瓜",
@@ -1854,7 +1855,4 @@ ItemName_CN = {
     ItemName_farming.TomatoSeed = "番茄种子",
     ItemName_farming.WateredCan = "洒水壶",
     ItemName_farming.WateredCanFull = "洒水壶(水)",
-	
-	--Add Text--
-	ItemName_Base.Pretzel = "椒盐脆饼",
 }
