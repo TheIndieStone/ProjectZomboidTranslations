@@ -1,9 +1,9 @@
 DynamicRadio_PTBR {
     AEBS_Intro = "<bzzt> Cinco Zero Dois. <wzzt> Sistema de Transmissão de Emergência. <bzzt>",
     AEBS_Choppah = "Atividade Aérea detectada.",
-    AEBS_Power_1 = "Knox Power Grid: Flutuações de energia detectadas.",
-    AEBS_Power_2 = "Knox Power Grid: Sistemas falhando. Rede comprometida.",
-    AEBS_Power_3 = "Knox Power Grid: Apagão.",
+    AEBS_Power_1 = "Rede de Energia de Knox: Oscilações de energia detectadas.",
+    AEBS_Power_2 = "Rede de Energia de Knox: Sistemas falhando. Rede comprometida.",
+    AEBS_Power_3 = "Rede de Energia de Knox: Apagão.",
     AEBS_Pre_today = "Hoje,",
     AEBS_Pre_tomorrow = "Amanhã,",
     AEBS_Pre_dayafter = "Depois de amanhã,",
@@ -69,7 +69,7 @@ DynamicRadio_PTBR {
     --AEBS_random_4 = "<fzzt>",
     AEBS_random_5 = "<bzzt>..me ajude! <fzzt> pelo amor de <szzt> POR FAVOR NÃO!! <fzzt> ajuda... <wzzt>",
     AEBS_random_6 = "<bzzt>eles querem puxá-lo... <bzzt> fazer assim... <wzzt>",
-    AEBS_random_7 = "<bzzt>..ESTÁ QUEBRADO!... <bzzt> DAMMIT, MERDA, ACOMPANHE-ME! NÓS PRECISAMOS DE AJU...<wzzt>",
+    AEBS_random_7 = "<bzzt>..ESTÁ QUEBRADO!... <bzzt> DROGA, ACOMPANHE-ME! NÓS PRECISAMOS DE AJU...<wzzt>",
     AEBS_random_8 = "<bzzt>... eles precisam de mais dados...<wzzt>",
     AEBS_random_9 = "<bzzt>... escapou... <fzzt> mudando para ...<wzzt>",
     AEBS_random_10 = "<bzzt>... Operação Artemis <fzzt> alta prioridade ...<wzzt>",
@@ -81,5 +81,5 @@ DynamicRadio_PTBR {
     AEBS_segment_early_morning = "ao amanhecer",
     AEBS_segment_morning = "manhã",
     AEBS_segment_afternoon = "tarde",
-    AEBS_segment_evening = "noite",
+    AEBS_segment_evening = "ao anoitecer",
 }
