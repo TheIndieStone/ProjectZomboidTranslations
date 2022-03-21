@@ -209,7 +209,7 @@ Moodles_PTBR = {
 	Moodles_hyperthermia_desc_lvl1 = "Considere tirar um pouco de roupa. A sede aumentou.",
 	Moodles_hyperthermia_desc_lvl2 = "Sedento. Suado. Superexposto ao calor.",
 	Moodles_hyperthermia_desc_lvl3 = "Náusea, incapaz de se concentrar e procurando algo para beber.",
-	Moodles_hyperthermia_desc_lvl4 = "Delirando devido à insolação e a superexposição. Severamente em perigo.",
+	Moodles_hyperthermia_desc_lvl4 = "Delirando devido à insolação e à superexposição. Severamente em perigo.",
 	-- Hipotermia
 	Moodles_hypothermia_desc_lvl1 = "Está ficando um pouco frio por aqui...",
 	Moodles_hypothermia_desc_lvl2 = "Encontre alguma forma de se aquecer.",
