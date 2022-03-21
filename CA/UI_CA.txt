@@ -176,6 +176,7 @@ UI_CA = {
     UI_optionscreen_binding_Map = "Fixar mapa",
     UI_optionscreen_Show_Item_Mod_Info = "Mostrar la informació del mod a l'explicació d'una cosa",
     UI_optionscreen_ShowSurvivalGuide = "Mostra la guia de supervivència a l'inici",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "Permet activar el menú radial del joystick esquerre",
     UI_ConfirmMonitorSettings_Prompt = "Mantindre aquesta configuració de pantalla?",
     UI_ConfirmMonitorSettings_RevertIn = "Retornant en %1 segons.",
     -- Map selecter (lua)
