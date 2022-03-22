@@ -1275,6 +1275,7 @@ ItemName_FR = {
     ItemName_Base.PotOfSoupRecipe = "Marmite de soupe",
     ItemName_Base.PotOfStew = "Marmite de ragoût",
     ItemName_Base.PotatoPancakes = "Galette de pomme de terre",
+    ItemName_Base.Pretzel = "Bretzels",
     ItemName_Base.Processedcheese = "Fromage fondu",
     ItemName_Base.PropaneTank = "Réservoir à propane",
     ItemName_Base.Pumpkin = "Citrouille",
