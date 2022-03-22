@@ -66,7 +66,7 @@ DynamicRadio_PTBR {
     AEBS_random_1 = "charlie <fzzt> india - alfa, <bzzt> zona designada <bzzt> setor %i <wzzt>",
     AEBS_random_2 = "Atenção, pessoal! <bzzt> ... pedido ... <fzzt> %i foi emitido ... <wzzt>",
     AEBS_random_3 = "...%s <fzzt> atividade no setor %i <wzzt>",
-    AEBS_random_4 = "<fzzt>",
+    --AEBS_random_4 = "<fzzt>",
     AEBS_random_5 = "<bzzt>... me ajude! <fzzt> pelo amor de <szzt> POR FAVOR NÃO!! <fzzt> ajuda... <wzzt>",
     AEBS_random_6 = "<bzzt>... eles querem puxar... <bzzt> fazer assim... <wzzt>",
     AEBS_random_7 = "<bzzt>... ESTÁ QUEBRADO!... <bzzt> DROGA, ACOMPANHE-ME! NÓS PRECISAMOS DE AJU...<wzzt>",
