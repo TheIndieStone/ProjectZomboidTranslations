@@ -1,9 +1,9 @@
 DynamicRadio_PTBR {
     AEBS_Intro = "<bzzt> Cinco Zero Dois. <wzzt> Sistema de Transmissão de Emergência. <bzzt>",
     AEBS_Choppah = "Atividade Aérea detectada.",
-    AEBS_Power_1 = "Rede de Energia de Knox: Oscilações de energia detectadas.",
-    AEBS_Power_2 = "Rede de Energia de Knox: Sistemas falhando. Rede comprometida.",
-    AEBS_Power_3 = "Rede de Energia de Knox: Apagão.",
+    AEBS_Power_1 = "Companhia de Energia de Knox: Oscilações de energia detectadas.",
+    AEBS_Power_2 = "Companhia de Energia de Knox: Sistemas falhando. Rede comprometida.",
+    AEBS_Power_3 = "Companhia de Energia de Knox: Apagão.",
     AEBS_Pre_today = "Hoje,",
     AEBS_Pre_tomorrow = "Amanhã,",
     AEBS_Pre_dayafter = "Depois de amanhã,",
