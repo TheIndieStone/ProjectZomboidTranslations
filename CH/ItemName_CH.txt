@@ -1222,6 +1222,7 @@ ItemName_CH = {
     ItemName_Base.PotOfSoupRecipe = "鍋裝湯",
     ItemName_Base.PotOfStew = "鍋裝燉肉",
     ItemName_Base.PotatoPancakes = "馬鈴薯煎餅",
+    ItemName_Base.Pretzel = "蝴蝶餅",
     ItemName_Base.Processedcheese = "加工起司",
     ItemName_Base.PropaneTank = "瓦斯桶",
     ItemName_Base.Pumpkin = "南瓜",

@@ -873,6 +873,7 @@ UI_CH = {
     UI_optionscreen_DisplayMode1 = "全螢幕",
     UI_optionscreen_DisplayMode2 = "無邊框視窗",
     UI_optionscreen_DisplayMode3 = "視窗化",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "啟用左搖桿環狀選單",
     UI_optionscreen_FontSize = "字體大小",
     UI_optionscreen_FontSize0 = "預設",
     UI_optionscreen_FontSize1 = "1x",
