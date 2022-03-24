@@ -426,7 +426,7 @@ ContextMenu_CN = {
     ContextMenu_GunType = "枪支类型",
     ContextMenu_NoBullets = "找不到子弹",
     ContextMenu_UnloadMagazine = "卸下弹药",
-    ContextMenu_NoMagazineFound = "找不到 %1 , 或弹匣是空的",
+    ContextMenu_NoMagazineFound = "找不到 %1 , 或者是空的",
     ContextMenu_Rack = "退膛一发 %1 弹药",
     ContextMenu_UnloadRoundFrom = "从 %1 取出弹药",
     ContextMenu_Unjam = "为 %1 排障",
@@ -487,4 +487,4 @@ ContextMenu_CN = {
 	ContextMenu_NeedCooked = "需要煮熟.",
 	ContextMenu_ComboWasherDryer_SetModeWasher = "设置模式: 洗衣机",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "设置模式: 烘干机",
-} 
+}
