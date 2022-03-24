@@ -538,6 +538,7 @@ UI_FR = {
     UI_ServerSettings_ButtonEditRegion_tooltip1 = "Les fichiers dans media/maps/ ou d'autres dossier ne peuvent être modifiés.",
     UI_ServerSettings_ButtonEditRegion_tooltip2 = "Le nom du fichier doit se terminer par 'spawnpoints.lua'.",
     UI_ServerSettings_ButtonMoveDown = "Descendre",
+	UI_ServerSettings_ButtonRemove = "Retirer",
     UI_ServerSettings_ButtonMoveUp = "Monter",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Les cartes plus près du haut de la liste ont une plus haute priorité que celle plus bas dans la liste. Si deux cartes se chevauchent sur le monde du jeu, les zones de la carte ayant la plus haute priorité seront utilisées.",
     UI_ServerSettings_ButtonNew = "Créer de nouveaux réglages",
