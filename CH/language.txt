@@ -1,4 +1,4 @@
 VERSION = 1,
 text = Traditional Chinese,
-charset = Big5,
+charset = UTF-8,
 
