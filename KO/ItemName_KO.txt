@@ -1893,5 +1893,5 @@ ItemName_KO = {
     ItemName_Base.CheckerBoard = "체커 보드",
     ItemName_Base.JacquesBeaver = "비버 자크",
     ItemName_Base.DriedKidneyBeans = "말린 강낭콩",
-
+    ItemName_Base.Pretzel = "프레첼",
 }

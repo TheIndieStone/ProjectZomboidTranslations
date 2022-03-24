@@ -994,6 +994,7 @@ UI_EN = {
     UI_ServerSettings_ButtonMoveUp = "Move Up",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Maps closer to the top of the list have higher priority than maps lower down. If two maps overlap in the game world, areas of the higher-priority maps will be used.",
     UI_ServerSettings_ButtonMoveDown = "Move Down",
+    UI_ServerSettings_ButtonRemove = "Remove",
     -- Edit SpawnPoints File
     UI_ServerSettings_ListOfSpawnProfessions = "Professions:",
     UI_ServerSettings_ListOfSpawnPoints = "Spawn points for the selected profession:",
