@@ -176,6 +176,7 @@ UI_CA = {
     UI_optionscreen_binding_Map = "Fixar mapa",
     UI_optionscreen_Show_Item_Mod_Info = "Mostrar la informació del mod a l'explicació d'una cosa",
     UI_optionscreen_ShowSurvivalGuide = "Mostra la guia de supervivència a l'inici",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "Permet activar el menú radial del joystick esquerre",
     UI_ConfirmMonitorSettings_Prompt = "Mantindre aquesta configuració de pantalla?",
     UI_ConfirmMonitorSettings_RevertIn = "Retornant en %1 segons.",
     -- Map selecter (lua)
@@ -993,6 +994,7 @@ UI_CA = {
     UI_ServerSettings_ButtonMoveUp = "Pujar",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Els mapes més pròxims a la part alta de la llista tenen major prioritat que els mapes més avall. Si dos mapes se superposen en el món del hoc, les àrees de major prioritat seran les usades.",
     UI_ServerSettings_ButtonMoveDown = "Baixar",
+    UI_ServerSettings_ButtonRemove = "Eliminar",
     -- Edit SpawnPoints File
     UI_ServerSettings_ListOfSpawnProfessions = "Professions:",
     UI_ServerSettings_ListOfSpawnPoints = "Punts d'aparició per a la professió seleccionada:",
@@ -1096,6 +1098,7 @@ UI_CA = {
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "Els jugadors apareixen en el refugi de què eren membres abans de morir.",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "Els jugadors hauran d'haver sobreviscut aquest nombre de dies interns del joc abans de reclamar un refugi.",
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "Els jugadors seran automàticament eliminats d'un refugi si no l'han visitat en aquest nombre d'hores reals.",
+    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "Governa si els jugadors poden reclamar edificis no residencials.",
     UI_ServerOption_UPnP_tooltip = "Intenta configurar una porta d'internet UPnP-activada per a automàticament posar unes regles d'entrada al port. El servidor tornarà als ports predeterminats si açò falla.",
     UI_ServerOption_VoiceEnable_tooltip  = "Si es marca, VOIP està activat.",
     UI_ServerOption_VoiceMinDistance_tooltip  = "La distància mínima en caselles a la qual els sons VOIP es poden sentir. Per defecte és 10.",
