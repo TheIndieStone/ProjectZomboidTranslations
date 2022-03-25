@@ -994,6 +994,7 @@ UI_CA = {
     UI_ServerSettings_ButtonMoveUp = "Pujar",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Els mapes més pròxims a la part alta de la llista tenen major prioritat que els mapes més avall. Si dos mapes se superposen en el món del hoc, les àrees de major prioritat seran les usades.",
     UI_ServerSettings_ButtonMoveDown = "Baixar",
+    UI_ServerSettings_ButtonRemove = "Eliminar",
     -- Edit SpawnPoints File
     UI_ServerSettings_ListOfSpawnProfessions = "Professions:",
     UI_ServerSettings_ListOfSpawnPoints = "Punts d'aparició per a la professió seleccionada:",
