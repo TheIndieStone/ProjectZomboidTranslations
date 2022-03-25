@@ -1630,6 +1630,6 @@ IGUI_CN = {
     IGUI_SearchMode_Tip_Crops_Text = "野生作物在农田中最常见, 并且都有可能结出种子.",
     IGUI_SearchMode_Tip_Seasons_Title = "季节",
     IGUI_SearchMode_Tip_Seasons_Text = "所有自然产生的物品都受月份和季节的影响. 你能找到什么取决于一年中的时间!",
-	IGUI_SearchMode_Tip_SearchFocus_Title = "搜寻重点",
-	IGUI_SearchMode_Tip_SearchFocus_Text = "寻找特别的东西? 使用搜寻重点来增加找到选定类别的机会!",
+	IGUI_SearchMode_Tip_SearchFocus_Title = "搜寻专注",
+	IGUI_SearchMode_Tip_SearchFocus_Text = "寻找特别的东西? 使用搜寻专注来增加找到选定类别的机会!",
 }
