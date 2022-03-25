@@ -1,8 +1,8 @@
 MakeUp_TH = {
     MakeUpCategory_Eyes = "ตา",
-    MakeUpCategory_EyesShadow = "คิ้ว และเปลือกตา",
-    MakeUpCategory_FullFace = "หน้า",
-    MakeUpCategory_Lips = "ปาก",
+    MakeUpCategory_EyesShadow = "อายแชโดว์",
+    MakeUpCategory_FullFace = "ใบหน้า",
+    MakeUpCategory_Lips = "ริมฝีปาก",
 
     MakeUpType_EyesCrow = "อีกา",
     MakeUpType_EyesRedStripes1 = "แถบแดง 1",

@@ -1,4 +1,4 @@
-Official Thai Translation
-Build: 41.65
-Date: 21/01/2022
-Translated by Artdekdok
+	Official Thai Translation
+	-- Translated by Artdekdok, radiusgreenhill
+	-- Build : 41.68
+	-- Last Update : 25-03-2022
