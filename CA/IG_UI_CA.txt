@@ -1333,7 +1333,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
     IGUI_FabricType_1 = "Teles esgarrades",
     IGUI_FabricType_2 = "Tira vaquera",
     IGUI_FabricType_3 = "Tira de cuir",
-    IGUI_TypeOfPatch = "Parxe %1",
+    IGUI_TypeOfPatch = "Pedaç de %1",
     --Temperature Panel
     IGUI_Temp_SkinTemperature = "Temperatura de la pell",
     IGUI_Temp_BloodVessels = "Vasos sanguinis",
