@@ -515,6 +515,7 @@ UI_CH = {
     UI_ServerSettings_ButtonMoveUp = "向上移動",
     UI_ServerSettings_ButtonMoveUp_tooltip = "較接近清單上方的地圖優先順序比較接近下方的地圖還高. 若兩個地圖於遊戲世界中重疊, 將使用優先順序較高的地圖區域. ",
     UI_ServerSettings_ButtonNew = "建立新的設定",
+    UI_ServerSettings_ButtonRemove = "移除",
     UI_ServerSettings_ButtonRemoveRegion = "移除區域",
     UI_ServerSettings_ButtonRename = "重新命名已選擇的設定",
     UI_ServerSettings_LabelAffectedFiles = "這些檔案將受影響: ",

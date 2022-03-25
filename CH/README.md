@@ -4,9 +4,9 @@ THE GUIDELINES WRITTEN HERE ARE FOR TRADITIONAL CHINESE (CH) TRANSLATIONS, IF YO
 
 ## 1. Make sure you're using Big5 encoding
 
-To ensure that you're file is in the correct encoding, it is recommended that you edit them using Notepad++ and always check the encoding settings.
+To ensure that your files are in the correct encoding, it is recommended that you edit them using Notepad++ and always check the encoding settings.
 	
-It is also recommended that you **DO NOT** make edits straight on GitHub, as we've seen instances where GitHub would convert a file into UTF-8 encoding, thus causing the entire file to be displayed incorrectly.
+It is also recommended that you **DO NOT** make edits straight on GitHub, as we've seen instances where GitHub would convert a file into UTF-8 encoding, thus causing the entire file to be displayed incorrectly in the game.
 
 ## 2. Make sure you are **NOT** using any full-form symbols
 
