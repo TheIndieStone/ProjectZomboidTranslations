@@ -4,7 +4,7 @@ Moveables_CS = {
     99_Cent_Sale_Sign = "Prodejní cedule",
     Acacia_Tiles = "Podlaha z akátového dřeva",
     Administrative_Flag = "Správní vlajka",
-    Adult_Education_Sign = "Cedule Adult_Education",
+    Adult_Education_Sign = "Cedule Vzdělávání pro dospělé",
     Advertisement_Notices = "Nalepený inzerát",
     Air_Blower = "Zásobník na papírové ručníky",
     Air_Conditioner = "Klimatizace",
@@ -697,4 +697,7 @@ Moveables_CS = {
     Zippee_Shelves_Rack = "Regál Zippee",
     Zippee_Wall_Shelves = "Nástěnné police Zippee",
     Blue_Combo_Washer_Dryer = "Modrá pračka se sušičkou",
+    Childrens_Play_Castle = "Dětský hrad",
+    Animal_Trough = "Koryto",
+    Red_Mobile_Tool_Cabinet = "Červená skříňka na nářadí",
 }

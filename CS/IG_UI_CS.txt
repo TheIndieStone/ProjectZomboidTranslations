@@ -1499,4 +1499,10 @@ IG_UI_CS = {
     IGUI_perks_Trapping = "Odchyt zvěře",
     IGUI_perks_Woodwork = "Tesařství",
     IGUI_skills_Multiplier = "Násobitel: %1",
+    IGUI_SearchMode_Categories_WildPlants = "Divoké rostliny",
+    IGUI_FoodTemperatureNaming = "%2 (%1)",
+    IGUI_SafehouseUI_ReleaseConfirm = "Opravdu chcete tento úkryt uvolnit?",
+    IGUI_Place3DItem_JoypadPosition = "Podržení + přesunutí levého joysticku do polohy",
+    IGUI_Place3DItem_JoypadSurface = "Změna vybrané plochy",
+    IGUI_ContainerTitle_toolcabinet = "Skříňka na nářadí",
 }
