@@ -1,87 +1,56 @@
 Farming_JP = {
-
-	-- Official Japanese Translation Data Information
-	-- Update history
-	-- Build-41.54
-	-- Date 09-24-2021
-	-- Translation by Falcon33jp (Koichi Takebe)
-	-- E-mail:falcon33jp@gmail.com
-
 	-- vegetables name (type of seed)
-
 	Farming_Carrots = "ニンジン",
 	Farming_Broccoli = "ブロッコリー",
 	Farming_Radishes = "ハツカダイコン",
-	Farming_Strawberry_plant = "イチゴ",
-	Farming_Tomato_Vine = "トマト",
+	Farming_Strawberry_plant = "イチゴの苗",
+	Farming_Tomato_Vine = "トマトの蔓",
 	Farming_Potatoes = "ジャガイモ",
 	Farming_Cabbages = "キャベツ",
-	Farming_Strawberry plant = "イチゴ",
-	Farming_Tomato = "トマト",
-
-	Farming_Plowed_Land = "耕地",
-
 	-- growing phase
-
 	Farming_Seedling = "播種期：",
 	Farming_Young = "発芽期：",
-	Farming_In_bloom = "開花期：",
 	Farming_Ready_for_Harvest = "収穫期：",
-	Farming_Seed-bearing = "種子結実期：",
+	Farming_In_bloom = "開花期：",
+	Farming_Seed-bearing = "種子結実期：",	
 	Farming_Receding = "枯れ始めている：",
 	Farming_Rotten = "枯れている：",
-	Farming_Destroyed = "腐敗している：",
-
-	-- farming info text title
-
+	Farming_Destroyed = "腐敗している：",	
+	Farming_Seedling = "播種期：",
+	Farming_Fully_grown = "完全に成熟",
+	Farming_Ready_to_harvest = "収穫期",
+	-- farming info text
+	-- title
 	Farming_Plant_Information = "作物情報",
-	Farming_Current_growing_phase = "今の成長段階",
+	Farming_Current_growing_phase = "現在の成長段階",
 	Farming_Next_growing_phase = "次の成長段階",
 	Farming_Last_time_watered = "最後の水やり",
 	Farming_Fertilized = "肥料の状況",
-	Farming_Health = "生育の状況",
-	Farming_Disease = "病害の状況",
-	Farming_Water_levels = "土壌水量の状況",
-
+	Farming_Health = "生育",
+	Farming_Disease = "病害",
+	Farming_Water_levels = "土壌水量",
 	-- water
-
 	Farming_Well_watered = "水気が多い",
 	Farming_Fine = "適度な水気がある",
 	Farming_Thirsty = "水気が少ない",
 	Farming_Dry = "乾いている",
 	Farming_Parched = "干上がっている",
-
-	-- growing phase
-,
-	Farming_Fully_grown = "完全に成熟",
-	Farming_Ready_to_harvest = "収穫期",
-
 	-- disease
-
 	Farming_Mildew = "うどんこ病",
 	Farming_Pest_Flies = "虫害",
 	Farming_Devil_Water_Fungi = "水カビ病",
-
 	-- hours
-
 	Farming_Hours = "時間前",
-
 	-- health
-
 	Farming_Flourishing = "繁茂している",
 	Farming_Verdant = "生い茂っている",
 	Farming_Healthy = "問題なく生育している",
 	Farming_Sickly = "弱々しく生えている",
 	Farming_Stunted = "生育阻害を起こしている",
-
-	-- Tooltip
-
 	Farming_Tooltip_MinWater = "最低水量：",
 	Farming_Tooltip_MaxWater = "最大水量：",
-	Farming_Tooltip_TimeOfGrow = "収穫に必要な日数：",
-	Farming_Tooltip_AverageWater = "栽培に最適な水量：",
-	Farming_Tooltip_RequiredSeeds = "種蒔きに必要な種子の量：",
-
+	Farming_Tooltip_TimeOfGrow = "収穫までの平均日数：",
+	Farming_Tooltip_AverageWater = "最適な水量：",
 	Farming_Tooltip_FurrowNeedsSeed = "耕された畑には種子が必要です。",
 	Farming_Tooltip_ItemUsed = "使用アイテム",
 	Farming_Tooltip_NotAFurrow = "耕された畑がありません。",
@@ -90,6 +59,9 @@ Farming_JP = {
 	Farming_Tooltip_NotReadyToHarvest = "収穫できる状態ではありません。",
 	Farming_Tooltip_PlantHasEnoughWater = "作物には十分な水分があります。",
 	Farming_Tooltip_FurrowHasSeeds = "耕された畑には既に種子が撒かれています。",
+	Farming_Tooltip_RequiredSeeds = "種蒔きに必要な種子の量：",
+	Farming_Strawberry plant = "イチゴの苗",
+	Farming_Tomato = "トマト",
+	Farming_Plowed_Land = "耕作地",
 	Farming_MissingItem = "%1が必要です。",
-
 }

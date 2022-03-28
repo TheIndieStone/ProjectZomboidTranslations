@@ -531,6 +531,7 @@ UI_TR = {
     UI_ServerSettings_ButtonMoveUp = "Yukarı Çıkar",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Listenin üstündeki haritalar yüksek önceliğe sahiptirler. Eğer oyunda iki harita çakışırsa önceliği yüksek haritadaki alanlar kullanılacaktır.",
     UI_ServerSettings_ButtonNew = "Yeni Ön Ayar Oluştur",
+    UI_ServerSettings_ButtonRemove = "Kaldır",
     UI_ServerSettings_ButtonRemoveRegion = "Bölgeyi Sil",
     UI_ServerSettings_ButtonRename = "Seçili Ayarları Yeniden Adlandır",
     UI_ServerSettings_LabelAffectedFiles = "Şu dosyalar etkilenecek:",

@@ -1475,4 +1475,5 @@ UI_KO = {
     UI_search_mode_no_focus = "목표 선택 안함",
     UI_search_mode_change_focus = "탐색할 목표 변경",
     UI_optionscreen_EnableLeftJoystickRadialMenu = "왼쪽 조이스틱 레이디얼 메뉴 활성화",
+    UI_ServerSettings_ButtonRemove = "지우기",
 }
