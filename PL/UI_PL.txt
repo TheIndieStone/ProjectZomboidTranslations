@@ -471,6 +471,7 @@ UI_PL = {
     UI_ServerSettings_ButtonMoveUp = "Przesuń w górę",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Mapy bliżej szczytu listy mają wyższy priorytet niż te niżej. Jeżeli dwie mapy nakładają się na siebie w świecie gry to użyta zostanie mapa z wyższym priorytetem.",
     UI_ServerSettings_ButtonNew = "Stwórz nowe ustawienia",
+    UI_ServerSettings_ButtonRemove = "Usuń",
     UI_ServerSettings_ButtonRemoveRegion = "Usuń region",
     UI_ServerSettings_ButtonRename = "Zmień nazwę wybranych ustawień",
     UI_ServerSettings_LabelAffectedFiles = "Zmiana wpłynie na następujące pliki:",
