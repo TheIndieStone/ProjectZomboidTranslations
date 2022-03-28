@@ -1,4 +1,4 @@
-IGUI_JP = 
+IGUI_JP = {
 	-- All the UI text used in game								
 	-- InventoryPane
 	IGUI_invpanel_Type = "アイテム",
