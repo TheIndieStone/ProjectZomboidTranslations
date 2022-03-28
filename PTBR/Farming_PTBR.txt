@@ -8,7 +8,7 @@ Farming_PTBR = {
     Farming_Potatoes = "Batata",
     Farming_Cabbages = "Repolho",
     -- Fase de Crescimento
-    Farming_Seedling = "Germinando",
+    Farming_Seedling = "Germinando/Crescendo",
     Farming_Young = "Jovem",
     Farming_Ready_for_Harvest = "Pronta para Colheita",
     Farming_In_bloom = "Florescendo",
@@ -16,7 +16,7 @@ Farming_PTBR = {
     Farming_Receding = "Regredindo",
     Farming_Rotten = "Podre",
     Farming_Destroyed = "Destruída",
-    Farming_Seedling = "Germinando",
+    --Farming_Seedling = "Germinando/Crescendo",
     Farming_Fully_grown = "Adulta",
     Farming_Ready_to_harvest = "Pronta para Colheita",
     -- Texto de Informações Agrícolas
