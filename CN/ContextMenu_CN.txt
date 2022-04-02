@@ -487,4 +487,10 @@ ContextMenu_CN = {
 	ContextMenu_NeedCooked = "需要煮熟.",
 	ContextMenu_ComboWasherDryer_SetModeWasher = "设置模式: 洗衣机",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "设置模式: 烘干机",
+	
+	
+	----------
+	
+	ContextMenu_FoodType_Cocoa = "可可粉",
+	
 }
