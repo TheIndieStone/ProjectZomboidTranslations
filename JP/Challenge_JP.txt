@@ -21,7 +21,7 @@ Challenge_JP = {
 	Challenge_AStormIsComing_desc = "ケンタッキー州の上空に雲が集まり始めました。 <LINE> 雷鳴が遠くで轟くのが聞こえてきます。 <LINE> 空が暗くなるにつれて、 <LINE> 地上のよろめく死者は落ち着きを失いつつあります。 <LINE> <LINE> 猛威を振るう嵐は発達や減衰を繰り返しますが、 <LINE> 決して明けることはないでしょう。",
 
 	Challenge_TheDescendingFog_name = "舞い降りる霧",
-    Challenge_TheDescendingFog_desc = "人々が最初にそれを目にしたのは水面でした。 <LINE> オハイオ川にうっすらとかかる白い毛布。 <LINE> 最初はただの霧だったそれは、町を飲み込みました。 <LINE> <LINE> 暗がりの中からの住民の断末魔。今、一帯は彼らが徘徊してます。 <LINE> 奪われた視覚と聴覚が、無慈悲にも生を追い詰めます。",
+	Challenge_TheDescendingFog_desc = "人々が最初にそれを目にしたのは水面でした。 <LINE> オハイオ川にうっすらとかかる白い毛布。 <LINE> 最初はただの霧だったそれは、町を飲み込みました。 <LINE> <LINE> 暗がりの中からの住民の断末魔。今、一帯は彼らが徘徊してます。 <LINE> 奪われた視覚と聴覚が、無慈悲にも生を追い詰めます。",
 																		
 	Challenge_Kingsmouth_name = "キングスマス",
 	Challenge_Kingsmouth_desc = "キングスマス島でリラックスした滞在をお楽しみください!",
@@ -69,6 +69,6 @@ Challenge_JP = {
 	Challenge_OpeningHoursInfoBox = " <CENTRE> 午前9時に自動ドアが開く! <LINE> <LINE> ゾンビの襲撃に備えろ...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> あと3日で終りのない冬が来る。",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> あと24時間でこの世の地獄が始まる...",
-    Challenge_AStormIsComingInfoBox = " <CENTRE> この先、果てしない悪天候が続く...",	
+	Challenge_AStormIsComingInfoBox = " <CENTRE> この先、果てしない悪天候が続く...",	
 	Challenge_TheDescendingFogInfoBox = " <CENTRE> 霧が掛かっている...",	
 }

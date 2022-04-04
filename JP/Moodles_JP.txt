@@ -216,9 +216,9 @@ Moodles_JP = {
 	Moodles_hypothermia_desc_lvl3 = "生きている。"とても"寒い。",
 	Moodles_hypothermia_desc_lvl4 = "心と体が寒さに取り憑かれている。",
 	-- Windchill
-	Moodles_windchill_desc_lvl1 = "実際の気温よりも5～10度ほど寒く感じる。",
-	Moodles_windchill_desc_lvl2 = "実際の気温よりも10～15度ほど寒く感じる。",
-	Moodles_windchill_desc_lvl3 = "実際の気温よりも15～20度ほど寒く感じる。",
+	Moodles_windchill_desc_lvl1 = "実際の気温よりも5-10度ほど寒く感じる。",
+	Moodles_windchill_desc_lvl2 = "実際の気温よりも10-15度ほど寒く感じる。",
+	Moodles_windchill_desc_lvl3 = "実際の気温よりも15-20度ほど寒く感じる。",
 	Moodles_windchill_desc_lvl4 = "実際の気温よりも20度以上寒く感じる。",
     -- CantSprint				 
 	Moodles_CantSprint = "移動制限",

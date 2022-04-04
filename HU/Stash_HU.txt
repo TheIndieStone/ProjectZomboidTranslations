@@ -96,8 +96,8 @@ Stash_RosewoodStashMap2_Text3 = "Itt a vége",
     Stash_RosewoodStashMap3_Text2 = "itt fegyverek lehetnek - minden esetre",
     Stash_RosewoodStashMap3_Text3 = "ne menj erre",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.24
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

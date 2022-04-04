@@ -1,8 +1,0 @@
-		
-	-- Japanese Community Translation Data Information
-	-- Update history
-	-- Build-41.54
-	-- Date 09-24-2021
-	-- Translation by Falcon33jp (Koichi Takebe)
-	-- E-mail:falcon33jp@gmail.com
-

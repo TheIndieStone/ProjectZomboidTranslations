@@ -132,6 +132,8 @@ Tooltip_food_Fat = "Zsír",
     Tooltip_craft_metalDrumDesc = "Fémhordó vízgyűjtéshez és faszén készítéshez.",
     Tooltip_Bellows = "Használd a kőkemencénél a hő növelése érdekében.",
     Tooltip_Charcoal = "Miután meggyújtottad, várj 2 napot, hogy faszenet kapj.",
+Tooltip_Charcoal_Logs = "5 rönk hozzáadása faszén készítéséhez, miután ez kész, meg kell gyújtani a hordót egy öngyújtóval és várni kell.",
+Tooltip_Charcoal_Progression = "Faszén Folyamata",
 Tooltip_craft_woodenWallFrameDesc = "Alap a falakhoz és ablakokhoz",
     Tooltip_Wetness = "Nedvesség",
     Tooltip_MotionSensor = "Mozgás érzékelésére alkalmas akatrész.<br>Rögtönzött eszközökkel együtt használható csapdák készítéséhez.<br>Ismert elkészítési módra és elektronikai ismeretekre van szükség hozzá.",
@@ -175,6 +177,7 @@ Tooltip_Map_NeedRedPen = "Kell egy piros toll.",
 Tooltip_Map_NeedPencil = "Kell egy ceruza.",
 Tooltip_clothing_dirty = "Koszos",
 Tooltip_clothing_bloody = "Véres",
+Tooltip_clothing_holes = "Lyukas",
 Tooltip_clothing_wet = "Vizes",
 Tooltip_clothing_soaked = "Ázott",
 Tooltip_clothing_worn = "Kopott",
@@ -193,7 +196,7 @@ Tooltip_Dashboard_Heater = "Fűtés",
 Tooltip_Dashboard_KeysIgnition = "Gyújtás",
 Tooltip_Dashboard_Battery = "Akkumulátor",
 Tooltip_chanceFailure = "Sérülés esélye:",
-Tooltip_vehicle_recommendedSkill = "Szükséges tudás: %1 %2",
+Tooltip_vehicle_recommendedSkill = "Szükséges készség: %1 %2",
 Tooltip_item_MechanicMag1 = "Oktató kézikönyv, amely diagramokat és általános karbantartási leírásokat tartalmaz a népszerű költségvetésű és családi autó modellekről.",
 Tooltip_item_MechanicMag2 = "Oktató kézikönyv, amely diagramokat és általános karbantartási leírásokat tartalmaz a népszerű kereskedelmi Pick-up-okról és Haszongépjárművekről.",
 Tooltip_item_MechanicMag3 = "Oktató kézikönyv, amely diagramokat és általános karbantartási leírásokat tartalmaz a népszerű Sportautó modellekről.",
@@ -220,6 +223,7 @@ Tooltip_NeedWrench = "Egy %1 kell ehhez.",
 Tooltip_weapon_Jammed = "A fegyver beragadt. Húzd fel.",
 Tooltip_weapon_NoRoundChambered = "Nincs Lőszer a Légkamrában. Húzd fel.",
 Tooltip_weapon_SpentRoundChambered = "Elhasználódott Lőszer van a Légkamrában. Húzd fel.",
+Tooltip_weapon_SpentRounds = "Elhasználódott Lőszerek",
 Tooltip_weapon_ContainsClip = "Tárat tartalmaz.",
 Tooltip_weapon_NoClip = "Tár kell a működéshez.",
 Tooltip_BiteDefense = "Harapás Védelem",
@@ -273,8 +277,8 @@ Tooltip_media_author = "Szerző",
 Tooltip_media_item_operate = "Használni elsődleges, vagy másodlagos elemként a működtetéshez."
 Tooltip_item_empty_sack_container = "Tárolóként lehet használni, ha üres.",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.24
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
 }

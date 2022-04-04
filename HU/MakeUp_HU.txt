@@ -35,8 +35,8 @@ MakeUpType_LipsBlack = "Fekete Ajakrúzs",
 MakeUpType_LipsGreen = "Zöld Ajakrúzs",
 MakeUpType_LipsPink = "Rózsaszín Ajakrúzs",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.24
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

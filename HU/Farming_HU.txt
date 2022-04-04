@@ -16,6 +16,9 @@ Farming_Seed-bearing = "Szemesedik",
 Farming_Receding = "Elhaló",
 Farming_Rotten = "Rohadt",
 Farming_Destroyed = "Elpusztult",
+
+Farming_Fully_grown = "Teljesen kifejlődött",
+Farming_Ready_to_harvest = "Leszedhető2 ???",
   -- farming info text
   -- title
 Farming_Plant_Information = "Növény információja",
@@ -32,9 +35,6 @@ Farming_Fine = "Jó",
 Farming_Thirsty = "Vizet igényel",
 Farming_Dry = "Száraz",
 Farming_Parched = "Kiszáradt",
-  -- growing phase
-Farming_Fully_grown = "Teljesen kifejlődött",
-Farming_Ready_to_harvest = "Leszedhető2 ???",
   -- disease
 Farming_Mildew = "Penészes",
 Farming_Pest_Flies = "Kártevő rovaros",
@@ -65,8 +65,8 @@ Farming_Tomato = "Paradicsom",
 Farming_Plowed_Land = "Felszántott",
 Farming_MissingItem = "%1 kell",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.20
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

@@ -247,12 +247,12 @@ Sandbox_JP = {
 	Sandbox_StatDecrease_option5 = "とても遅い",
     Sandbox_StarterKit = "スターターキット",
 	Sandbox_StarterKit_tooltip = "スナック菓子、水、、スクールバッグ、野球バット、金づちを所持した状態でゲームが開始されます。",
-　　　　--
+    --
 	Sandbox_ZombieLore = "ゾンビの特性",
 	Sandbox_ProperZombies = "標準のゾンビ",
-　　　　--
+    --
 	Sandbox_ZombieAdvanced = "高度なゾンビのオプション",
-　　　　--
+    --
 	Sandbox_ZSpeed = "移動の速さ",
     Sandbox_ZSpeed_tooltip = "ゾンビの移動速度の設定です。",
 	Sandbox_ZSpeed_option1 = "走る",
@@ -363,7 +363,7 @@ Sandbox_JP = {
 	Sandbox_EnduranceRegen_option4 = "遅い",
 	Sandbox_EnduranceRegen_option5 = "とても遅い",
 
-   　-- ZombieConfig
+    -- ZombieConfig
 	Sandbox_PopulationMultiplier = "ゲーム開始時のゾンビ数",
 	Sandbox_PopulationStartMultiplier = "スタート時の最大ゾンビ数",
 	Sandbox_PopulationPeakMultiplier = "ピーク時の最大ゾンビ数",
@@ -378,7 +378,7 @@ Sandbox_JP = {
 	Sandbox_RallyGroupSeparation = "ゾンビ集団同士の距離",
 	Sandbox_RallyGroupRadius = "ゾンビ集団内の密度",
     -- Zombie Config tooltips and zombie.ini comments
-　　　　Sandbox_PopulationMultiplier_help = "ゲーム開始時のゾンビ数の増減の設定です。\n狂気 = 4.0、非常に多い = 3.0、多い = 2.0、普通 = 1.0、少ない = 0.35、無し = 0.0",
+    Sandbox_PopulationMultiplier_help = "ゲーム開始時のゾンビ数の増減の設定です。\n狂気 = 4.0、非常に多い = 3.0、多い = 2.0、普通 = 1.0、少ない = 0.35、無し = 0.0",
 	Sandbox_PopulationStartMultiplier_help = "ゲーム開始時のゾンビを希望に応じて増減させます。",
 	Sandbox_PopulationPeakMultiplier_help = "ピーク時のゾンビを希望に応じて増減させます。",
 	Sandbox_PopulationPeakDay_help = "ゾンビの数がピークに達するまでの日数です。",
@@ -502,7 +502,7 @@ Sandbox_JP = {
 	Sandbox_DaysForRottenFoodRemoval_tooltip = "腐敗した食料が地図から削除されるまでのゲーム内の日数。 \n「-1」に設定すると腐敗した食料は削除されません。",
 	Sandbox_AllowExteriorGenerator = "外部で発電機を動かす",
 	Sandbox_AllowExteriorGenerator_tooltip = "有効にすると、発電機は外部タイル上で利用できるようになります。 例えば、ガソリンスタントで電力が絶たれると燃料補給ができませんが、 発電機を使用することでガソリンスタンドの燃料ポンプに電力が供給され 燃料補給ができるようになります。",															  
-　　　　--
+    --
 	Sandbox_Vehicle = "車両",
 	Sandbox_ZombieAttractionMultiplier = "車両のエンジン音量",
 	Sandbox_ZombieAttractionMultiplier_tooltip = "ゾンビの反応に影響を与えるエンジン音量の増減の設定です。",
