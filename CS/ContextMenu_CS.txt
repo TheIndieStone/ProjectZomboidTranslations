@@ -484,4 +484,6 @@ ContextMenu_CS = {
     Puddle = "Louže",
     ContextMenu_ComboWasherDryer_SetModeDryer = "Nastavit režim: Sušička",
     ContextMenu_ComboWasherDryer_SetModeWasher = "Nastavit režim: Pračka",
+    ContextMenu_MergeAll = "Consolidate all",
+    ContextMenu_FillOne = "Fill One ",
 }

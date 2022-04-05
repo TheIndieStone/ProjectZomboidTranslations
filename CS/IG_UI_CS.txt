@@ -476,6 +476,7 @@ IG_UI_CS = {
     IGUI_ItemCat_Devices = "Zařízení",
     IGUI_ItemCat_Drainable = "Vyčerpatelné",
     IGUI_ItemCat_Electronics = "Elektronika",
+	IGUI_ItemCat_Explosives = "Výbušniny"
     IGUI_ItemCat_FirstAid = "První pomoc",
     IGUI_ItemCat_Fishing = "Rybaření",
     IGUI_ItemCat_Food = "Jídlo",
