@@ -8,7 +8,7 @@ SurvivalGuide_CH = {
                                     "<LINE> <H1> 滑鼠控制 <BR> <TEXT> 你可以點擊滑鼠左鍵來和附近的物件互動. 舉例來說, 你可以用左鍵開門, 或者是打開你想要搜刮的櫥櫃. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 按住右鍵可以查看四周與瞄準武器. 滾動滑鼠滾輪, 或者使用 <SPACE><KEY:Zoom&nbsp;in><SPACE> 與 <SPACE><KEY:Zoom&nbsp;out><SPACE> 鍵, 可以放大或縮小畫面. <BR>"..
                                     "<LINE> <H1> 健康 <BR> <TEXT> 點擊畫面左上方的心形圖示來查看你的健康狀況. 從這裡, 你可以進行急救 - 或者檢查你是否有被咬傷. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
                                     "<LINE> <H1> 互動鍵 <BR> <TEXT> 另一個進行互動的方式是透過 <SPACE><KEY:Interact> 鍵. 這讓你在攻擊姿態下也可以開門. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> <TEXT> 在窗邊按下 <SPACE><KEY:Interact><SPACE> 來打開或關閉窗戶, 在已開 (或已打破) 的窗邊按住 <SPACE><KEY:Interact><SPACE> 則可以爬越窗戶. 在嘗試打開窗戶時按 <SPACE><KEY:Interact><SPACE> 則會打破窗戶 - 緊急情況時很有用, 但得小心注意碎玻璃. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-                                    "<LINE> <H1> 攀爬 <BR> <TEXT> 按 <SPACE><KEY:Interact><SPACE> 來爬越圍欄. 朝向圍欄跑步或衝刺時, 你也會自動爬越它們 (此指南的第 2 頁有更多資訊) . <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+                                    "<LINE> <H1> 攀爬 <BR> <TEXT> 按 <SPACE><KEY:Interact><SPACE> 來爬越圍欄. 朝向圍欄跑步或衝刺時, 你也會自動爬越它們 (此指南的第 2 頁有更多相關資訊) . <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
                                     " <LINE> <H1> 右鍵選單 <BR> <TEXT> 使用右鍵選單可以查看更詳細的互動選項, 例如物品製作. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> 時間 <BR> <TEXT> Project Zomboid 的時間通常過得很快, 但若不夠快 (且又在單人模式下) , 畫面右上方的時間控制能幫上忙. 如果你只是站著進行耗時的動作 (像是閱讀或建造) , 你可以運用時間控制來快轉至不同的速度. 你也可以暫停時間, 在糟糕的物資搜索行動後重新思考人生. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> 地圖 <BR> <TEXT> 按下 <SPACE><KEY:Map><SPACE> 或者點擊畫面左上方的地圖圖示來打開你的地圖. 隨著你在世界四處旅行, 你的地圖也會越來越完整. 你也可以在畫面右下角顯示小地圖. 按住 <SPACE><KEY:Map><SPACE> 來查看地圖相關的選項, 例如開啟或關閉小地圖. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
@@ -18,7 +18,7 @@ SurvivalGuide_CH = {
 	SurvivalGuide_entrie2title = "#2 - 不要跑",
 	SurvivalGuide_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 不要跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> 使用 <SPACE><KEY:Run><SPACE> 來跑步, 還有 <SPACE><KEY:Sprint><SPACE> 來衝刺, 但務必要小心安全! ",
 	SurvivalGuide_entrie2moreinfo = " <H1> 殭屍感官 <BR> <TEXT> 殭屍有視覺和聽覺反應. 隨時注意可能發出噪音的東西, 像是警笛, 警報, 或槍聲, 都會吸引屍群前來調查. <LINE> <BR>"..
-                                    "<H1> 跑步 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> 使用 <SPACE><KEY:Run><SPACE> 來跑步, 與 <SPACE><KEY:Sprint><SPACE> 來衝刺. 跑步會產生噪音, 並使你更容易吸引注意. 你也許跑得比殭屍快, 但你不可能永遠跑下去."..
+                                    "<H1> 跑步 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> 使用 <SPACE><KEY:Run><SPACE> 來跑步, 與 <SPACE><KEY:Sprint><SPACE> 來衝刺. 跑步會產生噪音, 並使你更容易吸引注意. 你也許跑得比殭屍快, 但你不可能永遠跑下去. "..
                                     " <BR> <H1> 蹲下 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 倖存者們可以透過 <SPACE><KEY:Crouch><SPACE> 來降低他們的可見度, 蹲在牆壁或圍欄邊可以更進一步地降低可見度 (你可以注意到你的角色在掩護旁會蹲得比平常更低) . 在蹲下時也可以跑步. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
                                     "Project Zomboid 可不是人氣王比賽. 殭屍跟著你不是為了要簽名 - 他們只想要咬你. 噢, 他們也不是要抱抱. <BR>",
 
@@ -30,26 +30,26 @@ SurvivalGuide_CH = {
                                     " <H2> 地面攻擊 <BR> <TEXT> 要殺死殭屍最好的方式就是先將他們擊倒在地, 再打碎他們的腦袋. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 你可以透過攻擊或是推擊來擊倒殭屍到地上. 若附近沒有其他殭屍, 你的攻擊將會往下方瞄準, 攻擊在範圍內倒地的殭屍. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> 你也可以透過 <SPACE><KEY:Melee><SPACE> 來用力踩附近倒地的殭屍. 雖然這比武器攻擊還要弱, 但這樣一來你便不會消耗武器的狀況, 或者浪費彈藥. 請記住要使用立體游標來瞄準頭部. 不停地踩殭屍的腿永遠也殺不死他們, 而且看起來也很蠢. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
 
 	SurvivalGuide_entrie4title = "#4 - 水",
-	SurvivalGuide_entrie4txt = " <CENTRE> "<SIZE:large> #4 - 水喔!  <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 乾淨的水是生存必要的一環.",
+	SurvivalGuide_entrie4txt = " <CENTRE> "<SIZE:large> #4 - 水喔!  <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 乾淨的水是生存必要的一環. ",
 	SurvivalGuide_entrie4moreinfo = " <H1> 水 <BR> <TEXT> 世界中的水供給, 就跟電力供給一樣, 不會永遠持續下去. 若將來不想要沒水可用的話, 最好先囤積水瓶... <BR> 你的角色會從物品欄內的任何容器中自動喝水. <BR> 要從水瓶內喝水, 或是裝水的話, 對任何遊戲內提供水的網格 / 物品開啟右鍵選單. 水槽, 浴缸, 水龍頭... 你懂的. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> 你也可以在戶外擺放像是湯鍋等開放式容器來收集雨水, 或是從河取水, 或者也可以建造木製的水容器. <BR> 若不是從像是水龍頭等水管內取得的水會是髒的, 且必須先煮滾才可以安全飲用. 但是, 髒水可以用來安全地替作物澆水或是清洗衣物. <BR>",
 
 	SurvivalGuide_entrie5title = "#5 - 物品製作",
-	SurvivalGuide_entrie5txt = " <CENTRE> "<SIZE:large> #5 - 製作東製作西 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 殭屍會抓擊門窗!若心有疑慮: 就加固門窗吧!",
-	SurvivalGuide_entrie5moreinfo = " <H1> 物品欄製作 <BR> <TEXT> 要在物品欄內製作物品的話, 只需要右鍵點擊你物品欄內的物品. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 任何你能透過此物品以及其它你所攜帶的物品製作的東西, 都會顯示出來!<BR> 烹飪, 木工, 醫療, 與生存的各種配方, 都能在末日中助你一臂之力. <BR> <H1> 加固 <BR> <TEXT> 你可以右鍵點擊門或窗戶來加固它們. 你會需要鎚子, 木板與釘子來用木板加固防禦, 或者你也可以用瓦斯噴槍, 焊接面罩, 與金屬片來用金屬加固. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 木工與金工 <BR> <TEXT> 隨著你的資源與技能越來越充裕, 你最終能夠建造一整棟建築. 要進行木製建築的話, 你身上必須要有鎚子, 金屬建築則需要瓦斯噴槍, 焊接面罩, 且大部分的金工物品都需要焊條. 只需要對地面點擊右鍵就可以找到建築選單. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 從這裡, 你可以選擇任何你的技能與素材能夠建造的家具. <BR> 選擇後, 你會看見一個透明的提示顯示最終產品的模樣, 你可以在世界中四處移動並且用左鍵來決定位置. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 建築的過程很耗時, 且牆壁需要多個不同的階段才能完成. PZ 是個講究寫實的遊戲, 如果你看過真的建築的話, 你就會明白這些事情是需要花上時間的. (請記得, 我們也讓你在遊戲中能夠建造一杯杯的茶, 如果這個資訊有幫助的話) . 你可以在放置前使用 <SPACE><KEY:Rotate&nbsp;building> 來旋轉物品. <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 務必記得: 你製作得越多, 你也會越來越熟練. 越高的技能等級代表製作的品質也會越好, 也能製作出更有用的東西. <BR> "..
-                                    "<BR> <LINE> <H1> 撿起世界網格 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 世界中大部分的家具與固定物件都能夠被撿起. 只需要將游標移到畫面左上的木櫃圖示上, 並選取撿起, 放置, 或旋轉以及拆解圖示. 在任何這些模式之中, 可以透過 Tab 鍵來循環至下一個模式. <BR> 撿起或拆解物件也許會需要特定的工具或是技能才能成功. 移動物件可以用來幫助你加強基地的防禦 (透過在門窗前放置物件) , 或者是移動像是冰箱或箱子等有用物品到新的地點. <BR>",
+	SurvivalGuide_entrie5txt = " <CENTRE> "<SIZE:large> #5 - 製作東製作西 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 殭屍會抓擊門窗! 若心有疑慮: 就加固門窗吧! ",
+	SurvivalGuide_entrie5moreinfo = " <H1> 物品欄製作 <BR> <TEXT> 要在物品欄內製作物品的話, 只需要右鍵點擊你物品欄內的物品. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 任何你能透過此物品以及其它你所攜帶的物品製作的東西, 都會顯示出來! <BR> 烹飪, 木工, 醫療, 與生存的各種配方, 都能在末日中助你一臂之力. <BR> <H1> 加固 <BR> <TEXT> 你可以右鍵點擊門或窗戶來加固它們. 你會需要鎚子, 木板與釘子來用木板加固防禦, 或者你也可以用瓦斯噴槍, 焊接面罩, 與金屬片來用金屬加固. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 木工與金工 <BR> <TEXT> 隨著你的資源與技能越來越充裕, 你最終能夠建造一整棟建築. 要進行木製建築的話, 你身上必須要有鎚子, 金屬建築則需要瓦斯噴槍, 焊接面罩, 且大部分的金工物品都需要焊條. 只需要對地面點擊右鍵就可以找到建築選單. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 從這裡, 你可以選擇任何你的技能與素材能夠建造的家具. <BR> 選擇後, 你會看見一個透明的提示顯示最終產品的模樣, 你可以在世界中四處移動並且用左鍵來決定位置. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 建築的過程很耗時, 且牆壁需要多個不同的階段才能完成. PZ 是個講究寫實的遊戲, 如果你看過真的建築的話, 你就會明白這些事情是需要花上時間的. (請記得, 我們也讓你在遊戲中能夠建造一杯杯的茶, 如果這個資訊有幫助的話) . 你可以在放置前使用 <SPACE><KEY:Rotate&nbsp;building> 來旋轉物品. <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 務必記得: 你製作得越多, 你也會越來越熟練. 越高的技能等級代表製作的品質也會越好, 也能製作出更有用的東西. <BR> "..
+                                    "<BR> <LINE> <H1> 撿起世界網格 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 世界中大部分的家具與固定物件都能夠被撿起. 只需要將游標移到畫面左上的木櫃圖示上, 並選取撿起, 放置, 或旋轉以及拆解圖示. 在任何這些模式之中, 可以透過 Tab 鍵來循環至下一個模式. <BR> 撿起或拆解物件也許會需要特定的工具或是技能才會成功. 移動物件可以用來幫助你加強基地的防禦 (透過在門窗前放置物件) , 或者是移動像是冰箱或箱子等有用物品到新的地點. <BR>",
 
 	SurvivalGuide_entrie6title = "#6 - 偷窺狂",
 	SurvivalGuide_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 偷窺狂 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 他們也許死了, 但還是看的到窗戶的另一方. <LINE> 沒有窗簾嗎? 臨機應變. ",
 	SurvivalGuide_entrie6moreinfo = " <H1> 阻擋他們的視線 <BR> <TEXT> 殭屍末日中最常見的錯誤之一, 就是忘記關窗廉. 敞開的窗簾就像在邀請四處遊蕩的殭屍們到你前門, 再到你腦門. <BR> 要拉上窗簾的話: 使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗戶也會阻擋殭屍的視線, 更能阻擋他們進出窗戶. <BR> 如果你沒有多的窗簾, 也沒有木板的話, 也許你能掛上其他東西? 去啊, 試試看吧. <BR>",
 
 	SurvivalGuide_entrie7title = "#7 - 健康飲食",
-	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 健康飲食 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒一點也不好笑, 尤其是在末日期間. <LINE> <LINE> 熱騰騰的一餐能帶來許多好處.",
+	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 健康飲食 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒一點也不好笑, 尤其是在末日期間. <LINE> <LINE> 熱騰騰的一餐能帶來許多好處. ",
 	SurvivalGuide_entrie7moreinfo = " <H1> 烹飪 <BR> <TEXT> 肉, 魚, 與許多食物都需要先經過烹煮才能安全食用. 除了能夠降低食物中毒的機率以外, 烹煮食物也更能夠滿足飢餓, 也更營養. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 要烹煮食物的話, 只需要將它放進火爐或微波爐 - 或者你在野外的話, 也可以使用營火. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 透過右鍵選單開啟家電開始烹煮, 煮完後再從拾取視窗內取回熱騰騰的食物. 結束後記得要關閉家電, 除非你想要把整棟房子都煮熟了. 古董火爐, 壁爐, 與營火都需要燃料, 所以平時別忘了囤積一些木材 (如果你是文盲的話, 也可以燒書) . <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
                                     " <H1> 農耕 <BR> <TEXT> 要種植自己的食物的話, 只需要找個鏟子與一些種子. 鏟開土並播種, 不久後你就能用自己的雙手養活自己. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
                                     " <H1> 採集 <BR> <TEXT> 點擊畫面左上方的放大鏡, 並使用 '搜索模式' 來尋找莓果, 石頭, 木枝與其它更有用的物品. <BR> 當 '眼睛' 圖示顯示於你的頭上時, 你可以透過看向正確的方向來找到特定半徑內的物品. 你的技能等級, 你所在的位置, 照明等級等都會影響採集的搜索半徑. 要了解更多與採集相關的資訊的話, 請至此指南的第 11 頁, 或者點擊搜索視窗左上角的資訊圖示. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
 	SurvivalGuide_entrie8title = "#8 - 精明搜刮",
-	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 精明搜刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速且有效率地管理你的物品欄 <BR> 不僅能節省時間 - 還能延長性命!",
+	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 精明搜刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速且有效率地管理你的物品欄 <BR> 不僅能節省時間 - 還能延長性命! ",
 	SurvivalGuide_entrie8moreinfo = " <H1> 選取 <BR> <TEXT> 那麼在 Project Zomboid 中, 你該如何翻找, 拿取, 丟下, 使用各種物品呢? 最主要的方式是透過拖放, 或者使用右鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
                                     " 按住左 SHIFT 能夠選取多個物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者, 何不試試看用滑鼠拉出一個選取方框呢? <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
                                     " 雙擊拾取視窗內的物品能夠快速拿取, 或者你也可以點擊你選取物品右方的選單按鈕. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  如果你興奮到想要拿走所有容器內的東西的話, 你也可以使用 '拾取全部' 按鈕. <LINE> "..
@@ -59,11 +59,11 @@ SurvivalGuide_CH = {
                                     " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 裝備 (並打開) 你所有的最佳照明物. 裝備照明物時按 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 則會開啟或關閉它, 長按 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 則會顯示其它選項, 例如移除電池." ..
 			                        " <BR> <KEY:ReloadWeapon><SPACE> : 重新裝填裝備中的槍械. 長按 <SPACE><KEY:ReloadWeapon><SPACE> 來查看更進階的選項. 按 <SPACE><KEY:Rack&nbsp;Firearm><SPACE> 來清除卡彈 / 拉槍.  " ..
 			                        " <BR> <KEY:VehicleRadialMenu><SPACE> : 在車內或車旁切換顯示進階車輛選項. " ..
-			                        " <BR> <KEY:Shout><SPACE> : 喊叫. 吸引殭屍. 蹲下時喊叫則會較小聲. 長按 <SPACE><KEY:Shout><SPACE> 來開啟表情輪. 向朋友揮手, 或是對你最喜歡的殭屍比讚!"..
+			                        " <BR> <KEY:Shout><SPACE> : 喊叫. 吸引殭屍. 蹲下時喊叫則會較小聲. 長按 <SPACE><KEY:Shout><SPACE> 來開啟表情輪. 向朋友揮手, 或是對你最喜歡的殭屍比讚! "..
 			                        " <BR> <KEY:Toggle&nbsp;Search&nbsp;Mode><SPACE> : 開關採集搜索模式.",
 
     SurvivalGuide_entrie9title = "#9 - 車輛",
-    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!  <BR> 引擎聲會吸引遙遠距離外的屍群...",
+    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!  <BR> 引擎聲會吸引遙遠距離外的屍群... ",
     SurvivalGuide_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在門上, 發動孔內, 或者手套箱裡. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手? 把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
                                     " <H1> 開車上路 <BR> <TEXT> 點擊發動孔來插入鑰匙, 再點擊儀表板上的引擎圖示 (或按 N) 來發動引擎. 或者, 你也可以按前進鍵 <SPACE><KEY:Forward><SPACE> 來發動. <BR> 如果車輛的引擎狀況不好, 也許第一次發動不會成功. 如果不管怎麼樣也發動不了的話, 也許車子沒油了, 最好檢查機工視窗... <BR> 小心開車!車子越大聲, 就會吸引越大範圍內的殭屍跟過來...  <BR> " ..
                                     " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 車輛的儀表板上顯示許多有用的資訊, 例如油量, 速度, 與 RPM. <BR> 儀表板上的圖示也會告訴你引擎狀況, 或者車廂是否打開, 頭燈是否運作正常, 等等. <BR> " ..
@@ -71,17 +71,17 @@ SurvivalGuide_CH = {
                                     " <H1> 機工視窗 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 技能不好的倖存者能夠檢查電池狀況, 看到油量, 並注意到特定的零件看起來壞掉了. 機工技能等級好的倖存者則可以看見額外的細節, 並安裝或移除零件. <BR> 要了解更多相關資訊或是了解機工技能的話, 點擊機工視窗左上角的資訊圖示. <BR>",
 
     SurvivalGuide_entrie10title = "#10 - 天氣",
-    SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 天氣與衣物 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 記住, 你的衣物不只能防風...",
-    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變遷 <BR> <TEXT> Project Zomboid 中的天氣變化十分寫實. 模擬氣候系統使用季節, 虛擬鋒面來在適當的時候創造雨, 雪, 霧以及雷雨. 穿著適當的衣物能幫助你在夏天保持涼爽, 或在冬天保持溫暖, 要記得保持衣物的狀況完好!<LINE> " ..
+    SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 天氣與衣物 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 記住, 你的衣物不只能防風... ",
+    SurvivalGuide_entrie10moreinfo = "<H1> 氣候變遷 <BR> <TEXT> Project Zomboid 中的天氣變化十分寫實. 模擬氣候系統使用季節, 虛擬鋒面來在適當的時候創造雨, 雪, 霧以及雷雨. 穿著適當的衣物能幫助你在夏天保持涼爽, 或在冬天保持溫暖, 要記得保持衣物的狀況完好! <LINE> " ..
                                       :" <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫也會影響你的生存. 當冬天來臨時, 你可以透過吃飽, 睡好, 與適當的冬季衣物來抗寒. 保持活躍與體態也有幫助. 濕度與生病都會增加你受寒冷受苦的程度. <LINE> " ..
                                       "在極寒的時候最好待在室內或者熱源旁, 像是營火, 車輛暖氣或是火爐. <LINE> "..
                                       "炎熱天氣時, 則要保持水份充足, 並不要穿太厚重的衣物. <LINE> <BR>" ..
                                       " <H2> 了解氣溫 <BR> <TEXT> 穿戴電子錶會在介面上顯示氣溫. <LINE> <BR> " ..
                                       " <H2> 冷風 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 在戶外時, 尤其是冬季, 會吹起寒風. 冬天裡的大雨或暴風雪會因為強風加上低溫, 大幅地降低你的體溫. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 卻不會直接在電子錶上顯示溫度的差距. 隨時注意你的情緒圖示來看看冷風是不是正在影響你. <LINE> <BR> "<H1> 衣物防禦 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 P 開啟服裝防護面板來檢視你的倖存者目前的防護等級. <BR> 若擁有正確的素材與裁縫等級, 你可以修補衣物上的破洞, 也可以加強衣物的防禦. 只需右鍵點擊衣物, 並點 '檢查' , 再右鍵點擊你想要修補或加強的部分. 確保你的物品欄內有皮革條, 丹寧條, 或是適當的布料, 還有針與線. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 卻不會直接在電子錶上顯示溫度的差距. 隨時注意你的情緒圖示來看看冷風是不是正在影響你. <LINE> <BR> "<H1> 衣物防禦 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 P 開啟服裝防護面板來檢視你的倖存者目前的防護等級. <BR> 若擁有正確的素材與裁縫等級, 你可以修補衣物上的破洞, 也可以加強衣物的防禦. 只需右鍵點擊衣物, 並點 '檢查' , 再右鍵點擊你想要修補或加強的部分. 確保你的物品欄內有皮革條, 丹寧條, 或是適當的布料, 還有針與線.  <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
     SurvivalGuide_entrie11title = "#11 - 採集",
-    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界中到處都是有用的東西, 你只需要知道他們在哪 (還有什麼時候跟怎麼找) !<LINE> <LINE> 莓果, 蘑菇, 石頭... 誰知道在對的地方你能找到什麼呢? ",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界中到處都是有用的東西, 你只需要知道他們在哪 (還有什麼時候跟怎麼找) ! <LINE> <LINE> 莓果, 蘑菇, 石頭... 誰知道在對的地方你能找到什麼呢? ",
     SurvivalGuide_entrie11moreinfo = " <H1> 採集 / 搜索系統 <BR> " ..
                                      " <TEXT> <SIZE:small>" ..
                                      " 調查區域視窗顯示你目前所在的區域類型. 這會影響你能夠找到的物資." ..
@@ -95,7 +95,100 @@ SurvivalGuide_CH = {
                                      " <SIZE:medium> <CENTRE> 加強搜索能力 <TEXT> <BR> " ..
                                      " 使用瞄準往四周察看並蹲下都可以增加搜索半徑. 暗度, 不良天氣, 技能, 物品大小, 負面情緒 (壓力, 受傷, 等) 都會影響物品的可見度. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> 重要!<TEXT> <BR> " ..
-                                     " 確保你檢查相關並合理的地點!" ..
+                                     " <SIZE:medium> <CENTRE> 重要! <TEXT> <BR> " ..
+                                     " 確保你檢查相關並合理的地點! " ..
                                      " 舉例來說, 垃圾能在垃圾堆中找到, 尖碎石則常常出現在路上的縫隙與坑洞之間. <LINE> <LINE> ",
+
+	SurvivalGuide_Joypad_entrie1title = "#1 - 基礎",
+	SurvivalGuide_Joypad_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 若你不打算深吸口氣 <BR> 並好好學習基礎的話, 你是活不久的.",
+	SurvivalGuide_Joypad_entrie1moreinfo = " <H1> 移動 <BR> <TEXT> 要在 Project Zomboid 裡四處移動的話, 使用 <JOYPAD:LStick,28,28>. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
+                                    "<LINE> <H1> 戰鬥 <BR> <TEXT> 要攻擊敵人, 使用 <JOYPAD:RStick,28,28> 來瞄準, 再按 <JOYPAD:RTrigger,28,28> 進行攻擊. 若沒有裝備武器, 你只能夠用手推敵人 (若有裝備武器時, 你也可以按 <JOYPAD:LTrigger,28,28> 來推敵人). 此指南的第 3 頁有更進階的戰鬥資訊. <BR> "..
+                                    "<LINE> <H1> 情緒圖示 <BR> <TEXT> 畫面右上方有時會出現的小圖示叫做情緒圖示. 這些圖示讓你可以很快地了解你目前的狀態. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+                                    "<LINE> <H1> 基礎控制 <BR> <TEXT> 你可以按下 <JOYPAD:AButton,28,28> 來和附近的物件互動.舉例來說, 這可以用來開啟門或窗戶. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 使用 <JOYPAD:RStick,28,28> 來四處查看與瞄準. 使用 <JOYPAD:YButton,28,28> 來打開物品欄, 並用 <JOYPAD:DPad,28,28> 在裡面移動選取, <JOYPAD:LBumper,28,28> 與 <JOYPAD:RBumper,28,28> 則可於切換選擇內物品欄或世界附近的容器. <BR>"..
+                                    "<LINE> <H1> 健康 <BR> <TEXT> 按 <JOYPAD:Back,28,28> 開啟環狀選單並選擇心形圖示來查看你的健康狀況. 從這裡, 你可以進行急救 - 或者檢查你是否有被咬傷. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+                                    "<LINE> <H1> 門與窗 <BR> <TEXT> 站在窗戶邊按 <JOYPAD:AButton,28,28> 來開啟或關閉它, 也可以按 <JOYPAD:BButton,28,28> 來爬越已打開 (或已打破) 的窗戶. 在關上的窗邊按 <JOYPAD:BButton,28,28> 則會打破窗戶 - 緊急情況時很有用, 但得小心注意碎玻璃. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+                                    "<LINE> <H1> 攀爬 <BR> <TEXT> 按 <JOYPAD:BButton,28,28> 來爬越圍欄. 朝向圍欄跑步或衝刺時, 你也會自動爬越它們 (此指南的第 2 頁有更多相關資訊) . <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+                                    " <LINE> <H1> 右鍵選單 <BR> <TEXT> 使用 <JOYPAD:XButton,28,28> 開啟右鍵選單可以查看更詳細的互動選項, 例如物品製作. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+                                    " <LINE> <H1> 時間 <BR> <TEXT> Project Zomboid 的時間通常過得很快, 但若不夠快 (且又在單人模式下), <JOYPAD:Back,28,28> 鍵環狀選單內的控制可以幫上忙. 你可以在你站著進行各種行動 (像是閱讀或建造) 時快轉時間流動. 你也可以暫停時間, 在糟糕的物資搜索行動後重新思考人生. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+                                    "<LINE> <H1> 地圖 <BR> <TEXT> 按住 <JOYPAD:DPadRight,28,28> 來開啟地圖與地圖相關的選項. 隨著你在世界四處旅行, 你的地圖也會越來越完整. 你也可以在畫面右下角顯示小地圖. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+                                    ///<LINE> <H1> 放置物品 <BR> <TEXT> 你可以透過右鍵選單內的 '放置物品' 來把大部分的物品擺放至世界中. 這可以讓你把物品放置在容器以外的地方. (像是家具等等的大型可動世界物件則可以使用畫面左上方的 '可動物件' 選項來放置. 請至第 5 頁查看更多資訊) . 請務必保持諾克斯事件的整齊乾淨! <BR>///
+                                    "<H1> 別死 <BR> <TEXT> 請隨時注意不要死. <BR>",
+
+	SurvivalGuide_Joypad_entrie2title = "#2 - 不要跑",
+	SurvivalGuide_Joypad_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 不要跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> 使用 <JOYPAD:RTrigger,28,28> 來跑步, 跑步時按下 <JOYPAD:BButton,28,28> 鍵來衝刺, 但務必要小心安全! ",
+	SurvivalGuide_Joypad_entrie2moreinfo = " <H1> 殭屍感官 <BR> <TEXT> 殭屍有視覺和聽覺反應. 隨時注意可能發出噪音的東西, 像是警笛, 警報, 或槍聲, 都會吸引屍群前來調查. <LINE> <BR>"..
+                                    "<H1> 跑步 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> 使用 <JOYPAD:RTrigger,28,28> 來跑步, 跑步時按下 <JOYPAD:BButton,28,28> 鍵來衝刺. 跑步會產生噪音, 並使你更容易吸引注意. 你也許跑得比殭屍快, 但你不可能永遠跑下去. "..
+                                    " <BR> <H1> 蹲下 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 倖存者們可以按 <JOYPAD:LStick,28,28> 蹲下來降低他們的可見度, 蹲在牆壁或圍欄邊可以更進一步地降低可見度 (你可以注意到你的角色在掩護旁會蹲得比平常更低) . 在蹲下時也可以跑步. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
+                                    "Project Zomboid 可不是人氣王比賽. 殭屍跟著你不是為了要簽名 - 他們只想要咬你. 噢, 他們也不是要抱抱. <BR>",
+
+	SurvivalGuide_Joypad_entrie3title = "#3 - 戰鬥",
+	SurvivalGuide_Joypad_entrie3txt = " <CENTRE> "<SIZE:large> #3 - 講究精準! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 在聽到噗赤聲前別卸下心防! ",
+	SurvivalGuide_Joypad_entrie3moreinfo = " <H1> 戰鬥機制 <BR> <TEXT> 每個武器都有固定的傷害數值. 但是, 它們的威力與精準度則取決於你的技術. "..
+                                    " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 使用 <JOYPAD:RStick,28,28> 來瞄準, 並按下 <JOYPAD:RTrigger,28,28> 進行攻擊. 你可以透過 <JOYPAD:RBumper,28,28> 來使用物品欄內沒有裝盒的彈藥來重新裝填槍枝, 在物品欄內選擇槍枝並使用 <JOYPAD:AButton,28,28> 選單來清除卡彈. 武器的狀況越差, 越容易發生卡彈的問題. <BR> <LINE> 預設情況下, 瞄準輪廓只會在使用槍械時顯示. 紅色輪廓代表命中率低, 綠色則代表有高機率命中目標. 要讓近戰武器也顯示出瞄準輪廓, 或是完全關閉這個功能的話, 雙擊選單鍵開啟主選單並更改顯示選項內的瞄準輪廓選項. <LINE>"..
+                                    " <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/aimingoutlines.png> <LINE> 尖刺的武器有時可以透過 '下巴刺擊' 來一擊殺死殭屍. 但還是別對奶油刀抱有太大的期望比較好. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+                                    " <H2> 地面攻擊 <BR> <TEXT> 要殺死殭屍最好的方式就是先將他們擊倒在地, 再打碎他們的腦袋. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 你可以透過攻擊或是推擊來擊倒殭屍到地上. 若附近沒有其他殭屍, 你的攻擊將會往下方瞄準, 攻擊在範圍內倒地的殭屍. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> 你也可以透過 <JOYPAD:LTrigger,28,28> 來用力踩附近倒地的殭屍. 雖然這比武器攻擊還要弱, 但這樣一來你便不會消耗武器的狀況, 或者浪費彈藥. 請記住要使用立體游標來瞄準頭部. 不停地踩殭屍的腿永遠也殺不死他們, 而且看起來也很蠢. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
+
+	SurvivalGuide_Joypad_entrie4title = "#4 - 水",
+	SurvivalGuide_Joypad_entrie4txt = " <CENTRE> "<SIZE:large> #4 - 水喔! <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 乾淨的水是生存必要的一環. ",
+	SurvivalGuide_Joypad_entrie4moreinfo = " <H1> 水 <BR> <TEXT> 世界中的水供給, 就跟電力供給一樣, 不會永遠持續下去. 若將來不想要沒水可用的話, 最好先囤積水瓶... <BR> 你的角色會從物品欄內的任何容器中自動喝水. <BR> 要從水瓶內喝水, 或是裝水的話, 對任何遊戲內提供水的網格 / 物品開啟 <JOYPAD:XButton,28,28> 選單. 水槽, 浴缸, 水龍頭... 你懂的. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> 你也可以在戶外擺放像是湯鍋等開放式容器來收集雨水, 或是從河取水, 或者也可以建造木製的水容器. <BR> 若不是從像是水龍頭等水管內取得的水會是髒的, 且必須先煮滾才可以安全飲用. 但是, 髒水可以用來安全地替作物澆水或是清洗衣物. <BR>",
+
+	SurvivalGuide_Joypad_entrie5title = "#5 - 物品製作",
+	SurvivalGuide_Joypad_entrie5txt = " <CENTRE> "<SIZE:large> #5 - 製作東製作西 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 殭屍會抓擊門窗! 若心有疑慮: 就加固門窗吧! ",
+	SurvivalGuide_Joypad_entrie5moreinfo = " <H1> 物品欄製作 <BR> <TEXT> 要在物品欄內製作物品的話, 只需要選取物品欄內的物品並按下 <JOYPAD:AButton,28,28> . <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 任何你能透過此物品以及其它你所攜帶的物品製作的東西, 都會顯示出來!  <BR> 烹飪, 木工, 醫療, 與生存的各種配方, 都能在末日中助你一臂之力.  <BR> <H1> 加固 <BR> <TEXT> 你可以透過 <JOYPAD:XButton,28,28> 選單來加固門或窗戶. 你會需要鎚子, 木板與釘子來用木板加固防禦, 或者你也可以用瓦斯噴槍, 焊接面罩, 與金屬片來用金屬加固. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 木工與金工 <BR> <TEXT> 隨著你的資源與技能越來越充裕, 你最終能夠建造一整棟建築. 要進行木製建築的話, 你身上必須要有鎚子, 金屬建築則需要瓦斯噴槍, 焊接面罩, 且大部分的金工物品都需要焊條. 只需透過 <JOYPAD:XButton,28,28> 選單就能看見建築選單. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 從這裡, 你可以選擇任何你的技能與素材能夠建造的家具. <BR> 選擇後, 你會看見一個透明的提示顯示最終產品的模樣, 你可以在世界中四處移動並且用 <JOYPAD:AButton,28,28> 來決定位置. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 建築的過程很耗時, 且牆壁需要多個不同的階段才能完成. PZ 是個講究寫實的遊戲, 如果你看過真的建築的話, 你就會明白這些事情是需要花上時間的. (請記得, 我們也讓你在遊戲中能夠建造一杯杯的茶, 如果這個資訊有幫助的話) . 你可以在放置前使用 <JOYPAD:LBumper,28,28> 或 <JOYPAD:RBumper,28,28> 來旋轉物品. <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 務必記得: 你製作得越多, 你也會越來越熟練. 越高的技能等級代表製作的品質也會越好, 也能製作出更有用的東西. <BR> "..
+                                    "<BR> <LINE> <H1> 撿起世界網格 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 世界中大部分的家具與固定物件都能夠被撿起. 只需要選取 <JOYPAD:Back,28,28> 選單內的木櫃圖示來撿起世界物件, 或放置已經在物品欄內的物件, 也可以原地旋轉或拆解物件. 按住 <JOYPAD:LBumper,28,28> 來改變家具模式. <BR> 撿起或拆解物件也許會需要特定的工具或是技能才會成功. 移動物件可以用來幫助你加強基地的防禦 (透過在門窗前放置物件) , 或者是移動像是冰箱或箱子等有用物品到新的地點. <BR>",
+
+	SurvivalGuide_Joypad_entrie6title = "#6 - 偷窺狂",
+	SurvivalGuide_Joypad_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 偷窺狂 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 他們也許死了, 但還是看的到窗戶的另一方. <LINE> 沒有窗簾嗎? 臨機應變. ",
+	SurvivalGuide_Joypad_entrie6moreinfo = " <H1> 阻擋他們的視線 <BR> <TEXT> 殭屍末日中最常見的錯誤之一, 就是忘記關窗廉. 敞開的窗簾就像在邀請四處遊蕩的殭屍們到你前門, 再到你腦門. <BR> 要拉上窗簾的話: 使用 <JOYPAD:XButton,28,28> 鍵選單. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗戶也會阻擋殭屍的視線, 更能阻擋他們進出窗戶. <BR> 如果你沒有多的窗簾, 也沒有木板的話, 也許你能掛上其他東西? 去啊, 試試看吧. <BR>",
+
+	SurvivalGuide_Joypad_entrie7title = "#7 - 健康飲食",
+	SurvivalGuide_Joypad_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 健康飲食 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒一點也不好笑, 尤其是在末日期間.  <LINE> <LINE> 熱騰騰的一餐能帶來許多好處. ",
+	SurvivalGuide_Joypad_entrie7moreinfo = " <H1> 烹飪 <BR> <TEXT> 肉, 魚, 與許多食物都需要先經過烹煮才能安全食用. 除了能夠降低食物中毒的機率以外, 烹煮食物也更能夠滿足飢餓, 也更營養.  <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 要烹煮食物的話, 只需要將它放進火爐或微波爐 - 或者你在野外的話, 也可以使用營火.  <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 透過 <JOYPAD:AButton,28,28> 開啟家電開始烹煮, 煮完後再從拾取視窗內取回熱騰騰的食物. 結束後記得要關閉家電, 除非你想要把整棟房子都煮熟了. 古董火爐, 壁爐, 與營火都需要燃料, 所以平時別忘了囤積一些木材 (如果你是文盲的話, 也可以燒書) .  <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+                                    " <H1> 農耕 <BR> <TEXT> 要種植自己的食物的話, 只需要找個鏟子與一些種子. 鏟開土並播種, 不久後你就能用自己的雙手養活自己.  <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+                                    " <H1> 採集 <BR> <TEXT> 使用 <JOYPAD:Back,28,28> 選單內的眼睛圖示啟用搜索模式來尋找莓果, 石頭, 木枝與其它更有用的物品. <BR> 當 '眼睛' 圖示顯示於你的頭上時, 你可以透過看向正確的方向來找到特定半徑內的物品. 你的技能等級, 你所在的位置, 照明等級等都會影響採集的搜索半徑. 要了解更多與採集相關的資訊的話, 請至此指南的第 11 頁, 或者點擊搜索視窗左上角的資訊圖示. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
+
+	SurvivalGuide_Joypad_entrie8title = "#8 - 精明搜刮",
+	SurvivalGuide_Joypad_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 精明搜刮 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速且有效率地管理你的物品欄 <BR> 不僅能節省時間 - 還能延長性命! ",
+	SurvivalGuide_Joypad_entrie8moreinfo = " <H1> 物品欄 <BR> <TEXT> 那麼在 Project Zomboid 中, 你該如何翻找, 拿取, 丟下, 使用各種物品呢? 使用 <JOYPAD:YButton,28,28> 來開啟物品欄, 並用方向鍵來移動選取. <JOYPAD:LBumper,28,28> 與 <JOYPAD:RBumper,28,28> 能用來在已選擇地點 (物品欄或世界) 的容器間切換, <JOYPAD:XButton,28,28> 則可將已選物品移動至另一個物品欄. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+                                    " 如果你興奮到想要拿走所有容器內的東西的話, 你也可以使用 <JOYPAD:AButton,28,28> 選單內的 '拾取全部' 功能. <LINE> "..
+                                    " <BR> <H1> 包包的榮耀 <BR> <TEXT> 包包很重要. 它們可以幫你帶東西. <BR> 要裝備一個包包好用來把東西都亂丟進去的話, 在物品欄內選擇它, 並使用 <JOYPAD:AButton,28,28> 選單來將它裝備於主手, 副手或者特定包包可以裝備在背上. "..
+                                    " <BR> 你可以在物品欄內看到你已裝備的包包, 準備好讓你把找到的物資都拖拉進去. 重要的是, 包包能讓你減輕物品的重量, 幫助你攜帶更多東西, 但請注意: 如果你在包包裡放太多東西, 還是會讓你的行動變得緩慢.  <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+                                    " <H1> 環狀選單 <BR> <TEXT> 按下 <JOYPAD:Back,28,28> 鍵來開啟環狀選單, 你可以從這裡找到健康選單, 家具移動模式, 採集等等選項! 使用方向鍵來開啟武器選單並快速地裝備任何物品欄內的武器. 使用方向鍵下鍵來開啟表情選單. 向朋友揮手, 或是對你最喜歡的殭屍比讚! ",
+
+    SurvivalGuide_Joypad_entrie9title = "#9 - 車輛",
+    SurvivalGuide_Joypad_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!  <BR> 引擎聲會吸引遙遠距離外的屍群... ",
+    SurvivalGuide_Joypad_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在門上, 發動孔內, 或者手套箱裡. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手? 把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
+                                    " <H1> 開車上路 <BR> <TEXT> 使用 <JOYPAD:RTrigger,28,28> 來插入鑰匙並啟動引擎. <BR>如果車輛的引擎狀況不好, 也許第一次發動不會成功. 如果不管怎麼樣也發動不了的話, 也許車子沒油了, 最好檢查機工視窗... <BR> 小心開車!車子越大聲, 就會吸引越大範圍內的殭屍跟過來...  <BR> " ..
+                                    " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 車輛的儀表板上顯示許多有用的資訊, 例如油量, 速度, 與 RPM. <BR> 儀表板上的圖示也會告訴你引擎狀況, 或者車廂是否打開, 頭燈是否運作正常, 等等. <BR> " ..
+                                    " <H1> 環狀選單 <BR> <TEXT> 在車內或車旁時按 <JOYPAD:DPadUp,28,28> . 這會開啟它的環狀選單. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 從這裡你可以切換座位, 鎖門, 操作燈號, 開啟機工視窗, 等等. <BR> " ..
+                                    " <H1> 機工視窗 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 技能不好的倖存者能夠檢查電池狀況, 看到油量, 並注意到特定的零件看起來壞掉了. 機工技能等級好的倖存者則可以看見額外的細節, 並安裝或移除零件. <BR> 要了解更多相關資訊或是了解機工技能的話, 點擊機工視窗左上角的資訊圖示. <BR>",
+
+    SurvivalGuide_Joypad_entrie10title = "#10 - 天氣",
+    SurvivalGuide_Joypad_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 天氣與衣物 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 記住, 你的衣物不只能防風... ",
+    SurvivalGuide_Joypad_entrie10moreinfo = "<H1> 氣候變遷 <BR> <TEXT> Project Zomboid 中的天氣變化十分寫實. 模擬氣候系統使用季節, 虛擬鋒面來在適當的時候創造雨, 雪, 霧以及雷雨. 穿著適當的衣物能幫助你在夏天保持涼爽, 或在冬天保持溫暖, 要記得保持衣物的狀況完好! <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫也會影響你的生存. 當冬天來臨時, 你可以透過吃飽, 睡好, 與適當的冬季衣物來抗寒. 保持活躍與體態也有幫助. 濕度與生病都會增加你受寒冷受苦的程度. <LINE> " ..
+                                      "在極寒的時候最好待在室內或者熱源旁, 像是營火, 車輛暖氣或是火爐. <LINE> "..
+                                      "炎熱天氣時, 則要保持水份充足, 並不要穿太厚重的衣物. <LINE> <BR>" ..
+                                      " <H2> 了解氣溫 <BR> <TEXT> 穿戴電子錶會在介面上顯示氣溫. <LINE> <BR> " ..
+                                      " <H2> 冷風 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 在戶外時, 尤其是冬季, 會吹起寒風. 冬天裡的大雨或暴風雪會因為強風加上低溫, 大幅地降低你的體溫. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 卻不會直接在電子錶上顯示溫度的差距. 隨時注意你的情緒圖示來看看冷風是不是正在影響你. <LINE> <BR> "<H1> 衣物防禦 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 使用 <JOYPAD:Back,28,28> 鍵選單來開啟玩家資訊, 按 <JOYPAD:RBumper,28,28> 鍵來移動至衣物防禦面板並查看你的倖存者目前的防禦等級.  <BR> 若擁有正確的素材與裁縫等級, 你可以修補衣物上的破洞, 也可以加強衣物的防禦. 選取物品欄內的衣物並使用 <JOYPAD:AButton,28,28> 選單內的 '檢視' 來進行相關動作. 確保你的物品欄內有皮革條, 丹寧條, 或是適當的布料, 還有針與線.  <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+
+    SurvivalGuide_Joypad_entrie11title = "#11 - 採集",
+    SurvivalGuide_Joypad_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界中到處都是有用的東西, 你只需要知道他們在哪 (還有什麼時候跟怎麼找) ! <LINE> <LINE> 莓果, 蘑菇, 石頭... 誰知道在對的地方你能找到什麼呢? ",
+    SurvivalGuide_Joypad_entrie11moreinfo = " <H1> 採集 / 搜索系統 <BR> " ..
+                                     " <TEXT> <SIZE:small>" ..
+                                     " 調查區域視窗顯示你目前所在的區域類型. 這會影響你能夠找到的物資." ..
+                                     " 將游標移到視窗上方來檢視目前區域可以找到的物資種類." ..
+                                     " 如果你看到 '?????' , 那就代表那個地方沒辦法找到有用的東西. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+                                     " 要開始搜索, 在 <JOYPAD:Back,28,28> 鍵選單內選擇 '啟用搜索模式'. 搜索的範圍會出現. 你的倖存者能在這個範圍內找到物品. <LINE> <LINE>" ..
+                                     " 當倖存者找到東西時會出現箭頭指向物品. 隨著角色接近並確認物品, 頭上會出現眼睛圖示. <LINE> <LINE>" ..
+                                     " 使用 <JOYPAD:XButton,28,28> 選單來撿起找到的物品. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 加強搜索能力 <TEXT> <BR> " ..
+                                     " 使用瞄準往四周察看並蹲下都可以增加搜索半徑. 暗度, 不良天氣, 技能, 物品大小, 負面情緒 (壓力, 受傷, 等) 都會影響物品的可見度. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 重要!  <TEXT> <BR> " ..
+                                     " 確保你檢查相關並合理的地點!  " ..
+                                     " 舉例來說, 垃圾能在垃圾堆中找到, 尖碎石則常常出現在路上的縫隙與坑洞之間.  <LINE> <LINE> ",}
 }
