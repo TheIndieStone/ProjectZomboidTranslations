@@ -22,4 +22,4 @@ But here are some previously found quirks:
 
 - It does **NOT** support Recorded_Media.
 - It fails to recognize keywords containing "=" correctly.
-- It fails to recognize multi-line keywords correctly. (You'll see the keyword ending with ".." instead of properly showing the next line)
+- It fails to recognize multi-line keywords correctly (You'll see the keyword ending with ".." instead of properly showing the next line).
