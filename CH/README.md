@@ -16,6 +16,10 @@ You should enter:
 
 ## 2. If you're using TranslationZed, keep the following quirks in mind
 
+- Since we changed CH encoding from Big5 to UTF-8, TranslationZed no longer works with CH translation.
+
+But here are some previously found quirks:
+
 - It does **NOT** support Recorded_Media.
 - It fails to recognize keywords containing "=" correctly.
 - It fails to recognize multi-line keywords correctly. (You'll see the keyword ending with ".." instead of properly showing the next line)
