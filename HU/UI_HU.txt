@@ -616,7 +616,7 @@ UI_mods_RequiredVersionMin = "Ehhez a módhoz szükség van a játék %1, vagy �
 UI_mods_RequiredVersionMax = "Ez A mód nem működik a játék %1 verziónál újabbakkal.",
 UI_mods_WorkshopRequiresSteam = "Kattints erre a gombra, hogy megnyisd az Indie Stone Módok fórumát a böngészőben.<br>További módok állnak rendelkezésre a Steam Műhelyben.",
 UI_ModsNagPanel_Title = "A módokról",
-UI_ModsNagPanel_Text = "A módokat a Project Zomboid közösség tagjai hozzák létre. Előfordulhat, hogy a játék korábbi verziójához létrehozott <BR> modok nem működnek újabb verziókkal. Ez különösen igaz az I-Will-Back-Up-My-Save (IWBUMS) változat futtatásakor. <BR> Ha hibákat találsz a Project Zomboid játékban, kérjük, próbáld ki a játékot módok használata nélkül, mielőtt jelentenéd a problémát a fórumunkon.",
+UI_ModsNagPanel_Text = "A módokat a Project Zomboid közösség tagjai hozzák létre. <BR> Előfordulhat, hogy a játék korábbi verziójához létrehozott módok nem működnek újabb verziókkal. Ez különösen igaz az I-Will-Back-Up-My-Save (IWBUMS) változat futtatásakor. <BR> Ha hibákat találsz a Project Zomboid játékban, kérjük, próbáld ki a játékot módok használata nélkül, mielőtt jelentenéd a problémát a fórumunkon.",
 UI_optionscreen_SandboxOptions = "Homokozó Mód beállítások",
 UI_Scoreboard_Kick = "Kidobás",
 UI_Scoreboard_Invisible = "Láthatatlan",
@@ -949,7 +949,7 @@ UI_Policy_Kick = "Ki vagy rúgva erről a szerverről.",
     --
 UI_GameLoad_UnexpectedError1 = "Sajnáljuk, váratlan hiba történt.",
 UI_GameLoad_UnexpectedError2 = "A következő fájl hasznos információkat tartalmazhat a hibáról:",
-UI_GameLoad_HowToExit = "A játékból való kilépéshez nyomja meg az Escape, vagy az egér bal gombját."
+UI_GameLoad_HowToExit = "A játékból való kilépéshez nyomd meg az Esc-et, vagy az egér bal gombját."
 UI_GameLoad_MapDownloadFailed = "Nem sikerült letölteni a térképet a kiszolgálóról.",
 UI_GameLoad_KickChecksum = "A játékfájlok nem egyeznek meg a kiszolgáló fájljaival.",
 UI_GameLoad_TimedOut = "Időtúllépés a kiszolgáló válaszára várva.",
@@ -1031,7 +1031,7 @@ UI_ServerSettings_ButtonAddRegion = "Régió hozzáadása",
 UI_ServerSettings_ButtonRemoveRegion = "Régió eltávolítása",
 UI_ServerSettings_ButtonEditRegion = "Fájl szerkesztése",
 UI_ServerSettings_ButtonEditRegion_tooltip1 = "A media/maps/ vagy más mappákban lévő fájlok nem szerkeszthetőek.",
-UI_ServerSettings_ButtonEditRegion_tooltip2 = "A fájlnévnek a "spawnpoints.lua" kifejezésre kell végződnie.",
+UI_ServerSettings_ButtonEditRegion_tooltip2 = "A fájl nevének a "spawnpoints.lua" kifejezésre kell végződnie.",
     -- Sandbox Presets
 UI_ServerSettingsGroup_SandboxPresets = "Elő beállítások",
 UI_ServerSettings_ListOfPresets = "Elő beállítások listája:",
@@ -1411,14 +1411,14 @@ UI_NewGame_Survivor_desc = "Erőteljes harc. Hosszabb élettartam. Kihívó ját
 UI_NewGame_Builder = "Építő",
 UI_NewGame_Builder_desc = "A hangsúly az építésen, felfedezésen és kertészkedésen van. Nyugodtabb élmény.",
 UI_NewGame_Sandbox_desc2 = "Testre szabhatod magadnak a nehézséget és a játékstílust.",
-    UI_News_Anim3 = "<H1> Üdvözlünk a 41-es verzióban! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> For the best experience when playing multiplayer you are STRONGLY advised to play on whitelisted servers, or with your friends in co-op. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ",
-    UI_News_Anim = "<H1> WELCOME TO THE BUILD 41 PUBLIC BETA! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
-                    "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
-                    "<CENTRE> Some features have been temporarily disabled. <LINE><LINE> " ..
-                    "<CENTRE> If you have issues: don't get mad, get involved. Let us know on our forums.",
+UI_News_Anim3 = "<H1> ÜDVÖZLÜNK A 41-ES KIADÁSBAN! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> A legjobb élmény érdekében, amikor több játékos módban játszol, ERŐSEN tanácsos engedélylistán szereplő szervereken, vagy a barátaiddal co-op-ban játszani. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Kérjük, legyél megértő, amíg tökéletesítjük, javítjuk és csiszoljuk. <LINE><LINE> ",
+UI_News_Anim = "<H1> ÜDVÖZLÜNK A NYILVÁNOS 41-ES BÉTA KIADÁSBAN!! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Ez egy folyamatban lévő munka, a legnagyobb kódfrissítés verziója, ami a PZ-nek valaha is volt. <LINE><LINE> " ..
+                    "<CENTRE> Lehetnek benne hibák és egyensúlyi problémák. Az optimizálási fejlesztések folyamatban vannak. <LINE><LINE> " ..
+                    "<CENTRE> Néhány funkció ideiglenesen le vannak tiltva. <LINE><LINE> " ..
+                    "<CENTRE> Ha problémákba ütközöl: ne őrülj meg, vedd ki a részed. Tudasd velünk a fórumunkon.",
 UI_optionscreen_binding_Hotbar 1 = "Gyorsbillentyű 1",
 UI_optionscreen_binding_Hotbar 2 = "Gyorsbillentyű 2",
 UI_optionscreen_binding_Hotbar 3 = "Gyorsbillentyű 3",
