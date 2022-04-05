@@ -208,6 +208,7 @@ IGUI_EN = {
     IGUI_ItemCat_Corpse = "Corpse"
     IGUI_ItemCat_Devices = "Devices"
     IGUI_ItemCat_Electronics = "Electronics"
+    IGUI_ItemCat_Explosives = "Explosives"
     IGUI_ItemCat_FirstAid = "FirstAid"
     IGUI_ItemCat_Fishing = "Fishing"
     IGUI_ItemCat_Food = "Food"
