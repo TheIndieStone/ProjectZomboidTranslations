@@ -208,6 +208,7 @@ IGUI_CN = {
 	IGUI_ItemCat_Corpse = "尸体"
 	IGUI_ItemCat_Devices = "设备"
 	IGUI_ItemCat_Electronics = "电子器件"
+	IGUI_ItemCat_Explosives = "炸药"
 	IGUI_ItemCat_FirstAid = "急救"
 	IGUI_ItemCat_Fishing = "钓鱼"
 	IGUI_ItemCat_Food = "食物"
