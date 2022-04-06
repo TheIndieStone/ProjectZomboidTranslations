@@ -718,8 +718,6 @@ Moveables_CN = {
 	Pallet_With_Bricks = "砖块托盘",
 	Big_Wall_Spiffo = "斯皮福大壁纸",
 	Satellite_Dish = "卫星天线",
-	
-	--Add Text--
 	Female_Bust = "半身石像(女)",
 	Male_Bust = "半身石像(男)",
 	Painting = "油画",
