@@ -757,6 +757,11 @@ Moveables_CN = {
 	Chromatic_Accident_Painting = "色彩搭配油画",
 	Layout_I_Painting = "一号布局画",
 	Configuration_II_Painting = "二号配置画",
+	Corner_B_Counter = "转角柜台(右)",
+	Corner_A_Counter = "转角柜台(左)",
+	Middle_Counter = "转角柜台(中)",
+	
+	
 	
 }
 
