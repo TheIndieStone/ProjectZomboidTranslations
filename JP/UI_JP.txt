@@ -23,7 +23,6 @@ UI_JP = {
 	UI_mainscreen_InviteFormat = "ホストは、ゲーム内のフレンド招待画面で招待する必要があります。\n\n%1",
     UI_mainscreen_InviteFromSteamToNoSteam = "SteamではないクライアントはSteamサーバーに参加することができません。",
     UI_mainscreen_TutorialControllerWarn = "現在、チュートリアルはコントローラーでは動作しません。 <LINE> <LINE> とりあえずチュートリアルを始めてみますか?",
-
     -- Coop screen
     UI_coopscreen_title = "ホストサーバー",
 	UI_coopscreen_account_name = "アカウントユーザー名",
@@ -66,15 +65,18 @@ UI_JP = {
 	UI_optionscreen_SimpleClothingTextures2 = "ゾンビのみ",
 	UI_optionscreen_SimpleClothingTextures3 = "ゾンビとプレイヤー",
 
+    UI_optionscreen_SimpleClothingTextures_tt = "血液、汚れ、穴、あて布、が被服のテクスチャに追加されません。 この機能を有効にすると、テクスチャのメモリが節約され、パフォーマンスが向上する可能性があります。",
+	UI_optionscreen_SimpleWeaponTextures = "武器テクスチャの簡易表示",
+    UI_optionscreen_SimpleWeaponTextures_tt = "血液が武器のテクスチャに追加されません。 この機能を有効にすると、テクスチャのメモリが節約され、パフォーマンスが向上する可能性があります。",
+    UI_optionscreen_ModelTextureMipmaps = "モデルテクスチャのミップマップ",
+    UI_optionscreen_ModelTextureMipmaps_tt = "ズームアウトしたモデルに、より低解像度のテクスチャを使用します。これにより、パフォーマンスが向上する可能性がありますが、より多くのメモリを使用します。変更後は再起動が必要です。",
+    UI_optionscreen_lighting = "ライティング品質",
+    UI_optionscreen_lighting_fps = "ライティング更新",
+    UI_optionscreen_lighting_fps_tt = "1秒あたりのライティングの更新回数。",
+    UI_optionscreen_NewRoofHiding = "屋根を非表示",
+    UI_optionscreen_NewRoofHiding_tt = "プレイヤーを遮る建物の上層部をどのように隠すかを制御します。<br><br>はい: 個々の建物の上層部を非表示にします。<br>見た目は良くなりますが、メモリ使用量が増えパフォーマンスが低下します。<br><br>いいえ: すべての建物の上層部を非表示にします。<br>見た目は悪くなりますが、メモリ使用量が減りパフォーマンスが向上します。",
 
 
-	UI_optionscreen_SimpleClothingTextures_tt = "血液、破れた穴、布パッチなどが被服のテクスチャに追加されません。<br>これをゾンビもしくプレイヤーに適応するとテクスチャメモリが<br>節約されてパフォーマンスが向上する可能性があります。",
-
-
-
-	
-	
-	
 	UI_mainscreen_tutorial = "チュートリアル",
 	UI_mainscreen_beginner = "初心者モード",
 	UI_mainscreen_demoBtn = "デモモード",
@@ -83,12 +85,9 @@ UI_JP = {
 	UI_mainscreen_workshop = "WORKSHOP",
 
 
-	UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 <LINE><LINE><LINE> <CENTRE> 公式日本語翻訳者からのお知らせ! <LINE><LINE> <CENTRE> ※注意※ 非公式の日本語訳MODを導入した状態での動作を一切保証していません。 <LINE><LINE> <CENTRE> ",
+	UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 ",
 
-	--UI_mainscreen_version_steam = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください!  Steam バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.54 <2021年09月24日版>  ",
-	--UI_mainscreen_version = "※注意※ この公式日本語翻訳はIWBUMS版のテスト用です。正式リリース版(Build 40.xx)には導入しないでください!  バージョン：Build - %1   公式日本語翻訳バージョン：Build - 41.54 <2021年09月24日版>  ",
-
-	--UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。 <LINE><LINE><LINE> <CENTRE> 公式日本語翻訳者からのお知らせ! <LINE><LINE> <CENTRE> 最初に公式日本語翻訳MODのバージョンとゲームに組み込まれたを公式日本語訳 <LINE> <CENTRE> バージョンをご確認ください。MODバージョンよりもゲームに組み込まれた公式 <LINE> <CENTRE> 日本語翻訳が新しいバージョンの場合には、公式日本語翻訳MODを無効にしてく <LINE> <CENTRE> ださい。 <LINE><LINE> <CENTRE> ※注意※ 非公式の日本語訳MODを導入した状態での動作を一切保証していません。 <LINE><LINE> <CENTRE> ",
+	--UI_News_Anim = "<H1> ビルド41 パブリックベータへようこそ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE> <CENTRE> <SIZE:medium> これは、PZがこれまでに行った中で最も大規模で大きなコード変更を加えたバージョンです。 <LINE><LINE> <CENTRE> バグの発生とバランスに問題があります。現在も改善は継続中です。 <LINE><LINE> <CENTRE> 一部の機能は一時的に無効になっています。 <LINE><LINE> <CENTRE> 問題がある場合：怒らないで、フォーラムに参加してお知らせください。",
 	UI_Details = "詳細",
 	-- Intro (lua)
 	UI_Intro1 = "終末の時を迎えた",
@@ -98,9 +97,6 @@ UI_JP = {
 
 	UI_optionscreen_borderless = "ボーダーレスウィンドウ表示",
 
-
-	UI_optionscreen_lighting = "ライティング品質",
-	UI_optionscreen_lighting_fps = "秒間ライティングフレームレート",
 	UI_optionscreen_lighting_fps_tt = "秒間ライティングフレームレートの設定です。",
 	UI_optionscreen_needreboot = "設定を有効にするには、ゲームの再起動が必要です。",
 	UI_optionscreen_shadersunsupported = "ハードウェア非対応",
@@ -1200,8 +1196,7 @@ UI_JP = {
 	UI_GameLoad_KickChecksum = "あなたのゲームファイルがゲームサーバーと一致しないため、あなたはキックされました。",
 	UI_GameLoad_TimedOut = "ゲームサーバーの応答中にタイムアウトしました。",
 
-	UI_optionscreen_NewRoofHiding = "家屋の表示方法",
-	UI_optionscreen_NewRoofHiding_tt = "プレーヤーを隠す建物の屋根の表示方法を制御します。<br><br>はい：個々の建物の上位レベルの家屋をすべて表示にします。<br>見た目が良くなります。メモリ使用量が増えてパフォーマンスが低下することがあります。<br><br>いいえ：すべての建物の上位レベルの家屋を非表示にします。<br>見た目が悪くなります。メモリ使用量が減ってパフォーマンスが向上します。",
+
 	UI_ConfirmMonitorSettings_Prompt = "画面設定を保持しますか?",
 	UI_ConfirmMonitorSettings_RevertIn = "%1 秒後に元に戻します。",
 	UI_ServerWorkshopItemErrorDetail_VersionMismatch = "ゲームサーバーのバージョンが古く、ゲームサーバーを再起動する必要があります。<br>バージョンが古い場合は、Steamを再起動して最新バージョンを入手してください。",
@@ -1330,8 +1325,6 @@ UI_JP = {
 	UI_optionscreen_aim_outline = "エイムアウトライン",
 	UI_optionscreen_binding_ToggleLuaConsole = "コンソールパネル表示切り替え",
 
-	UI_optionscreen_SimpleWeaponTextures = "武器テクスチャの簡易表示",
-	UI_optionscreen_SimpleWeaponTextures_tt = "武器のテクスチャには血液が追加されません。<br>これをオンにするとテクスチャメモリが節約され<br>パフォーマンスが向上する可能性があります。",
 	UI_optionscreen_CannotChangeWhileInGame = "ゲームプレイ中は変更できません。",
 	UI_optionscreen_FontSize = "フォントサイズ",
 	UI_optionscreen_FontSize0 = "標準",

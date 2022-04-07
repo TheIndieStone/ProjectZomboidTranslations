@@ -644,11 +644,11 @@ Sandbox_KO = {
 	Sandbox_PopulationPeakDay = "좀비 수량이 최고조로 차는 날",
 	Sandbox_PopulationPeakDay_help = "좀비 수량이 최대로 나오기 까지 걸리는 기간을 정할 수 있습니다.",
 
-	Sandbox_RespawnHours = "범위 내 재생성 시간",
-	Sandbox_RespawnHours_help = "좀비가 셀(300*300타일) 내에 재생성되는데 걸리는 시간. \n 0 의 경우는 재생성 없습니다.",
+	Sandbox_RespawnHours = "셀 내 재생성 시간 (주 설정)",
+	Sandbox_RespawnHours_help = "좀비가 각 셀(300*300타일) 내에 재생성되는데 걸리는 시간. \n 0 의 경우는 재생성 없습니다.",
 
-	Sandbox_RespawnUnseenHours = "범위 밖의 재생성 시간",
-	Sandbox_RespawnUnseenHours_help = "청크(10*10타일) 밖의 좀비가 재생성되는데 걸리는 시간.",
+	Sandbox_RespawnUnseenHours = "보이지 않는 청크의 재생성 시간 (세부 설정)",
+	Sandbox_RespawnUnseenHours_help = "플레이어의 최근 이동한 범위 내 좀비가 재생성되는걸 막아주는 시간입니다. 범위: 약 19청크, 기준: 청크(10*10타일)",
 
 	Sandbox_RespawnMultiplier = "좀비 재생성 배율",
 	Sandbox_RespawnMultiplier_help = "재생성 시간마다 셀(300*300타일) 내에 재생성되는 좀비 무리의 배율.",

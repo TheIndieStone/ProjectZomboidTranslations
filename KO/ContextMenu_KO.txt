@@ -505,4 +505,6 @@ ContextMenu_KO = {
 	ContextMenu_LitStoneFurnace = "석조 용광로",
 	ContextMenu_Remove_Logs = "통나무 제거하기",
 	ContextMenu_Furnace_Info = "용광로 정보",
+	ContextMenu_FillOne = "하나만 채우기",
+	ContextMenu_MergeAll = "모두 추가하기",
 }

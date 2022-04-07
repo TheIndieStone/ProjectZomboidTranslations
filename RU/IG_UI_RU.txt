@@ -139,6 +139,7 @@ IGUI_RU = {
 	IGUI_perks_Melting = "Плавильщик",
 	-- Item category
 	IGUI_ItemCat_Item = "Предмет",
+    	IGUI_ItemCat_Explosives = "Взрывчатка"
 	IGUI_ItemCat_Accessory = "Аксессуар"
 	IGUI_ItemCat_Ammo = "Боеприпасы"
 	IGUI_ItemCat_Appearance = "Внешность"

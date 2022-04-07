@@ -209,6 +209,7 @@ IGUI_JP = {
     IGUI_ItemCat_Corpse = "死骸"
     IGUI_ItemCat_Devices = "装置"
     IGUI_ItemCat_Electronics = "電気工学"
+    IGUI_ItemCat_Explosives = "爆発物"
     IGUI_ItemCat_FirstAid = "応急医療"
     IGUI_ItemCat_Fishing = "釣り"
     IGUI_ItemCat_Food = "食料"
