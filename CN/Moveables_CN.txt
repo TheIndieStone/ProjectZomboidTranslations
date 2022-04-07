@@ -760,7 +760,7 @@ Moveables_CN = {
 	Corner_B_Counter = "转角柜台(右)",
 	Corner_A_Counter = "转角柜台(左)",
 	Middle_Counter = "转角柜台(中)",
-	
+	Animal_Trough = "动物用槽",
 	
 	
 }
