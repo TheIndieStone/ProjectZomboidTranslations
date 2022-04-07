@@ -208,6 +208,7 @@ IGUI_CA = {
     IGUI_ItemCat_Corpse = "Cadàver",
     IGUI_ItemCat_Devices = "Dispositius",
     IGUI_ItemCat_Electronics = "Electrònica",
+    IGUI_ItemCat_Explosives = "Explosius"
     IGUI_ItemCat_FirstAid = "Primers auxilis",
     IGUI_ItemCat_Fishing = "Pesca",
     IGUI_ItemCat_Food = "Menjar",
