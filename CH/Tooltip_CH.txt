@@ -292,5 +292,5 @@ Tooltip_CH = {
     Tooltip_BookTitle_3 = "中級%1"
     Tooltip_BookTitle_5 = "進階%1"
     Tooltip_BookTitle_7 = "專家%1"
-    Tooltip_BookTitle_9 = "大師%1
+    Tooltip_BookTitle_9 = "大師%1"
 }
