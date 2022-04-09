@@ -375,4 +375,5 @@ Recipes_ES = {
 	Recipe_Sandwich_Baguette = "Bocadillo",
 	Recipe_Get_6_Muffins = "Tomar 6 muffins",
 	Recipe_HotDrinkTea = "Bebida caliente",
+	Recipe_Dismantle_Camera = "Desmontar cámara",
 }
