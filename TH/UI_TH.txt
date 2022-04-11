@@ -500,7 +500,7 @@ UI_TH = {
     UI_optionscreen_ConfirmPrompt = "มีการเปลี่ยนแปลงการตั้งค่า ต้องการใช้งานหรือไม่?",
     UI_optionscreen_blood_decals = "รอยเลือด",
     UI_optionscreen_CorpseShadows = "เงาของศพ",
-    UI_optionscreen_AutoDrink = "ดื่มน้ำอัตโนมัติเมื่อกระหาย",
+    UI_optionscreen_AutoDrink = "ดื่มน้ำเมื่อกระหายโดยอัตโนมัติ",
     UI_optionscreen_LeaveKeyInIgnition = "ทิ้งกุญแจรถไว้ในรูกุญแจ",
     UI_optionscreen_iso_cursor = "การมองเห็นตำแหน่งของเมาส์ เมื่อคลิกขวาค้างไว้",
     UI_optionscreen_ShowCursorWhileAiming = "แสดงเมาส์ขณะเล็ง",
@@ -1127,10 +1127,10 @@ UI_TH = {
     UI_optionscreen_voiceMode = "โหมดการพูดคุยด้วยเสียง",
     UI_optionscreen_voiceEnable = "ใช้การพูดคุยด้วยเสียง",
     UI_optionscreen_voiceRecordDevice = "อุปกรณ์บันทึกเสียง",
-    UI_optionscreen_voiceVADMode = "ระดับการตรวจจับเสียงพูดคุย",
+    UI_optionscreen_voiceVADMode = "โหมดตรวจจับเสียงพูด",
     UI_optionscreen_voiceAGCMode = "โหมดควบคุมอัตราขยายโดยอัตโนมัติ",
     UI_optionscreen_binding_Voice = " เสียง",
-    UI_optionscreen_binding_Enable voice transmit = "ปุ่ม Push-To-Talk",
+    UI_optionscreen_binding_Enable voice transmit = "ปุ่มกดเพื่อพูด",
     UI_PPT = "กดปุ่มเพื่อพูดคุย",
     UI_VAD = "ตรวจจับเสียง",
     UI_Mute = "ฟังอย่างเดียว",
@@ -1413,8 +1413,8 @@ UI_TH = {
     UI_NewGame_Builder_desc = "เน้นการก่อสร้าง การสำรวจ และการทำฟาร์ม เป็นประสบการณ์ที่ผ่อนคลายที่สุดของเกมนี้",
     UI_NewGame_Sandbox_desc2 = "ออกแบบ และกำหนดแนวทางการเล่นของตัวคุณเอง และเลือกตายในแบบที่คุณต้องการ...",
     UI_News_Anim3 = "<H1> ยินดีต้อนรับสู่บิลด์ 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> เพื่อประสบการณ์ที่ดีที่สุดเมื่อเล่นโหมดผู้เล่นหลายคน เราขอแนะนำให้คุณเล่นบนเซิร์ฟเวอร์ที่มีบัญชีขาวหรือเล่นกับเพื่อนของคุณในโหมดร่วมมือกันเล่น  <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> เรากำลังปรับปรุง แก้ไข และขัดเกลาให้ดีขึ้น โปรดเข้าใจด้วย <LINE><LINE> ",
+                    "<CENTRE> <SIZE:large> เพื่อประสบการณ์ที่ดีที่สุดเมื่อเล่นโหมดผู้เล่นหลายคน เราขอแนะนำให้คุณเล่นในเซิร์ฟเวอร์ที่มีบัญชีขาว หรือเล่นกับเพื่อนของคุณในโหมดร่วมมือกันเล่น  <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> เรากำลังปรับปรุง แก้ไข และพัฒนาให้ดีขึ้น ขอบคุณที่เข้าใจ <LINE><LINE> ",
     UI_News_Anim = "<H1> ยินดีต้อนรับสู่บิลด์ 41 รุ่นเบต้าสาธารณะ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  ..",
                     "<CENTRE> <SIZE:large> นี่เป็นเวอร์ชันระหว่างการพัฒนาของการอัปเดตโค้ดที่ใหญ่ที่สุดเท่าที่ PZ เคยมี <LINE><LINE> " ..
                     "<CENTRE> อาจมีบั๊กและปัญหาเรื่องความสมดุล การปรับปรุงเพื่อเพิ่มประสิทธิภาพอยู่ในระหว่างดำเนินการ  <LINE><LINE> " ..
