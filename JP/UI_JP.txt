@@ -64,7 +64,6 @@ UI_JP = {
 	UI_optionscreen_SimpleClothingTextures1 = "無効",
 	UI_optionscreen_SimpleClothingTextures2 = "ゾンビのみ",
 	UI_optionscreen_SimpleClothingTextures3 = "ゾンビとプレイヤー",
-
     UI_optionscreen_SimpleClothingTextures_tt = "血液、汚れ、穴、あて布、が被服のテクスチャに追加されません。 この機能を有効にすると、テクスチャのメモリが節約され、パフォーマンスが向上する可能性があります。",
 	UI_optionscreen_SimpleWeaponTextures = "武器テクスチャの簡易表示",
     UI_optionscreen_SimpleWeaponTextures_tt = "血液が武器のテクスチャに追加されません。 この機能を有効にすると、テクスチャのメモリが節約され、パフォーマンスが向上する可能性があります。",
@@ -75,8 +74,30 @@ UI_JP = {
     UI_optionscreen_lighting_fps_tt = "1秒あたりのライティングの更新回数。",
     UI_optionscreen_NewRoofHiding = "屋根を非表示",
     UI_optionscreen_NewRoofHiding_tt = "プレイヤーを遮る建物の上層部をどのように隠すかを制御します。<br><br>はい: 個々の建物の上層部を非表示にします。<br>見た目は良くなりますが、メモリ使用量が増えパフォーマンスが低下します。<br><br>いいえ: すべての建物の上層部を非表示にします。<br>見た目は悪くなりますが、メモリ使用量が減りパフォーマンスが向上します。",
-
-
+	UI_optionscreen_CannotChangeWhileInGame = "ゲーム中は変更できません。",
+    UI_optionscreen_needreboot = "変更後は再起動が必要です。",
+    UI_optionscreen_shaders2 = "ポストプロセス",
+    UI_optionscreen_shadersunsupported = "ハードウェア未対応です",
+	UI_optionscreen_resolution = "解像度",
+	UI_optionscreen_zoom = "ズームの有効",
+    UI_optionscreen_zoomlevels = "ズームレベル",
+    UI_optionscreen_autozoom = "自働ズーム",
+	UI_optionscreen_panCameraWhileAiming = "エイムしながらカメラをパンする",
+    UI_optionscreen_panCameraWhileDriving = "運転中にカメラをパンする",
+    UI_optionscreen_chat_transparency = "チャットの透明度",
+    UI_optionscreen_chat_transparency_tt = "マルチプレイのチャット画面にマウスが乗っていない時の透明度を調整します。",
+    UI_optionscreen_player1 = "プレイヤー 1",	
+    UI_optionscreen_player2 = "プレイヤー 2",
+    UI_optionscreen_player3 = "プレイヤー 3",
+    UI_optionscreen_player4 = "プレイヤー 4",	
+    UI_optionscreen_FontSize = "フォントサイズ",																																																																							  
+    UI_optionscreen_FontSize0 = "標準",
+    UI_optionscreen_FontSize1 = "1x",
+    UI_optionscreen_FontSize2 = "2x",
+    UI_optionscreen_FontSize3 = "3x",
+    UI_optionscreen_FontSize4 = "4x",
+	
+	
 	UI_mainscreen_tutorial = "チュートリアル",
 	UI_mainscreen_beginner = "初心者モード",
 	UI_mainscreen_demoBtn = "デモモード",
@@ -95,13 +116,7 @@ UI_JP = {
 	UI_Intro3 = "これはあなたが如何にして死ぬかの物語である",
 	-- Option screen (lua)
 
-	UI_optionscreen_borderless = "ボーダーレスウィンドウ表示",
 
-	UI_optionscreen_lighting_fps_tt = "秒間ライティングフレームレートの設定です。",
-	UI_optionscreen_needreboot = "設定を有効にするには、ゲームの再起動が必要です。",
-	UI_optionscreen_shadersunsupported = "ハードウェア非対応",
-	UI_optionscreen_resolution = "解像度",
-	UI_optionscreen_zoom = "ズームの有効",
 	UI_optionscreen_inventory_font = "インベントリのフォントサイズ",
     UI_optionscreen_InventoryContainerSize = "インベントリコンテナのボタンサイズ",
 	UI_optionscreen_clock_format = "日時表示方式",
@@ -131,11 +146,6 @@ UI_JP = {
 	UI_optionscreen_easy = "初心者モード",
 	UI_optionscreen_normal = "通常モード",
 	UI_optionscreen_hardcore = "リアルモード",
-	UI_optionscreen_autozoom = "自動ズーム",
-	UI_optionscreen_player1 = "プレイヤー 1",
-	UI_optionscreen_player2 = "プレイヤー 2",
-	UI_optionscreen_player3 = "プレイヤー 3",
-	UI_optionscreen_player4 = "プレイヤー 4",
 
 	UI_NewGame_SurvivalMore = " - おすすめのZomboid体験",
 	UI_NewGame_OneWeekLater = "一週間後",
@@ -587,9 +597,6 @@ UI_JP = {
 	UI_optionscreen_binding_Combat = "戦闘",
 
 
-
-
-	UI_optionscreen_zoomlevels = "拡大レベル",
 	UI_mods_Done = "完了",
 	UI_mods_Explaination = "ダブルクリックして切り替えます。",
 	UI_mods_GetModsHere = "SteamワークショップでMODを検索",
@@ -752,7 +759,7 @@ UI_JP = {
 	UI_BloodDecals8 = "80 %",
 	UI_BloodDecals9 = "90 %",
 	UI_BloodDecals10 = "100 %",
-
+	UI_optionscreen_borderless = "ボーダーレスウィンドウ表示",
 	UI_optionscreen_borderless_tt = "設定を有効にするには、ゲームの再起動が必要です。",
 	UI_optionscreen_ambient_volume = "環境音の音量",
 	UI_optionscreen_binding_Toggle mode = "トグル切替",
@@ -1156,8 +1163,6 @@ UI_JP = {
 	UI_optionscreen_binding_Vehicle horn = "クラクション",
 	UI_Vehicle_HeaterNeedKey = "エンジンを始動させるか、車両のキーを入れてヒーター/クーラーを始動させます。",
 	UI_Vehicle_WindowOpen = "窓を開けていると効果が低下します。",
-	UI_optionscreen_chat_transparency = "チャットウィンドウ透明度",
-	UI_optionscreen_chat_transparency_tt = "マウスがチャットウィンドウ上に無い時の透明性を調整します。",
 	UI_optionscreen_tooltip_font = "ツールチップのフォントサイズ",
 	UI_mapspawn_Safehouse = "セーフハウス",
 	UI_ServerOptionDesc_AddVehicle = "新しい車両を配置する場合: /addvehicle \"script\" \"user or x,y,z\", ex /addvehicle \"Base.VanAmbulance\" \"rj\"",
@@ -1187,8 +1192,7 @@ UI_JP = {
 	UI_ServerOption_DisableRadioOverseer_tooltip = "チェックボックスを有効にすると、「overseer」アクセスレベルのプレイヤーからの無線送信を無効にします。",
 	UI_ServerOption_DisableRadioModerator_tooltip = "チェックボックスを有効にすると、「moderator」アクセスレベルのプレイヤーからの無線送信を無効にします。",
 	UI_ServerOption_DisableRadioInvisible_tooltip = "チェックボックスを有効にすると、見えないプレーヤーからの無線送信を無効にします。",
-	UI_optionscreen_panCameraWhileAiming = "エイムしながらカメラをパンする",
-    UI_optionscreen_panCameraWhileDriving = "運転中にカメラをパンする",
+
 	UI_optionscreen_vehicle_engine_volume = "車両エンジン音量",
 	UI_optionscreen_vehicle_engine_volume_tt = "車両エンジン音の再生音量を設定します。",
 	UI_NewsVersion = "バージョン",
@@ -1249,7 +1253,7 @@ UI_JP = {
 	UI_chat_context_enable = "有効",
 	UI_servers_needPwd = "アカウントを保護するために、パスワードを入力してください。",
 	UI_has_no_right_to_execute_command = "プレーヤー '%1'は、'%2'コマンドを実行する権利がありません。",
-	UI_optionscreen_shaders2 = "ポストプロセッシング",
+
 	UI_OnConnectFailed_NonAsciiCharacters = "ユーザー名にASCII以外の文字コードが含まれています。",
 	UI_ServerOption_AllowNonAsciiUsername =  "非ASCIIユーザ名を許可する",
 	UI_ServerOption_AllowNonAsciiUsername_tooltip = "ユーザー名にASCII(キリル文字)以外の文字コードを使用するかどうかを指定します。",
@@ -1326,12 +1330,7 @@ UI_JP = {
 	UI_optionscreen_binding_ToggleLuaConsole = "コンソールパネル表示切り替え",
 
 	UI_optionscreen_CannotChangeWhileInGame = "ゲームプレイ中は変更できません。",
-	UI_optionscreen_FontSize = "フォントサイズ",
-	UI_optionscreen_FontSize0 = "標準",
-	UI_optionscreen_FontSize1 = "x1倍",
-	UI_optionscreen_FontSize2 = "x2倍",
-	UI_optionscreen_FontSize3 = "x3倍",
-	UI_optionscreen_FontSize4 = "x4倍",
+
 	UI_optionscreen_aim_outline_tt = "プレイヤーが武器で狙いをつけている<br>ゾンビにハイライトします。",
 	UI_optionscreen_zombie_update_optimization = "ゾンビ更新頻度の低減",
 	UI_optionscreen_zombie_update_optimization_tt = "視界外にいるゾンビの更新頻度が少なくなります。<br>処理パフォーマンスが向上します。",

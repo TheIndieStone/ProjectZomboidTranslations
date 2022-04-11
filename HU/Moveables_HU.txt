@@ -388,7 +388,7 @@ Medicine_Cabinet = "Gyógyszeres Szekrény",
 Mediocre_Large_Table = "Házilag készített Nagy Asztal",
 Medium_Table = "Házilag készített asztal fiókkal",
 Merry_Go_Round = "Körhinta",
-    Metal_Drum = "Metal Drum",
+Metal_Drum = "Fém Hordó",
 Metal_Locker = "Fém Öltözőszekrény",
 Metal_Wall_Shelves = "Fém Fali Polc",
 Middle_Evangelical_Banner = "Közepes Evangélikus Zászló",
@@ -722,7 +722,7 @@ Modern_Washing_Machine = "Modern Mosógép???",
     Violet_Flowers = "Ibolya1???",
 
     -- v41.68
-	-- Átnézve 2022.03.29
+	-- Átnézve 2022.04.07
 	-- Megjegyzés:
 	-- Oven: Sütők Tűzhelyekre átírva.
 	-- Egészet érdemes átnézni, még nem 100%!

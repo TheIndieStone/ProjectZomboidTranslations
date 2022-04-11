@@ -192,7 +192,7 @@ Sandbox_ErosionSpeed_option4 = "Lassú (200 nap)",
 Sandbox_ErosionSpeed_option5 = "Nagyon lassú (500 nap)",
 Sandbox_ErosionDays = "Erózió üteme:",
 Sandbox_ErosionDays_tooltip = "Napok száma a 100%-os érték eléréséig.\n-1: nincs növekedés.\nNulla: az ERÓZIÓ GYORSASÁGA beállítás érvényesül.\nMaximum: 36,500 (100 év).",
-Sandbox_FarmingSpeed = "Kertészkedés gyorsasága:",
+Sandbox_FarmingSpeed = "Gazdálkodás gyorsasága:",
 Sandbox_FarmingSpeed_tooltip = "Szabályozza a növények növekedésének gyorsaságát.",
 Sandbox_FarmingSpeed_option1 = "Nagyon gyors",
 Sandbox_FarmingSpeed_option2 = "Gyors",
@@ -353,7 +353,7 @@ Sandbox_PlantResilience_option2 = "Magas",
 Sandbox_PlantResilience_option3 = "Normál",
 Sandbox_PlantResilience_option4 = "Alacsony",
 Sandbox_PlantResilience_option5 = "Nagyon alacsony",
-Sandbox_PlantAbundance = "Kertészkedés hatékonysága:",
+Sandbox_PlantAbundance = "Gazdálkodás hatékonysága:",
 Sandbox_PlantAbundance_tooltip = "Szabályozza a növények termését, amikor leszedik.",
 Sandbox_EnduranceRegen = "Állóképesség regenerálódás",
 Sandbox_EnduranceRegen_tooltip = "A műveletek végrehajtása utáni fáradásból való helyreállás.",
@@ -632,9 +632,9 @@ Sandbox_ZSmell_option3 = "Gyenge",
 
 
     -- v41.68
-	-- Átnézve 2022.02.24
+	-- Átnézve 2022.04.07
 	-- Megjegyzés:
-	-- Egységesíteni kellezeket: Controls, governs: Szabályozza
+	-- Egységesíteni kell ezeket: Controls, governs: Szabályozza
 	-- Át kell nézni az egészet!
 
 }

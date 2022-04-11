@@ -136,7 +136,7 @@ Recipe_Make_Letter_Opener = "Levélnyitó készítés",
 Recipe_Make_Maki = "Maki Sushi készítése",
 Recipe_Make_Mattress = "Matrac készítés",
 Recipe_Make_Metal_Bar = "Fémrúd készítés",
-Recipe_Make_Metal_Drum = "Fémhordó készítés",
+Recipe_Make_Metal_Drum = "Fém Hordó készítés",
 Recipe_Make_Metal_Pipe = "Fémcső készítés",
 Recipe_Make_Metal_Sheet = "Fémlemez készítés",
 Recipe_Make_Mildew_Cure = "Penészirtó készítés",
@@ -329,8 +329,8 @@ Recipe_Make Small Metal Sheet = "Kicsi Fémlap készítése",
 
 
     -- v41.68
-	-- Átnézve 2021.03.23
+	-- Átnézve 2021.04.07
 	-- Egész átnézve, még nem 100%!
-	-- Maradt fordítandó, játék közben kell ellenőrizni.
+	-- Maradt fordítani való, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!
 }
