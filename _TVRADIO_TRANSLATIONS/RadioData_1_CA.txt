@@ -10,16 +10,16 @@
 [Translations]
 
 	//0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
-	// last record = Soldats de l'exèrcit dels EUA que fa quatre dies esperaven per partir cap a l'estranger des de les seves bases militars.
-	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Soldats de l'exèrcit dels EUA que fa quatre dies esperaven per partir cap a l'estranger des de les bases militars...
+	// last record = Soldats de l'exÃ¨rcit dels EUA que fa quatre dies esperaven per partir cap a l'estranger des de les seves bases militars.
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Soldats de l'exÃ¨rcit dels EUA que fa quatre dies esperaven per partir cap a l'estranger des de les bases militars...
 
 	//1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
-	// last record = És el tercer dia de l'evacuació de Knox.
-	7627222d-39a5-42bc-9d4d-f3a32a538f27 = És el tercer dia de l'evacuació de Knox.
+	// last record = Ã‰s el tercer dia de l'evacuaciÃ³ de Knox.
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Ã‰s el tercer dia de l'evacuaciÃ³ de Knox.
 
 	//2. ORIGINAL [#FF00B050]: When I asked whether the military sensitivity of the region...
-	// last record = Quan li vaig preguntar si la sensibilitat militar de la regió...
-	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Quan li vaig preguntar si la sensibilitat militar de la regió...
+	// last record = Quan li vaig preguntar si la sensibilitat militar de la regiÃ³...
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Quan li vaig preguntar si la sensibilitat militar de la regiÃ³...
 
 	//3. ORIGINAL [#FF00B050]: LBMW ask the questions...
 	// last record = La LBMW fa les preguntes..
@@ -33,8 +33,8 @@
 	fe80180c-2253-456a-bb7e-75bb249da8ba = I sobre la campanya de desprestigi que ha crescut sobre l'anomenat 'Suces de Knox'.
 
 	//6. ORIGINAL [#FF7030A0]: But there's still no official word on the true danger of the biological threat.
-	// last record = Però encara no hi ha anunci oficial sobre el veritable perill de l'amenaça biològica...
-	3fb56972-8f69-4657-b2c2-f11c96615ee9 = Però encara no hi ha anunci oficial sobre el veritable perill de l'amenaça biològica.
+	// last record = PerÃ² encara no hi ha anunci oficial sobre el veritable perill de l'amenaÃ§a biolÃ²gica...
+	3fb56972-8f69-4657-b2c2-f11c96615ee9 = PerÃ² encara no hi ha anunci oficial sobre el veritable perill de l'amenaÃ§a biolÃ²gica.
 
 	//7. ORIGINAL [Black]: <bzzt> <fzzt>
 	// last record = *bzzt* *fzzt*
@@ -57,11 +57,11 @@
 	d37f1120-58df-4e90-87a7-213c1279927d = <tos> Estic acabat. Passi el que passi...
 
 	//12. ORIGINAL [Black]: *distant explosion*
-	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *explosió llunyana*
+	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *explosiÃ³ llunyana*
 
 	//13. ORIGINAL [#FF7030A0]: Warning shots.
-	// last record = Trets d'advertència.
-	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Trets d'advertència.
+	// last record = Trets d'advertÃ¨ncia.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Trets d'advertÃ¨ncia.
 
 	//14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
 	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] If I could say... [img=music]
@@ -91,7 +91,7 @@
 	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] Do... [img=music]
 
 	//23. ORIGINAL [#FF7030A0]: [img=music] You just know, right where I'll be. [img=music]
-	// last record = Ya sabes dónde estaré
+	// last record = Ya sabes dÃ³nde estarÃ©
 	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] You just know, right where I'll be. [img=music]
 
 	//24. ORIGINAL [#FF7030A0]: [img=music] Just turn around. It's me you'll see. [img=music]
@@ -123,45 +123,45 @@
 	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] My boy once asked me, before he went away. [img=music]
 
 	//33. ORIGINAL [#FF7030A0]: A military perimeter set up almost overnight.
-	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = Un perímetre militar instaurat de la nit al dia.
+	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = Un perÃ­metre militar instaurat de la nit al dia.
 
 	//34. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
-	4f5162dd-e620-40e0-813e-2841fd354881 = Jo també estaria confós si em despertés i algú hagués construït un cordó militar al meu voltant!
+	4f5162dd-e620-40e0-813e-2841fd354881 = Jo tambÃ© estaria confÃ³s si em despertÃ©s i algÃº haguÃ©s construÃ¯t un cordÃ³ militar al meu voltant!
 
 	//35. ORIGINAL [#FF00B050]: So let's support our boys, people.
-	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Així que donem suport als nostres nois, gent.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = AixÃ­ que donem suport als nostres nois, gent.
 
 	//36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
 	// last record = 'No hem estat preparats durant molt de temps'.
 	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = 'No hem estat preparats durant molt de temps.'
 
 	//37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
-	// last record = La gent no sap què fer, i els militars no saben què fer amb ells.
-	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = La gent no sap què fer, i els militars no saben què fer amb ells.
+	// last record = La gent no sap quÃ¨ fer, i els militars no saben quÃ¨ fer amb ells.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = La gent no sap quÃ¨ fer, i els militars no saben quÃ¨ fer amb ells.
 
 	//38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
-	// last record = L'Exèrcit està invertint el seu temps a assegurar-se que estem fora de perill.
-	3433cccb-5d67-467b-89f2-bcb69677b093 = L'Exèrcit està invertint el seu temps a assegurar-se que estem fora de perill.
+	// last record = L'ExÃ¨rcit estÃ  invertint el seu temps a assegurar-se que estem fora de perill.
+	3433cccb-5d67-467b-89f2-bcb69677b093 = L'ExÃ¨rcit estÃ  invertint el seu temps a assegurar-se que estem fora de perill.
 
 	//39. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
-	// last record = Seré capaç de donar més respostes.
-	a33a9161-878b-47fc-a084-549ee52bbc6a = Seré capaç de donar més respostes...
+	// last record = SerÃ© capaÃ§ de donar mÃ©s respostes.
+	a33a9161-878b-47fc-a084-549ee52bbc6a = SerÃ© capaÃ§ de donar mÃ©s respostes...
 
 	//40. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
-	// last record = A causa de l'amenaça de la propagació de l'Incident de Knox...
-	184e6db0-da2b-4262-abac-cc0dc1680fe1 = A causa de l'amenaça de la propagació de l'Incident de Knox...
+	// last record = A causa de l'amenaÃ§a de la propagaciÃ³ de l'Incident de Knox...
+	184e6db0-da2b-4262-abac-cc0dc1680fe1 = A causa de l'amenaÃ§a de la propagaciÃ³ de l'Incident de Knox...
 
 	//41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
-	// last record = Aquestes imatges mostren la batalla que s'ha produït avui entre joves emmascarats...
-	ce98252a-4e30-4532-b46e-bdf328380815 = Aquestes imatges mostren la batalla que s'ha produït avui entre joves emmascarats...
+	// last record = Aquestes imatges mostren la batalla que s'ha produÃ¯t avui entre joves emmascarats...
+	ce98252a-4e30-4532-b46e-bdf328380815 = Aquestes imatges mostren la batalla que s'ha produÃ¯t avui entre joves emmascarats...
 
 	//42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
 	// last record = Tropes a Times Square i tancs a Miami beach.
 	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = Tropes a Times Square i tancs a Miami beach.
 
 	//43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
-	// last record = Imatges horribles lliurades a la Triple-N, revelen la brutalitat dins de la Zona d'Exclusió.
-	da14d0d0-b5e4-493d-bc55-4424e50cd975 = Imatges horribles lliurades a la Triple-N, revelen la brutalitat dins de la Zona d'Exclusió.
+	// last record = Imatges horribles lliurades a la Triple-N, revelen la brutalitat dins de la Zona d'ExclusiÃ³.
+	da14d0d0-b5e4-493d-bc55-4424e50cd975 = Imatges horribles lliurades a la Triple-N, revelen la brutalitat dins de la Zona d'ExclusiÃ³.
 
 	//44. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
 	// last record = A la Triple N pensem el mateix que tu.
@@ -171,88 +171,88 @@
 	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = Si la febre no t'arriba...
 
 	//46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
-	// last record = Benvinguts a Talk the Night. Amb tu fins a l'alba! Sóc Dawn Stephenson.
-	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Benvinguts a Talk the Night. Amb tu fins a l'alba! Sóc Dawn Stevenson.
+	// last record = Benvinguts a Talk the Night. Amb tu fins a l'alba! SÃ³c Dawn Stephenson.
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Benvinguts a Talk the Night. Amb tu fins a l'alba! SÃ³c Dawn Stevenson.
 
 	//47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
 	// last record = ...em pregunto si van aprendre alguna cosa de Raleigh.
 	109f693d-3ebc-451d-97f0-4fd6d093f26e = Em pregunto si van aprendre alguna cosa de Raleigh.
 
 	//48. ORIGINAL [#FF7030A0]: Thank you Richard. Keep the reports coming.
-	// last record = Gràcies Richard. Segueix informant-nos quan tinguis més notícies.
-	3f18f815-7017-41b2-ad00-6ddea2a2b19d = Gràcies Richard. Segueix informant-nos quan tinguis més notícies.
+	// last record = GrÃ cies Richard. Segueix informant-nos quan tinguis mÃ©s notÃ­cies.
+	3f18f815-7017-41b2-ad00-6ddea2a2b19d = GrÃ cies Richard. Segueix informant-nos quan tinguis mÃ©s notÃ­cies.
 
 	//49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
-	// last record = La gent està malament, són presa del pànic i la confusió.
-	429d9b40-c818-4f7f-a07b-4931772fede1 = La gent està malament, són presa del pànic i la confusió.
+	// last record = La gent estÃ  malament, sÃ³n presa del pÃ nic i la confusiÃ³.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = La gent estÃ  malament, sÃ³n presa del pÃ nic i la confusiÃ³.
 
 	//50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
-	// last record = L'Incident de Knox ens té a tots en tensió.
-	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = L'Incident de Knox ens té a tots en tensió.
+	// last record = L'Incident de Knox ens tÃ© a tots en tensiÃ³.
+	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = L'Incident de Knox ens tÃ© a tots en tensiÃ³.
 
 	//51. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
-	// last record = Ens han dit que això és per 'eliminar qualsevol element de dubte'.
-	a5cd6429-d856-4662-9729-c9175f237540 = Ens han dit que això és per 'eliminar qualsevol element de dubte'...
+	// last record = Ens han dit que aixÃ² Ã©s per 'eliminar qualsevol element de dubte'.
+	a5cd6429-d856-4662-9729-c9175f237540 = Ens han dit que aixÃ² Ã©s per 'eliminar qualsevol element de dubte'...
 
 	//52. ORIGINAL [#FF00B050]: They don't want to risk more riots.
-	// last record = No volen córrer el risc de més disturbis.
-	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = No volen córrer el risc de més disturbis.
+	// last record = No volen cÃ³rrer el risc de mÃ©s disturbis.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = No volen cÃ³rrer el risc de mÃ©s disturbis.
 
 	//53. ORIGINAL [#FF7030A0]: FUCK THIS SHIT!
-	// last record = QUE S'EN VAJEN A FER LA MÀ!
-	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = QUE S'EN VAJEN A FER LA MÀ!
+	// last record = QUE S'EN VAJEN A FER LA MÃ€!
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = QUE S'EN VAJEN A FER LA MÃ€!
 
 	//54. ORIGINAL [#FFFFC000]: There were thousands of infected, and they left their mark.
 	// last record = Hi havia milers d'infectats i van deixar la seva marca.
 	20a8ee60-553a-45ce-add3-dbe20fd5555f = Hi havia milers d'infectats i van deixar la seva marca.
 
 	//55. ORIGINAL [#FFFFC000]: People who sustained infected attacks in yesterday's chaotic scenes.
-	// last record = Persones que van patir atacs d'infectats a les escenes caòtiques d'ahir.
-	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Persones que van patir atacs d'infectats a les escenes caòtiques d'ahir.
+	// last record = Persones que van patir atacs d'infectats a les escenes caÃ²tiques d'ahir.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Persones que van patir atacs d'infectats a les escenes caÃ²tiques d'ahir.
 
 	//56. ORIGINAL [#FFFFC000]: That can't be true.
 	// last record = No pot ser veritat.
 	de1a7a5c-e799-4a92-b942-d7683f46449a = No pot ser veritat.
 
 	//57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
-	// last record = La base de la meva fe és creure que hi ha un altre lloc.
-	47c01a90-d68e-483a-9271-24b7e7e60178 = ¡15.99, més enviament i embalatge!
+	// last record = La base de la meva fe Ã©s creure que hi ha un altre lloc.
+	47c01a90-d68e-483a-9271-24b7e7e60178 = Â¡15.99, mÃ©s enviament i embalatge!
 
 	//58. ORIGINAL [#FF7030A0]: You know why we're here...
-	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = Saps per què estem aquíí...
+	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = Saps per quÃ¨ estem aquÃ­Ã­...
 
 	//59. ORIGINAL [#FF00B050]: <sigh>
 	4d474699-6df3-4b02-beec-bdea6b0a8e55 = <sigh>
 
 	//60. ORIGINAL [#FFFFC000]: Take a trowel. A shovel... hell maybe even your bare hands.
 	// last record = Agafa un rasclet.
-	d5a7a459-120c-46d2-915a-84ba1453d013 = Agafa una pala de jardineria. Una pala... dimonis fins i tot les teves pròpies mans.
+	d5a7a459-120c-46d2-915a-84ba1453d013 = Agafa una pala de jardineria. Una pala... dimonis fins i tot les teves prÃ²pies mans.
 
 	//61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
-	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = Allà on vaig, els meus amics diuen 'Gràcies Doctor Cox'.
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = AllÃ  on vaig, els meus amics diuen 'GrÃ cies Doctor Cox'.
 
 	//62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
-	// last record = L'altre dia vaig pujar a una bàscula.
-	fc89eb09-6ed8-4d34-a175-19b234f583fc = L'altre dia vaig pujar a una bàscula...
+	// last record = L'altre dia vaig pujar a una bÃ scula.
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = L'altre dia vaig pujar a una bÃ scula...
 
 	//63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
-	// last record = ¡Quatre taulons, quatre claus, un pom i una frontissa!
-	dbaceec5-1ead-424d-809b-61a681de22c8 = ¡Quatre taulons, quatre claus, un pom i dues frontisses!
+	// last record = Â¡Quatre taulons, quatre claus, un pom i una frontissa!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Â¡Quatre taulons, quatre claus, un pom i dues frontisses!
 
 	//64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
 	// last record = Agafas tres trossos de fusta, o taulons.
 	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Agafas tres trossos de fusta, o fins i tot taulers.
 
 	//65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
-	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = ¡No tenia NI idea que Escandinàvia era un país tan GENIAL!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Â¡No tenia NI idea que EscandinÃ via era un paÃ­s tan GENIAL!
 
 	//66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
-	// last record = Com ho portes? Estàs al canal de Cuina!
-	85b904e0-14e3-4daf-b354-33a7eb31df83 = Com ho portes? Estàs al canal de Cuina!
+	// last record = Com ho portes? EstÃ s al canal de Cuina!
+	85b904e0-14e3-4daf-b354-33a7eb31df83 = Com ho portes? EstÃ s al canal de Cuina!
 
 	//67. ORIGINAL [#FFFFC000]: I'm shutting the whole Paranormal department down!
-	// last record = Tancaré tot el departament de fenòmens paranormals!
-	819bf863-8eaf-4521-a433-e2f536815951 = Tancaré tot el departament de fenòmens paranormals!
+	// last record = TancarÃ© tot el departament de fenÃ²mens paranormals!
+	819bf863-8eaf-4521-a433-e2f536815951 = TancarÃ© tot el departament de fenÃ²mens paranormals!
 
 	//68. ORIGINAL [#FF00B0F0]: [img=music] Jaunty music [img=music]
 	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] Jaunty music [img=music]
@@ -261,16 +261,16 @@
 	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] Orchestral music [img=music]
 
 	//70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
-	// last record = Dr. Oids és la darrera superproducció per a la gran pantalla...
-	4e76091e-9469-4004-9b8e-066d57cd91bc = Dr.Oids és la darrera superproducció per a la gran pantalla...
+	// last record = Dr. Oids Ã©s la darrera superproducciÃ³ per a la gran pantalla...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = Dr.Oids Ã©s la darrera superproducciÃ³ per a la gran pantalla...
 
 	//71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
 	// last record = Com es va preparar per al paper com Dr. Oids?
 	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Com es va preparar per al paper com Dr.Oids?
 
 	//72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
-	// last record = Dr. Oids ja és al cinema!
-	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = Dr. Oids ja és al cinema, amics
+	// last record = Dr. Oids ja Ã©s al cinema!
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = Dr. Oids ja Ã©s al cinema, amics
 
 	//73. ORIGINAL [Black]: *bang!* *bang*
 	// last record = <bang> <bang>
@@ -281,62 +281,62 @@
 	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *Aplaudiments a la sala*
 
 	//75. ORIGINAL [#FF00B050]: Paul, you're on 2000 dollars! Well done!
-	// last record = Paul, tens 2000 dòlars. Ben fet!
-	c0402817-3eb0-46ca-b709-64ae6638e745 = ¡Paul, tens 2000 dòlars. Ben fet!
+	// last record = Paul, tens 2000 dÃ²lars. Ben fet!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = Â¡Paul, tens 2000 dÃ²lars. Ben fet!
 
 	//76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
-	// last record = Per 3000 dòlars: la resposta és 'Newcastle'
-	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Per 3000 dòlars: la resposta és 'Newcastle'.
+	// last record = Per 3000 dÃ²lars: la resposta Ã©s 'Newcastle'
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Per 3000 dÃ²lars: la resposta Ã©s 'Newcastle'.
 
 	//77. ORIGINAL [#FF00B050]: Robert Johnson, you're on 1000 dollars! Well done!
-	// last record = Robert Johnson, tens 1000 dòlars! Ben fet!
-	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Robert Johnson, tens 1000 dòlars! Ben fet!
+	// last record = Robert Johnson, tens 1000 dÃ²lars! Ben fet!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Robert Johnson, tens 1000 dÃ²lars! Ben fet!
 
 	//78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
-	c9b01cec-94a2-4fb0-95d2-0677e237538f = Veig que l'idiota que va llançar l'Arxiduc OldWorld a l'Abisme de Caos està entre nosaltres?
+	c9b01cec-94a2-4fb0-95d2-0677e237538f = Veig que l'idiota que va llanÃ§ar l'Arxiduc OldWorld a l'Abisme de Caos estÃ  entre nosaltres?
 
 	//79. ORIGINAL [Red]: Sponsored by Spiffo's?!
-	980e2e5d-fb55-417d-a38d-7d08838abdaf = ¡Patrocinat per Spiffo's!
+	980e2e5d-fb55-417d-a38d-7d08838abdaf = Â¡Patrocinat per Spiffo's!
 
 	//80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
-	a706a64e-f46a-407f-b853-91c7e0b607bf = I Zachary, vols jugar al balancí?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = I Zachary, vols jugar al balancÃ­?
 
 	//81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
-	// last record = Aquest elegant joc de fondue suís? 33.99 dòlars.
-	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Aquest elegant joc de fondue suís? 33.99 dòlars.
+	// last record = Aquest elegant joc de fondue suÃ­s? 33.99 dÃ²lars.
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Aquest elegant joc de fondue suÃ­s? 33.99 dÃ²lars.
 
 	//82. ORIGINAL [Yellow]: I... Die!
-	72ff543a-10c4-409f-a7c2-9603dc521c11 = ¡Me... morc!
+	72ff543a-10c4-409f-a7c2-9603dc521c11 = Â¡Me... morc!
 
 	//83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
-	a44a5560-5f13-4575-9cd4-9a931123f3fd = Moley el Talp? No té un nas adorable?
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = Moley el Talp? No tÃ© un nas adorable?
 
 	//84. ORIGINAL [#FF00B050]: Let's help your little friend here...
 	// last record = Ajudem al teu petit amiguet...
 	845988d3-0acf-464a-952e-b0b05050ad46 = Ajudem al teu petit amiguet...
 
 	//85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
-	// last record = 15.99 dòlars, més transport i embalatge.
-	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15.99 dòlars, més transport i embalatge.
+	// last record = 15.99 dÃ²lars, mÃ©s transport i embalatge.
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15.99 dÃ²lars, mÃ©s transport i embalatge.
 
 	//86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
-	// last record = NOMÉS DEMANO QUE QUAN S'OSCUREIXI EL CEL, EM RECORDEN.
-	4f019495-c989-495d-8c31-ed833ef9c7e7 = NOMÉS DEMANO QUE QUAN S'OSCUREIXI EL CEL, EM RECORDEN.
+	// last record = NOMÃ‰S DEMANO QUE QUAN S'OSCUREIXI EL CEL, EM RECORDEN.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = NOMÃ‰S DEMANO QUE QUAN S'OSCUREIXI EL CEL, EM RECORDEN.
 
 	//87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
-	3707534c-49f2-4dc1-bbff-6ef689a945e7 = Flufflyfoot el Conill Esponjós? Has vist mai un conill tan deliciosament esponjós?
+	3707534c-49f2-4dc1-bbff-6ef689a945e7 = Flufflyfoot el Conill EsponjÃ³s? Has vist mai un conill tan deliciosament esponjÃ³s?
 
 	//88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
-	// last record = La LBMW aquest matí ens diu que romanguem 'a casa'.
-	1046a459-6ead-4145-acc5-192fa0e4398d = La LBMW aquest matí ens diu que romanguem 'a casa'.
+	// last record = La LBMW aquest matÃ­ ens diu que romanguem 'a casa'.
+	1046a459-6ead-4145-acc5-192fa0e4398d = La LBMW aquest matÃ­ ens diu que romanguem 'a casa'.
 
 	//89. ORIGINAL [#FF00B050]: You'll just need to find a way to distract the...
-	// last record = Només necessita trobar la forma de distreure-la...
-	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Només necessita trobar la forma de distreure-la...
+	// last record = NomÃ©s necessita trobar la forma de distreure-la...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = NomÃ©s necessita trobar la forma de distreure-la...
 
 	//90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
-	// last record = Bé, ja sé on anar.
-	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Bé, ja sé on anar!
+	// last record = BÃ©, ja sÃ© on anar.
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = BÃ©, ja sÃ© on anar!
 
 	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
 	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = Vine a 'I *heart* Wok and Rolls' avui!
@@ -345,19 +345,19 @@
 	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] Do the robot dance [img=music]
 
 	//93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
-	// last record = Dr. Oids, per a tots els públics.
-	75fa01e1-5c17-493a-b539-1d009ade45f2 = Dr. Oids, per a tots els públics.
+	// last record = Dr. Oids, per a tots els pÃºblics.
+	75fa01e1-5c17-493a-b539-1d009ade45f2 = Dr. Oids, per a tots els pÃºblics.
 
 	//94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
-	// last record = Gràcies per demanar als metges de família que recomanen: Incontileve
-	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = Gràcies per demanar als metges de família que recomanen: Incontileve.
+	// last record = GrÃ cies per demanar als metges de famÃ­lia que recomanen: Incontileve
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = GrÃ cies per demanar als metges de famÃ­lia que recomanen: Incontileve.
 
 	//95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
-	// last record = Sóc Joe McKenzie i dirigeixo el ranxo de Knox Country.
-	77383a36-ae45-466d-9c4c-78c036d2862f = Sóc Joe McKenzie i dirigeixo el ranxo de Pony Roam-O de Knox Country.
+	// last record = SÃ³c Joe McKenzie i dirigeixo el ranxo de Knox Country.
+	77383a36-ae45-466d-9c4c-78c036d2862f = SÃ³c Joe McKenzie i dirigeixo el ranxo de Pony Roam-O de Knox Country.
 
 	//96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
-	// last record = Els cavalls són els millors animals que té la nostra nació.
-	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Cavalls: els millors animals que tenim a la nostra nació.
+	// last record = Els cavalls sÃ³n els millors animals que tÃ© la nostra naciÃ³.
+	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Cavalls: els millors animals que tenim a la nostra naciÃ³.
 
 [/Translations]

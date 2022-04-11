@@ -1,45 +1,34 @@
 Challenge_JP = {
-
-	-- Official Japanese Translation Data Information
-	-- Update history
-	-- Build-41.54
-	-- Date 09-24-2021
-	-- Translation by Falcon33jp (Koichi Takebe)
-	-- E-mail:falcon33jp@gmail.com
-
 	Challenge_YouHaveOneDay_name = "とある日",
-	Challenge_YouHaveOneDay_desc = "あなたは、ノックス郡で最初に感染症が始まった場所にいます。あなた <LINE> には、24時間の安全な時間があります。ゾンビは、膨大な数に到達しま <LINE> す。そして、彼らはあなたを見つけるはずです。 <LINE>  <LINE> PZ toolsetを使った 0.1.5 のゲームマップを再現した物です。 <LINE> 我々の感謝を作成者 BobHeckling 氏へ",
-
-	Challenge_Kingsmouth_name = "キングスマス島",
-	Challenge_Kingsmouth_desc = "キングスマス島でリラックスした滞在をお楽しみください！",
-
-	Challenge_Studio_name = "スタジオ",
-	Challenge_Studio_desc = "最高の映画が撮影される場所！",
+	Challenge_YouHaveOneDay_desc = "ノックスカントリーに帰ってきました。 <LINE> Project Zomboidの感染の発端となったマップに帰ってきたのです。 <LINE> <LINE> 比較的安全な1日が残されています。 <LINE> 膨大な数のゾンビが押し寄せあなたを探し出します。 <LINE> 最後の砦を構える場所はどこにしましたか? その昔、どこでラストスタンドをしましたか? <LINE> 一刻も早く見つけましょう。 <LINE> <LINE> [現在のPZツールセットで0.1.5の旧マップを再現した、 <LINE> コミュニティマッパーBobHecklingに感謝を申し上げます。]",
+																																																																																											 
+	Challenge_WinterIsComing_name = "寒波の到来",
+	Challenge_WinterIsComing_desc = "7月の中旬にも関わらず、突然肌寒い風が吹いてきました。 <LINE> あと3日もすれば未だかつてない冬が始まるのです。 <LINE> <LINE> あなたは孤立した場所で目を覚まします。 <LINE> わずかな物資のみを持ち合わせていますが、 <LINE> 生ける屍の大群は厳しい寒さにより動きが鈍るかもしれません。 <LINE> しかし、命を狙っていることには変わりないのです。 <LINE> <LINE> 生存者の方は十分に着こんでください...",
+																																																																																										
+	Challenge_OpeningHours_name = "営業時間",
+	Challenge_OpeningHours_desc = "ショッピングモールが包囲されました。 <LINE> その昔、そこは彼らの生活基盤でした。 <LINE> 本能がそのドアに足を向かわせます。 <LINE> 彼らがかつてしていたことの記憶...。 <LINE> <LINE> あなたはもう1人ではありません。午前9時にショッピングモールは営業準備が整います。ドアが開いて群衆がなだれ込むのです。 <LINE> <LINE> 備えましょう。",
 
 	Challenge_AReallyCDDAy_name = "A Really CD DA",
-	Challenge_AReallyCDDAy_desc = "あなたは、シャワーから出ると、崩れるようにベットに倒れた。あなた <LINE> は泥酔し、酷い風邪を引いている。そして、最悪なことに自分の家が燃 <LINE> えている！今日は、確実に運から見放されたようだ。",
+	Challenge_AReallyCDDAy_desc = "シャワーを浴びて酷く転倒しました。 <LINE> 泥酔し質の悪い風邪を引いています。 <LINE> 挙句の果てに家が燃えています! <LINE> <LINE> 今日は間違いなく神様から見放されています。 <LINE> <LINE> [このチャレンジは、A Really Bad Dayからの、 <LINE> 驚きでもあり素晴らしくもありプレイ必須である、 <LINE> Cataclysm: Dark Days Aheadに触発されたものです。]",
+	
+	Challenge_Challenge1_name = "森林の家 - ラストスタンド",
+	Challenge_Challenge1_desc = "彼らが迫っているのが聞こえます。 <LINE> 孤立した小屋に四方八方から生ける屍が襲来してきます。 <LINE> 死は避けられませんが、手元にはショットガンがあります。 <LINE> <LINE> ラストスタンドは、ゾンビの波が終わることなく増え続けます。 <LINE> 勝算がまったく無い状況で、悪足搔きをして生き延びてください。",
 
-	Challenge_WinterIsComing_name = "寒波の到来",
-	Challenge_WinterIsComing_desc = "あなたは、ノックス郡で最初に感染症が始まった場所にいます。あなた <LINE> 今は7月中旬。だが、突然の寒波がやって来た。たった3日で真冬のよう <LINE> な寒さが襲って来たのだ。あなたは、孤立した場所で目を覚めるが何も <LINE> 持っていない。彼らは寒くて動きが鈍いかも知れないが侮れない。 <LINE> 生き残るんだ...。",
-
-	Challenge_OpeningHours_name = "営業時間",
-	Challenge_OpeningHours_desc = "彼らにショッピングモールが囲まれた。その昔、彼らにとって生きて行 <LINE> 上でショッピングモールは記憶の中に残る重要な場所だった。彼らの本 <LINE> 能は、ショッピングモールのドアに足を向けさせていた。彼らが生きて <LINE> いた時の記憶... <LINE> ショッピングモールの自動ドアが午前9時になると自動で開く。 <LINE> そう... 彼らの群れがやって来るのだ。襲撃に備えろ！",
-
-	Challenge_Challenge1_name = "森の家 - 最後の抵抗",
-	Challenge_Challenge1_desc = "ゾンビは、短い間に急速に増え、あらゆる方向から襲って来る。襲撃に <LINE> 備えろ！あなたは、きっと死ぬことになるだろう。あなたは、ゾンビの <LINE> 群れにどの程度まで抵抗することができるのだろうか？ <LINE>  <LINE> 武器を手にするんだ... <LINE>  <LINE> 終わりがない、絶えずゾンビが増え続けるモード。 <LINE> あなたは、この世界で見つけられる限られたアイテムを使って可能な限 <LINE> り生き残れ！",
-
-	Challenge_Challenge2_name = "森の家 - 最後の抵抗 アキュムレータ",
-	Challenge_Challenge2_desc = "ゾンビは短い間に急速に増え、あらゆる方向から襲って来る。襲撃に <LINE> 備えろ！あなたは、きっと死ぬことになるだろう。あなたは、ゾンビ <LINE> の群れにどの程度まで抵抗することができるのだろうか？ <LINE>  <LINE> 武器を手にするんだ... <LINE>  <LINE> 一定時刻毎にゾンビが発生し、絶えずゾンビが増え続けるモード。 <LINE> ゾンビを倒せば、お金が入る。そのお金でアイテムを買い、アイテム <LINE> を修理し、経験値とレベルを上げろ。",
+	Challenge_Challenge2_name = "森林の家 - ラストスタンド アキュムレータ",
+	Challenge_Challenge2_desc = "今日もまた、血塗られる小屋が用意されています。 <LINE> 大群が押し寄せ、あなたの死は身の毛がよだつほど痛みを伴うでしょう。 <LINE> さあ、戦いに出かけましょう... <LINE> <LINE> ラストスタンド-アキュムレータは、 <LINE> ゾンビの波が終わることなく増え続けます。 <LINE> ゾンビを倒して得たお金で装備を購入し、 <LINE> レベルアップして血まみれの武器を修理しましょう。",
 
 	Challenge_AStormIsComing_name = "嵐の到来",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> 終わりのない悪天候を前に...",
+	Challenge_AStormIsComing_desc = "ケンタッキー州の上空に雲が集まり始めました。 <LINE> 雷鳴が遠くで轟くのが聞こえてきます。 <LINE> 空が暗くなるにつれて、 <LINE> 地上のよろめく死者は落ち着きを失いつつあります。 <LINE> <LINE> 猛威を振るう嵐は発達や減衰を繰り返しますが、 <LINE> 決して明けることはないでしょう。",
 
 	Challenge_TheDescendingFog_name = "舞い降りる霧",
-	Challenge_AStormIsComing_desc = "ケンタッキー州に雲が集まっている。遠くから雷鳴が聞こえ空が暗くな <LINE> るにつれて、地上の死者たちはざわめき始める。この嵐は、発達して凶 <LINE> 悪な嵐になり、決して終わらないだろう。",
-
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> それは霧になる...",
-	Challenge_TheDescendingFog_desc = "人々は、最初に水面でそれを見た。オハイオ川の水面に掛かった、かす <LINE> かな白い毛布。それは、やがて霧となり、町を包み込んだ。暗闇の中で <LINE> 町の人々の悲鳴。今、彼らはそこを徘徊している。目が見えず、耳が聞 <LINE> こえず、生きようとする探求は執念深い。",
-
+	Challenge_TheDescendingFog_desc = "人々が最初にそれを目にしたのは水面でした。 <LINE> オハイオ川にうっすらとかかる白い毛布。 <LINE> 最初はただの霧だったそれは、町を飲み込みました。 <LINE> <LINE> 暗がりの中からの住民の断末魔。今、一帯は彼らが徘徊してます。 <LINE> 奪われた視覚と聴覚が、無慈悲にも生を追い詰めます。",
+																		
+	Challenge_Kingsmouth_name = "キングスマス",
+	Challenge_Kingsmouth_desc = "キングスマス島でリラックスした滞在をお楽しみください!",
+	
+	Challenge_Studio_name = "スタジオ",
+	Challenge_Studio_desc = "最高の映画が撮影される場所です!",
+	-- On-screen UI
 	Challenge_Challenge2_PressKey = "'o' キーを押すことでメニュー画面が表示されます。メニュー内で武器やアイテムの購入、修理等ができます。",
 	Challenge_Challenge2_WaveStart = "ウェーブ 第 %1 波が開始されるまでの時間：%2 (Enterキーで待ち時間スキップ)",
 	Challenge_Challenge2_WaveDuration = "ウェーブ 第 %1 波 経過時間：%2",
@@ -49,29 +38,37 @@ Challenge_JP = {
 	Challenge_Challenge2_WaveFinished = "ウェーブ %1 クリアしたウェーブ：%2",
 	Challenge_Challenge2_MoneyGained = "獲得したお金：%1",
 	Challenge_Challenge2_XPGained = "獲得した経験値：%1",
+	-- Window	  
 	Challenge_Challenge2_WindowTitle = "メニュー",
 	Challenge_Challenge2_TabPlayer = "情報",
 	Challenge_Challenge2_Weapons = "武器",
 	Challenge_Challenge2_TabItems = "アイテム",
 	Challenge_Challenge2_TabRepair = "修理",
-	Challenge_Challenge2_Skills = "技能レベル",
-	Challenge_Challenge2_PermanentBonus = "ボーナス",
-	Challenge_Challenge2_Carpentry = "大工仕事",
-	Challenge_Challenge2_Health = "応急医療",
-	Challenge_Challenge2_ItemButton = "%1 - %2",
-	Challenge_Challenge2_ItemButton2 = "%1 x %2 - %3",
-	Challenge_Challenge2_RepairWeapon = "武器修理",
-	Challenge_OpeningHoursInfoBox = " <CENTRE> 午前9時に自動ドアが開く！ <LINE> <LINE> ゾンビの襲撃に備えろ...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> あと3日で終りのない冬が来る。",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> あと24時間でこの世の地獄が始まる...",
-	Challenge_Challenge2_CurrentXp = "経験値 : %1",
+	Challenge_Challenge2_CurrentXp = "経験値 : %1",											
 	Challenge_Challenge2_ButtonSkill = "%1 レベル %2 - %3 経験値",
-	Challenge_Challenge2_ButtonSkillMax = "%1 レベル上限",
+	Challenge_Challenge2_ButtonSkillMax = "%1 レベル上限",													
 	Challenge_Challenge2_GoldBonus = "所持金ボーナス",
 	Challenge_Challenge2_XpBonus = "経験値ボーナス",
 	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 経験値",
 	Challenge_Challenge2_ButtonBonusMax = "%1 上限",
 	Challenge_Challenge2_ButtonStartGold = "+%1 スタート時の所持金 - %2 XP",
-	Challenge_Challenge2_ButtonStartGoldMax = "スタート時の所持金上限 %1",
+	Challenge_Challenge2_ButtonStartGoldMax = "スタート時の所持金上限 %1",											   
+	-- PlayerUpWindow										   
+	Challenge_Challenge2_Skills = "スキルレベル",													 
+	Challenge_Challenge2_PermanentBonus = "ボーナス",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "大工仕事",
+	Challenge_Challenge2_Health = "応急医療",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x %2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "武器修理",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "応急医療",
 
+	Challenge_OpeningHoursInfoBox = " <CENTRE> 午前9時に自動ドアが開く! <LINE> <LINE> ゾンビの襲撃に備えろ...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> あと3日で終りのない冬が来る。",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> あと24時間でこの世の地獄が始まる...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> この先、果てしない悪天候が続く...",	
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> 霧が掛かっている...",	
 }

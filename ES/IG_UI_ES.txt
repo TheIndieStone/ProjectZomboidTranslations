@@ -1578,4 +1578,10 @@ IG_UI_ES = {
 	IGUI_SearchMode_Categories_WildPlants = "Plantas silvestres",
 	IGUI_FoodTemperatureNaming = "%2 (%1)",
 	IGUI_ContainerTitle_toolcabinet = "Armario de herramientas",
+	IGUI_SafehouseUI_ReleaseConfirm = "żRealmente quieres liberar este refugio?",
+	IGUI_SearchMode_Tip_SearchFocus_Title = "Enfoque de la búsqueda",
+	IGUI_SearchMode_Tip_SearchFocus_Text = "żBuscas algo concreto? Usa el enfoque de búsqueda para aumentar tus posibilidades de encontrar una categoría seleccionada.",
+	IGUI_Place3DItem_JoypadPosition = "Mantener + Joystick izquierdo para posicionar",
+	IGUI_Place3DItem_JoypadSurface = "Cambiar la superficie seleccionada",
+	IGUI_ItemCat_Explosives = "Explosivos",
 }

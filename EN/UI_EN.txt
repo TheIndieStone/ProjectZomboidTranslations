@@ -149,7 +149,7 @@ UI_EN = {
     UI_optionscreen_aim_outline1 = "None",
     UI_optionscreen_aim_outline2 = "Ranged Weapons",
     UI_optionscreen_aim_outline3 = "Any Weapon",
-    UI_optionscreen_aim_outline_tt = "Highlights zombies the player is aiming at."
+    UI_optionscreen_aim_outline_tt = "Highlights zombies the player is aiming at.",
     UI_optionscreen_zombie_update_optimization = "Tiered Zombie Updates",
     UI_optionscreen_zombie_update_optimization_tt = "Improves performance by updating out-of-sight zombies less frequently.",
     UI_optionscreen_ShowProgressBar = "Show overhead progress bars for all player actions.",
@@ -176,6 +176,7 @@ UI_EN = {
     UI_optionscreen_binding_Map = "Toggle Map",
     UI_optionscreen_Show_Item_Mod_Info = "Show mod info in item tooltip",
     UI_optionscreen_ShowSurvivalGuide = "Show the Survival Guide on startup",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "Enable left joystick radial menu",
     UI_ConfirmMonitorSettings_Prompt = "Keep these screen settings?",
     UI_ConfirmMonitorSettings_RevertIn = "Reverting in %1 seconds.",
     -- Map selecter (lua)
@@ -196,8 +197,8 @@ UI_EN = {
     UI_LoadGameScreen_NoModsTxt = "This savefile has no mods.txt, so it will use all currently-enabled mods.",
     UI_LoadGameScreen_ButtonChooseMods = "Choose Mods...",
     UI_LoadGameScreen_ChooseModsText = "You may change which mods this savefile uses. Changing mods now may break your game. Adding or removing maps is not supported.",
-    UI_LoadGameScreen_ChoosePlayer1 = "Choose player 1."
-    UI_LoadGameScreen_NoPlayer1 = "NONE"
+    UI_LoadGameScreen_ChoosePlayer1 = "Choose player 1.",
+    UI_LoadGameScreen_NoPlayer1 = "NONE",
     UI_LoadGameScreen_ButtonBrowseFiles = "Open File Location",
     UI_LoadGameScreen_BrowseFilesText = "Show this savefile's contents on your Desktop.",
     UI_LoadGameScreen_ButtonConfig = "MORE...",
@@ -993,6 +994,7 @@ UI_EN = {
     UI_ServerSettings_ButtonMoveUp = "Move Up",
     UI_ServerSettings_ButtonMoveUp_tooltip = "Maps closer to the top of the list have higher priority than maps lower down. If two maps overlap in the game world, areas of the higher-priority maps will be used.",
     UI_ServerSettings_ButtonMoveDown = "Move Down",
+    UI_ServerSettings_ButtonRemove = "Remove",
     -- Edit SpawnPoints File
     UI_ServerSettings_ListOfSpawnProfessions = "Professions:",
     UI_ServerSettings_ListOfSpawnPoints = "Spawn points for the selected profession:",
@@ -1069,7 +1071,7 @@ UI_EN = {
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "Add unknown usernames to the whitelist when players join. Clients will supply their own username/password on joining. (This is for Open=true servers)",
     UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "Remove player accounts from the whitelist after death. This prevents players creating a new character after death on Open=false servers",
     UI_ServerOption_DisplayUserName_tooltip = "Display usernames above player's heads in-game.",
-    UI_ServerOption_ShowFirstAndLastName_tooltip = "Display first & last name above player's heads instead of the username.",
+    UI_ServerOption_ShowFirstAndLastName_tooltip = "Display first & last name above player's heads.",
     UI_ServerOption_KickFastPlayers_tooltip = "Kick players that appear to be moving faster than is possible. May be buggy -- use with caution.",
     UI_ServerOption_SleepAllowed_tooltip = "Players are allowed to sleep when their survivor becomes tired, but they do not NEED to sleep",
     UI_ServerOption_SleepNeeded_tooltip = "Players get tired and need to sleep. (Ignored if SleepAllowed=false)",
@@ -1153,7 +1155,7 @@ UI_EN = {
     UI_ServerOption_SaveWorldEveryMinutes_tooltip = "Loaded parts of the map are saved after this set number of real-world minutes have passed. (The map is usually saved only after clients leave a loaded area)",
     UI_ServerOption_RemovePlayerCorpsesOnCorpseRemoval_tooltip = "If enabled, when HoursForCorpseRemoval triggers, it will also remove player’s corpses from the ground.",
     UI_ServerOption_TrashDeleteAll_tooltip = "If true, player can use the "delete all" button on bins.",
-    UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "If true, player can hit again when struck by another player."
+    UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "If true, player can hit again when struck by another player.",
     UI_ServerOption_MouseOverToSeeDisplayName_tooltip = "If true, players will have to mouse over someone to see their display name.",
     UI_ServerOption_HidePlayersBehindYou_tooltip = "If true, automatically hide the player you can't see (like zombies).",
     UI_ServerOption_PVPMeleeDamageModifier_tooltip = "Added damage for PVP melee attacks.",

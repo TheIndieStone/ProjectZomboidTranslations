@@ -189,7 +189,7 @@ Tooltip_CN = {
     Tooltip_Vehicle_Uninstalling = "拆卸 %1",
     Tooltip_vehicle_keyRequired = "需要车钥匙",
     Tooltip_Dashboard_Shift = "当前档位",
-    Tooltip_Dashboard_LockedDoors = "门锁了",
+    Tooltip_Dashboard_LockedDoors = "车门锁",
     Tooltip_Dashboard_Engine = "引擎状态",
     Tooltip_Dashboard_Headlights = "车灯",
     Tooltip_Dashboard_Heater = "暖气",
@@ -277,4 +277,3 @@ Tooltip_CN = {
     Tooltip_media_item_operate = "装备到左手或右手来进行操作."
     Tooltip_item_empty_sack_container = "如果是空的可以用作容器.",
 }
-

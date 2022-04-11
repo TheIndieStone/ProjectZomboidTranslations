@@ -72,8 +72,8 @@ Challenge_YouHaveOneDayInfoBox = " <CENTRE>24 óra múlva a Knox megyébe való 
 Challenge_AStormIsComingInfoBox = " <CENTRE> Végtelen rossz idő elé nézünk...",
 Challenge_TheDescendingFogInfoBox = " <CENTRE> Köd lesz...",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.20
 	-- Megjegyzés:
     -- Nincs új sor és változás.
 }

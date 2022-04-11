@@ -364,4 +364,3 @@ Recipes_CN = {
 	Recipe_Pancakes = "制作薄煎饼",
 	Recipe_Waffles = "制作华夫饼",
 } 
-

@@ -17,8 +17,8 @@ UI_RU = {
 	UI_mainscreen_SavefileNotFound = "Это сохранение не может быть найдено, или было повреждено.",
 	UI_mainscreen_SavefileName = "Сохранение: %1",
 	UI_mainscreen_coop = "СВОЙ СЕРВЕР",
-	UI_mainscreen_version = "Версия PZ: %1. Версия перевода: 41.66 от 23.02.2022",
-	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam). Версия перевода: 41.66 от 23.02.2022",
+	UI_mainscreen_version = "Версия PZ: %1",
+	UI_mainscreen_version_steam = "Версия PZ: %1 (Steam)",
 	UI_mainscreen_InviteInGame = "Невозможно принять приглашение, когда вы в игре.",
 	UI_mainscreen_InviteMainMenu = "Пожалуйста, вернитесь в главное меню, чтобы принять приглашение.",
 	UI_mainscreen_InviteFormat = "Хозяин игры должен пригласить вас через меню «Пригласить друга» в игре.\n\n%1",
@@ -26,7 +26,7 @@ UI_RU = {
 	UI_mainscreen_TutorialControllerWarn = "На данный момент обучение не поддерживает джойстики. <LINE> <LINE> Все равно начать обучение?",
 	-- Demo
 	UI_Demo_Welcome = "<CENTRE> <SIZE:large> Добро пожаловать в демо-версию Project Zomboid! <LINE> <SIZE:medium> Здесь вы можете выживать в режиме песочницы. Правда, вы уже были укушены зомби. Никаких игровых ограничений... но у вас всего несколько дней до того, как вы умрёте. Поэтому купите игру, если вы хотите жить дольше!",
-	UI_Demo_Popup = "<CENTRE> «Я думал, что смогу засесть в Твиггис. Плохая идея. <LINE> <LINE> Я был укушен. Я не протяну долго. <LINE> <LINE> Меня зовут Бонни Кэмпбелл. И это - история моей смерти.»",
+	UI_Demo_Popup = "<CENTRE> «Я думал, что смогу засесть в Твиггис. Плохая идея. <LINE> <LINE> Меня укусили. Я не протяну долго. <LINE> <LINE> Меня зовут Бонни Кэмпбелл. И это - история моей смерти.»",
 	-- Coop screen
 	UI_coopscreen_title = "СВОЙ СЕРВЕР",
 	UI_coopscreen_account_name = "Ваш ник:",
@@ -938,7 +938,7 @@ UI_RU = {
 	UI_ServerSettingGroup_UPnP = "UPnP",
 	UI_ServerSettingGroup_Other = "Другое",
 	UI_ServerSettingGroup_Vehicles = "Автомобили",
-	UI_ServerSettingGroup_Voice = "Голос. Связь",
+	UI_ServerSettingGroup_Voice = "Голос. связь",
 	-- Spawn Regions
 	UI_ServerSettings_ButtonAddRegion = "Добавить регион",
 	UI_ServerSettings_ButtonRemoveRegion = "Убрать регион",
@@ -1450,7 +1450,7 @@ UI_RU = {
     UI_DisplayOptions_Camera = "Камера",
     UI_DisplayOptions_Fonts = "Шрифты",
     UI_DisplayOptions_Clock = "Часы",
-    UI_search_mode_focus = "Фокус",
+    UI_search_mode_focus = "Фокус:",
     UI_search_mode_no_focus = "Нет фокуса",
     UI_search_mode_change_focus = "Изменить фокус",
     UI_DisplayOptions_RenderingAndPerformance = "Рендеринг и производительность",
@@ -1465,4 +1465,5 @@ UI_RU = {
                                          "<CENTRE> <SIZE:large> Пожалуйста, будьте терпеливы, пока мы исправляем, полируем и делаем игру лучше. <LINE><LINE> ",
 
     UI_BadWordCheck = "Были использованы слова, буквы или фразы - %1, которые не могут быть использованы при создании сервера. Пожалуйста, повторите попытку.",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "Включить радиальное меню на левом джойстике",
 }

@@ -224,8 +224,8 @@ Moodles_windchill_desc_lvl4 = "Az érzés több, mint 20 fokkal hidegebb, mint a
 Moodles_CantSprint = "Korlátozott mozgás"
 Moodles_CantSprint_desc = "Nehéz ruházat, terjedelmes táskák, vagy nagy tételek, amik lassulást okoznak!"
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.24
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }
