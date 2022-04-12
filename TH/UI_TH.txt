@@ -1071,7 +1071,7 @@ UI_TH = {
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "เพิ่มชื่อผู้ใช้ที่ไม่รู้จักเข้าสู่บัญชีขาวเมื่อผู้เล่นเข้าร่วม ไคลเอ็นต์ระบุชื่อผู้ใช้/รหัสผ่านเองเพื่อเข้าร่วม สำหรับเซิฟเวอร์แบบเปิด"
     UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "ลบบัญชีผู้เล่นออกจากบัญชีขาวเมื่อตาย โดยจะป้องกันไม่ให้ผู้เล่นสร้างตัวละครใหม่เมื่อตายในเซิฟเวอร์ Open=false",
     UI_ServerOption_DisplayUserName_tooltip = "แสดงชื่อผู้ใช้ด้านบนหัวของผู้เล่นในเกม",
-    UI_ServerOption_ShowFirstAndLastName_tooltip = "แสดงชื่อและนามสกุลของตัวละครเหนือหัวผู้เล่นแทนชื่อผู้ใช้",
+    UI_ServerOption_ShowFirstAndLastName_tooltip = "แสดงชื่อและนามสกุลของตัวละครเหนือหัวผู้เล่น",
     UI_ServerOption_KickFastPlayers_tooltip = "เตะผู้เล่นที่เคลื่อนที่เร็วกว่าที่เป็นไปได้ออกจากเซิฟเวอร์ อาจมีบั๊ก -- โปรดใช้ด้วยความระมัดระวัง",
     UI_ServerOption_SleepAllowed_tooltip = "เมื่อตัวละครผู้รอดชีวิตรู้สึกเหนื่อย ผู้เล่นสามารถเลือกนอนหลับได้ แต่ไม่จำเป็นต้องนอน",
     UI_ServerOption_SleepNeeded_tooltip = "ผู้เล่นมีอาการเหนื่อยล้าได้และจำเป็นต้องนอน (ละเว้นหาก SleepAllowed=false)",
