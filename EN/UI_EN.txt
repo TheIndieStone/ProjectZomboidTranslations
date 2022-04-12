@@ -1071,7 +1071,7 @@ UI_EN = {
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "Add unknown usernames to the whitelist when players join. Clients will supply their own username/password on joining. (This is for Open=true servers)",
     UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "Remove player accounts from the whitelist after death. This prevents players creating a new character after death on Open=false servers",
     UI_ServerOption_DisplayUserName_tooltip = "Display usernames above player's heads in-game.",
-    UI_ServerOption_ShowFirstAndLastName_tooltip = "Display first & last name above player's heads instead of the username.",
+    UI_ServerOption_ShowFirstAndLastName_tooltip = "Display first & last name above player's heads.",
     UI_ServerOption_KickFastPlayers_tooltip = "Kick players that appear to be moving faster than is possible. May be buggy -- use with caution.",
     UI_ServerOption_SleepAllowed_tooltip = "Players are allowed to sleep when their survivor becomes tired, but they do not NEED to sleep",
     UI_ServerOption_SleepNeeded_tooltip = "Players get tired and need to sleep. (Ignored if SleepAllowed=false)",
