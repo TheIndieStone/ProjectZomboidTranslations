@@ -1,4 +1,4 @@
-DynamicRadio_PTBR {
+DynamicRadio_PTBR = {
     AEBS_Intro = "<bzzt> Cinco Zero Dois. <wzzt> Sistema de Transmissão de Emergência. <bzzt>",
     AEBS_Choppah = "Atividade Aérea detectada.",
     AEBS_Power_1 = "Companhia de Energia de Knox: Oscilações de energia detectadas.",

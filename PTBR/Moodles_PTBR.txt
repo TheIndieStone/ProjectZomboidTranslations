@@ -104,11 +104,11 @@ Moodles_PTBR = {
 	Moodles_hypothermia_lvl2 = "Frio",
 	Moodles_hypothermia_lvl3 = "Congelando",
 	Moodles_hypothermia_lvl4 = "Hipotermia",
-    	-- Ventania
-    	Moodles_windchill_lvl1 = "Vento Leve",
-    	Moodles_windchill_lvl2 = "Vento Desconfortável",
-    	Moodles_windchill_lvl3 = "Vento Congelante",
-    	Moodles_windchill_lvl4 = "Vento de Nevasca",
+    -- Ventania
+    Moodles_windchill_lvl1 = "Vento Leve",
+    Moodles_windchill_lvl2 = "Vento Desconfortável",
+    Moodles_windchill_lvl3 = "Vento Congelante",
+    Moodles_windchill_lvl4 = "Vento de Nevasca",
 
 	-- Descrição do Humor
 	-- Resistência
