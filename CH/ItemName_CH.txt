@@ -940,6 +940,7 @@ ItemName_CH = {
     ItemName_Base.LongJohns = "衛生衣",
     ItemName_Base.LongJohns_Bottoms = "衛生褲",
     ItemName_Base.LugWrench = "十字扳手",
+	ItemName_Base.Lunchbag = "便當袋",
     ItemName_Base.Lunchbox = "便當盒",
     ItemName_Base.Lunchbox2 = "便當盒",
     ItemName_Base.M14Clip = ".308 彈匣",
