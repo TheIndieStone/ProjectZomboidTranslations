@@ -941,6 +941,7 @@ ItemName_CA = {
     ItemName_Base.LongJohns = "Pijama d'una peça",
     ItemName_Base.LongJohns_Bottoms = "Pantalons de pijama",
     ItemName_Base.LugWrench = "Clau de creu",
+    ItemName_Base.Lunchbag = "Nevereta portàtil",
     ItemName_Base.Lunchbox = "Carmanyola",
     ItemName_Base.Lunchbox2 = "Carmanyola",
     ItemName_Base.M14Clip = "Carregador de .308",
