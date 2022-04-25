@@ -388,3 +388,4 @@ GameSound_TH = {
 	GameSound_ZombieFootstepsCombined = "ซอมบี้เดิน",
 	GameSound_ZombieSurprisedPlayer = "ผู้เล่นตกใจเมื่อเจอซอมบี้",
 	GameSound_TutorialZombie = "เสียงซอมบี้ในโหมดบทเรียน",
+}
