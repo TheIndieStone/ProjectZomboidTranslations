@@ -1,4 +1,4 @@
-DynamicRadio_CA {
+DynamicRadio_CA = {
     AEBS_Intro = "<bzzt> Cinc Zero Dos. <wzzt> Sistema d'emissió automàtica. <bzzt>",
     AEBS_Choppah = "Detectada activitat aèria.",
     AEBS_Power_1 = "Xarxa elèctrica de Knox: Fluctuacions de potència detectades.",
