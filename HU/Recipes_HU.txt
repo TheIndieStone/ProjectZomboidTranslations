@@ -61,10 +61,10 @@ Recipe_Extinguish_Candle = "Gyertya eloltása",
 Recipe_Fix_Fishing_Rod = "Horgászbot javítása",
 Recipe_Gather_Gunpowder = "Lőpor összegyűjtés",
 Recipe_Generator = "Generátor karbantartása",
-    Recipe_Get_6_Muffin = "Get 6 Muffin",
-    Recipe_Get_6_Muffins = "Get 6 Muffins",
-Recipe_Get_Bacon_Bits = "Szalonna darabolás",
-Recipe_Get_Bacon_Rashers = "Szalonna szeletelés",
+Recipe_Get_6_Muffin = "6 Muffin készítése",
+Recipe_Get_6_Muffins = "6 Muffin készítése",
+Recipe_Get_Bacon_Bits = "Szalonna feldarabolása",
+Recipe_Get_Bacon_Rashers = "Szalonna felszeletelése",
 Recipe_Get_Wire_Back = "Vezeték feltekerése",
 Recipe_HotDrinkRed = "Forró Csésze készítése",
 Recipe_HotDrinkSpiffo = "Forró Csésze készítése",
@@ -136,7 +136,7 @@ Recipe_Make_Letter_Opener = "Levélnyitó készítés",
 Recipe_Make_Maki = "Maki Sushi készítése",
 Recipe_Make_Mattress = "Matrac készítés",
 Recipe_Make_Metal_Bar = "Fémrúd készítés",
-Recipe_Make_Metal_Drum = "Fémhordó készítés",
+Recipe_Make_Metal_Drum = "Fém Hordó készítés",
 Recipe_Make_Metal_Pipe = "Fémcső készítés",
 Recipe_Make_Metal_Sheet = "Fémlemez készítés",
 Recipe_Make_Mildew_Cure = "Penészirtó készítés",
@@ -274,8 +274,8 @@ Recipe_Place_Rice_in_Cooking_Pot = "Rizs Fazékba rakása",
 Recipe_Place_Rice_in_Saucepan = "Rizs Lábasba rakása",
 Recipe_Place_Screws_in_Box = "Csavarok dobozba rakása",
 Recipe_Place_Shotgun_Shells_in_Box = "Sörétespuska Lőszer Dobozba rakása",
-    Recipe_Prepare_Muffins = "Prepare Muffins",
-    Recipe_Prepare_Omelette = "Prepare Omelette",
+Recipe_Prepare_Muffins = "Muffin készítése",
+Recipe_Prepare_Omelette = "Omelett készítése",
 Recipe_Put_Alcohol_on_Cotton = "Alkohol Pamutra öntése",
 Recipe_Put_Broccoli_Seeds_in_Packet = "Brokkoli Vetőmag becsomagolása",
 Recipe_Put_Cabbage_Seeds_in_Packet = "Káposzta Vetőmag becsomagolása",
@@ -328,9 +328,9 @@ Recipe_Make Metal Sheet = "Fémlap készítése",
 Recipe_Make Small Metal Sheet = "Kicsi Fémlap készítése",
 
 
-    -- v41.65
-	-- Átnézve 2021.01.09
+    -- v41.68
+	-- Átnézve 2021.04.07
 	-- Egész átnézve, még nem 100%!
-	-- Maradt fordítandó, játék közben kell ellenőrizni.
+	-- Maradt fordítani való, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!
 }

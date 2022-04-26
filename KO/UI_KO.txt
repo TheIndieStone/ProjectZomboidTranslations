@@ -14,8 +14,8 @@ UI_KO = {
     UI_mainscreen_continue = "이어하기",
     UI_mainscreen_exit = "나가기",
     UI_mainscreen_workshop = "Steam 워크샵",
-    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.68용 <2022년 3월 09일자>",
-    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.68용 <2022년 3월 09일자>",
+    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.69용 <2022년 4월 7일자>",
+    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.69용 <2022년 4월 7일자>",
     --UI_mainscreen_version_steam = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     --UI_mainscreen_version = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     UI_Details = "갱신 정보",
@@ -1474,4 +1474,7 @@ UI_KO = {
     UI_search_mode_focus = "탐색할 목표 선택",
     UI_search_mode_no_focus = "목표 선택 안함",
     UI_search_mode_change_focus = "탐색할 목표 변경",
+    UI_optionscreen_EnableLeftJoystickRadialMenu = "왼쪽 조이스틱 레이디얼 메뉴 활성화",
+    UI_ServerSettings_ButtonRemove = "지우기",
+
 }

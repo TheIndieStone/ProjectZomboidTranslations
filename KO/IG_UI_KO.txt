@@ -549,7 +549,7 @@ IGUI_KO = {
 	IGUI_Map_AddNote = "메모 작성",
 	IGUI_Map_RemoveElement = "메모, 기호 지우기",
 	IGUI_Map_AddSymbol = "기호 추가",
-	IGUI_Map_Scale = "축척. 1:1",
+	IGUI_Map_Scale = "1:1 축척",
 	IGUI_Map_ConfirmRemoveNote = "메모(%1)를 지우시겠습니까？",
 	IGUI_Map_ConfirmRemoveSymbol = "이 기호를 지우시겠습니까？",
 	IGUI_TextBox_CantBeEmpty = "비워 둘 수 없습니다.",
@@ -1635,5 +1635,10 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> 첫번째로: 확대할 수 있�
     IGUI_SearchMode_Tip_Crops_Text = "야생 작물은 농지에서 흔하게 나옵니다. 모두 씨앗을 얻을 수 있는 기회를 가지고 있습니다.",
     IGUI_SearchMode_Tip_Seasons_Title = "계절",
     IGUI_SearchMode_Tip_Seasons_Text = "모든 자연 발생 물건들은 매월, 계절에 따라 결정됩니다. 일년 중 시기에 따라 여러분이 습득 가능한 물건이 다릅니다!",
-
+    IGUI_SafehouseUI_ReleaseConfirm = "은신처를 정말 해제하시겠습니까?",
+    IGUI_Place3DItem_JoypadPosition = "유지한채 + 왼쪽 조이스틱을 이동",
+    IGUI_Place3DItem_JoypadSurface = "선택한 곳을 변경",
+    IGUI_SearchMode_Tip_SearchFocus_Title = "탐색할 목표 선택",
+    IGUI_SearchMode_Tip_SearchFocus_Text = "뭔가 특별한 걸 찾으시나요? 탐색할 목표를 선택하여 찾을 수 있는 가능성을 높여 보세요!",
+    IGUI_ItemCat_Explosives = "폭발물"
 }

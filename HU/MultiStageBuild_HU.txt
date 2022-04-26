@@ -25,8 +25,8 @@ MultiStageBuild_CreateMetalWindow_2 = "2-es szintű Fém Ablak készítés",
 MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "1-es szintű Fa Ajtó Keret fejlesztés 2-es szintűre",
 MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "2-es szintű Fa Ajtó Keret fejlesztés 3-as szintűre",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.24
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

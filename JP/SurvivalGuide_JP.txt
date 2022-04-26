@@ -1,95 +1,101 @@
 SurvivalGuide_JP = {
+	SurvivalGuide_WindowTitle = "ZOMBOID サバイバルガイド",
+	SurvivalGuide_entrie1title = "#1 - 基礎基本",
+	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:medium> #1 - 自分を操作 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:small> 深呼吸をして基礎を学ばなければ、  長くは生き残られないでしょう。",
+	SurvivalGuide_entrie1moreinfo = " <H1> 移動 <BR> <TEXT> Project ZomboidではWASDキーで辺りを駆け回って移動します。 <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
+                                    "<LINE> <H1> 戦闘 <BR> <TEXT>攻撃は、まずRMBか <SPACE><KEY:Aim><SPACE> を押しながら照準を合わせ、LMBを押して攻撃します。 武器を装備していない場合は、押しのけることしかできません (武器を装備していても <SPACE><KEY:Melee><SPACE> を押すことで押しのけることができます)。 <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 狙っているポイントは常に、マウスカーソルの近くにある白い丸の部分でである、  アイソメトリックカーソルの方向になります。 戦闘に関するより詳しい情報は、本ガイドの3ページ目をご覧ください。 <BR> "..
+                                    "<LINE> <H1> ムード <BR> <TEXT> 画面右上に時々現れる小さなアイコンはムードというものです。 これらは生存者の状態を一目で把握することができます。 各アイコンにカーソルを合わせると、より詳細な情報が表示されます。 <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+                                    "<LINE> <H1> マウス操作 <BR> <TEXT> LMBをクリックすると、近くにあるオブジェクトとインタラクションできます。 例えば、ドアを開けたり、略奪したい食器棚をさっと開けたりすることができます。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> RMBを押したままにすると、周囲を見渡したり、狙いを定めたりすることができます。 マウスホイールでスクロールするか、  <SPACE><KEY:Zoom&nbsp;in><SPACE> と <SPACE><KEY:Zoom&nbsp;out><SPACE> キーでズームインとズームアウトができます。 <BR>"..
+                                    "<LINE> <H1> 健康 <BR> <TEXT> 左上のハートのアイコンをクリックすると、自分の健康状態が表示されます。 ここで応急処置をしたり、恐ろしい咬まれた跡を確認することができます。 <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+                                    "<LINE> <H1> インタラクトキー <BR> <TEXT> <SPACE><KEY:Interact><SPACE> を押してインタラクトする方法もあります。 これにより、攻撃姿勢を保ったままドアを開けることができます。 <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> <TEXT> 窓のそばで <SPACE><KEY:Interact><SPACE> を押すと窓を開閉でき、 <SPACE><KEY:Interact><SPACE> を"押し続ける"と窓が開いている(または壊れている)ときに 通り抜けることができます。 窓を開けようとしているときに <SPACE><KEY:Interact><SPACE> を"タップ"すると緊急時には便利ですが、 窓が割れますので割れたガラスに注意しましょう。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+                                    "<LINE> <H1> クライミング <BR> <TEXT> <SPACE><KEY:Interact><SPACE> を押すとフェンスを越えることができます。 また、小さなフェンスに向かってジョギングしたり全力疾走をすると、 自動的にフェンスを乗り越えることができます  (詳しい情報は、本ガイドの2ページ目をご覧ください)。 <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+                                    " <LINE> <H1> コンテキストメニュー <BR> <TEXT> 製作などのより詳細な操作は、RMBのコンテキストメニューで行えます。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+                                    " <LINE> <H1> 時間 <BR> <TEXT> Project Zomboidでは通常、時間はあっという間に過ぎていきます、 そうでない場合は(シングルプレイの場合も)、右上のコントロールが役に立ちます。 立ち止まっているときや、(読書や建築などの)アクションを行っているときは、 この操作でさまざまな速度で早送りをすることができます。 また、略奪中に散々な目に遭った後、一時停止して考え直すのにも使えます。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+                                    "<LINE> <H1> マップ <BR> <TEXT> <SPACE><KEY:Map><SPACE> を押すか、左上の地図アイコンをクリックすると、地図が表示されます。 ワールドを移動するとマップの詳細が表示されます。 また、右下にミニマップが表示されることがあります。  <SPACE><KEY:Map><SPACE> を押したままにすると、ミニマップのオン／オフなど、 地図に関するオプションが表示されます。 <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+                                    ///<LINE> <H1> インベントリアイテムを配置 <BR> <TEXT> ほとんどのインベントリアイテムを右クリックすると、「アイテムを配置する」オプションが表示されます。 これにより、コンテナ以外の好きな場所にアイテムを配置することができます。  (家具のような大きな移動可能なアイテムは、左上の「移動可能」オプションを使ってピックアップして配置することができます。 詳しい情報は、本ガイドの5ページ目をご覧ください)。 ノックス事件の整理整頓を忘れずにしましょう! <BR>///
+                                    "<H1> 死なない <BR> <TEXT> 常に死なないようにしましょう。 <BR>",																																																																																																																																																																																																																																																					   
 
-	-- Official Japanese Translation Data Information
-	-- Update history
-	-- Build-41.54
-	-- Date 09-24-2021
-	-- Translation by Falcon33jp (Koichi Takebe)
-	-- E-mail:falcon33jp@gmail.com
+	SurvivalGuide_entrie2title = "#2 - 走らない",
+	SurvivalGuide_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 走らない <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:small> <BR> <SPACE><KEY:Run><SPACE> でジョギング、 <SPACE><KEY:Sprint><SPACE> で全力疾走ができますが 注意してください!",
+	SurvivalGuide_entrie2moreinfo = " <H1> ゾンビセンス <BR> <TEXT> ゾンビは視覚と聴覚に反応します。 警報やアラーム、銃声などの大きな音は、大群が調べにやってくるので要注意です。 <LINE> <BR>"..
+                                    "<H1> 走る <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> <SPACE><KEY:Run><SPACE> でジョギング、 <SPACE><KEY:Sprint><SPACE> で全力疾走ができます。 走ると音が出るのでより目立ちます。 しばらくの間はゾンビを追い越すことができますが、 いつまでも逃げられるとは限りません。"..
+                                    " <BR> <H1> しゃがむ <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 生存者は <SPACE><KEY:Crouch><SPACE> でしゃがんで彼らからの視認性を下げ、 壁やフェンスのそばにしゃがんでさらに視認性を下げます (隠れるときは、キャラクターが低くしゃがんでいることに注意してください)。 また、この状態でジョギングをすることもできます。 <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
+                                    "Project Zomboidは人気稼業ではありません。 ゾンビはサインをもらうためについてくるのではなく、 あなたを咬みたいだけなのです。また、ハグもしません。 <BR>",
 
-	SurvivalGuide_entrie1title = "サバイバルガイド #1 - 操作方法",
-	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 操作方法 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:small> 少し息を抜いて基礎を学びましょう。 そうしないと長く生き残れません。 ",
-	SurvivalGuide_entrie1moreinfo = " <H1> 移動する <BR> <TEXT> プロジェクト・ゾンボイドで移動するには、「W A S D」キーを使います。  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> <BR>" ..
-			" 「左 SHIFT」キーを押し続けると速く走ります。 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
-			"戦闘 <BR> <TEXT> 攻撃するには、まずマウスの右ボタンを押し続けて攻撃モードにする必要があります。 <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  近接武器の攻撃を控えるには、マウスの右ボタンを押し続けるだけです。  攻撃で狙う場所は常にマウスカーソルの方向です。  最高の生存者は攻撃モードと同時に移動してゾンビに死に物狂いで強打します。"..
-			" <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 近接武器で死者の頭蓋骨を揺さぶるにはマウスの左ボタンを押します。  覚えておくことはチャージ攻撃です。  激しく狂乱してクリックするのは優れた方法ではありません。 <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> 「左 CTRL」はスニークモード（忍び歩く）としても使えます。  近くにいるゾンビの視線から避けたいなら、使用することを強くお勧めします。 <BR><BR> <H1> インタラクション "..
-			"<BR> <H2> マウスクリック <BR> <TEXT>マウスの左ボタンをクリックして近くにある物体とインタラクトすることができます。  例えば、ドアを開けたり、中をあさりたい戸棚を開けたりします。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
-			"<H2> コンテキストキー <BR> <TEXT> インタラクトする別の方法として「E」を押すやり方があります。  これは、戦闘態勢の時にドアを開くことを可能にします。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> インタラクトで「E」を押し続ける二番目の方法は、緊急時に行う時です。  例えば、ゾンビに追われて窓を通り抜けたいなら、その時「E」はあなたの味方です。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-			" <LINE> <H2> コンテキストメニュー <BR> <TEXT> より細かいインタラクトをしたい場合にはマウスの右ボタンを開いてください。  コンテキストメニューが表示されアクセスすることができます。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
+	SurvivalGuide_entrie3title = "#3 - 戦闘",
+	SurvivalGuide_entrie3txt = " <CENTRE> "<SIZE:medium> #3 - 精度です、みなさん! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:small> グチャっとした音が聞こえるまで  攻撃し続けましょう!",
+	SurvivalGuide_entrie3moreinfo = " <H1> 戦闘方法 <BR> <TEXT> それぞれの武器は決められた量のダメージを与えることができます。 しかし、その威力と精度はあなたの技量によって左右されます。"..
+                                    " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> RMBまたは <SPACE><KEY:Aim><SPACE> を押しながらエイムモードにしてLMBで攻撃します。  <SPACE><KEY:ReloadWeapon> でインベントリにある、箱入りではない弾薬を銃にリロードしたり、 <SPACE><KEY:Rack&nbsp;Firearm><SPACE> でジャムを解消したりすることができます。 状態が悪い武器は、ジャムが発生する可能性が高くなります。 <BR> <LINE> 初期設定では、銃でのみエイムアウトラインが表示されます。 赤い輪郭は命中率が低く、緑は命中率が高いことを意味します。 近接武器にも照準の輪郭を表示させたい場合や、照準の輪郭を完全に消したい場合は、 メインメニューまたは <SPACE><KEY:Main&nbsp;Menu> を押して、 オプション画面の「ディプレイ」タブにある「エイムアウトライン」で設定します。 <LINE>"..
+                                    " <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/aimingoutlines.png> <LINE>  ナイフのような刺しやすい武器は、 ゾンビを「顎で刺す」ことで一撃で仕留めることができる場合があります。 バターナイフにはあまり期待しないでください。 <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+                                    " <H2> 地面攻撃 <BR> <TEXT> 死者を再び殺す最善の方法は、地面に倒して脳みそをぶん殴るのが一番です。 <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> ゾンビは攻撃や押しのけて倒すことができます。 他に攻撃してくるゾンビがいない場合、 攻撃は武器が届く範囲内にいる倒れたゾンビの方に向けられます。 <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> また、倒れたゾンビの真横で <SPACE><KEY:Melee><SPACE> を押すと、「踏みつける」ことができます。 武器で攻撃するよりも弱いですが、 武器の状態が悪くなったり、弾薬を無駄に消費したりすることはありません。 アイソメトリックカーソルを使って頭を狙うことを忘れないでください。 ゾンビの足を踏みつけても死ぬことは決してなく、 ただバカバカしく見えるだけなのですから。 <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
 
-	SurvivalGuide_entrie2title = "サバイバルガイド #2 - 走らない",
-	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 走らない <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:small> 素早く走る生存者は、あの世行きです。",
-	SurvivalGuide_entrie2moreinfo = " <H1> ゾンビの認識能力 <BR> <TEXT> サバイバルモードでの死者は、見える物と音に反応します。 <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 走ると音がしてより気づかれやすくなります。  奴らを振り切ることはできますが、それも永遠とはいきません。"..
-			"<BR> 賢い生存者は「左 CTRL」と仲が良いです。(マウスの右ボタンが大好きなら良いです)   これは、スニーク/攻撃モードを有効にします。  こっそり動くと気付かれづらくなり、あなたの絶望に満ちた足音を弱めます。  同様に向きを変えることをもっと簡単にします。  そのため、確実にあなたの首から肉塊を奪おうとする者はいません。 <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> プロジェクト・ゾンボイド は人気コンテストではありません。影に潜みましょう。  ゾンビはあなたを食べたいのです。奴らは抱き合いませんよ。 <BR>",
+	SurvivalGuide_entrie4title = "#4 - 水",
+	SurvivalGuide_entrie4txt = " <CENTRE> "<SIZE:medium> #4 - 水の確保 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:small> 生きていくためには、 綺麗な水は欠かせません。",
+	SurvivalGuide_entrie4moreinfo = " <H1> 水 <BR> <TEXT> 世界の水事情は電気と同じで、いつまでも続くものではありません。 将来、人生からチェックアウトしたくない場合は水筒を備蓄してください... <BR> キャラクターはインベントリに水の入った容器を自動的に飲みます。 <BR> 水を飲んだり、ボトルに水を入れたりするには、 ゲーム内の水を供給するタイルやアイテムの右クリックメニューを使用します。 シンク、浴槽、蛇口...あらゆるものがあります。 <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> また、鍋などの空き容器を雨の中においたり、川から水を汲んだり、 木製の水をいれる容器を作ったりすることでも水を得ることができます。 <BR> 蛇口などの配管されていない水は汚染されているので、 安全に飲むためには沸騰させる必要があります。 ですが、汚染された水は、農作物の水やりや洗濯には安全に使用することができます。 <BR>",
 
-	SurvivalGuide_entrie3title = "サバイバルガイド #3 - 操作は正確に",
-	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 操作は正確に <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:small> 生ける屍との戦いでゾンビの頭蓋骨を 破裂するには努力を要します！ <LINE> <LINE> 重要なのは：チャージして攻撃！",
-	SurvivalGuide_entrie3moreinfo = " <H1> 戦闘システム <BR> <TEXT> 全ての武器は、それぞれ決まったダメージを与えます。  しかし、実際に与えるダメージを決めるのは、あなたの技能と手際の良さです。  ダメージが低い場合は、あなたの技能が足りないのかも知れません。 <BR> <H2> 正確性 "..
-			" <BR> <TEXT> 脳をグチャグチャにすり潰す近接攻撃の力は、技能レベルにも左右されます。  しかし、もうひとつの重要な要因は、どの程度「チャージして」武器を振るかです。  攻撃の前にマウス右ボタンを何秒か押し続けると狙いを定めて集中して倒します。  チャージ攻撃はとても強力ですが、攻撃頻度は下がります。 <BR>  このゾンビ世界では、マウスの連打は命取りです！ <BR> <H2> 攻撃距離 <BR> <TEXT> 攻撃距離は、もうひとつの重要な要因です。  攻撃に最適な距離は、所持している武器の種類によって決まります。 <BR> 一般的に、バットや斧のような武器は、最大攻撃距離で殴ると効果が上がります。 <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> サバイバルナイフや包丁のような刺突武器は、近距離で突き刺すと非常に効果的です。  とは言っても、バターナイフに多くを期待しないでください。 <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-			" <H2> 地面攻撃 <BR> <TEXT>  死者を再び殺す最善の方法は、地面に打ち倒し、奴らの脳をぶっ叩くことです。 <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> これを行うには、ゾンビを強打するかもしくは押し退けます。  押し退けは自動で行われます。  それが起きる条件は、武器の最小攻撃距離よりも近くにゾンビがいる場合や  (消化斧やバット等と同じ種類の武器を振り回すと起こります。)  ゾンビを押し倒した時です。 <BR> ゾンビが倒れたら、攻撃は下に向かって行われダメージを与えるでしょう。  そこで脳みそが見つかるはずです。 <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
+	SurvivalGuide_entrie5title = "#5 - 製作",
+	SurvivalGuide_entrie5txt = " <CENTRE> "<SIZE:medium> #5 - 創意工夫 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:small> ゾンビがドアや窓を引っかいてくる! 不安であればバリケードで塞ぎましょう!",
+	SurvivalGuide_entrie5moreinfo = " <H1> インベントリで製作 <BR> <TEXT> インベントリにあるアイテムで製作するには、 インベントリ画面で持っているものを右クリックします。 <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 作れるクラフトアイテムや、所持している他のものと組み合わせられるアイテムが、 魔法のように表示されます! <BR> 料理、大工仕事、医療、サバイバルなどのさまざまなレシピが、 黙示録の中であなたにで優位性をもたらすでしょう。 <BR> <H1> バリケードで塞ぐ <BR> <TEXT> ドアや窓を右クリックするとバリケードで塞ぐことができます。 板でバリケードを作るにはハンマーと板と釘、 金属でバリケードを作るには、 プロパントーチと溶接マスクと金属板がインベントリにある必要があります。 <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 大工仕事と金属加工 <BR> <TEXT> 資源を見つけて能力を上げていくと、 最終的には建物そのものを建てることができるようになります。 木造建築にはハンマーが"必要不可欠"で、 金属建築にはプロパントーチ、溶接マスク、 そしてほとんどの金属加工品には溶接棒が必要です。 建築メニューは地面を右クリックするだけで表示されます。 <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> そこから自分のスキルと資材で作れる家具を自由に選べます。 <BR> 選択すると完成品の透明なイメージが表示され、 LMBでワールドを移動して設置することができます。 <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 作業工程は一気には進まず、壁は何段階にも分けて作る必要があります。 PZはリアリズムにこだわったゲームなので、 物を製作をする人であるなら時間がかかることはご理解いただけるでしょう。 (参考までに、ゲーム内でお茶を作ることもできます。) クラフトしたアイテムは配置する前に <SPACE><KEY:Rotate&nbsp;building> を押して回転させることができます。 <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 覚えておいてください: クラフトをすればするほど上達します。 スキルレベルが上がれば、より質の高い、より便利なアイテムが手に入ります。 <BR> "..
+                                    "<BR> <LINE> <H1> ワールドのタイルを拾う <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> ワールドにあるほとんどの家具や動かないオブジェクトは拾うことができます。 画面左上の木製ロッカーのアイコンにカーソルを合わせ、 表示されるアイコンのいずれかをクリックするだけで、ワールドのアイテムを拾ったり、すでにインベントリにあるアイテムを配置したり、オブジェクトをその場で回転させたり、分解したりすることができます。いずれかのモード中にTabキーを押すと、次のモードに切り替わります。 <BR> オブジェクトを拾ったり分解したりするには、 道具や最低限のスキルが必要な場合があります。 オブジェクトの移動は、ドアや窓の前に物体を置いて基地をバリケードで塞いだり、 冷蔵庫や木箱などの便利なアイテムを別の場所に移動させたりするのに役立ちます。 <BR>",
 
-	SurvivalGuide_entrie4title = "サバイバルガイド #4 - 飲料水を手に入れる",
-	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 飲料水を手に入れる <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:small> 綺麗な水は持続的な生存に不可欠です。",
-	SurvivalGuide_entrie4moreinfo = " <H1> 水 <BR> <TEXT> 電気と同様に、水道の給水は永遠に続きません。  時が過ぎてから死にたくなければ、水の入ったボトルを備蓄しましょう... <BR> キャラクターは、インベントリ内の水の入った容器から自動的に水を飲みます。 <BR>  水を飲む、またはボトルに水を満たすには、水を供給するゲーム内タイルか  アイテムに右クリックメニューを使うだけです。  流し台、浴槽、蛇口...など。 <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
+	SurvivalGuide_entrie6title = "#6 - のぞき見",
+	SurvivalGuide_entrie6txt = " <CENTRE> "<SIZE:medium> #6 - のぞき見 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:small> 彼らは死んでも 窓の向こうは見ることができるのです。 <LINE> カーテンがない? 即席で作りましょう。",
+	SurvivalGuide_entrie6moreinfo = " <H1> 視界を遮る <BR> <TEXT> ゾンビ・アポカリプスにおいて最も一般的な間違いの1つは、 カーテンを開けたままにしてしまうことです。 カーテンを閉め忘れると、ゾンビが庭の小道を通ってあなたの脳に 直行することになります。 <BR> カーテンやブラインドを閉じるには、右クリックからのメニューを使用します。 <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> バリケードで塞ぐことでも光源や中での活動を見られることを防ぎます。 <BR> カーテンが無くて、余っている板も無かった場合は、 代わりになるものを吊るしてみませんか? さあ、いろいろ試してみてください。 <BR>",
+	
 
-	SurvivalGuide_entrie5title = "サバイバルガイド #5 - 工夫次第",
-	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 工夫次第 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:small> ゾンビはドアと窓をかきむしります！ もし、不安なら: バリケード！",
-	SurvivalGuide_entrie5moreinfo = " <H1> インベントリでのアイテム作成 <BR> <TEXT> インベントリ内でアイテムを作るには、アイテムを右クリックするだけです。 <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 選んだ物と所持している他の物とを組み合わせて作れるアイテムが、  魔法のように表示されます！ <BR> 料理、大工仕事、応急医療、サバイバル技能は、終末の世界で優位性をもたらします。 <BR> <H1> バリケードを築く <BR> <TEXT> 右クリックでドアと窓にバリケードが築けます。 インベントリ内に金槌、木板、釘のアイテムが必要です。 <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE>  また、複数の木板を使って、ドアと窓を更に補強することもできます。 <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
-			" <H1> 大工仕事 <BR> <TEXT> 材料を見つけるにつれて、金槌でもっと仕事ができるようになり、  最終的には完全な建造物を構築することができます。  製作には、インベントリに金槌と必要な材料が必要です。  製作メニューを出すには、地面を右クリックするだけです。 <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> ここから、持っている技能と材料で作れるアイテムを選択することができます。  選択するとすぐに、作成する物の半透明な表示が出現します。  それから好きに動かして左クリックで設置します。 <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE>  この一連の作業は、短時間では無いです。  プロジェクト・ゾンボイドはリアリズムを目指したゲームです。  物を製作をする人ならば、仕事で時間が掛かることは分かるでしょう。  (気づいて欲しいのですが、ゲーム内で役に立つお茶を作れるようにしてますよ。) <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 製作するアイテムを回転するには、設置前に「R」を押します。 <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 忘れないで：絶対に覚えて欲しいのは、作れば作る程に腕前は良くなります。  高い技能レベルは、品質の高い便利なアイテムが作れることです。 ",
+	SurvivalGuide_entrie7title = "#7 - 美味しいものを食べる",
+	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:medium> #7 - 美味しいものを食べる <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:small> 食中毒は楽しいものではありません、 特に黙示録の中では。 <LINE> <LINE> 温かい食事はとても大切なものです。",
+	SurvivalGuide_entrie7moreinfo = " <H1> 料理 <BR> <TEXT> 肉や魚など、多くの食品は食べる前には調理が必要です。 食中毒のリスクを減らすだけでなく、調理済みの食事は満足度が高く、 また栄養価が高いので空腹を長く防ぐことができます。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 調理は、オーブンや電子レンジに入れるだけです。 街を離れているのであれば、キャンプファイヤーでも可能です。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 右クリックメニューで調理機のスイッチを入れて、焼きあがったら調理器の 戦利品画面から、火が通った料理を取り出しましょう。 ただし、家じゅうを焼いてしまわないように、調理が終わったら 家電の電源を切りましょう。 アンティークストーブや暖炉、キャンプファイヤーには燃料が必要なので、 燃やすための焚き木や本を貯蓄しておくのを忘れないようにしましょう。 <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+                                    " <H1> 耕作 <BR> <TEXT> 自分で食べるものを育てるには、こてと種を用意するだけで良いのです。 土を耕して種を蒔けば、あなた自身の手で食料と水を作り出せることができるのです。 <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+                                    " <H1> 採取 <BR> <TEXT> 画面左上の虫眼鏡アイコンから「探索モードを有効にする」をクリックすると、 ベリー、石、木の棒など、さらに便利なアイテムが見つかります。 <BR> 自分の頭の上に「目」のアイコンが表示されたらその方向を見ることで、 自分を中心とする、一定範囲のアイテムを見つけることができます。 探索範囲は、スキルレベルや現在いる場所、明るさなどによって変化します。 採集の詳細については、本ガイドの11ページを参照するか、 探索画面左上にある情報アイコンをクリックしてください。 <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
-	SurvivalGuide_entrie6title = "サバイバルガイド #6 - 覗かれない",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 覗かれない <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:small>  奴らは死んでるかも知れませんが、 それでも窓越しに見ることはできます。 カーテンは無いのですか？ それか何かで代用しましょう。",
-	SurvivalGuide_entrie6moreinfo = " <H1> 奴らの視界を塞ぐ <BR> <TEXT> ゾンビによる終末の世界でよくある間違は、カーテンを開いたままにすることです。  カーテンを閉めるのを忘れると、さ迷うゾンビを庭の小道に引き寄せてしまい、  あなたの脳みそと対面することになります。 <BR> カーテンやブラインドを閉めるには、右クリックのメニューを使います。 <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 窓にバリケードを築くと、奴らに光源や中での活動を見られることを防ぎます。 <BR> カーテンが無くて、余っている板も無かった場合、代わりになる物がありませんか？  いろんな物を試しにやってみましょう。",
+	SurvivalGuide_entrie8title = "#8 - 抜け目なく入手する",
+	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:medium> #8 - 抜け目なく入手する <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:small> インベントリを迅速かつ効率的に管理することで、 時間の節約 - そして命を救うこともあります!",
+	SurvivalGuide_entrie8moreinfo = " <H1> 選択 <BR> <TEXT> さて、Project Zomboidでは どのように物を探したり、掴んだり、落としたり、使ったりするのでしょうか? 主な方法は、ドラッグ&ドロップ、 または右クリックでコンテキストメニューを表示させます。 <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+                                    " LSHIFTを押し続けながらだと複数のアイテムを選択できます。 <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> また、マウスで複数のアイテムの上に四角にドラッグするという "クレイジー"な方法もあります。 <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+                                    " 戦利品のインベントリにあるものをダブルクリックして素早くつかむか、 選択したものの右側にあるクイックコンテキストボタンをクリックします。 <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  コンテナ内のあらゆるものを手に入れなければならないほど興奮している人には、 「すべて取る」も用意されています。 <LINE> "..
+                                    " <BR> <H1> バッグの栄光 <BR> <TEXT> バッグは重要です。物を運ぶのに役立ちます。 装備して急いでアイテムを放り込むには、 右クリックでメインまたはサブに装備するか、(バッグなら)背負ってください。 <BR>  "..
+                                    " <BR> 装備したバッグはインベントリに表示され、 戦利品をドラッグ&ドロップできるようになります。 また、バッグを装備すると重量が軽減され、 より多くの荷物を持ち運ぶことができます。 ただし、バッグに多くの荷物を入れると、移動速度が遅くなるので注意が必要です。 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+                                    " <H1> ベルトとホットキー  <BR> <TEXT> ベルト、ホルスター、背中に特定のアイテムを装備することができます。 これらのアイテムは画面下の四角に表示され、 表示されている番号に対応したホットキーで装備することができます。 その他にも便利なホットキーがあります。 "..
+                                    " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 最適な光源を装備する(点灯させる)。 光源を装備した状態で <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> を押すとオン/オフが切り替えられ、さらに <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> を長く押すと電池の取り外しなど他のオプションにアクセスすることが可能です。 " ..
+			                        " <BR> <KEY:ReloadWeapon><SPACE> : 装備している銃をリロードします。 <SPACE><KEY:ReloadWeapon><SPACE> を長く押すと、より詳細なオプションが表示されます。  <SPACE><KEY:Rack&nbsp;Firearm><SPACE> を押すと、ジャムを直したりラックするすることができます。 " ..
+			                        " <BR> <KEY:VehicleRadialMenu><SPACE> : 車内または車外の場合に高度な車両オプションを切り替えます。 " ..
+			                        " <BR> <KEY:Shout><SPACE> : 叫びます。ゾンビを引き寄せます。しゃがむと静かに叫びます。 <SPACE><KEY:Shout><SPACE> を長く押すとエモートホイールにアクセスできます。 友達に手を振ったり、お気に入りのゾンビに親指を立ててあげたりしてみましょう! "..
+			                        " <BR> <KEY:Toggle&nbsp;Search&nbsp;Mode><SPACE> : 採集の探索モードを切り替えます。",																																																																																																									
 
-	SurvivalGuide_entrie7title = "サバイバルガイド #7 - 料理を食べよう",
-	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 料理を食べよう <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:small> 食中毒は、楽しいものではありません。 終末の世界では、もっと楽しくないです。 暖かい食事はとても良いものです。",
-	SurvivalGuide_entrie7moreinfo = " <H1> 料理 <BR> <TEXT> ビーフ、チキン、他にも多くの食品は、食べる前に調理が必要です。  (おかしなゲームだって？)  <BR> 調理は、食中毒の危険性を減らします。  また、大きな満足感をもたらし、栄養に富み、長いあいだ空腹を防ぎます。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 料理をするには、食料をコンロやオーブン、電子レンジに入れて調理します。  街の郊外に逃げているなら、焚き火でしょう。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 調理するには、右クリックのメニューで調理器のスイッチを入れます。  調理器に食材を入れます。調理ができたら火が通った料理を取り出しましょう。  調理が終わったら、調理器のスイッチを切りましょう。念の為に。 <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
-			" <H1> 耕作 <BR> <TEXT> 植物を育てるには、園芸用スコップと作物の種を見つければ良いだけです。  土を耕して種を蒔いて手塩にかけて育てた野菜で胃を満たし喉を潤せるでしょう。 <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-			" <H1> 採集 <BR> <TEXT> 自然の中でベリーや他の食べられる食物を見つけよう。 <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
-			" <H1> 死を避けよう <BR> <TEXT>  何時も死なないようにしよう。",
+    SurvivalGuide_entrie9title = "#9 - 車両",
+    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:medium> #9 - 車両 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:small> 車両は生存に役立ちますが、 騒音ももたらします! エンジンの回転は 遠くから大群を引き寄せるのです...",
+    SurvivalGuide_entrie9moreinfo = " <H1> 飛び乗る <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 運が良ければ、車の持ち主がドア、イグニッションまたはグローブボックスに鍵を 置いていったかもしれません。 あるいは近くのゾンビを探すと、その中の誰かが持ち主である可能性もあります。 同様に、選んだ車が家の外に駐車されている場合も鍵を探してください。 鍵は家の中にある可能性があります。 <BR> まだ喜びがないですか? なぜちょっとしたグランドセフトオートを演じないのでしょう? 車の窓を割ってロックを解除しましょう。 車両整備と電気工学のスキルが高ければ、ホットワイヤーすることができます。 <BR> " ..
+                                    " <H1> ドライブの時間 <BR> <TEXT> イグニッションをクリックしてキーを差し込み、 ダッシュボード上のエンジンアイコンをクリック (またはNボタンを押す)してエンジンを掛けます。 または、前進キー <SPACE><KEY:Forward><SPACE> を押すだけですぐに動き出します。 <BR> 車のエンジンの状態が高くない場合、まずエンジンがかからないことがあります。 何度も掛からない場合は、完全にガス欠の可能性があります。 車両整備画面を点検する時かもしれません... <BR> 運転は慎重に! 車の音が大きければ大きいほど範囲が広くなり、 周囲のゾンビが警戒して音を追いかけ始めます...  <BR> " ..
+                                    " <H1> ダッシュボード <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> ダッシュボードには、燃料の残量や速度、回転数などの情報が表示されます。 <BR> また、ダッシュボード上部のアイコンは、エンジンの状態、トランクの開閉、 ヘッドライトの点灯などを状態を知らせます。 <BR> " ..
+                                    " <H1> ラジアルメニュー <BR> <TEXT>  車内や車両の横にいる場合は <SPACE><KEY:VehicleRadialMenu><SPACE> を押してください。 その車両ラジアルメニューが開きます。 <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> ここから座席の切り替え、ドアのロック、ライトの操作、 車両整備画面を開くことができます。 <BR> " ..
+                                    " <H1> 車両整備画面 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> スキルの無い生存者でも、バッテリーが正常であるかどうか、燃料の残量を確認や、 車両の特定の部分が損傷しているかどうかを確認することができます。 車両整備のスキルが高い生存者は、さらに詳しい情報を見たり、 パーツを取り付けたり外したりすることができるようになります。 <BR> 車両整備スキルの詳細については、 車両整備画面の左上にある情報アイコンをクリックすると、その情報が表示されます。 <BR>",
 
-	SurvivalGuide_entrie8title = "サバイバルガイド #8 - 賢く手に入れよう",
-	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 賢く手に入れよう <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:small> 早急にインベントリを管理して、 時間を節約しよう。 それが命を救うこともあります！",
-	SurvivalGuide_entrie8moreinfo = " <H1> 選択 <BR> <TEXT> あなたはどのように物を捜したり、自分の物にしたり、置いたり、使いますか？  プロジェクト・ゾンボイド では、アイテムを次のように扱います！ <BR> 最初の方法は、単純にドラッグ・アンド・ドロップをするだけです。  もうひとつの方法は、右クリックでコンテキストメニューを出します。 <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-			" 左 SHIFT を押し続けると複数のアイテムを選択できます。 <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT>  そうしないのなら、半狂乱でマウスを使ってアイテムのドット絵を何回も繰り返し  ドラッグしてみてはどうですか？ <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>"..
-			" 素早く取るために、インベントリで何かをダブルクリックしてみてはどうでしょう？  もしくは、選択した物の右側に出るコンテキストボタンをクリックしましょう。 <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  おっと、全ての物を素早く手に入れたいなら「全てを取る」があります。 <LINE> <BR>  "..
-			" <H1> バッグの栄光 <BR> <TEXT>  袋やバッグは重要です。荷物を運ぶ助けになります。 <BR> バッグを装備したら、大急ぎで手持ちのアイテムを投げ入れましょう。  右クリックでメインもしくはサブに装備するか、(それがリュックサックなら) 背負いましょう。 "..
-			" <BR> そうするとインベントリ内に装備したバッグが見えます。  あとは手持ちのアイテムをドラッグ・アンド・ドロップするだけです。  バッグは、重量減少をもたらします。より多く荷物を運べるのです。便利でしょう？ <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-			" <H1> ショートカットキーを覚えよう <BR> <TEXT> ショートカットキーは、オプションで変えられますが事前に設定されています。 <BR> 以下のように素晴らしいものです。"..
-			" <BR> 「1」: 最も良い近接武器を装備する。 " ..
-			" <BR> 「2」: 最も良い銃器を装備する。( Rで再装填ができるのを忘れないで！) " ..
-			" <BR> 「3」: 最も良い近接戦闘用の刺突武器を装備する。 " ..
-			" <BR> 「F」: 最も良い光源を装備する(そして照明を点ける)。 ",
+    SurvivalGuide_entrie10title = "#10 - 気象",
+    SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:medium> #10 - 気象と被服 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:small> 忘れないでください、 被服は風以上のものからも 身守ることができるのです...",
+    SurvivalGuide_entrie10moreinfo = "<H1> 気候変動 <BR> <TEXT> Project Zomboidの気象パターンは現実的なものです。 シミュレーションされた気候システムは、時期や仮想の気象前線を用いて、 1年のうち該当する時期に雨、雪、霧、雷雨を発生させます。 夏には涼しく、冬には暖かくなるように適切な服を着て、 良い状態を保つことを忘れないようにしましょう! <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 気温は生存に影響します。 冬が近づくと、十分な栄養と疲れ知らずの体、 そして適切な防寒具を身につけていれば、寒さへの抵抗力は最も高くなります。 また、活動的で健康な体であることも重要です。 濡れたり、病気になったりすると、寒さに苦しむ可能性が高くなります。 <LINE> " ..
+                                      " 極寒の時期には、建物の中やキャンプファイヤー、車両ヒーター、 ストーブなどの熱源で暖を取るのが最善です。 <LINE> "..
+                                      " また、暑い時期に生き残るには、水分補給と薄着で過ごすことをお勧めします。 <LINE> <BR>" ..
+                                      " <H2> 気温を知る <BR> <TEXT> デジタル時計をつけると、UIに気温が表示されます。 <LINE> <BR> " ..
+                                      " <H2> 風冷え <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 特に冬場の屋外にいると、風の冷たさを感じるようになります。 真冬の大雨や吹雪は、強い風と低い気温が重なり、体温を著しく低下させます。 <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 風は体に影響を与えますが、デジタル時計では直接的な温度差は表示されません。 いつ影響が出るか、ムードから目を離さないようにしましょう。 <LINE> <BR> "<H1> 被服保護 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 適切な衣服を身につけることで、 咬みつきや引っかき傷、裂傷から身を守ることができるかもしれません。 Pボタンを押すと、被服保護パネルが表示され、 生存者の現在の保護レベルの概要を見ることができます。 <BR> 適切な素材と裁縫レベルで服の穴を修理したり、 パッドを追加して保護力を高めたりすることができます。 インベントリ内の被服を右クリックして「点検する」をクリックし、 改良や修繕を行いたい箇所を右クリックします。 インベントリに適切な布と一緒に針と糸があるか確認してください。 <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
-	SurvivalGuide_entrie9title = "サバイバルガイド #9 - 車両",
-	SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 車両 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:small>  車両は、生存の便益をもたらしますが、 エンジンは騒音を発生させます！ エンジンの音は、遠くから ゾンビの群れを引きつれてきます...",
-	SurvivalGuide_entrie9moreinfo = " <H1> 飛び込む <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> あなたが幸運であれば、車両のグローブボックスに鍵があるかも知れません。  あるいは、車両の近くに鍵が落ちてるかも知れません。  それとも、車両が駐車された近くの家屋の室内に鍵があるかも知れません。  ありそうな場所を探してみましょう。 <BR> 鍵が見つけられませんか？なぜ、車両に侵入しようとしないのですか？  車両の窓を壊してロックを解除することができます。  車両整備と電気工学の技能が十分にあれば、点火装置をショートさせて  エンジンを掛けることができます。 <BR> " ..
-			" <H1> 運転の時間 <BR> <TEXT> ダッシュボードのイグニッションをクリックしてエンジンを始動させます。  または、前方キー「W」を押して始動させます。 <BR> 車両のエンジン状態が良くない場合は、始動しないことがあります。  何度も始動しない場合は、車両整備の技能が必要な時かもしれません... <BR> 慎重に運転してください！  車両のエンジン音は大きくゾンビが集まりやすくなります... <BR> " ..
-			" <H1> ダッシュボード <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> ダッシュボードには、燃料計、速度、エンジン回転数などの情報が表示されています。 <BR> ダッシュボードにあるアイコンは、エンジン状態、トランク開閉、ヘッドライトなど  の車両の動作状態を知らせます。 <BR> これらのアイコンをクリックすると利用可能なオプションウィンドウが表示されます。  例えば、ヒーターをクリックするとヒーター設定のウィンドウが開きます。 <BR> " ..
-			" <H1> 車両ラジアルメニュー <BR> <TEXT> 車両の中、車両の横や近くにいる時に、「V」を押してみてください。  対象となる車両の車両ラジアルメニューが開くはずです。 <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> ここから、座席位置の切り替え、ドアの施錠、ヘッドライトの操作、車両整備などの  ウィンドウを開くことができます。 <BR> " ..
-			" <H1> 車両整備 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 車両整備の技能を持たない者は、バッテリーがまだ正常であるかどうかをチェックし、  燃料の残量を見て、車両の部品が損傷していないかを確認すると良いでしょう。 <BR> 車両整備の技能を持つ者は、いろいろな部品を交換することができます。 <BR> 詳細は、車両整備ウィンドウの左上隅にある情報アイコンをクリックしてください。",
-
-	SurvivalGuide_entrie10title = "サバイバルガイド #10 - 天候",
-	SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 天候 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:small> 霧、暴風雨、雪は、死者の脅威がさら  に挑戦的にします！  冬が始まり、暖かい服を着て...",
-
-	SurvivalGuide_entrie10moreinfo = " <H1> 気候変動 <BR> <TEXT>  プロジェクト ゾンボイドの天候パターンは現実的です。 シミュレートされた気候システムは季節や時間で雨、雪、霧、雷雨を発生させます。 <LINE> " ..
-			" <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 暑い、寒い気温の影響は、あなたの生存に影響します。 <LINE> " ..
-			" 寒さへの耐性を引き出すには、あなたが十分な食料を食べていれば最高です。 疲れていなくて、積極的に身体的に合った適切な被服を着てください。 また、湿気と病気は、あなたを寒さで更に苦しめる可能性があります。 <LINE> <BR> " ..
-			" 極端な寒さの続く間は、熱源や建物内で暖まるのが最善です。 キャンプファイヤー、車両ヒーター、ストーブなどで暖まります。 <LINE> "..
-			" 暑い時期に生き残るには、十分な水分を摂り、軽い被服を着ることをお勧めします。 <LINE> <BR>" ..
-			" <H1> 気温を知ること <BR> <TEXT> 周囲の気温を知るには、デジタル時計を使用してUIに温度を表示することができます。 <LINE> <BR> " ..
-			" <H1> 風の寒さ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 冬の間は、特に屋外の風が寒さの要因となります。 大雨でも似たようなことが起こります。 冬の吹雪は、強風と低い気温のために体温をひどく下げる可能性があります。 <LINE> <BR> " ..
-			" <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 風の寒さはあなたの体に影響しますが、デジタル時計の温度と違いはありません。 あなたに影響を与えているかどうかを知るには、右上のアイコンを見てください。 <LINE> <BR> " ..
-			" 生存者よ暖かい服を着て!",
-
-	SurvivalGuide_entrie11title = "サバイバルガイド #11 - 頭を低くする",
-	SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> ゾンボイド サバイバルガイド <LINE> <SIZE:medium> 保護と頭を低くする <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:small> %1 - 忍び足 <LINE> %2 - 疾走 <LINE> %3 - 走る",
-
-	SurvivalGuide_entrie11moreinfo = "<H1> しゃがむ <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 生存者は壁やフェンスにしゃがみ込んでゾンビの視界から隠れることができます！ <LINE> この状態で移動することもできます。 <LINE> <BR> " ..
-			" <H1> 疾走 <BR> <TEXT> 走りが十分に速くない場合-疾走することもできます！ <LINE> %1を押して疾走-パニック状態の時に衝突すると転倒する可能性があるので注意 <LINE> してください。 <LINE> <BR> " ..
-			" <H1> 自動で登る <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> フェンスや柵を乗り越えるには、走るまたは疾走でフェンスや柵に向かってください。 <LINE> <BR> " ..
-			" <H1> 頭を踏みつける <BR> <TEXT> ゾンビが倒れた時：頭を狙え！ 身体を踏みつけると、望ましい効果が得られにくくなります。 <LINE> <BR> " ..
-			" <H1> 槍 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 槍には、適切なタイミングと適切な距離が必要です。 <LINE> また、槍で疾走して、1匹のゾンビを倒してみませんか？ <LINE> <BR> " ..
-			" <H1> 被服で保護する <BR> <TEXT> 適切な被服を着用すると、噛傷、傷、裂傷から身を守ることができます。 <LINE> %2キーを押して、被服保護パネルを開き、現在の被服保護レベルの概要を確認します。 <LINE> <BR> ",
-
-}
+    SurvivalGuide_entrie11title = "#11 - 採取",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:medium> #11 - 採取 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:small> いつ、 どこで、 どのように見るかを知っていれば、 世界は有用なもので溢れています! <LINE> <LINE> ベリー、キノコ、石ころ... 何が見つかるかは 誰にも分かりませんよね?",
+    SurvivalGuide_entrie11moreinfo = " <H1> 採取 / 探索システム <BR> " ..
+                                     " <TEXT> <SIZE:small>" ..
+                                     " エリア探索画面には、現在地のゾーンが表示されます。 これは、発見できる戦利品に影響します。" ..
+                                     " 画面にマウスを乗せると、現在のゾーンで入手できる 戦利品のカテゴリーを確認できます。" ..
+                                     " もし、"????? "が表示された場合は、見つけられるものが無いことを意味します。 <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+                                     " 探索を開始するには、「探索モードを有効にする」をクリックします。 探索範囲が表示されます。これはサバイバーがアイテムをスポットできる範囲です。 <LINE> <LINE>" ..
+                                     " 何かを見たときに、そのアイテムを指す矢印が表示されます。 目のアイコンは、キャラクターが近づいて、 それが何であるかを凝視している間に表示されます。 <LINE> <LINE>" ..
+                                     " 発見したアイテムをダブルクリックすると、そのアイテムを拾うことができます。 右クリックすると、さらなる拾うオプションが表示されます。 <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 探索性の向上 <TEXT> <BR> " ..
+                                     " 周囲を見回したり(エイム)としゃがむと、探索範囲が広がります。 暗さ、悪天候、スキル、アイテムの大きさ、 ネガティブなムード(ストレス、怪我など)はすべてアイテムの視認性に影響します。 <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 重要! <TEXT> <BR> " ..
+                                     " 関連する場所や論理的な場所を必ずチェックしましょう!" ..
+                                     " 例えば、ゴミはゴミの山に、欠けた石は道路の亀裂やくぼみによく見られます。 <LINE> <LINE> ",																									   

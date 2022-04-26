@@ -1,8 +1,0 @@
-
-	-- Translated by SwollenSeaMustard, Sam2, Yain
-	-- cited Arioch mod, ICELAKE textfile
-	-- Build-41.23
-	-- Using JP translates file
-	-- Start Date : 2019-12
-	-- Last Update : 2020-10
-

@@ -1,6 +1,6 @@
 EvolvedRecipeName_TH = {
 	EvolvedRecipeName_Base.CannedBologneseOpen = "โบโลเนสกระป๋อง",
-	EvolvedRecipeName_Base.CannedCarrotsOpen = "แครอตกระป๋อง",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "แคร์รอตกระป๋อง",
 	EvolvedRecipeName_Base.CannedChiliOpen = "พริกกระป๋อง",
 	EvolvedRecipeName_Base.CannedCornOpen = "ข้าวโพดกระป๋อง",
 	EvolvedRecipeName_Base.CannedCornedBeefOpen = "เนื้อบดกระป๋อง",

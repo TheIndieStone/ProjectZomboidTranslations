@@ -1,280 +1,226 @@
 Moodles_JP = {
-
-	-- Official Japanese Translation Data Information
-	-- Update history
-	-- Build-41.54
-	-- Date 09-24-2021
-	-- Translation by Falcon33jp (Koichi Takebe)
-	-- E-mail:falcon33jp@gmail.com
-
-	-- Moodle type
+	-- Moodle type :				 
 	-- Endurance
 	Moodles_endurance_lvl1 = "適度な運動量",
 	Moodles_endurance_lvl2 = "激しい運動量",
 	Moodles_endurance_lvl3 = "過度の運動量",
-	Moodles_endurance_lvl4 = "ヘトヘトになった！",
-
+	Moodles_endurance_lvl4 = "ヘトヘトになった",
 	-- Heavy Load
 	Moodles_heavyload_lvl1 = "まあまあな重さ",
 	Moodles_heavyload_lvl2 = "重い",
 	Moodles_heavyload_lvl3 = "とても重い",
 	Moodles_heavyload_lvl4 = "重過ぎる",
-
 	-- Angry
 	Moodles_angry_lvl1 = "イライラしている",
 	Moodles_angry_lvl2 = "腹を立てている",
-	Moodles_angry_lvl3 = "頭にくる！",
-	Moodles_angry_lvl4 = "激怒ぷんぷん丸！",
-
+	Moodles_angry_lvl3 = "頭にくる",
+	Moodles_angry_lvl4 = "激怒",
 	-- Stress
 	Moodles_stress_lvl1 = "心配している",
 	Moodles_stress_lvl2 = "動揺している",
 	Moodles_stress_lvl3 = "ストレスを感じている",
 	Moodles_stress_lvl4 = "ノイローゼ",
-
 	-- Thirst
 	Moodles_thirst_lvl1 = "少し喉が渇いた",
 	Moodles_thirst_lvl2 = "喉が渇いた",
 	Moodles_thirst_lvl3 = "喉がカラカラだ",
 	Moodles_thirst_lvl4 = "喉の渇きで死にかけている",
-
 	-- Tired
-	Moodles_tired_lvl1 = "少し疲れた",
+	Moodles_tired_lvl1 = "うとうとする",
 	Moodles_tired_lvl2 = "疲れた",
 	Moodles_tired_lvl3 = "とても疲れた",
 	Moodles_tired_lvl4 = "凄く眠い",
-
 	-- Hungry
 	Moodles_hungry_lvl1 = "小腹が空いた",
 	Moodles_hungry_lvl2 = "空腹",
 	Moodles_hungry_lvl3 = "とても空腹",
 	Moodles_hungry_lvl4 = "飢餓状態",
-
 	-- Panic
-	Moodles_panic_lvl1 = "軽いパニック状態",
-	Moodles_panic_lvl2 = "パニック状態",
-	Moodles_panic_lvl3 = "強いパニック状態",
-	Moodles_panic_lvl4 = "極度のパニック状態",
-
+	Moodles_panic_lvl1 = "軽いパニック",
+	Moodles_panic_lvl2 = "パニック",
+	Moodles_panic_lvl3 = "強いパニック",
+	Moodles_panic_lvl4 = "極度のパニック",
 	-- Sick
 	Moodles_sick_lvl1 = "気分が悪い",
 	Moodles_sick_lvl2 = "吐き気がある",
 	Moodles_sick_lvl3 = "病気",
-	Moodles_sick_lvl4 = "発熱！",
-
+	Moodles_sick_lvl4 = "発熱",
 	-- Bored
 	Moodles_bored_lvl1 = "つまらない",
 	Moodles_bored_lvl2 = "うんざりする",
 	Moodles_bored_lvl3 = "ひどく退屈してる",
 	Moodles_bored_lvl4 = "退屈しきっている",
-
 	-- Unhappy
 	Moodles_unhappy_lvl1 = "少し悲しい気分",
 	Moodles_unhappy_lvl2 = "ちょっと涙が出てきた",
 	Moodles_unhappy_lvl3 = "気持ちが落ち込む",
-	Moodles_unhappy_lvl4 = "現実逃避...",
-
+	Moodles_unhappy_lvl4 = "現実逃避",
 	-- Bleeding
 	Moodles_bleeding_lvl1 = "少量の失血",
 	Moodles_bleeding_lvl2 = "失血",
-	Moodles_bleeding_lvl3 = "出血",
+	Moodles_bleeding_lvl3 = "ひどい出血",
 	Moodles_bleeding_lvl4 = "大量の出血",
-
 	-- Wet
 	Moodles_wet_lvl1 = "湿っている",
 	Moodles_wet_lvl2 = "濡れた",
 	Moodles_wet_lvl3 = "ずぶ濡れ",
 	Moodles_wet_lvl4 = "びしょ濡れ",
-
 	-- Has a cold
 	Moodles_hascold_lvl1 = "鼻水が出る",
 	Moodles_hascold_lvl2 = "鼻づまり",
 	Moodles_hascold_lvl3 = "風邪ぎみ",
 	Moodles_hascold_lvl4 = "風邪を引いた",
-
 	-- Injured
-	Moodles_injured_lvl1 = "軽度のダメージ",
-	Moodles_injured_lvl2 = "中度のダメージ",
-	Moodles_injured_lvl3 = "重度のダメージ",
-	Moodles_injured_lvl4 = "危機的なダメージ",
-
+	Moodles_injured_lvl1 = "違和感",
+	Moodles_injured_lvl2 = "中傷",
+	Moodles_injured_lvl3 = "重傷",
+	Moodles_injured_lvl4 = "瀕死",
 	-- Pain
 	Moodles_pain_lvl1 = "軽い痛み",
 	Moodles_pain_lvl2 = "痛み",
 	Moodles_pain_lvl3 = "強い痛み",
 	Moodles_pain_lvl4 = "激しい痛み",
-
 	-- Drunk
 	Moodles_drunk_lvl1 = "ほろ酔い",
 	Moodles_drunk_lvl2 = "酔っている",
 	Moodles_drunk_lvl3 = "酩酊している",
 	Moodles_drunk_lvl4 = "泥酔してる",
-
 	-- Dead
 	Moodles_dead_lvl1 = "死亡した",
-
 	-- Zombified
-	Moodles_zombie_lvl1 = "ゾンビに変異！",
-
+	Moodles_zombie_lvl1 = "ゾンビに変異",
 	-- Food eaten
 	Moodles_foodeaten_lvl1 = "少しお腹が満たされた。",
 	Moodles_foodeaten_lvl2 = "お腹が満たされた。",
 	Moodles_foodeaten_lvl3 = "お腹が一杯になった。",
 	Moodles_foodeaten_lvl4 = "もうこれ以上食べられない。",
-
 	-- Hyperthermia
 	Moodles_hyperthermia_lvl1 = "不快な暑さ",
 	Moodles_hyperthermia_lvl2 = "体温上昇",
 	Moodles_hyperthermia_lvl3 = "日射病を発症",
 	Moodles_hyperthermia_lvl4 = "熱射病を発症",
-
 	-- Hypothermia
 	Moodles_hypothermia_lvl1 = "冷える",
 	Moodles_hypothermia_lvl2 = "寒い",
 	Moodles_hypothermia_lvl3 = "凍えている",
 	Moodles_hypothermia_lvl4 = "低体温症を発症",
+	-- Windchill
+	Moodles_windchill_lvl1 = "軽い風冷え",
+	Moodles_windchill_lvl2 = "やっかいな風冷え",
+	Moodles_windchill_lvl3 = "凍りつく風冷え",
+	Moodles_windchill_lvl4 = "ものすごい風冷え",				
 
 	-- Description of moodle
-
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "一息入れるべきだ。",
 	Moodles_endurance_desc_lvl2 = "かろうじて走れる。",
 	Moodles_endurance_desc_lvl3 = "かろうじて歩ける。",
-	Moodles_endurance_desc_lvl4 = "息途絶え途絶え。",
-
+	Moodles_endurance_desc_lvl4 = "ほとんど動けない。",
 	-- Angry
 	Moodles_angry_desc_lvl1 = "少し不機嫌。",
-	Moodles_angry_desc_lvl2 = "ムカついている。",
+	Moodles_angry_desc_lvl2 = "相当機嫌が悪い。",
 	Moodles_angry_desc_lvl3 = "頭にきてる。",
-	Moodles_angry_desc_lvl4 = "喧嘩したくてムズムズしてる。",
-
+	Moodles_angry_desc_lvl4 = "喧嘩したくてウズウズしてる。",
 	-- Stress
-	Moodles_stress_desc_lvl1 = "不安だ。",
-	Moodles_stress_desc_lvl2 = "緊張してびくびくしてる。",
+	Moodles_stress_desc_lvl1 = "緊張している。",
+	Moodles_stress_desc_lvl2 = "神経質でビクビクしている。",
 	Moodles_stress_desc_lvl3 = "手のひらが汗まみれで、激しい恐怖に怯えている。",
 	Moodles_stress_desc_lvl4 = "激しく怯えている。",
-
 	-- Thirsty
-	Moodles_thirst_desc_lvl1 = "喉が渇く。",
+	Moodles_thirst_desc_lvl1 = "口が渇いている。",
 	Moodles_thirst_desc_lvl2 = "脱水状態。",
 	Moodles_thirst_desc_lvl3 = "気が遠くなり目が回る。",
 	Moodles_thirst_desc_lvl4 = "水が飲みたくてたまらない。",
-
 	-- Tired
-	Moodles_tired_desc_lvl1 = "休息が必要だ。",
-	Moodles_tired_desc_lvl2 = "認識能力が低下した。",
-	Moodles_tired_desc_lvl3 = "認識能力が大幅に低下した。",
+	Moodles_tired_desc_lvl1 = "横になったほうがいい。",
+	Moodles_tired_desc_lvl2 = "認識能力が低下している。",
+	Moodles_tired_desc_lvl3 = "認識能力が大幅に低下している。",
 	Moodles_tired_desc_lvl4 = "意識を失う危険性がある。",
-
 	-- Hungry
 	Moodles_hungry_desc_lvl1 = "何か食べたい。",
 	Moodles_hungry_desc_lvl2 = "筋力と回復力が低下した。",
 	Moodles_hungry_desc_lvl3 = "筋力と回復力が大幅に低下した。",
 	Moodles_hungry_desc_lvl4 = "健康状態が悪化している。",
-
 	-- Panic
 	Moodles_panic_desc_lvl1 = "平常心を取り戻そう。",
-	Moodles_panic_desc_lvl2 = "正確度が低下した。",
-	Moodles_panic_desc_lvl3 = "正確度が大幅に低下した。",
-	Moodles_panic_desc_lvl4 = "正確度と視界が大幅に低下した。",
-
+	Moodles_panic_desc_lvl2 = "精度が低下した。",
+	Moodles_panic_desc_lvl3 = "精度が大幅に低下した。",
+	Moodles_panic_desc_lvl4 = "視界と精度が大幅に低下した。",
 	-- Sickness
 	Moodles_sick_desc_lvl1 = "まだ大丈夫なはずだ。",
 	Moodles_sick_desc_lvl2 = "筋力と回復力が低下した。",
 	Moodles_sick_desc_lvl3 = "筋力と回復力が大幅に低下した。",
 	Moodles_sick_desc_lvl4 = "死の危険が増している。",
-
 	-- Bored
 	Moodles_bored_desc_lvl1 = "気分転換か気晴らしをしよう。",
 	Moodles_bored_desc_lvl2 = "悲しくなってしまう危険性がある。",
 	Moodles_bored_desc_lvl3 = "高い確率で悲しくなってしまう。",
-	Moodles_bored_desc_lvl4 = "確実に悲しくなってしまう。",
-
+	Moodles_bored_desc_lvl4 = "ほぼ確実に悲しくなってしまう。",
 	-- Unhappy
 	Moodles_unhappy_desc_lvl1 = "気分を盛り上げる方法を見つけよう。",
-	Moodles_unhappy_desc_lvl2 = "何か興奮することするか人と接触しよう。",
+	Moodles_unhappy_desc_lvl2 = "何か興奮することや人との触れ合いを求めている。",
 	Moodles_unhappy_desc_lvl3 = "悲嘆と絶望でやつれきっている。",
 	Moodles_unhappy_desc_lvl4 = "現実を忘れる行動を探そう。",
-
 	-- Bleeding
 	Moodles_bleed_desc_lvl1 = "包帯が必要だ。",
-	Moodles_bleed_desc_lvl2 = "筋力と速さが低下した。",
-	Moodles_bleed_desc_lvl3 = "筋力と速さが大幅に低下した。",
+	Moodles_bleed_desc_lvl2 = "筋力と移動速度が低下した。",
+	Moodles_bleed_desc_lvl3 = "筋力と移動速度が大幅に低下した。",
 	Moodles_bleed_desc_lvl4 = "死が差し迫っている。",
-
 	-- Wet
-	Moodles_wet_desc_lvl1 = "少し湿っている。汗をかいているか、雨が降っている。",
-	Moodles_wet_desc_lvl2 = "湿っている。汗をかいているか、雨が降っている。",
+	Moodles_wet_desc_lvl1 = "少し湿っている。雨か、それとも汗?",
+	Moodles_wet_desc_lvl2 = "湿っている。汗をかいているか、雨に濡れた?",
 	Moodles_wet_desc_lvl3 = "濡れている。風邪を引く危険性がある。",
-	Moodles_wet_desc_lvl4 = "ずぶ濡れ。風邪を引く危険性大！",
-
+	Moodles_wet_desc_lvl4 = "風邪を引く危険性が高い。",
 	-- Has a cold
-	Moodles_hasacold_desc_lvl1 = "肌寒く感じる。",
-	Moodles_hasacold_desc_lvl2 = "暖を取れる手段を必要としている。",
-	Moodles_hasacold_desc_lvl3 = "寒さで健康が危険にさらされている。",
-	Moodles_hasacold_desc_lvl4 = "精神の混乱と死にさらされてる。",
-
+	Moodles_hasacold_desc_lvl1 = "時折、くしゃみが出る",
+	Moodles_hasacold_desc_lvl2 = "頻繫にくしゃみがでる",
+	Moodles_hasacold_desc_lvl3 = "くしゃみと咳が出る。移動速度と回復力が低下した。",
+	Moodles_hasacold_desc_lvl4 = "くしゃみと咳が出る。 移動速度と回復力が著しく低下した。",
 	-- Injured
-	Moodles_injured_desc_lvl1 = "応急処置が必要だ。",
-	Moodles_injured_desc_lvl2 = "筋力と速度が低下した。",
-	Moodles_injured_desc_lvl3 = "筋力と速度が大幅に低下した。",
+	Moodles_injured_desc_lvl1 = "包帯が必要だ。",
+	Moodles_injured_desc_lvl2 = "筋力と移動速度が低下した。",
+	Moodles_injured_desc_lvl3 = "筋力と移動速度が大幅に低下した。",
 	Moodles_injured_desc_lvl4 = "穏やかに眠れない...",
-
 	-- Pain
 	Moodles_pain_desc_lvl1 = "軽い痛みを感じる。",
-	Moodles_pain_desc_lvl2 = "速さと正確度がわずかに低下した。",
-	Moodles_pain_desc_lvl3 = "速さと正確度が低下した。",
-	Moodles_pain_desc_lvl4 = "速さと正確度が大幅に低下した。",
-
+	Moodles_pain_desc_lvl2 = "移動速度と精度がわずかに低下した。",
+	Moodles_pain_desc_lvl3 = "移動速度と精度が低下した。",
+	Moodles_pain_desc_lvl4 = "移動速度と精度が大幅に低下した。",
 	-- Heavy load
 	Moodles_heavyload_desc_lvl1 = "荷物が少し多い。",
 	Moodles_heavyload_desc_lvl2 = "移動速度が低下した。",
 	Moodles_heavyload_desc_lvl3 = "移動速度が大幅に低下した。",
-	Moodles_heavyload_desc_lvl4 = "背中に怪我を負う恐れがある。移動抑制。",
-
+	Moodles_heavyload_desc_lvl4 = "これ以上は耐えられない! 移動抑制。",
 	-- Drunk
 	Moodles_drunk_desc_lvl1 = "少し体がふらつく。",
-	Moodles_drunk_desc_lvl2 = "いくらか酒を飲み過ぎた。",
-	Moodles_drunk_desc_lvl3 = "体が思うように動かない。",
+	Moodles_drunk_desc_lvl2 = "協調性がやや損なわれている。",
+	Moodles_drunk_desc_lvl3 = "協調性が損なわれている。",
 	Moodles_drunk_desc_lvl4 = "わたしはぁ～世界がぁァ～敵になっでもぉ。あなたを愛してるぅ。ぁあ愛してるぅぅ～。",
-
 	-- Dead
-	Moodles_dead_desc_lvl1 = "高い確立でネズミの餌になってしまう。",
-
+	Moodles_dead_desc_lvl1 = "ネズミの餌になる可能性が高い。",
 	-- Zombified
-	Moodles_zombified_desc_lvl1 = "人間が食べたい～！",
-
+	Moodles_zombified_desc_lvl1 = "突然人を食べたくなった。",
 	-- Food eaten
-	Moodles_foodeaten_desc_lvl1 = "少しだけ回復力と筋力が向上した。",
-	Moodles_foodeaten_desc_lvl2 = "回復力と筋力が向上した。",
-	Moodles_foodeaten_desc_lvl3 = "凄く回復力と筋力が向上した。",
-	Moodles_foodeaten_desc_lvl4 = "非常に高い回復力と筋力が向上した。",
-
+	Moodles_foodeaten_desc_lvl1 = "不快な空腹感はまったくない。",
+	Moodles_foodeaten_desc_lvl2 = "お腹が満たされた。 美味しいものが体内に入ってくる。",
+	Moodles_foodeaten_desc_lvl3 = "胃腸が満たされる。健康と筋力が増加した。",
+	Moodles_foodeaten_desc_lvl4 = "もう一口も食べられない。",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "日が射さない場所での休憩をしよう。喉が渇いた。",
-	Moodles_hyperthermia_desc_lvl2 = "炎天下の中で汗をかき、喉が喉が渇いた。",
+	Moodles_hyperthermia_desc_lvl1 = "被服を脱いだ方が良いかもしれない。喉が渇いた。",
+	Moodles_hyperthermia_desc_lvl2 = "喉が渇いた。汗だく。炎天下だ。",
 	Moodles_hyperthermia_desc_lvl3 = "吐き気がして集中できない。水が欲しくてたまらない。",
-	Moodles_hyperthermia_desc_lvl4 = "精神の混乱と恐ろしい死が迫っている。",
-
+	Moodles_hyperthermia_desc_lvl4 = "熱中症と炎天下で錯乱している。深刻な危険にさらされている。",
 	-- Hypothermia
-	Moodles_hypothermia_desc_lvl1 = "肌寒く感じてる。",
-	Moodles_hypothermia_desc_lvl2 = "体を保温する必要がある。",
-	Moodles_hypothermia_desc_lvl3 = "心と体が寒さに取り付かれている。健康が危険にさらされている。",
-	Moodles_hypothermia_desc_lvl4 = "寒さによる麻痺と低温が原因の意識障害。恐ろしい死の危険が迫っている。",
-
+	Moodles_hypothermia_desc_lvl1 = "ここは少し肌寒い...",
+	Moodles_hypothermia_desc_lvl2 = "暖を取るための工夫が必要だ。",
+	Moodles_hypothermia_desc_lvl3 = "生きている。"とても"寒い。",
+	Moodles_hypothermia_desc_lvl4 = "心と体が寒さに取り憑かれている。",
 	-- Windchill
-
-	Moodles_windchill_lvl1 = "軽い風冷え",
-	Moodles_windchill_lvl2 = "やっかいな風冷え",
-	Moodles_windchill_lvl3 = "凍りつく風冷え",
-	Moodles_windchill_lvl4 = "ものすごい風冷え",
-
-	Moodles_windchill_desc_lvl1 = "実際よりも5-10度くらい冷たく感じる。",
-	Moodles_windchill_desc_lvl2 = "実際よりも10-15度くらい冷たく感じる。",
-	Moodles_windchill_desc_lvl3 = "実際よりも15-20度くらい冷たく感じる。",
-	Moodles_windchill_desc_lvl4 = "実際よりも20度以上冷たく感じる。",
-
-	Moodles_CantSprint = "制限された移動",
-	Moodles_CantSprint_desc = "重い被服、かさばるバッグ、大きな荷物などで動きが重くなる！",
-
+	Moodles_windchill_desc_lvl1 = "実際の気温よりも5-10度ほど寒く感じる。",
+	Moodles_windchill_desc_lvl2 = "実際の気温よりも10-15度ほど寒く感じる。",
+	Moodles_windchill_desc_lvl3 = "実際の気温よりも15-20度ほど寒く感じる。",
+	Moodles_windchill_desc_lvl4 = "実際の気温よりも20度以上寒く感じる。",
+    -- CantSprint				 
+	Moodles_CantSprint = "移動制限",
+	Moodles_CantSprint_desc = "重い被服、かさばるバッグ、大きな荷物などが足かせになっている!",
 }

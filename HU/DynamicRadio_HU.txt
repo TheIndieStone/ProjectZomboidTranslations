@@ -83,8 +83,8 @@ AEBS_segment_morning = "reggel",
 AEBS_segment_afternoon = "délután",
 AEBS_segment_evening = "este",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+    -- v41.68
+	-- Átnézve 2022.03.20
 	-- Megjegyzés:
     -- Nincs új sor és változás.
 }
