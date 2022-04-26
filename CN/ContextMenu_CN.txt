@@ -82,9 +82,9 @@ ContextMenu_CN = {
 	ContextMenu_Smoke = "抽烟",
 	ContextMenu_Chop_Tree = "砍倒树",
 	ContextMenu_WaterName = "水",
-	ContextMenu_WaterSource = "水源"
-	Puddle = "水坑"
-	ContextMenu_NaturalWaterSource = "天然水源"
+	ContextMenu_WaterSource = "水源",
+	Puddle = "水坑",
+	ContextMenu_NaturalWaterSource = "天然水源",
 	
 	-- Crafting menu
 	ContextMenu_Door = "门",
@@ -445,7 +445,7 @@ ContextMenu_CN = {
     ContextMenu_WashAllClothing = "所有衣物",
     ContextMenu_WashClothing = "%1",
     ContextMenu_Attach = "挂到",
-    ContextMenu_RemoveFromHotbar = "从 %2 拿掉 %1 "
+    ContextMenu_RemoveFromHotbar = "从 %2 拿掉 %1 ",
     ContextMenu_HotbarRadialRemove = "拿掉<br> %1 ",
     ContextMenu_ChangeFireMode = "更改射击模式",
     ContextMenu_FireMode_Single = "单点",
