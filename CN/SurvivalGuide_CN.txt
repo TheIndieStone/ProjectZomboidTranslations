@@ -15,8 +15,8 @@ SurvivalGuide_CN = {
                                     ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项, 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
                                     "<H1> 不要死 <BR> <TEXT> 任何时候都尽量不要死. <BR>",
 
-	SurvivalGuide_entrie2title = "#2 - 不要奔跑",
-	SurvivalGuide_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 不要奔跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> 使用 <SPACE><KEY:Run><SPACE> 进行慢跑, 使用 <SPACE><KEY:Sprint><SPACE> 进行冲刺, 但要小心!",
+	SurvivalGuide_entrie2title = "#2 - 隐秘行动",
+	SurvivalGuide_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 隐秘行动 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> 使用 <SPACE><KEY:Run><SPACE> 进行慢跑, 使用 <SPACE><KEY:Sprint><SPACE> 进行冲刺, 但要小心!",
 	SurvivalGuide_entrie2moreinfo = " <H1> 僵尸感知 <BR> <TEXT> 僵尸会对视线和声音做出反应. 要极其警惕警报器、警报和枪声等响亮的噪音, 因为附近的僵尸群肯定会来到这里. <LINE> <BR>"..
                                     "<H1> 奔跑 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> 使用 <SPACE><KEY:Run><SPACE> 进行慢跑, 使用 <SPACE><KEY:Sprint><SPACE> 进行冲刺. 冲刺时会产生较大的脚步声音, 让你更引人注目. 你可以在一段时间内跑进僵尸的视线死角躲起来, 但这不是永远."..
                                     " <BR> <H1> 蹲下 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 你可以通过使用 <SPACE><KEY:Crouch><SPACE> 蹲下来降低他们发现你的可能, 然后蹲在墙壁和栅栏旁边以进一步降低自己被发现的可能 (注意你的角色在掩体时蹲下更低). 你也可以在这种状态下慢跑. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
@@ -70,34 +70,34 @@ SurvivalGuide_CN = {
                                     " <H1> 车辆菜单 <BR> <TEXT> 如果你在车辆内部或旁边, 请点击 <SPACE><KEY:VehicleRadialMenu>. 这将打开其互动菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 从这里你可以切换座位、锁门、操作灯、打开车辆信息等等. <BR> " ..
                                     " <H1> 车辆检查 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 没有经验的幸存者可以检查他们的电池是否有电, 查看燃料水平, 并注意某些部分是否出现损坏. 技工技能较高的幸存者将能够看到额外的细节, 并安装和拆卸零件. <BR> 有关此和技工技能的更多信息, 请单击技工左上角的信息图标窗口. <BR>",
 
-    SurvivalGuide_entrie10title = "#10 - WEATHER",
-    SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - WEATHER AND CLOTHING <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Remember, your clothes can protect from more than just the wind...",
-    SurvivalGuide_entrie10moreinfo = "<H1> CLIMATE CHANGE <BR> <TEXT> Weather patterns in Project Zomboid are realistic. A simulated climate system uses the time of year, and virtual weather fronts, to create the rain, snow, fog and thunderstorms at the relevant times of year. Wear the right clothes to keep you cool in the summer and warm in winter, and remember to keep them in good condition! <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> Temperature has an impact on your survival. When winter draws in, your resistance to the cold will be highest if you're well fed, not tired and wearing proper winter clothing. It will also help to keep active and be physically fit. Wetness and sickness will both increase the likelihood of you suffering from the cold. <LINE> " ..
-                                      "During periods of extreme cold it's best to warm up inside a building or with heat sources like campfires, car heaters and stoves. <LINE> "..
-                                      " When surviving during hot weather, meanwhile, staying well-hydrated and wearing lighter clothing is advised. <LINE> <BR>" ..
-                                      " <H2> KNOWING TEMPERATURE <BR> <TEXT> Wearing a digital watch will show the temperature on your UI. <LINE> <BR> " ..
-                                      " <H2> WIND CHILL <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> Being outside, especially during winter months, will make you experience wind chill. Heavy rain or blizzards in mid-winter can severely drop your temperature due to the combination of strong wind and low temperature. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Wind chill affects your body, but won't show a direct difference in temperature on your digital watch. Keep an eye on your moodles to see when it's impacting on you. <LINE> <BR> "<H1> CLOTHING PROTECTION <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> Wearing the right clothing could protect you from bites, scratches and lacerations. Press P to open the Clothing Protection Panel and see an overview of your survivor's current protection levels. <BR> You can repair holes in your clothing with the appropriate materials and Tailoring level, and even add padding to add more protection. Simply right click on the clothing item in your inventory and click "Inspect", then right click on the area you want to patch or repair. Just make sure you have strips of the appropriate fabric along with a needle and thread in your inventory. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+    SurvivalGuide_entrie10title = "#10 - 气候无常",
+    SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 气候无常 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 请记住, 衣服不仅仅是防风用的...",
+    SurvivalGuide_entrie10moreinfo = "<H1> CLIMATE CHANGE <BR> <TEXT> 气候系统会制造雨, 雪,雾和雷暴等天气, 并且拥有跟现实世界一样的四季. 请穿对衣服, 使得冬暖夏凉, 记得保持良好状态!<LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 温度会影响你的生存. 如果你饮食充足, 体力充沛并穿着冬装, 那么冬天不会变的那么可怕, 但是衣服潮湿或疾病在冬天依然是非常大的威胁.. <LINE> " ..
+                                      " 在极端寒冷天气下, 最好使用取暖设备进行取暖: 壁炉, 汽车暖气和室外篝火都可以取暖. <LINE> "..
+                                      " 在极端炎热天气下, 最好随身携带充足的饮水, 同时请尽量穿着夏装. <LINE> <BR>" ..
+                                      " <H2> 知晓温度 <BR> <TEXT> 戴上电子手表会在你设定的 UI 位置显示温度. <LINE> <BR> " ..
+                                      " <H2> 寒风 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 在户外, 尤其是在冬季, 会让你感到寒冷. 大雨或暴风雪形成强风和低温的组合, 会严重降低你的体温. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 寒风会影响你的体温, 但不会在你的数字手表上显示直接的温度差异. 密切注意你的体温可以及时得知寒风是否在影响你. <LINE> <BR> "<H1> 防护衣物 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿着合适的衣服可以保护你免受咬伤、划伤和撕裂. 点击 P 打开服装保护面板可以查看幸存者当前保护概率. <BR> 你可以使用适当的材料和缝纫技能修复衣服上的破洞, 甚至可以添加填充物以增加保护. 只需右键单击物品栏中的服装项目并单击"检查", 然后右键单击要修补或修复的区域. 只需确保你的物品栏中有合适的织物条以及针和线即可. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
-    SurvivalGuide_entrie11title = "#11 - FORAGING",
-    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - FORAGING <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> The world is full of useful stuff if you know where (and when, and how) to look! <LINE> <LINE> Berries, mushrooms, stones... who knows what you'll find if you look in the right place?",
-    SurvivalGuide_entrie11moreinfo = " <H1> FORAGING / SEARCH SYSTEM <BR> " ..
+    SurvivalGuide_entrie11title = "#11 - 搜寻物品",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 搜寻物品 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界上到处都是有用的东西, 如果你善于发现的话! <LINE> <LINE> 浆果, 蘑菇, 石头... 谁知道你会发现什么?",
+    SurvivalGuide_entrie11moreinfo = " <H1> 搜寻系统 <BR> " ..
                                      " <TEXT> <SIZE:small>" ..
-                                     " The Investigate Area window shows your zone. This impacts on the loot that can be found." ..
-                                     " Hover your mouse over the window to inspect the loot categories that are available in your current zone." ..
-                                     " If you see "?????", then there is nothing of use that can be found. <LINE> <LINE> " ..
+                                     " 调查区域窗口可以显示你所在区域. 这会影响可以找到的物品." ..
+                                     " 将鼠标悬停在窗口上可以看到所在区域的物品类别/概率." ..
+                                     " 如果你看到 ????? , 那么就找不到任何有用的东西了. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
-                                     " To start searching, click 'Enable Search Mode'. The search radius will appear. This is the area in which your survivor can spot items. <LINE> <LINE>" ..
-                                     " An arrow pointing to an item will appear when they see something. An eye icon will appear while your character approaches, and sees exactly what it is. <LINE> <LINE>" ..
-                                     " Double click a discovered item to pick it up. Right click for more pickup options. <LINE> <LINE> " ..
+                                     " 要开始搜寻, 请单击启用 搜寻模式 . 搜寻半径将出现. 这是你的幸存者可以发现物品的区域. <LINE> <LINE>" ..
+                                     " 当幸存者发现物品时时会出现一个指向箭头. 当你的角色靠近时会出现一个眼睛图标, 并可以准确地看到它. <LINE> <LINE>" ..
+                                     " 双击一个发现的物品图标来拾取它. 右键单击以获得更多拾取选项. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> IMPROVING YOUR SEARCHING <TEXT> <BR> " ..
-                                     " Looking around (by aiming) and crouching will both increase the search radius. Darkness, inclement weather, skills, item size and negative moodles (stress, injuries, etc) will all affect item visibility. <LINE> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 搜寻技巧 <TEXT> <BR> " ..
+                                     " 环顾四周 (通过瞄准)和蹲下都会增加搜寻半径. 黑暗、恶劣天气、技能、物品大小和负面情绪 (压力、伤疼等)都会影响物品的可见性. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> IMPORTANT! <TEXT> <BR> " ..
-                                     " Be sure to check relevant and logical locations!" ..
-                                     " For example, trash can be found in trash piles, chipped stones are often found in cracks and potholes on roads. <LINE> <LINE> ",
+                                     " <SIZE:medium> <CENTRE> 重要! <TEXT> <BR> " ..
+                                     " 请注意物品出现的区域!" ..
+                                     " 例如, 垃圾堆中经常发现垃圾, 道路裂缝和坑洼中经常发现碎石等等. <LINE> <LINE> ",
 
 	SurvivalGuide_Joypad_entrie1title = "#1 - THE BASICS",
 	SurvivalGuide_Joypad_entrie1txt = " <CENTRE> "<SIZE:large> #1 - CONTROL YOURSELF <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> You're not going to survive long if you don't take some deep breaths, and learn the basics.",
