@@ -9,6 +9,7 @@ Moveables_TH = {
     Air_Blower = "Paper-towel Dispenser",
     Air_Conditioner = "เครื่องปรับอากาศ",
     Angelic_Gravestone = "ป้ายหลุมศพรูปปั้นนางฟ้า",
+    Animal_Trough = "รางอาหารสัตว์",
     Antique_Outdoor_Lamp = "โคมไฟนอกโบราณ",
     Antique_Oven = "เตาโบราณ",
     Antique_Television = "ทีวีโบราณ",
@@ -85,7 +86,8 @@ Moveables_TH = {
     Blue_Seat = "เก้าอี้สีฟ้า",
     Blue_Theatre_Chair = "เก้าอี้โรงหนังสีน้ำเงิน",
     Blue_Wall_Locker = "ตู้เก็บของติดผนังสีน้ำเงิน",
-    Blue_Washing_Machine = "เครื่องซักผ้าสีฟ้า",
+    Blue_Washing_Machine = "เครื่องซักผ้าสีน้ำเงิน",
+    Blue_Combo_Washer_Dryer = "เครื่องซักผ้า/เครื่องอบผ้าสีน้ำเงิน",
     Blue_Zippee_Floor = "พื้นซิปปี้สีน้ำเงิน",
     Bonsai_Tree = "ต้นบอนไซ",
     Book_Naked_Sign = "ป้าย Book Naked",
@@ -119,6 +121,8 @@ Moveables_TH = {
     Chestnut_West_Floor = "พื้นไม้เกาลัด หันหน้าทิศตะวันตก",
     Childs_Drawing = "ภาพวาดของเด็ก",
     Childrens_Drawing = "ภาพวาดของเด็ก",
+    Childrens_Play_Castle = "ปราสาทของเล่นเด็ก",
+    Childs_Drawing = "ภาพวาดของเด็ก",
     China_Cabinet = "ตู้โชว์",
     Chrome_Microwave = "ไมโครเวฟ",
     Chrome_Sink = "อ่างโลหะ",
@@ -248,7 +252,7 @@ Moveables_TH = {
     Green_Counter = "เคาน์เตอร์สีเขียว",
     Green_Curtain = "ผ้าม่านสีเขียว",
     Green_Diagonal_Tiles = "กระเบื้องลายทแยงสีเขียว",
-    Green_Diner_Floor = "Green Diner Floor",
+    Green_Diner_Floor = "พื้นร้านอาหารสีเขียว",
     Green_Dinner_Chair = "เก้าอี้ไม้สีเขียว",
     Green_Fridge = "ตู้เย็นสีเขียว",
     Green_Garbage_Bin = "ถังขยะสีเขียว",
@@ -322,6 +326,7 @@ Moveables_TH = {
     Large_Oak_Table = "โต๊ะไม้โอ๊กใหญ่",
     Large_Plant = "ต้นไม้ใหญ่",
     Large_Plastic_Table = "โต๊ะพลาสติกใหญ่",
+    Large_Rental_Shelves = "ชั้นเช่าขนาดใหญ่",
     Large_Shop_Shelves = "ชั้นวางของร้านใหญ่",
     Large_Simple_Table = "โต๊ะไม้ใหญ่",
     Large_Smooth_Table = "โต๊ะใหญ่ขัดเงา",
@@ -383,6 +388,7 @@ Moveables_TH = {
     Mediocre_Large_Table = "Crafted Large Table",
     Medium_Table = "Crafted Table with Drawer",
     Merry_Go_Round = "ม้าหมุน",
+    Metal_Drum = "ถังโลหะ",
     Metal_Locker = "ตู้เก็บของโลหะ",
     Metal_Wall_Shelves = "ชั้นวางของโลหะติดผนัง",
     Middle_Evangelical_Banner = "Middle Evangelical Banner",
@@ -488,6 +494,7 @@ Moveables_TH = {
     Red_Comfy_Couch = "โซฟายาวโมเดิร์นสีส้ม",
     Red_Fridge = "ตู้เย็นสีแดง",
     Red_Lamp = "โคมไฟสีแดง",
+    Red_Mobile_Tool_Cabinet = "ตู้เครื่องมือเคลื่อนที่สีแดง",
     Red_Oven = "เตาสีแดง",
     Red_Pie_Poster = "แผ่นป้ายพายสีแดง",
     Red_Torn_Poster = "แผ่นป้ายฉีกขาดสีแดง",
@@ -534,6 +541,7 @@ Moveables_TH = {
     Small_Green_Curtain = "ผ้าม่านสีเขียวเล็ก",
     Small_Mirror = "Small Mirror",
     Small_Pearl_Curtain = "ผ้าม่านสีไข่มุกเล็ก",
+    Small_Rental_Shelves = "ชั้นเช่าขนาดเล็ก",
     Small_Soda_Machine = "ตู้กดเล็ก",
     Small_Table = "โต๊ะไม้เล็กพร้อมลิ้นชัก",
     Small_White_Curtain = "ผ้าม่านสีขาวเล็ก",
@@ -685,17 +693,16 @@ Moveables_TH = {
     Zippee_Market_Sign = "ป้ายซิปปี้",
     Zippee_Shelves_Rack = "ชั้นวางของขนาดใหญ่ซิปปี้",
     Zippee_Wall_Shelves = "ชั้นวางของติดผนังสูงซิปปี้",
-
-    -- ISMoveableSpriteProps names
+    
+    
     Moveable_object = "วัตถุที่เคลื่อนย้ายได้",
     Scrapable_object = "วัตถุที่ทำลายได้",
     
-    -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
+    
     Lamp_on_Pillar = "Lamp on Pillar",
     Metal_Crate = "ลังเหล็ก",
     Stone_Pile = "กองหิน",
     Wooden_Picket = "เสาปักรั้วไม้",
     Wooden_Stairs = "ไม้",
-
-}
-
+    
+}    

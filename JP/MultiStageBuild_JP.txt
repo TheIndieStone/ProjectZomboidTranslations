@@ -12,7 +12,7 @@ MultiStageBuild_JP = {
 	MultiStageBuild_CreateWoodenWindow_2 = "木製の窓を製作する レベル2",
 	MultiStageBuild_UpgradeWoodenWindow_1To3 = "木製の窓を補強する レベル3",
 	MultiStageBuild_UpgradeWoodenWindow_2To3 = "木製の窓を補強する レベル3",
-	MultiStageBuild_CreateWoodenWindow_3 = "木製の窓を製作する レベル3)",
+	MultiStageBuild_CreateWoodenWindow_3 = "木製の窓を製作する レベル3",
     -- Metal Wall				 
 	MultiStageBuild_CreateMetalWall_1 = "金属製の壁を製作する レベル1",
 	MultiStageBuild_UpgradeMetalWall_1To2 = "金属製の壁を補強する レベル2",
