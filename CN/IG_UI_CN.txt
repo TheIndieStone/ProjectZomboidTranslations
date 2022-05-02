@@ -240,6 +240,7 @@ IGUI_CN = {
 	IGUI_ItemCat_WeaponPart = "武器部件",
 	IGUI_ItemCat_Wound = "伤口",
 	IGUI_ItemCat_ZedDmg = "ZedDmg",
+	
 	IGUI_Packing = "打包",
 	IGUI_PuttingInContainer = "放入容器",
 	IGUI_Unpacking = "解包",
