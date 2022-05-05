@@ -295,4 +295,22 @@ Tooltip_CN = {
     Tooltip_BookTitle_5 = "%1 适合高级",
     Tooltip_BookTitle_7 = "%1 适合专家",
     Tooltip_BookTitle_9 = "%1 适合大师",
+	
+	
+	-----Add Text-----
+	
+	Tooltip_BookTitle_Sprinting = "冲刺",
+	Tooltip_BookTitle_Sneaking = "潜行",
+	Tooltip_BookTitle_Nimble = "灵活",
+	Tooltip_BookTitle_Aiming = "瞄准",
+	Tooltip_BookTitle_SmallBlade = "短刀",
+	Tooltip_BookTitle_SmallBlunt = "短棍",
+	Tooltip_BookTitle_Maintenance = "维护",
+	Tooltip_BookTitle_Reloading = "装填",
+	Tooltip_BookTitle_Lightfooted = "轻盈",
+	Tooltip_BookTitle_LongBlade = "长刀",
+	Tooltip_BookTitle_Blunt = "长棍",
+	Tooltip_BookTitle_Spear = "长矛",
+	Tooltip_BookTitle_Axe = "斧头",
+	
 }
