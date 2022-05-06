@@ -764,6 +764,8 @@ Moveables_CN = {
 	Left_Bar_Wall_Bar = "酒吧酒架(左)",
 	Bar_Wall_Bar = "酒吧酒架(中)",
 	Right_Bar_Wall_Bar = "酒吧酒架(右)",
-	
+	Bunk_Beds = "双层床",
+	CeroSec_Terminal = "调音终端机",
+	Standing_Microphone = "立式麦克风",
 }
 
