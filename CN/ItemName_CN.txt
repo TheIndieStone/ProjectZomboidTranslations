@@ -1891,4 +1891,31 @@ ItemName_CN = {
     ItemName_farming.TomatoSeed = "番茄种子",
     ItemName_farming.WateredCan = "洒水壶",
     ItemName_farming.WateredCanFull = "洒水壶(水)",
+	
+	
+	--Add Text--
+	
+	ItemName_Base.PieApple = "苹果派切片",
+	ItemName_Base.PieBlueberry = "蓝莓派切片",
+	ItemName_Base.CandyFruitSlices = "蜜饯水果切片",
+	ItemName_Base.ChocoCakes = "巧克力蛋糕",
+	ItemName_Base.ChocolateCoveredCoffeeBeans = "巧克力咖啡豆",
+	ItemName_Base.CornFrozen = "玉米糖",
+	ItemName_Base.GummyBears = "小熊软糖",
+	ItemName_Base.HardCandies = "水果硬糖",
+	ItemName_Base.Jujubes = "枣糖",
+	ItemName_Base.PieKeyLime = "酸橙馅饼片",
+	ItemName_Base.Lard = "猪油",
+	ItemName_Base.PieLemonMeringue = "柠檬蛋白酥饼片",
+	ItemName_Base.Margarine = "人造黄油",
+	ItemName_Base.MixedVegetables = "混合蔬菜",
+	ItemName_Base.QuaggaCakes = "斑驴蛋糕",
+	ItemName_Base.RockCandy = "冰糖棒",
+	ItemName_Base.SnoGlobes = "斯诺糖球",
+	ItemName_Base.CookiesSugar = "糖饼干",
+	ItemName_Base.SugarPacket = "小袋糖",
+	
+	ItemName_Base.Plonkies = "笨蛋夹心卷",
+	ItemName_Base.HiHis = "开心糖",
+	
 }
