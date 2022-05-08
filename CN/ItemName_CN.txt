@@ -1915,7 +1915,7 @@ ItemName_CN = {
 	ItemName_Base.CookiesSugar = "糖饼干",
 	ItemName_Base.SugarPacket = "小袋糖",
 	
-	ItemName_Base.Plonkies = "笨蛋夹心卷",
-	ItemName_Base.HiHis = "开心糖",
+	ItemName_Base.Plonkies = "蛋黄夹心卷",
+	ItemName_Base.HiHis = "螺旋花纹面包",
 	
 }
