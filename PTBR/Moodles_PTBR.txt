@@ -169,8 +169,8 @@ Moodles_PTBR = {
 	-- Úmido
 	Moodles_wet_desc_lvl1 = "Está um pouco úmido. Chuva ou suor?",
 	Moodles_wet_desc_lvl2 = "Estou mais suado, ou está chovendo mais?",
-    	Moodles_wet_desc_lvl3 = "Chance de pegar um resfriado.",
-    	Moodles_wet_desc_lvl4 = "Grande chance de pegar um resfriado.",
+	Moodles_wet_desc_lvl3 = "Chance de pegar um resfriado.",
+	Moodles_wet_desc_lvl4 = "Grande chance de pegar um resfriado.",
 	-- Resfriado
 	Moodles_hasacold_desc_lvl1 = "Espirros ocasionais.",
 	Moodles_hasacold_desc_lvl2 = "Espirros frequentes",
@@ -213,14 +213,14 @@ Moodles_PTBR = {
 	-- Hipotermia
 	Moodles_hypothermia_desc_lvl1 = "Está ficando um pouco frio por aqui...",
 	Moodles_hypothermia_desc_lvl2 = "Encontre alguma forma de se aquecer.",
-	Moodles_hypothermia_desc_lvl3 = "Está MUITO frio!"
+	Moodles_hypothermia_desc_lvl3 = "Está MUITO frio!",
 	Moodles_hypothermia_desc_lvl4 = "Corpo e mente tomados pelo frio.",
-    	-- Ventania
-    	Moodles_windchill_desc_lvl1 = "Sensação térmica de 5 a 10 graus mais frio do que o normal.",
-    	Moodles_windchill_desc_lvl2 = "Sensação térmica de 10 a 15 graus mais frio do que o normal.",
-    	Moodles_windchill_desc_lvl3 = "Sensação térmica de 15 a 20 graus mais frio do que o normal.",
-    	Moodles_windchill_desc_lvl4 = "Sensação térmica acima de 20 graus mais frio do que o normal.",
-    	-- Não Posso Correr
-    	Moodles_CantSprint = "Movimento Restrito"
+	-- Ventania
+	Moodles_windchill_desc_lvl1 = "Sensação térmica de 5 a 10 graus mais frio do que o normal.",
+	Moodles_windchill_desc_lvl2 = "Sensação térmica de 10 a 15 graus mais frio do que o normal.",
+	Moodles_windchill_desc_lvl3 = "Sensação térmica de 15 a 20 graus mais frio do que o normal.",
+	Moodles_windchill_desc_lvl4 = "Sensação térmica acima de 20 graus mais frio do que o normal.",
+	-- Não Posso Correr
+	Moodles_CantSprint = "Movimento Restrito",
    	Moodles_CantSprint_desc = "Roupas e mochilas pesadas ou itens grandes estão atrapalhando você!"
 }

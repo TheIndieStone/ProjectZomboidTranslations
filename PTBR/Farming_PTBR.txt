@@ -24,7 +24,7 @@ Farming_PTBR = {
     Farming_Plant_Information = "Informações da planta",
     Farming_Current_growing_phase = "Fase de crescimento atual",
     Farming_Next_growing_phase = "Próxima fase de crescimento",
-    Farming_Last_time_watered = = "Última vez regada",
+    Farming_Last_time_watered = "Última vez regada",
     Farming_Fertilized = "Fertilizada",
     Farming_Health = "Saudável",
     Farming_Disease = "Doente",
