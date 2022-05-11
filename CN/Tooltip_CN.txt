@@ -299,6 +299,8 @@ Tooltip_CN = {
 	
 	-----Add Text-----
 	
+	Tooltip_BookTitle_Strength = "力量",
+	Tooltip_BookTitle_Fitness = "体格",
 	Tooltip_BookTitle_Sprinting = "冲刺",
 	Tooltip_BookTitle_Sneaking = "潜行",
 	Tooltip_BookTitle_Nimble = "灵活",
