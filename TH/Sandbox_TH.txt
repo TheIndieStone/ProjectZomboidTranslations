@@ -183,7 +183,7 @@ Sandbox_TH = {
     Sandbox_StartErosion_option21 = "95%",
     Sandbox_StartErosion_option22 = "100%",
     Sandbox_StartErosion_tooltip = "เลือก "ไม่ใช้" เพื่อปิดการสึกกร่อนของสิ่งก่อสร้าง",
-    Sandbox_ErosionSpeed ​​= "ความเร็วในการสึกกร่อนของสิ่งก่อสร้าง",
+    Sandbox_ErosionSpeed = "ความเร็วในการสึกกร่อนของสิ่งก่อสร้าง",
     Sandbox_ErosionSpeed_tooltip = "จำนวนวันที่การสึกกร่อนจะทรุดโทรมจนถึง 100%",
     Sandbox_ErosionSpeed_option1 = "เร็วมาก (20 วัน)",
     Sandbox_ErosionSpeed_option2 = "เร็ว (50 วัน)",
@@ -192,7 +192,7 @@ Sandbox_TH = {
     Sandbox_ErosionSpeed_option5 = "ช้ามาก (500 วัน)",
     Sandbox_ErosionDays = "ระยะเวลาในการสึกกร่อนของสิ่งก่อสร้าง (วัน)",
     Sandbox_ErosionDays_tooltip = "จำนวนวันจนกว่าการสึกกร่อนจะถึง 100%\n-1 หมายถึงจะไม่มีการสึกกร่อนเพิ่มขึ้นอีก\nศูนย์หมายถึงใช้ตัวเลือกความเร็วในการสึกกร่อนของสิ่งก่อสร้าง\nสูงสุด 36,500 (100 ปี)",
-    Sandbox_FarmingSpeed ​​= "ความเร็วในการทำฟาร์ม",
+    Sandbox_FarmingSpeed = "ความเร็วในการทำฟาร์ม",
     Sandbox_FarmingSpeed_tooltip = "กำหนดความเร็วในการเจริญเติบโตของพืช",
     Sandbox_FarmingSpeed_option1 = "เร็วมาก",
     Sandbox_FarmingSpeed_option2 = "เร็ว",
@@ -237,7 +237,7 @@ Sandbox_TH = {
     --
     Sandbox_Character = "ปรับแต่งตัวละคร",
     Sandbox_XpMultiplier = "คูณค่าประสบการณ์",
-No Match
+    Sandbox_XpMultiplier_tooltip = "เปลี่ยนแปลงค่าประสบการณ์พื้นฐานที่ได้รับจากการกระทำด้วยค่านี้",
     Sandbox_StatDecrease = "ร่างกายทรุดโทรม",
     Sandbox_StatDecrease_tooltip = "ความเร็วที่ตัวละครจะหิว กระหาย เหนื่อยล้า",
     Sandbox_StatDecrease_option1 = "เร็วมาก",
@@ -253,7 +253,7 @@ No Match
     --
     Sandbox_ZombieAdvanced = "ตัวเลือกซอมบี้ขั้นสูง",
     --
-    Sandbox_ZSpeed ​​= "ความเร็ว",
+    Sandbox_ZSpeed = "ความเร็ว",
     Sandbox_ZSpeed_tooltip = "กำหนดความเร็วในการเคลื่อนที่ของซอมบี้",
     Sandbox_ZSpeed_option1 = "วิ่ง",
     Sandbox_ZSpeed_option2 = "เดินเร็ว",
@@ -287,7 +287,7 @@ No Match
     Sandbox_ZInfectionMortality_option6 = "ภายใน 1-2 สัปดาห์",
     Sandbox_ZInfectionMortality_option7 = "ไม่ตาย",
     Sandbox_ZReanimateTime = "เมื่อผู้เล่นตาย ศพจะฟื้นและกลายร่างเป็นซอมบี้",
-    Sandbox_ZInfectionMortality_tooltip = "กำหนดระยะเวลาที่ศพของผู้เล่นจะฟื้นและกลายร่างเป็นซอมบี้",
+	Sandbox_ZReanimateTime_tooltip = "กำหนดระยะเวลาที่ศพของผู้เล่นจะฟื้นและกลายร่างเป็นซอมบี้",
     Sandbox_ZReanimateTime_option1 = "ทันที",
     Sandbox_ZReanimateTime_option2 = "ภายใน 0-30 วินาที",
     Sandbox_ZReanimateTime_option3 = "ภายใน 0-1 นาที",
@@ -408,7 +408,7 @@ No Match
     Sandbox_MetaEvent_tooltip = "ความถี่ของอีเวนต์เมตาเกมที่จะดึงดูดซอมบี้ เช่น เสียงกระสุนปืนจากระยะไกล",
     Sandbox_MetaEventFreq_option1 = "ไม่มี",
     Sandbox_MetaEventFreq_option2 = "บางครั้ง",
-    Sandbox_HelicopterFreq_option4 = "บ่อยครั้ง",
+    Sandbox_MetaEventFreq_option3 = "บ่อยครั้ง",
     Sandbox_SleepingEvent = "อีเวนต์การนอนหลับ",
     Sandbox_SleepingEvent_tooltip = "กำหนดอีเวนต์เมตาเกมในช่วงเวลากลางคืนระหว่างการนอนหลับของผู้เล่น",
     Sandbox_SadisticAIDirector = "AI กำกับอีเวนต์ซาดิสต์",
@@ -561,7 +561,7 @@ No Match
     Sandbox_CarDamageOnImpact_option3 = "ปกติ",
     Sandbox_CarDamageOnImpact_option4 = "สูง",
     Sandbox_CarDamageOnImpact_option5 = "สูงมาก",
-
+	Sandbox_DamageToPlayerFromHitByACar = "ผู้เล่นได้รับความเสียหายเมื่อถูกรถชน",
     Sandbox_DamageToPlayerFromHitByACar_tooltip = "ความเสียหายที่ผู้เล่นได้รับจากการถูกรถชน",
     Sandbox_DamageToPlayerFromHitByACar_option1 = "ไม่มี",
     Sandbox_DamageToPlayerFromHitByACar_option2 = "ต่ำ",
@@ -583,7 +583,7 @@ No Match
     Sandbox_SirenShutoffHours = "เวลาปิดไซเรน",
     Sandbox_SirenShutoffHours_tooltip = "เวลาชั่วโมงในเกมก่อนที่เสียงไซเรนจะหยุดดัง",
     Sandbox_EnableVehicles = "ยานพาหนะ",
-No Match
+    Sandbox_EnableVehicles_tooltip = ""รถจะเกิดใหม่เมื่อเปิดใช้งาน",
     --
     Sandbox_TriggerHouseAlarm = "สัญญาณกันขโมยดังเมื่อซอมบี้บุกบ้าน",
     Sandbox_TriggerHouseAlarm_tooltip = "ซอมบี้จะทำให้สัญญาณกันขโมยดังเมื่อบุกเข้าไปในบ้านทางหน้าต่างและประตู",

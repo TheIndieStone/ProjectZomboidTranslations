@@ -1,4 +1,4 @@
-DynamicRadio_HU {
+DynamicRadio_HU = {
 AEBS_Intro = "<bzzt> Ötös nulla kettő. <wzzt> Automata műsorszóró rendszer. <bzzt>",
 AEBS_Choppah = "Légköri tevékenység észlelve.",
 AEBS_Power_1 = "Knox elektromos hálózat: Teljesítmény ingadozások észlelve.",
@@ -83,8 +83,10 @@ AEBS_segment_morning = "reggel",
 AEBS_segment_afternoon = "délután",
 AEBS_segment_evening = "este",
 
-    -- v41.68
-	-- Átnézve 2022.03.20
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Hiányzott az első sorból az = jel.
 	-- Megjegyzés:
-    -- Nincs új sor és változás.
+	-- Nincs új sor és változás.
 }

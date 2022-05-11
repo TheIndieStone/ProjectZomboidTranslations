@@ -421,4 +421,13 @@ Recipes_DE = {
     Recipe_Wash_Clothing = "Kleidung waschen",
     Recipe_Write_Doodle = "Kritzeleien machen",
     Recipe_Write_Journal = "Tagebuch schreiben",
+    
+    Recipe_Burrito = "Burrito",
+	Recipe_Dismantle_Camera = "Kamera zerlegen",
+	Recipe_Muffin = "Muffin",
+	Recipe_Omelette = "Recipe_Omelette",
+	Recipe_Pancakes = "Pfannkuchen",
+	Recipe_Sandwich_Baguette = "Baguette",
+	Recipe_Taco = "Taco",
+	Recipe_Waffles = "Waffeln",
 }

@@ -940,6 +940,7 @@ ItemName_TR = {
     ItemName_Base.LongJohns = "Paçalı Don",
     ItemName_Base.LongJohns_Bottoms = "Paçalı Don Altı",
     ItemName_Base.LugWrench = "Bijon Anahtarı",
+    ItemName_Base.Lunchbag = "Yemek Çantası",
     ItemName_Base.Lunchbox = "Beslenme Çantası",
     ItemName_Base.Lunchbox2 = "Beslenme Çantası",
     ItemName_Base.M14Clip = ".308 Şarjör",
