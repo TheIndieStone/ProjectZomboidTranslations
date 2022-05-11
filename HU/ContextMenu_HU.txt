@@ -187,7 +187,7 @@ ContextMenu_Fishing = "Horgászás",
 ContextMenu_Place_Fishing_Net = "Háló elhelyezése",
 ContextMenu_Place_Trap = "Csapda elhelyezése",
 ContextMenu_Add_Bait = "Csali behelyezése",
-ContextMenu_Remove_Bait = "Csali eltávolítása"
+ContextMenu_Remove_Bait = "Csali eltávolítása",
 ContextMenu_Check_Trap = "Csapda ellenőrzése",
 ContextMenu_Remove_Trap = "Csapda eltávolítása",
 ContextMenu_Climb_Sheet_Rope = "Kötélre felmászás",
@@ -445,7 +445,7 @@ ContextMenu_Yourself = "Saját magamat",
 ContextMenu_WashAllClothing = "Minden ruházatot",
 ContextMenu_WashClothing = "%1",
 ContextMenu_Attach = "Felrakás",
-ContextMenu_RemoveFromHotbar = "%1 levétele innen: %2"
+ContextMenu_RemoveFromHotbar = "%1 levétele innen: %2",
 ContextMenu_HotbarRadialRemove = "<br>%1 eltávolítása",
 ContextMenu_ChangeFireMode = "Tüzelési mód kiváltása",
 ContextMenu_FireMode_Single = "Egyes",
@@ -490,8 +490,10 @@ ContextMenu_NeedCooked = "Meg kell főzni.",
 ContextMenu_ComboWasherDryer_SetModeWasher = "Mód beállítás: Mosás",
 ContextMenu_ComboWasherDryer_SetModeDryer = "Mód beállítás: Szárítás",
 
-	-- v41.69
-	-- Átnézve 2022.04.07
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Sor végi vesszők pótlása.
 	-- Megjegyzés:
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítani való, játék közben kell ellenőrizni.

@@ -328,8 +328,10 @@ Recipe_Make Metal Sheet = "Fémlap készítése",
 Recipe_Make Small Metal Sheet = "Kicsi Fémlap készítése",
 
 
-    -- v41.68
-	-- Átnézve 2021.04.07
+	-- v41.69b
+	-- Átnézve 2021.04.29
+	-- Legutóbbi változás:
+	-- Nincs változás.
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítani való, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!

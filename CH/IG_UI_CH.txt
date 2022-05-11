@@ -479,6 +479,7 @@ IG_UI_CH = {
     IGUI_ItemCat_Corpse = "屍體",
     IGUI_ItemCat_Devices = "裝置",
     IGUI_ItemCat_Electronics = "電器",
+	IGUI_ItemCat_Entertainment = "娛樂",
 	IGUI_ItemCat_Explosives = "爆裂物",
     IGUI_ItemCat_FirstAid = "醫療",
     IGUI_ItemCat_Fishing = "釣魚",

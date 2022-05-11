@@ -481,6 +481,7 @@ IG_UI_TR = {
     IGUI_ItemCat_Devices = "Aygıtlar",
     IGUI_ItemCat_Drainable = "Boşaltılabilir",
     IGUI_ItemCat_Electronics = "Elektronik",
+    IGUI_ItemCat_Explosives = "Patlayıcılar",
     IGUI_ItemCat_FirstAid = "İlk Yardım",
     IGUI_ItemCat_Fishing = "Balıkçılık",
     IGUI_ItemCat_Food = "Yiyecek",
