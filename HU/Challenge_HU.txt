@@ -45,7 +45,7 @@ Challenge_Challenge2_Weapons = "Fegyverek",
 Challenge_Challenge2_TabItems = "Tárgyak",
 Challenge_Challenge2_TabRepair = "Javítás",
 Challenge_Challenge2_CurrentXp = "TP : %1",
-Challenge_Challenge2_ButtonSkill = "%1 szint %2 - %3 TP"
+Challenge_Challenge2_ButtonSkill = "%1 szint %2 - %3 TP",
 Challenge_Challenge2_ButtonSkillMax = "%1 szint Max",
 Challenge_Challenge2_GoldBonus = "Arany bónusz",
 Challenge_Challenge2_XpBonus = "TP bónusz",
@@ -72,8 +72,10 @@ Challenge_YouHaveOneDayInfoBox = " <CENTRE>24 óra múlva a Knox megyébe való 
 Challenge_AStormIsComingInfoBox = " <CENTRE> Végtelen rossz idő elé nézünk...",
 Challenge_TheDescendingFogInfoBox = " <CENTRE> Köd lesz...",
 
-    -- v41.68
-	-- Átnézve 2022.03.20
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- 48. sor végi vessző hiány.
 	-- Megjegyzés:
-    -- Nincs új sor és változás.
+	-- Nincs új sor és változás.
 }

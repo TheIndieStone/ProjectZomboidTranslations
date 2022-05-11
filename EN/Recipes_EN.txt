@@ -38,6 +38,7 @@ Recipes_EN = {
     Recipe_Disinfect_Bandage = "Disinfect Bandage",
     Recipe_Disinfect_Rag = "Disinfect Rag",
     Recipe_Dismantle_CD_Player = "Dismantle CD Player",
+    Recipe_Dismantle_Camera = "Dismantle Camera",
     Recipe_Dismantle_Cordless_Phone = "Dismantle Cordless Phone",
     Recipe_Dismantle_Digital_Watch = "Dismantle Digital Watch",
     Recipe_Dismantle_Earbuds = "Dismantle Earbuds",

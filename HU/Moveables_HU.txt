@@ -721,10 +721,11 @@ Right_Bar_Wall_Bar = "Right_Bar_Wall_Bar???",
 Modern_Washing_Machine = "Modern Mosógép???",
     Violet_Flowers = "Ibolya1???",
 
-    -- v41.68
-	-- Átnézve 2022.04.07
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Nincs változás
 	-- Megjegyzés:
-	-- Oven: Sütők Tűzhelyekre átírva.
 	-- Egészet érdemes átnézni, még nem 100%!
 	-- Maradt fordítandó, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!

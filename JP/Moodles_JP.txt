@@ -1,4 +1,4 @@
-Moodles_JP = {
+ Moodles_JP = {
 	-- Moodle type :				 
 	-- Endurance
 	Moodles_endurance_lvl1 = "適度な運動量",
