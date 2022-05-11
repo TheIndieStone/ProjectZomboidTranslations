@@ -6,6 +6,7 @@ ContextMenu_CN = {
 	ContextMenu_SleepOnGround = "睡在地上",
 	ContextMenu_Fill = "灌满 ",
 	ContextMenu_FillAll = "灌满全部 ",
+	ContextMenu_FillOne = "灌满一个 ",
 	ContextMenu_Drink = "饮用",
 	ContextMenu_Turn_Off = "关闭",
 	ContextMenu_Turn_On = "开启",
@@ -81,9 +82,9 @@ ContextMenu_CN = {
 	ContextMenu_Smoke = "抽烟",
 	ContextMenu_Chop_Tree = "砍倒树",
 	ContextMenu_WaterName = "水",
-	ContextMenu_WaterSource = "水源"
-	Puddle = "水坑"
-	ContextMenu_NaturalWaterSource = "天然水源"
+	ContextMenu_WaterSource = "水源",
+	Puddle = "水坑",
+	ContextMenu_NaturalWaterSource = "天然水源",
 	
 	-- Crafting menu
 	ContextMenu_Door = "门",
@@ -242,8 +243,8 @@ ContextMenu_CN = {
 	ContextMenu_EvolvedRecipe_HotDrinkTea = "饮料",
     ContextMenu_EvolvedRecipe_Taco = "塔克卷饼",
     ContextMenu_EvolvedRecipe_Burrito = "墨西哥卷饼",
-    ContextMenu_EvolvedRecipe_Waffles = "华夫饼"
-    ContextMenu_EvolvedRecipe_Pancakes = "薄煎饼"
+    ContextMenu_EvolvedRecipe_Waffles = "华夫饼",
+    ContextMenu_EvolvedRecipe_Pancakes = "薄煎饼",
     ContextMenu_FoodType_Meat = "肉",
 	ContextMenu_FoodType_Chocolate = "巧克力",
     ContextMenu_FoodType_Rice = "米饭",
@@ -426,7 +427,7 @@ ContextMenu_CN = {
     ContextMenu_GunType = "枪支类型",
     ContextMenu_NoBullets = "找不到子弹",
     ContextMenu_UnloadMagazine = "卸下弹药",
-    ContextMenu_NoMagazineFound = "找不到 %1 , 或弹匣是空的",
+    ContextMenu_NoMagazineFound = "找不到 %1 , 或者是空的",
     ContextMenu_Rack = "退膛一发 %1 弹药",
     ContextMenu_UnloadRoundFrom = "从 %1 取出弹药",
     ContextMenu_Unjam = "为 %1 排障",
@@ -444,7 +445,7 @@ ContextMenu_CN = {
     ContextMenu_WashAllClothing = "所有衣物",
     ContextMenu_WashClothing = "%1",
     ContextMenu_Attach = "挂到",
-    ContextMenu_RemoveFromHotbar = "从 %2 拿掉 %1 "
+    ContextMenu_RemoveFromHotbar = "从 %2 拿掉 %1 ",
     ContextMenu_HotbarRadialRemove = "拿掉<br> %1 ",
     ContextMenu_ChangeFireMode = "更改射击模式",
     ContextMenu_FireMode_Single = "单点",
@@ -468,6 +469,7 @@ ContextMenu_CN = {
     ContextMenu_DyeHair = "染发",
     ContextMenu_DyeBeard = "染胡子",
     ContextMenu_Merge = "合并",
+	ContextMenu_MergeAll = "合并全部",
     ContextMenu_ReplaceWith = "(替换 %1)",
     ContextMenu_LeftMiddleFinger = "戴在左手中指上",
     ContextMenu_RightMiddleFinger = "戴在右手中指上",
@@ -485,6 +487,12 @@ ContextMenu_CN = {
 	ContextMenu_PlaceHalf = "放置一半",
 	ContextMenu_PlaceAll = "放置所有",
 	ContextMenu_NeedCooked = "需要煮熟.",
-	ContextMenu_ComboWasherDryer_SetModeWasher = "设置模式：洗衣机",
-	ContextMenu_ComboWasherDryer_SetModeDryer = "设置模式：烘干机",
-} 
+	ContextMenu_ComboWasherDryer_SetModeWasher = "设置模式: 洗衣机",
+	ContextMenu_ComboWasherDryer_SetModeDryer = "设置模式: 烘干机",
+	
+	
+	----------
+	
+	ContextMenu_FoodType_Cocoa = "可可粉",
+	
+}

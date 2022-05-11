@@ -1,6 +1,6 @@
 Challenge_JP = {
 	Challenge_YouHaveOneDay_name = "とある日",
-	Challenge_YouHaveOneDay_desc = "ノックスカントリーに帰ってきました。 <LINE> Project Zomboidの感染の発端となったマップに帰ってきたのです。 <LINE> <LINE> 比較的安全な1日が残されています。 <LINE> 膨大な数のゾンビが押し寄せあなたを探し出します。 <LINE> 最後の砦を構える場所はどこにしましたか? その昔、どこでラストスタンドをしましたか? <LINE> 一刻も早く見つけましょう。 <LINE> <LINE> [現在のPZツールセットで0.1.5の旧マップを再現した、 <LINE> コミュニティマッパーBobHecklingに感謝を申し上げます。]",
+	Challenge_YouHaveOneDay_desc = "ノックスカントリーに帰ってきました。 <LINE> Project Zomboidの感染の発端となったマップに帰ってきたのです。 <LINE> <LINE> 比較的安全な1日が残されています。 <LINE> 膨大な数のゾンビが押し寄せあなたを探し出します。 <LINE> 最後の砦を構える場所はどこにしましたか? その昔、どこで最後にあがいたのでしょうか? <LINE> 一刻も早く見つけましょう。 <LINE> <LINE> [現在のPZツールセットで0.1.5の旧マップを再現した、 <LINE> コミュニティマッパーBobHecklingに感謝を申し上げます。]",
 																																																																																											 
 	Challenge_WinterIsComing_name = "寒波の到来",
 	Challenge_WinterIsComing_desc = "7月の中旬にも関わらず、突然肌寒い風が吹いてきました。 <LINE> あと3日もすれば未だかつてない冬が始まるのです。 <LINE> <LINE> あなたは孤立した場所で目を覚まします。 <LINE> わずかな物資のみを持ち合わせていますが、 <LINE> 生ける屍の大群は厳しい寒さにより動きが鈍るかもしれません。 <LINE> しかし、命を狙っていることには変わりないのです。 <LINE> <LINE> 生存者の方は十分に着こんでください...",
@@ -9,7 +9,7 @@ Challenge_JP = {
 	Challenge_OpeningHours_desc = "ショッピングモールが包囲されました。 <LINE> その昔、そこは彼らの生活基盤でした。 <LINE> 本能がそのドアに足を向かわせます。 <LINE> 彼らがかつてしていたことの記憶...。 <LINE> <LINE> あなたはもう1人ではありません。午前9時にショッピングモールは営業準備が整います。ドアが開いて群衆がなだれ込むのです。 <LINE> <LINE> 備えましょう。",
 
 	Challenge_AReallyCDDAy_name = "A Really CD DA",
-	Challenge_AReallyCDDAy_desc = "シャワーを浴びて酷く転倒しました。 <LINE> 泥酔し質の悪い風邪を引いています。 <LINE> 挙句の果てに家が燃えています! <LINE> <LINE> 今日は間違いなく神様から見放されています。 <LINE> <LINE> [このチャレンジは、A Really Bad Dayからの、 <LINE> 驚きでもあり素晴らしくもありプレイ必須である、 <LINE> Cataclysm: Dark Days Aheadに触発されたものです。]",
+	Challenge_AReallyCDDAy_desc = "シャワーを浴びて酷く転倒しました。 <LINE> 泥酔し質の悪い風邪を引いています。 <LINE> 挙句の果てに家が燃えています! <LINE> <LINE> 今日は間違いなく神様から見放されています。 <LINE> <LINE> [このチャレンジは、 <LINE> 驚きでもあり素晴らしくもありプレイ必須である、 <LINE> Cataclysm: Dark Days Aheadからの、 <LINE>  A Really Bad Dayに触発されたものです。]",
 	
 	Challenge_Challenge1_name = "森林の家 - ラストスタンド",
 	Challenge_Challenge1_desc = "彼らが迫っているのが聞こえます。 <LINE> 孤立した小屋に四方八方から生ける屍が襲来してきます。 <LINE> 死は避けられませんが、手元にはショットガンがあります。 <LINE> <LINE> ラストスタンドは、ゾンビの波が終わることなく増え続けます。 <LINE> 勝算がまったく無い状況で、悪足搔きをして生き延びてください。",
@@ -30,14 +30,14 @@ Challenge_JP = {
 	Challenge_Studio_desc = "最高の映画が撮影される場所です!",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "'o' キーを押すことでメニュー画面が表示されます。メニュー内で武器やアイテムの購入、修理等ができます。",
-	Challenge_Challenge2_WaveStart = "ウェーブ 第 %1 波が開始されるまでの時間：%2 (Enterキーで待ち時間スキップ)",
-	Challenge_Challenge2_WaveDuration = "ウェーブ 第 %1 波 経過時間：%2",
-	Challenge_Challenge2_ZombiesLeft = "ゾンビの総数：%1",
-	Challenge_Challenge2_Money = "所持金：%1",
-	Challenge_Challenge2_Money2 = "プレイヤー名 %1 所持金：%2",
-	Challenge_Challenge2_WaveFinished = "ウェーブ %1 クリアしたウェーブ：%2",
-	Challenge_Challenge2_MoneyGained = "獲得したお金：%1",
-	Challenge_Challenge2_XPGained = "獲得した経験値：%1",
+	Challenge_Challenge2_WaveStart = "ウェーブ 第 %1 波が開始されるまでの時間:%2 (Enterキーで待ち時間スキップ)",
+	Challenge_Challenge2_WaveDuration = "ウェーブ 第 %1 波 経過時間:%2",
+	Challenge_Challenge2_ZombiesLeft = "ゾンビの総数:%1",
+	Challenge_Challenge2_Money = "所持金:%1",
+	Challenge_Challenge2_Money2 = "プレイヤー名 %1 所持金:%2",
+	Challenge_Challenge2_WaveFinished = "ウェーブ %1 クリアしたウェーブ:%2",
+	Challenge_Challenge2_MoneyGained = "獲得したお金:%1",
+	Challenge_Challenge2_XPGained = "獲得した経験値:%1",
 	-- Window	  
 	Challenge_Challenge2_WindowTitle = "メニュー",
 	Challenge_Challenge2_TabPlayer = "情報",
@@ -70,5 +70,5 @@ Challenge_JP = {
 	Challenge_WinterIsComingInfoBox = " <CENTRE> あと3日で終りのない冬が来る。",
 	Challenge_YouHaveOneDayInfoBox = " <CENTRE> あと24時間でこの世の地獄が始まる...",
 	Challenge_AStormIsComingInfoBox = " <CENTRE> この先、果てしない悪天候が続く...",	
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> 霧が掛かっている...",	
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> 霧がかかっている...",	
 }

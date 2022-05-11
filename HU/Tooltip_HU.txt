@@ -297,8 +297,10 @@ Tooltip_BookTitle_7 = "%1 Szakértőknek",
 Tooltip_BookTitle_9 = "%1 Mestereknek",
 
 
-    -- v41.69
-	-- Átnézve 2022.04.07
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
 }

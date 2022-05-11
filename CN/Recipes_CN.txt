@@ -329,8 +329,6 @@ Recipes_CN = {
 	Recipe_Prepare_Soup = "准备炖菜",
 	Recipe_Prepare_Stew = "准备炖肉",
 	Recipe_Prepare_Stir-fry = "准备炒菜",
-	
-	--Add Text--
 	Recipe_Advanced_Mechanics = "莱恩斯汽车手册-性能车型",
 	Recipe_Basic_Mechanics = "莱恩斯汽车手册-标准车型",
 	Recipe_Intermediate_Mechanics = "莱恩斯汽车手册-商用车型",

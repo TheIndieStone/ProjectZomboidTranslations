@@ -4,13 +4,13 @@ MakeUp_TH = {
     MakeUpCategory_FullFace = "ใบหน้า",
     MakeUpCategory_Lips = "ริมฝีปาก",
 
-    MakeUpType_EyesCrow = "อีกา",
+    MakeUpType_EyesCrow = "อีกาพญายม",
     MakeUpType_EyesRedStripes1 = "แถบแดง 1",
     MakeUpType_EyesRedStripes2 = "แถบแดง 2",
     MakeUpType_EyesCamo1 = "ลายพราง 1",
     MakeUpType_EyesCamo2 = "ลายพราง 2",
-    MakeUpType_EyesCamoStripes = "ลายทาง",
-    MakeUpType_EyesFootball = "ฟุตบอล",
+    MakeUpType_EyesCamoStripes = "ลายพรางคาดหน้า",
+    MakeUpType_EyesFootball = "เชียร์กีฬา",
 
     MakeUpType_EyeShadowWhite = "สีขาว",
     MakeUpType_EyeShadowLightBlue = "สีฟ้าอ่อน",
