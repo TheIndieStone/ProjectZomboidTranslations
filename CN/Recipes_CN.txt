@@ -38,6 +38,7 @@ Recipes_CN = {
     Recipe_Disinfect_Bandage = "消毒绷带",
     Recipe_Disinfect_Rag = "消毒碎布条",
     Recipe_Dismantle_CD_Player = "拆解CD播放器",
+	Recipe_Dismantle_Camera = "拆解相机",
     Recipe_Dismantle_Cordless_Phone = "拆解无绳电话",
     Recipe_Dismantle_Digital_Watch = "拆解电子表",
     Recipe_Dismantle_Earbuds = "拆解线控式耳机",
