@@ -50,6 +50,7 @@ Recipes_IT = {
     Recipe_Disinfect_Bandage = "Disinfetta benda",
     Recipe_Disinfect_Rag = "Disinfetta straccio",
     Recipe_Dismantle = "Smantella",
+	Recipe_Dismantle_Camera = "Smantella videocamera",
     Recipe_Dismantle_CD_Player = "Smonta Lettore CD",
     Recipe_Dismantle_Cordless_Phone = "Smonta Cordless",
     Recipe_Dismantle_Digital_Watch = "Smonta Orologio digitale",

@@ -123,7 +123,7 @@ Sandbox_SeenHoursPreventLootRespawn_tooltip = "Ha > 0, a zsákmány nem fog újr
     Sandbox_HoursForWorldItemRemoval = "Hours for Removal List",
     Sandbox_HoursForWorldItemRemoval_tooltip = "Number of hours since an item was dropped on the ground before it is removed.  Items are removed the next time that part of the map is loaded.  Zero means items are not removed.",
     Sandbox_ItemRemovalListBlacklistToggle = "Removal List as Whitelist",
-    Sandbox_ItemRemovalListBlacklistToggle_tooltip = "If true, any items *not* in WorldItemRemovalList will be removed."
+    Sandbox_ItemRemovalListBlacklistToggle_tooltip = "If true, any items *not* in WorldItemRemovalList will be removed.",
 Sandbox_Respawn_option1 = "Nincs",
 Sandbox_Respawn_option2 = "Minden nap",
 Sandbox_Respawn_option3 = "Minden héten",
@@ -316,7 +316,7 @@ Sandbox_ZMemory_option2 = "Közepes",
 Sandbox_ZMemory_option3 = "Rövidtávú",
 Sandbox_ZMemory_option4 = "Nincs",
 Sandbox_ZDecomposition = "Elbomlás:",
-Sandbox_ZDecomposition_tooltip = "Szabályozza az elbomlás hatásait az idő múlásával."
+Sandbox_ZDecomposition_tooltip = "Szabályozza az elbomlás hatásait az idő múlásával.",
 Sandbox_ZDecomposition_option1 = "Lassú és gyenge",
 Sandbox_ZDecomposition_option2 = "Lassú",
 Sandbox_ZDecomposition_option3 = "Gyenge",
@@ -444,7 +444,7 @@ Sandbox_ThumpOnConstruction = "Építmény sérülés:",
 Sandbox_ThumpOnConstruction_tooltip = "Szabályozza, hogy a zombik megsemmisíthetik-e a játékosok építményeit és védelmeit.",
 Sandbox_CharacterFreePoints = "Szabad jellemvonás pontok:",
 Sandbox_CharacterFreePoints_tooltip = "Szabad pontokat ad a karakter létrehozásához.",
-Sandbox_ConstructionBonusPoints = "Játékos-építmények szerkezeti szilárdsága:",
+Sandbox_ConstructionBonusPoints = "Játékos-építmények szerkezeti szilárdsága",
 Sandbox_ConstructionBonusPoints_tooltip = "A játékosok által épített konstrukciók extra találati pontokat adnak, így ellenállnak a zombi rongálásoknak.",
 Sandbox_ConstructionBonusPoints_option1 = "Nagyon alacsony",
 Sandbox_ConstructionBonusPoints_option2 = "Alacsony",
@@ -605,7 +605,7 @@ Sandbox_MaxRainFxIntensity_option3 = "Alacsony",
 Sandbox_EnableSnowOnGround = "Hó a talajon",
 Sandbox_EnableSnowOnGround_tooltip = "Ha le van tiltva, a hó nem halmozódik fel a talajon, de továbbra is látható lesz a növényzeten és a háztetőkön.",
 Sandbox_MultiHitZombies = "Fegyver többszörös találat",
-Sandbox_MultiHitZombies_tooltip = "Ha engedélyezed, néhány közelharci fegyver képes több zombit is sebezni egyszerre."
+Sandbox_MultiHitZombies_tooltip = "Ha engedélyezed, néhány közelharci fegyver képes több zombit is sebezni egyszerre.",
 Sandbox_RearVulnerability = "Sebezhetőség hátulról",
 Sandbox_RearVulnerability_tooltip = "Esély arra, hogy egy hátulról ért támadás esetén megharapjon a zombi.",
 Sandbox_RearVulnerability_option1 = "Alacsony",
@@ -631,8 +631,10 @@ Sandbox_ZSmell_option2 = "Közepes",
 Sandbox_ZSmell_option3 = "Gyenge",
 
 
-    -- v41.68
-	-- Átnézve 2022.04.07
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Néhány sor végi vessző hiány.
 	-- Megjegyzés:
 	-- Egységesíteni kell ezeket: Controls, governs: Szabályozza
 	-- Át kell nézni az egészet!

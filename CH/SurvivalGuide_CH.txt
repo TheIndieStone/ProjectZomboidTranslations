@@ -64,8 +64,8 @@ SurvivalGuide_CH = {
 
     SurvivalGuide_entrie9title = "#9 - 車輛",
     SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 車輛 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 車輛能夠帶來生存效益, 但也會帶來噪音!  <BR> 引擎聲會吸引遙遠距離外的屍群... ",
-    SurvivalGuide_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在門上, 發動孔內, 或者手套箱裡. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手? 把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
-                                    " <H1> 開車上路 <BR> <TEXT> 點擊發動孔來插入鑰匙, 再點擊儀表板上的引擎圖示 (或按 N) 來發動引擎. 或者, 你也可以按前進鍵 <SPACE><KEY:Forward><SPACE> 來發動. <BR> 如果車輛的引擎狀況不好, 也許第一次發動不會成功. 如果不管怎麼樣也發動不了的話, 也許車子沒油了, 最好檢查機工視窗... <BR> 小心開車!車子越大聲, 就會吸引越大範圍內的殭屍跟過來...  <BR> " ..
+    SurvivalGuide_entrie9moreinfo = " <H1> 上車 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你運氣好的話, 匆忙的車主可能會把鑰匙忘在發動孔內, 手套箱裡, 或是掉在車輛附近. 你也可以在車子附近的殭屍身上找找看車鑰匙, 也許其中一個就是車主. 同理, 如果車停在房屋外, 往裡面找找看吧. 也許鑰匙就在屋內. <BR> 還是找不到嗎?何不試試看當個獵車手? 把車窗打碎來解鎖它. 如果你的機工與電工技能夠高的話, 你可以短接發動車輛. <BR> " ..
+                                    " <H1> 開車上路 <BR> <TEXT> 點擊發動孔來插入鑰匙, 再點擊儀表板上的引擎圖示 (或按 <SPACE><KEY:StartVehicleEngine>) 來發動引擎. 或者, 你也可以按前進鍵 <SPACE><KEY:Forward><SPACE> 來發動. <BR> 如果車輛的引擎狀況不好, 也許第一次發動不會成功. 如果不管怎麼樣也發動不了的話, 也許車子沒油了, 最好檢查機工視窗... <BR> 小心開車!車子越大聲, 就會吸引越大範圍內的殭屍跟過來...  <BR> " ..
                                     " <H1> 儀表板 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 車輛的儀表板上顯示許多有用的資訊, 例如油量, 速度, 與 RPM. <BR> 儀表板上的圖示也會告訴你引擎狀況, 或者車廂是否打開, 頭燈是否運作正常, 等等. <BR> " ..
                                     " <H1> 環狀選單 <BR> <TEXT> 在車內或車旁時按 <SPACE><KEY:VehicleRadialMenu>. 這會開啟它的環狀選單. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 從這裡你可以切換座位, 鎖門, 操作燈號, 開啟機工視窗, 等等. <BR> " ..
                                     " <H1> 機工視窗 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 技能不好的倖存者能夠檢查電池狀況, 看到油量, 並注意到特定的零件看起來壞掉了. 機工技能等級好的倖存者則可以看見額外的細節, 並安裝或移除零件. <BR> 要了解更多相關資訊或是了解機工技能的話, 點擊機工視窗左上角的資訊圖示. <BR>",
@@ -78,7 +78,7 @@ SurvivalGuide_CH = {
                                       "炎熱天氣時, 則要保持水份充足, 並不要穿太厚重的衣物. <LINE> <BR>" ..
                                       " <H2> 了解氣溫 <BR> <TEXT> 穿戴電子錶會在介面上顯示氣溫. <LINE> <BR> " ..
                                       " <H2> 冷風 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 在戶外時, 尤其是冬季, 會吹起寒風. 冬天裡的大雨或暴風雪會因為強風加上低溫, 大幅地降低你的體溫. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 卻不會直接在電子錶上顯示溫度的差距. 隨時注意你的情緒圖示來看看冷風是不是正在影響你. <LINE> <BR> "<H1> 衣物防禦 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 P 開啟服裝防護面板來檢視你的倖存者目前的防護等級. <BR> 若擁有正確的素材與裁縫等級, 你可以修補衣物上的破洞, 也可以加強衣物的防禦. 只需右鍵點擊衣物, 並點 '檢查' , 再右鍵點擊你想要修補或加強的部分. 確保你的物品欄內有皮革條, 丹寧條, 或是適當的布料, 還有針與線.  <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 冷風會影響你的身體, 卻不會直接在電子錶上顯示溫度的差距. 隨時注意你的情緒圖示來看看冷風是不是正在影響你. <LINE> <BR> "<H1> 衣物防禦 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿著正確的服裝能幫助你防禦咬傷, 割傷, 和撕裂傷. 按下 <SPACE><KEY:Toggle&nbsp;Clothing&nbsp;Protection&nbsp;Panel><SPACE> 開啟服裝防護面板來檢視你的倖存者目前的防護等級. <BR> 若擁有正確的素材與裁縫等級, 你可以修補衣物上的破洞, 也可以加強衣物的防禦. 只需右鍵點擊衣物, 並點 '檢查' , 再右鍵點擊你想要修補或加強的部分. 確保你的物品欄內有皮革條, 丹寧條, 或是適當的布料, 還有針與線.  <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
     SurvivalGuide_entrie11title = "#11 - 採集",
     SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界中到處都是有用的東西, 你只需要知道他們在哪 (還有什麼時候跟怎麼找) ! <LINE> <LINE> 莓果, 蘑菇, 石頭... 誰知道在對的地方你能找到什麼呢? ",

@@ -49,7 +49,7 @@ ContextMenu_DE = {
     ContextMenu_CantAddFrozenFood = "Gefrorenes Essen kann nicht hinzugefügt werden.",
     ContextMenu_CantRemovePatch = "Nadel benötigt.",
     ContextMenu_CantRepair = "Stoff, Nadel und Faden benötigt für Reparatur der Kleidung.",
-    ContextMenu_CantRipFavourite = "Bevorzugte Kleidung kann nicht zerrissen werden.",
+    ContextMenu_CantRipFavourite = "Favorisierte Kleidung kann nicht zerrissen werden.",
     ContextMenu_CarBatteryCharger_ConnectBattery = "Autobatterie anschließen",
     ContextMenu_CarBatteryCharger_Place = "Autobatterie-Ladegerät einsetzen",
     ContextMenu_CarBatteryCharger_RemoveBattery = "Autobatterie entfernen",
@@ -418,7 +418,7 @@ ContextMenu_DE = {
     ContextMenu_Turquoise = "Türkis",
     ContextMenu_Unbarricade = "Barrikade entfernen",
     ContextMenu_Unequip = "Ausziehen/Ablegen",
-    ContextMenu_Unfavorite = "Nicht Bevorzugen",
+    ContextMenu_Unfavorite = "Nicht Favorisieren",
     ContextMenu_Unjam = "Entklemme %1",
     ContextMenu_UnloadMagazine = "Magazin entladen",
     ContextMenu_UnloadRoundFrom = "Entlade einzelne Kugel - %1",
@@ -485,5 +485,8 @@ ContextMenu_DE = {
     ContextMenu_Yellow = "Gelb",
     ContextMenu_Yourself = "Du selber",
     ContextMenu_or = "oder",
-    Puddle = "Pfütze",
+    
+    ContextMenu_Puddle = "Pfütze",
+    ContextMenu_FillOne = "Eine Auffüllen",
+	ContextMenu_MergeAll = "Zusammenfassen",
 }

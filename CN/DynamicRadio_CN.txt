@@ -1,4 +1,4 @@
-DynamicRadio_CN {
+DynamicRadio_CN= {
     AEBS_Intro = "<噗滋> 五零二。 <呜滋> 自动广播系统。 <噗滋>",
     AEBS_Choppah = "检测到空中活动。",
     AEBS_Power_1 = "诺克斯电网：检测到电力波动。",
