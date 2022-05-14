@@ -38,6 +38,7 @@ Recipes_PTBR = {
     Recipe_Disinfect_Bandage = "Desinfetar Bandagem",
     Recipe_Disinfect_Rag = "Desinfetar Pano",
     Recipe_Dismantle_CD_Player = "Desmontar CD Player",
+    Recipe_Dismantle_Camera = "Dismantle Camera",
     Recipe_Dismantle_Cordless_Phone = "Desmontar Telefone Sem Fio",
     Recipe_Dismantle_Digital_Watch = "Desmontar Relógio Digital",
     Recipe_Dismantle_Earbuds = "Desmontar Fone de Ouvido",
