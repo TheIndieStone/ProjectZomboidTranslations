@@ -227,8 +227,14 @@ UI_PL = {
     UI_NewGame_Tutorial = "Samouczek",
     UI_NewGame_Tutorial_desc = "Pierwsze miejsce, do którego powinni udać się wszyscy ocaleni, świeżo zainfekowani wirusem Project Zomboid.",
     UI_NewsVersion = "Wersja",
-    UI_News_Anim = "<H1> WITAMY W PUBLICZNEJ BECIE BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE>  ..",
-    UI_News_Anim3 = "<H1> Witamy w wersji gry Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
+    UI_News_Anim = "<H1> WITAMY W PUBLICZNEJ BECIE BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> To jest wersja rozwojowa największej aktualizacji kodu w historii PZ. <LINE><LINE> " ..
+                    "<CENTRE> Pojawią się błędy i problemy z balansem. Trwają prace nad poprawą optymalizacji. <LINE><LINE> " ..
+                    "<CENTRE> Niektóre funkcje zostały tymczasowo wyłączone. <LINE><LINE> " ..
+                    "<CENTRE> Jeśli masz problemy: nie denerwuj się. Daj nam znać na naszym forum.",
+    UI_News_Anim3 = "<H1> Witamy w wersji gry Build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+                    "<CENTRE> <SIZE:large> Aby uzyskać najlepsze wrażenia podczas gry w trybie wieloosobowym, stanowczo zalecamy grę na serwerach z białą listą lub ze znajomymi w trybie kooperacji. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Prosimy o wyrozumiałość, gdyż na bieżąco wprowadzamy poprawki i naprawiamy błędy. <LINE><LINE> ",
     UI_No = "Nie",
     UI_None = "Brak",
     UI_Off = "Wyłączony",
