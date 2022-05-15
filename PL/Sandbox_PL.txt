@@ -277,7 +277,7 @@ Sandbox_PL = {
     Sandbox_MetaEventFreq_option2 = "Czasami",
     Sandbox_MetaEventFreq_option3 = "Często",
     Sandbox_MetaEvent_tooltip = "Jak często dochodzić będzie do meta-wydarzeń zwracających uwagę zombie, takich jak odległe wystrzały z broni.",
-    Sandbox_MinMaxDefault = "Minimum",
+    Sandbox_MinMaxDefault = "Minimum=%1 Maksimum=%2 Domyślnie=%3",
     Sandbox_MultiHitZombies = "Wiele trafień broni",
     Sandbox_MultiHitZombies_tooltip = "Gdy opcja jest włączona, niektóre z broni białych będą trafiać kilka zombie za jednym zamachem.",
     Sandbox_NatureAmount = "Obfitość przyrody",
