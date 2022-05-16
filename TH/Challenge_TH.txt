@@ -28,7 +28,7 @@ Challenge_TH = {
 	
 	Challenge_Studio_name = "โรงถ่ายภาพยนตร์",
 	Challenge_Studio_desc = "สุดยอดภาพยนตร์ทั้งหลายถูกถ่ายทำที่นี่!",
-	    -- On-screen UI
+	    -- On-screen UI
 	Challenge_Challenge2_PressKey = "กดปุ่ม 'o' จะปรากฏหน้าต่างให้คุณสามารถซื้ออาวุธ หรือสิ่งของ และยังสามารถซ่อมแซมได้ด้วย",
 	Challenge_Challenge2_WaveStart = "รอบที่ %1 จะเริ่มต้นในเวลา : %2 (กดปุ่ม Enter เพื่อข้าม)",
 	Challenge_Challenge2_WaveDuration = "รอบที่ %1 เวลาที่ใช้ : %2",
@@ -38,7 +38,7 @@ Challenge_TH = {
 	Challenge_Challenge2_WaveFinished = "รอบที่ %1 จบสิ้นในเวลา : %2",
 	Challenge_Challenge2_MoneyGained = "เงินที่ได้รับ : %1",
 	Challenge_Challenge2_XPGained = "ค่าประสบการณ์ที่ได้รับ : %1",
-	    -- Window
+	    -- Window
 	Challenge_Challenge2_WindowTitle = "ศึกสุดท้าย",
 	Challenge_Challenge2_TabPlayer = "ผู้เล่น",
 	Challenge_Challenge2_Weapons = "อาวุธ",
@@ -53,17 +53,17 @@ Challenge_TH = {
 	Challenge_Challenge2_ButtonBonusMax = "%1 สูงสุด",
 	Challenge_Challenge2_ButtonStartGold = "+%1 เงินเริ่มต้น - %2 XP",
 	Challenge_Challenge2_ButtonStartGoldMax = "เงินเริ่มต้นสูงสุด %1",
-	    -- PlayerUpWindow
+	    -- PlayerUpWindow
 	Challenge_Challenge2_Skills = "ทักษะ",
 	Challenge_Challenge2_PermanentBonus = "โบนัสถาวร",
-	    -- VariousItemWindow
+	    -- VariousItemWindow
 	Challenge_Challenge2_Carpentry = "งานช่างไม้",
 	Challenge_Challenge2_Health = "สุขภาพ",
 	Challenge_Challenge2_ItemButton = "%1 - %2",
 	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
-	    -- WeaponRepairWindow
+	    -- WeaponRepairWindow
 	Challenge_Challenge2_RepairWeapon = "ซ่อมอาวุธ",
-	    -- WeaponUpWindow
+	    -- WeaponUpWindow
 	Challenge_Challenge2_Health = "สุขภาพ",
 	
 	Challenge_OpeningHoursInfoBox = " <CENTRE> ห้างเปิดให้บริการ <LINE> เวลา 9 โมงเช้า <LINE> <LINE> เตรียมพบกับฝูงซอมบี้",
