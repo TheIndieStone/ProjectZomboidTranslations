@@ -391,6 +391,7 @@ Moveables_CN = {
     Metal_Drum = "金属桶",
     Metal_Locker = "金属储物柜",
     Metal_Wall_Shelves = "金属壁式货架",
+    Military_Crate = "军用板条箱",
     Middle_Evangelical_Banner = "福音派旗帜",
     Mini_Fridge = "迷你冰箱",
     Mirror_And_Drawers = "梳妆镜",
