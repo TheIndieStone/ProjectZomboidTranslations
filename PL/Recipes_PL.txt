@@ -1,4 +1,5 @@
 Recipes_PL = {
+	Recipe_Dismantle_Camera = "Rozkręć aparat",
     Insert Battery into Duck = "Włóż baterię do kaczki",
     Recipe_Add_Bread_Knife_on_Spear = "Zamontuj nóż do chleba na włócznię",
     Recipe_Add_Butter_Knife_on_Spear = "Zamontuj nóż do masła na włócznię",

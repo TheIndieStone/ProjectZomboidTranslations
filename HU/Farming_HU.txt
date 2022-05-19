@@ -65,8 +65,10 @@ Farming_Tomato = "Paradicsom",
 Farming_Plowed_Land = "Felszántott",
 Farming_MissingItem = "%1 kell",
 
-    -- v41.68
-	-- Átnézve 2022.03.20
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Nincs változás
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

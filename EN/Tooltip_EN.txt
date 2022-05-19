@@ -294,5 +294,5 @@ Tooltip_EN = {
     Tooltip_BookTitle_3 = "%1 for Intermediates",
     Tooltip_BookTitle_5 = "Advanced %1",
     Tooltip_BookTitle_7 = "Expert %1",
-    Tooltip_BookTitle_9 = "Master %1,
+    Tooltip_BookTitle_9 = "Master %1",
 }

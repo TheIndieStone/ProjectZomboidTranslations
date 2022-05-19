@@ -1,2 +1,2 @@
-[VERSION] 41.68 - A fordítás jelenlegi verziója.
+[VERSION] 41.69b - A fordítás jelenlegi verziója.
 A játék verzióinformációja az angol nyelvben érhető el!

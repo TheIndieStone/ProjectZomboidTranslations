@@ -391,6 +391,7 @@ Moveables_EN = {
     Metal_Drum = "Metal Drum",
     Metal_Locker = "Metal Locker",
     Metal_Wall_Shelves = "Metal Wall Shelves",
+    Military_Crate = "Military Crate",
     Middle_Evangelical_Banner = "Middle Evangelical Banner",
     Mini_Fridge = "Mini Fridge",
     Mirror_And_Drawers = "Mirror and Drawers",
