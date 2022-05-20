@@ -38,6 +38,7 @@ Recipes_CA = {
     Recipe_Disinfect_Bandage = "Desinfectar embenat",
     Recipe_Disinfect_Rag = "Desinfectar tela",
     Recipe_Dismantle_CD_Player = "Desmuntar reproductor de CD",
+    Recipe_Dismantle_Camera = "Desmuntar càmera",
     Recipe_Dismantle_Cordless_Phone = "Desmuntar telèfon sense fils",
     Recipe_Dismantle_Digital_Watch = "Desmuntar rellotge digital",
     Recipe_Dismantle_Earbuds = "Desmuntar auriculars",

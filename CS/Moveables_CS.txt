@@ -700,4 +700,5 @@ Moveables_CS = {
     Childrens_Play_Castle = "Dětský hrad",
     Animal_Trough = "Koryto",
     Red_Mobile_Tool_Cabinet = "Červená skříňka na nářadí",
+    Military_Crate = "Vojenská bedna",
 }

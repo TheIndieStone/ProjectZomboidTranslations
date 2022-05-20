@@ -48,6 +48,7 @@ Recipes_TR = {
     Recipe_Disinfect_Rag = "Sargıyı Dezenfekte Et",
     Recipe_Dismantle = "Sök",
     Recipe_Dismantle_CD_Player = "CD Çaları Sök",
+    Recipe_Dismantle_Camera = "Kamerayı Sök",
     Recipe_Dismantle_Cordless_Phone = "Kablosuz Telefonu Sök",
     Recipe_Dismantle_Digital_Watch = "Dijital Saati Sök",
     Recipe_Dismantle_Earbuds = "Kulaklığı Sök",

@@ -38,6 +38,7 @@ Recipe_JP = {
     Recipe_Disinfect_Bandage = "包帯を消毒する",
     Recipe_Disinfect_Rag = "布切れを消毒する",
 	Recipe_Dismantle_CD_Player = "CDプレイヤーを分解する",
+	Recipe_Dismantle_Camera = "カメラを分解する",
 	Recipe_Dismantle_Cordless_Phone = "コードレス電話を分解する",
 	Recipe_Dismantle_Digital_Watch = "デジタル腕時計を分解する",
 	Recipe_Dismantle_Earbuds = "イヤホンを分解する",
@@ -318,7 +319,7 @@ Recipe_JP = {
 
 	--uninstalled
 	Recipe_Burrito = "ブリトーを作る",
-	Recipe_Dismantle_Camera = "カメラを分解する",
+
     Recipe_Muffin = "マフィンを飾り付ける",
 	Recipe_Make_Salad = "サラダを作る",
 	Recipe_Make_Fruit_Salad = "フルーツサラダを作る",

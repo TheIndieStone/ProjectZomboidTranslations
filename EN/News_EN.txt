@@ -5947,3 +5947,57 @@ Fixed dragging items onto inventory and loot container buttons selecting the con
 Fixed typo with Tooltip_BookTitle_9.
 Fixed sawing a JS-2000 Shotgun with a Choke Tube upgrade not removing the Choke Tube, which isn't allowed on the Sawn Off JS-2000 Shotgun. The Choke Tube is now returned to the player's inventory.
 Fixed incorrect hunger calculation for the Muffin recipe.
+
+[VERSION]41.71
+[SECTION]MUSIC
+More tracks for the new dynamic music system - we now have ten of the refigured music tracks in-game, with four more still to come.
+
+[SECTION]MODELS AND ANIMS
+Changed Diamond Pattern Sweater Vest and V-neck Sweater Vest to use Sweater body location
+Changed High Viz vest to use Sweater body location
+Added a different animation played when destroying floors with a sledgehammer. 
+
+[SECTION]SOUND
+Fixed SFX and music cutting out in busy situations (often seen on MP servers)
+Reimplemented ZombieVocalsManager to limit zombie voice events to the nearest 20 zombies.
+Optimized sorting objects in DoorAndWindowEmitters and ZombieVocalsManager.
+Changed handling of object ambient sounds so they only play from the nearest 20 objects. This includes doors, fridges, trees, windows and any sprite with the AmbientSound property set.
+Removed DoorAndWindowEmitters.  This is combined with ObjectAmbientEmitters.
+[NODOT]<BR>
+Fixed ZombieVocalsManager not actually stopping vocal events when one of the 20 slots was reassigned to a different zombie.
+
+[SECTION]BALANCE
+Muffins produced by the "Get 6 Muffins" recipe have the name of the ingredient added to the muffins, if any, such as "Apple Muffin".
+Muffins produced by the "Get 6 Muffins" recipe are marked "Cooked", so the hunger-reduction bonus due to being cooked is applied.
+Fixed adding a spice to a stale Taco increases boredom and unhappiness.
+Added new methods to the Food class (to fix the above issue):
+[NODOT]<INDENT:40> getBoredomChangeUnmodified()
+[NODOT]<INDENT:40> getEnduranceChangeUnmodified()
+[NODOT]<INDENT:40> getStressChangeUnmodified()
+[NODOT]<INDENT:40> getThirstChangeUnmodified()
+[NODOT]<INDENT:40> getUnhappyChangeUnmodified()
+[NODOT]<BR>
+Higher level carpentry crates now have more space.
+Can now move empty composter.
+Can now move military crates.
+
+[SECTION]FIXES
+Fixed new player's natural hair color being different than their hair color. This caused the hair color to change when it regrew after shaving it.
+Fixed Consolidate All stopping after the first full item.
+Fixed "Fill All" stopping if an item was in a carried bag and needed to be replaced by a different item type.
+Fixed the player moving to a strange position when performing the "Place Item" command on items that are inside a vehicle.
+Fixed the "Place Item" command showing when the player is inside a vehicle.
+Fixed displaying a submenu for single items in the "Fill" menu.
+Fixed ISRemoveBurntVehicle not checking whether the Propane Torch has enough propane.
+Fixed the Dismantle Car Wreck tooltip showing the incorrect required amount of propane when the player doesn't have a Propane Torch.
+Fixed the player standing on floors they are destroying with a sledgehammer.
+Fixed the level-up text above the player's head not being displayed in the first hour of life, for passive perks (Fitness and Strength) and for the first experience level.
+Fixed no sound playing when unloading bullets from a magazine.
+Fixed playing GetWaterFromTap when filling a container from a puddle.  Now it plays GetWaterFromLake (which is a bit loud when filling a bottle).
+Fixed incorrect hunger calculation when adding ingredients in evolved recipes.
+Fixed bunch of tile definitions problems.
+Fixed various table story problems.
+Fixed dismantling log wall not giving logs.
+Fixed some issues with 3D models.
+Fixed "Film Camera" not being called "Camera Film" and lowered the weight.  The item is not a camera.
+Fixed some hedge sprites becoming invisible when covered in snow with x1 textures. 
