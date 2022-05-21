@@ -391,6 +391,7 @@ Moveables_CA = {
     Metal_Drum = "Tambor de metall",
     Metal_Locker = "Taquilla metàl·lica",
     Metal_Wall_Shelves = "Baldes de paret de metall",
+    Military_Crate = "Caixó militar",
     Middle_Evangelical_Banner = "Cartell mitjà evangeliste",
     Mini_Fridge = "Mininevera",
     Mirror_And_Drawers = "Espill i calaixos",
