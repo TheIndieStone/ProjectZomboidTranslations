@@ -393,6 +393,7 @@ Moveables_DE = {
     Metal_Locker = "Metallschrank",
     Metal_Wall_Shelves = "Metallwandregale",
     Middle_Evangelical_Banner = "Mittleres evangelisches Banner",
+    Military_Crate = "Militärkiste",
     Mini_Fridge = "Minikühlschrank",
     Mirror_And_Drawers = "Spiegel und Schubladen",
     Mobile_Bloodbag = "Mobiler Blutbeutel",
