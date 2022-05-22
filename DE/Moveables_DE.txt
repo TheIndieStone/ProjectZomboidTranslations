@@ -303,7 +303,6 @@ Moveables_DE = {
     Jolly_Good_Sign = "Jolly Good Schild",
     Jorge_Foreguy_Barbecue = "Jorge Foreguy Grill",
     Kaboom_Arcade_Machine = "Kaboom! Arcade Machine",
-    Lage_Metal_Shelves = "Große Metallregale",
     Lakeside_Painting = "Seeufer Gemälde",
     Lamp_on_Pillar = "Lampe auf Säule",
     Large_Bleached_Table = "Großer gebleichter Tisch",

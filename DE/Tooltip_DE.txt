@@ -263,7 +263,6 @@ Tooltip_DE = {
     Tooltip_removeBurntVehicle = "Die Demontage von Autowracks mit einer Schweißmaske und einem Propanbrenner entfernt sie von Ihrem Weg und stellt Metallbaumaterialien zur Verfügung. <LINE> Höhere Metallarbeitsfertigkeiten werden zu einer besseren Verwertung führen.",
     Tooltip_requireHairGel = "Benötigt Haargel",
     Tooltip_requireRazorOrScissors = "Benötigt einen Rasierer oder Scheren",
-    Tooltip_rightclickmenu = "Erhöht ein bisschen die maximale Reichweite.",
     Tooltip_tainted = "verdorben ",
     Tooltip_tissue_tooltip = "Ausrüsten um Niesen und Husten zu unterdrücken.",
     Tooltip_vehicle_TakeEnginePartsWarning = "Hiermit wird der Motorzustand auf 0 gesetzt.",
