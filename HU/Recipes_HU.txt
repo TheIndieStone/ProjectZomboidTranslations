@@ -38,6 +38,7 @@ Recipe_Create_Spear = "Lándzsa készítés",
 Recipe_Disinfect_Bandage = "Kötszer fertőtlenítése",
 Recipe_Disinfect_Rag = "Rongy fertőtlenítés",
 Recipe_Dismantle_CD_Player = "CD Lejátszó szétszerelése",
+Recipe_Dismantle_Camera = "Kamera szétszerelése",
 Recipe_Dismantle_Cordless_Phone = "Vezeték-nélküli Telefon szétszerelése",
 Recipe_Dismantle_Digital_Watch = "Digitális Óra szétszerelése",
 Recipe_Dismantle_Earbuds = "Fülhallgató szétszerelése",
@@ -328,10 +329,10 @@ Recipe_Make Metal Sheet = "Fémlap készítése",
 Recipe_Make Small Metal Sheet = "Kicsi Fémlap készítése",
 
 
-	-- v41.69b
-	-- Átnézve 2021.04.29
+	-- v41.71b
+	-- Átnézve 2021.05.21
 	-- Legutóbbi változás:
-	-- Nincs változás.
+	-- Új sor fordítva.
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítani való, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!

@@ -255,7 +255,7 @@ Sandbox_JP = {
     --
 	Sandbox_ZSpeed = "移動の速さ",
     Sandbox_ZSpeed_tooltip = "ゾンビの移動速度の設定です。",
-	Sandbox_ZSpeed_option1 = "走る",
+	Sandbox_ZSpeed_option1 = "短距離走者",
 	Sandbox_ZSpeed_option2 = "早歩き",
 	Sandbox_ZSpeed_option3 = "ゆっくり歩く",
 	Sandbox_ZSpeed_option4 = "ランダム",
