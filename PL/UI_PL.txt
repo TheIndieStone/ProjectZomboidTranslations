@@ -1466,4 +1466,7 @@ UI_PL = {
     UI_worldscreen_SavefileVehicle = "Nie można wczytać stanu zapisu gry. <LINE> Z powodu ogromu zmian w grze na potrzeby wprowadzenia pojazdów, stany zapisów gry z wcześniejszych wersji nie będą dłużej kompatybilne. <LINE> Aby dalej grać w ten stan zapisu, użyj wersji gry bez samochodów: Build 38.30 z zakładki BETA na Steam. <LINE> SavedGameWorldVersion: %1 CurrentWorldVersion: %2",
     UI_worldscreen_SavefileVersion = "Wersja świata stanu zapisu gry: %1 <LINE> Aktualna wersja świata: %2",
     UI_worldscreen_deletesave = "Czy na pewno chcesz usunąć plik zapisu?",
+	UI_LoadGameScreen_RenameSavefileText = "Wybierz nową nazwę dla tego pliku zapisu stanu gry. Wciśnij przycisk, aby zmienić nazwę folderu.",
+	UI_LoadGameScreen_ButtonRenameSavefile = "ZMIEŃ NAZWĘ PLIKU",
+	UI_ServerOptionDesc_SetLogLevel = "Wybierz poziom logów. Wpisz /log <typ> <poziom>",
 }
