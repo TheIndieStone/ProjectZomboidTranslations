@@ -394,6 +394,7 @@ Moveables_TR = {
     Metal_Locker = "Metal Dolap",
     Metal_Wall_Shelves = "Metal Duvar Rafı",
     Middle_Evangelical_Banner = "Orta Protestanlık Afişi",
+    Military_Crate = "Askeri Sandık",
     Mini_Fridge = "Mini Buzdolabı",
     Mirror_And_Drawers = "Aynalı Şifonyer",
     Mobile_Bloodbag = "Taşınabilir Kan Torbası",

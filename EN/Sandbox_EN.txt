@@ -392,6 +392,7 @@ Sandbox_EN = {
     Sandbox_RallyGroupSeparation_help = "The distance between zombie groups.",
     Sandbox_RallyGroupRadius_help = "How close members of a group stay to the group's leader.",
     Sandbox_MinMaxDefault = "Minimum=%1 Maximum=%2 Default=%3",
+    Sandbox_Default = "Default=%1",
     Sandbox_ThumpNoChasing = "Environmental Attacks",
     Sandbox_ThumpNoChasing_option1 = "True",
     Sandbox_ThumpNoChasing_option2 = "False",
