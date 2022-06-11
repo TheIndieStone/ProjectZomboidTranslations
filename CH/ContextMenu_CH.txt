@@ -167,6 +167,7 @@ ContextMenu_CH = {
     ContextMenu_Floor = "地板",
     ContextMenu_Follow_me = "跟隨我",
     ContextMenu_FoodType_Chocolate = "巧克力",
+    ContextMenu_FoodType_Cocoa = "可可粉",
     ContextMenu_FoodType_Coffee = "咖啡",
     ContextMenu_FoodType_Egg = "蛋",
     ContextMenu_FoodType_Fish = "魚類",
