@@ -38,7 +38,7 @@ Challenge_JP = {
 	Challenge_Challenge2_WaveFinished = "ウェーブ %1 クリアしたウェーブ:%2",
 	Challenge_Challenge2_MoneyGained = "獲得したお金:%1",
 	Challenge_Challenge2_XPGained = "獲得した経験値:%1",
-	-- Window	  
+	-- Window
 	Challenge_Challenge2_WindowTitle = "メニュー",
 	Challenge_Challenge2_TabPlayer = "情報",
 	Challenge_Challenge2_Weapons = "武器",

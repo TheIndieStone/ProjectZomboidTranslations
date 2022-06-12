@@ -735,4 +735,5 @@ Moveables_KO = {
     Blue_Combo_Washer_Dryer = "파란색 콤보 세탁/건조기",
     Animal_Trough = "동물 여물통",
     Red_Mobile_Tool_Cabinet = "빨간색 이동식 캐비닛",
+    Military_Crate = "군용 상자",
 }
