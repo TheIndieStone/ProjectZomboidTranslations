@@ -633,6 +633,7 @@ Moveables_RU = {
 	White_Mall_Tile = "Белая плитка торгового центра",
 	White_Microwave = "Белая микроволновка",
 	White_Motel_Floor = "Белый пол мотеля",
+	Military_Crate = "Военный ящик",
 	White_Plant = "Белое растение",
 	White_Simple_Chair = "Простой белый стул",
 	White_Sink = "Белая раковина",

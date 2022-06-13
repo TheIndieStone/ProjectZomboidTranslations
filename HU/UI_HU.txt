@@ -120,6 +120,9 @@ UI_optionscreen_music_library = "Zene könyvtár",
 UI_optionscreen_music_library_1 = "Hivatalos",
 UI_optionscreen_music_library_2 = "Korai elérés",
 UI_optionscreen_music_library_3 = "Véletlen",
+UI_optionscreen_MusicActionStyle = "Zenelejátszás Stílusa",
+UI_optionscreen_MusicActionStyle_1 = "Hivatalos",
+UI_optionscreen_MusicActionStyle_2 = "Örökölt",
 UI_optionscreen_music_track1 = "Jelenlegi szám",
 UI_optionscreen_music_track2 = "%1 (%2)",
 UI_optionscreen_flies_volume = "Legyek hangereje",
@@ -1186,7 +1189,6 @@ UI_optionscreen_showUsernameTooltip = "A felhasználóneved mindig látható má
 UI_optionscreen_personalTextColor = "Saját szövegszín",
 UI_ServerStatus_CreateBackup = "Helyreállítás készítése",
 UI_ServerStatus_Init = "Szerver rendszerek előkészítése",
-
 UI_ServerStatus_Terminated = "Lezárva",
 UI_ServerStatus_Started = "Szerver elindítva",
 UI_ServerStatus_Initialising = "Előkészítés",
@@ -1198,8 +1200,8 @@ UI_ServerOptionDesc_AddUser = "Ezzel a paranccsal új felhasználót vehetsz fel
 UI_ServerOptionDesc_Save = "Aktuális világ elmentése",
 UI_ServerOptionDesc_Quit = "Lépjen ki a szerverről (de előzőleg mentse el)",
 UI_ServerOptionDesc_Alarm = "Épületriasztást adjon ki az adminisztrátor helyén. (Egy szobában kell lennie)",
-    UI_ServerOptionDesc_Chopper = "Helikopterek indítása (egy véletlenszerű Játékos hallja)",
-    UI_ServerOptionDesc_Gunshot = "Fegyverlövés indítása (egy véletlenszerű Játékos hallja)",
+UI_ServerOptionDesc_Chopper = "Helikopterek indítása (egy véletlenszerű Játékos hallja)",
+UI_ServerOptionDesc_Gunshot = "Fegyverlövés indítása (egy véletlenszerű Játékos hallja)",
 UI_ServerOptionDesc_StartRain = "Eső indítása a Szerveren",
 UI_ServerOptionDesc_StopRain = "Eső leállítása a Szerveren",
     UI_ServerOptionDesc_StartStorm = "Starts a storm on the server. Use /startstorm "duration", optional duration is in game hours",
@@ -1329,15 +1331,19 @@ UI_ClothingType_Tshirt = "Póló",
 UI_ClothingType_Sweater = "Pulóver",
 UI_ClothingType_Pants = "Nadrág",
 UI_ClothingType_Skirt = "Szoknya",
+UI_ClothingType_Socks = "Zokni",
 UI_ClothingType_Shoes = "Cipő",
 UI_ClothingType_Eyes = "Szemüveg",
 UI_ClothingType_Hat = "Sapka",
 UI_ClothingType_TorsoExtra = "Extra",
+UI_ClothingType_Hands = "Kéz",
 UI_ClothingType_Jacket = "Dzseki",
+UI_ClothingType_Neck = "Nyak",
 UI_ClothingType_FullSuit = "Kezeslábas",
 UI_ClothingType_Glasses = "Szemüveg",
 UI_ClothingType_Vest = "Mellény",
 UI_ClothingType_T-shirt = "Póló",
+UI_ClothingType_Legs1 = "Lábak",
 UI_ClothingType_Legs5 = "Lábak",
 UI_ClothingType_Dress = "Ruha",
 UI_ClothingType_BodyCostume = "Kosztüm",
@@ -1368,18 +1374,18 @@ UI_ClothingType_Torso1Legs1 = "Test és Láb",
 UI_ClothingType_ShortSleeveShirt = "Rövid Ujjú Ing",
 UI_ClothingType_LeftWrist = "Bal Csukló",
 UI_ClothingType_RightWrist = "Jobb  Csukló",
-UI_ClothingType_Neck = "Nyak",
+
 UI_ClothingType_Necklace = "Nyaklánc",
 UI_ClothingType_Necklace_Long = "Hosszú Nyaklánc",
 UI_ClothingType_Left_MiddleFinger = "Bal Középső ujj",
 UI_ClothingType_Right_MiddleFinger = "Jobb Középső ujj",
 UI_ClothingType_Left_RingFinger = "Bal Gyűrűsujj",
 UI_ClothingType_Right_RingFinger = "Jobb  Gyűrűsujj",
-UI_ClothingType_Hands = "Kéz",
+
 UI_ClothingType_HandsLeft = "Bal Kéz",
 UI_ClothingType_HandsRight = "Jobb Kéz",
-UI_ClothingType_Socks = "Zokni",
-UI_ClothingType_Legs1 = "Lábak",
+
+
 UI_ClothingType_JacketHat = "Kapucnis Kabát",
 UI_ClothingType_FullSuitHead = "Öltözet",
 UI_ClothingType_FullTop = "Teljes felsőtest",
@@ -1442,8 +1448,8 @@ UI_foraging_Warning = "Gyűjtögetés megváltozott! Ez mostantól a tételek ke
 UI_foraging_DiscardedItem = "Elvetve",
 UI_foraging_DiscardItem = "Elvetés",
 UI_investigate_area_window_title = "Terület vizsgálat",
-UI_investigate_area_window_show = "Terület megvizsgálása",
-UI_investigate_area_window_hide = "Terület Vizsgálásának leállítása",
+UI_investigate_area_window_show = "Terület vizsgálat megnyitása",
+UI_investigate_area_window_hide = "Terület vizsgálat bezárása",
 UI_investigate_area_window_toggle_area_tooltip = "Terület Információjának bekapcsolása",
     UI_investigate_area_window_toggle_vision_tooltip = "Toggle Vision Info",
 UI_enable_search_mode = "Keresés mód elindítása",
@@ -1491,12 +1497,12 @@ UI_disable_search_mode = "Keresés mód leállítása",
 
 
 
-	-- v41.69b
-	-- Átnézve 2022.04.29
+	-- v41.71b
+	-- Átnézve 2022.06.05
 	-- Legutóbbi változás:
-	-- Néhány sor végi vessző hiány.
+	-- Kisebb fordítási hibák javítása
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
-	-- 1066-1124, 2001-2046, sorokat átnézni, mert változtak. 41.64-ről 41.69b-re!
+	-- 1066-1124, 2001-2046, sorokat átnézni, mert változtak. 41.64-ről 41.71b-re!
 
 }
