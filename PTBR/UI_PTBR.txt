@@ -827,7 +827,7 @@ UI_PTBR = {
     UI_ServerWorkshopItemError_DownloadItemFalse = "A chamada de DownloadItem() falhou",
     UI_ServerWorkshopItemError_GetItemInstallTimeStamp = "A chamada de GetItemInstallTimeStamp() falhou",
     UI_ServerWorkshopItemError_VersionMismatch = "A versão deste item na Oficina é diferente da versão possuída pelo servidor",
-    "Possivelmente a versão do servidor está desatualizada requerindo ao servidor que seja reiniciado.<br>Se a sua versão está desatualizada tente reinciar o Steam para adquirir a versão mais recente.",
+    UI_ServerWorkshopItemErrorDetail_VersionMismatch = "Possivelmente a versão do servidor está desatualizada requerindo ao servidor que seja reiniciado.<br>Se a sua versão está desatualizada tente reinciar o Steam para adquirir a versão mais recente.",
     UI_ServerWorkshopItemError_UnknownItemState = "Item de estado desconhecido",
     UI_ServerWorkshopItemError_ItemNotSubscribed = "Erro ao se inscrever no item da Oficina",
     UI_ServerWorkshopItemError_ItemNotDownloaded = "Erro ao baixar item da Oficina",
