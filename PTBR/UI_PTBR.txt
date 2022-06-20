@@ -881,7 +881,7 @@ UI_PTBR = {
     UI_servers_showLargeServer = "Mostrar Servidores Com Maior Número de Jogadores",
     UI_servers_showLargeServer_warning = "<H1> PUBLIC SERVICE ANNOUNCEMENT <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> "..
                                          "<CENTRE> <SIZE:large> Servers with over 32 players will potentially result in poor map streaming and desync. Proceed with caution. <LINE><LINE> " ..
-                                         "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ", -- depois
+                                         "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE> ",
     UI_ServerConnectPopup_Label = "Você está prestes a se conectar em:",
     UI_ServerConnectPopup_Connect = "Conectar",
     UI_CoopConnectPopup_Title = "Entrando em Jogo Co-op",
