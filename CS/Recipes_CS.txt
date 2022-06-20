@@ -418,4 +418,5 @@ Recipes_CS = {
     Recipe_Wash_Clothing = "Umýt oblečení",
     Recipe_Write_Doodle = "Něco načmárat",
     Recipe_Write_Journal = "Napsat deník",
+    Recipe_Dismantle_Camera = "Rozebrat fotoaparát",
 }

@@ -8,7 +8,7 @@ Farming_Tomato_Vine = "Paradicsom",
 Farming_Potatoes = "Krumpli",
 Farming_Cabbages = "Káposzta",
   -- growing phase
-Farming_Seedling = "Csírázik",
+Farming_Seedling = "Csírázik:",
 Farming_Young = "Növekszik",
 Farming_Ready_for_Harvest = "Leszedhető",
 Farming_In_bloom = "Virágzik",
@@ -16,6 +16,9 @@ Farming_Seed-bearing = "Szemesedik",
 Farming_Receding = "Elhaló",
 Farming_Rotten = "Rohadt",
 Farming_Destroyed = "Elpusztult",
+
+Farming_Fully_grown = "Teljesen kifejlődött",
+Farming_Ready_to_harvest = "Leszedhető2 ???",
   -- farming info text
   -- title
 Farming_Plant_Information = "Növény információja",
@@ -25,16 +28,13 @@ Farming_Last_time_watered = "Utoljára öntözve",
 Farming_Fertilized = "Trágyázva",
 Farming_Health = "Egészsége",
 Farming_Disease = "Betegsége",
-Farming_Water_levels = "Öntöttség szintje",
+Farming_Water_levels = "Öntözöttség szintje",
   -- water
-Farming_Well_watered = "Megfelelően öntözve",
-Farming_Fine = "Jó",
-Farming_Thirsty = "Vizet igényel",
-Farming_Dry = "Száraz",
-Farming_Parched = "Kiszáradt",
-  -- growing phase
-Farming_Fully_grown = "Teljesen kifejlődött",
-Farming_Ready_to_harvest = "Leszedhető2 ???",
+Farming_Well_watered = " Megfelelően öntözve",
+Farming_Fine = " Jó",
+Farming_Thirsty = " Vizet igényel",
+Farming_Dry = " Száraz",
+Farming_Parched = " Kiszáradt",
   -- disease
 Farming_Mildew = "Penészes",
 Farming_Pest_Flies = "Kártevő rovaros",
@@ -60,13 +60,15 @@ Farming_Tooltip_NotReadyToHarvest = "Nem áll készen a leszedésre.",
 Farming_Tooltip_PlantHasEnoughWater = "A növénynek elegendő a vízmennyisége.",
 Farming_Tooltip_FurrowHasSeeds = "A szántásnak már vannak magjai",
 Farming_Tooltip_RequiredSeeds = "Szükséges magok: ",
-Farming_Strawberry_plant = "Eper",
+Farming_Strawberry plant = "Eper",
 Farming_Tomato = "Paradicsom",
 Farming_Plowed_Land = "Felszántott",
 Farming_MissingItem = "%1 kell",
 
-    -- v41.65
-	-- Átnézve 2022.01.09
+	-- v41.71b
+	-- Átnézve 2022.06.05
+	-- Legutóbbi változás:
+	-- Kisebb fordítási hibák javítása
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

@@ -10,67 +10,67 @@
 [Translations]
 
 	//0. ORIGINAL: This is Jackie Jaye reporting for LBMW...
-	576674c7-6cbf-4ec5-a3e9-7d8269fc44b8 = AquÌ Jackie Jaye informant per LBMW...
+	576674c7-6cbf-4ec5-a3e9-7d8269fc44b8 = Aqu√≠ Jackie Jaye informant per LBMW...
 
 	//1. ORIGINAL: ... here at the military blockade to the north of the Exclusion Zone.
-	44d6bbb2-1d90-4e39-a19c-5e8e5f63d2c6 = ...al bloqueig militar al nord de la zona d'exclusiÛ.
+	44d6bbb2-1d90-4e39-a19c-5e8e5f63d2c6 = ...al bloqueig militar al nord de la zona d'exclusi√≥.
 
 	//2. ORIGINAL: It's a scene of drama, anger and confusion here.
-	cb8d710e-0fc8-4349-a1e6-006483fd65ae = …s un escenari dram‡tic, de r‡bia i confusiÛ.
+	cb8d710e-0fc8-4349-a1e6-006483fd65ae = √âs un escenari dram√†tic, de r√†bia i confusi√≥.
 
 	//3. ORIGINAL: We've got folks turning up trying to get through.
-	a4fde7a4-9bb2-467f-8467-85d12475560a = Hi ha gent que va arribar fins aquÌ per intentar passar.
+	a4fde7a4-9bb2-467f-8467-85d12475560a = Hi ha gent que va arribar fins aqu√≠ per intentar passar.
 
 	//4. ORIGINAL: And standing in their way are guys in camo.
-	b7530e27-031e-457c-ab83-0f9ed3878463 = I s'interposen en el seu camÌ uns tipets amb roba militar.
+	b7530e27-031e-457c-ab83-0f9ed3878463 = I s'interposen en el seu cam√≠ uns tipets amb roba militar.
 
 	//5. ORIGINAL: US Army recruits who four days ago were waiting to ship out overseas from local military bases..
-	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Soldats de l'exËrcit dels EUA que fa quatre dies esperaven per marxar cap a l'estranger des de les bases militars..
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Soldats de l'ex√®rcit dels EUA que fa quatre dies esperaven per marxar cap a l'estranger des de les bases militars..
 
 	//6. ORIGINAL: ... but who are now checkpoint guards around their former home.
-	482c43cb-8a52-4b7a-9fe9-8d02fefa6976 = ...perÚ que avui vigilen punts de control al voltant de les antigues llars.
+	482c43cb-8a52-4b7a-9fe9-8d02fefa6976 = ...per√≤ que avui vigilen punts de control al voltant de les antigues llars.
 
 	//7. ORIGINAL: And still no word on the condition of those inside the Zone!
-	7c74acbe-95e1-495c-afc9-e13ff0866c59 = I seguim sense notÌcies sobre l'estat dels que sÛn a l'interior de la Zona!
+	7c74acbe-95e1-495c-afc9-e13ff0866c59 = I seguim sense not√≠cies sobre l'estat dels que s√≥n a l'interior de la Zona!
 
 	//8. ORIGINAL: We know there's something like an influenza virus in there...
-	d8b25dfb-142c-4403-be92-bd78cc865ec1 = Sabem que hi ha alguna cosa semblant a un virus gripal all‡...
+	d8b25dfb-142c-4403-be92-bd78cc865ec1 = Sabem que hi ha alguna cosa semblant a un virus gripal all√†...
 
 	//9. ORIGINAL: ... but it's localized.
-	c443917d-7e77-4d86-9e6b-fbe95c79cb98 = ...perÚ est‡ localitzat.
+	c443917d-7e77-4d86-9e6b-fbe95c79cb98 = ...per√≤ est√† localitzat.
 
 	//10. ORIGINAL: There's just a handful of reports of strange behaviors.
 	17177d56-19ef-44f6-8fa2-36be6bb0ec0d = Hi ha alguns informes de comportaments estranys.
 
 	//11. ORIGINAL: Panic, confusion...
-	60e7c2f7-38a9-4d95-9430-7cddfbf437e5 = P‡nic, confusiÛ...
+	60e7c2f7-38a9-4d95-9430-7cddfbf437e5 = P√†nic, confusi√≥...
 
 	//12. ORIGINAL: I've been told that military scientists ARE present within the zone.
-	545e2718-5057-4aa9-b0a4-0be9c094f0ee = M'han comunicat que els cientÌfics militars ESTAN presents dins de la zona.
+	545e2718-5057-4aa9-b0a4-0be9c094f0ee = M'han comunicat que els cient√≠fics militars ESTAN presents dins de la zona.
 
 	//13. ORIGINAL: We should hear concrete details tomorrow.
-	3b7637a2-7878-4419-a52f-e8df56611773 = HaurÌem de tenir dades concretes dem‡.
+	3b7637a2-7878-4419-a52f-e8df56611773 = Haur√≠em de tenir dades concretes dem√†.
 
 	//14. ORIGINAL: If anything else comes out of the Exclusion Zone...
-	bbf9b9bf-dbe9-4359-8860-53dc9b18c98c = Si passa alguna cosa mÈs a la Zona d'ExclusiÛ...
+	bbf9b9bf-dbe9-4359-8860-53dc9b18c98c = Si passa alguna cosa m√©s a la Zona d'Exclusi√≥...
 
 	//15. ORIGINAL: ... you'll be the first to know.
 	bc3bc8ea-4b7a-44f9-97d5-a4299f057cd3 = ...sereu els primers a saber-ho.
 
 	//16. ORIGINAL: Keep safe Kentucky.
-	550510ab-0997-445d-9c4a-6f9acf9a8b3b = ¿nim Kentucky.
+	550510ab-0997-445d-9c4a-6f9acf9a8b3b = √Änim Kentucky.
 
 	//17. ORIGINAL: This is Jackie Jaye.
-	87c8bcc3-3b7c-4d99-81c8-fe46f36d526e = AquÌ Jackie Jaye.
+	87c8bcc3-3b7c-4d99-81c8-fe46f36d526e = Aqu√≠ Jackie Jaye.
 
 	//18. ORIGINAL: I'm here at els checkpoints to the north of the Knox exclusion zone.
-	322dc178-82ef-493b-8f7a-894df3ed852e = Estic als llocs de control al nord de la zona d'exclusiÛ de Knox.
+	322dc178-82ef-493b-8f7a-894df3ed852e = Estic als llocs de control al nord de la zona d'exclusi√≥ de Knox.
 
 	//19. ORIGINAL: I'm here with Denise, who has a story to tell.
-	d4c855e9-12c7-4a89-ada8-c225ba4e360c = Estic amb Denise, que tÈ alguna cosa per explicar.
+	d4c855e9-12c7-4a89-ada8-c225ba4e360c = Estic amb Denise, que t√© alguna cosa per explicar.
 
 	//20. ORIGINAL: Denise, you were one of the last out of the Zone. Am I right?
-	8a921753-4eaa-45c6-9fc7-c85d147c8a8b = Denise, vostË va ser una de les ˙ltimes a abandonar la zona. Cert?
+	8a921753-4eaa-45c6-9fc7-c85d147c8a8b = Denise, vost√® va ser una de les √∫ltimes a abandonar la zona. Cert?
 
 	//21. ORIGINAL: I was. My Mom's still in there.
 	c9e0f0ce-1e45-4e54-b3a3-87bc4a23f7bc = Si. La meva mare encara segueix a dins.

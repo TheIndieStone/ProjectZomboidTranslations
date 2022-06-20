@@ -484,4 +484,6 @@ ContextMenu_ES = {
 	ContextMenu_Remove_Logs = "Quitar troncos",
 	ContextMenu_ComboWasherDryer_SetModeWasher = "Modo de configuración: Lavadora",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "Modo de configuración: Secadora",
+	ContextMenu_FillOne = "Llenar uno ",
+	ContextMenu_MergeAll = "Combinar todos",
 }

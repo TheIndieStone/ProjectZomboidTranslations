@@ -1,6 +1,6 @@
 Farming_CA = {
     -- vegetables name (type of seed)
-    Farming_Carrots = "Safanòries",
+    Farming_Carrots = "Carlotes",
     Farming_Broccoli = "Bròcoli",
     Farming_Radishes = "Ràvens",
     Farming_Strawberry_plant = "Planta de maduixa",

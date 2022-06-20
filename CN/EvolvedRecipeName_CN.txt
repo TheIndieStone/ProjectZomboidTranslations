@@ -10,4 +10,3 @@ EvolvedRecipeName_CN = {
 	EvolvedRecipeName_Base.CannedTomatoOpen = "番茄罐头(已打开)",
 	EvolvedRecipeName_Base.Teabag2 = "茶包",
 }
-

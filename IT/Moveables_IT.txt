@@ -392,6 +392,7 @@ Moveables_IT = {
     Metal_Drum = "Tamburo di metallo",
     Metal_Locker = "Armadietto in metallo",
     Metal_Wall_Shelves = "Mensole in metallo",
+	Military_Crate = "Cassa militare",
     Middle_Evangelical_Banner = "Stendardo evangelico medio",
     Mini_Fridge = "Mini frigo",
     Mirror_And_Drawers = "Specchio e cassetti",

@@ -84,7 +84,6 @@ Stash_DE = {
     Stash_MarchRidgeMap5_Text3 = "Ruhig hier",
     Stash_MarchRidgeMap6_Text1 = "Sachen die wir verwenden können, um das Gebäude zu sichern",
     Stash_MarchRidgeMap6_Text2 = "zusätzliche Baumaterialien",
-    Stash_MarchRidgeMap6_Text6 = "Die Hölle entleerte sich hier",
     Stash_MarchRidgeMap7_Text1 = "Ich glaube ich weiß wo er sich versteckt",
     Stash_MarchRidgeMap7_Text2 = "Du solltest dich besser noch bewaffnen",
     Stash_MarchRidgeMap7_Text3 = "Sah ihn hier. Kein Biss, aber hatte das Fieber.",

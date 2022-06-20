@@ -1,4 +1,4 @@
-DynamicRadio_EN {
+DynamicRadio_EN = {
     AEBS_Intro = "<bzzt> Fiver Zero Two. <wzzt> Automated Broadcast System. <bzzt>",
     AEBS_Choppah = "Air Activity detected.",
     AEBS_Power_1 = "Knox Power Grid: Power fluctuations detected.",

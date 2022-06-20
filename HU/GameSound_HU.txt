@@ -1,27 +1,27 @@
 GameSound_HU = {
-    GameSound_ButtonAdvanced = "Advanced",
-    GameSound_ButtonReload = "Reload",
-    GameSound_ButtonReload_tt = "Reload all sounds.txt files.",
-    GameSound_VolumeControlTooltip = "Volume: %1%<br>Master Volume: %2 %3%",
+    GameSound_ButtonAdvanced = "Haladó",
+    GameSound_ButtonReload = "Újratöltés",
+    GameSound_ButtonReload_tt = "Minden sounds.txt fájl újratöltése.",
+    GameSound_VolumeControlTooltip = "Hangerő: %1%<br>Fő Hangerő: %2 %3%",
 
     /* These are the names of tabs in the ui. */
     /* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
     GameSound_Category_AUTO = "AUTO",
-    GameSound_Category_Item = "Item",
+    GameSound_Category_Item = "Tételek",
     GameSound_Category_Meta = "Meta",
-    GameSound_Category_Music = "Music",
-    GameSound_Category_Object = "Object",
-    GameSound_Category_Player = "Player",
-    GameSound_Category_Vehicle = "Vehicle",
-    GameSound_Category_World = "World",
-    GameSound_Category_Zombie = "Zombie",
+    GameSound_Category_Music = "Zene",
+    GameSound_Category_Object = "Objektum",
+    GameSound_Category_Player = "Játékos",
+    GameSound_Category_Vehicle = "Jármű",
+    GameSound_Category_World = "Világ",
+    GameSound_Category_Zombie = "Zombi",
 
     /* You can provide translations for every GameSound if you want to, some might appear in the menu but not in this file */
 
 /* Item */
     GameSound_AlarmClockRingingLoop = "Ringing Alarm Clock",
     GameSound_WatchAlarmLoop = "Watch Alarm",
-    GameSound_AssaultShot = "Assault Rifle Shot".
+    GameSound_AssaultShot = "Assault Rifle Shot",
     GameSound_BatHit = "Baseball Bat Hit",
     GameSound_BladeHit = "Blade Hit",
     GameSound_BatSwing  = "Bat Swing",
@@ -51,10 +51,10 @@ GameSound_HU = {
     GameSound_SliceMeat = "Slice Meat",
     GameSound_ZombieImpact = "Zombie Impact",
     GameSound_Firearm9mmShot = "Firearm - 9mm Shot",
-    GameSound_FirearmVarmintShot = "MSR700 Shot"
-    GameSound_FirearmHunterShot = "MSR788 Shot"
-    GameSound_FirearmShotgun = "Shotgun Shot"  
-    GameSound_FirearmShotgunSawnoff = "Sawed-off Shot"
+    GameSound_FirearmVarmintShot = "MSR700 Shot",
+    GameSound_FirearmHunterShot = "MSR788 Shot",
+    GameSound_FirearmShotgun = "Shotgun Shot",
+    GameSound_FirearmShotgunSawnoff = "Sawed-off Shot",
     GameSound_BulletInRifle = "Bullet in Rifle",
     GameSound_BulletOutVarmint = "Bullet Out",
     GameSound_StormyRifleCock = "Cock a Rifle",
@@ -389,9 +389,11 @@ GameSound_HU = {
     GameSound_ZombieSurprisedPlayer = "Zombie Surprised Player",
     GameSound_TutorialZombie = "TutorialZombie",
 
-    -- v41.65
-	-- Átnézve 2021.12.18
+	-- v41.69b
+	-- Átnézve 2022.04.29
+	-- Legutóbbi változás:
+	-- Néhány sor végi vessző hiány.
 	-- Megjegyzés:
-	-- Egészet le kell fordítani, nem lett hozzányúlva!
+	-- Fordítani kell!
 
 }
