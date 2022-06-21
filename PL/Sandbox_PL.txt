@@ -612,4 +612,5 @@ Sandbox_PL = {
     Sandbox_ZombiesFenceLunge = "Atak po pokonaniu przeszkody",
     Sandbox_ZombiesFenceLunge_tooltip = "Szansa na atak zombie, gdy przewróci się po pokonaniu przeszkody i gdy jesteś za blisko.",
     Sandbox_ZoneStoryChance = "Szansa na losowe historie na zewnątrz",
+	Sandbox_Default = "Domyślnie = %1",
 }
