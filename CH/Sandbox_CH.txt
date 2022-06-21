@@ -278,6 +278,7 @@ Sandbox_CH = {
     Sandbox_MetaEventFreq_option3 = "頻繁",
     Sandbox_MetaEvent_tooltip = "設定如遠處槍聲等吸引殭屍的幕外事件頻率. ",
     Sandbox_MinMaxDefault = "最小=%1 最大=%2 預設=%3",
+	Sandbox_Default = "預設=%1",
     Sandbox_MultiHitZombies = "武器多重打擊",
     Sandbox_MultiHitZombies_tooltip = "啟用時, 特定近戰武器能夠一次擊中多個目標. ",
     Sandbox_NatureAmount = "天然資源豐富度",
