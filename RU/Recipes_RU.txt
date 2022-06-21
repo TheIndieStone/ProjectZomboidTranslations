@@ -8,6 +8,7 @@ Recipe_RU = {
 	Recipe_Insert_Battery_into_Duck = "Вставить батарейку",
 	Recipe_Light_Candle = "Зажечь свечу",
 	Recipe_Make_Mattress = "Сшить матрас",
+	Dismantle Camera = "Разобрать камеру",
 	Recipe_Make_Molotov_Cocktail = "Сделать коктейль Молотова",
 	Recipe_Make_Sturdy_Stick = "Сделать прочную палку",
 	Recipe_Open_Box_of_.223_Ammo = "Вынуть патроны из коробки",

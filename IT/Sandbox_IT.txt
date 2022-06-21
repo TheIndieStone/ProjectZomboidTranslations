@@ -278,6 +278,7 @@ Sandbox_IT = {
     Sandbox_MetaEventFreq_option3 = "Spesso",
     Sandbox_MetaEvent_tooltip = "Con quale frequenza accadono eventi di meta-game come elicotteri o spari.",
     Sandbox_MinMaxDefault = "Minimo=%1 Massimo=%2 Predefinito=%3",
+	Sandbox_Default = "Predefinito=%1",
     Sandbox_MultiHitZombies = "Colpo multiplo dell'arma",
     Sandbox_MultiHitZombies_tooltip = "Quando abilitate, alcune armi da mischia saranno in grado di colpire più zombi in un colpo solo.",
     Sandbox_NatureAmount = "Abbondanza della natura:",
