@@ -1,8 +1,90 @@
 Stash_TH = {
     Stash_AnnotedMap = "แผนที่มีข้อความเขียนไว้",
-    Stash_MulMap1_Text1 = "ตรงนี้ ใต้พื้นกระดาน",
+    
+    Stash_LVMap1_Text1 = "ไอ้หนุ่มมือปืน",
+    Stash_LVMap1_Text2 = "บ้านไอ้หนุ่มมือปืน",
+    
+    Stash_LVMap2_Text1 = "แม่ให้มา",
+    Stash_LVMap2_Text2 = "แวะด้วยนะ",
+    Stash_LVMap2_Text3 = "หลุมศพยาย",
+    Stash_LVMap2_Text4 = "เคารพศพยายเผื่อพวกเราด้วย",
+    
+    Stash_LVMap3_Text1 = "โรงเรียน",
+    Stash_LVMap3_Text2 = "รถของภารโรงโรคจิตน่าจะอยู่แถวนี้",
+    Stash_LVMap3_Text3 = "ขับรถระวังชนรั้ว!",
+    
+    Stash_LVMap4_Text1 = "ไม่ต้องมา เสียเวลาชะมัด",
+    Stash_LVMap4_Text2 = "ต้องใช้ค้อนปอนด์ทุบ",
+    Stash_LVMap4_Text4 = "ปั๊มน้ำมัน",
+    
+    Stash_LVMap5_Text1 = "ครอบครัวคาร์ลินย้ายมาอยู่ตรงนี้ เด็บบี้",
+    Stash_LVMap5_Text2 = "หากต้องการความช่วยเหลือ ให้ไปหาเขา!",
+    Stash_LVMap5_Text3 = "เราเห็นพวกมัน",
+    Stash_LVMap5_Text4 = "อยู่รอบยิมเต็มไปหมดเลย",
+    Stash_LVMap5_Text5 = "ห้ามไปไหนตอนกลางคืน!",
+    
+    Stash_LVMap6_Text1 = "ไม่มีที่ไหนสุขใจเท่าบ้านเรา!",
+    
+    Stash_LVMap7_Text1 = "ขอบคุณที่ช่วยจัดการผม",
+    Stash_LVMap7_Text2 = "นี่คือบ้านผมเอง",
+    Stash_LVMap7_Text3 = "ผมมีทุกอย่างที่อยากได้แล้ว",
+    Stash_LVMap7_Text4 = "คิดว่านะ",
+    
+    Stash_LVMap8_Text1 = "เราอยู่ตรงนี้ ถัดไปอีกสามประตู",
+    Stash_LVMap8_Text2 = "รีบเอายามาเร็วเข้า ดิเอโก",
+    Stash_LVMap8_Text3 = "มีซอมบี้อยู่เต็มไปหมด ห้ามไปนะ",
+    
+    Stash_LVMap9_Text1 = "มีปืนและอาหารอยู่ในคอกม้า - ระวังตัวด้วย!",
+    Stash_LVMap9_Text2 = "ระวังหลงป่า",
+    Stash_LVMap9_Text3 = "มีซอมบี้อยู่ในป่าด้วย",
+    
+    Stash_LVMap10_Text1 = "ไอ้แก่นี่มีอาหารเต็มบ้าน",
+    Stash_LVMap10_Text2 = "แต่ไม่มีปืน",
+    Stash_LVMap10_Text3 = "คราวหน้ามึงอย่าลาก",
+    Stash_LVMap10_Text4 = "ฝูงซอมบี้มาด้วยอีกนะโว้ย!",
+    
+    Stash_LVMap11_Text1 = "ร้านค้ายังมีของ",
+    Stash_LVMap11_Text2 = "แต่มีซอมบี้เต็มไปหมด",
+    Stash_LVMap11_Text3 = "คลังสินค้า",
+    Stash_LVMap11_Text4 = "นายพลแห่งลุยส์วิลล์",
+    
+    Stash_LVMap12_Text1 = "สาวร้านพิซซ่า",
+    Stash_LVMap12_Text2 = "หนุ่มฮอตขายเบอร์เกอร์",
+    Stash_LVMap12_Text3 = "เต็นท์ของเรา",
+    Stash_LVMap12_Text4 = "ซินซิลลาต้องสุดยอด",
+    Stash_LVMap12_Text5 = "ไปเลยแน่นอน วู้วววววว!!!",
+    
+    Stash_LVMap13_Text1 = "บ้านคุ้มกันหนาแน่น",
+    Stash_LVMap13_Text2 = "แต่ระวังตอนเคลียร์หลังบ้านด้วย",
+    Stash_LVMap13_Text3 = "ตรงนี้มีรถยนต์สภาพดี",
+    
+    Stash_LVMap14_Text1 = "เอาไม้กระดานที่ฉันขนมาไปกั้นไว้",
+    Stash_LVMap14_Text2 = "ไม่งั้นพวกมันบุกเข้ามาแน่",
+    Stash_LVMap14_Text3 = "อย่าลืมล่ะ!",
+    Stash_LVMap14_Text4 = "อย่าให้ใครเข้ามาตอนที่ฉันไม่อยู่!",
+    Stash_LVMap14_Text5 = "ฉันจะไปไม่เกินหนึ่งชั่วโมงครึ่ง (ตอนนี้ 2:30)",
+    Stash_LVMap14_Text6 = "ถ้านานกว่านั้น ให้เรียกเอ็ดเวิร์ดทางวิทยุสื่อสาร",
+    Stash_LVMap14_Text7 = "รักนะ",
+    
+    Stash_LVMap15_Text1 = "ถึงคนที่มาเจอ ฉันคือนาตาลี ซิกมุนด์สัน",
+    Stash_LVMap15_Text2 = "เป็นอาจารย์สอนประวัติศาสตร์ศิลปะที่ LSU",
+    Stash_LVMap15_Text3 = "ฉันคงตายไปแล้วแหละ แต่นี่คือคำขอครั้งสุดท้ายของฉัน",
+    Stash_LVMap15_Text4 = "นี่เป็นแค่จุดจบของโลกที่เราอยู่เท่านั้น",
+    Stash_LVMap15_Text5 = "แต่ไม่ว่าอย่างไรเราต้องรักษาสมบัติในหอศิลป์ให้ได้นะ",
+    Stash_LVMap15_Text6 = "ไม่เช่นนั้นเราก็คงไม่เหลืออะไรเลย เพื่อนของฉัน",
+    Stash_LVMap15_Text7 = "เก็บรวบรวมอาวุธไว้ที่รถที่จอดใกล้กับหอศิลป์",
+    Stash_LVMap15_Text8 = "โปรดใช้อาวุธจัดการพวกมันปกป้องศิลปะของมนุษยชาติ",
+    Stash_LVMap15_Text9 = "รถ",
+    
+    Stash_LVMap16_Text1 = "ละแวกนี้อันตรายมาก",
+    Stash_LVMap16_Text2 = "ลูกชายของคุณถูกพวกมันจัดการตรงนี้",
+    Stash_LVMap16_Text3 = "ออกมาหาเราได้แล้ว ตอนนี้ปลอดภัยแล้ว",
+    Stash_LVMap16_Text4 = "เรากำลังจะลงไปทางใต้",
+    Stash_LVMap16_Text5 = "ได้โปรดไปกับเราเถอะ",
+    
+    Stash_MulMap1_Text1 = "ใต้พื้นกระดานตรงนี้",
     Stash_MulMap1_Text2 = "ขวาน?",
-    Stash_MulMap1_Text3 = "ฝูงใหญ่",
+    Stash_MulMap1_Text3 = "มากันโคตรเยอะ",
     Stash_MulMap2_Text1 = "ทิ้งไว้ให้คุณตรงนี้",
     Stash_MulMap2_Text2 = "ที่เก็บของ",
     Stash_MulMap2_Text3 = "ทั้งหมู่บ้านกลายเป็นซอมบี้",
@@ -19,53 +101,93 @@ Stash_TH = {
     Stash_MulMap7_Text1 = "แผนสำรอง",
     Stash_MulMap7_Text2 = "ร้านค้า – ยังมีของอยู่เต็ม",
     Stash_MulMap7_Text3 = "เละเทะ",
-    Stash_MulMap8_Text1 = "เชิญเอาของไปได้เลย ช่วยฝังศพฉันด้วยหากทำได้อย่างปลอดภัย ขอพระเจ้าอวยพระพร",
-    Stash_MulMap8_Text2 = "เชิญรับเครื่องดื่มไปถ้าคุณต้องการ",
-    Stash_MulMap8_Text3 = "มากันเป็นฝูงใหญ่ ยังไม่ไปไหนหลายวันแล้ว",
+    Stash_MulMap8_Text1 = "เชิญเอาของไปได้เลย ถ้าเป็นไปได้ช่วยฝังศพให้ฉันด้วย ขอพระเจ้าอวยพระพร",
+    Stash_MulMap8_Text2 = "เชิญรับเครื่องดื่ม",
+    Stash_MulMap8_Text3 = "มากันเป็นฝูงใหญ่ ไม่ไปไหนเลยหลายวันแล้ว",
     Stash_MulMap10_Text1 = "บ้านมรณะ",
-    Stash_MulMap10_Text2 = "ของสปิฟโฟ",
+    Stash_MulMap10_Text2 = "ร้านสปิฟโฟ",
     Stash_MulMap10_Text3 = "แถวนี้น่าจะปลอดภัย",
     Stash_MulMap11_Text1 = "ปืนอยู่ในร้านสปิฟโฟ",
     Stash_MulMap11_Text2 = "มียาตรงนี้",
-    Stash_MulMap11_Text3 = "อุปสรรค",
+    Stash_MulMap11_Text3 = "ปัญหาใหญ่",
     Stash_MulMap12_Text1 = "ปืนลูกซองอยู่ตรงนี้ - อาหารในครัว?",
     Stash_MulMap12_Text2 = "หยูกยาทั้งหลายแหล่",
-    Stash_MulMap12_Text3 = "ฝูงใหญ่",
+    Stash_MulMap12_Text3 = "อย่างเยอะ",
     Stash_MulMap13_Text1 = "ขนมาได้ครึ่งทาง แต่ต้องทิ้งไว้ตรงนี้ - หนักเกินไป",
     Stash_MulMap13_Text2 = "เครื่องมือมากมายยังคงอยู่ในร้านอุปกรณ์ช่าง",
-    Stash_MulMap13_Text3 = "กระสุนปืน",
-    Stash_WpMap1_Text1 = "มั่นใจว่าเขาเคยอาศัยอยู่ที่นี่",
-    Stash_WpMap1_Text2 = "มากเกินกว่าจะรับไหว อย่ายิงแถวนี้นะ เห็นแก่พระเจ้าเถอะ";
-    Stash_WpMap2_Text1 = "คิดว่าเธออาศัยอยู่ตรงนี้",
+    Stash_MulMap13_Text3 = "เสียงปืน",
+    
+    Stash_MulMap14_Text1 = "บ้านนี้ปลอดภัยที่สุด - กั้นทางเข้าไว้ด้วย!",
+    Stash_MulMap14_Text2 = "แถวนี้เยอะเลย",
+    Stash_MulMap14_Text3 = "ห้ามยิง - พวกมันจะมาตามเสียง",
+    
+    Stash_MulMap15_Text1 = "บ้านหมออาวุโส",
+    Stash_MulMap15_Text2 = "ระวังด้วยแถวนี้",
+    Stash_MulMap15_Text21 = "เจโดนกัดตรงนี้",
+    
+    Stash_MulMap16_Text1 = "รปภ. ของธนาคารมีปืน",
+    Stash_MulMap16_Text2 = "อยากดูทีวี อยากดวดเบียร์เย็น ๆ โว้ย โลกนี้มันอะไรกันวะแม่ง",
+    
+    Stash_MulMap17_Text1 = "มีของเพียบเลย",
+    Stash_MulMap17_Text2 = "ดูร้านเบเกอรีข้าง ๆ ด้วย",
+    Stash_MulMap17_Text3 = "ระวังนะแม่ พ่อเดินไปมาแถวนี้",
+    
+    Stash_MulMap18_Text1 = "รถบ้านของวิลลีจอมเพี้ยน",
+    Stash_MulMap18_Text11 = "ได้ข่าวว่าเขากลายเป็นซอมบี้",
+    Stash_MulMap18_Text12 = "หวังว่าเขาจะทิ้งปืนไว้แถวนี้",
+    
+    Stash_WpMap1_Text1 = "เขาต้องเคยอยู่ที่นี่แน่ ๆ",
+    Stash_WpMap1_Text2 = "เยอะเกินไปแล้ว  ห้ามยิงแถวนี้นะ เห็นแก่พระเจ้าเถอะ";
+    Stash_WpMap2_Text1 = "เธอคงพักที่นี่",
     Stash_WpMap2_Text2 = "ศูนย์การแพทย์",
     Stash_WpMap2_Text3 = "เห็นเธอเดินอยู่ตรงนี้ ไม่ได้ถือปืน",
     Stash_WpMap4_Text1 = "กล้าหน่อยสิ ฉันรักเธอ",
-    Stash_WpMap4_Text3 = "อย่าไปตรงนี้ เมแกนอยู่ตรงนี้ที่ไหนสักแห่ง – เธอคือหนึ่งในนั้น",
-    Stash_WpMap4_Text31 = "ไม่รู้เลยว่าเธออยู่ในเมือง อย่าไปเลย",
+    Stash_WpMap4_Text3 = "ห้ามไปตรงนี้ เมแกนอยู่แถวนี้แหละ – เธอคือหนึ่งในพวกนั้น",
+    Stash_WpMap4_Text31 = "ไม่คิดเลยว่าเธอจะอยู่ในเมือง อย่าไปนะ",
     Stash_WpMap5_Text1 = "เครื่องมือที่ฉันทิ้งไว้ในห้องนอนจะช่วยให้ได้คุณได้เปรียบ -",
-      Stash_WpMap5_Text11 = "ป้องกันให้นานที่สุด ฉันรักคุณ",
+    Stash_WpMap5_Text11 = "ป้องกันให้นานที่สุด ฉันรักคุณ",
     Stash_WpMap5_Text2 = "พิซซ่า",
     Stash_WpMap5_Text3 = "ปัญหา",
     Stash_WpMap6_Text1 = "ฉันไม่ต้องการของพวกนี้แล้ว ขอให้โชคดี",
-    Stash_WpMap6_Text2 = "ของทวิกกี้",
+    Stash_WpMap6_Text2 = "ร้านทวิกกี้",
     Stash_WpMap6_Text3 = "นรกชัด ๆ",
-    Stash_WpMap8_Text1 = "โจลีนไม่ได้รับเชื้อ เธอช่วยได้",
+    Stash_WpMap8_Text1 = "โจลีนไม่ได้รับเชื้อ เธอช่วยเราได้",
     Stash_WpMap8_Text2 = "ร้านขายปืน",
-    Stash_WpMap8_Text3 = "เห็นคนตาย",
+    Stash_WpMap8_Text3 = "มีคนตาย",
     Stash_WpMap9_Text1 = "หลุมนรกซอมบี้",
     Stash_WpMap9_Text2 = "ที่ทำงานของพ่อ",
     Stash_WpMap9_Text3 = "ศพพ่อ",
-    Stash_WpMap10_Text1 = "ระยำทุกอย่าง",
+    Stash_WpMap10_Text1 = "ความฉิบหายวายป่วงทั้งหมดทั้งมวล",
     Stash_WpMap10_Text2 = "ร้านขายอุปกรณ์ช่างอาจยังมีของอยู่",
     Stash_WpMap10_Text3 = "อุปสรรคเพิ่มเติม",
     Stash_WpMap11_Text1 = "ผู้จัดการร้านสปิฟโฟเคยเก็บปืนลูกซองไว้ในร้าน",
-    Stash_WpMap11_Text11 = "ไอ้บ้าเหยดแหม่ที่รู้ว่ากำลังจะเกิดอะไรขึ้น",
+    Stash_WpMap11_Text11 = "ไอ้ห่านี่มันรู้ว่ากำลังจะเกิดอะไรขึ้น",
     Stash_WpMap11_Text2 = "สถานที่ขายอุปกรณ์ช่างสภาพดี",
-    Stash_WpMap11_Text3 = "หลีกเลี่ยงทุกที่ใกล้บ้าน - ไม่ต้องมาตามหาฉันตรงนี้",
+    Stash_WpMap11_Text3 = "อย่าเข้าไปแถวละแวกบ้าน - ไม่ต้องมาตามหาฉันแถวนี้",
     Stash_WpMap12_Text1 = "ทุกคนมาถึงที่ทำงานในวันที่มีไข้",
     Stash_WpMap12_Text11 = "ฉันให้พวกเขาขึ้นเครื่องก่อนที่พวกเขาจะกลายร่าง",
     Stash_WpMap12_Text2 = "ร้านขายปืน",
-    Stash_WpMap12_Text3 = "เยอะราวกับวันศุกร์ทมิฬ",
+    Stash_WpMap12_Text3 = "มากันเยอะราวกับมีของลดราคา",
+    
+    Stash_WpMap13_Text1 = "ฆ่าด้วยปืน: 12",
+    Stash_WpMap13_Text2 = "ฆ่าด้วยขวาน: 20",
+    Stash_WpMap13_Text3 = "ฆ่าด้วยรถ: 11",
+    
+    Stash_WpMap14_Text1 = "มาเจอกันตรงนี้นะธัญญ่า! เอาอาหารมาด้วย"
+    Stash_WpMap14_Text11 = "รอคอลินเอาเรือมารับ",
+    
+    Stash_WpMap15_Text1 = "พวกมันหาเราไม่เจอหรอก เชื่อดิ",
+    Stash_WpMap15_Text11 = "พวกมันโง่ยิ่งกว่าปลาหยุดอีก",
+    Stash_WpMap15_Text2 = "แถวนี้เหมาะแก่การล่า",
+    
+    Stash_WpMap16_Text1 = "เสี่ยงต่อการโจมตี",
+    Stash_WpMap16_Text2 = "ทางออกที่ปลอดภัยที่สุด"
+    Stash_WpMap16_Text21 = "ข้ามรั้วแล้วมุ่งหน้าตามถนนไปยังทิศใต้เข้าป่าไป"
+    Stash_WpMap16_Text3 = "ทางรอด"
+    Stash_WpMap16_Text31 = "หนึ่งเดือน: 58%"
+    Stash_WpMap16_Text32 = "ฤดูหนาว: 22%"
+    Stash_WpMap16_Text4 = "ต้องการอาหารเพิ่มและรถยนต์ที่ใช้การได้"
+    
     Stash_MarchRidgeMap1_Text1 = "มีปืนอยู่ตรงนี้",
     Stash_MarchRidgeMap1_Text2 = "มีขวานและเครื่องมืออยู่ที่นี่",
     Stash_MarchRidgeMap1_Text3 = "อย่าไป",
@@ -88,11 +210,141 @@ Stash_TH = {
     Stash_MarchRidgeMap7_Text1 = "ตำแหน่งที่ฉันคิดว่าเขาซ่อนตัวอยู่",
     Stash_MarchRidgeMap7_Text2 = "คุณอาจต้องมีเครื่องมือเตรียมพร้อม",
     Stash_MarchRidgeMap7_Text3 = "เห็นเขาตรงนี้ ไม่มีรอยกัด แต่มีไข้",
-    Stash_RosewoodStashMap2_Text1 = "ซ่อนปืนไว้บางส่วน",
+    
+    Stash_MarchRidgeMap8_Text1 = "ทิ้งเครื่องมือไว้ที่นี่"
+    Stash_MarchRidgeMap8_Text2 = "คงไม่ได้ใช้แล้ว"
+    
+    Stash_MarchRidgeMap9_Text1 = "ยินดีต้อนรับผู้รอดชีวิตทุกท่าน"
+    Stash_MarchRidgeMap9_Text2 = "ต้องการอาหาร ปืน และสิ่งของจำเป็นต่าง ๆ"
+    Stash_MarchRidgeMap9_Text3 = "ฆ่าซอมบี้สักหน่อยก่อนเข้ามาด้วยจะดีมาก"
+    
+    Stash_MarchRidgeMap10_Text1 = "ขอให้ไปสู่ภพภูมิที่ดี",
+    Stash_MarchRidgeMap10_Text2 = "ขอให้รอดพ้นจากนรก",
+    
+    Stash_RiversideStashMap1_Text1 = "เราอยู่ตรงนี้",
+    Stash_RiversideStashMap1_Text11 = "หวังว่าจะได้เจอคุณในเร็ว ๆ นี้",
+    Stash_RiversideStashMap1_Text2 = "ระวังแถวนี้ให้ดี!",
+    
+    Stash_RiversideStashMap2_Text1 = "ห้อง 208 รออยู่นะ",
+    Stash_RiversideStashMap2_Text11 = "จำช่วงเวลาที่เรานั่งดูแม่น้ำทั้งวันได้ไหม?",
+    Stash_RiversideStashMap2_Text12 = "อย่าทิ้งฉันไว้คนเดียวสิจ๊ะ",
+    
+    Stash_RiversideStashMap3_Text1 = "ร้านเช่าวิดีโอ",
+    Stash_RiversideStashMap3_Text2 = "เหล้า",
+    
+    Stash_RiversideStashMap4_Text1 = "ดารีลติดเชื้อ ทิ้งเขาไว้ตรงนี้",
+    Stash_RiversideStashMap4_Text11 = "ไปหานาตาลี เธอรู้ว่าต้องจัดการยังไง",
+    Stash_RiversideStashMap4_Text2 = "เห็นพวกมันลากสองคนนั้นไปกิน เลวร้ายที่สุด",
+    
+    Stash_RiversideStashMap5_Text1 = "ถึงคนอ่าน ห้ามไปตรงนี้เด็ดขาด",
+    Stash_RiversideStashMap5_Text2 = "ไอ้ห่านรกพวกนี้ฆ่าแฟรงก์แล้วก็กัดผมด้วย",
+    
+    Stash_RiversideStashMap6_Text1 = "เอ็ดดี้น่าจะซ่อนปืนไว้แถวนี้",
+    Stash_RiversideStashMap6_Text11 = "ไอ้หมอนี่น่าจะจัดการได้ทั้งเมืองถ้าไม่ติดเชื้อไปเสียก่อน",
+    Stash_RiversideStashMap6_Text12 = "หวังว่าอีบ้าวิกกี้จะไม่เจอปืนนะ",
+    
+    Stash_RiversideStashMap7_Text1 = "พวกเขากลายเป็นซอมบี้ไปหมดแล้ว",
+    Stash_RiversideStashMap7_Text2 = "กำลังจะไปกิกะมาร์ต",
+    Stash_RiversideStashMap7_Text21 = "ตอนที่ฉันไม่อยู่อย่าทะเลาะกับซานดรานะ",
+    
+    Stash_RiversideStashMap8_Text1 = "เหลืออาหารไว้ให้คุณตรงนี้นะ", 
+    Stash_RiversideStashMap8_Text11 = "กินอะไรสักหน่อยก่อนออกมา",
+    Stash_RiversideStashMap8_Text2 = "พวกติดเชื้อเดินเพ่นพ่านเต็มไปหมด",
+    Stash_RiversideStashMap8_Text3 = "เคยเห็นกลุ่มคนแถวนี้ (ตายหมดแล้วมั้ง)",
+    
+    Stash_RiversideStashMap9_Text1 = "ธัญญ่ารอเราอยู่ตรงนี้",
+    Stash_RiversideStashMap9_Text2 = "น้ำมัน",
+    Stash_RiversideStashMap9_Text3 = "ดีถูกกัดแต่ไม่เป็นอะไรมาก - ต้องการยาปฏิชีวนะเพื่อป้องกันการติดเชื้อ",
+    
+    Stash_RiversideStashMap10_Text1 = "ธนาคาร", 
+    Stash_RiversideStashMap10_Text2 = "เอาอาวุธเสริมมาด้วย", 
+    Stash_RiversideStashMap10_Text21 = "หัวขวานหลวมแล้วนะ",
+    Stash_RiversideStashMap10_Text3 = "กำลังออกจากเมืองไปทางทิศตะวันตก คุณคงรู้ว่าจะหาผมเจอได้ที่ไหน",
+    
+    Stash_RosewoodStashMap2_Text1 = "ซ่อนปืนไว้",
     Stash_RosewoodStashMap2_Text2 = "ต่อไปคือตรงนี้",
     Stash_RosewoodStashMap2_Text3 = "สิ้นสุดตรงนี้",
     Stash_RosewoodStashMap3_Text1 = "ไปมาแล้ว พบอุปกรณ์สำหรับสร้างป้อมปราการหลายอย่าง",
     Stash_RosewoodStashMap3_Text11 = "บ้านเก่าของแม่ แล้วเจอกันนะ",
-    Stash_RosewoodStashMap3_Text2 = "อาจเป็นอาวุธได้ - เผื่อไว้",
+    Stash_RosewoodStashMap3_Text2 = "อาจเป็นอาวุธได้ - เผื่อฉุกเฉิน",
     Stash_RosewoodStashMap3_Text3 = "อย่าไปทางนี้",
-}
+    
+    Stash_RosewoodStashMap4_Text1 = "ทิ้งของที่หอบมาไว้ตรงนี้",
+    Stash_RosewoodStashMap4_Text2 = "ถ้าพวกมันมา (พวกมันมาแน่นอน!)",
+    Stash_RosewoodStashMap4_Text3 = "เอาแต่ของที่คุณแบกได้แล้วหนีเข้าป่าไป",
+    
+    Stash_RosewoodStashMap5_Text1 = "ตรงนี้มีอาหาร",
+    Stash_RosewoodStashMap5_Text2 = "อย่าพรวดพราดเข้าไปนะ!",
+    Stash_RosewoodStashMap5_Text3 = "จำได้ไหมว่าเกิดอะไรขึ้นกับนายดันแคน",
+
+/*
+    Stash_WorldMap1_Text1 = "มาตรงนี้! คาร่าช่วยได้",
+    Stash_WorldMap1_Text2 = "เห็นพวกติดเชื้อแถวนี้ (ไปกันแล้วมั้ง)",
+    Stash_WorldMap1_Text4 = "ขับรถเบา ๆ นะ อย่าลากพวกมันมาด้วย",
+    
+    Stash_WorldMap2_Text1 = "เหมาะแก่การตั้งฐานที่มั่น ไกลหน่อยนะ",
+    Stash_WorldMap2_Text11 = "มาถึงแล้วกั้นทางด้วย!",
+    Stash_WorldMap2_Text12 = "ซ่อนปืนไว้ให้คุณข้างในนี้",
+    
+    Stash_WorldMap3_Text1 = "ตรงนี้มีน้ำมัน",
+    Stash_WorldMap3_Text11 = "คุณอาจจำเป็นต้องใช้",
+    
+    Stash_WorldMap4_Text1 = "ญาน่าบอกว่าผู้หญิงคนนั้นอาศัยอยู่ที่นี่",
+    Stash_WorldMap4_Text11 = "เธออาจจะช่วยเราได้?",
+    
+    Stash_WorldMap5_Text1 = "พอลลีทิ้งของไว้ตรงนี้",
+    Stash_WorldMap5_Text11 = "ดูให้ดีก่อนจะเข้าไป",
+    Stash_WorldMap5_Text12 = "อย่าลืมเผาทำลายแผนที่นี้ด้วย!!!",
+    
+    Stash_WorldMap6_Text1 = "มีของดีตรงนี้",
+    Stash_WorldMap6_Text2 = "หยิบของเท่านั้น - ใหญ่เกินกว่าจะป้องกันได้",
+    Stash_WorldMap6_Text3 = "แอนดี้",
+    
+    Stash_WorldMap7_Text1 = "เติมเต็มตรงนี้",
+    Stash_WorldMap7_Text2 = "พวกติดเชื้อเต็มไปหมด",
+    Stash_WorldMap7_Text21 = "ไอ้พวกนี้มันมาจากไหนกันวะ",
+    
+    Stash_WorldMap8_Text1 = "ของเคน น่าจะมีประโยชน์",
+    Stash_WorldMap8_Text2 = "ระวังคนที่เดินตามมาด้วย",
+    Stash_WorldMap8_Text21 = "ไม่ใช่แค่ซอมบี้",
+    
+    Stash_WorldMap9_Text1 = "รางรถไฟ",
+    Stash_WorldMap9_Text2 = "ลังเต็มไปหมด น่าจะมีของอยู่ข้างใน",
+    Stash_WorldMap8_Text3 = "สำนักงาน ไม่มีอะไรเลย",
+    Stash_WorldMap8_Text4 = "คลังสินค้า?",
+    
+    Stash_WorldMap10_Text1 = "ปั๊มน้ำมัน",
+    Stash_WorldMap10_Text2 = "ร้านขายเสื้อผ้า",
+    Stash_WorldMap10_Text3 = "ร้านสปิฟโฟ",
+    Stash_WorldMap10_Text4 = "รถ",
+    
+    Stash_WorldMap11_Text1 = "จาน 3 บนอาคาร 2 สัญญาณหายที่ 6 GHz - มีปัญหาด้านพลังงาน",
+    Stash_WorldMap11_Text11 = "ไปกองบัญชาการเพื่อทดสอบกับเล็กซิงตันในภายหลัง",
+    
+    Stash_WorldMap12_Text1 = "ที่ตั้งแคมป์ขนาดใหญ่ - มีทุกอย่างที่ต้องการ (ยกเว้นยาสำหรับเจน)",
+    Stash_WorldMap12_Text11 = "ต้องจัดการซอมบี้ข้างนอกก่อน มีอาหาร ที่นอน เตาไฟ"
+    Stash_WorldMap12_Text2 = "อันตรายมาก: ห้างทางทิศเหนือมีซอมบึ้เป็นแสน"
+    
+    Stash_WorldMap13_Text1 = "ฮัล พวกเราจะไปตรงนี้ น่าจะปลอดภัย"
+    Stash_WorldMap13_Text11 = "ก็รู้นะว่าทำใจยาก แต่อย่าเอาพอลล่ามาด้วย"
+    Stash_WorldMap13_Text12 = "ช่วยตัวเองให้รอดก่อนเถอะ"
+    
+    Stash_WorldMap14_Text1 = "คุณยาย"
+    Stash_WorldMap14_Text2 = "จุดที่คุณตาโดนพวกมันลากไป"
+    Stash_WorldMap14_Text3 = "ขอพระเจ้าทรงปกป้องพวกท่านด้วย"
+    
+    Stash_WorldMap17_Text1 = "ที่ลับสายตา"
+    Stash_WorldMap17_Text2 = "วิกกี้จะปิดเซนเซอร์ตรวจจับความเคลื่อนไหวเวลา 23.15"
+    Stash_WorldMap17_Text21 = "ตั้งใจหน่อย! ตามวิกกี้ไป ถ่ายรูป แล้วก็เผ่นออกมา"
+    
+    Stash_WorldMap18_Text1 = "เบน"
+    Stash_WorldMap18_Text2 = "ทางเดิน"
+    
+    Stash_WorldMap19_Text1 = "ดื้อด้านที่สุด! อย่างน้อยก็น่าจะเอาปืนที่ทิ้งไว้ให้ที่บ้านป้าคัดดี้ไปด้วย"
+    Stash_WorldMap19_Text11 = "ถ้าตายขึ้นมาจะไม่ยกโทษให้เด็ดขาด!!!"
+    
+    Stash_WorldMap19_Text1 = "หัวฆวย"
+    Stash_WorldMap19_Text2 = "ไอ้เหี้ย"
+    Stash_WorldMap19_Text3 = "หน้ากี"
+*/
+}    
