@@ -133,6 +133,7 @@ Sandbox_FR = {
     Sandbox_DecayingCorpseHealthImpact_option3 = "Normal",
     Sandbox_DecayingCorpseHealthImpact_option4 = "Haut",
     Sandbox_DecayingCorpseHealthImpact_tooltip = "Détermine l'impact de la proximité de corps en décomposition sur la santé et les émotions des joueurs.",
+    Sandbox_Default = "Par défaut = %1",
     Sandbox_DeletePresetPrompt = "Voulez vous supprimer %1?",
     Sandbox_ElecShut = "JOURS AVANT COUPURE DE L'ÉLECTRICITÉ :",
     Sandbox_EnableSnowOnGround = "NEIGE AU SOL :",
