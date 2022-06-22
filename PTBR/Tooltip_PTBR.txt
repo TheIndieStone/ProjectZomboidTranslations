@@ -295,4 +295,5 @@ Tooltip_PTBR = {
     Tooltip_BookTitle_5 = "%1 Avançada",
     Tooltip_BookTitle_7 = "Especialista em %1",
     Tooltip_BookTitle_9 = "Mestre em %1",
+	Tooltip_item_Watermelon = "Has to be sliced or smashed before it can be eaten.",
 }

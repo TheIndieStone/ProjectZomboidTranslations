@@ -207,6 +207,8 @@ UI_PTBR = {
     UI_LoadGameScreen_ButtonConfig = "MAIS...",
     UI_LoadGameScreen_ButtonFiles = "ARQUIVOS",
     UI_LoadGameScreen_ButtonNewPlayer = "NOVO JOGADOR",
+    UI_LoadGameScreen_RenameSavefileText = "Choose a new name for this savefile.  Press the button to rename the folder.",
+    UI_LoadGameScreen_ButtonRenameSavefile = "RENAME FILE",
     UI_NewGameScreen_title = "NOVO JOGO",
     UI_worldscreen_deletesave = "Você tem certeza que quer deletar este jogo salvo?",
     UI_worldscreen_MapNotFound = "Um mapa está faltando. Cheque se os mods necessários estão instalados.",
@@ -1241,6 +1243,8 @@ UI_PTBR = {
     UI_ServerOptionDesc_Help = "Ajuda",
     UI_ServerOptionDesc_SafeHouse = "Libera um refúgio que você possui. Use /releasesafehouse",
 	UI_ServerOptionDesc_Replay = "Grava e toca o replay do movimento do jogador. Use: /replay \"playername\" -record|-play|-stop filename. Exemplo: /replay user1 -record stadion.bin",
+    UI_ServerOptionDesc_SetLogLevel = "Set log level. Use /log %1 %2",
+    UI_ServerOptionDesc_SetStatisticsPeriod = "Set and clear server statistics. Use /stats none|file|console|all period. Example /stats file 10",
     UI_ServerOptions_SpawnRegionFile1 = "-- Esse arquivo foi gerado automaticamente quando o servidor foi gerado.",
     UI_ServerOptions_SpawnRegionFile2 = "-- Usuários conectando ao servidor podem escolher iniciar em uma dessas regiões.",
     UI_ServerOptions_SpawnRegionFile3 = "-- O Administrador pode adicionar quantas regras de início quiser.",
@@ -1492,4 +1496,5 @@ UI_PTBR = {
     UI_ServerOption_AntiCheatProtectionType9ThresholdMultiplier_tooltip = "Multiplicador de valor limite para proteção do anti-cheat: tipo 9.",
     UI_ServerOption_AntiCheatProtectionType15ThresholdMultiplier_tooltip = "Multiplicador de valor limite para proteção do anti-cheat: tipo 15.",
     UI_ServerOption_AntiCheatProtectionType20ThresholdMultiplier_tooltip = "Multiplicador de valor limite para proteção do anti-cheat: tipo 20.",
+    UI_ServerOption_MapRemotePlayerVisibility_tooltip = "Controls display of remote players on the in-game map.\n1=Hidden 2=Friends 3=Everyone",
 }
