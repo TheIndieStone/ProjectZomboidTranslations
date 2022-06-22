@@ -1,5 +1,87 @@
 Stash_CA = {
     Stash_AnnotedMap = "Mapa amb notes",
+
+    Stash_LVMap1_Text1 = "dep al sonat de l'escopeta",
+    Stash_LVMap1_Text2 = "la casa del sonat de l'escopeta",
+
+    Stash_LVMap2_Text1 = "regal de mamà x",
+    Stash_LVMap2_Text2 = "no oblides visitar",
+    Stash_LVMap2_Text3 = "la tomba de la iaia, si pots",
+    Stash_LVMap2_Text4 = "resa per tots nosaltres",
+
+    Stash_LVMap3_Text1 = "escola",
+    Stash_LVMap3_Text2 = "el camió del conserge raret hauria d'estar ací",
+    Stash_LVMap3_Text3 = "compte amb la tanca conduint!",
+
+    Stash_LVMap4_Text1 = "ni te ratlles, vaig perdre el temps mirant-hi",
+    Stash_LVMap4_Text2 = "cal maça",
+    Stash_LVMap4_Text4 = "gasolinera",
+
+    Stash_LVMap5_Text1 = "Els Espert es van mudar ací Vero",
+    Stash_LVMap5_Text2 = "Ves ad ells si necessites ajuda!",
+    Stash_LVMap5_Text3 = "vam vore eixes coses",
+    Stash_LVMap5_Text4 = "rodant el gimnàs ací",
+    Stash_LVMap5_Text5 = "no vages enlloc de nit!",
+
+    Stash_LVMap6_Text1 = "CAP LLOC MILLOR QUE EN CASA!",
+
+    Stash_LVMap7_Text1 = "Gràcies per matar-me",
+    Stash_LVMap7_Text2 = "Açò era ma casa",
+    Stash_LVMap7_Text3 = "Tenia tot el que necessitava",
+    Stash_LVMap7_Text4 = "Em pensava",
+
+    Stash_LVMap8_Text1 = "Estem ací en la 3a porta avall",
+    Stash_LVMap8_Text2 = "afanya't amb les píndoles Diego",
+    Stash_LVMap8_Text3 = "ESTÀ PLE ACÍ NO VAGES",
+
+    Stash_LVMap9_Text1 = "armes i menjar en un estable lluny - ves amb compte!",
+    Stash_LVMap9_Text2 = "no et perdes als arbres",
+    Stash_LVMap9_Text3 = "eixes coses també han arribat ací",
+
+    Stash_LVMap10_Text1 = "un vell amb la casa plena de menjar",
+    Stash_LVMap10_Text2 = "i sense armes",
+    Stash_LVMap10_Text3 = "no portes la puta horda",
+    Stash_LVMap10_Text4 = "sencera amb tu este viatge!",
+
+    Stash_LVMap11_Text1 = "botiga per saquejar",
+    Stash_LVMap11_Text2 = "ara, plena de zombis",
+    Stash_LVMap11_Text3 = "mobles d'emmagatzematge",
+    Stash_LVMap11_Text4 = "LV General",
+
+    Stash_LVMap12_Text1 = "la xica de la pizza",
+    Stash_LVMap12_Text2 = "el tio bo que cuina esmorzars",
+    Stash_LVMap12_Text3 = "la nostra tenda",
+    Stash_LVMap12_Text4 = "sinsilla serà súper",
+    Stash_LVMap12_Text5 = "genial wooooooo!!!",
+
+    Stash_LVMap13_Text1 = "cases bones i segures",
+    Stash_LVMap13_Text2 = "però vigila mentres neteges la part de darrere",
+    Stash_LVMap13_Text3 = "un cotxe que va ací",
+
+    Stash_LVMap14_Text1 = "barrica amb les fustes que t'he portat",
+    Stash_LVMap14_Text2 = "si no, entraran",
+    Stash_LVMap14_Text3 = "no te n'oblides!",
+    Stash_LVMap14_Text4 = "que no entre ningú mentres estic fora!",
+    Stash_LVMap14_Text5 = "tornaré en mitja hora (són les 2.30)",
+    Stash_LVMap14_Text6 = "si tarde, parla amb els Boluda per la ràdio",
+    Stash_LVMap14_Text7 = "xxxxx",
+
+    Stash_LVMap15_Text1 = "Qui siga que trobe açò, era Natàlia Llopis",
+    Stash_LVMap15_Text2 = "professora d'Història de l'art a LSU",
+    Stash_LVMap15_Text3 = "Ja estic morta però vullc demanar una cosa",
+    Stash_LVMap15_Text4 = "Açò serà la final del món només si permetem que ho siga.",
+    Stash_LVMap15_Text5 = "Hem de protegir els tresors de la galeria d'art o els",
+    Stash_LVMap15_Text6 = "perdrem per a sempre. Uns amics aconseguiren acumular un bon grapat d'armes en",
+    Stash_LVMap15_Text7 = "un cotxe a prop de la galeria. Usa-les per a netejar-la.",
+    Stash_LVMap15_Text8 = "No deixes que ningú puga dir que la humanitat s'ha perdut per a sempre.",
+    Stash_LVMap15_Text9 = "cotxe",
+
+    Stash_LVMap16_Text1 = "tot este carrer és perillós",
+    Stash_LVMap16_Text2 = "Agafaren al vostre fill ací",
+    Stash_LVMap16_Text3 = "veniu amb nosaltres, ara és segur",
+    Stash_LVMap16_Text4 = "mourem al sud",
+    Stash_LVMap16_Text5 = "per favor veniu amb nosaltres",
+
     Stash_MulMap1_Text1 = "Ací. Pis alçable.",
     Stash_MulMap1_Text2 = "destral?",
     Stash_MulMap1_Text3 = "una multitud",
@@ -34,6 +116,26 @@ Stash_CA = {
     Stash_MulMap13_Text1 = "ja estava a mitjan camí però ho vaig haver de deixar ací - massa pesat",
     Stash_MulMap13_Text2 = "ple de materials encara en la ferreteria",
     Stash_MulMap13_Text3 = "escopetes",
+    
+Stash_MulMap14_Text1 = "la casa més segura - fica-li barricades!",
+Stash_MulMap14_Text2 = "tot rodant per ací",
+Stash_MulMap14_Text3 = "no dispares - els sons els atrauen",
+
+Stash_MulMap15_Text1 = "un doctor jubilat viu/vivia ací",
+Stash_MulMap15_Text2 = "compte per ací",
+Stash_MulMap15_Text21 = "és a on mossegaren a J",
+
+Stash_MulMap16_Text1 = "la seguretat del banc té armes",
+Stash_MulMap16_Text2 = "Trobe a faltar la tele i la cervesa gelada, que li fotguen a este món",
+
+Stash_MulMap17_Text1 = "zippee's ple de coses",
+Stash_MulMap17_Text2 = "comprova el forn del costat també",
+Stash_MulMap17_Text3 = "tingues compte mamà, el pare encara camina per ací",
+
+Stash_MulMap18_Text1 = "El tràiler de Paco el sonat",
+Stash_MulMap18_Text11 = "vaig sentir que s'havia convertit",
+Stash_MulMap18_Text12 = "espere que encara hi tinga les armes",
+
     Stash_WpMap1_Text1 = "Segur que ací hi vivia ell",
     Stash_WpMap1_Text2 = "massa per a gestionar, no hi pegues cap tir per l'amor de Déu";
     Stash_WpMap2_Text1 = "crec que ella vivia ací",
@@ -66,6 +168,26 @@ Stash_CA = {
     Stash_WpMap12_Text11 = "Els vaig tancar amb barricades abans que es convertiren",
     Stash_WpMap12_Text2 = "armeria",
     Stash_WpMap12_Text3 = "Ple com en Black Friday",
+    
+    Stash_WpMap13_Text1 = "morts per escopeta: 12",
+    Stash_WpMap13_Text2 = "morts per destral: 20",
+    Stash_WpMap13_Text3 = "morts per cotxe: 11",
+
+    Stash_WpMap14_Text1 = "Reunix-te amb mi ací Tònia! Tinc prou menjar."
+    Stash_WpMap14_Text11 = "Ara hem d'esperar a Marc amb el seu bot",
+
+    Stash_WpMap15_Text1 = "Mai mos trobaran ací, confia en mi",
+    Stash_WpMap15_Text11 = "són més idiotes que la merda de gos",
+    Stash_WpMap15_Text2 = "Bona caça ací",
+
+    Stash_WpMap16_Text1 = "Atacs probables",
+    Stash_WpMap16_Text2 = "L'eixida més segura"
+    Stash_WpMap16_Text21 = "tanca, després cap al sud travessant la carretera pel bosc"
+    Stash_WpMap16_Text3 = "probabilitat de sobreviure:"
+    Stash_WpMap16_Text31 = "un mes: 58%"
+    Stash_WpMap16_Text32 = "a l'hivern: 22%"
+    Stash_WpMap16_Text4 = "Necessite més menjar i un cotxe que funcione"
+
     Stash_MarchRidgeMap1_Text1 = "Arma ací",
     Stash_MarchRidgeMap1_Text2 = "destral i ferramentes?",
     Stash_MarchRidgeMap1_Text3 = "no anar",
@@ -88,6 +210,57 @@ Stash_CA = {
     Stash_MarchRidgeMap7_Text1 = "Ací pense que s'amagà.",
     Stash_MarchRidgeMap7_Text2 = "Segurament hauràs de cercar ferramentes",
     Stash_MarchRidgeMap7_Text3 = "L'hi vaig veure. Sense mossos, però tenia la grip.",
+
+    Stash_MarchRidgeMap8_Text1 = "Vaig deixar les meues ferramentes velles ací"
+    Stash_MarchRidgeMap8_Text2 = "Ja no les necessitaré"
+
+    Stash_MarchRidgeMap9_Text1 = "es convida als supervivents a unir-se a nosaltres"
+    Stash_MarchRidgeMap9_Text2 = "sempre necessitem més menjar, armes i coses"
+    Stash_MarchRidgeMap9_Text3 = "mata alguns zombis de camí i te recompensarem!"
+
+    Stash_MarchRidgeMap10_Text1 = "Rese per les bones ànimes",
+    Stash_MarchRidgeMap10_Text2 = "Perquè t'allunyen de l'infern un temps més",
+
+    Stash_RiversideStashMap1_Text1 = "ara este ací",
+    Stash_RiversideStashMap1_Text11 = "espere veure't prompte",
+    Stash_RiversideStashMap1_Text2 = "compte pel camí!",
+
+    Stash_RiversideStashMap2_Text1 = "Habitació 208. T'espere",
+    Stash_RiversideStashMap2_Text11 = "Recordes quan passàrem tot el dia mirant el riu?",
+    Stash_RiversideStashMap2_Text12 = "No em deixes a soles ací xxx",
+
+    Stash_RiversideStashMap3_Text1 = "videoclub",
+    Stash_RiversideStashMap3_Text2 = "licor",
+
+    Stash_RiversideStashMap4_Text1 = "Vicent està malalt, l'he deixat ací",
+    Stash_RiversideStashMap4_Text11 = "buscaré a Natàlia, ella sabrà què fer",
+    Stash_RiversideStashMap4_Text2 = "els vaig veure esquarterar dos persones, horrible",
+
+    Stash_RiversideStashMap5_Text1 = "QUI TROBE AÇÒ QUE NO VINGA ACÍ",
+    Stash_RiversideStashMap5_Text2 = "EIXOS FILLS DE PUTA MATAREN A FRAN I EM MOSSEGAREN A MI",
+
+    Stash_RiversideStashMap6_Text1 = "Manel ha de tindre algunes armes amagades ací",
+    Stash_RiversideStashMap6_Text11 = "Eixe cabró conqueriria la ciutat si no estiguera malalt",
+    Stash_RiversideStashMap6_Text12 = "Espere que la psicòpata de la Viqui no els trobara",
+
+    Stash_RiversideStashMap7_Text1 = "Els vaig veure de camí - tots convertits",
+    Stash_RiversideStashMap7_Text2 = "Vaig al Gigamart ara",
+    Stash_RiversideStashMap7_Text21 = "No baralles amb Sandra mentres estic fora",
+
+    Stash_RiversideStashMap8_Text1 = "t'he deixat un poc de menjar ací", 
+    Stash_RiversideStashMap8_Text11 = "Menja abans d'anar-te'n",
+    Stash_RiversideStashMap8_Text2 = "infectats deambulant",
+    Stash_RiversideStashMap8_Text3 = "on vaig vore eixe grup de gent (probablement estiguen ja morts)",
+
+    Stash_RiversideStashMap9_Text1 = "Tomàs mos espera ací",
+    Stash_RiversideStashMap9_Text2 = "gasolina",
+    Stash_RiversideStashMap9_Text3 = "D està mossegada però no és seriós - necessite antibiòtics per si de cas",
+
+    Stash_RiversideStashMap10_Text1 = "banc",
+    Stash_RiversideStashMap10_Text2 = "No oblides una arma de reserva", 
+    Stash_RiversideStashMap10_Text21 = "El ferro de la teua destral pareix un poc solt",
+    Stash_RiversideStashMap10_Text3 = "Eixiré de la ciutat cap a l'est en no res, saps a on trobar-me",
+
     Stash_RosewoodStashMap2_Text1 = "Armes acumulades",
     Stash_RosewoodStashMap2_Text2 = "ací després",
     Stash_RosewoodStashMap2_Text3 = "acaba just ací",
@@ -95,4 +268,83 @@ Stash_CA = {
     Stash_RosewoodStashMap3_Text11 = "L'antiga casa de la mare. Te veuré ací",
     Stash_RosewoodStashMap3_Text2 = "potser n'hi ha armes - per si de cas",
     Stash_RosewoodStashMap3_Text3 = "no vages per ací",
+    
+    Stash_RosewoodStashMap4_Text1 = "He deixat coses arreu ací",
+    Stash_RosewoodStashMap4_Text2 = "Quan vinguen (perquè VINDRAN!)",
+    Stash_RosewoodStashMap4_Text3 = "agafa tot el que pugues i pega a fugir al bosc",
+
+    Stash_RosewoodStashMap5_Text1 = "menjar ací",
+    Stash_RosewoodStashMap5_Text2 = "No entres de pressa!",
+    Stash_RosewoodStashMap5_Text3 = "Recorda el que li passà al Sr Pep",
+
+/*
+Stash_WorldMap1_Text1 = "arriba ací! Paula t'ajudarà",
+Stash_WorldMap1_Text2 = "hi havia infectats (potser ja han mogut)",
+Stash_WorldMap1_Text4 = "si conduïxes ves lent, no els atragues",
+
+Stash_WorldMap2_Text1 = "bon lloc per a una base, remot",
+Stash_WorldMap2_Text11 = "només arribes posa-hi barricades!",
+Stash_WorldMap2_Text12 = "hi amaguí armes per a tu",
+
+Stash_WorldMap3_Text1 = "gasolina ací",
+Stash_WorldMap3_Text11 = "la necessitaràs",
+
+Stash_WorldMap4_Text1 = "A on Tere va dir que vivia una dona",
+Stash_WorldMap4_Text11 = "Potser mos ajudarà?",
+
+Stash_WorldMap5_Text1 = "Pau deixà les coses ací",
+Stash_WorldMap5_Text11 = "Comprova els voltants abans d'entrar-hi",
+Stash_WorldMap5_Text12 = "i no t'oblides de cremar este mapa!!!",
+
+Stash_WorldMap6_Text1 = "bona equipació ací",
+Stash_WorldMap6_Text2 = "per a saquejar - massa gran per a protegir",
+Stash_WorldMap6_Text3 = "Andreu",
+
+Stash_WorldMap7_Text1 = "ompli ací",
+Stash_WorldMap7_Text2 = "Dixie plena d'infectats",
+Stash_WorldMap7_Text21 = "d'a on han vingut?",
+
+Stash_WorldMap8_Text1 = "les coses de Robert, seran útils",
+Stash_WorldMap8_Text2 = "ves amb compte per si et seguixen",
+Stash_WorldMap8_Text21 = "no només els zombis",
+
+Stash_WorldMap9_Text1 = "les vies del tren",
+Stash_WorldMap9_Text2 = "ple de caixons, segurament plens",
+Stash_WorldMap8_Text3 = "oficines, res",
+Stash_WorldMap8_Text4 = "magatzems?",
+
+Stash_WorldMap10_Text1 = "GASOLINERA",
+Stash_WorldMap10_Text2 = "BOTIGA DE ROBA",
+Stash_WorldMap10_Text3 = "SPIFFO'S",
+Stash_WorldMap10_Text4 = "COTXES",
+
+Stash_WorldMap11_Text1 = "Antena 3 en la torre 2 - perd senyal al voltant de 6 GHz - problema elèctric",
+Stash_WorldMap11_Text11 = "Fes que la central ho mire amb Lexington",
+
+Stash_WorldMap12_Text1 = "campament ENORME - tot el que necessitem (excepte les medicines de Carme)",
+Stash_WorldMap12_Text11 = "necessita neteja però té molt de menjar, llits, foc..."
+Stash_WorldMap12_Text2 = "ÚNIC PERILL: el centre comercial del nord, centenars d'infectats"
+
+Stash_WorldMap13_Text1 = "Hugo, anem ací, hauria de ser segur"
+Stash_WorldMap13_Text11 = "sé que és fotut, però NO PORTES A PAULA"
+Stash_WorldMap13_Text12 = "Salva't tu més que siga"
+
+Stash_WorldMap14_Text1 = "iaia"
+Stash_WorldMap14_Text2 = "a on agafaren al iaio"
+Stash_WorldMap14_Text3 = "Déu els tinga en la glòria"
+
+Stash_WorldMap17_Text1 = "punt cec de les patrulles"
+Stash_WorldMap17_Text2 = "V apagarà els sensors de moviments a les 23.15 en punt"
+Stash_WorldMap17_Text21 = "No et distragues! Seguix a V, fes les fotos, ves-te'n"
+
+Stash_WorldMap18_Text1 = "Bernat"
+Stash_WorldMap18_Text2 = "camí"
+
+Stash_WorldMap19_Text1 = "Cabut de collons! Almenys agafa les armes que he deixat en casa de la Senyora Empar",
+Stash_WorldMap19_Text11 = "Si mors, mai t'ho perdonaré!!!"
+
+Stash_WorldMap19_Text1 = "IMBÈCIL"
+Stash_WorldMap19_Text2 = "CABRÓ"
+Stash_WorldMap19_Text3 = "FILL DE PUTA"
+*/
 }

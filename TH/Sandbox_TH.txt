@@ -2,7 +2,7 @@ Sandbox_TH = {
     Sandbox_SavedPresets = "ชุดการตั้งค่าที่บันทึกไว้",
     Sandbox_SaveButton = "บันทึก",
     Sandbox_SavePrompt = "บันทึกการตั้งค่าแซนด์บ็อกซ์นี้",
-    Sandbox_DeletePresetPrompt = "ลบ "%1" หรือไม่
+    Sandbox_DeletePresetPrompt = "ลบ "%1" หรือไม่",
     Sandbox_PresetName_Error = "ไม่สามารถใช้อักขระเหล่านี้ได้: /  \  :  ;  .",
     --
     Sandbox_PopulationOptions = "ประชากรซอมบี้",
@@ -392,6 +392,7 @@ Sandbox_TH = {
     Sandbox_RallyGroupSeparation_help = "ระยะห่างของกลุ่มของแต่ละกลุ่มซอมบี้",
     Sandbox_RallyGroupRadius_help = "ระยะห่างของซอมบี้ที่เป็นลูกน้อง กับซอมบี้ที่เป็นหัวหน้าในกลุ่มนั้น",
     Sandbox_MinMaxDefault = "\nต่ำสุด=%1 สูงสุด=%2 ปกติ=%3",
+    Sandbox_Default = "ค่าเริ่มต้น=%1",
     Sandbox_ThumpNoChasing = "ซอมบี้โจมตีสิ่งรอบตัว",
     Sandbox_ThumpNoChasing_option1 = "ใช่",
     Sandbox_ThumpNoChasing_option2 = "ไม่",

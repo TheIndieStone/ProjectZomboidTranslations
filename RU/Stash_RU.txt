@@ -1,5 +1,87 @@
 Stash_RU = {
 	Stash_AnnotedMap = "Карта с заметками",
+	
+    Stash_LVMap1_Text1 = "чудик с пушкой помер",
+    Stash_LVMap1_Text2 = "дом чудика с пушкой",
+
+    Stash_LVMap2_Text1 = "подарок от мамы",
+    Stash_LVMap2_Text2 = "если сможешь, загляни",
+    Stash_LVMap2_Text3 = "на могилу бабушки",
+    Stash_LVMap2_Text4 = "и помолись за нас всех",
+
+    Stash_LVMap3_Text1 = "школа",
+    Stash_LVMap3_Text2 = "фургон стрёмного уборщика должен быть тут",
+    Stash_LVMap3_Text3 = "когда будешь выезжать, осторожнее с забором!",
+
+    Stash_LVMap4_Text1 = "забей, только время тут потратил",
+    Stash_LVMap4_Text2 = "нужна кувалда",
+    Stash_LVMap4_Text4 = "заправка",
+
+    Stash_LVMap5_Text1 = "Карлины увезли Дебби сюда",
+    Stash_LVMap5_Text2 = "Обратись к ним, если нужна помощь!",
+    Stash_LVMap5_Text3 = "мы их видели",
+    Stash_LVMap5_Text4 = "по всему спортзалу",
+    Stash_LVMap5_Text5 = "ночью сиди дома, не выходи!",
+
+    Stash_LVMap6_Text1 = "НЕТ МЕСТА ЛУЧШЕ, ЧЕМ ДОМ!",
+
+    Stash_LVMap7_Text1 = "Спасибо, что убил.",
+    Stash_LVMap7_Text2 = "Это был мой дом.",
+    Stash_LVMap7_Text3 = "У меня было всё",
+    Stash_LVMap7_Text4 = "Так мне казалось",
+
+    Stash_LVMap8_Text1 = "мы здесь, третья дверь снизу",
+    Stash_LVMap8_Text2 = "Диего, поторопись с таблетками",
+    Stash_LVMap8_Text3 = "ОНИ ВСЕ ЗДЕСЬ, СЮДА НЕ ИДИ",
+
+    Stash_LVMap9_Text1 = "оружие и еда в дальнем хлеву - будь осторожен!",
+    Stash_LVMap9_Text2 = "не заблудись в деревьях",
+    Stash_LVMap9_Text3 = "они тоже тут",
+
+    Stash_LVMap10_Text1 = "старый уёбок с забитым едой домом",
+    Stash_LVMap10_Text2 = "ещё и без пушки",
+    Stash_LVMap10_Text3 = "в этот раз, не приводи",
+    Stash_LVMap10_Text4 = "ебучее стадо! усёк?",
+
+    Stash_LVMap11_Text1 = "полный магазин",
+    Stash_LVMap11_Text2 = "и полный зомби, к сожалению",
+    Stash_LVMap11_Text3 = "склады",
+    Stash_LVMap11_Text4 = "магазин",
+
+    Stash_LVMap12_Text1 = "девка с пиццей",
+    Stash_LVMap12_Text2 = "красавчик продаёт бургеры",
+    Stash_LVMap12_Text3 = "наша палатка",
+    Stash_LVMap12_Text4 = "концерт Sinsilla будет",
+    Stash_LVMap12_Text5 = "охуенным!!!",
+
+    Stash_LVMap13_Text1 = "надежные дома",
+    Stash_LVMap13_Text2 = "но будь осторожен, очищая задние дворы",
+    Stash_LVMap13_Text3 = "машина на ходу",
+
+    Stash_LVMap14_Text1 = "забаррикадируйся досками, которые я принёс",
+    Stash_LVMap14_Text2 = "иначе они ворвутся",
+    Stash_LVMap14_Text3 = "не забудь!",
+    Stash_LVMap14_Text4 = "никого не впускай, пока я не вернусь",
+    Stash_LVMap14_Text5 = "я буду через полчаса (сейчас 2:30)",
+    Stash_LVMap14_Text6 = "если задержусь - свяжись с Эдвардсом по рации",
+    Stash_LVMap14_Text7 = "целую",
+
+    Stash_LVMap15_Text1 = "Кто бы ни нашел это, меня звали Натали Сигмундссон.",
+    Stash_LVMap15_Text2 = "я была доцентом истории искусств в ЛГУ",
+    Stash_LVMap15_Text3 = "Я уже мертва, но у меня есть последняя просьба.",
+    Stash_LVMap15_Text4 = "Конец света наступит только тогда, когда мы позволим ему наступить.",
+    Stash_LVMap15_Text5 = "Мы должны сохранить сокровища в картинной галерее, иначе",
+    Stash_LVMap15_Text6 = "нам конец. Друзьям удалось собрать тайник с оружием в",
+    Stash_LVMap15_Text7 = "машине неподалеку от галереи. Используйте его, чтобы зачистить галерею.",
+    Stash_LVMap15_Text8 = "Не позволяйте говорить кому-либо, что человечеству конец.",
+    Stash_LVMap15_Text9 = "машина",
+
+    Stash_LVMap16_Text1 = "вся эта улица опасна",
+    Stash_LVMap16_Text2 = "Тут они убили твоего сына",
+    Stash_LVMap16_Text3 = "иди к нам, сейчас безопасно",
+    Stash_LVMap16_Text4 = "мы отправляемся на юг",
+    Stash_LVMap16_Text5 = "пожалуйста, пошли с нами",
+
 	Stash_MulMap1_Text1 = "Здесь. Под полом.",
 	Stash_MulMap1_Text2 = "топор?",
 	Stash_MulMap1_Text3 = "большая толпа",
@@ -34,6 +116,26 @@ Stash_RU = {
 	Stash_MulMap13_Text1 = "прошёл полпути, но должен был оставить это всё здесь - слишком тяжело",
 	Stash_MulMap13_Text2 = "в хозяйственном магазине всё ещё много снаряжения",
 	Stash_MulMap13_Text3 = "выстрелы",
+	
+	Stash_MulMap14_Text1 = "безопасный дом - забаррикадируй его!",
+	Stash_MulMap14_Text2 = "везде",
+	Stash_MulMap14_Text3 = "не стреляй - их привлекает звук",
+
+	Stash_MulMap15_Text1 = "старый доктор живет/жил здесь",
+	Stash_MulMap15_Text2 = "здесь осторожнее",
+	Stash_MulMap15_Text21 = "тут укусили Ди.",
+
+	Stash_MulMap16_Text1 = "у охранников в банке было оружие",
+	Stash_MulMap16_Text2 = "скучаю по телику и холодному пиву, в пизду этот мир",
+
+	Stash_MulMap17_Text1 = ""zippees", полный всякой всячиной",
+	Stash_MulMap17_Text2 = "проверь также рядом пекарню",
+	Stash_MulMap17_Text3 = "Мам, будь осторожнее, папа все еще бродит здесь.",
+
+	Stash_MulMap18_Text1 = "Трейлер Безумного Вилли",
+	Stash_MulMap18_Text11 = "слыхал, что он обратился",
+	Stash_MulMap18_Text12 = "надеюсь, у него остались пушки",
+	
 	Stash_WpMap1_Text1 = "Уверен, он здесь жил",
 	Stash_WpMap1_Text2 = "слишком много, чтобы справится. Ради бога, не стреляйте в окрестностях",
 	Stash_WpMap2_Text1 = "думаю, она здесь жила",
@@ -66,7 +168,27 @@ Stash_RU = {
 	Stash_WpMap12_Text11 = "я заколотил их до того, как они превратились",
 	Stash_WpMap12_Text2 = "оружейный магазин",
 	Stash_WpMap12_Text3 = "Толпа, как в чёрную пятницу",
-	Stash_MarchRidgeMap1_Text1 = "Ружьё здесь",
+	
+	Stash_WpMap13_Text1 = "убийства из дробовика: 12",
+    Stash_WpMap13_Text2 = "убийства топором: 20",
+    Stash_WpMap13_Text3 = "убийства машиной: 11",
+
+    Stash_WpMap14_Text1 = "Тоня, встретимся тут! Еды достаточно."
+    Stash_WpMap14_Text11 = "Осталось дождаться Колина с его лодкой.",
+
+    Stash_WpMap15_Text1 = "Они никогда не найдут нас здесь, поверь мне.",
+    Stash_WpMap15_Text11 = "они тупее валенка",
+    Stash_WpMap15_Text2 = "Тут можно хорошо поохотиться",
+
+    Stash_WpMap16_Text1 = "Вероятные нападения",
+    Stash_WpMap16_Text2 = "Безопасный выход"
+    Stash_WpMap16_Text21 = "забор, затем на юг через дорогу в лес"
+    Stash_WpMap16_Text3 = "шансы на выживание:"
+    Stash_WpMap16_Text31 = "месяц: 58%"
+    Stash_WpMap16_Text32 = "в зиму: 22%"
+    Stash_WpMap16_Text4 = "Нужно больше еды и рабочий автомобиль"
+	
+	Stash_MarchRidgeMap1_Text1 = "оружие здесь",
 	Stash_MarchRidgeMap1_Text2 = "топор и инструменты здесь?",
 	Stash_MarchRidgeMap1_Text3 = "не иди",
 	Stash_MarchRidgeMap2_Text1 = "оставил тебе пистолет",
@@ -78,16 +200,67 @@ Stash_RU = {
 	Stash_MarchRidgeMap4_Text1 = "Если сможешь добраться, пока ты не обратился, то здесь кое-что, что тебе поможет",
 	Stash_MarchRidgeMap4_Text11 = "Мы встретимся. Как-нибудь",
 	Stash_MarchRidgeMap4_Text2 = "Общественный центр. Здесь ты найдёшь моё тело. Я люблю тебя.",
-	Stash_MarchRidgeMap4_Text3 = "Прошу Бога, чтобы ты никогда здесь не оставался. Хотя здесь хорошие воспоминания.",
+	Stash_MarchRidgeMap4_Text3 = "Молю Бога о том, чтобы ты никогда здесь не оставался. Хотя здесь и хорошие воспоминания.",
 	Stash_MarchRidgeMap5_Text1 = "не используйте стволы - тут есть вещи, которые можно использовать как оружие",
 	Stash_MarchRidgeMap5_Text2 = "Клиника",
 	Stash_MarchRidgeMap5_Text3 = "не шуми здесь",
 	Stash_MarchRidgeMap6_Text1 = "вещи, которые мы можем использовать, чтобы обезопасить здание",
 	Stash_MarchRidgeMap6_Text2 = "дополнительное оборудование",
-	Stash_MarchRidgeMap6_Text3 = "ад пришёл сюда",
+	Stash_MarchRidgeMap6_Text3 = "тут ад",
 	Stash_MarchRidgeMap7_Text1 = "Я думаю, он здесь скрывался.",
 	Stash_MarchRidgeMap7_Text2 = "Вероятно, тебе надо затариться инструментами",
 	Stash_MarchRidgeMap7_Text3 = "Видел его здесь. Нет укуса, но была лихорадка.",
+	
+	Stash_MarchRidgeMap8_Text1 = "Оставил здесь свои старые инструменты"
+    Stash_MarchRidgeMap8_Text2 = "Мне они больше не нужны"
+
+    Stash_MarchRidgeMap9_Text1 = "Приглашаем вышивших присоединиться к нам"
+    Stash_MarchRidgeMap9_Text2 = "нам всегда нужна еда, оружие и многое другое"
+    Stash_MarchRidgeMap9_Text3 = "убейте зомбяков по дороге, чтобы получить дополнительные бонусы!"
+
+    Stash_MarchRidgeMap10_Text1 = "Благословение для доброй души",
+    Stash_MarchRidgeMap10_Text2 = "Пусть это убережет вас от ада еще на некоторое время",
+
+    Stash_RiversideStashMap1_Text1 = "мы пока здесь",
+    Stash_RiversideStashMap1_Text11 = "надеюсь, скоро увидимся",
+    Stash_RiversideStashMap1_Text2 = "удачи!",
+
+    Stash_RiversideStashMap2_Text1 = "Комната 208. Жду тебя.",
+    Stash_RiversideStashMap2_Text11 = "Помнишь, как мы провели целый день, просто глядя на реку?",
+    Stash_RiversideStashMap2_Text12 = "Не оставляй меня здесь одну. Целую.",
+
+    Stash_RiversideStashMap3_Text1 = "видеопрокат",
+    Stash_RiversideStashMap3_Text2 = "бухло",
+
+    Stash_RiversideStashMap4_Text1 = "дэрил заболел, оставил его здесь",
+    Stash_RiversideStashMap4_Text11 = "иду искать натали, она знает, что делать",
+    Stash_RiversideStashMap4_Text2 = "видел, как они завалили двух человек здесь, ужасно",
+
+    Stash_RiversideStashMap5_Text1 = "КТО НАЙДЕТ ЭТО, НЕ ИДИТЕ СЮДА",
+    Stash_RiversideStashMap5_Text2 = "ЭТИ УЁБКИ УБИЛИ ФРЭНКА И УКУСИЛИ МЕНЯ",
+
+    Stash_RiversideStashMap6_Text1 = "У Эдди должно быть спрятано несколько стволов",
+    Stash_RiversideStashMap6_Text11 = "Уёбок целый город захватил, если бы не заболел.",
+    Stash_RiversideStashMap6_Text12 = "Надеюсь, эта психопатка Вики не добралась до них.",
+
+    Stash_RiversideStashMap7_Text1 = "Заглянул на обратном пути - они все обратились",
+    Stash_RiversideStashMap7_Text2 = "Иду в Гигамарт",
+    Stash_RiversideStashMap7_Text21 = "Не ругайся с Сандрой, пока меня нет.",
+
+    Stash_RiversideStashMap8_Text1 = "оставил тебе немного еды", 
+    Stash_RiversideStashMap8_Text11 = "Поешь, перед уходом",
+    Stash_RiversideStashMap8_Text2 = "здесь бродят зараженные",
+    Stash_RiversideStashMap8_Text3 = "тут я видел ту группу людей (возможно, уже мертвых).",
+
+    Stash_RiversideStashMap9_Text1 = "Здесь нас ждёт Тон",
+    Stash_RiversideStashMap9_Text2 = "бензин",
+    Stash_RiversideStashMap9_Text3 = "Ди укусили, но не серьезно - нужны антибиотики на всякий случай",
+
+    Stash_RiversideStashMap10_Text1 = "банк", 
+    Stash_RiversideStashMap10_Text2 = "Не забудь о запасном оружии", 
+    Stash_RiversideStashMap10_Text21 = "Головка топора гуляет, надо получше закрепить",
+	Stash_RiversideStashMap10_Text3 = "Скоро уезжаю из города на запад , ты знаешь, где меня найти.",
+	
 	Stash_RosewoodStashMap2_Text1 = "Спрятал немного оружия",
 	Stash_RosewoodStashMap2_Text2 = "здесь следующий",
 	Stash_RosewoodStashMap2_Text3 = "заканчивается прямо здесь",
@@ -95,4 +268,85 @@ Stash_RU = {
 	Stash_RosewoodStashMap3_Text11 = "Мама тут жила. Встретимся здесь, целую",
 	Stash_RosewoodStashMap3_Text2 = "здесь может быть оружие - просто на всякий случай",
 	Stash_RosewoodStashMap3_Text3 = "сюда не иди",
+	
+	Stash_RosewoodStashMap4_Text1 = "Оставил вещи для эвакуации здесь",
+    Stash_RosewoodStashMap4_Text2 = "Когда они придут (А ОНИ ПРИДУТ)",
+    Stash_RosewoodStashMap4_Text3 = "бери всё, что можешь унести, и беги в лес",
+
+    Stash_RosewoodStashMap5_Text1 = "тут еда",
+    Stash_RosewoodStashMap5_Text2 = "Не торопись!",
+    Stash_RosewoodStashMap5_Text3 = "Вспомни, что случилось с мистером Дунканом",
+	
+	
+/*
+Stash_WorldMap1_Text1 = "сюда! Кара поможет",
+Stash_WorldMap1_Text2 = "видел здесь зараженных (возможно, уже ушли)",
+Stash_WorldMap1_Text4 = "если вы на машине - едьте медленно, не привлекайте их.",
+
+Stash_WorldMap2_Text1 = "хорошее место для базы, удаленное от всего",
+Stash_WorldMap2_Text11 = "по прибытии первым делом забаррикадируйтесь!",
+Stash_WorldMap2_Text12 = "внутри я спрятал оружие",
+
+Stash_WorldMap3_Text1 = "тут бензин",
+Stash_WorldMap3_Text11 = "он тебе понадобится",
+
+Stash_WorldMap4_Text1 = "Тут, по словам Яны, жила та женщина.",
+Stash_WorldMap4_Text11 = "Возможно, она нам поможет?",
+
+Stash_WorldMap5_Text1 = "Поли оставил здесь вещи",
+Stash_WorldMap5_Text11 = "Оглядитесь, прежде чем войти",
+Stash_WorldMap5_Text12 = "и сожгите эту карту нахуй!!!",
+
+Stash_WorldMap6_Text1 = "хорошие вещи",
+Stash_WorldMap6_Text2 = "оставаться тут не вариант. взять вещи и уйти",
+Stash_WorldMap6_Text3 = "Энди",
+
+Stash_WorldMap7_Text1 = "заправить",
+Stash_WorldMap7_Text2 = "дикси полон заражённых",
+Stash_WorldMap7_Text21 = "откуда они взялись?",
+
+Stash_WorldMap8_Text1 = "вещи Кена, должны быть полезны",
+Stash_WorldMap8_Text2 = "будь осторожен с людьми, которые идут за тобой",
+Stash_WorldMap8_Text21 = "и я говорю не про зомби",
+
+Stash_WorldMap9_Text1 = "ж/д двор",
+Stash_WorldMap9_Text2 = "повсюду ящики, которые могут быть заполнены вещами",
+Stash_WorldMap8_Text3 = "офисы, фигня",
+Stash_WorldMap8_Text4 = "склады?",
+
+Stash_WorldMap10_Text1 = "ЗАПРАВКА",
+Stash_WorldMap10_Text2 = "МАГАЗИН ОДЕЖДЫ",
+Stash_WorldMap10_Text3 = "SPIFFO'S",
+Stash_WorldMap10_Text4 = "МАШИНЫ",
+
+Stash_WorldMap11_Text1 = "Тарелка 3 на башне 2 - теряет сигнал около 6 ГГц - проблема с питанием",
+Stash_WorldMap11_Text11 = "Отвезу в штаб для тестирования с Лексингтоном",
+
+Stash_WorldMap12_Text1 = "БОЛЬШОЙ кемпинг - все необходимое (кроме таблеток для Джейн)",
+Stash_WorldMap12_Text11 = "сначала нужно расчистить, но есть тучи еды, кровати, камин"
+Stash_WorldMap12_Text2 = "ОПАСТНОСТЬ: торговый центр на севере, там сотни зараженных"
+
+Stash_WorldMap13_Text1 = "Хэл, мы идём сюда, тут должно быть безопасно"
+Stash_WorldMap13_Text11 = "Я знаю, что это трудно, но НЕ ПРИВОДИ С СОБОЙ ПАУЛУ"
+Stash_WorldMap13_Text12 = "Ты должен спасти хотя бы себя"
+
+Stash_WorldMap14_Text1 = "бабуля"
+Stash_WorldMap14_Text2 = "тут они убили бабушку"
+Stash_WorldMap14_Text3 = "Господи, спаси их"
+
+Stash_WorldMap17_Text1 = "слепая зона у патруля"
+Stash_WorldMap17_Text2 = "Ви отключит датчики движения ровно в 23.15"
+Stash_WorldMap17_Text21 = "Не отвлекайтесь. Следуйте за Ви, сфотографируйте, и валите"
+
+Stash_WorldMap18_Text1 = "Бен"
+Stash_WorldMap18_Text2 = "тропинка"
+
+Stash_WorldMap19_Text1 = "Упрямый мудень! Возьми хотя бы оружие, которое я оставила в доме миссис Кадди."
+Stash_WorldMap19_Text11 = "Если ты умрешь, я никогда тебя не прощу!!!"
+
+Stash_WorldMap19_Text1 = "ПИДОР"
+Stash_WorldMap19_Text2 = "УЁБОК"
+Stash_WorldMap19_Text3 = "МУДАК"
+
+*/
 }

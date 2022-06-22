@@ -47,7 +47,7 @@ SurvivalGuide_JP = {
 	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:medium> #7 - 美味しいものを食べる <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:small> 食中毒は楽しいものではありません、 特に黙示録の真っただ中では。 <LINE> <LINE> 温かい食事はとても大切なものです。",
 	SurvivalGuide_entrie7moreinfo = " <H1> 料理 <BR> <TEXT> 肉や魚など、多くの食品は食べる前には調理が必要です。 食中毒のリスクを減らすだけでなく、調理済みの食事は満足度が高く、 また栄養価が高いので空腹を長く防ぐことができます。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 調理は、オーブンや電子レンジに入れるだけです。 街を離れているのであれば、キャンプファイヤーでも可能です。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 右クリックメニューで調理機のスイッチを入れて、焼きあがったら調理器の ルート画面から、火が通った料理を取り出しましょう。 ただし、家中を焼いてしまわないように、調理が終わったら 家電の電源を切りましょう。 アンティークストーブや暖炉、キャンプファイヤーには燃料が必要なので、 燃やすための焚き木や本を貯蓄しておくのを忘れないようにしましょう。 <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
                                     " <H1> 耕作 <BR> <TEXT> 自分で食べるものを育てるには、こてと種を用意するだけで良いのです。 土を耕して種を蒔けば、あなた自身の手で食料と水を作り出せることができるのです。 <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-                                    " <H1> 採取 <BR> <TEXT> 画面左上の虫眼鏡アイコンから「探索モードを有効にする」をクリックすると、 ベリー、石、木の棒など、さらに便利なアイテムが見つかります。 <BR> 自分の頭の上に「目」のアイコンが表示されたらその方向を見ることで、 自分を中心とする、一定範囲のアイテムを見つけることができます。 探索範囲は、スキルレベルや現在いる場所、明るさなどによって変化します。 採集の詳細については、本ガイドの11ページを参照するか、 探索画面左上にある情報アイコンをクリックしてください。 <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
+                                    " <H1> 採集 <BR> <TEXT> 画面左上の虫眼鏡アイコンから「探索モードを有効にする」をクリックすると、 ベリー、石、木の棒など、さらに便利なアイテムが見つかります。 <BR> 自分の頭の上に「目」のアイコンが表示されたらその方向を見ることで、 自分を中心とする、一定範囲のアイテムを見つけることができます。 探索範囲は、スキルレベルや現在いる場所、明るさなどによって変化します。 採集の詳細については、本ガイドの11ページを参照するか、 探索画面左上にある情報アイコンをクリックしてください。 <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
 	SurvivalGuide_entrie8title = "#8 - 抜け目なく入手する",
 	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:medium> #8 - 抜け目なく入手する <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:small> インベントリを迅速かつ 効率的に管理することで、 時間の節約 - そして命を救うこともあります!",
@@ -81,9 +81,9 @@ SurvivalGuide_JP = {
                                       " <H2> 風冷え <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 特に冬場の屋外にいると、風の冷たさを感じるようになります。 真冬の大雨や吹雪は、強い風と低い気温が重なり、体温を著しく低下させます。 <LINE> <BR> " ..
                                       " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 風は体に影響を与えますが、デジタル時計では直接的な温度差は表示されません。 いつ影響が出るか、ムードから目を離さないようにしましょう。 <LINE> <BR> "<H1> 被服保護 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 適切な衣服を身につけることで、 咬みつきや引っかき傷、裂傷から身を守ることができるかもしれません。 <SPACE><KEY:Toggle&nbsp;Clothing&nbsp;Protection&nbsp;Panel><SPACE>を押すと、被服保護パネルが表示され、 生存者の現在の保護レベルの概要を見ることができます。 <BR> 適切な素材と裁縫レベルで服の穴を修理したり、 パッドを追加して保護力を高めたりすることができます。 インベントリの被服を右クリックして「点検する」をクリックし、 改良や修繕を行いたい箇所を右クリックします。 インベントリに適切な布と一緒に針と糸があるか確認してください。 <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
-    SurvivalGuide_entrie11title = "#11 - 採取",
-    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:medium> #11 - 採取 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:small> どこで、(またはいつ、どのように)見るかを知っていれば、 世界は有用なもので溢れています! <LINE> <LINE> ベリー、キノコ、石ころ... 何が見つかるかは 誰にも分かりませんよね?",
-    SurvivalGuide_entrie11moreinfo = " <H1> 採取 / 探索システム <BR> " ..
+    SurvivalGuide_entrie11title = "#11 - 採集",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:medium> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:small> どこで、(またはいつ、どのように)見るかを知っていれば、 世界は有用なもので溢れています! <LINE> <LINE> ベリー、キノコ、石ころ... 何が見つかるかは 誰にも分かりませんよね?",
+    SurvivalGuide_entrie11moreinfo = " <H1> 採集 / 探索システム <BR> " ..
                                      " <TEXT> <SIZE:small>" ..
                                      " エリア探索画面には、現在地のゾーンが表示されます。 これは、発見できる戦利品に影響します。" ..
                                      " 画面にマウスを乗せると、現在のゾーンで入手できる 戦利品のカテゴリーを確認できます。" ..
@@ -147,7 +147,7 @@ SurvivalGuide_JP = {
 	SurvivalGuide_Joypad_entrie7txt = " <CENTRE> "<SIZE:medium> #7 - 美味しいものを食べる <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:small> 食中毒は楽しいものではありません、 特に黙示録の真っただ中では。 <LINE> <LINE> 温かい食事はとても大切なものです。",
 	SurvivalGuide_Joypad_entrie7moreinfo = " <H1> 料理 <BR> <TEXT> 肉や魚など、多くの食品は食べる前には調理が必要です。 食中毒のリスクを減らすだけでなく、調理済みの食事は満足度が高く、 また栄養価が高いので空腹を長く防ぐことができます。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 調理は、オーブンや電子レンジに入れるだけです。 街を離れているのであれば、キャンプファイヤーでも可能です。 <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> <JOYPAD:AButton,28,28> ボタンで調理機のスイッチを入れて、焼きあがったら調理器の ルート画面から、火が通った料理を取り出しましょう。 ただし、家中を焼いてしまわないように、調理が終わったら 家電の電源を切りましょう。 アンティークストーブや暖炉、キャンプファイヤーには燃料が必要なので、 燃やすための焚き木や本を貯蓄しておくのを忘れないようにしましょう。 <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
                                     " <H1> 耕作 <BR> <TEXT> 自分で食べるものを育てるには、こてと種を用意するだけで良いのです。 土を耕して種を蒔けば、あなた自身の手で食料と水を作り出せることができるのです。 <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-                                    " <H1> 採取 <BR> <TEXT> <JOYPAD:Back,28,28>ボタンのメニューから、目のアイコンを使って探索モードを有効にする、 ベリー、石、木の棒など、さらに便利なアイテムが見つかります。 <BR> 自分の頭の上に「目」のアイコンが表示されたらその方向を見ることで、 自分を中心とする、一定範囲のアイテムを見つけることができます。 探索範囲は、スキルレベルや現在いる場所、明るさなどによって変化します。 採集の詳細については、本ガイドの11ページを参照するか、 探索画面左上にある情報アイコンをクリックしてください。 <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
+                                    " <H1> 採集 <BR> <TEXT> <JOYPAD:Back,28,28>ボタンのメニューから、目のアイコンを使って探索モードを有効にする、 ベリー、石、木の棒など、さらに便利なアイテムが見つかります。 <BR> 自分の頭の上に「目」のアイコンが表示されたらその方向を見ることで、 自分を中心とする、一定範囲のアイテムを見つけることができます。 探索範囲は、スキルレベルや現在いる場所、明るさなどによって変化します。 採集の詳細については、本ガイドの11ページを参照するか、 探索画面左上にある情報アイコンをクリックしてください。 <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
 	SurvivalGuide_Joypad_entrie8title = "#8 - 抜け目なく入手する",
 	SurvivalGuide_Joypad_entrie8txt = " <CENTRE> "<SIZE:medium> #8 - 抜け目なく入手する <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:small> インベントリを迅速かつ 効率的に管理することで、 時間の節約 - そして命を救うこともあります!",
@@ -175,9 +175,9 @@ SurvivalGuide_JP = {
                                       " <H2> 風冷え <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 特に冬場の屋外にいると、風の冷たさを感じるようになります。 真冬の大雨や吹雪は、強い風と低い気温が重なり、体温を著しく低下させます。 <LINE> <BR> " ..
                                       " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 風は体に影響を与えますが、デジタル時計では直接的な温度差は表示されません。 いつ影響が出るか、ムードから目を離さないようにしましょう。 <LINE> <BR> "<H1> 被服保護 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 適切な衣服を身につけることで、 咬みつきや引っかき傷、裂傷から身を守ることができるかもしれません。 <JOYPAD:Back,28,28> ボタンメニューでプレイヤーの情報画面を開き、 <JOYPAD:RBumper,28,28>を押して被服保護パネルに移動し、 生存者の現在の保護レベルの概要を見ることができます。 <BR> 適切な素材と裁縫レベルで服の穴を修理したり、 パッドを追加して保護力を高めたりすることができます。 インベントリの被服を選択し<JOYPAD:AButton,28,28> メニューから「点検」を選択すると 点検ができます。 インベントリに適切な布と一緒に針と糸があるか確認してください。 <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
-    SurvivalGuide_Joypad_entrie11title = "#11 - 採取",
-    SurvivalGuide_Joypad_entrie11txt = " <CENTRE> "<SIZE:medium> #11 - 採取 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:small> どこで、(またはいつ、どのように)見るかを知っていれば、 世界は有用なもので溢れています! <LINE> <LINE> ベリー、キノコ、石ころ... 何が見つかるかは 誰にも分かりませんよね?",
-    SurvivalGuide_Joypad_entrie11moreinfo = " <H1> 採取 / 探索システム <BR> " ..
+    SurvivalGuide_Joypad_entrie11title = "#11 - 採集",
+    SurvivalGuide_Joypad_entrie11txt = " <CENTRE> "<SIZE:medium> #11 - 採集 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:small> どこで、(またはいつ、どのように)見るかを知っていれば、 世界は有用なもので溢れています! <LINE> <LINE> ベリー、キノコ、石ころ... 何が見つかるかは 誰にも分かりませんよね?",
+    SurvivalGuide_Joypad_entrie11moreinfo = " <H1> 採集 / 探索システム <BR> " ..
                                      " <TEXT> <SIZE:small>" ..
                                      " エリア探索画面には、現在地のゾーンが表示されます。 これは、発見できる戦利品に影響します。" ..
                                      " 画面にマウスを乗せると、現在のゾーンで入手できる 戦利品のカテゴリーを確認できます。" ..

@@ -379,4 +379,13 @@ Recipes_PL = {
     Recipe_Wash_Clothing = "Wyczyść ubranie",
     Rip Sheets = "Podrzyj prześcieradła",
     Saw Logs2 = "Piłuj bal na deski",
+	Recipe_Burrito = "Buritto",
+	Recipe_HotDrinkTea = "Herbata",
+	Recipe_Muffin = "Muffinka",
+	Recipe_Omelette = "Omlet",
+	Recipe_Pancakes = "Naleśniki",
+	Recipe_Sandwich_Baguette = "Bagietka",
+	Recipe_Slice_Onion = "Pokrój cebulę",
+	Recipe_Taco = "Taco",
+	Recipe_Waffles = "Gofry",
 }

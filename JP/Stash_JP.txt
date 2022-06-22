@@ -1,5 +1,87 @@
 Stash_JP = {
 	Stash_AnnotedMap = "地図(メモが書かれている)",
+
+    Stash_LVMap1_Text1 = "クレイジー銃野郎、安らかに眠れ",
+    Stash_LVMap1_Text2 = "クレイジー銃野郎の家",
+
+    Stash_LVMap2_Text1 = "お母さんからのプレゼント x",
+    Stash_LVMap2_Text2 = "足を運ぶのを忘れない",
+    Stash_LVMap2_Text3 = "おばあちゃんのお墓参りも忘れずに",
+    Stash_LVMap2_Text4 = "みんなにお祈りをしよう",
+
+    Stash_LVMap3_Text1 = "学校",
+    Stash_LVMap3_Text2 = "キモイ用務員のトラックはここにあるはず",
+    Stash_LVMap3_Text3 = "フェンスの外を運転すること!",
+
+    Stash_LVMap4_Text1 = "気にするな、ここを見るのは時間の無駄だった",
+    Stash_LVMap4_Text2 = "スレッジハンマーが必要",
+    Stash_LVMap4_Text4 = "ガソリンスタンド",
+
+    Stash_LVMap5_Text1 = "デビ―、カーリン夫妻はここに移ってきた",
+    Stash_LVMap5_Text2 = "困ったことがあったら、彼らのところへ行こう!",
+    Stash_LVMap5_Text3 = "あれを見た",
+    Stash_LVMap5_Text4 = "ここのジムの辺り一帯",
+    Stash_LVMap5_Text5 = "夜は出歩かないで!",
+
+    Stash_LVMap6_Text1 = ""家なんてものじゃない!"",
+
+    Stash_LVMap7_Text1 = "辛くさせてくれてありがとうね",
+    Stash_LVMap7_Text2 = "私の家だった",
+    Stash_LVMap7_Text3 = "必要なものは何でもあった",
+    Stash_LVMap7_Text4 = "今まではね",
+
+    Stash_LVMap8_Text1 = "3つ目のドアにいる",
+    Stash_LVMap8_Text2 = "ディエゴ、薬を早く持ってきて",
+    Stash_LVMap8_Text3 = ""みんなここにいるから行くな"",
+
+    Stash_LVMap9_Text1 = "銃や食料は遠くの馬小屋にある - 気を付けて!",
+    Stash_LVMap9_Text2 = "森で迷子にならないように",
+    Stash_LVMap9_Text3 = "あそこにもある",
+
+    Stash_LVMap10_Text1 = "家中が食べ物だらけのクソジジイ",
+    Stash_LVMap10_Text2 = "そして銃は無い",
+    Stash_LVMap10_Text3 = "ただ、全部を持ち出すのはやめてくれ",
+    Stash_LVMap10_Text4 = "今度は大群と一緒だ!",
+
+    Stash_LVMap11_Text1 = "手付かずの店",
+    Stash_LVMap11_Text2 = "ゾンビだらけ",
+    Stash_LVMap11_Text3 = "倉庫ユニット",
+    Stash_LVMap11_Text4 = "ルイビル全体",
+
+    Stash_LVMap12_Text1 = "ピザ屋",
+    Stash_LVMap12_Text2 = "イカしたハンバーガーショップ",
+    Stash_LVMap12_Text3 = "俺らのテント",
+    Stash_LVMap12_Text4 = "sinsillaはほんと最高",
+    Stash_LVMap12_Text5 = "すげえ よっしゃああああ!!!",
+
+    Stash_LVMap13_Text1 = "安全で良さげな家",
+    Stash_LVMap13_Text2 = "でも裏庭のクリアリングには注意",
+    Stash_LVMap13_Text3 = "動く車はここ",
+
+    Stash_LVMap14_Text1 = "俺が持ってきた板でバリケードしろ",
+    Stash_LVMap14_Text2 = "でないと、あれが侵入してくる",
+    Stash_LVMap14_Text3 = "忘れるなよ!",
+    Stash_LVMap14_Text4 = "俺が留守の間は誰も入れるな!",
+    Stash_LVMap14_Text5 = "30分後 (今は2時30)",
+    Stash_LVMap14_Text6 = "これからは、ラジオでエドワーズに連絡してくれ",
+    Stash_LVMap14_Text7 = "xxxxx",
+
+    Stash_LVMap15_Text1 = "これを見つけた人、私はナタリー・シグムンドソンです",
+    Stash_LVMap15_Text2 = "LSUの美術史の講師です",
+    Stash_LVMap15_Text3 = "私はもう死んでいますが、遺言があります",
+    Stash_LVMap15_Text4 = "これは、私たちが思い込んでいる世界の終わりに過ぎないのです",
+    Stash_LVMap15_Text5 = "美術館にある、かけがえのないものを確保しなければ、私たちは",
+    Stash_LVMap15_Text6 = "本当の意味で失うことになります。 友人たちは、美術館の近くにある車の中に",
+    Stash_LVMap15_Text7 = "何とかして武器を貯蔵しました。 それを使って掃討してください。",
+    Stash_LVMap15_Text8 = "人類が永遠に失われたとは言わせない。",
+    Stash_LVMap15_Text9 = "車",
+
+    Stash_LVMap16_Text1 = "この通りは危険だ",
+    Stash_LVMap16_Text2 = "君の息子ははここにいる",
+    Stash_LVMap16_Text3 = "俺たちのところへ来い、もう安全だ",
+    Stash_LVMap16_Text4 = "南へ行くつもりだ",
+    Stash_LVMap16_Text5 = "一緒に来てくれ",
+
 	Stash_MulMap1_Text1 = "ここ。床板。",
 	Stash_MulMap1_Text2 = "斧?",
 	Stash_MulMap1_Text3 = "大群",
@@ -34,9 +116,29 @@ Stash_JP = {
     Stash_MulMap13_Text1 = "物足りないがぜんぶここに置いて帰った - 重すぎるんだよ",
     Stash_MulMap13_Text2 = "ハードウェアショップは道具がまだたくさんある",
     Stash_MulMap13_Text3 = "銃声",															  
+
+Stash_MulMap14_Text1 = "一番安全な家 - バリケードだ!",
+Stash_MulMap14_Text2 = "この辺り一帯だ",
+Stash_MulMap14_Text3 = "撃つな - 音が奴らを引き付ける",
+
+Stash_MulMap15_Text1 = "老医師はここに住み/暮らしていた",
+Stash_MulMap15_Text2 = "ここは気をつけろ",
+Stash_MulMap15_Text21 = "Jが噛まれた場所。",
+
+Stash_MulMap16_Text1 = "銀行の警備員が銃を持っていた",
+Stash_MulMap16_Text2 = "こんな世の中じゃ、TVと冷えたビールが恋しい",
+
+Stash_MulMap17_Text1 = "zippeeは物が充実してる",
+Stash_MulMap17_Text2 = "隣のパン屋もチェック",
+Stash_MulMap17_Text3 = "母さんに気をつけろ、父さんはまだこのあたりをうろついている",
+
+Stash_MulMap18_Text1 = "狂ったウィリーのトレイラー",
+Stash_MulMap18_Text11 = "あいつが狂ったらしい",
+Stash_MulMap18_Text12 = "あいつの銃がまだあることを願う",
+
 	Stash_WpMap1_Text1 = "確かここがあいつの家だったかな",
 	Stash_WpMap1_Text2 = "さばき切れないほど多い、一生のお願いだからこの辺で撃つな",
-	Stash_WpMap2_Text1 = "ここに彼女が住んでいたかも",
+	Stash_WpMap2_Text1 = "ここに彼女が住んでいたかも",													   
 	Stash_WpMap2_Text2 = "医療センター",
 	Stash_WpMap2_Text3 = "彼女がここを歩いているのを見た、銃は持っていない",
 	Stash_WpMap4_Text1 = "勇気を出せ。愛してる。",
@@ -66,6 +168,26 @@ Stash_JP = {
     Stash_WpMap12_Text11 = "奴らが変わる前に板を張ったなあ。",
     Stash_WpMap12_Text2 = "銃器店",
     Stash_WpMap12_Text3 = "ブラックフライデーのような大群",	
+
+    Stash_WpMap13_Text1 = "ショットガンで殺した: 12",
+    Stash_WpMap13_Text2 = "斧で殺した: 20",
+    Stash_WpMap13_Text3 = "車で殺した: 11",
+
+    Stash_WpMap14_Text1 = "ここでトーニャと会った! 食料は十分。"
+    Stash_WpMap14_Text11 = "あとはコリンがボートを持ってくるのを待つのみ。",
+
+    Stash_WpMap15_Text1 = "ここなら見つからない、信じろ",
+    Stash_WpMap15_Text11 = "奴らはクソ犬より頭が悪い",
+    Stash_WpMap15_Text2 = "ここで良い狩りを",
+
+    Stash_WpMap16_Text1 = "想定される襲撃",
+    Stash_WpMap16_Text2 = "最も安全な出口"
+    Stash_WpMap16_Text21 = "フェンスから南へ、道路を渡って森へ"
+    Stash_WpMap16_Text3 = "生存確率:"
+    Stash_WpMap16_Text31 = "1ヶ月: 58%"
+    Stash_WpMap16_Text32 = "越冬: 22%"
+    Stash_WpMap16_Text4 = "より多くの食料と動く車が必要"
+
 	Stash_MarchRidgeMap1_Text1 = "ここに銃",
 	Stash_MarchRidgeMap1_Text2 = "斧と道具はここ?",
 	Stash_MarchRidgeMap1_Text3 = "ここに行くな",
@@ -88,6 +210,57 @@ Stash_JP = {
 	Stash_MarchRidgeMap7_Text1 = "あいつが隠れてた場所かもな。",
 	Stash_MarchRidgeMap7_Text2 = "たぶん道具が必要。",
 	Stash_MarchRidgeMap7_Text3 = "あいつをここで見た。咬まれてないが、熱があった",
+
+    Stash_MarchRidgeMap8_Text1 = "古い道具をここに置いてきた"
+    Stash_MarchRidgeMap8_Text2 = "もう必要ないものだ"
+
+    Stash_MarchRidgeMap9_Text1 = "生存者の合流は歓迎"
+    Stash_MarchRidgeMap9_Text2 = "食料と銃は常に必要としている"
+    Stash_MarchRidgeMap9_Text3 = "道中でZを殺すとさらなる名声が!"
+
+    Stash_MarchRidgeMap10_Text1 = "善良な魂に祝福を",
+    Stash_MarchRidgeMap10_Text2 = "しばらくは地獄から逃れられますように",
+
+    Stash_RiversideStashMap1_Text1 = "今私たちはここにいます",
+    Stash_RiversideStashMap1_Text11 = "すぐにお会いできることを楽しみにしています",
+    Stash_RiversideStashMap1_Text2 = "気を付けてくださいね!",
+
+    Stash_RiversideStashMap2_Text1 = "208号室。 待ってるね。",
+    Stash_RiversideStashMap2_Text11 = "一日中、川を眺めてたの覚えてる?",
+    Stash_RiversideStashMap2_Text12 = "一人にしないで xxx",
+
+    Stash_RiversideStashMap3_Text1 = "ビデオ店",
+    Stash_RiversideStashMap3_Text2 = "お酒",
+
+    Stash_RiversideStashMap4_Text1 = "ダリルは病気だ、ここに置いてきた",
+    Stash_RiversideStashMap4_Text11 = "ナタリーを探しに行く、彼女ならどうすればいいか分かるはず",
+    Stash_RiversideStashMap4_Text2 = "ここで弱りきった2人を見た、ひどいもんだ",
+
+    Stash_RiversideStashMap5_Text1 = ""これを見たやつはここには行くな"",
+    Stash_RiversideStashMap5_Text2 = ""あいつらはフランクを殺して俺を噛んだ"",
+
+    Stash_RiversideStashMap6_Text1 = "エディは銃をここに隠してるはず",
+    Stash_RiversideStashMap6_Text11 = "バカが病気じゃなければ街を支配してるはず",
+    Stash_RiversideStashMap6_Text12 = "サイコなビッキーに捕まらないといいが",
+
+    Stash_RiversideStashMap7_Text1 = "過去を振り返ると - 彼らは皆、変わってしまった",
+    Stash_RiversideStashMap7_Text2 = "これからGigamartへ向かう",
+    Stash_RiversideStashMap7_Text21 = "私がいない間は、サンドラと喧嘩しないでくれ",
+
+    Stash_RiversideStashMap8_Text1 = "食べ物のお裾分けだ", 
+    Stash_RiversideStashMap8_Text11 = "出発する前にに食べてくれ",
+    Stash_RiversideStashMap8_Text2 = "感染者がさまよっている",
+    Stash_RiversideStashMap8_Text3 = "あの人々の集まりがあった場所（もう死んでいるだろう）",
+
+    Stash_RiversideStashMap9_Text1 = "トンとここで待ち合わせ",
+    Stash_RiversideStashMap9_Text2 = "ガソリン",
+    Stash_RiversideStashMap9_Text3 = "Dが噛まれたが深刻ではない - 念のため抗生物質が必要",
+
+    Stash_RiversideStashMap10_Text1 = "銀行", 
+    Stash_RiversideStashMap10_Text2 = "予備の武器も忘れずに", 
+    Stash_RiversideStashMap10_Text21 = "君の斧の付け根がぐらついてたかも",
+    Stash_RiversideStashMap10_Text3 = "すぐに西の郊外に向かう、僕の居場所はわかってるよね",
+
 	Stash_RosewoodStashMap2_Text1 = "銃をいくつか隠した",
 	Stash_RosewoodStashMap2_Text2 = "次はここ",
 	Stash_RosewoodStashMap2_Text3 = "ここが最後",
@@ -95,4 +268,83 @@ Stash_JP = {
 	Stash_RosewoodStashMap3_Text11 = "お母さんの実家。きっと会えるよねx",
 	Stash_RosewoodStashMap3_Text2 = "ここに武器があるかも。 - もしものために",
 	Stash_RosewoodStashMap3_Text3 = "ここには行かない",
+
+    Stash_RosewoodStashMap4_Text1 = "ここに避難用具を置いた",
+    Stash_RosewoodStashMap4_Text2 = "奴らが来たら ("来るぞ"!)",
+    Stash_RosewoodStashMap4_Text3 = "持てるだけ持って森の中に消えよう",
+
+    Stash_RosewoodStashMap5_Text1 = "食料はここ",
+    Stash_RosewoodStashMap5_Text2 = "焦って入るな!",
+    Stash_RosewoodStashMap5_Text3 = "ダンカンさんがどうなったか忘れるな",
+
+/*
+Stash_WorldMap1_Text1 = "ここに来て! カーラが助けてくれる",
+Stash_WorldMap1_Text2 = "ここで感染者を見た (今頃は移動してるかも)",
+Stash_WorldMap1_Text4 = "運転はゆっくり、奴らを引きつけてはいけない",
+
+Stash_WorldMap2_Text1 = "拠点や遠隔地として最適な場所",
+Stash_WorldMap2_Text11 = "到着したらまずバリケード!",
+Stash_WorldMap2_Text12 = "お前の為に中に銃を隠してある",
+
+Stash_WorldMap3_Text1 = "ここにガソリン",
+Stash_WorldMap3_Text11 = "後々必要になる",
+
+Stash_WorldMap4_Text1 = "ヤナが言ってたあの女の人はどこに住んでるんだ",
+Stash_WorldMap4_Text11 = "助けてもらえるかも?",
+
+Stash_WorldMap5_Text1 = "ポーリーがここに残したもの",
+Stash_WorldMap5_Text11 = "入る前に見張りをチェック",
+Stash_WorldMap5_Text12 = "あと、この地図を燃やすことを忘れないこと!!!",
+
+Stash_WorldMap6_Text1 = "ここに良いものが",
+Stash_WorldMap6_Text2 = "入手用 - 大きすぎて確保できない",
+Stash_WorldMap6_Text3 = "アンディ",
+
+Stash_WorldMap7_Text1 = "ここで満タンにする",
+Stash_WorldMap7_Text2 = "ディキシーは感染者で溢れている",
+Stash_WorldMap7_Text21 = "あいつらどっから来たんだ",
+
+Stash_WorldMap8_Text1 = "ケンの物資、役立つはず",
+Stash_WorldMap8_Text2 = "尾行には注意",
+Stash_WorldMap8_Text21 = "ゾンビに限らずな",
+
+Stash_WorldMap9_Text1 = "車両基地",
+Stash_WorldMap9_Text2 = "クレートがそこら中にあって、中に物を入れられるな",
+Stash_WorldMap8_Text3 = "オフィス、特になし",
+Stash_WorldMap8_Text4 = "倉庫?",
+
+Stash_WorldMap10_Text1 = ""ガソリンスタンド"",
+Stash_WorldMap10_Text2 = ""衣料品店"",
+Stash_WorldMap10_Text3 = "SPIFFO'S",
+Stash_WorldMap10_Text4 = ""車"",
+
+Stash_WorldMap11_Text1 = "タワー2のディッシュ3 - 6GHz付近で信号が途絶える - 電源の問題",
+Stash_WorldMap11_Text11 = "司令部にレキシントンとのテストをしてもらった後",
+
+Stash_WorldMap12_Text1 = ""大きな"キャンプ場 - 必要なものはすべて揃っている (ジェーンの薬は除く)",
+Stash_WorldMap12_Text11 = "最初に片づけが必要だが、食料、ベッド、暖炉がたくさんある。"
+Stash_WorldMap12_Text2 = ""唯一の危険": 北にあるモール、 そこには何百人もの感染者がいる"
+
+Stash_WorldMap13_Text1 = "ハル、僕らはここに行くね、安全なはず"
+Stash_WorldMap13_Text11 = "辛いのは分かるが"パウラは連れてくるなよ""
+Stash_WorldMap13_Text12 = "せめて自分の身は自分でを守らないと"
+
+Stash_WorldMap14_Text1 = "おばあちゃん"
+Stash_WorldMap14_Text2 = "おじいちゃんをどこにつれてったの"
+Stash_WorldMap14_Text3 = "主よ、彼らをお守りください"
+
+Stash_WorldMap17_Text1 = "パトロールの死角"
+Stash_WorldMap17_Text2 = "Vは23時15分ちょうどにモーションセンサーをOFFにする"
+Stash_WorldMap17_Text21 = "気を取られるな！Vを追いかけ、写真を撮り、離れろ"
+
+Stash_WorldMap18_Text1 = "ベン"
+Stash_WorldMap18_Text2 = "小道"
+
+Stash_WorldMap19_Text1 = "頑固な奴! せめてカディさんの家に置いてきた銃を持って行ってくれ"
+Stash_WorldMap19_Text11 = "死んだら、絶対に許さない!!!"
+
+Stash_WorldMap19_Text1 = ""まぬけ""
+Stash_WorldMap19_Text2 = ""ばかなやつ""
+Stash_WorldMap19_Text3 = ""くそったれ""
+*/
 }

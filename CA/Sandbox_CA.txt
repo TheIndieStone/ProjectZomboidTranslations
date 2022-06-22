@@ -392,6 +392,7 @@ Sandbox_CA = {
     Sandbox_RallyGroupSeparation_help = "La distància entre grups de zombis.",
     Sandbox_RallyGroupRadius_help = "Com de prop es mantenen els membres d'un grup al zombi líder.",
     Sandbox_MinMaxDefault = "Mínim=%1 Màxim=%2 Predefinit=%3",
+    Sandbox_Default = "Predefinit=%1",
     Sandbox_ThumpNoChasing = "Atacs ambientals",
     Sandbox_ThumpNoChasing_option1 = "Sí",
     Sandbox_ThumpNoChasing_option2 = "No",
