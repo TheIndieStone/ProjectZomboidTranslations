@@ -1,7 +1,7 @@
 Stash_CN = {
 	Stash_AnnotedMap = "带注释的地图",
 
-    Stash_LVMap1_Text1 = "疯子枪手缅怀地",
+    Stash_LVMap1_Text1 = "疯子枪手事发地",
     Stash_LVMap1_Text2 = "疯子枪手的家",
 
     Stash_LVMap2_Text1 = "妈妈 x 的礼物",
@@ -210,6 +210,57 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
 	Stash_MarchRidgeMap7_Text1 = "我想他就藏在那里。",
 	Stash_MarchRidgeMap7_Text2 = "你可能需要一些工具。",
 	Stash_MarchRidgeMap7_Text3 = "他在这里，没有被咬，不过仍在发烧！",
+	
+    Stash_MarchRidgeMap8_Text1 = "把我的旧工具留在这里"
+    Stash_MarchRidgeMap8_Text2 = "不再需要它们"
+
+    Stash_MarchRidgeMap9_Text1 = "欢迎幸存者加入我们"
+    Stash_MarchRidgeMap9_Text2 = "需要更多的食物、枪支和其他东西"
+    Stash_MarchRidgeMap9_Text3 = "杀了一些 Z 来获得更多的荣耀!"
+
+    Stash_MarchRidgeMap10_Text1 = "祝福善良的灵魂",
+    Stash_MarchRidgeMap10_Text2 = "愿你再远离地狱一段时间",
+
+    Stash_RiversideStashMap1_Text1 = "我们现在在这里",
+    Stash_RiversideStashMap1_Text11 = "希望很快见到你",
+    Stash_RiversideStashMap1_Text2 = "注意这里!",
+
+    Stash_RiversideStashMap2_Text1 = "208号房间等着你",
+    Stash_RiversideStashMap2_Text11 = "还记得我们花了一整天时间盯着河流吗?",
+    Stash_RiversideStashMap2_Text12 = "别抛下我 xxx",
+
+    Stash_RiversideStashMap3_Text1 = "音像店",
+    Stash_RiversideStashMap3_Text2 = "酒",
+
+    Stash_RiversideStashMap4_Text1 = "达里尔病了, 把他留在了这里",
+    Stash_RiversideStashMap4_Text11 = "去找娜塔莉，她会知道该怎么做的",
+    Stash_RiversideStashMap4_Text2 = "看到他们把两个人拖到这里, 太可怕了",
+
+    Stash_RiversideStashMap5_Text1 = "不要去这里",
+    Stash_RiversideStashMap5_Text2 = "这些混蛋杀死了弗兰克并咬了我",
+
+    Stash_RiversideStashMap6_Text1 = "埃迪一定藏了一些枪",
+    Stash_RiversideStashMap6_Text11 = "如果他没生病一定会带我们远离镇子",
+    Stash_RiversideStashMap6_Text12 = "希望那个变态的维科没有找到他们",
+
+    Stash_RiversideStashMap7_Text1 = "侦察了这里 - 他们转过来了",
+    Stash_RiversideStashMap7_Text2 = "现在前往吉加超市",
+    Stash_RiversideStashMap7_Text21 = "我不在的时候不要和桑德拉打架",
+
+    Stash_RiversideStashMap8_Text1 = "给你留下了一些食物", 
+    Stash_RiversideStashMap8_Text11 = "吃完再走",
+    Stash_RiversideStashMap8_Text2 = "感染者在这里游荡",
+    Stash_RiversideStashMap8_Text3 = "我在哪里见过那群人 (现在可能已经死了)",
+
+    Stash_RiversideStashMap9_Text1 = "桐, 在这等我们",
+    Stash_RiversideStashMap9_Text2 = "丙烷罐",
+    Stash_RiversideStashMap9_Text3 = "D的情况不太好 - 需要抗生素",
+
+    Stash_RiversideStashMap10_Text1 = "银行", 
+    Stash_RiversideStashMap10_Text2 = "别忘了备用武器", 
+    Stash_RiversideStashMap10_Text21 = "你的斧头看起来有点松了",
+    Stash_RiversideStashMap10_Text3 = "马上向西出城, 你知道在哪里可以找到我",
+
 	Stash_RosewoodStashMap2_Text1 = "藏着一些枪支。",
 	Stash_RosewoodStashMap2_Text2 = "接下来去这。",
 	Stash_RosewoodStashMap2_Text3 = "在这里结束。",
@@ -217,4 +268,83 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
 	Stash_RosewoodStashMap3_Text11 = "妈妈的老家。 我会在那里等你 x",
 	Stash_RosewoodStashMap3_Text2 = "这里可能有武器，有备无患",
 	Stash_RosewoodStashMap3_Text3 = "不要走这条路",
+	
+    Stash_RosewoodStashMap4_Text1 = "一些无用的东西",
+    Stash_RosewoodStashMap4_Text2 = "他们来的时候 (会来的!)",
+    Stash_RosewoodStashMap4_Text3 = "拿走你能带的东西然后消失在森林里",
+
+    Stash_RosewoodStashMap5_Text1 = "这里有食物",
+    Stash_RosewoodStashMap5_Text2 = "不要冲进来!",
+    Stash_RosewoodStashMap5_Text3 = "记住邓肯先生的遭遇",
+
+/*
+Stash_WorldMap1_Text1 = "到这里来! 卡拉会帮忙的",
+Stash_WorldMap1_Text2 = "这里被感染了 (现在或许已经迁徙了)",
+Stash_WorldMap1_Text4 = "如果你开的比较慢, 不要吸引他们",
+
+Stash_WorldMap2_Text1 = "很好的基地, 有点远",
+Stash_WorldMap2_Text11 = "到达时先设置路障!",
+Stash_WorldMap2_Text12 = "给你藏了一些枪",
+
+Stash_WorldMap3_Text1 = "这里有丙烷罐",
+Stash_WorldMap3_Text11 = "你需要它",
+
+Stash_WorldMap4_Text1 = "亚娜说这是那个女人住的地方",
+Stash_WorldMap4_Text11 = "也许她会帮助我们?",
+
+Stash_WorldMap5_Text1 = "保利把东西放在这里了",
+Stash_WorldMap5_Text11 = "进入前检查",
+Stash_WorldMap5_Text12 = "别忘了烧掉这张地图!!!",
+
+Stash_WorldMap6_Text1 = "这里有好东西",
+Stash_WorldMap6_Text2 = "用于搜寻 - 太大而无法保护",
+Stash_WorldMap6_Text3 = "安迪",
+
+Stash_WorldMap7_Text1 = "在这里",
+Stash_WorldMap7_Text2 = "全被感染了",
+Stash_WorldMap7_Text21 = "他们都是从哪里来的",
+
+Stash_WorldMap8_Text1 = "肯的东西, 应该可以用上",
+Stash_WorldMap8_Text2 = "小心跟随你的人",
+Stash_WorldMap8_Text21 = "不仅仅是僵尸",
+
+Stash_WorldMap9_Text1 = "货运站",
+Stash_WorldMap9_Text2 = "到处都是箱子, 可以装满东西",
+Stash_WorldMap8_Text3 = "办公室, 空的",
+Stash_WorldMap8_Text4 = "仓库?",
+
+Stash_WorldMap10_Text1 = "加油站",
+Stash_WorldMap10_Text2 = "服装店",
+Stash_WorldMap10_Text3 = "斯皮福店",
+Stash_WorldMap10_Text4 = "汽车",
+
+Stash_WorldMap11_Text1 = "2号塔上的3号天线 - 在 6GHz频段上丢失信号 - 电源问题",
+Stash_WorldMap11_Text11 = "之后让总部与列克星敦进行测试",
+
+Stash_WorldMap12_Text1 = "大型露营地 - 我们需要一切 (简的药丸除外)",
+Stash_WorldMap12_Text11 = "需要先打扫, 但有很多食物, 床和壁炉"
+Stash_WorldMap12_Text2 = "唯一的危险: 购物中心向北, 那里有数百人被感染"
+
+Stash_WorldMap13_Text1 = "哈尔, 我们要去这里, 应该很安全"
+Stash_WorldMap13_Text11 = "我知道这很难, 但不要带上宝拉"
+Stash_WorldMap13_Text12 = "你要自救"
+
+Stash_WorldMap14_Text1 = "奶奶"
+Stash_WorldMap14_Text2 = "他们抓到爷爷的地方"
+Stash_WorldMap14_Text3 = "上帝保佑他们"
+
+Stash_WorldMap17_Text1 = "巡逻盲点"
+Stash_WorldMap17_Text2 = "V 将在23:15时完全关闭运动传感器"
+Stash_WorldMap17_Text21 = "不要分心! 跟着V, 带上你的图, 出去"
+
+Stash_WorldMap18_Text1 = "本"
+Stash_WorldMap18_Text2 = "路径"
+
+Stash_WorldMap19_Text1 = "顽固的杂种! 至少拿走我留在卡迪夫人家里的枪"
+Stash_WorldMap19_Text11 = "如果你死了, 我永远不会原谅你!!!"
+
+Stash_WorldMap19_Text1 = "白痴"
+Stash_WorldMap19_Text2 = "杂种"
+Stash_WorldMap19_Text3 = "混球"
+*/
 }
