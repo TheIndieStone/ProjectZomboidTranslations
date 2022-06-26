@@ -4,8 +4,8 @@ GameSound_PTBR = {
     GameSound_ButtonReload_tt = "Recarrega todos os arquivos sounds.txt.",
     GameSound_VolumeControlTooltip = "Volume: %1%<br>Volume Geral: %2 %3%",
 
-/* Esses são os nomes das guias na Interface do Usuário. */
-/* A categoria AUTO é para GameSounds que não estão definidos em sounds.txt. */
+    /* Esses são os nomes das guias na Interface do Usuário. */
+    /* A categoria AUTO é para GameSounds que não estão definidos em sounds.txt. */
     GameSound_Category_AUTO = "AUTO",
     GameSound_Category_Item = "Item",
     GameSound_Category_Meta = "Meta",
@@ -16,7 +16,7 @@ GameSound_PTBR = {
     GameSound_Category_World = "Mundo",
     GameSound_Category_Zombie = "Zumbi",
 
-/* Você pode fornecer traduções para cada GameSound se quiser, algumas podem aparecer no menu, mas não neste arquivo. */
+    /* Você pode fornecer traduções para cada GameSound se quiser, algumas podem aparecer no menu, mas não neste arquivo. */
 
 /* Item */
     GameSound_AlarmClockRingingLoop = "Despertador Tocando",
