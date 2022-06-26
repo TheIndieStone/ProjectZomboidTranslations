@@ -1,10 +1,12 @@
 Official Brazilian Translation Server 
 ___________________________________________
 Translation Team:
-Rafael "R4to0" Alves
-Victor "Benin" Hugo
 Ranieri "Gravedigger" Welenkens
-Guilherme "NaoeoGui" Alves
+Rafael "R4to0" Alves
+Guilherme "NãoéoGui" Alves
+Marcos "coda" Gaius
+Pedro "pedrosegato" Segato
+Júlia "Polaris" de Oliveira
 
 ___________________________________________
 Reviewer:
@@ -16,12 +18,11 @@ Team who did an epic job for our community
 in previous builds and updates.
 
 ZonaryQuasar
-pedrosegato
-coda
 NezukeOkami
+Victor "Benin" Hugo
 
 HiveFuse:
-Bruno "DuMA" Duarte Machado
-Alan "JohnySouzac" Johny Souza Carvalho
-Pedro "JokerQuinn" Thiago Lobato
+Bruno "DuMA" Duarte 
+Alan "JohnySouzac" Johny 
+Pedro "JokerQuinn" Thiago 
 Rodrigo "MantoanR" Mantoan 
