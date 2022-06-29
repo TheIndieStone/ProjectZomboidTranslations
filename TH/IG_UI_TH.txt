@@ -1,6 +1,6 @@
 IGUI_TH = {
-	    -- All the UI text used in game
-	    -- InventoryPane
+	-- All the UI text used in game
+	-- InventoryPane
 	IGUI_invpanel_Type = "รายการ",
 	IGUI_invpanel_Category = "หมวดหมู่",
 	IGUI_invpanel_Pack = "บรรจุ",
@@ -19,9 +19,9 @@ IGUI_TH = {
 	IGUI_invpanel_weight = "น้ำหนัก",
 	IGUI_invpanel_ascending = "จากน้อยไปมาก",
 	IGUI_invpanel_descending = "จากมากไปน้อย",
-	    -- InventoryPage
+	-- InventoryPage
 	IGUI_invpage_Loot_all = "หยิบทั้งหมด",
-	    -- Character Screen
+	-- Character Screen
 	IGUI_char_Age = "อายุ",
 	IGUI_char_Sex = "เพศ",
 	IGUI_char_Traits = "คุณลักษณะ",
@@ -85,7 +85,7 @@ IGUI_TH = {
 	IGUI_ContainerTitle_vendingpop = "ตู้กด",
 	IGUI_ContainerTitle_wardrobe = "ตู้",
 	IGUI_ContainerTitle_woodstove = "เตา",
-	    -- Health panel
+	-- Health panel
 	IGUI_health_Scratched = "แผลถลอก",
 	IGUI_health_Wounded = "เป็นแผล",
 	IGUI_health_Burned = "ถูกไฟไหม้",
@@ -147,7 +147,7 @@ IGUI_TH = {
 	IGUI_health_Scratch = "ถลอก",
 	IGUI_health_playerHealth = "สุขภาพของ %1",
 	IGUI_health_Stiffness = "เมื่อยล้าจากออกกำลัง",
-	    -- Skills
+	-- Skills
 	IGUI_skills_Multiplier = "ได้รับประสบการณ์เร็วขึ้น %1 เท่า",
 	IGUI_XP_xp = " ค่าประสบการณ์",
 	IGUI_XP_tooltipxp = "ค่าประสบการณ์: %1 / %2",
@@ -159,7 +159,7 @@ IGUI_TH = {
 	IGUI_XP_Health = "สุขภาพ",
 	IGUI_XP_ClothingIns = "อุณหภูมิ",
 	IGUI_XP_Info = "ข้อมูล",
-	    -- Perks
+	-- Perks
 	IGUI_perks_Combat = "การต่อสู้",
 	IGUI_perks_Blunt = "อาวุธยาวไร้คม",
 	IGUI_perks_SmallBlunt = "อาวุธสั้นไร้คม",
@@ -193,7 +193,7 @@ IGUI_TH = {
 	IGUI_perks_Fitness = "ความแข็งแรง",
 	IGUI_perks_Electricity = "งานไฟฟ้า",
 	IGUI_perks_Mechanics = "งานช่างยนต์",
-	    -- Item category
+	-- Item category
 	IGUI_ItemCat_Item = "ไอเท็ม",
 	IGUI_ItemCat_Accessory = "เครื่องประดับ",
 	IGUI_ItemCat_Ammo = "กระสุน",
@@ -268,7 +268,7 @@ IGUI_TH = {
 	IGUI_Fish_Crappiefish = "ปลาแครปปี้",
 	IGUI_Fish_PanFish = "ปลาแพนฟิช",
 	IGUI_Fish_Perch = "ปลาเพิร์ช",
-	    -- Controller
+	-- Controller
 	IGUI_Controller_TakeOverPlayer = "ควบคุมผู้เล่นที่ %1",
 	IGUI_Controller_AddNewPlayer = "เพิ่มผู้เล่นใหม่",
 	IGUI_Controller_AddSavedPlayer = "เพิ่ม %1 %2",
@@ -280,7 +280,7 @@ IGUI_TH = {
 	IGUI_Controller_CruiseControl = "ควบคุมความเร็วคงที่",
 	IGUI_Controller_Disconnected1 = "จอยสติ๊กขาดการเชื่อมต่อ",
 	IGUI_Controller_Disconnected2 = "ใช้คีย์บอร์ด และเมาส์",
-	    -- Sleep dialog
+	-- Sleep dialog
 	IGUI_Sleep_Prompt = "จะใช้เวลาในการนอนหลับเท่าไหร่?",
 	IGUI_Sleep_OneHour = "1 ชั่วโมง",
 	IGUI_Sleep_NHours = "%1 ชั่วโมง",
@@ -340,7 +340,7 @@ IGUI_TH = {
 	IGUI_SetCode = "ตั้งรหัสของคุณ",
 	IGUI_EnterCode = "ป้อนรหัสดิจิตอล",
 	IGUI_DropItemsOnSquareCenter = "ทิ้งสิ่งของไว้กึ่งกลางของพื้น (ของที่ถูกทิ้งจะไม่อยู่ที่เท้า)",
-	   -- Controller
+	-- Controller
 	IGUI_BackButton_PlayerInfo = "ข้อมูลผู้เล่น",
 	IGUI_BackButton_Crafting = "การประดิษฐ์",
 	IGUI_BackButton_Zoom = "ซูม %1%",
@@ -350,29 +350,29 @@ IGUI_TH = {
 	IGUI_BackButton_FF3 = "เร็ว x 3",
 	IGUI_BackButton_LastStand = "ศึกสุดท้าย",
 	IGUI_BackButton_Movable = "ย้ายเฟอร์นิเจอร์",
-	   -- BBQ window
+	-- BBQ window
 	IGUI_BBQ_FuelAmount = "เชื้อเพลิง: %1",
 	IGUI_BBQ_TypeCharcoal = "บาร์บีคิวใช้ถ่าน",
 	IGUI_BBQ_TypePropane = "บาร์บีคิวใช้แก๊ส",
 	IGUI_BBQ_NeedsPropaneTank = "ต้องการถังแก๊ส",
-	 -- Campfire window
+	-- Campfire window
 	IGUI_Campfire_Campfire = "กองไฟ",
-	    -- Fireplace window
+	-- Fireplace window
 	IGUI_Fireplace_Fireplace = "เตาผิง",
 	IGUI_Fireplace_Smouldering = "ใกล้จะมอด",
 	IGUI_Fireplace_Burning = "กำลังเผาไหม้",
 	IGUI_Fireplace_Unlit = "ไม่มีไฟ",
-	    -- Rain Collector Barrel
+	-- Rain Collector Barrel
 	IGUI_RemainingPercent = "เหลือ: %1%",
-	    -- Generator window
+	-- Generator window
 	IGUI_Generator_TypeGas = "เครื่องกำเนิดไฟฟ้าพลังงานน้ำมัน",
 	IGUI_Generator_FuelAmount = "เชื้อเพลิง: %1%",
 	IGUI_Generator_Condition = "สถานะ: %1%",
 	IGUI_Generator_IsToxic = "เมื่อใช้งานที่นี่จะเต็มไปด้วยควันพิษ",
-	    -- Bomb timer dialog
+	-- Bomb timer dialog
 	IGUI_TimerSecondsBeforeActivation = "วินาที ก่อนเปิดใช้งาน",
 	IGUI_TimerSecondsBeforeExplosion = "วินาที ก่อนจะระเบิด",
-	    -- Crafting window
+	-- Crafting window
 	IGUI_CraftUI_Title = "การประดิษฐ์",
 	IGUI_CraftUI_RequiredItems = "สิ่งที่ต้องการ:",
 	IGUI_CraftUI_RequiredSkills = "ทักษะที่ต้องการ:",
@@ -395,15 +395,15 @@ IGUI_TH = {
 	IGUI_CraftUI_CountNumber = "%1 x %2",
 	IGUI_CraftUI_CountOneUnit = "%1 (1 หน่วย)",
 	IGUI_CraftUI_CountUnits = "%1 (%2 หน่วย)",
-    IGUI_CraftUI_Controls1 = "%1/%2 = ขึ้น/ลง     %3/%4 = เปลี่ยนหมวดหมู่     C = หนึ่ง     R = ทั้งหมด     F = เพิ่มเป็นรายการโปรด     ESC = ปิด",
-    IGUI_CraftUI_Controls2 = "%1/%2 = ขึ้น/ลง     %3/%4 = เปลี่ยนหมวดหมู่     C = เพิ่มส่วนผสม     F = เพิ่มเป็นรายการโปรด     ESC = ปิด",
+	IGUI_CraftUI_Controls1 = "%1/%2 = ขึ้น/ลง     %3/%4 = เปลี่ยนหมวดหมู่     C = หนึ่ง     R = ทั้งหมด     F = เพิ่มเป็นรายการโปรด     ESC = ปิด",
+	IGUI_CraftUI_Controls2 = "%1/%2 = ขึ้น/ลง     %3/%4 = เปลี่ยนหมวดหมู่     C = เพิ่มส่วนผสม     F = เพิ่มเป็นรายการโปรด     ESC = ปิด",
 	IGUI_CraftUI_Note = "*การสร้างหรือประดิษฐ์ สิ่งของในช่องเก็บของ และรอบตัวจะถูกใช้ทันที",
-	    -- Crafting controller prompts
+	-- Crafting controller prompts
 	IGUI_CraftUI_CraftOne = "สร้าง",
 	IGUI_CraftUI_CraftAll = "สร้างทั้งหมด",
 	IGUI_CraftUI_Favorite = "เพิ่มเป็นรายการโปรด",
 	IGUI_CraftUI_Close = "ปิด",
-	    -- Crafting category
+	-- Crafting category
 	IGUI_CraftCategory_Favorite = "ที่ชื่นชอบ",
 	IGUI_CraftCategory_General = "ทั่วไป",
 	IGUI_CraftCategory_Carpentry = "งานช่างไม้",
@@ -482,7 +482,7 @@ IGUI_TH = {
 	IGUI_Tutorial1_Shotgun5a = " <CENTRE> <SIZE:medium> พวกมันใกล้เข้ามาแล้ว! <LINE> <LINE> คุณรู้ว่าการวิ่งต้องทำยังไง แต่ต่อไปนี้คือการวิ่งสุดแรงเกิด! วิ่งให้เต็มกำลังไปที่ห้องส้วมนั่น! เร็วเข้า! <LINE> <LINE> <SIZE:large> กด %1 เพื่อเดิน แล้วกด %2 สองครั้งติดกัน เพื่อวิ่งให้เต็มกำลัง!",
 	IGUI_Tutorial1_Shotgun6 = " <CENTRE> <SIZE:medium> คำแนะนำสุดท้าย! หากว่าคุณถูกซอมบี้กัด หรือกลัวว่าพวกมันจะเข้ามาใกล้ ให้กดปุ่ม '%1' เพื่อที่คุณจะได้กินยาป้องกันการติดเชื้อในทันที! <LINE> <LINE> <SIZE:large> กดปุ่ม %1 เพื่อกินยาเลย!",
 	IGUI_Tutorial1_Shotgun7 = " <CENTRE> <SIZE:medium> ล้อเล่นน่า! <LINE> <LINE> มันไม่มียาวิเศษอะไรแบบนั้นหรอก <LINE> <LINE> <SIZE:large> ขอให้โชคดี!",
-	IGUI_Tutorial1_Shotgun8 = " <CENTRE> <SIZE:medium> คุณตาย! <LINE> <LINE> คุณสามารถเรียนรู้เทคนิคเพิ่มเติมของการเอาตัวรอด, การทำอาหาร, การสร้าง, การประดิษฐ์, การเพาะปลูก, และการค้นหาของได้จาก คู่มือการเอาตัวรอดฉบับซอมบอยด์ (กดปุ่ม %1) <LINE> <LINE> <SIZE:large> กลับไปที่เมนูหลัก และเริ่มเอาตัวรอดกันเลยดีกว่า!",
+	IGUI_Tutorial1_Shotgun8 = " <CENTRE> <SIZE:medium> คุณตายแล้ว! <LINE> <LINE> คุณสามารถเรียนรู้เทคนิคเพิ่มเติมของการเอาตัวรอด, การทำอาหาร, การสร้าง, การประดิษฐ์, การเพาะปลูก, และการค้นหาของได้จาก คู่มือการเอาตัวรอดฉบับซอมบอยด์ (กดปุ่ม %1) <LINE> <LINE> <SIZE:large> กลับไปที่เมนูหลัก และเริ่มเอาตัวรอดกันเลยดีกว่า!",
 	
 	IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> เรื่องแรกที่ต้องรู้ก็คือ: คุณสามารถซูมได้! การกด <LINE>  <IMAGE:media/ui/backbutton.png,28,28> จะแสดงเมนูต่าง ๆ ขึ้นมา <LINE> <LINE> มาดูภาพมุมสูงของสถานที่เปลี่ยวที่คุณกำลังจะตายอย่างอนาถและโดดเดี่ยว!  <LINE> <SIZE:large> กด  <IMAGE:media/ui/backbutton.png,28,28> แล้วเลือก   <IMAGE:media/ui/ZoomOut.png,28,28>  ด้วย  <IMAGE:media/ui/rightstick.png,28,28> แล้วปล่อย  <IMAGE:media/ui/backbutton.png,28,28> <LINE> ",
 	IGUI_Tutorial1_Welcome3Joypad = " <SIZE:medium> ก่อนอื่นเลย: <IMAGE:media/ui/backbutton.png,28,28> จะพาคุณไปยังส่วนที่น่าตื่นเต้นมากมาย! <LINE> <LINE> มาดูข้อมูลตัวละครผู้รอดชีวิตของคุณกัน! <LINE> <SIZE:large> กด <IMAGE:media/ui/backbutton.png,28,28> ค้างไว้แล้วเลือก <IMAGE:media/ui/Heart2_On.png,32,32> ด้วย <IMAGE:media/ui/ rightstick.png,28,28> จากนั้นปล่อย <IMAGE:media/ui/backbutton.png,28,28> หน้าต่างสุขภาพก็จะถูกเปิดขึ้นมา! <LINE> ",
@@ -571,7 +571,7 @@ IGUI_TH = {
 	IGUI_PostDeath_Exit = "ออกไปเมนูหลัก",
 	IGUI_PostDeath_Respawn = "สร้างตัวละครใหม่",
 	
-	    --MouseOver tooltips
+	--MouseOver tooltips
 	IGUI_PrimaryTooltip = "มือหลัก",
 	IGUI_SecondaryTooltip = "มือรอง",
 	IGUI_InventoryTooltip = "ช่องเก็บของ",
@@ -579,7 +579,7 @@ IGUI_TH = {
 	IGUI_CraftingTooltip = "การประดิษฐ์",
 	IGUI_MovableTooltip = "ย้ายเฟอร์นิเจอร์",
 	
-	    --movables
+	--movables
 	IGUI_Pickup = "ย้าย",
 	IGUI_Place = "วาง",
 	IGUI_Rotate = "หมุน",
@@ -608,11 +608,13 @@ IGUI_TH = {
 	IGUI_Tool = "เครื่องมือที่ต้องใช้",
 	IGUI_None = "ไม่มี",
 	IGUI_ChanceToBreak = "โอกาสที่จะทำพัง",
+	IGUI_ComposterHasCompost = "มีปุ๋ยหมักอยู่ข้างใน",
 	IGUI_ToHeavy = "หนักเกินกว่าที่จะเก็บไว้ได้",
 	IGUI_TooHot = "ร้อนเกินกว่าจะหยิบได้",
 	IGUI_ItemsSurface = "มีวัตถุอื่นวางทับอยู่",
 	IGUI_Moveables_DoorBarricaded = "ประตูถูกกั้น",
 	IGUI_Moveables_DoorInFrame = "ต้องถอดประตูออกก่อน",
+	IGUI_Moveables_FloorAtTopOfStairs = "พื้นอยู่เหนือบันได",
 	IGUI_WindowOpen = "หน้าต่างเปิดอยู่",
 	IGUI_WindowBarricaded = "หน้าต่างนี้ถูกกั้นอยู่",
 	IGUI_Moveables_WindowInFrame = "ต้องถอดหน้าต่างออกก่อน",
@@ -623,7 +625,7 @@ IGUI_TH = {
 	IGUI_IsOperational = "ต้องปิดก่อน",
 	IGUI_RemovePropane = "ต้องเอาถังแก๊สออกก่อน",
 	
-	    --radio
+	--radio
 	IGUI_DeviceOptions = "ตั้งค่าอุปกรณ์",
 	IGUI_Hotkey = "ปุ่มลัด",
 	IGUI_RadioClose = "ปิด",
@@ -914,6 +916,10 @@ IGUI_TH = {
 	IGUI_Map_ConfirmRemoveSymbol = "ต้องการลบเครื่องหมายนี้?",
 	IGUI_Map_ZoomIn = "ซูมเข้า",
 	IGUI_Map_ZoomOut = "ซูมออก",
+	IGUI_MapOption_Players = "ผู้เล่น",
+	IGUI_MapOption_PlayerNames = "ชื่อผู้เล่น",
+	IGUI_MapOption_RemotePlayers = "ผู้เล่นระยะไกล",
+	IGUI_MapOption_Symbols = "สัญลักษณ์",
 	IGUI_TextBoxMap_IsTranslation = "เป็นการแปล",
 	IGUI_TextBox_CantBeEmpty = "ต้องกรอกข้อความ",
 	IGUI_TextBox_Edit = "แก้ไข",
@@ -1124,7 +1130,7 @@ IGUI_TH = {
 	IGUI_VehicleNameTrailer = "พ่วงหลัง",
 	IGUI_VehicleNameTrailerAdvert = "พ่วงหลัง",
 	IGUI_VehicleNameTrailerCover = "พ่วงหลัง",
-	    -- Names of burnt vehicles that aren't one of the above plus "Burnt"
+	-- Tutorial Stuff
 	IGUI_VehicleNameAmbulanceBurnt = "พยาบาล",
 	IGUI_VehicleNameLuxuryCarBurnt = "เมอเซียแลง 4000",
 	IGUI_VehicleNameNormalCarBurntPolice = "เชวาเลียร์ไนอาลา",
@@ -1132,7 +1138,7 @@ IGUI_TH = {
 	IGUI_VehicleNamePickupSpecialBurnt = "เชวาเลียร์ ดี6",
 	IGUI_VehicleNameTaxiBurnt = "แท็กซี่",
 	IGUI_VehicleNameBurntCar = "%1 ถูกเผา",
-	    --
+	--
 	IGUI_Mechanics_PartDoesntExist = "ไม่มีชิ้นส่วน",
 	IGUI_Mechanics_MissingItem = "ไอเท็มที่จำเป็นต้องใช้: %1",
 	IGUI_Vehicle_CondInfoBattery = "ชาร์จเมื่อเครื่องยนต์ทำงาน ใช้พลังงานโดยการสตาร์ทเครื่องยนต์ การเปิดไฟ ไซเรน และวิทยุ",
@@ -1199,7 +1205,6 @@ IGUI_TH = {
 	IGUI_VehicleLightbar_WAIL = "เสียงสูง",
 	IGUI_VehicleLightbar_YELP = "เสียงต่ำ",
 	IGUI_Vehicle_SeatOccupied = "เบาะนั่งไม่ว่าง",
-	IGUI_PlayerText_CanNotExitFromMovingCar = "ออกจากรถที่กำลังแล่นอยู่ไม่ได้",
 	IGUI_PlayerText_CanNotSleepInMovingCar = "ต้องหยุดรถก่อน",
 	IGUI_ConfirmLeaveGame = "ออกจากเกม?",
 	IGUI_AdminPanel_AdminPower = "ปรับแต่งความสามารถของแอดมิน",
@@ -1338,7 +1343,7 @@ IGUI_TH = {
 	IGUI_FabricType_2 = "เศษผ้ายีนส์",
 	IGUI_FabricType_3 = "เศษหนัง",
 	IGUI_TypeOfPatch = "%1 ถูกเย็บปะ",
-	    --Temperature Panel
+	--Temperature Panel
 	IGUI_Temp_SkinTemperature = "อุณหภูมิผิวหนัง",
 	IGUI_Temp_BloodVessels = "เส้นเลือด",
 	IGUI_Temp_ShiverPerspiration = "หนาวสั่น / เหงื่อออก",
@@ -1515,7 +1520,7 @@ IGUI_TH = {
 	IGUI_PlayerText_CoughMuffled = "อุกกก!",
 	IGUI_AdminPanel_ZombiesDontAttack = "ซอมบี้ไม่โจมตี",
 	IGUI_AdminPanel_ShowMPInfos = "แสดงข้อมูลหลายผู้เล่น",
-	    --SearchMode Debug Menu
+	--SearchMode Debug Menu
 	IGUI_SearchMode_Debug_Title = "ดีบั๊กโหมดค้นหา",
 	IGUI_SearchMode_Debug_Overlay = "โอเวอร์เลย์โหมดค้นหา",
 	IGUI_SearchMode_Debug_Mode_Activated = "เปิดใช้งานโหมดค้นหาแล้ว",
@@ -1551,10 +1556,10 @@ IGUI_TH = {
 	IGUI_SearchMode_Debug_Overlay_Override_Darkness_Exterior = "ความมืด (ภายนอก)",
 	IGUI_SearchMode_Debug_Overlay_Override_Darkness_Interior = "ความมืด (ภายใน)",
 	IGUI_SearchMode_Debug_TickBox_Enabled = "เปิด",
-	    --SearchMode Zone Display Window
+	--SearchMode Zone Display Window
 	IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "หมวดหมู่ที่อาจจะค้นหาได้: ",
 	IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "ไม่มีอะไรให้ค้นหาที่นี่",
-	    --SearchMode Zone Names
+	--SearchMode Zone Names
 	IGUI_SearchMode_Zone_Names_Unknown = "ไม่มีอะไรที่นี่",
 	IGUI_SearchMode_Zone_Names_TownZone = "เขตชานเมือง",
 	IGUI_SearchMode_Zone_Names_Vegitation = "พืชผัก",
@@ -1564,13 +1569,13 @@ IGUI_TH = {
 	IGUI_SearchMode_Zone_Names_Farm = "ฟาร์ม",
 	IGUI_SearchMode_Zone_Names_TrailerPark = "ลานจอดรถ",
 	IGUI_SearchMode_Zone_Names_Nav = "ถนน",
-	    --SearchMode Fuzzy Category Names
+	--SearchMode Fuzzy Category Names
 	IGUI_SearchMode_Categories_Materials = "วัสดุ",
 	IGUI_SearchMode_Categories_Medicinal = "สมุนไพร",
 	IGUI_SearchMode_Categories_Animals = "สัตว์",
 	IGUI_SearchMode_Categories_Food = "อาหาร",
 	IGUI_SearchMode_Categories_Other = "อื่น ๆ",
-	    --SearchMode Exact Category Names
+	--SearchMode Exact Category Names
 	IGUI_SearchMode_Categories_Firewood = "ฟืน",
 	IGUI_SearchMode_Categories_Stones = "หิน",
 	IGUI_SearchMode_Categories_Berries = "เบอร์รี่",
@@ -1588,7 +1593,7 @@ IGUI_TH = {
 	IGUI_SearchMode_Categories_Medical = "ไอเท็มการแพทย์",
 	IGUI_SearchMode_Categories_MedicinalPlants = "พืชสมุนไพร",
 	IGUI_SearchMode_Categories_WildPlants = "พืชป่า",
-	    --SearchMode Vision Effects Tooltip
+	--SearchMode Vision Effects Tooltip
 	IGUI_SearchMode_Vision_Effect_Title = "ประสิทธิภาพการมองเห็น",
 	IGUI_SearchMode_Vision_Effect_Radius = "รัศมีการค้นหา",
 	IGUI_SearchMode_Vision_Effect_Bonus_Radius = "เพิ่มรัศมี",
@@ -1599,7 +1604,7 @@ IGUI_TH = {
 	IGUI_SearchMode_Vision_Effect_Aiming = "เพิ่มระยะเล็งเป้า",
 	IGUI_SearchMode_Vision_Effect_Crouching = "เพิ่มความสามารถของการย่อตัว",
 	IGUI_SearchMode_Vision_Effect_Trait_Profession_Bonuses = "เพิ่มความสามารถของลักษณะและอาชีพ",
-	    --SearchMode Tips
+	--SearchMode Tips
 	IGUI_SearchMode_Tip_Tips_Tooltip_Title = "คำแนะนำในการหาของป่า",
 	IGUI_SearchMode_Tip_Tips_Tooltip_Text = "คลิกเพื่อแสดง/ซ่อนคำแนะนำ",
 	IGUI_SearchMode_Tip_Tips_Title = "เคล็ดลับการหาของป่า",
@@ -1636,7 +1641,7 @@ IGUI_TH = {
 	IGUI_SearchMode_Tip_Seasons_Text = "ไอเท็มที่เกิดขึ้นตามธรรมชาติทั้งหมดถูกควบคุมโดยเดือนและฤดูกาล ไอเท็มที่คุณสามารถหาได้ขึ้นอยู่กับช่วงเวลาของปี!",
 	IGUI_SearchMode_Tip_SearchFocus_Title = "โฟกัสการค้นหา",
 	IGUI_SearchMode_Tip_SearchFocus_Text = "กำลังมองหาบางสิ่งที่พิเศษอยู่ใช่หรือไม่ ใช้โฟกัสการค้นหาเพื่อเพิ่มโอกาสในการค้นหาไอเท็มในหมวดหมู่ที่เลือก!",
-
+	
 	--debugtranslations
 
 	IGUI_Hair_HatLong = "หมวก (ผมยาว)",

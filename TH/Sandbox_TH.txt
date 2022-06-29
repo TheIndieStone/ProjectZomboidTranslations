@@ -369,7 +369,7 @@ Sandbox_TH = {
     Sandbox_PopulationPeakMultiplier = "จำนวนสูงสุดของซอมบี้ในแต่ละวัน",
     Sandbox_PopulationPeakDay = "จำนวนวันที่มีซอมบี้ถึงจำนวนสูงสุด",
     Sandbox_RespawnHours = "จำนวนชั่วโมงที่ซอมบี้จะเกิดใหม่",
-    Sandbox_RespawnUnseenHours = "จำนวนชั่วโมงที่ซอมบี้จะเกิดใหม่ในพื้นที่ที่ยังไม่เคยพบเห็น",
+    Sandbox_RespawnUnseenHours = "จำนวนชั่วโมงที่ซอมบี้จะเกิดใหม่ในพื้นที่ซึ่งไม่มีใครเห็น",
     Sandbox_RespawnMultiplier = "อัตราส่วนการเกิดใหม่ของซอมบี้",
     Sandbox_RedistributeHours = "การกระจายตัวของซอมบี้",
     Sandbox_FollowSoundDistance = "ระยะทางที่ซอมบี้จะตามเสียงไป",
@@ -383,7 +383,7 @@ Sandbox_TH = {
     Sandbox_PopulationPeakMultiplier_help = "ปรับแต่งจำนวนสูงสุดของซอมบี้ในแต่ละวัน",
     Sandbox_PopulationPeakDay_help = "ปรับแต่งจำนวนของวันที่มีซอมบี้ถึงจำนวนสูงสุด",
     Sandbox_RespawnHours_help = "จำนวนชั่วโมงที่ผ่านไปของเกมก่อนที่ซอมบี้จะเกิดใหม่ \nหากตั้งค่าเป็น 0.0 ก็คือจะไม่มีซอมบี้เกิดใหม่",
-    Sandbox_RespawnUnseenHours_help = "จำนวนชั่วโมงที่ผ่านไปของเกม ก่อนที่ซอมบี้ในพื้นที่ที่ยังไม่เคยพบเห็นจะเกิดใหม่",
+    Sandbox_RespawnUnseenHours_help = "จำนวนชั่วโมงที่ผ่านไปของเกมก่อนที่ซอมบี้จะเกิดใหม่ในพื้นที่ซึ่งไม่มีใครเห็น หากผู้เล่นเข้าไปอยู่ในพื้นที่นั้นจะเริ่มนับใหม่",
     Sandbox_RespawnMultiplier_help = "เปอร์เซนของพื้นที่ ที่ซอมบี้อาจจะเกิดใหม่ทุกๆ ชั่วโมงของการเกิดใหม่",
     Sandbox_RedistributeHours_help = "จำนวนของชั่วโมงที่ผ่านไปของเกม ก่อนที่ซอมบี้จะกระจายตัวไปยังจุดที่ว่างต่างๆ ของพื้นที่เดียวกัน",
     Sandbox_FollowSoundDistance_help = "ระยะทางที่ซอมบี้จะตามไปยังจุดสุดท้ายที่ได้ยินเสียง",
@@ -584,7 +584,7 @@ Sandbox_TH = {
     Sandbox_SirenShutoffHours = "เวลาปิดไซเรน",
     Sandbox_SirenShutoffHours_tooltip = "เวลาชั่วโมงในเกมก่อนที่เสียงไซเรนจะหยุดดัง",
     Sandbox_EnableVehicles = "ยานพาหนะ",
-    Sandbox_EnableVehicles_tooltip = ""รถจะเกิดใหม่เมื่อเปิดใช้งาน",
+    Sandbox_EnableVehicles_tooltip = "รถจะเกิดใหม่เมื่อเปิดใช้งาน",
     --
     Sandbox_TriggerHouseAlarm = "สัญญาณกันขโมยดังเมื่อซอมบี้บุกบ้าน",
     Sandbox_TriggerHouseAlarm_tooltip = "ซอมบี้จะทำให้สัญญาณกันขโมยดังเมื่อบุกเข้าไปในบ้านทางหน้าต่างและประตู",
@@ -623,4 +623,5 @@ Sandbox_TH = {
     Sandbox_AllowWorldMap = "อนุญาตให้ใช้แผนที่โลก",
     Sandbox_MapAllKnown = "เปิดแผนที่ทั้งหมดตั้งแต่เริ่ม",
     Sandbox_AllClothesUnlocked = "ปลดล็อกเสื้อผ้าทั้งหมด",
+
 }
