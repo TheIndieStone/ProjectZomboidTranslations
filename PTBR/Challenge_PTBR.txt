@@ -1,74 +1,74 @@
 Challenge_PTBR = {
     Challenge_YouHaveOneDay_name = "Você Tem Um Dia",
-	Challenge_YouHaveOneDay_desc = "Você está de volta ao Condado de Knox. Você está de volta onde a infecção de Project Zomboid começou. <LINE> <LINE> Você tem um dia de relativa segurança. Zumbis vão chegar em grandes quantidades, e eles vão te achar. Onde você fazia o seu abrigo mesmo? Onde você fazia ele antigamente? Melhor encontrá-lo, rápido. <LINE> <LINE> [Nossos agradecimento ao criador de mapas da comunidade BobHeckling por recriar o mapa da antiga 0.1.5 com o toolset atual do PZ.]",
+	Challenge_YouHaveOneDay_desc = "Você está de volta a Knox County. No mapa onde a infecção do Project Zomboid começou. <LINE> <LINE> Você tem um dia de relativa segurança. Zumbis chegarão em grande número e, acredite, eles vão te encontrar. Onde era seu abrigo mesmo? Aquele dos velhos tempos? É melhor encontrá-lo logo. <LINE> <LINE> [Nossos agradecimentos ao criador de mapas da comunidade BobHeckling por recriar a versão 0.1.5 com as nossas ferramentas atuais.]",
 
     Challenge_WinterIsComing_name = "O Inverno Está Chegando",
-	Challenge_WinterIsComing_desc = "Estamos no meio de julho, quando de repente uma leve brisa no ar. Em mero três dias um inverno vai chegar como nunca antes visto. <LINE> <LINE> Você acorda em um lugar isolado. Você tem poucos suprimentos, e a horda de zumbis podem estar mais lentos por causa do frio - mas eles não estão menos mortais. <LINE> <LINE> Se agasalhe, sobrevivente...",
-                                                                     
-	Challenge_OpeningHours_name = "Hora de Abertura",
-    Challenge_OpeningHours_desc = "O shopping está cercado. Antigamente, esse era um lugar muito importante na vida deles. O instinto os levou até a sua porta. Uma memória do que eles costumavam fazer... <LINE> <LINE> Você está sozinho, mas não por muito tempo. As 9 da manhã o shopping estará pronto para as compras: portas vão abrir, e a horda vai entrar. <LINE> <LINE> Se prepare por eles.",
+	Challenge_WinterIsComing_desc = "Estamos na metade de julho, mas de repente há uma leve brisa no ar. Em um mero período de três dias um inverno chegará como nunca visto antes. <LINE> <LINE> Você acorda em um local isolado. Tem suprimentos escassos, e as hordas podem até ter sido desaceleradas pelo frio intenso - mas não serão menos mortais por causa isso. <LINE> <LINE> Se agasalhe bem, sobrevivente...",
 
-	Challenge_AReallyCDDAy_name = "Um Dia de Cão",
-	Challenge_AReallyCDDAy_desc = "Você acaba de sair do banho e toma um tombo feio. Você tá bêbado pra caralho e ainda tá com um resfriado dos brabos. <LINE> <LINE> Além de tudo isso, sua casa tá pegando fogo! Hoje definitivamente não é seu dia. <LINE> <LINE> [Um desafio inspirado por A Really Bad Day do incrível, maravilhoso e MUST-PLAY Cataclysm: Dark Days Ahead] ",
-                                                          
-	Challenge_Challenge1_name = "Casa na Floresta - Defesa Final",
-	Challenge_Challenge1_desc = "Você consegue escutar eles se aproximando. Hordas de cabeças-ocas, rodeando a sua cabana isolada por todos os cantos. A morte é inevitável, mas uma espingarda está ao seu alcance. <LINE> <LINE> Defesa Final apresenta ondas infinitas de zumbis com números cada vez maiores. Sobreviva o quanto conseguir contra as esmagadoras adversidades.",
-                                             
-	Challenge_Challenge2_name = "Casa na Floresta - Defesa Final Acumulativa",
-	Challenge_Challenge2_desc = "Outro dia, outra cabana pronta pra ser ensanguentada. Hordas estão em cima de você, e sua morte vai ser tão dolorosa quanto feia. Então continue lutando... <LINE> <LINE> Defesa Final Acumulativa apresenta ondas infinitas de zumbis com números cada vez maiores. Use o dinheiro adquirido matando zumbis para comprar equipamentos, subir de nível e reparar as suas armas encharcadas de sangue.",
+	Challenge_OpeningHours_name = "Horário de Abertura",
+    Challenge_OpeningHours_desc = "O shopping está cercado. Era uma vez em que esse lugar foi importante em suas vidas. O instinto os guiaram para estas portas. Uma memória do que costumavam fazer... <LINE> <LINE> Você está sozinho, mas não por muito tempo. Às 9 horas da manhã o shopping estará pronto para negócios: as portas se abrirão, e as hordas vão entrar. <LINE> <LINE> Esteja preparado para elas.",
 
-    Challenge_AStormIsComing_name = "Uma Tempestade Está Chegando",
-	Challenge_AStormIsComing_desc = "Núvens estão se jutando sobre Kentucky. O estalo de cada trovão pode ser ouvido ecoando na distância. <LINE> <LINE> Enquanto o céu escurece, os mortos que vagam sobre a terra ficam inquietos. <LINE> <LINE> Essa é uma tempesdade que vai aumentar e diminuir, mas nunca vai acabar.",
+	Challenge_AReallyCDDAy_name = "Um Dia De Cão",
+	Challenge_AReallyCDDAy_desc = "Você sai do chuveiro e toma um baita tombo. Está muito bêbado e com um terrível resfriado. <LINE> <LINE> Além disso tudo, a casa está em chamas! Hoje definitivamente não é seu dia. <LINE> <LINE> [Um desafio inspirado em 'A Really Bad Day' do incrível, maravilhoso e que você DEVE JOGAR Cataclysm: Dark Days Ahead]",
+
+	Challenge_Challenge1_name = "Cabana na Floresta - A Defesa Final",
+	Challenge_Challenge1_desc = "Você pode ouvir eles se aproximando. Hordas de comedores de cérebros, cercando sua cabana por todos lados. A morte é inevitável, mas uma espingarda está ao seu alcance. <LINE> <LINE> A Defesa Final apresenta ondas intermináveis de zumbis em números cada vez maiores. Sobreviva o quanto conseguir contra as esmagadoras adversidades.",
+
+	Challenge_Challenge2_name = "Cabana na Floresta - A Defesa Final (Acumulativa)",
+	Challenge_Challenge2_desc = "Outro dia, outra cabana pronta para ser ensanguentada. As hordas estão ao seu redor, e sua morte será tão dolorosa quanto horrível. Então vá lá fora lutar... <LINE> <LINE> A Defesa Final apresenta ondas intermináveis de zumbis em números cada vez maiores. Use o dinheiro adquirido por matar zumbis para comprar equipamentos, subir de nível e reparar as suas armas encharcadas de sangue.",
+
+    Challenge_AStormIsComing_name = "A Tempestade Está Chegando",
+	Challenge_AStormIsComing_desc = "Nuvens estão se juntando sobre Kentucky. O estrondo do trovão pode ser ouvido à distância. <LINE> <LINE> Conforme o céu escurece, os mortos que vagam sobre a terra ficam mais inquietos. <LINE> <LINE> Essa é uma tempestade que vai aumentar e diminuir em sua intensidade, mas nunca acabará.",
 
     Challenge_TheDescendingFog_name = "A Névoa Descendente",
-    Challenge_TheDescendingFog_desc = "As pessoas primeiro viram ela na água. Um fino lençol branco sobre o rio de Ohio. <LINE> <LINE> Começou como uma névoa. E então ela engoliu toda a cidade. Os moradores morreram gritando na escuridão. E agora eles andam por aí. <LINE> <LINE> Invísivel, inaudível e implacável na busca dos que ainda vivem.",
-                                                                 
+    Challenge_TheDescendingFog_desc = "As pessoas primeiro a viram na água. Um fino lençol branco sob o rio de Ohio. <LINE> <LINE> Começou como uma névoa. E então engoliu toda a cidade. Os cidadãos morreram gritando na escuridão. Agora eles caminham por aí. <LINE> <LINE> Invisíveis, inaudíveis e implacáveis na busca dos vivos.",
+
     Challenge_Kingsmouth_name = "Kingsmouth",
-    Challenge_Kingsmouth_desc = "Aproveite uma estadia relaxante nas ilhas de Kingsmouth!",
+    Challenge_Kingsmouth_desc = "Aproveite uma relaxante estadia nas ilhas de Kingsmouth!",
 
     Challenge_Studio_name = "Estúdio",
     Challenge_Studio_desc = "Onde os melhores filmes são gravados!",
-	-- On-screen UI
-	Challenge_Challenge2_PressKey = "Aperte "o" para receber um bônus permanente e gastar dinheiro.",
-	Challenge_Challenge2_WaveStart = "Onda %1 em : %2 (aperte Enter para pular)",
-	Challenge_Challenge2_WaveDuration = "Onda %1 : %2",
-	Challenge_Challenge2_ZombiesLeft = "Zumbis restantes : %1",
-	Challenge_Challenge2_Money = "Dinheiro : %1",
-	Challenge_Challenge2_Money2 = "Dinheiro do jogador %1 : %2",
-	Challenge_Challenge2_WaveFinished = "Onda %1 terminada em : %2",
-	Challenge_Challenge2_MoneyGained = "Dinheiro ganho : %1",
-	Challenge_Challenge2_XPGained = "Experiência ganha : %1",
-	-- Window
-	Challenge_Challenge2_WindowTitle = "Defesa Final",
+	-- Interface
+	Challenge_Challenge2_PressKey = "Pressione "o" para receber um bônus permanente e para gastar dinheiro.",
+	Challenge_Challenge2_WaveStart = "Onda %1 em: %2 (pressione Enter para pular)",
+	Challenge_Challenge2_WaveDuration = "Onda %1: %2",
+	Challenge_Challenge2_ZombiesLeft = "Zumbis restantes: %1",
+	Challenge_Challenge2_Money = "Dinheiro: %1",
+	Challenge_Challenge2_Money2 = "Jogador %1 Dinheiro: %2",
+	Challenge_Challenge2_WaveFinished = "Onda %1 finalizada em: %2",
+	Challenge_Challenge2_MoneyGained = "Dinheiro adquirido: %1",
+	Challenge_Challenge2_XPGained = "XP adquirido: %1",
+	-- Menu
+	Challenge_Challenge2_WindowTitle = "A Defesa Final",
 	Challenge_Challenge2_TabPlayer = "Jogador",
 	Challenge_Challenge2_Weapons = "Armas",
 	Challenge_Challenge2_TabItems = "Itens",
 	Challenge_Challenge2_TabRepair = "Reparar",
-	Challenge_Challenge2_CurrentXp = "XP : %1",
-	Challenge_Challenge2_ButtonSkill = "%1 Nvl %2 - %3 XP"
-	Challenge_Challenge2_ButtonSkillMax = "%1 Nvl máximo",
-	Challenge_Challenge2_GoldBonus = "Ouro bônus",
-	Challenge_Challenge2_XpBonus = "XP bônus",
+	Challenge_Challenge2_CurrentXp = "XP: %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Nível %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Nível Máximo",
+	Challenge_Challenge2_GoldBonus = "Bônus de Ouro",
+	Challenge_Challenge2_XpBonus = "Bônus de XP",
 	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
-	Challenge_Challenge2_ButtonBonusMax = "%1 máximo",
-	Challenge_Challenge2_ButtonStartGold = "+%1 ouro inicial - %2 XP",
-	Challenge_Challenge2_ButtonStartGoldMax = "Ouro inicial máximo %1",
-	-- PlayerUpWindow
+	Challenge_Challenge2_ButtonBonusMax = "%1 Máximo",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Ouro Inicial - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Ouro Inicial Máximo %1",
+	-- Menu do Jogador
 	Challenge_Challenge2_Skills = "Habilidades",
-	Challenge_Challenge2_PermanentBonus = "Bônus permanente",
-	-- VariousItemWindow
+	Challenge_Challenge2_PermanentBonus = "Bônus Permanente",
+	-- Menu de Itens
 	Challenge_Challenge2_Carpentry = "Carpintaria",
 	Challenge_Challenge2_Health = "Saúde",
 	Challenge_Challenge2_ItemButton = "%1 - %2",
 	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
-	-- WeaponRepairWindow
-	Challenge_Challenge2_RepairWeapon = "Reparar arma",
-	-- WeaponUpWindow
-	Challenge_Challenge2_Health = "Saúde",
+	-- Menu de Reparo
+	Challenge_Challenge2_RepairWeapon = "Reparar Arma",
+	-- Menu de Armas
+	Challenge_Challenge2_Health = "Condição",
 
-	Challenge_OpeningHoursInfoBox = " <CENTRE> O shopping abre as 9 da manhã. <LINE> <LINE> Se prepare pela horda...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> Em três dias o inverno incessante vai começar. <LINE> <LINE> Se agasalhe...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Em 24 horas a sua viagem de volta à Knox County vai se tornar o inferno na terra...",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> Tempo ruim sem fim à frente...",
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> Tá ficando nublado...",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> O shopping abre às 9 horas da manhã. <LINE> <LINE> Se prepare para a multidão...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Em três dias o inverno interminável começará. <LINE> <LINE> Se agasalhe bem...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Em 24 horas sua viagem de volta para Knox County se tornará o inferno na Terra...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Tempo ruim interminável à frente...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Está ficando nebuloso...",
 }

@@ -1,27 +1,28 @@
 MultiStageBuild_PTBR = {
     -- Parede de Madeira
-    MultiStageBuild_CreateWoodenWall_1 = "Criar Parede de Madeira Nvl 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Melhorar Parede de Madeira Nvl 1 para o Nvl 2",
-    MultiStageBuild_CreateWoodenWall_2 = "Criar Parede de Madeira Nvl 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Melhorar Parede de Madeira Nvl 1 para o Nvl 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Melhorar Parede de Madeira Nvl 2 para o Nvl 3",
-    MultiStageBuild_CreateWoodenWall_3 = "Criar Parede de Madeira Nvl 3",
+    MultiStageBuild_CreateWoodenWall_1 = "Criar Parede de Madeira Nível 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Aprimorar Parede de Madeira Nível 1 para o Nível 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Criar Parede de Madeira Nível 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Aprimorar Parede de Madeira Nível 1 para o Nível 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Aprimorar Parede de Madeira Nível 2 para o Nível 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Criar Parede de Madeira Nível 3",
     -- Janela de Madeira
-    MultiStageBuild_CreateWoodenWindow_1 = "Criar Janela de Madeira Nvl 1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Melhorar Janela de Madeira Nvl para o Nvl 2",
-    MultiStageBuild_CreateWoodenWindow_2 = "Criar Janela de Madeira Nvl 2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Melhorar para Janela de Madeira Nvl 3",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Melhorar Janela de Madeira Nv2 para o Nvl 3",
-    MultiStageBuild_CreateWoodenWindow_3 = "Criar Janela de Madeira Nvl 3",
+    MultiStageBuild_CreateWoodenWindow_1 = "Criar Janela de Madeira Nível 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Aprimorar Janela de Madeira Nível 1 para o Nível 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Criar Janela de Madeira Nível 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Aprimorar Janela de Madeira Nível 1 para o Nível 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Aprimorar Janela de Madeira Nível 2 para o Nível 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Criar Janela de Madeira Nível 3",
     -- Parede de Metal
-    MultiStageBuild_CreateMetalWall_1 = "Criar Parede de Metal Nvl 1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Melhorar Parede de Metal Nvl para o Nvl 2",
-    MultiStageBuild_CreateMetalWall_2 = "Criar Parede de Metal Nvl 2",
+    MultiStageBuild_CreateMetalWall_1 = "Criar Parede de Metal Nível 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Aprimorar Parede de Metal Nível 1 para o Nível 2",
+    MultiStageBuild_CreateMetalWall_2 = "Criar Parede de Metal Nível 2",
     -- Janela de Metal
-    MultiStageBuild_CreateMetalWindow_1 = "Criar Janela de Metal Nvl 1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Melhorar Janela de Metal Nvl para o Nvl 2",
-    MultiStageBuild_CreateMetalWindow_2 = "Criar Janela de Metal Nvl 2",
-    -- Moldura de Porta
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Melhorar Moldura de Porta Nvl para o Nvl 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Melhorar Moldura de Porta Nv2 para o Nvl 3",
+    MultiStageBuild_CreateMetalWindow_1 = "Criar Janela de Metal Nível 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Aprimorar Janela de Metal Nível 1 para o Nível 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Criar Janela de Metal Nível 2",
+    -- Moldura de Porta de Madeira
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Aprimorar Moldura de Porta de Madeira Nível 1 para o Nível 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Aprimorar Moldura de Porta de Madeira Nível 2 para o Nível 3",
 }
+
