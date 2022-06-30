@@ -37,7 +37,7 @@ Tooltip_TH = {
 	Tooltip_literature_HasBeenRead = "**คุณได้อ่านเล่มนี้ไปแล้ว**",
 	Tooltip_literature_AlreadyKnown = "ได้เรียนรู้ความรู้บางอย่างจากอาชีพ หรือคุณลักษณะไปแล้ว",
 	Tooltip_item_TwoHandWeapon = "ใช้งานได้เต็มประสิทธิภาพเมื่อถือสองมือ",
-	-- Crafting tooltip
+	-- Item tooltip
 	Tooltip_craft_barElementDesc = "โต๊ะบาร์ไม้ สำหรับเก็บเครื่องดื่มของคุณ ",
 	Tooltip_craft_woodenStakeDesc = "หมุดไม้ สำหรับขึงรั้วลวดหนาม ",
 	Tooltip_craft_Needs = "ต้องการ",
@@ -295,4 +295,5 @@ Tooltip_TH = {
 	Tooltip_BookTitle_5 = "%1ระดับสูง",
 	Tooltip_BookTitle_7 = "%1ระดับผู้เชี่ยวชาญ",
 	Tooltip_BookTitle_9 = "%1ระดับมืออาชีพ",
+	Tooltip_item_Watermelon = "ต้องหั่นหรือทุบก่อนถึงจะกินได้",
 }
