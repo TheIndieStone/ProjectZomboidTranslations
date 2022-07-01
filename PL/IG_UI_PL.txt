@@ -1589,4 +1589,6 @@ IG_UI_PL = {
 	IGUI_MapOption_PlayerNames = "Imiona graczy",
 	IGUI_MapOption_RemotePlayers = "Gracze zdalni",
 	IGUI_MapOption_Symbols = "Symbole",
+	
+	IGUI_PlayerText_ItemNameTooLong = "Nazwa nie może być dłuższa niż %1 znaków.",
 }

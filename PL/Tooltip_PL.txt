@@ -293,4 +293,10 @@ Tooltip_PL = {
     Tooltip_weapon_Stock = "Kolba",
     Tooltip_weapon_Type = "Rodzaj",
     Tooltip_weapon_Unusable_at_max_exertion = "Nie można używać przy maksymalnym wysiłku.",
+	
+	Tooltip_food_Slice = "Pokrój",
+	Tooltip_item_OnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.",
+	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.<br>Naczynie wystawione na deszcz będzie zbierało deszczówkę.",
+	Tooltip_item_Watermelon = "Wymaga pokrojenia lub rozbicia przed spożyciem.",
+	Tooltip_item_NeedsSliced = "Wymaga pokrojenia przed dodaniem do większości przepisów.",
 }
