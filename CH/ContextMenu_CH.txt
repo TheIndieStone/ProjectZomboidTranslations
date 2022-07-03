@@ -487,4 +487,5 @@ ContextMenu_CH = {
     ContextMenu_Yourself = "自己",
     ContextMenu_or = "或",
     Puddle = "水坑",
+    ContextMenu_FoodType_Pepper = "椒類"
 }
