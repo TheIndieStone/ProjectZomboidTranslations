@@ -1,5 +1,5 @@
 Tooltip_PL = {
-    Tooltip_AddPaddingToAll = "Dodaj łatkę do każdej części ubioru bez dziur:",
+    Tooltip_AddPaddingToAll = "Dodaje łatki do każdej części ubioru bez dziur:",
     Tooltip_AlcoholBandage = "Używane do dezynfekcji ran i zapobiegania infekcji.",
     Tooltip_AmmoStrap = "Skraca czas przeładowania broni.",
     Tooltip_AndNMore = "... i %1 więcej",
@@ -12,7 +12,7 @@ Tooltip_PL = {
     Tooltip_BedType_goodBed = "wysoka",
     Tooltip_Bellows = "Użyj na kamiennym piecu, aby podnieść temperaturę w palenisku.",
     Tooltip_BiteDefense = "Obrona przed ugryzieniem",
-    Tooltip_BlackSage = "Zapewnia lekkie uśmieżenie bólu.",
+    Tooltip_BlackSage = "Zapewnia lekkie uśmierzenie bólu.",
     Tooltip_BrokenRod = "Możliwa jest doraźna naprawa.<br>Użyj spinacza do papieru lub gwoździa oraz dratwy lub żyłki wędkarskiej.",
     Tooltip_BulletDefense = "Ochrona przed pociskami",
     Tooltip_CanBeAttached = "Można zamontować na: ",
@@ -89,7 +89,7 @@ Tooltip_PL = {
     Tooltip_OpenClose = "Użyj klawisza %1, aby wykonać tę czynność.",
     Tooltip_OpenCloseCurtains = "Klawiatura: Wciśnij SHIFT-%1<br>Myszka: SHIFT-LPM.",
     Tooltip_Padlock = "Używana do zamykania pojemników. Dzięki niej bezpiecznie przechowasz przedmioty.",
-    Tooltip_Painkillers = "Uśmieżają ból.",
+    Tooltip_Painkillers = "Uśmierzają ból.",
     Tooltip_Paint = "Używana do malowania zagipsowanych ścian. Wymaga pędzla.",
     Tooltip_PatchAllHoles = "Załataj wszystkie dziury:",
     Tooltip_PickUpCurtains = "Możesz także zdjąć zasłony, korzystając z opcji podnoszenia mebli.",
@@ -293,4 +293,10 @@ Tooltip_PL = {
     Tooltip_weapon_Stock = "Kolba",
     Tooltip_weapon_Type = "Rodzaj",
     Tooltip_weapon_Unusable_at_max_exertion = "Nie można używać przy maksymalnym wysiłku.",
+	
+	Tooltip_food_Slice = "Pokrój",
+	Tooltip_item_OnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.",
+	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.<br>Naczynie wystawione na deszcz będzie zbierało deszczówkę.",
+	Tooltip_item_Watermelon = "Wymaga pokrojenia lub rozbicia przed spożyciem.",
+	Tooltip_item_NeedsSliced = "Wymaga pokrojenia przed dodaniem do większości przepisów.",
 }
