@@ -406,4 +406,8 @@ Recipes_PL = {
 	Recipe_Slice_Baloney = "Pokrój kiełbasę bolońską",
 	Recipe_Slice_Pizza = "Pokrój pizzę",
 	Recipe_Slice_Salami = "Pokrój salami",
+	
+	Make Pizza = "Zrób pizzę",
+	Prepare Sweet Pie = "Zrób słodki placek",
+	Prepare Beverage2 = "Zrób napój",
 }
