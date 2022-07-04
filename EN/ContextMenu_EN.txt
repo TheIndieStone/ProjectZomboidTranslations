@@ -234,7 +234,8 @@ ContextMenu_EN = {
     ContextMenu_EvolvedRecipe_Salad = "Salad",
     ContextMenu_EvolvedRecipe_FruitSalad = "Fruit Salad",
     ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
-    ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
+    ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4", 
+    -- %1 = Ingredient, %2 = Evolved Recipe Name, %3 = with, %4 = Spices
     ContextMenu_EvolvedRecipe_and = "and",
     ContextMenu_EvolvedRecipe_comma = ",",
     ContextMenu_EvolvedRecipe_with = "with",
