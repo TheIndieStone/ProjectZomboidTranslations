@@ -562,7 +562,6 @@ IG_UI_ES = {
 	IGUI_PlayerText_Callout3New = "ˇEH TÚ!",
 	IGUI_PlayerText_Callout3Sneak = "hey",
 	IGUI_PlayerText_CalloutTutorial = "ˇOye! ˇEstoy aquí!",
-	IGUI_PlayerText_CanNotExitFromMovingCar = "No se puede salir del vehículo en movimiento.",
 	IGUI_PlayerText_CanNotSleepInMovingCar = "Detén el coche primero.",
 	IGUI_PlayerText_DontGet = "No lo pillo...",
 	IGUI_PlayerText_DontUnderstand = "No lo entiendo...",

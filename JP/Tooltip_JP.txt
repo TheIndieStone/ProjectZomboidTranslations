@@ -295,4 +295,5 @@ Tooltip_JP = {
     Tooltip_BookTitle_5 = "上級者の%1講座",
     Tooltip_BookTitle_7 = "熟練者の%1",
     Tooltip_BookTitle_9 = "匠の%1",
+	Tooltip_item_Watermelon = "食べる前にスライスしたり潰す必要があります。",
 }

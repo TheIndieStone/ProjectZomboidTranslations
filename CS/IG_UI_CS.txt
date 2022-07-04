@@ -679,7 +679,6 @@ IG_UI_CS = {
     IGUI_PlayerText_Callout3New = "HEJ TY!",
     IGUI_PlayerText_Callout3Sneak = "hej",
     IGUI_PlayerText_CalloutTutorial = "Hej! Jsem tady!",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "Nemůžeš opustit vozidlo, které je v pohybu.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Nejprve zastav vozidlo.",
     IGUI_PlayerText_Cough = "Ehm!",
     IGUI_PlayerText_CoughMuffled = "fmmph!",

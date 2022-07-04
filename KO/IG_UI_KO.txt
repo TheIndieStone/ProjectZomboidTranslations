@@ -872,7 +872,6 @@ IGUI_KO = {
 	IGUI_Scrap = "해체",
 	IGUI_Map_ChooseSymbol = "기호 고르기",
 	IGUI_VehicleSeat_MoveItems = "이 좌석에 있는 아이템들은 다른 좌석으로 이동됩니다.",
-	IGUI_PlayerText_CanNotExitFromMovingCar = "움직이고 있는 차량에서 나올 수 없습니다.",
 	IGUI_ConfirmLeaveGame = "게임을 그만 두시겠습니까?",
 	IGUI_PlayerText_DoorBarricaded = "문이 판자로 막혀있다.",
 	IGUI_PlayerText_DoorBlocked = "문이 막혀있다.",

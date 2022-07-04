@@ -683,7 +683,6 @@ IG_UI_CH = {
     IGUI_PlayerText_Callout3New = "喂! 就是你! ",
     IGUI_PlayerText_Callout3Sneak = "嘿",
     IGUI_PlayerText_CalloutTutorial = "嘿! 我在這! ",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "你不能離開行駛中的車輛. ",
     IGUI_PlayerText_CanNotSleepInMovingCar = "請先停車. ",
     IGUI_PlayerText_Cough = "咳咳! ",
     IGUI_PlayerText_CoughMuffled = "姆嗯!",

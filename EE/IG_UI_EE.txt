@@ -867,7 +867,6 @@ IGUI_EE = {
     IGUI_VehicleLightbar_WALL = "WALL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Seat Occupied",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "I can not get out of a moving car.",
     IGUI_ConfirmLeaveGame = "Leave game?",
     IGUI_AdminPanel_AdminPower = "Edit your Admin Powers",
     IGUI_AdminPanel_TooltipEditAdminPower = "Change your admin power such as being invisible, unlimited carry, unlimited carpentry, etc.",

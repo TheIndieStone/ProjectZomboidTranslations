@@ -297,4 +297,5 @@ Tooltip_RU = {
     Tooltip_BookTitle_5 = "%1 для продвинутых",
     Tooltip_BookTitle_7 = "%1 для экспертов",
     Tooltip_BookTitle_9 = "%1 для мастеров",
+	Tooltip_item_Watermelon = "Чтобы съесть, необходимо нарезать или разбить.",
 }
