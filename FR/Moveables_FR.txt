@@ -453,6 +453,7 @@ Moveables_FR = {
     March_Ridge_Road_Sign = "Panneau de signalisation March Ridge",
     Margarite_Painting = "Tableau d'une Marguerite",
     McFudgingtons_Sign = "Panneau 'McFudgingtons'",
+    Medical_Desk = "Bureau médical",
     Medical_Mirror = "Miroir médical",
     Medical_Stool = "Tabouret médical",
     Medical_Tool_Drawers = "Servante à outils médicaux",
@@ -811,5 +812,4 @@ Moveables_FR = {
     Zippee_Market_Sign = "Panneau Zippee",
     Zippee_Shelves_Rack = "Étagères en rang du Zippee",
     Zippee_Wall_Shelves = "Étagères murales du Zippee",
-
 }
