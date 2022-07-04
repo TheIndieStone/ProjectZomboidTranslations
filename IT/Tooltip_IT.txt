@@ -247,6 +247,7 @@ Tooltip_IT = {
     Tooltip_BookTitle_5 = "Avanzato %1",
     Tooltip_BookTitle_7 = "Esperto %1",
     Tooltip_BookTitle_9 = "Maestro %1",
+	Tooltip_item_Watermelon = "Deve essere affettato o frantumato prima di poter essere mangiato.",
     Tooltip_lightFireNoStick = "Richiede un ramo o un bastone per accendere il fuoco",
     Tooltip_literature_AlreadyKnown = "Alcune ricette conosciute a causa di tratti o professione",
     Tooltip_literature_Boredom_Reduction = "Riduzione noia",

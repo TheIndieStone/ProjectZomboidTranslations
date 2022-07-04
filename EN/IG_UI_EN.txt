@@ -558,6 +558,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_PlayerText_VehicleSeatRemoved = "The seat is missing.",
     IGUI_PlayerText_DoorBarricaded = "The door is barricaded.",
     IGUI_PlayerText_DoorBlocked = "The door is blocked.",
+    IGUI_PlayerText_ItemNameTooLong = "Name cannot be longer than %1 characters.",
 
     IGUI_GamePaused = "- Game Paused -",
     IGUI_UnknownBerry = "Unknown Berry",
@@ -688,7 +689,6 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> First things first: you can zoom
     IGUI_ConfirmSleep = "Are you sure you want to sleep?",
     IGUI_invpage_Transfer_all = "Transfer All",
     IGUI_InfoPanel_Inventory = "<CENTRE> <SIZE:large> Welcome to Project Zomboid! <LINE> <LINE> <SIZE:medium>Shortly you'll find yourself dying horribly. No-one will mourn you, and you will be swiftly forgotten. Everything will have been for nothing. <LINE> <LINE> So let's make sure you go out fighting! <LINE> <LINE> (Press Space to continue)",
-    IGUI_ServerToolBox_AdminPanel = "PRESS ESC TO OPEN ADMIN PANEL",
     IGUI_ServerToolBox_Title = "Server Toolbox",
     IGUI_ServerToolBox_ExternalIP = "Your external IP: %1",
     IGUI_ServerToolBox_IPUnknown = "Unknown (no router?)",

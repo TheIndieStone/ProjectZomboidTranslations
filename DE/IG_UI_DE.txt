@@ -682,7 +682,6 @@ IG_UI_DE = {
     IGUI_PlayerText_Callout3New = "HEY DU!",
     IGUI_PlayerText_Callout3Sneak = "hey",
     IGUI_PlayerText_CalloutTutorial = "Hallo! Ich bin hier!",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "Ich kann nicht aus einem fahrenden Auto aussteigen.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Halte das Auto zuerst an.",
     IGUI_PlayerText_Cough = "Husten!",
     IGUI_PlayerText_CoughMuffled = "fmmmph!",

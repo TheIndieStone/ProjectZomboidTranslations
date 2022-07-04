@@ -1199,7 +1199,6 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
     IGUI_VehicleLightbar_WAIL = "WAIL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Seient ocupat",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "No es pot eixir d'un vehicle en moviment.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Apaga el cotxe primer.",
     IGUI_ConfirmLeaveGame = "Deixar el joc?",
     IGUI_AdminPanel_AdminPower = "Edita els teus poders d'admin",

@@ -243,6 +243,7 @@ Tooltip_TR = {
     Tooltip_item_Temperature = "Sıcaklık",
     Tooltip_item_TwoHandWeapon = "İki elle kullanıldığında tam etkili.",
     Tooltip_item_Unequipped = "Kuşanılmamış",
+    Tooltip_item_Watermelon = "Yenilmeden Önce Ezilmesi veya Dilimlenmesi Gerekiyor",
     Tooltip_item_Waterresist = "Su Direnci",
     Tooltip_item_Weight = "Ağırlık",
     Tooltip_item_Windresist = "Rüzgar Direnci",
