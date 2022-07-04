@@ -299,4 +299,6 @@ Tooltip_PL = {
 	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.<br>Naczynie wystawione na deszcz będzie zbierało deszczówkę.",
 	Tooltip_item_Watermelon = "Wymaga pokrojenia lub rozbicia przed spożyciem.",
 	Tooltip_item_NeedsSliced = "Wymaga pokrojenia przed dodaniem do większości przepisów.",
+	
+	Tooltip_food_SlightDanger_uncooked = "Nieprzygotowane może spowodować chorobę lub nudności.",
 }
