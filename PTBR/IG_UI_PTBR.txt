@@ -558,7 +558,7 @@ IGUI_PTBR = {
     IGUI_PlayerText_VehicleSeatRemoved = "O assento está faltando.",
     IGUI_PlayerText_DoorBarricaded = "A porta está barricada.",
     IGUI_PlayerText_DoorBlocked = "A porta está bloqueada.",
-    IGUI_PlayerText_ItemNameTooLong = "Name cannot be longer than %1 characters.",
+    IGUI_PlayerText_ItemNameTooLong = "O nome não pode ser maior que %1 caracteres.",
 
     IGUI_GamePaused = "- Jogo Pausado -",
     IGUI_UnknownBerry = "Fruto Desconhecido",
