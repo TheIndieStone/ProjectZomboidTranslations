@@ -449,6 +449,7 @@ Moveables_TH = {
     March_Ridge_Road_Sign = "ป้าย March Ridge Road",
     Margarite_Painting = "ภาพวาด Margarite",
     McFudgingtons_Sign = "ป้าย Mama McFudgington",
+    Medical_Desk = "โต๊ะแพทย์",
     Medical_Mirror = "กระจกแพทย์",
     Medical_Stool = "ม้านั่งแพทย์",
     Medical_Tool_Drawers = "ลิ้นชักเก็บเครื่องมือแพทย์",
