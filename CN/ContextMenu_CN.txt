@@ -507,6 +507,7 @@ ContextMenu_CN = {
 	ContextMenu_FoodType_Wine = "葡萄酒",
 	ContextMenu_FoodType_Nut = "坚果",
 	ContextMenu_FoodType_Herb = "草药",
+	ContextMenu_FoodType_Pepper = "胡椒"
 	
 	----------
 	
