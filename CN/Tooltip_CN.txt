@@ -295,4 +295,5 @@ Tooltip_CN = {
     Tooltip_BookTitle_5 = "%1 适合高级",
     Tooltip_BookTitle_7 = "%1 适合专家",
     Tooltip_BookTitle_9 = "%1 适合大师",
+	Tooltip_item_Watermelon = "必须先切片或捣碎才能食用.",
 }
