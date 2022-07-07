@@ -295,4 +295,5 @@ Tooltip_CA = {
     Tooltip_BookTitle_5 = "%1 nivell avançat",
     Tooltip_BookTitle_7 = "%1 nivell expert",
     Tooltip_BookTitle_9 = "%1 nivell professional", 
+    Tooltip_item_Watermelon = "S'ha de tallar o rebentar abans de poder menjar-lo.",
 }
