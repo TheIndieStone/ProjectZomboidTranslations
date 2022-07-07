@@ -452,6 +452,7 @@ Moveables_IT = {
     March_Ridge_Road_Sign = "Segnale stradale di March Ridge",
 	Margarite_Painting = "Quadro Margarite",
     McFudgingtons_Sign = "Insegna di Mama McFudgington",
+	Medical_Desk = "Bancone medico",
     Medical_Mirror = "Specchio medico",
     Medical_Stool = "Sgabello in metallo",
     Medical_Tool_Drawers = "Cassetti per attrezzi medici",

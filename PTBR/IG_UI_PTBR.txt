@@ -558,6 +558,7 @@ IGUI_PTBR = {
     IGUI_PlayerText_VehicleSeatRemoved = "O assento está faltando.",
     IGUI_PlayerText_DoorBarricaded = "A porta está barricada.",
     IGUI_PlayerText_DoorBlocked = "A porta está bloqueada.",
+    IGUI_PlayerText_ItemNameTooLong = "O nome não pode ser maior que %1 caracteres.",
 
     IGUI_GamePaused = "- Jogo Pausado -",
     IGUI_UnknownBerry = "Fruto Desconhecido",
@@ -688,7 +689,6 @@ IGUI_PTBR = {
     IGUI_ConfirmSleep = "Você tem certeza que quer dormir?",
     IGUI_invpage_Transfer_all = "Transferir Tudo",
     IGUI_InfoPanel_Inventory = "<CENTRE> <SIZE:large> Bem-vindo ao Project Zomboid! <LINE> <LINE> <SIZE:medium>Em breve, você morrerá horrivelmente. Ninguém vai chorar por você, e você será rapidamente esquecido. Tudo terá sido em vão! <LINE> <LINE> Então vamos garantir que você saia lutando! <LINE> <LINE> (Pressione Espaço para continuar)",
-    IGUI_ServerToolBox_AdminPanel = "PRESSIONE ESC PARA ABRIR O PAINEL DE ADMINISTRADOR",
     IGUI_ServerToolBox_Title = "Ferramentas do Servidor",
     IGUI_ServerToolBox_ExternalIP = "Seu IP externo: %1",
     IGUI_ServerToolBox_IPUnknown = "Desconhecido (sem roteador?)",

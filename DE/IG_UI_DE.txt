@@ -785,7 +785,7 @@ IG_UI_DE = {
     IGUI_SafehouseUI_Owner = "Eigentümer:",
     IGUI_SafehouseUI_Players = "Erlaubte Spieler",
     IGUI_SafehouseUI_Pos = "Versteck Position: ",
-    IGUI_SafehouseUI_Pos2 = "x",
+    IGUI_SafehouseUI_Pos2 = "x=%1 y=%2",
     IGUI_SafehouseUI_QuitFaction = "Gruppe verlassen",
     IGUI_SafehouseUI_QuitSafeConfirm = "Bist du dir wirklich sicher, dass du dieses Versteck aufgeben willst?",
     IGUI_SafehouseUI_QuitSafehouse = "Versteck aufgeben",
@@ -1533,4 +1533,12 @@ IG_UI_DE = {
     IGUI_perks_Trapping = "Fallenstellen",
     IGUI_perks_Woodwork = "Tischlerei",
     IGUI_skills_Multiplier = "Multiplikator: %1",
+    IGUI_PlayerText_ItemNameTooLong = "Name kann nicht länger als %1 Zeichen sein",
+	IGUI_ComposterHasCompost = "Enthält Kompost.",
+	IGUI_Moveables_FloorAtTopOfStairs = "Am oberen Ende der Treppe befindet sich Boden.",
+	IGUI_MapOption_Players = "Spieler",
+	IGUI_MapOption_PlayerNames = "Spielernamen",
+	IGUI_MapOption_RemotePlayers = "Entfernte Spieler",
+	IGUI_MapOption_Symbols = "Symbole",
+
 }
