@@ -451,6 +451,7 @@ Moveables_CN = {
     March_Ridge_Road_Sign = "三月岭路标",
     Margarite_Painting = "玛格丽特绘画",
     McFudgingtons_Sign = "麦克福金顿妈妈的标牌",
+	Medical_Desk = "医用桌",
     Medical_Mirror = "医用镜",
     Medical_Stool = "金属凳",
     Medical_Tool_Drawers = "医疗工具抽屉",
