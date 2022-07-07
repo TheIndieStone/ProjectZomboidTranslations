@@ -808,7 +808,7 @@ UI_TH = {
     UI_WorkshopSubmit_BtnOpenWorkshopOverlay = "เปิดเวิร์กชอปทั้งหมด",
     UI_WorkshopSubmit_BtnOpenWorkshopUserOverlay = "เปิดเวิร์กชอปของฉัน",
     UI_WorkshopSubmit_BtnViewSubscriptions = "ดูเฉพาะที่สมัครไว้",
-    UI_WorkshopSubmit_BtnCreateAndUpdate = "สร้าง และอัปเดทม็อด",
+    UI_WorkshopSubmit_BtnCreateAndUpdate = "สร้าง และอัปเดตม็อด",
     -- Main screen (lua) :
     UI_WorkshopError_IOError = "เกิดข้อผิดพลาดที่ไม่คาดคิด",
     UI_WorkshopError_MissingContents = "ไม่มีโฟลเดอร์ Contents/ ในแฟ้มที่คุณเลือก\nทุกไฟล์ และโฟลเดอร์ที่จะอัปโหลดจะต้องอยู่ในโฟลเดอร์ Contents/",
@@ -841,7 +841,7 @@ UI_TH = {
     UI_WorkshopServerItemState_FileSize = "ขนาดไฟล์ %1 MB",
     UI_WorkshopServerItemState_NotSubscribed = "ไม่ได้สมัคร",
     UI_WorkshopServerItemState_Downloading = "กำลังดาวน์โหลด",
-    UI_WorkshopServerItemState_NeedsUpdate = "ต้องทำการอัพเดท",
+    UI_WorkshopServerItemState_NeedsUpdate = "ต้องทำการอัปเดต",
     UI_WorkshopServerItemState_Installed = "ติดตั้งแล้ว",
     UI_WorkshopServerItemState_Error = "ผิดพลาด",
     UI_trait_Herbalist = "ผู้เชี่ยวชาญด้านสมุนไพร",
