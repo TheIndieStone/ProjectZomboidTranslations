@@ -507,4 +507,5 @@ ContextMenu_CA = {
     ContextMenu_FoodType_Wine = "Vi",
     ContextMenu_FoodType_Nut = "Fruita seca",
     ContextMenu_FoodType_Herb = "Herba",
+    ContextMenu_FoodType_Pepper = "Pebre"
 } 
