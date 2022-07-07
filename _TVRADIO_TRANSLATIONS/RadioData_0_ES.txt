@@ -5,7 +5,7 @@
 	guid = b73aa63e-6286-4c32-9e48-3b0024c22b51
 	language = ES
 	translator = ditoseadio
-	revision = NoTeaParty
+	translator = NoTeaParty
 [/Info]
 
 [Translations]
@@ -13607,7 +13607,7 @@
 	68b1fee8-5fd9-4166-a9ff-43331eae097d = Soy una vaca.
 
 	//4532. ORIGINAL: I am here to tell you something mooo-tiful.
-	d4728e21-11bf-4100-9e0d-bede68c4cf9c = Estoy aquí para hablarles sobre algo delicioso.
+	d4728e21-11bf-4100-9e0d-bede68c4cf9c = Estoy aquí para hablarles sobre algo muuu-licioso.
 
 	//4533. ORIGINAL: Something... ice creamy.
 	d6fbe118-d041-4958-9501-8abf24255a52 = Algo... helado.
@@ -13673,7 +13673,7 @@
 	b007b91a-52f6-4841-9060-cafffdb5be5a = ¡Auténtica cocina inglesa!
 
 	//4554. ORIGINAL: Try our new Biscuit and Gravy menu!
-	15e6f9df-6254-42ba-9b93-1197880cc88a = ¡Prueba nuestra nuevo menú, galleta con salsa!
+	15e6f9df-6254-42ba-9b93-1197880cc88a = ¡Prueba nuestro nuevo menú, galleta con salsa!
 
 	//4555. ORIGINAL: Bottomless iced tea!
 	e9408199-ae4e-4da6-89b1-bb72a548e748 = ¡Interminable té helado!
