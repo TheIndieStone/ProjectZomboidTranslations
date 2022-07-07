@@ -235,6 +235,7 @@ ContextMenu_CA = {
     ContextMenu_EvolvedRecipe_FruitSalad = "Ensalada de fruita",
     ContextMenu_EvolvedRecipe_RecipeName = "%2 de %1",
     ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
+    -- %1 = Ingredient, %2 = Nom de la recepta, %3 = amb, %4 = espècies
     ContextMenu_EvolvedRecipe_and = "i",
     ContextMenu_EvolvedRecipe_comma = ",",
     ContextMenu_EvolvedRecipe_with = "amb",
