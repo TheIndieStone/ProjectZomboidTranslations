@@ -558,6 +558,7 @@ IGUI_CN = {
 	IGUI_PlayerText_VehicleSeatRemoved = "座位不见了.",
 	IGUI_PlayerText_DoorBarricaded = "门被封住了.",
 	IGUI_PlayerText_DoorBlocked = "门被挡住了.",
+	IGUI_PlayerText_ItemNameTooLong = "名称不能超过 %1 个字符.",
 
 	IGUI_GamePaused = "- 游戏暂停 -",
 	IGUI_UnknownBerry = "未知类型的浆果",
