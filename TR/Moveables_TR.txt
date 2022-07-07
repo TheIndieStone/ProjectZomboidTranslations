@@ -452,6 +452,7 @@ Moveables_TR = {
     March_Ridge_Road_Sign = "March Ridge Yolu Tabelası",
     Margarite_Painting = "Margarit Tablosu",
     McFudgingtons_Sign = "Mama McFudgington'nun Tabelası",
+    Medical_Desk = "Medikal Masa",
     Medical_Mirror = "Medikal Ayna",
     Medical_Stool = "Medikal Tabure",
     Medical_Tool_Drawers = "Tıbbi Alet Çekmecesi",

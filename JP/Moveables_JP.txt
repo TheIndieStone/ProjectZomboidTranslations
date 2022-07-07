@@ -451,6 +451,7 @@ Moveables_JP = {
 	March_Ridge_Road_Sign = "道路標識(マーチリッジ)",
 	Margarite_Painting = "絵画(真珠)",
 	McFudgingtons_Sign = "看板(Mama McFudgingtons)",
+	Medical_Desk = "医療用机",
 	Medical_Mirror = "医療用鏡",
 	Medical_Stool = "金属製スツール",
 	Medical_Tool_Drawers = "医療器具の引き出し",
