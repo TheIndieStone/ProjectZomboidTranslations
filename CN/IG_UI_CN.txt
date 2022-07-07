@@ -689,7 +689,6 @@ IGUI_CN = {
 	IGUI_ConfirmSleep = "确定想要睡觉吗?",
 	IGUI_invpage_Transfer_all = "转移全部",
 	IGUI_InfoPanel_Inventory = "<CENTRE> <SIZE:large> 欢迎来到僵尸毁灭工程! <LINE> <LINE> <SIZE:medium>不久你就会发现死亡的可怕. 没人会哀悼你, 甚至没人会记得你. 一切都将与你无关! <LINE> <LINE> 让我们来学习一些基本操作和生存知识! ",
-	IGUI_ServerToolBox_AdminPanel = "按下 ESC 键打开管理面板",
 	IGUI_ServerToolBox_Title = "服务器工具",
 	IGUI_ServerToolBox_ExternalIP = "你的外部IP: %1",
 	IGUI_ServerToolBox_IPUnknown = "位置 (无路由?)",
