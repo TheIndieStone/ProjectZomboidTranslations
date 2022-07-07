@@ -451,6 +451,7 @@ Moveables_PTBR = {
     March_Ridge_Road_Sign = "Placa de March Ridge",
     Margarite_Painting = "Quadro Margarita",
     McFudgingtons_Sign = "Placa Mama McFudgington's",
+    Medical_Desk = "Escrivaninha de Médico",
     Medical_Mirror = "Espelho Médico",
     Medical_Stool = "Assento de Metal",
     Medical_Tool_Drawers = "Cômoda de Instrumentos Médicos",

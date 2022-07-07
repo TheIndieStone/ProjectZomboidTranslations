@@ -1,5 +1,6 @@
 Tooltip_TH = {
 	-- Item tooltip
+	Tooltip_food_Slice = "หั่น",
 	Tooltip_food_Uncooked = "ดิบ",
 	Tooltip_food_Rotten = "เน่า",
 	Tooltip_food_Fresh = "สด",
@@ -12,7 +13,8 @@ Tooltip_TH = {
 	Tooltip_food_Stress = "ความเครียด",
 	Tooltip_food_Boredom = "ความน่าเบื่อ",
 	Tooltip_food_Unhappiness = "ความทุกข์ใจ",
-	Tooltip_food_Dangerous_uncooked = "ควรปรุงอาหารให้สุกก่อนกิน",
+	Tooltip_food_Dangerous_uncooked = "เป็นอันตรายหากกินแบบไม่สุก",
+	Tooltip_food_SlightDanger_uncooked = "อาจทำให้ป่วยหรือคลื่นไส้หากกินแบบไม่สุก",
 	Tooltip_tissue_tooltip = "สวมใส่เพื่อยับยั้งเสียงจาม และไอ",
 	Tooltip_item_StackWeight = "น้ำหนักรวม",
 	Tooltip_item_Weight = "น้ำหนัก",
@@ -21,6 +23,8 @@ Tooltip_TH = {
 	Tooltip_item_Temperature = "อุณหภูมิ",
 	Tooltip_item_Fatigue = "ความเหนื่อย",
 	Tooltip_item_TaintedWater = "น้ำปนเปื้อน ไม่ปลอดภัยที่จะดื่ม<br>ควรต้มให้เดือดก่อนดื่ม หรือนำไปปรุงอาหาร",
+	Tooltip_item_OnlyPurifyMicrowave = "สามารถทำให้ปลอดสารพิษได้ด้วยไมโครเวฟเท่านั้น",	
+    Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "สามารถทำให้ปลอดสารพิษได้ด้วยไมโครเวฟเท่านั้น<br>สามารถใช้รองน้ำฝนเมื่อวางบนพื้นในที่โล่งแจ้ง",
 	Tooltip_WaterUnlimited = "ไม่จำกัด",
 	Tooltip_weapon_Condition = "สภาพ",
 	Tooltip_weapon_Repaired = "ซ่อมแซม",
@@ -296,4 +300,5 @@ Tooltip_TH = {
 	Tooltip_BookTitle_7 = "%1ระดับผู้เชี่ยวชาญ",
 	Tooltip_BookTitle_9 = "%1ระดับมืออาชีพ",
 	Tooltip_item_Watermelon = "ต้องหั่นหรือทุบก่อนถึงจะกินได้",
+	Tooltip_item_NeedsSliced = "ต้องหั่นก่อนนำไปปรุงอาหาร",
 }
