@@ -236,7 +236,7 @@ Tooltip_DE = {
     Tooltip_item_MechanicMag2 = "Lehrreiches Handbuch mit Diagrammen und allgemeinen Wartungsaufgaben<br>für gängige Schwerlastmodelle.",
     Tooltip_item_MechanicMag3 = "Lehrreiches Handbuch mit Diagrammen und allgemeinen Wartungsaufgaben<br>für gängige moderne Sportwagenmodelle.",
     Tooltip_item_Radio = "Radio primär oder sekundär ausrüsten, um es zu bedienen.",
-    Tooltip_item_RainFromGround = "Kann zum auffangen von Regenwasser genutzt werden.",
+    Tooltip_item_RainFromGround = "Kann zum Auffangen von Regenwasser genutzt werden.",
     Tooltip_item_Spices = "Gewürze:",
     Tooltip_item_StackWeight = "Stapelgewicht",
     Tooltip_item_TaintedWater = "Verdorbenes Wasser",
@@ -293,4 +293,11 @@ Tooltip_DE = {
     Tooltip_weapon_Stock = "Schaft",
     Tooltip_weapon_Type = "Typ",
     Tooltip_weapon_Unusable_at_max_exertion = "Unbrauchbar bei maximaler Erschöpfung.",
+    Tooltip_food_Slice = "Schneiden",
+	Tooltip_food_SlightDanger_uncooked = "Kann ungekocht Krankheiten oder Übelkeit verursachen.",
+	Tooltip_item_OnlyPurifyMicrowave = "Der Inhalt kann nur in einer Mikrowelle desinfiziert werden.",
+	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Der Inhalt kann nur in einer Mikrowelle desinfiziert werden.<br>Kann zum Auffangen von Regenwasser genutzt werden.",
+	Tooltip_item_Watermelon = "Muss vor dem Verzehr geschnitten oder zerkleinert werden.",
+	Tooltip_item_NeedsSliced = "Muss vor der Zugabe zu den meisten Rezepten in Scheiben geschnitten werden.",
+
 }

@@ -392,6 +392,7 @@ Sandbox_CN = {
     Sandbox_RallyGroupSeparation_help = "群体之间的间距.",
     Sandbox_RallyGroupRadius_help = "一组成员与其组长之间站得有多近.",
     Sandbox_MinMaxDefault = "最小值=%1 最大值=%2 默认=%3",
+	Sandbox_Default = "默认=%1",
     Sandbox_ThumpNoChasing = "环境攻击",
     Sandbox_ThumpNoChasing_option1 = "启用",
     Sandbox_ThumpNoChasing_option2 = "禁用",

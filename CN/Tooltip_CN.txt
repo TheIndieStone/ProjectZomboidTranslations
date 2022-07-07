@@ -1,5 +1,6 @@
 Tooltip_CN = {
 	-- Item tooltip
+	Tooltip_food_Slice = "切片",
 	Tooltip_food_Uncooked = "未烹饪",
 	Tooltip_food_Rotten = "变质",
 	Tooltip_food_Fresh = "新鲜",
@@ -13,6 +14,7 @@ Tooltip_CN = {
 	Tooltip_food_Boredom = "无聊",
 	Tooltip_food_Unhappiness = "忧郁",
 	Tooltip_food_Dangerous_uncooked = "生吃危险",
+	Tooltip_food_SlightDanger_uncooked = "未烹饪会导致疾病和恶心.",
 	Tooltip_tissue_tooltip = "拿着可安静地打喷嚏和咳嗽.",
 	Tooltip_item_StackWeight = "堆叠重量",
 	Tooltip_item_Weight = "重量",
@@ -21,6 +23,8 @@ Tooltip_CN = {
 	Tooltip_item_Temperature = "温度",
 	Tooltip_item_Fatigue = "疲劳",
 	Tooltip_item_TaintedWater = "脏水.直接饮用不安全.<br>请煮沸.",
+	Tooltip_item_OnlyPurifyMicrowave = "只能用于微波炉.",	
+    Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "只能用于微波炉.<br>放置在户外可收集雨水",
 	Tooltip_WaterUnlimited = "无限",
 	Tooltip_weapon_Condition = "耐久",
 	Tooltip_weapon_Repaired = "修理次数",
@@ -295,5 +299,6 @@ Tooltip_CN = {
     Tooltip_BookTitle_5 = "%1 适合高级",
     Tooltip_BookTitle_7 = "%1 适合专家",
     Tooltip_BookTitle_9 = "%1 适合大师",
-    
+	Tooltip_item_Watermelon = "需要先切片或捣碎才能食用.",
+	Tooltip_item_NeedsSliced = "需要先切片才能作为配料添加.",
 }
