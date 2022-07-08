@@ -4543,8 +4543,8 @@ RM_77499616-3cff-4d7f-af56-0b1be430a770 = "I want to see the float parade at mid
 RM_b5723af6-19cb-40ad-96e4-f459dda7fe71 = "I want a big juicy Spiffo steak!"
 RM_49c8071a-85d3-413f-858b-899e08aa25f5 = "Alright kids. Have fun, and stick together!"
 RM_d9c2c448-63ce-4753-b52b-ed21e11754b4 = "Let's check out that crazy golf course, Barb..."
-RM_b4af00c6-6964-4ede-81a9-35ddce491000 = "โฮมวีดีโอ: ฟุตบอล มัลดรอจ์ ปะทะ เวสต์พอยต์"
-RM_b96a5c11-7aa8-4f40-9e62-ade900788080 = "ฟุตบอล มัลดรอจ์ ปะทะ เวสต์พอยต์"
+RM_b4af00c6-6964-4ede-81a9-35ddce491000 = "โฮมวีดีโอ: ฟุตบอล มัลโดรว ปะทะ เวสต์พอยต์"
+RM_b96a5c11-7aa8-4f40-9e62-ade900788080 = "ฟุตบอล มัลโดรว ปะทะ เวสต์พอยต์"
 RM_8c1618e7-3fb8-4f03-aed3-893bf0815241 = "...เคนซิงตันได้บอล..."
 RM_52e177ee-d870-4e7d-bb17-2674a132a2a8 = "...ส่งต่อไปให้เทรนตัน..."
 RM_48de09c7-a8bb-4492-b2bc-a30bb047ecca = "...เวสพอยต์ยังคงตั้งรับได้อย่างเหนียวแน่น..."
@@ -4552,7 +4552,7 @@ RM_bf8f800e-03d4-4223-8988-770f1439721f = "...โอ้โห เสียบห
 RM_68047ad7-d905-4284-a15d-b771fb791646 = "แน่นอนว่าต้องได้ใบเหลือง อ้าว กรรมการให้ใบแดงครับ"
 RM_12266f23-e75e-4a10-85d2-9df00d20cd3c = "วาห์เลจะเป็นคนยิงฟรีคิก"
 RM_3f67ad30-3eb6-4bdc-b24e-ec7c3c396c0f = "บอลพุ่งข้ามกำแพง..."
-RM_11c51533-7a76-4171-bd85-971d8c51bba1 = "เข้าไปแล้ว! เหลือเชื่อเลยครับ! มัลดรอจ์ขึ้นนำ 1-0!"
+RM_11c51533-7a76-4171-bd85-971d8c51bba1 = "เข้าไปแล้ว! เหลือเชื่อเลยครับ! มัลโดรวขึ้นนำ 1-0!"
 RM_e7b0ff5e-b3ae-4bbe-b8f9-a8f9e73a1a16 = "โฮมวีดีโอ: ฟุตบอล ริเวอร์ไซต์ ปะทะ เวสต์พอยต์"
 RM_626fe78b-f3ab-44e1-aa64-1fa5121b00b7 = "ฟุตบอล ริเวอร์ไซต์ ปะทะ เวสต์พอยต์"
 RM_e22cfbb0-26f2-4e2b-b54c-61d052b31b0b = "เดนตันถูกเปลี่ยนตัวลงมาในช่วงพักครึ่ง"
@@ -4685,8 +4685,8 @@ RM_d1e7805a-d27b-4649-b3ec-c3301ea54db3 = "...three pipes and four pieces of scr
 RM_0438473e-88a2-42eb-9f56-7df73041e830 = "...while keeping foxes, wolves or feral pigs out of your garden."
 RM_af29f072-87b7-48ce-a6c7-452f8ebb6cab = "For a free consultation and a catalog from Adefope Fencing..."
 RM_1bd61167-1405-4d87-a34d-a531beda3f69 = "...call the number on-screen now."
-RM_00755b75-b252-4ed8-8882-a90019dd8030 = "โฮมวีดีโอ: ชมรมภาพและเสียงมัลดรอจ์"
-RM_b38b884a-11e2-4b5e-b54e-954c02b0b870 = "มรมภาพและเสียงมัลดรอจ์"
+RM_00755b75-b252-4ed8-8882-a90019dd8030 = "โฮมวีดีโอ: ชมรมภาพและเสียงมัลโดรว"
+RM_b38b884a-11e2-4b5e-b54e-954c02b0b870 = "มรมภาพและเสียงมัลโดรว"
 RM_83051000-5e00-4a52-aa72-cbaec9396dce = "Hi there, fellow nerd! I'm Loretta Green..."
 RM_3410a741-9aa1-409a-a973-e0c8fa444d50 = "...and welcome to Muldraugh's best - and only - AV club!"
 RM_6a55bc49-b1dc-40e7-b1af-8e4a996ab0b4 = "Today we're talking about radio."
@@ -5059,30 +5059,30 @@ RM_d78ace77-5c5c-4ae9-9fbd-0b0b5c374d56 = "โฮมวีดีโอ: Kafka An
 RM_be0e74f5-0a36-49d3-b128-3c5deb9eb575 = "Kafka Animated - A Message from the Emperor"
 RM_2bffb67c-9ae1-40f9-90d3-de97525ff333 = "The emperor - it is said -sent to you, the one apart, the wretched subject..."
 RM_1cd44012-691a-48a3-847d-3de2a7be0f0d = "...the tiny shadow that fled far, far from the imperial sun, precisely to you..."
-RM_f951d59b-43ee-45ed-b16f-b9f8e1debde8 = "...he sent a message
+RM_a138ee73-3ca0-4add-800a-fb306a280add = "...he sent a message
 from his deathbed. He bade the messenger kneel..."
 RM_9b1351b9-9528-4e1e-a3cc-db8d20161e1b = "... by his bed, and whispered the message in his ear."
 RM_66e43f07-dbca-4c94-9092-acbaf9661d2a = "And before the entire spectatorship of his death..."
-RM_fed1bc3d-2247-422e-a58d-a59dd3b83c75 = "...all obstructing walls have been torn down and
+RM_02818dea-7af9-4eb0-96d9-bf5003a79cdc = "...all obstructing walls have been torn down and
 the great figures..."
 RM_65c47505-f270-4353-978e-9aa2791d53a5 = "...of the empire stand in a ring upon the broad, soaring exterior stairways."
 RM_14089cf0-997d-4c11-ac7d-2457b485d377 = "Before all these he dispatched the messenger."
-RM_91916bf6-e309-43a0-818b-008206958b36 = "The messenger set out at
+RM_0acee8eb-646d-469e-bef7-3d9bc5998e82 = "The messenger set out at
 once; a strong, an indefatigable man..."
-RM_46922bef-de86-4cc0-8e49-082c11e7d517 = "...thrusting forward now this arm, now the other,
+RM_b42f905c-e11c-48b0-a48f-6852cb92b86a = "...thrusting forward now this arm, now the other,
 he cleared a path..."
-RM_fef7f14c-45f1-4964-a92f-58e9399e8890 = "Every time he meets resistance he points to his
+RM_b83f74ec-24c1-40a2-bc40-a5968241120e = "Every time he meets resistance he points to his
 breast, which bears..."
 RM_967726bb-902f-4c77-b753-5539b3e7fd44 = "... the sign of the sun, and he moves forward easily, like no other."
 RM_1405f968-686f-426f-93ff-1f4d1bdb8cef = "But the crowds are so vast; their dwellings know no bounds."
 RM_0fb2c524-cc31-4df4-9ba5-258fb1c3304d = "How uselessly he toils; he is still forcing his way through the chambers..."
 RM_357a5f36-14bb-48f3-b61a-d85394204020 = "... of the innermost palace; never will he overcome them."
 RM_518a7045-c3cc-4bd5-bf69-67a0b43efa57 = "And were he to succeed at this, nothing would be gained:"
-RM_5cd2cfc1-541c-4ab5-bc71-1fe288198106 = "He would have to fight his
+RM_4ed80c9a-af44-4392-8c5a-6c3626cc6888 = "He would have to fight his
 way down the steps."
 RM_592b6a44-ef0f-44fd-8536-2f5b99aefe4e = "He would have to cross the courtyard and the second enclosing outer palace..."
 RM_0f1feb6c-6993-4bbd-b59a-25c635ef1f99 = "And again stairways and courtyards, and again a palace, and so on..."
-RM_4dd82f33-bff7-410f-865a-32b1efacae5d = "...through thousands
+RM_64880082-e990-464b-8fde-0ac99bb356b1 = "...through thousands
 of years..."
 RM_a32373c0-d2a7-428a-b4ff-a1cd4b39ad01 = "And if he were to burst out at last through the outermost gate..."
 RM_52f22dd7-3613-487f-98e3-fe76d9b0431b = "...but it can never, never happen..."
