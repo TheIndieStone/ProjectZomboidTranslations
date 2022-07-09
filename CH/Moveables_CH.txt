@@ -544,7 +544,7 @@ Moveables_CH = {
     SlurpBurp_Soda_Machine = "Slurp Burp 汽水機",
     Small_Bordeaux_Curtain = "小波爾多窗簾",
     Small_Chest = "小箱子",
-    Small_Chrome_Toaster = "小鍍鉻烤箱",
+    Small_Chrome_Toaster = "烤麵包機",
     Small_Clothes_Rack = "小晒衣架",
     Small_Crate = "小木箱",
     Small_Green_Curtain = "小綠色窗簾",
@@ -705,4 +705,5 @@ Moveables_CH = {
     Zippee_Market_Sign = "Zippee 超市招牌",
     Zippee_Shelves_Rack = "Zippee 貨架",
     Zippee_Wall_Shelves = "Zippee 壁架",
+    Medical_Desk = "醫療桌",
 }
