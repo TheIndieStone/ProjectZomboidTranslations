@@ -62,7 +62,7 @@ Recipes_CN = {
     Recipe_Fix_Fishing_Rod = "修理钓鱼竿",
     Recipe_Gather_Gunpowder = "收集火药",
     Recipe_Generator = "维护发电机",
-	Recipe_Get_6_Cookies = "获得6个蛋糕",
+	Recipe_Get_6_Cookies = "获得6个饼干",
     Recipe_Get_6_Muffin = "获得6个玛芬蛋糕",
     Recipe_Get_6_Muffins = "获得6个玛芬蛋糕",
     Recipe_Get_Bacon_Bits = "培根切块",
@@ -383,4 +383,17 @@ Recipes_CN = {
 	Recipe_Omelette = "制作煎蛋卷",
 	Recipe_Pancakes = "制作薄煎饼",
 	Recipe_Waffles = "制作华夫饼",
+	
+	
+	--Add Text--
+	
+	Recipe_Get_6_Biscuits = "取出软饼",
+	Recipe_Make_Chocolate_Cookie_Dough = "制作巧克力曲奇饼干",
+	Recipe_Make_Chocolate_Chip_Cookie_Dough = "制作巧克力曲奇",
+	Recipe_Make_Oatmeal_Cookie_Dough = "制作燕麦曲奇",
+	Recipe_Make_Shortbread_Cookie_Dough = "制作脆饼曲奇",
+	Recipe_Make_Sugar_Cookie_Dough = "制作糖饼干",
+	Recipe_Open_Condensed_Milk = "打开炼乳",
+
+	
 } 
