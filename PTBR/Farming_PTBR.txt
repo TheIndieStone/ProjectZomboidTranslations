@@ -9,7 +9,7 @@ Farming_PTBR = {
     Farming_Cabbages = "Repolho",
     -- Fase de Crescimento
     Farming_Seedling = "Germinando/Crescendo",
-    Farming_Young = "Jovem",
+    Farming_Young = "(Jovem)",
     Farming_Ready_for_Harvest = "Pronta para Colheita",
     Farming_In_bloom = "Florescendo",
     Farming_Seed-bearing = "Gerando Sementes",
