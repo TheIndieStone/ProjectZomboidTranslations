@@ -1461,4 +1461,6 @@ UI_CH = {
     UI_worldscreen_SavefileVehicle = "因為加入車輛所需的大量變更, 較早版本的存檔已不再相容.  <LINE> <LINE> 要繼續此遊戲的話: 使用 Steam 的 betas 功能下載未加入車輛的 Build 38.30 遊玩.  <LINE> <LINE> 存檔世界版本: %1 目前世界版本: %2",
     UI_worldscreen_SavefileVersion = "存檔世界版本: %1 <LINE> 目前世界版本: %2",
     UI_worldscreen_deletesave = "你確定要刪除該存檔嗎? ",
+    UI_ClothingType_Socks = "襪子",
+    UI_ServerOptionDesc_Replay = "Record and play replay for moving player. Use /replay "playername" -record|-play|-stop filename. Example: /replay user1 -record stadion.bin",
 }

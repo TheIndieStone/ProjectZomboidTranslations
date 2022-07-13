@@ -1259,7 +1259,7 @@ IG_UI_CH = {
     IGUI_VehicleNameSUVSmashedFront = "富蘭克林 全地形車",
     IGUI_VehicleNameSUVSmashedLeft = "富蘭克林 全地形車",
     IGUI_VehicleNameSUVSmashedRear = "富蘭克林 全地形車",
-    IGUI_VehicleNameSUVSmashedRight = "富蘭克林 全地形",
+    IGUI_VehicleNameSUVSmashedRight = "富蘭克林 全地形車",
     IGUI_VehicleNameSmallCar = "騎士 飛鏢",
     IGUI_VehicleNameSmallCar02 = "馬斯特森 地平線",
     IGUI_VehicleNameSportsCar = "騎士 珂賽特",
@@ -1586,4 +1586,6 @@ IG_UI_CH = {
     IGUI_perks_Trapping = "陷阱",
     IGUI_perks_Woodwork = "木工",
     IGUI_skills_Multiplier = "倍數: %1",
+    IGUI_Hair_Buffont = "蓬鬆髮型",
+    IGUI_PlayerText_ItemNameTooLong = "名稱長度不能超過 %1 字元.",
 }

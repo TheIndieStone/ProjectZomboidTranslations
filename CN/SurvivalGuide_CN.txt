@@ -12,7 +12,7 @@ SurvivalGuide_CN = {
                                     " <LINE> <H1> 交互菜单 <BR> <TEXT> 可以通过 鼠标右键 调出更详细的交互菜单, 例如制作. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> 时间 <BR> <TEXT> 想让游戏中时间加速(非单人游戏中), 右上角的加速按钮会有所帮助. 你可以使用控制快进来使得你静止不动或快速执行动作(如阅读或建造).  则以非常快的速度进行. 你也可以在搜刮储藏点后, 使用暂停来思考之后的行动. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> 地图 <BR> <TEXT> 按 <SPACE><KEY:Map><SPACE> 或点击左上角的地图图标打开你的地图. 当你在世界各地移动时, 你的地图会显示更多内容. 你可能还会在右下角有一个小地图. 按住 <SPACE><KEY:Map><SPACE> 可访问与地图相关的选项, 例如打开或关闭小地图. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项, 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
+                                    -- ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项, 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
                                     "<H1> 不要死 <BR> <TEXT> 任何时候都尽量不要死. <BR>",
 
 	SurvivalGuide_entrie2title = "#2 - 隐秘行动",
@@ -111,7 +111,7 @@ SurvivalGuide_CN = {
                                     " <LINE> <H1> 交互菜单 <BR> <TEXT> 可以通过按 <JOYPAD:XButton,28,28> 调出更详细的交互菜单. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> 时间 <BR> <TEXT> 想让游戏中时间加速(非单人游戏中), 可以按 <JOYPAD:Back,28,28> 使用环形菜单来加速. 你可以使用控制快进来使得你静止不动或快速执行动作(如阅读或建造). 你也可以在搜刮储藏点后, 使用暂停来思考之后的行动. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> 地图 <BR> <TEXT> 按住 <JOYPAD:DPadRight,28,28> 打开你的地图. 当你在世界各地移动时, 你的地图会显示更多内容. 你可能还会在右下角有一个小地图. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项. 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
+                                    -- ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项. 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
                                     "<H1> 不要死 <BR> <TEXT> 任何时候都尽量不要死. <BR>",
 
 	SurvivalGuide_Joypad_entrie2title = "#2 - 隐秘行动",
