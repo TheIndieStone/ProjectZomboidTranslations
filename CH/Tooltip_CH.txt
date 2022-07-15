@@ -293,4 +293,10 @@ Tooltip_CH = {
     Tooltip_BookTitle_5 = "進階%1",
     Tooltip_BookTitle_7 = "專家%1",
     Tooltip_BookTitle_9 = "大師%1",
+    Tooltip_food_Slice = "切片",
+    Tooltip_food_SlightDanger_uncooked = "未烹煮可能導致不適和嘔吐.",
+    Tooltip_item_OnlyPurifyMicrowave = "內容物只能使用微波爐消毒.",	
+    Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "內容物只能使用微波爐消毒.<br>放置於戶外地面時可收集雨水.",
+    Tooltip_item_Watermelon = "需要先切片或是砸碎才能食用.",
+    Tooltip_item_NeedsSliced = "需要先切片才能作為食材利用.",
 }
