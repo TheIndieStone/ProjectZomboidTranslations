@@ -1,5 +1,6 @@
 Tooltip_CA = {
 	-- Item tooltip
+	Tooltip_food_Slice = "Tallada",
 	Tooltip_food_Uncooked = "Cru",
 	Tooltip_food_Rotten = "Podrit",
 	Tooltip_food_Fresh = "Fresc",
@@ -13,6 +14,7 @@ Tooltip_CA = {
 	Tooltip_food_Boredom = "Avorriment",
 	Tooltip_food_Unhappiness = "Infelicitat",
 	Tooltip_food_Dangerous_uncooked = "Perillós cru",
+	Tooltip_food_SlightDanger_uncooked = "Pot causar malalties i nàusees cru.",
 	Tooltip_tissue_tooltip = "Equipa'l per a silenciar tos i esternuts.",
 	Tooltip_item_StackWeight = "Pes acumulat",
 	Tooltip_item_Weight = "Pes",
@@ -21,6 +23,8 @@ Tooltip_CA = {
 	Tooltip_item_Temperature = "Temperatura",
 	Tooltip_item_Fatigue = "Fatiga",
 	Tooltip_item_TaintedWater = "Aigua contaminada. No segura per a beure.<br>Esterilitza-la bollint-la amb una font de calor.",
+	Tooltip_item_OnlyPurifyMicrowave = "Només se'n pot purificar el contingut a un microones.",	
+    Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Només se'n pot purificar el contingut amb un microones.<br>Pot usar-se per a arreplegar aigua de pluja si es deixa a l'exterior.",
 	Tooltip_WaterUnlimited = "Il·limitat",
 	Tooltip_weapon_Condition = "Condició",
 	Tooltip_weapon_Repaired = "Reparat",
@@ -295,4 +299,6 @@ Tooltip_CA = {
     Tooltip_BookTitle_5 = "%1 nivell avançat",
     Tooltip_BookTitle_7 = "%1 nivell expert",
     Tooltip_BookTitle_9 = "%1 nivell professional", 
+    Tooltip_item_Watermelon = "S'ha de tallar o rebentar abans de poder menjar-lo.",
+	Tooltip_item_NeedsSliced = "S'ha de tallar abans d'afegir-se a la majoria de receptes.",
 }

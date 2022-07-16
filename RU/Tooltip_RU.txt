@@ -280,7 +280,7 @@ Tooltip_RU = {
     Tooltip_Charcoal_Logs = "Чтобы сделать древесный уголь: добавьте 5 бревен, после этого подожгите бочку зажигалкой и подождите.",
     Tooltip_Charcoal_Progression = "Прогресс угля",
     Tooltip_clothing_holes = "Дыры",
-	
+	Tooltip_food_SlightDanger_uncooked = "Употребление в сыром виде может вызвать тошноту",
 	Tooltip_CantPlaceFavoriteItems = "Избранные предметы не могут быть удалены из инвентаря.",
 	
 	Tooltip_BookTitle = "Название книги",

@@ -235,6 +235,7 @@ ContextMenu_EN = {
     ContextMenu_EvolvedRecipe_FruitSalad = "Fruit Salad",
     ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
     ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
+    ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
     ContextMenu_EvolvedRecipe_and = "and",
     ContextMenu_EvolvedRecipe_comma = ",",
     ContextMenu_EvolvedRecipe_with = "with",
@@ -535,4 +536,5 @@ ContextMenu_EN = {
     ContextMenu_NeedCooked = "Need to be cooked.",
     ContextMenu_ComboWasherDryer_SetModeWasher = "Set Mode: Washer",
     ContextMenu_ComboWasherDryer_SetModeDryer = "Set Mode: Dryer",
+    ContextMenu_FuelCapacity = "Item fuel capacity: ",
 } 

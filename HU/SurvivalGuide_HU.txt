@@ -12,7 +12,7 @@ SurvivalGuide_HU = {
                                     " <LINE> <H1> HELYI MENÜ <BR> <TEXT> A részletesebb interakció, mint például a gyártás, elérhető a Jobb EGÉRGOMB helyi menüjével. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> IDŐ <BR> <TEXT> Az idő általában repül a Project Zomboid-ban, de ha nem (és egyjátékos módban vagy), a jobb felső sarokban lévő vezérlők segítségedre lesznek. A vezérlőket különböző sebességű, gyors előretekeréshez tudod használni, ha mozdulatlanul állsz, vagy valamilyen műveletet hajtasz végre (mint az olvasás, vagy építés). Ugyancsak szünetet tudsz tartani a vezérlő használatával és utána újragondolhatod a katasztrofális zsákmányfutásodat. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> TÉRKÉP <BR> <TEXT> Nyomd meg a <SPACE><KEY:Map><SPACE> gombot, vagy kattints a bal felső sarokban lévő térkép ikonra a térképed megnyitásához. Ahogy bejárod a világot, a térképed további részletekkel fog gyarapodni. Van egy minitérkép a jobb alsó sarokban is. Tartsd nyomva a <SPACE><KEY:Map><SPACE> gombot a térképpel kapcsolatos lehetőségek eléréséhez, csakúgy, mint a minitérképed be- illetve kikapcsolásához. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> FELSZERELÉS TÉTELEINEK LEHELYEZÉSE <BR> <TEXT> Kattints jobb gombbal a felszerelés legtöbb tételeire a 'Tétel lerakása' lehetőséghez. Ez lehetővé teszi, hogy a Tárolón kívül bárhová lehelyezd a tételt. (A nagyobb, mozgatható világ tételek, mint a bútorok is felvehetőek és lerakhatóak a bal felső sarokban lévő 'mozgatás' lehetőséggel. További információért lásd az útmutató 5. oldalát). Ne felejtsd el rendben tartani a Knox eseményt! <BR>///
+                                   -- ///<LINE> <H1> FELSZERELÉS TÉTELEINEK LEHELYEZÉSE <BR> <TEXT> Kattints jobb gombbal a felszerelés legtöbb tételeire a 'Tétel lerakása' lehetőséghez. Ez lehetővé teszi, hogy a Tárolón kívül bárhová lehelyezd a tételt. (A nagyobb, mozgatható világ tételek, mint a bútorok is felvehetőek és lerakhatóak a bal felső sarokban lévő 'mozgatás' lehetőséggel. További információért lásd az útmutató 5. oldalát). Ne felejtsd el rendben tartani a Knox eseményt! <BR>///
                                     "<H1> NE HALJ MEG <BR> <TEXT> Próbálj meg ne mindig meghalni. <BR>",
 
 	SurvivalGuide_entrie2title = "#2 - NE ROHANJ",
@@ -111,7 +111,7 @@ SurvivalGuide_HU = {
                                     " <LINE> <H1> CONTEXT MENU <BR> <TEXT> More detailed interaction, such as crafting, can be accessed with the <JOYPAD:XButton,28,28> button context menu. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> TIME <BR> <TEXT> Time usually flies in Project Zomboid, but if not (and in single-player), the controls in the <JOYPAD:Back,28,28> button radial menu will help. You can use the controls to fast-forward at various speeds if you're standing still or performing an action (like reading or building). You can also use the controls to pause and have a rethink after another disastrous loot run. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> MAP <BR> <TEXT> Hold <JOYPAD:DPadRight,28,28> to open your map and its options. As you move around the world, your map will fill in with more detail. You may also have a minimap at the bottom right. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> PLACING INVENTORY ITEMS <BR> <TEXT> Right click on most inventory items for a 'place item' option. This will allow you to place the item wherever you want outside of a container. (Larger movable world items like furniture can also be picked up and placed using the 'movables' option at the top left. See page 5 of this guide for more information). Remember to keep the Knox event tidy! <BR>///
+                                   -- ///<LINE> <H1> PLACING INVENTORY ITEMS <BR> <TEXT> Right click on most inventory items for a 'place item' option. This will allow you to place the item wherever you want outside of a container. (Larger movable world items like furniture can also be picked up and placed using the 'movables' option at the top left. See page 5 of this guide for more information). Remember to keep the Knox event tidy! <BR>///
                                     "<H1> DON'T DIE <BR> <TEXT> Try not to die at all times. <BR>",
 
 	SurvivalGuide_Joypad_entrie2title = "#2 - NE ROHANJ",
@@ -193,10 +193,10 @@ SurvivalGuide_HU = {
                                      " For example, trash can be found in trash piles, chipped stones are often found in cracks and potholes on roads. <LINE> <LINE> ",}
 
 
-	-- v41.71b
-	-- Átnézve 2022.05.21
+	-- v41.72b
+	-- Átnézve 2022.07.08
 	-- Legutóbbi változás:
-	-- Pár gomb betű átírva parancssorra. Joypad belekerült, még nincs fordítva.
+	-- Joypad belekerült, még nincs fordítva. -- hozzáadva 2 sor elejére.
 	-- Megjegyzés:
 	-- Joypad nincs lefordítva.
 }

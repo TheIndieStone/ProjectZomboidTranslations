@@ -380,11 +380,11 @@ IGUI_CraftUI_RequiredTime = "Szükséges idő: %1",
 IGUI_CraftUI_BaseItem = "Alap tétel:",
 IGUI_CraftUI_AlreadyContainsItems = "Tételeket tartalmaz:",
 IGUI_CraftUI_ItemsToAdd = "Tételek Hozzáadása:",
-IGUI_CraftUI_ButtonCraftOne = "Egy készítése",
+IGUI_CraftUI_ButtonCraftOne = "Egy elkészítése",
 IGUI_CraftUI_ButtonCraftAll = "Mind elkészítése",
 IGUI_CraftUI_ButtonCraftAllCount = "Mind elkészítése (%1)",
 IGUI_CraftUI_ButtonAddIngredient = "Összetevő hozzáadása",
-IGUI_CraftUI_FromBaseItem = "ebből: %1",
+IGUI_CraftUI_FromBaseItem = "Ebből: %1",
 IGUI_CraftUI_OneOf = "Ezekkel:",
 IGUI_CraftUI_SourceDestroy = "Megsemmisítés:",
 IGUI_CraftUI_SourceKeep = "Megfogás:",
@@ -558,6 +558,7 @@ IGUI_PlayerText_VehicleLockIsBroken = "A zár törött.",
 IGUI_PlayerText_VehicleSeatRemoved = "Az ülés hiányzik.",
 IGUI_PlayerText_DoorBarricaded = "Az ajtó el van torlaszolva.",
 IGUI_PlayerText_DoorBlocked = "Az ajtó elérhetetlen.",
+    IGUI_PlayerText_ItemNameTooLong = "A név nem lehet hosszabb, mint %1 karakter.",
 
 IGUI_GamePaused = "Játék megállítva",
 IGUI_UnknownBerry = "Ismeretlen bogyó",
@@ -608,11 +609,13 @@ IGUI_Skill = "Készség",
 IGUI_Tool = "Szerszám",
 IGUI_None = "Nincs",
 IGUI_ChanceToBreak = "Törés valószínűsége",
+IGUI_ComposterHasCompost = "Trágya van benne.",
 IGUI_ToHeavy = "Túl nehéz",
 IGUI_TooHot = "Túl forró a megfogáshoz.",
 IGUI_ItemsSurface = "Van valami a tetején.",
 IGUI_Moveables_DoorBarricaded = "Az ajtó el van torlaszolva.",
 IGUI_Moveables_DoorInFrame = "Először az ajtót kell eltávolítani.",
+IGUI_Moveables_FloorAtTopOfStairs = "Emelet van a lépcső tetején.",
 IGUI_WindowOpen = "Ablak nyitva van",
 IGUI_WindowBarricaded = "Ablak eltorlaszolva",
 IGUI_Moveables_WindowInFrame = "Először az ablakot kell eltávolítani.",
@@ -686,7 +689,6 @@ IGUI_CurrentTime = "Pontos idő:",
 IGUI_ConfirmSleep = "Valóban aludni akarsz?",
 IGUI_invpage_Transfer_all = "Mind átrakása",
 IGUI_InfoPanel_Inventory = "<CENTRE> <SIZE:large> Üdv a Project Zomboid-ban! <LINE> <LINE> <SIZE:medium>Rövidesen rettenetes halált fogsz halni. Senki sem fog gyászolni és gyorsan el is fognak felejteni. Minden hiábavaló volt. <LINE> <LINE> Tehát, jól gondold meg, hogy kimész-e harcolni! <LINE> <LINE> (Nyomj egy Space gombot a folytatáshoz.)",
-IGUI_ServerToolBox_AdminPanel = "Nyomd meg az ESC gombot az Admin részleg megnyitásához",
 IGUI_ServerToolBox_Title = "Szerver eszköztár",
 IGUI_ServerToolBox_ExternalIP = "Kimenő IP-d: %1",
 IGUI_ServerToolBox_IPUnknown = "Ismeretlen (Nincs router?)",
@@ -914,6 +916,10 @@ IGUI_Map_ConfirmRemoveNote = "Ki akarod törölni ezt a megjegyzést? (%1)",
 IGUI_Map_ConfirmRemoveSymbol = "Ki akarod törölni ezt a jelet?",
 IGUI_Map_ZoomIn = "Nagyítás",
 IGUI_Map_ZoomOut = "Kicsinyítés",
+IGUI_MapOption_Players = "Játékosok",
+IGUI_MapOption_PlayerNames = "Játékosok Nevei",
+IGUI_MapOption_RemotePlayers = "Távoli Játékosok",
+IGUI_MapOption_Symbols = "Szimbólumok",
 IGUI_TextBoxMap_IsTranslation = "Ez Egy Fordítás",
 IGUI_TextBox_CantBeEmpty = "Nem lehet üres.",
 IGUI_TextBox_Edit = "Szerkesztés",
@@ -1636,15 +1642,23 @@ IGUI_SearchMode_Tip_Seasons_Text = "Minden természetben előforduló tételt be
 IGUI_SearchMode_Tip_SearchFocus_Title = "Keresési összpontosítás",
 IGUI_SearchMode_Tip_SearchFocus_Text = "Valami különlegeset keresel? Használd a keresési összpontosítást, hogy növeld a találat esélyét a kiválasztott kategóriának!",
 
+
+
+
+
+
     -- Nincs benne az angolban, de indításnál ezeket hibának jelzi a konzol.
 IGUI_Hair_HatLong = "Hosszú",
 IGUI_Hair_HatLongCurly = "Hosszú Göndör",
 IGUI_Hair_HatLongBraided = "Hosszú Befont",
 
-	-- v41.71b
-	-- Átnézve 2022.06.05
+IGUI_ServerToolBox_AdminPanel = "Nyomd meg az ESC gombot az Admin részleg megnyitásához",
+IGUI_PlayerText_CanNotExitFromMovingCar = "Nem lehet kiszállni mozgó jármüböl.",
+
+	-- v41.72b
+	-- Átnézve 2022.07.07
 	-- Legutóbbi változás:
-	-- Kisebb fordítási hibák javítása
+	-- 41.72 új sorok hozzáadva.
 	-- Megjegyzés:
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítandó, játék közben kell ellenőrizni.
