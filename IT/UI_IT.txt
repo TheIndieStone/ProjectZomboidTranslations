@@ -428,7 +428,7 @@ UI_IT = {
     UI_ServerOption_SafehouseAllowLoot_tooltip = "Permetti ai non membri di prendere oggetti dai rifugi.",
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "I giocatori iniziano in un rifugio di cui erano membri prima di morire.",
     UI_ServerOption_SafehouseAllowTrepass_tooltip = "Permettere ai non membri di entrare in un rifugio senza essere invitati",
-	UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "Regola se i giocatori possono rivendicare edifici non residenziali.",
+	UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Regola se i giocatori possono rivendicare edifici non residenziali.",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "I giocatori devono essere sopravvissuti a questo numero di giorni di gioco prima di poter reclamare un rifugio",
     UI_ServerOption_SafetyCooldownTimer_tooltip = "Il ritardo prima che un giocatore possa entrare o uscire di nuovo dalla modalità PVP, dopo averlo fatto di recente",
     UI_ServerOption_SafetySystem_tooltip = "I giocatori possono entrare ed uscire dal PVP su base individuale. Un giocatore può ferire un altro giocatore solo quando almeno uno di loro è in modalità PVP, come mostrato dal teschio non oscurato e dalle ossa incrociate sulla sinistra dello schermo. Quando SafetySystem=false, i giocatori sono liberi di ferirsi a vicenda in qualsiasi momento se il PVP è abilitato.",

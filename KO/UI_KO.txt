@@ -1479,5 +1479,5 @@ UI_KO = {
     UI_optionscreen_MusicActionStyle = "음악 동작 방식",
     UI_optionscreen_MusicActionStyle_1 = "공식",
     UI_optionscreen_MusicActionStyle_2 = "구버전",
-    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "플레이어가 주거할 수 없는 건물(상점 건물등)에 은신처 설정을 허용할지 여부를 설정합니다.",
+    UI_ServerOption_SafehouseAllowNonResidential_tooltip = "플레이어가 주거할 수 없는 건물(상점 건물등)에 은신처 설정을 허용할지 여부를 설정합니다.",
 }

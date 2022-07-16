@@ -283,20 +283,20 @@ Stash_WorldMap1_Text2 = "ho visto degli infetti qui (forse si sono già spostati
 Stash_WorldMap1_Text4 = "se stai guidando vai piano, non attirarli",
 
 Stash_WorldMap2_Text1 = "buon posto per la base, remoto",
-Stash_Mappa_del_mondo2_Text11 = "barricate per primi quando arrivate!",
+Stash_WorldMap2_Text11 = "barricate per primi quando arrivate!",
 Stash_WorldMap2_Text12 = "ho nascosto delle armi all'interno per voi",
 
 Stash_WorldMap3_Text1 = "gas qui",
 Stash_WorldMap3_Text11 = "ne avrai bisogno",
 
-Stash_Mappa_del_Mondo4_Text1 = "Dove Yana ha detto che viveva quella donna",
-Stash_Mappa_del_Mondo4_Text11 = "Forse ci aiuterà?",
+Stash_WorldMap4_Text1 = "Dove Yana ha detto che viveva quella donna",
+Stash_WorldMap4_Text11 = "Forse ci aiuterà?",
 
 Stash_WorldMap5_Text1 = "Paulie ha lasciato la roba qui",
 Stash_WorldMap5_Text11 = "Controlla se ci sono vedette prima di entrare",
 Stash_WorldMap5_Text12 = "e non dimenticate di bruciare questa mappa!!!",
 
-Stash_Mappa_del_mondo6_Text1 = "C'è roba buona qui",
+Stash_WorldMap6_Text1 = "C'è roba buona qui",
 Stash_WorldMap6_Text2 = "per il saccheggio - troppo grande per essere protetta",
 Stash_WorldMap6_Text3 = "Andy",
 
@@ -313,8 +313,8 @@ Stash_WorldMap9_Text2 = "casse in giro, potrebbero essere piene di roba",
 Stash_WorldMap8_Text3 = "uffici, niente",
 Stash_WorldMap8_Text4 = "magazzini?",
 
-Stash_Mappa_del_mondo10_Text1 = "STAZIONE GAS",
-Stash_Mappa_del_mondo10_Text2 = "negozio di abbigliamento",
+Stash_WorldMap10_Text1 = "STAZIONE GAS",
+Stash_WorldMap10_Text2 = "negozio di abbigliamento",
 Stash_WorldMap10_Text3 = "SPIFFO'S",
 Stash_WorldMap10_Text4 = "AUTO",
 
@@ -327,24 +327,24 @@ Stash_WorldMap12_Text2 = "UNICO PERICOLO: centro commerciale a nord, centinaia d
 
 Stash_WorldMap13_Text1 = "Hal, andiamo qui, dovrebbe essere sicuro",
 Stash_WorldMap13_Text11 = "So che è difficile, ma NON PORTARE PAULA",
-Stash_Mappa_del_mondo13_Text12 = "Devi salvare almeno te stesso",
+Stash_WorldMap13_Text12 = "Devi salvare almeno te stesso",
 
-Stash_Mappa_del_mondo14_Text1 = "nonna",
-Stash_Mappa_del_mondo14_Text2 = "dove hanno preso il nonno",
-Stash_Mappa_del_mondo14_Text3 = "Il Signore li protegge",
+Stash_WorldMap14_Text1 = "nonna",
+Stash_WorldMap14_Text2 = "dove hanno preso il nonno",
+Stash_WorldMap14_Text3 = "Il Signore li protegge",
 
-Stash_Mappa_del_mondo17_Text1 = "punto cieco di pattugliamento",
+Stash_WorldMap17_Text1 = "punto cieco di pattugliamento",
 Stash_WorldMap17_Text2 = "V spegnerà i sensori di movimento esattamente alle 23.15",
 Stash_WorldMap17_Text21 = "Non distrarti! Seguite V, fate le vostre foto, uscite",
 
-Stash_Mappa_del_mondo18_Text1 = "Ben",
-Stash_Mappa_del_mondo18_Text2 = "sentiero",
+Stash_WorldMap18_Text1 = "Ben",
+Stash_WorldMap18_Text2 = "sentiero",
 
 Stash_WorldMap19_Text1 = "Testardo del cazzo! Almeno prendi le armi che ho lasciato a casa della signora Cuddy",
-Stash_Mappa_del_mondo19_Text11 = "Se muori non ti perdonerò mai!!!",
+Stash_WorldMap19_Text11 = "Se muori non ti perdonerò mai!!!",
 
-Stash_Mappa_del_mondo19_Text1 = "COGLIONE",
-Stash_Mappa_del_mondo19_Text2 = "FOTTUTO",
-Stash_Mappa_del_mondo19_Text3 = "STRONZO",
+Stash_WorldMap19_Text1 = "COGLIONE",
+Stash_WorldMap19_Text2 = "FOTTUTO",
+Stash_WorldMap19_Text3 = "STRONZO",
 */	
 }
