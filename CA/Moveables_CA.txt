@@ -451,6 +451,7 @@ Moveables_CA = {
     March_Ridge_Road_Sign = "Senyal de carretera de March Ridge",
     Margarite_Painting = "Quadre de margarides",
     McFudgingtons_Sign = "Cartell de Mama McFudgington's",
+    Medical_Desk = "Escriptori mèdic",
     Medical_Mirror = "Espill mèdic",
     Medical_Stool = "Tamboret de metall",
     Medical_Tool_Drawers = "Calaixos de ferramentes mèdiques",

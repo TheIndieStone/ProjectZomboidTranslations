@@ -235,7 +235,6 @@ ContextMenu_CN = {
     ContextMenu_EvolvedRecipe_FruitSalad = "水果沙拉",
     ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
 	ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
-	-- %1 = 成分, %2 = 配料名称, %3 = 含, %4 = 调料
     ContextMenu_EvolvedRecipe_and = "和",
 	ContextMenu_EvolvedRecipe_comma = ",",
     ContextMenu_EvolvedRecipe_with = "以",
