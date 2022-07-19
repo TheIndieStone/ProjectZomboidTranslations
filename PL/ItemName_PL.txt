@@ -1981,7 +1981,7 @@ ItemName_PL = {
 	ItemName_Base.Mov_WoodenStool = "Taboret drewniany",
 	ItemName_Base.Mov_YellowModernChair = "Krzesło - nowoczesne, żółte",
 	
-	ItemName_Base.Bag_MedicalBag = "Torba sportowa",
+	ItemName_Base.Bag_MedicalBag = "Torba lekarska",
 	ItemName_Base.BaguetteDough = "Bagietka",
 	ItemName_Base.BakingTray_Biscuit = "Blacha z herbatnikami",
 	ItemName_Base.BaloneySlice = "Plasterki kiełbasy bolońskiej",
