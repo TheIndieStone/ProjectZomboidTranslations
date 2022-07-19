@@ -433,7 +433,7 @@ UI_PL = {
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "Gracze są automatycznie usuwani z bazy, jeśli nie wejdą do niej przez podaną liczbę prawdziwych godzin.",
     UI_ServerOption_SafehouseAllowFire_tooltip = "Ogień będzie uszkadzał bazy.",
     UI_ServerOption_SafehouseAllowLoot_tooltip = "Pozwala graczom na zabieranie przedmiotów z obcych baz.",
-    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "Określa, czy gracze mogą przejmować budynki niemieszkalne.",
+    UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Określa, czy gracze mogą przejmować budynki niemieszkalne.",    
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "Gracze po śmierci odradzają się w bazie, do której należeli.",
     UI_ServerOption_SafehouseAllowTrepass_tooltip = "Pozwala graczom wchodzić do obcych baz.",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "Gracze muszą przeżyć co najmniej tyle godzin w grze, aby móc zająć bazę.",
@@ -1471,6 +1471,5 @@ UI_PL = {
 	UI_ServerOptionDesc_SetLogLevel = "Wybierz poziom logów. Wpisz /log %1 %2",
 	UI_ServerOptionDesc_SetStatisticsPeriod = "Ustawianie i czyszczenie statystyk serwera. Wpisz /stats none|file|console|all period. Przykładowo /stats file 10",
 	UI_ServerOption_MapRemotePlayerVisibility_tooltip = "Kontroluje wyświetlanie oddalonych graczy na mapie w grze.\n1=Niewidoczni 2=Znajomi 3=Wszyscy",
-	
-	UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Określa, czy gracze mogą przejmować budynki niemieszkalne.",
+
 }
