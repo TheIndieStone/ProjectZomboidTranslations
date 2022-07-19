@@ -403,6 +403,11 @@ Recipes_CN = {
 	Recipe_Make_Shortbread_Cookie_Dough = "制作脆饼曲奇",
 	Recipe_Make_Sugar_Cookie_Dough = "制作糖饼干",
 	Recipe_Open_Condensed_Milk = "打开炼乳",
-
+	Recipe_Oatmeal = "燕麦粥添加",
+	Recipe_Pour_Cup_of_Beer = "塑料杯添加",
+	Recipe_Pour_Glass_of_Wine = "酒杯添加",
+	Recipe_Pour_Tumbler_of_Beer = "玻璃杯添加",
+	Recipe_Prepare_Beverage_in_Cup_ = "准备饮料",
+	Recipe_Prepare_Beverage_in_Tumbler = "准备饮料",
 	
 } 
