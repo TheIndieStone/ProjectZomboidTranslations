@@ -392,6 +392,7 @@ Sandbox_RallyTravelDistance_help = "A távolság az egyes gyülekező zombicsopo
 Sandbox_RallyGroupSeparation_help = "A zombi csoportok közötti távolság.",
 Sandbox_RallyGroupRadius_help = "Mennyire közel állnak egy csoport tagjai a csoport vezetőjéhez.",
 Sandbox_MinMaxDefault = "Minimum=%1 Maximum=%2 Alapbeállítás=%3",
+Sandbox_Default = "Alapértelmezett=%1",
 Sandbox_ThumpNoChasing = "Építmény támadás",
 Sandbox_ThumpNoChasing_option1 = "Igen",
 Sandbox_ThumpNoChasing_option2 = "Nem",
@@ -631,10 +632,10 @@ Sandbox_ZSmell_option2 = "Közepes",
 Sandbox_ZSmell_option3 = "Gyenge",
 
 
-	-- v41.69b
-	-- Átnézve 2022.04.29
+	-- v41.72b
+	-- Átnézve 2022.07.08
 	-- Legutóbbi változás:
-	-- Néhány sor végi vessző hiány.
+	-- 41.72 új sorok hozzáadva.
 	-- Megjegyzés:
 	-- Egységesíteni kell ezeket: Controls, governs: Szabályozza
 	-- Át kell nézni az egészet!

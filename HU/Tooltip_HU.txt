@@ -1,5 +1,6 @@
 Tooltip_HU = {
 	-- Item tooltip
+Tooltip_food_Slice = "Szelet",
 Tooltip_food_Uncooked = "Nyers",
 Tooltip_food_Rotten = "Romlott",
 Tooltip_food_Fresh = "Friss",
@@ -13,6 +14,7 @@ Tooltip_food_Stress = "Stressz",
 Tooltip_food_Boredom = "Unatkozás",
 Tooltip_food_Unhappiness = "Boldogtalanság",
 Tooltip_food_Dangerous_uncooked = "Nyersen veszélyes",
+Tooltip_food_SlightDanger_uncooked = "Főzés nélkül megbetegedést, vagy hányingert okozhat.",
 Tooltip_tissue_tooltip = "Használatával elnémítható a tüsszentés és a köhögés",
 Tooltip_item_StackWeight = "Halomsúly",
 Tooltip_item_Weight = "Súly (kg)",
@@ -21,6 +23,8 @@ Tooltip_item_Unequipped = "Használaton kívül",
 Tooltip_item_Temperature = "Hőmérséklet",
 Tooltip_item_Fatigue = "Fáradtság",
 Tooltip_item_TaintedWater = "Szennyezett víz",
+	Tooltip_item_OnlyPurifyMicrowave = "Tartalmak csak megtisztítva lehetnek a Mikrohullámú Sütőben.???",	
+    Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Tartalmak csak megtisztítva lehetnek a Mikrohullámú Sütőben.???<br>Esővíz gyűjtésre használható, ha a odakint a földre helyezzük.",
 Tooltip_WaterUnlimited = "Végtelen",
 Tooltip_weapon_Condition = "Állapot",
 Tooltip_weapon_Repaired = "Javított",
@@ -189,7 +193,7 @@ Tooltip_item_Mechanic = "Jármű Típusa",
     Tooltip_Vehicle_Uninstalling = "%1 kiszerelése",
 Tooltip_vehicle_keyRequired = "Autókulcs szükséges",
 Tooltip_Dashboard_Shift = "Váltó állása",
-Tooltip_Dashboard_LockedDoors = "Ajtók zárása",
+Tooltip_Dashboard_LockedDoors = "Ajtó zárak",
 Tooltip_Dashboard_Engine = "Motor állapota",
 Tooltip_Dashboard_Headlights = "Fényszórók",
 Tooltip_Dashboard_Heater = "Fűtés",
@@ -275,7 +279,7 @@ Tooltip_RemoveCurtains = "Ad egyet: %1.",
 Tooltip_PickUpCurtains = "Másik lehetőségként, fel tudod venni a Függönyöket a Bútorokból is.",
 Tooltip_media_title = "Cím",
 Tooltip_media_author = "Szerző",
-Tooltip_media_item_operate = "Használni elsődleges, vagy másodlagos elemként a működtetéshez.",
+Tooltip_media_item_operate = "Elsődleges, vagy másodlagos elemként kell használni a működtetéshez.",
 Tooltip_item_empty_sack_container = "Tárolóként lehet használni, ha üres.",
 Tooltip_BookTitle = "Könyv Címe",
 Tooltip_BookTitle_Blacksmith = "Kovácsolás",
@@ -295,12 +299,14 @@ Tooltip_BookTitle_3 = "%1 Középhaladóknak",
 Tooltip_BookTitle_5 = "%1 Haladóknak",
 Tooltip_BookTitle_7 = "%1 Szakértőknek",
 Tooltip_BookTitle_9 = "%1 Mestereknek",
+	Tooltip_item_Watermelon = "Fel kell szeletelni, vagy összetörni, hogy meg lehessen enni.",
+	Tooltip_item_NeedsSliced = "Fel kell szeletelni a legtöbb recepthez való hozzáadása előtt.",
 
 
-	-- v41.69b
-	-- Átnézve 2022.04.29
+	-- v41.72b
+	-- Átnézve 2022.07.08
 	-- Legutóbbi változás:
-	-- Nincs változás.
+	-- 41.72 új sorok hozzáadva.
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
 }
