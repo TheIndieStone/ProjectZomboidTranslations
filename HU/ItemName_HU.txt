@@ -62,8 +62,8 @@ ItemName_Base.Bag_FannyPackFront = "Elülső Övtáska",
 ItemName_Base.Bag_GolfBag = "Golf Táska",
 ItemName_Base.Bag_InmateEscapedBag = "Börtöntáska",
 ItemName_Base.Bag_JanitorToolbox = "Szerszámos-láda",
-ItemName_Base.Bag_MedicalBag = "Katonai Hátizsák",
-ItemName_Base.Bag_MoneyBag = "Pénzes-táska",
+ItemName_Base.Bag_MedicalBag = "Sürgősségi Táska",
+ItemName_Base.Bag_MoneyBag = "Pénzes Táska",
 ItemName_Base.Bag_NormalHikingBag = "Túrázó Táska",
 ItemName_Base.Bag_Satchel = "Táska",
 ItemName_Base.Bag_Schoolbag = "Iskolatáska",
@@ -85,12 +85,12 @@ ItemName_Base.BakingPan = "Sütőserpenyő",
 ItemName_Base.BakingSoda = "Szódabikarbóna",
 ItemName_Base.BakingTray = "Tepsi",
 ItemName_Base.BakingTrayBread = "Tepsis Kenyér",
-ItemName_Base.BakingTray_Biscuit = "Keksz Sütőtepsi",
+ItemName_Base.BakingTray_Biscuit = "Kekszes Sütőtepsi",
 ItemName_Base.BakingTray_Muffin = "Muffinos Tepsi",
 ItemName_Base.BakingTray_Muffin_Recipe = "Muffinos Tepsi",
 ItemName_Base.BallPeenHammer = "Gépkalapács",
 ItemName_Base.Baloney = "Parizer",
-ItemName_Base.BaloneySlice = "Parizer  Szeletek",
+ItemName_Base.BaloneySlice = "Parizer Szeletek",
 ItemName_Base.Banana = "Banán",
 ItemName_Base.Bandage = "Kötszer",
 ItemName_Base.BandageDirty = "Koszos kötszer",
@@ -1950,10 +1950,10 @@ ItemName_farming.TomatoSeed = "Paradicsom Vetőmag",
 ItemName_farming.WateredCan = "Locsolókanna",
 ItemName_farming.WateredCanFull = "Vízzel teli Locsolókanna",
 
-	-- v41.72b
-	-- Átnézve 2022.07.07
+	-- v41.73b
+	-- Átnézve 2022.07.16
 	-- Legutóbbi változás:
-	-- 41.72 új sorok hozzáadva.
+	-- 41.73 új sorok hozzáadva.
 	-- Megjegyzés:
 	-- Maradt fordítani való, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!
