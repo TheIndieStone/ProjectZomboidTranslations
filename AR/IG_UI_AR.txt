@@ -861,6 +861,7 @@ IG_UI_AR = {
     IGUI_VehicleLightbar_WAIL = "WAIL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Asiento ocupado",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "¿Queres que salte de un auto en movimiento? Ya bastante tengo con los zombies.",
     IGUI_ConfirmLeaveGame = "¿Salir del juego?",
     IGUI_AdminPanel_AdminPower = "Editar tus poderes de administrador",
     IGUI_AdminPanel_TooltipEditAdminPower = "Modifica tus poderes de administrador, como ser invisible, capacidad de carga y carpintería ilimitada, etc.",

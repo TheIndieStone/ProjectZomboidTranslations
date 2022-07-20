@@ -1384,6 +1384,7 @@ IG_UI_CH = {
     IGUI_Vehicle_EngineQuality = "引擎品質: ",
     IGUI_Vehicle_Repairing = "正在修理 %1",
     IGUI_Vehicle_SeatOccupied = "座位被佔用",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "你不能離開行駛中的車輛. ",
     IGUI_Washing_NeedSoap = "需要肥皂",
     IGUI_Washing_Soap = "肥皂",
     IGUI_Washing_WithoutSoap = "肥皂不夠 (較慢) ",
