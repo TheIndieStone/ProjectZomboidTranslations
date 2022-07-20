@@ -1103,7 +1103,7 @@ UI_ServerOption_KickFastPlayers_tooltip = "Játékos kirúgása, ha úgy tűnik,
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "A játékosok abban a menedékházban élednek, amelynek a tagjai voltak, mielőtt meghaltak.",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "A játékosoknak túl kellett élniük ezt a sok játékvilág-napot, mielőtt menedékházat igényelhettek volna.",
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "A játékosok automatikusan eltávolításra kerülnek egy olyan menedékházból, amelyet nem látogattak meg ennyi valós órán keresztül.",
-    UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Governs whether players can claim non-residential buildings.",
+UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Szabályozza, hogy a játékosok igényelhetnek-e nem lakóépületet.",
     UI_ServerOption_UPnP_tooltip = "Kísérlet egy UPnP-kompatibilis internetes átjáró konfigurálására a porttovábbítási szabályok automatikus beállításához. Ha ez nem sikerül, a kiszolgáló visszaáll az alapértelmezett portokra.",
     UI_ServerOption_VoiceEnable_tooltip  = "Ha igaz, a VOIP engedélyezve van.",
     UI_ServerOption_VoiceMinDistance_tooltip  = "A VOIP hangok minimális hallható távolsága.",
@@ -1499,10 +1499,10 @@ UI_disable_search_mode = "Keresés mód leállítása",
     UI_ServerOption_MapRemotePlayerVisibility_tooltip = "Vezérli a távoli játékosok megjelenítését a játékon belüli térképen.\n1=Rejtett 2=Barátok 3=Mindenki",
 
 
-	-- v41.72b
-	-- Átnézve 2022.07.08
+	-- v41.73b
+	-- Átnézve 2022.07.16
 	-- Legutóbbi változás:
-	-- 41.72 új sorok hozzáadva.
+	-- 41.73-ban 1 sor változott, az lefordítva.
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
 	-- 1066-1124, 2001-2046, sorokat átnézni, mert változtak. 41.64-ről 41.72b-re!
