@@ -531,4 +531,7 @@ ContextMenu_PL = {
 	ContextMenu_FoodType_Beef = "Wołowina",
 	ContextMenu_FoodType_Bacon = "Bekon",
 	ContextMenu_FoodType_HotPepper = "Ostre papryczki",
+	
+	ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
+	ContextMenu_FuelCapacity = "Pojemność paliwa przedmiotu: ",
 }

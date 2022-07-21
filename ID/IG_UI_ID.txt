@@ -1186,6 +1186,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> Pertama-tama: Kamu bisa perbesar
     IGUI_VehicleLightbar_WAIL = "WAIL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Tempat duduk ditempati",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "Tidak bisa keluar dari kendaraan yang berjalan.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Hentikan mobil terlebih dahulu.",
     IGUI_ConfirmLeaveGame = "Keluar game?",
     IGUI_AdminPanel_AdminPower = "Edit kekuatan admin",

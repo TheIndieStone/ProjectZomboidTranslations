@@ -207,6 +207,8 @@ UI_LoadGameScreen_BrowseFilesText = "A mentés tartalmának megjelenítése az a
 UI_LoadGameScreen_ButtonConfig = "TÖBB...",
 UI_LoadGameScreen_ButtonFiles = "FÁJLOK",
 UI_LoadGameScreen_ButtonNewPlayer = "ÚJ JÁTÉKOS",
+    UI_LoadGameScreen_RenameSavefileText = "Válassz egy új nevet ennek a mentésnek. Nyomd meg a gombot a mappa átnevezéséhez.",
+    UI_LoadGameScreen_ButtonRenameSavefile = "FÁJL ÁTNEVEZÉSE",
 UI_NewGameScreen_title = "ÚJ JÁTÉK",
 UI_worldscreen_deletesave = Biztosan törölni szeretnéd?",
 UI_worldscreen_MapNotFound = "Ez a térkép nem található. Ellenőrizd, hogy a szükséges mód van-e betöltve.",
@@ -738,7 +740,7 @@ UI_prof_Electrician = "Villanyszerelő",
 UI_profdesc_electrician = "Tudja működtetni a Generátorokat.",
 UI_prof_Engineer = "Mérnök",
 UI_profdesc_engineer = "Csapdákat és robbanószereket tud készíteni.",
-    UI_Tooltip_Popup = "Ah, látjuk, hogy nemrégiben fertőztél meg. <LINE> <LINE> Szeretnél oktatóanyagot, mielőtt bekövetkezne az elkerülhetetlen?",
+UI_Tooltip_Popup = "Ah, látjuk, hogy nemrégiben fertőződtél meg. <LINE> <LINE> Szeretnél oktatóanyagot, mielőtt bekövetkezne az elkerülhetetlen?",
 UI_mainscreen_tutorial = "Oktatás",
 UI_mainscreen_solo = "Egyjátékos",
 UI_mainscreen_online2 = "Csatlakozás",
@@ -1101,7 +1103,7 @@ UI_ServerOption_KickFastPlayers_tooltip = "Játékos kirúgása, ha úgy tűnik,
     UI_ServerOption_SafehouseAllowRespawn_tooltip = "A játékosok abban a menedékházban élednek, amelynek a tagjai voltak, mielőtt meghaltak.",
     UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "A játékosoknak túl kellett élniük ezt a sok játékvilág-napot, mielőtt menedékházat igényelhettek volna.",
     UI_ServerOption_SafeHouseRemovalTime_tooltip = "A játékosok automatikusan eltávolításra kerülnek egy olyan menedékházból, amelyet nem látogattak meg ennyi valós órán keresztül.",
-    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "Governs whether players can claim non-residential buildings.",
+UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Szabályozza, hogy a játékosok igényelhetnek-e nem lakóépületet.",
     UI_ServerOption_UPnP_tooltip = "Kísérlet egy UPnP-kompatibilis internetes átjáró konfigurálására a porttovábbítási szabályok automatikus beállításához. Ha ez nem sikerül, a kiszolgáló visszaáll az alapértelmezett portokra.",
     UI_ServerOption_VoiceEnable_tooltip  = "Ha igaz, a VOIP engedélyezve van.",
     UI_ServerOption_VoiceMinDistance_tooltip  = "A VOIP hangok minimális hallható távolsága.",
@@ -1241,6 +1243,8 @@ UI_ServerOptionDesc_AddAllWhitelist = "Adja hozzá a jelszóhoz kapcsolódó ös
     UI_ServerOptionDesc_Help = "Segítség",
     UI_ServerOptionDesc_SafeHouse = "Saját menedékház feloldása. Használd: /safehouse release",
 	UI_ServerOptionDesc_Replay = "Record and play replay for moving player. Use: /replay \"playername\" -record|-play|-stop filename. Example: /replay user1 -record stadion.bin",
+    UI_ServerOptionDesc_SetLogLevel = "Set log level. Use /log %1 %2",
+    UI_ServerOptionDesc_SetStatisticsPeriod = "Set and clear server statistics. Use /stats none|file|console|all period. Example /stats file 10",
     UI_ServerOptions_SpawnRegionFile1 = "-- Ez a fájl a szerver első indításakor automatikusan létrejött.",
     UI_ServerOptions_SpawnRegionFile2 = "-- A kiszolgálóhoz csatlakozó kliensek választhatnak, hogy a következő spawn-régiók egyikében éledjenek.",
     UI_ServerOptions_SpawnRegionFile3 = "-- Az admin annyi különböző éledési régiót adhat hozzá, amennyit csak akar.",
@@ -1338,7 +1342,6 @@ UI_ClothingType_Hat = "Sapka",
 UI_ClothingType_TorsoExtra = "Extra",
 UI_ClothingType_Hands = "Kéz",
 UI_ClothingType_Jacket = "Dzseki",
-UI_ClothingType_Neck = "Nyak",
 UI_ClothingType_FullSuit = "Kezeslábas",
 UI_ClothingType_Glasses = "Szemüveg",
 UI_ClothingType_Vest = "Mellény",
@@ -1374,17 +1377,16 @@ UI_ClothingType_Torso1Legs1 = "Test és Láb",
 UI_ClothingType_ShortSleeveShirt = "Rövid Ujjú Ing",
 UI_ClothingType_LeftWrist = "Bal Csukló",
 UI_ClothingType_RightWrist = "Jobb  Csukló",
-
+UI_ClothingType_Neck = "Nyak",
 UI_ClothingType_Necklace = "Nyaklánc",
 UI_ClothingType_Necklace_Long = "Hosszú Nyaklánc",
 UI_ClothingType_Left_MiddleFinger = "Bal Középső ujj",
 UI_ClothingType_Right_MiddleFinger = "Jobb Középső ujj",
 UI_ClothingType_Left_RingFinger = "Bal Gyűrűsujj",
-UI_ClothingType_Right_RingFinger = "Jobb  Gyűrűsujj",
+UI_ClothingType_Right_RingFinger = "Jobb Gyűrűsujj",
 
 UI_ClothingType_HandsLeft = "Bal Kéz",
 UI_ClothingType_HandsRight = "Jobb Kéz",
-
 
 UI_ClothingType_JacketHat = "Kapucnis Kabát",
 UI_ClothingType_FullSuitHead = "Öltözet",
@@ -1494,15 +1496,15 @@ UI_disable_search_mode = "Keresés mód leállítása",
     UI_ServerOption_AntiCheatProtectionType9ThresholdMultiplier_tooltip = "Threshold value multiplier for anti-cheat protection: type 9.",
     UI_ServerOption_AntiCheatProtectionType15ThresholdMultiplier_tooltip = "Threshold value multiplier for anti-cheat protection: type 15.",
     UI_ServerOption_AntiCheatProtectionType20ThresholdMultiplier_tooltip = "Threshold value multiplier for anti-cheat protection: type 20.",
+    UI_ServerOption_MapRemotePlayerVisibility_tooltip = "Vezérli a távoli játékosok megjelenítését a játékon belüli térképen.\n1=Rejtett 2=Barátok 3=Mindenki",
 
 
-
-	-- v41.71b
-	-- Átnézve 2022.06.05
+	-- v41.73b
+	-- Átnézve 2022.07.16
 	-- Legutóbbi változás:
-	-- Kisebb fordítási hibák javítása
+	-- 41.73-ban 1 sor változott, az lefordítva.
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
-	-- 1066-1124, 2001-2046, sorokat átnézni, mert változtak. 41.64-ről 41.71b-re!
+	-- 1066-1124, 2001-2046, sorokat átnézni, mert változtak. 41.64-ről 41.72b-re!
 
 }

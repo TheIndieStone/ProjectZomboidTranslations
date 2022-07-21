@@ -1200,6 +1200,7 @@ IGUI_JP = {
 	IGUI_VehicleLightbar_YELP = "YELP",
 	IGUI_VehicleLightbar_WAIL = "WAIL",
 	IGUI_Vehicle_SeatOccupied = "座席を使用中",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "動いている車両から降りることはできません。",
 	IGUI_PlayerText_CanNotSleepInMovingCar = "最初に車両を止めてください。",
 	IGUI_ConfirmLeaveGame = "ゲームから離れますか?",
 	IGUI_AdminPanel_AdminPower = "管理者権限の編集",

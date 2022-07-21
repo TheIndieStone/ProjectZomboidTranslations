@@ -235,6 +235,7 @@ ContextMenu_JP = {
 	ContextMenu_EvolvedRecipe_FruitSalad = "フルーツサラダ",														 
 	ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
 	ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
+	ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
 	ContextMenu_EvolvedRecipe_and = "と",
 	ContextMenu_EvolvedRecipe_comma = ",",
 	ContextMenu_EvolvedRecipe_with = "with",
@@ -296,7 +297,7 @@ ContextMenu_JP = {
     ContextMenu_FoodType_Bread = "パン",
     ContextMenu_FoodType_Pepper = "香辛料",
     ContextMenu_FoodType_Stock = "貯蔵",
-    ContextMenu_FoodType_Poultry = "家禽",
+    ContextMenu_FoodType_Poulty = "家禽",
     ContextMenu_FoodType_Sausage = "ソーセージ",
     ContextMenu_FoodType_Beef = "ビーフ",
     ContextMenu_FoodType_Bacon = "ベーコン",
@@ -536,8 +537,5 @@ ContextMenu_JP = {
 	ContextMenu_NeedCooked = "調理する必要があります。",
 	ContextMenu_ComboWasherDryer_SetModeWasher = "モード:洗濯",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "モード:乾燥",
-
-	
-	
-	ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
+	ContextMenu_FuelCapacity = "アイテムの燃料容量: ",
 } 

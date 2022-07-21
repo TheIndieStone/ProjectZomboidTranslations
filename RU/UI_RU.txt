@@ -1014,6 +1014,7 @@ UI_RU = {
 	UI_ServerOption_SafehouseAllowRespawn_tooltip = "После смерти игроки могут появиться в убежище своей фракции.",
 	UI_ServerOption_SafehouseDaySurvivedToClaim_tooltip = "Игроки должны будут пережить это количество дней до того, как они смогут указывать убежище.",
 	UI_ServerOption_SafeHouseRemovalTime_tooltip = "Игроки будут автоматически удалены из списка убежища, если они не посещали его много реальных часов.",
+	UI_ServerOption_SafehouseAllowNonResidential_tooltip = "Позволяет игрокам создавать убежища в нежилых зданиях.",
 	UI_ServerOption_UPnP_tooltip = "Пытаться настроить интернет-шлюз с поддержкой UPnP для автоматической настройки правил переадресации портов.",
 	UI_ServerOption_UPnPLeaseTime_tooltip = "Время аренды порта в секундах (86400 == 24 часа).",
 	UI_ServerOption_UPnPZeroLeaseTimeFallback_tooltip = "Повторять попытки с нулевым временем аренды, если сопоставление портов не удается (помогает с некоторыми маршрутизаторами).",
