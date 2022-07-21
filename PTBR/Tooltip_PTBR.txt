@@ -23,6 +23,7 @@ Tooltip_PTBR = {
 	Tooltip_item_Temperature = "Temperatura",
 	Tooltip_item_Fatigue = "Fadiga",
 	Tooltip_item_TaintedWater = "Água Contaminada. Perigosa para beber.<br>Potável ao fervê-la.",
+	Tooltip_item_TaintedWater_Plastic = "Água Contaminada. Perigosa para beber.<br>Potável ao fervê-la em um micro-ondas.",
 	Tooltip_item_OnlyPurifyMicrowave = "Só pode ser purificado no micro-ondas.",	
     	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Só pode ser purificado no micro-ondas.<br>Pode ser usado para coletar água da chuva.",
 	Tooltip_WaterUnlimited = "Ilimitada",
