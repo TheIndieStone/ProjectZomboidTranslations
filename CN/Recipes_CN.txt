@@ -348,6 +348,7 @@ Recipes_CN = {
     Recipe_Prepare_Beverage2 = "准备饮料",
 	
 	--Add Text--
+	
 	Recipe_Make_Fruit_Salad = "制作水果沙拉",
 	Recipe_Make_Salad = "制作蔬菜沙拉",
 	Recipe_Make_Sandwich = "制作三明治",
@@ -367,43 +368,12 @@ Recipes_CN = {
 	Recipe_Make_Metal_Containers = "制作金属容器",
 	Recipe_Make_Metal_Walls = "制作金属墙",
 	Recipe_Make_Metal_Roof = "制作金属屋顶",
-	Recipe_Open_Sack_of_Apples = "打开袋装苹果",
-	Recipe_Open_Sack_of_Bell_Peppers = "打开袋装甜椒",
-	Recipe_Open_Sack_of_Broccoli = "打开袋装西兰花",
-	Recipe_Open_Sack_of_Cabbages = "打开袋装卷心菜",
-	Recipe_Open_Sack_of_Carrots = "打开袋装胡萝卜",
-	Recipe_Open_Sack_of_Cherries = "打开袋装樱桃",
-	Recipe_Open_Sack_of_Corn = "打开袋装玉米",
-	Recipe_Open_Sack_of_Eggplants = "打开袋装茄子",
-	Recipe_Open_Sack_of_Grapes = "打开袋装葡萄",
-	Recipe_Open_Sack_of_Leeks = "打开袋装韭葱",
-	Recipe_Open_Sack_of_Lettuce = "打开袋装生菜",
-	Recipe_Open_Sack_of_Onions = "打开袋装洋葱",
-	Recipe_Open_Sack_of_Peaches = "打开袋装桃子",
-	Recipe_Open_Sack_of_Pears = "打开袋装梨",
-	Recipe_Open_Sack_of_Potatoes = "打开袋装土豆",
-	Recipe_Open_Sack_of_Radishes = "打开袋装红萝卜",
-	Recipe_Open_Sack_of_Strawberries = "打开袋装草莓",
-	Recipe_Open_Sack_of_Tomatoes = "打开袋装番茄",
-	Recipe_Make_Halloween_Pumpkin = "制作万圣节南瓜",
 	Recipe_Taco = "制作塔克卷饼",
 	Recipe_Burrito = "制作墨西哥卷饼",
 	Recipe_Muffin = "制作玛芬蛋糕",
 	Recipe_Omelette = "制作煎蛋卷",
 	Recipe_Pancakes = "制作薄煎饼",
 	Recipe_Waffles = "制作华夫饼",
-	
-	
-	--Add Text--
-	
-	Recipe_Get_6_Biscuits = "取出软饼",
-	Recipe_Make_Chocolate_Cookie_Dough = "制作巧克力曲奇饼干",
-	Recipe_Make_Chocolate_Chip_Cookie_Dough = "制作巧克力曲奇",
-	Recipe_Make_Oatmeal_Cookie_Dough = "制作燕麦曲奇",
-	Recipe_Make_Shortbread_Cookie_Dough = "制作脆饼曲奇",
-	Recipe_Make_Sugar_Cookie_Dough = "制作糖饼干",
-	Recipe_Open_Condensed_Milk = "打开炼乳",
-  
 	Recipe_Oatmeal = "燕麦粥添加",
 	Recipe_Pour_Cup_of_Beer = "塑料杯添加",
 	Recipe_Pour_Glass_of_Wine = "酒杯添加",
