@@ -1,0 +1,10 @@
+Rosewood
+ <LINE> <LINE>
+ Ang maikling paglagi sa Rosewood ay kaaya-aya, ngunit isang mahabang pamamalagi? 
+ Sasabihin sa iyo ng mga bilanggo ng sikat na Knox Penitentiary: hindi iyon nakakatuwa!
+ <LINE> <LINE>
+ May perpektong kinalalagyan sa heograpiya para sa madaling pag-access, 
+ ang Rosewood ay isang community hub para sa administrasyon at mga serbisyo sa komunidad
+ pati na rin ang isang nangungunang sentro ng pagkakakulong. Ang courthouse ng county, isang kamakailang inayos na departamento ng bumbero,
+ at isang masiglang pasilidad na nagpapatupad ng batas gawin itong isa sa pinakamahalagang bayan sa lugar! Halina't bumisita ngayon!
+
