@@ -23,6 +23,7 @@ Tooltip_CN = {
 	Tooltip_item_Temperature = "温度",
 	Tooltip_item_Fatigue = "疲劳",
 	Tooltip_item_TaintedWater = "脏水.直接饮用不安全.<br>请煮沸.",
+	Tooltip_item_TaintedWater_Plastic = "脏水.直接饮用不安全.<br>请放入微波炉中煮沸.",
 	Tooltip_item_OnlyPurifyMicrowave = "只能用于微波炉.",	
     Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "只能用于微波炉.<br>放置在户外可收集雨水",
 	Tooltip_WaterUnlimited = "无限",
