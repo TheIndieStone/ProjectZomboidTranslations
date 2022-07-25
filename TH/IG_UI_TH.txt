@@ -645,7 +645,7 @@ IGUI_TH = {
 	
 	IGUI_RadioTuneIn = "เปลี่ยนคลื่น",
 	IGUI_RadioAddPreset = "เพิ่ม",
-	IGUI_RadioEditPreset = "แก้ไขแก้ไข",
+	IGUI_RadioEditPreset = "แก้ไขคลื่น",
 	IGUI_RadioRemovePreset = "ลบ",
 	IGUI_RadioSelectChannel = "เลือกช่อง",
 	IGUI_RadioDeselectChannelList = "ยกเลิกเลือกรายการช่อง",
