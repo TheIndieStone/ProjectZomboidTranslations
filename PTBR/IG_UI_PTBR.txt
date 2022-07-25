@@ -1205,6 +1205,7 @@ IGUI_PTBR = {
     IGUI_VehicleLightbar_WAIL = "SIRENE",
     IGUI_VehicleLightbar_YELP = "SINALIZADOR",
     IGUI_Vehicle_SeatOccupied = "Assento Ocupado",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "Não posso sair de um carro em movimento.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Pare o carro primeiro.",
     IGUI_ConfirmLeaveGame = "Sair do jogo?",
     IGUI_AdminPanel_AdminPower = "Edite seus Privilégios de Administrador",

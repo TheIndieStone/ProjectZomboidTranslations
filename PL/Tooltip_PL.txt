@@ -221,7 +221,7 @@ Tooltip_PL = {
     Tooltip_item_RainFromGround = "Do wystawionego na zewnątrz naczynia będzie zbierała się deszczówka.",
     Tooltip_item_Spices = "Przyprawy: ",
     Tooltip_item_StackWeight = "Waga stosu",
-    Tooltip_item_TaintedWater = "Skażona woda. Niezdatna do picia.<br>Przegotuj ją w piekarniku, piecyku lub w ognisku.",
+    Tooltip_item_TaintedWater = "Woda niezdatna do picia.<br>Przegotuj ją w piekarniku, piecyku lub w ognisku.",
     Tooltip_item_Temperature = "Temperatura",
     Tooltip_item_TwoHandWeapon = "Największa skuteczność oburącz.",
     Tooltip_item_Unequipped = "niewyposażone",
@@ -296,9 +296,10 @@ Tooltip_PL = {
 	
 	Tooltip_food_Slice = "Pokrój",
 	Tooltip_item_OnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.",
-	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.<br>Naczynie wystawione na deszcz będzie zbierało deszczówkę.",
+	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "Zawartość może być przegotowana tylko w mikrofalówce.<br>Do wystawionego na zewnątrz naczynia będzie zbierała się deszczówka.",
 	Tooltip_item_Watermelon = "Wymaga pokrojenia lub rozbicia przed spożyciem.",
 	Tooltip_item_NeedsSliced = "Wymaga pokrojenia przed dodaniem do większości przepisów.",
 	
 	Tooltip_food_SlightDanger_uncooked = "Nieprzygotowane może spowodować chorobę lub nudności.",
+	Tooltip_item_TaintedWater_Plastic = "Woda niezdatna do picia.<br>Przegotuj ją w mikrofalówce.",
 }

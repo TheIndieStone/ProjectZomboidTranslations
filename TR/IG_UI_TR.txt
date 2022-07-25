@@ -693,6 +693,7 @@ IG_UI_TR = {
     IGUI_PlayerText_Callout3New = "HEY SEN!",
     IGUI_PlayerText_Callout3Sneak = "hey",
     IGUI_PlayerText_CalloutTutorial = "Hey! Buradayım!",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "Hareket eden bir arabadan disari çikamam.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Önce arabayı durdur.",
     IGUI_PlayerText_Cough = "Cough!",
     IGUI_PlayerText_CoughMuffled = "fmmmph!",

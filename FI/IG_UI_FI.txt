@@ -1193,6 +1193,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> Ensimmäiset asiat ensin: voit zo
     IGUI_VehicleLightbar_WAIL = "WAIL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Istuin varattu",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "Ei voi poistua liikkuvasta ajoneuvosta.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Pysäytä auto ensin.",
     IGUI_ConfirmLeaveGame = "Poistutko pelistä?",
     IGUI_AdminPanel_AdminPower = "Muokkaa järjestelmänvalvojan oikeuksiasi",

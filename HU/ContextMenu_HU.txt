@@ -6,7 +6,7 @@ ContextMenu_Sleep = "Alvás",
 ContextMenu_SleepOnGround = "Alvás a földön",
 ContextMenu_Fill = "Megtöltés",
 ContextMenu_FillAll = "Mind megtöltése",
-ContextMenu_AddAll = "Mind hozáadása ",
+ContextMenu_AddAll = "Mind hozzáadása ",
 ContextMenu_FillOne = "Egy megtöltése",
 ContextMenu_AddOne = "Egy hozzáadása ",
 ContextMenu_Drink = "Elfogyasztás",
@@ -235,6 +235,7 @@ ContextMenu_EvolvedRecipe_Salad = "Saláta",
 ContextMenu_EvolvedRecipe_FruitSalad = "Gyümölcssaláta",
 ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
 ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
+ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
 ContextMenu_EvolvedRecipe_and = "és",
 ContextMenu_EvolvedRecipe_comma = ", ???",
 ContextMenu_EvolvedRecipe_with = "ezzel: ???",
@@ -299,7 +300,7 @@ ContextMenu_FoodType_Poultry = "Baromfi",
 ContextMenu_FoodType_Sausage = "Kolbász",
 ContextMenu_FoodType_Beef = "Marhahús",
 ContextMenu_FoodType_Bacon = "Szalonna",
-ContextMenu_FoodType_HotPepper = "Csípőspaprika",
+ContextMenu_FoodType_HotPepper = "Csípős Paprika",
 ContextMenu_FoodType_Rice = "Rizs",
 ContextMenu_or = "vagy",
 ContextMenu_RemoveBush = "Bokor eltávolítása",
@@ -515,7 +516,7 @@ ContextMenu_UntieBandana = "Kendő kioldása",
 ContextMenu_DyeHair = "Haj festése",
 ContextMenu_DyeBeard = "Szakáll festése",
 ContextMenu_Merge = "Hozzáadás",
-    ContextMenu_MergeAll = "Consolidate all",
+ContextMenu_MergeAll = "Mind összevonása",
 ContextMenu_ReplaceWith = " (Lecserélni ezt: %1)",
 ContextMenu_LeftMiddleFinger = "Bal középső ujjra helyezés",
 ContextMenu_RightMiddleFinger = "Jobb középső ujjra helyezés",
@@ -535,11 +536,12 @@ ContextMenu_PlaceAll = "Mind lerakása",
 ContextMenu_NeedCooked = "Meg kell főzni.",
 ContextMenu_ComboWasherDryer_SetModeWasher = "Mód beállítás: Mosás",
 ContextMenu_ComboWasherDryer_SetModeDryer = "Mód beállítás: Szárítás",
+ContextMenu_FuelCapacity = "Tétel Üzemanyag Kapacitása: ",
 
-	-- v41.72b
-	-- Átnézve 2022.07.07
+	-- v41.73b
+	-- Átnézve 2022.07.16
 	-- Legutóbbi változás:
-	-- 41.72 új sorok hozzáadva.
+	-- 41.73 új sorok hozzáadva.
 	-- Megjegyzés:
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítani való, játék közben kell ellenőrizni.

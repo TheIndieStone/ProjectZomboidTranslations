@@ -1205,6 +1205,7 @@ IGUI_CN = {
 	IGUI_VehicleLightbar_WAIL = "呼啸",
 	IGUI_VehicleLightbar_YELP = "尖叫",
 	IGUI_Vehicle_SeatOccupied = "座椅被占用",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "我不能离开一辆正在行驶的汽车.",
 	IGUI_PlayerText_CanNotSleepInMovingCar = "请先停车.",
 	IGUI_ConfirmLeaveGame = "离开游戏?",
 	IGUI_AdminPanel_AdminPower = "编辑你的管理员权限",

@@ -952,6 +952,7 @@ IG_UI_NL = {
     IGUI_Hair_Fabian = "Fabian",
     IGUI_PlayerText_DoorBlocked = "De deur is geblokkeerd.",
     IGUI_Mechanics_MissingItem = "Item vereist: %1",
+    IGUI_PlayerText_CanNotExitFromMovingCar = "Ik kan niet uit een rijdende auto stappen.",
     IGUI_PlayerStats_LevelUp = "Level Up",
     IGUI_VehiclePartWindowMiddleLeft = "Raam Links Midden",
     IGUI_Adm_Weather_Weather = "Weer",

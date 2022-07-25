@@ -1064,6 +1064,7 @@ IGUI_UA = {
 	IGUI_VehicleLightbar_WAIL = "ВОЙ",
 	IGUI_VehicleLightbar_YELP = "КОРОТКА",
 	IGUI_Vehicle_SeatOccupied = "Сидіння зайнято",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "Я боюся вистрибувати з машини.",	
 	IGUI_ConfirmLeaveGame = "Покинути гру?",
 	IGUI_AdminPanel_AdminPower = "Зміна адмінки",
 	IGUI_AdminPanel_TooltipEditAdminPower = "Змінюйте свої адмін-повноваження, такі як невидимість, необмежена вантажопідйомність та інше.",

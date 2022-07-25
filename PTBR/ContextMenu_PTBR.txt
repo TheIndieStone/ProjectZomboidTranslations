@@ -235,6 +235,7 @@ ContextMenu_PTBR = {
     	ContextMenu_EvolvedRecipe_FruitSalad = "Salada de Frutas",
     	ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
     	ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4", 
+    	ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
     	ContextMenu_EvolvedRecipe_and = "e",
     	ContextMenu_EvolvedRecipe_comma = ",",
     	ContextMenu_EvolvedRecipe_with = "com",
@@ -535,4 +536,5 @@ ContextMenu_PTBR = {
     	ContextMenu_NeedCooked = "Precisa ser cozido.",
     	ContextMenu_ComboWasherDryer_SetModeWasher = "Modo: Lavadora",
     	ContextMenu_ComboWasherDryer_SetModeDryer = "Modo: Secadora",
+    	ContextMenu_FuelCapacity = "Capacidade de combustível: ",
 } 
