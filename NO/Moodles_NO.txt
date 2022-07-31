@@ -1,9 +1,9 @@
 Moodles_EN = {
 	-- Moodle type :
 	-- Endurance
-	Moodles_endurance_lvl1 = "Moderat Anstrengelse",
-	Moodles_endurance_lvl2 = "Høy Anstrengelse",
-	Moodles_endurance_lvl3 = "Ekstrem Anstrengelse",
+	Moodles_endurance_lvl1 = "Moderat anstrengelse",
+	Moodles_endurance_lvl2 = "Høy anstrengelse",
+	Moodles_endurance_lvl3 = "Ekstrem anstrengelse",
 	Moodles_endurance_lvl4 = "Utslitt",
 	-- Heavy Load
 	Moodles_heavyload_lvl1 = "Belastning",
@@ -21,7 +21,7 @@ Moodles_EN = {
 	Moodles_stress_lvl3 = "Stressa",
 	Moodles_stress_lvl4 = "Nervøst vrak",
 	-- Thirst
-	Moodles_thirst_lvl1 = "Små tørst",
+	Moodles_thirst_lvl1 = "Småtørst",
 	Moodles_thirst_lvl2 = "Tørst",
 	Moodles_thirst_lvl3 = "Uttørket",
 	Moodles_thirst_lvl4 = "Tørster ihjel",
@@ -143,8 +143,8 @@ Moodles_EN = {
 	Moodles_panic_desc_lvl4 = "Alvorlig redusert treffsikkerhet og syn.",
 	-- Sickness
 	Moodles_sick_desc_lvl1 = "Ta det rolig.",
-	Moodles_sick_desc_lvl2 = "Redusert styrke og helbreddelse.",
-	Moodles_sick_desc_lvl3 = "Alvorlig redusert styrke og helbreddelse.",
+	Moodles_sick_desc_lvl2 = "Redusert styrke og helbredelse.",
+	Moodles_sick_desc_lvl3 = "Alvorlig redusert styrke og helbredelse.",
 	Moodles_sick_desc_lvl4 = "Økende fare for død.",
 	-- Bored
 	Moodles_bored_desc_lvl1 = "Søk underholdning.",
@@ -165,7 +165,7 @@ Moodles_EN = {
 	Moodles_wet_desc_lvl1 = "Kom deg ut av regnet eller bli smittet av døden.",
 	Moodles_wet_desc_lvl2 = "Redusert hurtighet.",
 	Moodles_wet_desc_lvl3 = "Redusert hurtighet. I fare for å bli forkjølet.",
-	Moodles_wet_desc_lvl4 = "Kraftig redusert hurtighet. I stor fare for å bli forkjøllet.",
+	Moodles_wet_desc_lvl4 = "Kraftig redusert hurtighet. I stor fare for å bli forkjølet.",
 	-- Has a cold
 	Moodles_hasacold_desc_lvl1 = "Ett nys nå og da.",
 	Moodles_hasacold_desc_lvl2 = "Utsatt for nysing.",

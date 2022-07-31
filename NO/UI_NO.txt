@@ -1,7 +1,7 @@
 UI_NO = {
 	-- Main screen (lua) :
     UI_mainscreen_laststand = "SISTE FORSVAR",
-    UI_mainscreen_option = "Alternativer",
+    UI_mainscreen_option = "ALTERNATIVER",
     UI_mainscreen_debug = "DEBUG",
     UI_mainscreen_challenges = "UTFORDRINGER",
     UI_mainscreen_sandbox = "SANDKASSE",
@@ -41,7 +41,7 @@ UI_NO = {
     UI_coopscreen_btn_abort = "KANSELLER",
     UI_coopscreen_ServerWorkshopItemsCancelled = "Kansellert.  Venter på at server avslutter.",
     -- Option screen (lua)
-    UI_optionscreen_gameoption = "Spill Alternativer",
+    UI_optionscreen_gameoption = "Spillalternativer",
     UI_optionscreen_display = "GRAFIKK",
     UI_optionscreen_fullscreen = "Fullskjerm",
     UI_optionscreen_DisplayMode = "Visningsmodus",
