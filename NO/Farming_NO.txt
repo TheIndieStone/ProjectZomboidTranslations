@@ -18,10 +18,10 @@ Farming_EN = {
   Farming_Destroyed = "Ødelagt",
   -- farming info text
   -- title
-  Farming_Plant_Information = "Plante Informasjon",
-  Farming_Current_growing_phase = "Nåværende gro fase",
-  Farming_Next_growing_phase = "Neste gro fase",
-  Farming_Last_time_watered = "sist vannet",
+  Farming_Plant_Information = "Planteinformasjon",
+  Farming_Current_growing_phase = "Nåværende grofase",
+  Farming_Next_growing_phase = "Neste grofase",
+  Farming_Last_time_watered = "Sist vannet",
   Farming_Fertilized = "Gjødslet",
   Farming_Health = "Helse",
   Farming_Disease = "Sykdom",
@@ -34,12 +34,12 @@ Farming_EN = {
   Farming_Parched = "Uttørket",
   -- growing phase
   Farming_Seedling = "Spire",
-  Farming_Fully_grown = "Full vokst",
+  Farming_Fully_grown = "Fullvokst",
   Farming_Ready_to_harvest = "Klar for innhøstning",
   -- disease
   Farming_Mildew = "Mugg",
   Farming_Pest_Flies = "Fruktfluer",
-  Farming_Devil_Water_Fungi = "Djevelens Vann sopp",
+  Farming_Devil_Water_Fungi = "Djevelens Vannsopp",
   -- hours
   Farming_Hours = "Timer",
   -- health
