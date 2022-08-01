@@ -129,6 +129,7 @@ UI_EN = {
     UI_optionscreen_flies_volume_tt = "The sound of flies buzzing around corpses.",
     UI_optionscreen_heart_volume = "Heart Volume",
     UI_optionscreen_heart_volume_tt = "The two major sounds heard in the normal heart sound like "lub dub". <BR> The "lub" is the first heart sound, commonly termed S1, and is caused by turbulence caused by the closure of mitral and tricuspid valves at the start of systole. <BR> The second sound, "dub" or S2, is caused by the closure of aortic and pulmonic valves, marking the end of systole.",
+    UI_optionscreen_jumpscare_volume = "Jump-scare SFX Volume",
     UI_optionscreen_vehicle_engine_volume = "Vehicle Engine Volume",
     UI_optionscreen_vehicle_engine_volume_tt = "Vroom! Vroom! VROOM!",
     UI_optionscreen_controller = "CONTROLLER",
