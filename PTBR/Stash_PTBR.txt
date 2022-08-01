@@ -38,7 +38,7 @@ Stash_PTBR = {
     Stash_LVMap9_Text2 = "não se perca nas árvores",
     Stash_LVMap9_Text3 = "essas coisas estão lá também",
 
-    Stash_LVMap10_Text1 = "velho maldito com a casa cheia de comida",
+    Stash_LVMap10_Text1 = "velho desgraçado com a casa cheia de comida",
     Stash_LVMap10_Text2 = "e nenhuma arma",
     Stash_LVMap10_Text3 = "só não traga toda essa maldita",
     Stash_LVMap10_Text4 = "horda com você desta vez!",
@@ -240,7 +240,7 @@ Stash_PTBR = {
     Stash_RiversideStashMap5_Text2 = "OS MALDITOS MATARAM FRANK E ME MORDERAM",
 
     Stash_RiversideStashMap6_Text1 = "Eddie deve ter algumas armas escondidas aqui",
-    Stash_RiversideStashMap6_Text11 = "Esse maldito tomaria conta da cidade se ele não estivesse doente",
+    Stash_RiversideStashMap6_Text11 = "Esse cuzão tomaria conta da cidade se não estivesse doente",
     Stash_RiversideStashMap6_Text12 = "Espero que a psicopata da Vicky não tenha chegado até eles",
 
     Stash_RiversideStashMap7_Text1 = "Olhou para o passado - todos eles se transformaram",
@@ -340,11 +340,11 @@ Stash_PTBR = {
     Stash_WorldMap18_Text1 = "Ben"
     Stash_WorldMap18_Text2 = "caminho"
 
-    Stash_WorldMap19_Text1 = "Dane-se teimoso! Pelo menos pegue as armas que deixei na casa da Sra. Cuddy"
+    Stash_WorldMap19_Text1 = "Teimoso de merda! Pelo menos pegue as armas que deixei na casa da Sra. Cuddy"
     Stash_WorldMap19_Text11 = "Se você morrer eu nunca vou te perdoar!!!"
 
     Stash_WorldMap19_Text1 = "IDIOTA"
-    Stash_WorldMap19_Text2 = "BABACA"
+    Stash_WorldMap19_Text2 = "FODIDO"
     Stash_WorldMap19_Text3 = "CUZÃO"
     */
 }
