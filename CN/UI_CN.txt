@@ -129,6 +129,7 @@ UI_CN = {
 	UI_optionscreen_flies_volume_tt = "尸体周边打转的苍蝇的音量.",
 	UI_optionscreen_heart_volume = "心跳音量",
 	UI_optionscreen_heart_volume_tt = "游戏中心跳效果的音量大小.",
+	UI_optionscreen_jumpscare_volume = "惊吓音效",
 	UI_optionscreen_vehicle_engine_volume = "车辆引擎音量",
 	UI_optionscreen_vehicle_engine_volume_tt = "轰!轰!轰!",
 	UI_optionscreen_controller = "控制器/手柄",
