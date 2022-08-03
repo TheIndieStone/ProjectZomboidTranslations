@@ -20,6 +20,7 @@ Tooltip_RU = {
 	Tooltip_item_Temperature = "Температура",
 	Tooltip_item_Fatigue = "Усталость",
 	Tooltip_item_TaintedWater = "Пить грязную воду опасно - стерилизуйте её, прокипятив на огне",
+	Tooltip_item_TaintedWater_Plastic = "Пить грязную воду опасно. <br>Стерилизуйте её, прокипятив на огне",
 	Tooltip_weapon_Condition = "Состояние",
 	Tooltip_weapon_Repaired = "Починено",
 	Tooltip_weapon_Damage = "Урон",
