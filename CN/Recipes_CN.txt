@@ -20,6 +20,7 @@ Recipes_CN = {
     Recipe_Build_Drawer = "制作抽屉",
     Recipe_Build_Spiked_Baseball_Bat = "制作钉刺球棒",
     Recipe_Build_Spiked_Plank = "制作钉刺木板",
+	Recipe_Burrito = "墨西哥卷饼",
     Recipe_Butcher_Bird = "宰杀鸟",
     Recipe_Butcher_Rabbit = "宰杀兔子",
     Recipe_Butcher_Small_Animal = "宰杀小动物",
