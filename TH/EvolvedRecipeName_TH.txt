@@ -105,4 +105,7 @@ EvolvedRecipeName_TH = {
 	EvolvedRecipeName_farming.BaconBits = "เบคอนเค็มอบแห้ง",
 	EvolvedRecipeName_farming.BaconRashers = "เบคอนหั่นบาง",
 	EvolvedRecipeName_farming.Strewberrie = "สตรอว์เบอร์รี",
+
+	EvolvedRecipeName_Base.Violets = "วิโอลา",
+
 }

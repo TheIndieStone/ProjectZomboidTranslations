@@ -2103,4 +2103,5 @@ ItemName_TH= {
 	ItemName_Base.brokenglass_1_2 = "วัตถุที่เคลื่อนย้ายได้",
 	ItemName_Base.brokenglass_1_3 = "วัตถุที่เคลื่อนย้ายได้",
     
+    ItemName_Base.Maggots2 = "หนอนแมลงวัน",
 }
