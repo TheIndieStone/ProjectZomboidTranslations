@@ -78,7 +78,32 @@ SurvivalGuide_NO = {
 										" Når du overlever i varmt vær, anbefales det å holde seg godt hydrert og bruke lettere klær. <LINE> <BR>" ..
 										" <H2> Å VITE TEMPERATUREN <BR> <TEXT> Hvis du har på deg en digital klokke, vises temperaturen på brukergrensesnittet. <LINE> <BR> " ..
 										" <H2> VINDKJØLING <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> Å være ute, spesielt i vintermånedene, vil gi deg vindavkjøling. Kraftig regn eller snøstorm i midten av vinteren kan redusere temperaturen din kraftig på grunn av kombinasjonen av sterk vind og lav temperatur. <LINE> <BR> " ..
-										" <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Vindkjøling påvirker kroppen din, men vil ikke vise en direkte temperaturforskjell på den digitale klokken din. Hold øye med humøret ditt for å se når det påvirker deg <LINE> <BR> "<H1> BESKYTTELSE AV KLÆR <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> Å bruke riktige klær kan beskytte deg mot bitt, riper og rifter. Trykk <SPACE><-KEY:Toggle Klær Beskyttelse Panel><SPACE> for å åpne klesbeskyttelsespanelet og se en oversikt over den overlevendes gjeldende beskyttelsesnivåer. <BR> Du kan reparere hull i klærne dine med passende materialer og skreddersøm, og til og med legge til polstring for å gi mer beskyttelse. Bare høyreklikk på klesplagget i inventaret ditt og klikk "Inspiser", og høyreklikk deretter på området du vil reparere eller reparere. Bare sørg for at du har strimler av passende stoff sammen med en nål og tråd i inventaret ditt. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+										" <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> Vindkjøling påvirker kroppen din, men vil ikke vise en direkte temperaturforskjell på den digitale klokken din. Hold øye med humøret ditt for å se når det påvirker deg <LINE> <BR> "<H1> BESKYTTELSE AV KLÆR <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> Å bruke riktige klær kan beskytte deg mot bitt, riper og rifter. Trykk <SPACE><-KEY:Toggle Klær Beskyttelse Panel><SPACE> for å åpne klesbeskyttelsespanelet og se en oversikt over den overlevendes gjeldende beskyttelsesnivåer. <BR> Du kan reparere hull i klærne dine med passende materialer og skreddersøm, og til og med legge til polstring for å gi mer beskyttelse. Bare høyreklikk på klesplagget i inventaret ditt og klikk "Inspiser", og høyreklikk deretter på området du vil reparere eller reparere. Bare sørg for at du har strimler av passende stoff sammen med en nål og tråd i inventaret ditt. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>"" ..,
+
+	SurvivalGuide_entrie11title = "#11 - SANKING",
+	SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - SANKING <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> Verden er full av nyttige ting hvis du vet hvor (og når, og hvordan) du skal lete! <LINE> <LINE> Bær, sopp, steiner ... hvem vet hva du finner hvis du leter på rett sted?",
+	SurvivalGuide_entrie11moreinfo = " <H1> SANKING <BR> " ..
+	                                 " <TEXT> <SIZE:small>" ..
+									 " Undersøk område-vinduet viser sonen din. Dette påvirker hva som kan bli funnet." ..
+									 " Hold musen over vinduet for å inspisere byttekategoriene som er tilgjengelige i din nåværende sone." ..
+									 " Hvis du ser "?????", er det ikke noe nyttig å finne. <LINE> <LINE> " ..
+									 " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+									 " For å begynne å søke, klikk 'Aktiver søkemodus'. Søkeradiusen vil vises. Dette er området der overlevende kan oppdage gjenstander. <LINE> <LINE>" ..
+									 " En pil som peker på et element vil vises når de ser noe. Et øyeikon vil vises mens karakteren din nærmer seg, og ser nøyaktig hva det er. <LINE> <LINE>" ..
+									 " Dobbeltklikk på en oppdaget gjenstand for å plukke den opp. Høyreklikk for flere alternativer. <LINE> <LINE> " ..
+									 " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+									 " <SIZE:medium> <CENTRE> FORBEDRE SØKET DITT <TEXT> <BR> " ..
+									 " Å se seg rundt (ved å sikte) og å huke seg vil begge øke søkeradiusen. Mørke, dårlig vær, ferdigheter, gjenstandsstørrelse og negative stemninger (stress, skader osv.) vil alle påvirke gjenstandens synlighet. <LINE> <LINE> " ..
+									 " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+									 " <SIZE:medium> <CENTRE> VIKTIG! <TEXT> <BR> " ..
+									 " Sørg for å sjekke relevante og logiske steder!" ..
+									 " For eksempel kan søppel finnes i søppelhauger, flisete steiner finnes ofte i sprekker og jettegryter på veier. <LINE> <LINE> ",
+
+
+
+
+
+
 
 										
 
