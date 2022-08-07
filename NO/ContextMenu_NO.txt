@@ -68,6 +68,7 @@ ContextMenu_NO = {
 	ContextMenu_Dry_myself = "Tørk meg selv",
 	ContextMenu_Drop = "Slipp",
 	ContextMenu_DropNamedItem = "Slipp %1",
+	ContextMenu_Full = "Full (%1)",
 	ContextMenu_Dig = "Grav",
 	ContextMenu_DigWithHands = "Grav fure med hendene",
 	ContextMenu_DigWithHandsTT = "Kan skade hendene dine.",
