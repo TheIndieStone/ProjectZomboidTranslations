@@ -1418,7 +1418,7 @@ UI_CN = {
 	UI_NewGame_Sandbox_desc2 = "量身设计你自己的难度和游戏风格.",
 	UI_News_Anim3 = "<H1> 欢迎来到41稳定版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
 					"<CENTRE> <SIZE:large> 为了获得最佳的多人游戏体验, 我们强烈建议你在白名单的服务器上进行游戏, 或者与你的朋友一起合作. <LINE><LINE> " ..
-					"<CENTRE> <SIZE:large> 请在我们改进、修复和完善过程中请多谅解 <LINE><LINE> ",
+					"<CENTRE> <SIZE:large> 请在我们改进、修复和完善过程中请多谅解. <LINE><LINE> ",
 	UI_News_Anim = "<H1>欢迎来到41公测版! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
 					"<CENTRE> <SIZE:large> 这是PZ有史以来最大的代码更新的一个开发中的版本. <LINE><LINE> " ..
 					"<CENTRE> 会出现错误和平衡问题.优化改进正在进行中. <LINE><LINE> " ..
