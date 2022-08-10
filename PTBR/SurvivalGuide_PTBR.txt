@@ -93,7 +93,7 @@ SurvivalGuide_PTBR = {
                                      " Clique duas vezes em um item descoberto para pegá-lo. Clique com o Botão Direito para mais opções de coleta. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> MELHORANDO SUA PROCURA <TEXT> <BR> " ..
-                                     " Olhar ao redor (em posição de mira) e agachado aumentará o raio de procura. Escuridão, clima, habilidade, tamanho do item e adversidades físicas e psicológicas (estresse, lesões, etc) afetarão a visibilidade do item. <LINE> <LINE> " ..
+                                     " Olhar ao redor (em posição de mira) e agachado aumentará o raio de procura. Visibilidade, clima, habilidade, tamanho do item e adversidades físicas e psicológicas (estresse, lesões, etc) afetarão a probabilidade de encontrar um item. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> IMPORTANTE! <TEXT> <BR> " ..
                                      " Certifique-se de verificar locais relevantes e lógicos!" ..
@@ -186,7 +186,7 @@ SurvivalGuide_PTBR = {
                                      " Use o <JOYPAD:XButton,28,28> menu para pegar o item descoberto. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> MELHORANDO SUA PROCURA <TEXT> <BR> " ..
-                                     " Olhar ao redor (em posição de mira) e agachado aumentará o raio de procura. Escuridão, clima, habilidade, tamanho do item e adversidades físicas e psicológicas (estresse, lesões, etc) afetarão a visibilidade do item. <LINE> <LINE> " ..
+                                     " Olhar ao redor (em posição de mira) e agachado aumentará o raio de procura. Visibilidade, clima, habilidade, tamanho do item e adversidades físicas e psicológicas (estresse, lesões, etc) afetarão a probabilidade de encontrar um item. <LINE> <LINE> " ..
                                      " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
                                      " <SIZE:medium> <CENTRE> IMPORTANTE! <TEXT> <BR> " ..
                                      " Certifique-se de verificar locais relevantes e lógicos!" ..
