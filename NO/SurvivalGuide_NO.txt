@@ -165,7 +165,7 @@ SurvivalGuide_NO = {
 
 	SurvivalGuide_Joypad_entrie10title = "#10 - VÆRET",
 	SurvivalGuide_Joypad_entrie10txt = " <CENTRE> "<SIZE:large> #10 - VÆR OG KLÆR <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> Husk at klærne dine kan beskytte mot mer enn bare vinden...",
-	SurvivalGuide_entrie10moreinfo = "<H1> KLIMAENDRING <BR> <TEXT> Værmønstre i Project Zomboid er realistiske. Et simulert klimasystem bruker årstiden og virtuelle værfronter til å lage regn, snø, tåke og tordenvær ved de aktuelle tider på året. Bruk de riktige klærne for å holde deg kjølig om sommeren og varm om vinteren, og husk å holde dem i god stand! <LINE> " ..
+	SurvivalGuide_Joypad_entrie10moreinfo = "<H1> KLIMAENDRING <BR> <TEXT> Værmønstre i Project Zomboid er realistiske. Et simulert klimasystem bruker årstiden og virtuelle værfronter til å lage regn, snø, tåke og tordenvær ved de aktuelle tider på året. Bruk de riktige klærne for å holde deg kjølig om sommeren og varm om vinteren, og husk å holde dem i god stand! <LINE> " ..
 									" <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> Temperaturen har en innvirkning på overlevelsen din. Når vinteren nærmer seg, vil motstanden mot kulde være høyest hvis du er mett, uthvilt og iført skikkelige vinterklær. Det vil også bidra til å holde deg aktiv og være i form. Våte klær og sykdom vil begge øke sannsynligheten for at du lider av forkjølelse. <LINE> " ..
 									"I perioder med ekstrem kulde er det best å varme seg innendørs eller med varmekilder som bål, bilvarmere og komfyrer. <LINE> "..
 									" Når du overlever i varmt vær, anbefales det å holde seg godt hydrert og bruke lettere klær. <LINE> <BR>" ..
