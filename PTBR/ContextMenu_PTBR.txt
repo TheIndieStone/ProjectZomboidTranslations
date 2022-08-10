@@ -86,7 +86,7 @@ ContextMenu_PTBR = {
 	ContextMenu_WaterName = "Água",
 	ContextMenu_WaterSource = "Fonte de Água",
 	Puddle = "Poça",
-	ContextMenu_NaturalWaterSource = "Fonte de Água Natural",
+	ContextMenu_NaturalWaterSource = "Poço Artesiano",
 
 	-- Menu de Criação
 	ContextMenu_Door = "Portas",
@@ -319,10 +319,10 @@ ContextMenu_PTBR = {
 	ContextMenu_One = "Um",
 	ContextMenu_GeneratorInfo = "Informações do Gerador",
 	ContextMenu_GeneratorPlug = "Conectar Gerador",
-	ContextMenu_GeneratorUnplug = "Desconectar Gerador ",
+	ContextMenu_GeneratorUnplug = "Desconectar Gerador",
 	ContextMenu_GeneratorAddFuel = "Colocar Combustível",
 	ContextMenu_GeneratorFix = "Consertar Gerador",
-	ContextMenu_GeneratorPlugTT = "Profissão de Eletricista ou ler a revista "Como Usar Geradores" é necessário para a operação.",
+	ContextMenu_GeneratorPlugTT = "Requer profissão de Eletricista ou a leitura da revista "Como Usar Geradores" para ser operado.",
 	ContextMenu_GeneratorFixTT = "Sucata Eletrônica necessária para o reparo.",
 	ContextMenu_GeneratorTake = "Pegar Gerador",
 	ContextMenu_SafehouseClaim = "Reivindicar Base",
