@@ -206,7 +206,7 @@ Moodles_PTBR = {
 	Moodles_foodeaten_desc_lvl3 = "Estômago satisfeito. Bônus em força e regeneração.",
 	Moodles_foodeaten_desc_lvl4 = "Não consigo comer mais nada por agora...",
 	-- Hipertermia
-	Moodles_hyperthermia_desc_lvl1 = "Considere tirar um pouco de roupa. A sede aumentou.",
+	Moodles_hyperthermia_desc_lvl1 = "Sentirá mais sede. Considere usar menos roupa.",
 	Moodles_hyperthermia_desc_lvl2 = "Sedento. Suado. Superexposto ao calor.",
 	Moodles_hyperthermia_desc_lvl3 = "Náusea, incapaz de se concentrar e procurando algo para beber.",
 	Moodles_hyperthermia_desc_lvl4 = "Delirando devido à insolação e à superexposição. Severamente em perigo.",
