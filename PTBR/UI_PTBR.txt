@@ -1420,7 +1420,7 @@ UI_PTBR = {
                     "<CENTRE> <SIZE:large> Para uma melhor experiência em multiplayer, aconselhamos FORTEMENTE jogar em servidores com whitelist ou com seus amigos em modo cooperação (co-op). <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Por favor, seja compreensivo enquanto melhoramos, consertamos e aperfeiçoamos o jogo. <LINE><LINE> ",
     UI_News_Anim = "<H1> SEJA BEM-VINDO À BETA PÚBLICA DA BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Essa é uma versão WIP de uma das maiores atualizações que o PZ já teve. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Essa é uma versão WIP (em progresso) de uma das maiores atualizações que o PZ já teve. <LINE><LINE> " ..
                     "<CENTRE> Haverá bugs e problemas de balanceamento. Melhorias na otimização estão em andamento. <LINE><LINE> " ..
                     "<CENTRE> Algumas funcionalidades foram temporariamente desabilitadas. <LINE><LINE> " ..
                     "<CENTRE> Se tiver algum problema: não se irrite, participe. Nos informe em nossos fóruns.",
