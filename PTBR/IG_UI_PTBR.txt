@@ -568,7 +568,7 @@ IGUI_PTBR = {
     IGUI_PoisonousMushroom = "Cogumelo Venenoso",
     IGUI_Mushroom = "Cogumelo",
 
-    IGUI_PostDeath_Quit = "SAIR PARA ÁREA DE TRABALHO",
+    IGUI_PostDeath_Quit = "SAIR DO JOGO",
     IGUI_PostDeath_Exit = "MENU PRINCIPAL",
     IGUI_PostDeath_Respawn = "NOVO PERSONAGEM",
 

@@ -5293,16 +5293,16 @@
 	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = 
 
 	////1761. ORIGINAL: [img=music]  You love me too. [img=music]
-	902c867e-a33a-4692-9c2d-1a68be0e112d = [img=music] You love me too. [img=music]
+	902c867e-a33a-4692-9c2d-1a68be0e112d = 
 
 	////1762. ORIGINAL: [img=music]  You do. [img=music]
-	dc77fb74-6981-449a-8b05-0bc1f0535784 = [img=music] You do. [img=music]
+	dc77fb74-6981-449a-8b05-0bc1f0535784 = 
 
 	////1763. ORIGINAL: [img=music]  Sweetheart darling, you... [img=music]
-	34c71dca-2224-4f3b-9535-5ae616dd0ddd = [img=music] Sweetheart darling, you... [img=music]
+	34c71dca-2224-4f3b-9535-5ae616dd0ddd = 
 
 	////1764. ORIGINAL: [img=music]  Do... [img=music]
-	22d5cc8d-b723-4b91-ab17-37657384a3cb = [img=music] Do... [img=music]
+	22d5cc8d-b723-4b91-ab17-37657384a3cb = 
 
 	////1765. ORIGINAL: You just know, right where I'll be.
 	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = 
@@ -10102,7 +10102,7 @@
 	4009cbdb-f9db-4741-9258-de17df18b90e = I wiecie za co polubicie go najbardziej?
 
 	////3364. ORIGINAL: He's only $49.99 plus postage and packing.
-	361268c6-0b75-4d1c-be51-020f7808e2b4 = Kosztuje tylko 49.99$ plus koszty wysyłki.
+	361268c6-0b75-4d1c-be51-020f7808e2b4 = Kosztuje tylko 49,99 $ plus koszty wysyłki.
 
 	////3365. ORIGINAL: All I have to do is press this little button on his paw and...
 	fb798ae7-afae-43f2-9e14-a85f50c465c0 = I wszystko, co muszę zrobić, to wcisnąć ten mały przycisk na jego łapie i...
@@ -10114,7 +10114,7 @@
 	3b595ea3-ed30-4eda-affc-5c3c91d6f24a = O, na pewno, Tooks!
 
 	////3368. ORIGINAL: For $49.99 who'd resist? Call now!
-	ade87393-e60f-4677-a43a-8ed67a311547 = Kto by się oparł za 49.99$? Dzwońcie teraz!
+	ade87393-e60f-4677-a43a-8ed67a311547 = Kto by się oparł za 49,99 $? Dzwońcie teraz!
 
 	////3369. ORIGINAL: You're back with the Cook Show!
 	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = Witamy w „Prostym Gotowaniu”!
@@ -11476,7 +11476,7 @@
 	393db48b-0320-425f-949e-8aa80b265cf5 = „Skąd pochodzą pyry z gzikiem, tej?”
 
 	////3822. ORIGINAL: Paul! Amazing! $3000!
-	2bc11e60-794a-4b09-b590-903b281d5825 = Gratulacje, Paul! 3000$!
+	2bc11e60-794a-4b09-b590-903b281d5825 = Gratulacje, Paul! 3000 $!
 
 	////3823. ORIGINAL: Aye! I kennay believe this like!
 	be9bfd66-020d-450f-be71-80096609834d = Wiara! Nie mogę w to uwierzyć!
@@ -11557,7 +11557,7 @@
 	165a3d5b-84e7-4974-85d6-ae1d1b751f3f = Dziękuję, Danielu. To zaszczyt być tutaj.
 
 	////3849. ORIGINAL: For $2000: your answer is 'A fish pie'.
-	dd584987-f6b0-436f-b9f0-8197a19c5734 = Twoja odpowiedź za 2000$ brzmi „placek rybny”.
+	dd584987-f6b0-436f-b9f0-8197a19c5734 = Twoja odpowiedź za 2000 $ brzmi „placek rybny”.
 
 	////3850. ORIGINAL: Bof. I think maybe... 'What is a bad pie?'
 	64fd355d-9c72-41a7-b048-2187c1e402e1 = Hmm. Być może... „Co jest niesmacznym plackiem?”
@@ -11854,7 +11854,7 @@
 	6cb711ba-f180-45b2-87d6-e73cb26beb55 = Czas na odwiedzenie Magicznego Lasu!
 
 	////3948. ORIGINAL: Sponsored by Spiffos™!
-	9233196b-97dc-4fd9-804c-f45715875d4d = Sponsorowane przez Spiffo's?!
+	9233196b-97dc-4fd9-804c-f45715875d4d = Sponsorowane przez Spiffo's™!
 
 	////3949. ORIGINAL: Hi there Spiffo! Who's your little friend?
 	b8feed00-3e07-412c-bc23-390ca80efe8b = Cześć, Spiffo! Kto jest twoim małym przyjacielem?
@@ -12073,7 +12073,7 @@
 	f823121d-46e9-431c-9b2b-909165ccf37b = Będzie starczył na lata.
 
 	////4021. ORIGINAL: $1999 for perfect home computing, for life.
-	0e2ee878-cb0d-4eeb-a944-35630cf6e0a5 = 1999$ za komputer sprawny przez całe życie.
+	0e2ee878-cb0d-4eeb-a944-35630cf6e0a5 = 1999 $ za komputer sprawny przez całe życie.
 
 	////4022. ORIGINAL: Sign me up! Call now folks!
 	05b26a6c-d5b2-43cb-ba5c-f8e27adc5748 = Biorę jeden! Dzwońcie teraz!
@@ -12142,7 +12142,7 @@
 	51738f11-f7a3-4891-95af-d507bb9c9549 = A dzisiaj to zaoferowania mam? Niesamowite oferty!
 
 	////4044. ORIGINAL: This steam cooker? $45.99.
-	f80b3fc0-508a-4fd7-b2a3-873f36f2e47a = Ten piekarnik parowy? 45.99$.
+	f80b3fc0-508a-4fd7-b2a3-873f36f2e47a = Ten piekarnik parowy? 45,99 $.
 
 	////4045. ORIGINAL: That elegant swiss fondue set? L33.99
 	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 
@@ -12160,7 +12160,7 @@
 	7c2eb83a-ab50-4791-82ac-70dec175ddcc = Ale kogo to obchodzi, jeśli zadzwonisz dzisiaj...
 
 	////4050. ORIGINAL: ...for this electric carving knife! $17.99!?
-	cd66b5ca-514d-4f40-9a22-4b326ff665a0 = ...dostaniesz ten elektryczny nóż! Za 17.99$!?
+	cd66b5ca-514d-4f40-9a22-4b326ff665a0 = ...dostaniesz ten elektryczny nóż! Za 17,99 $!?
 
 	////4051. ORIGINAL: Is he mad? No!
 	1d5cbade-26bf-422b-bdb4-0eed83f80101 = Czy on oszalał? Nie!
@@ -12316,7 +12316,7 @@
 	e0130246-7efd-4158-96ad-b8f11c9d5319 = Ile za nie?
 
 	////4102. ORIGINAL: Just $18.99 plus postage and packing...
-	1a6d70a6-dd1e-419f-b7ca-7411b538c02a = Tylko 18,99$ plus koszty wysyłki...
+	1a6d70a6-dd1e-419f-b7ca-7411b538c02a = Tylko 18,99 $ plus koszty wysyłki...
 
 	////4103. ORIGINAL: ... for ten.
 	a3fe2986-a843-45fc-8710-4971ee186e47 = ...za dziesięć sztuk.
@@ -12493,7 +12493,7 @@
 	c3ce07cd-e463-4998-9fbb-389dca97c9e5 = Super!
 
 	////4161. ORIGINAL: That was worth $15.99 plus postage and packing, in one roll!
-	9979d19e-c400-4767-8406-2a4b2a96474b = Ten rzut był warty 15,99$ plus koszty wysyłki!
+	9979d19e-c400-4767-8406-2a4b2a96474b = Ten rzut był warty 15,99 $ plus koszty wysyłki!
 
 	////4162. ORIGINAL: Man, I LOVE THIS!
 	5e88686b-3fbe-47fa-a2fc-5fc4f3dba2bb = Uwielbiam tę grę!
@@ -13600,7 +13600,7 @@
 	0b529010-9da0-472f-a28d-3503859b308e = „Jestem niedźwiadek Tooks! Przeżyjmy przygodę!”
 
 	////4530. ORIGINAL: We sure will Tooks! For $49.99 who'd resist?
-	af296a0e-f561-4f4e-9fff-ae8a65900803 = Z chęcią, Tooks! Kto by się oparł za 49,99$?
+	af296a0e-f561-4f4e-9fff-ae8a65900803 = Z chęcią, Tooks! Kto by się oparł za 49,99 $?
 
 	////4531. ORIGINAL: I am a cow.
 	68b1fee8-5fd9-4166-a9ff-43331eae097d = Jestem krową.

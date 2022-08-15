@@ -181,7 +181,7 @@
 	de1a7a5c-e799-4a92-b942-d7683f46449a = To nie może być prawda.
 
 	////57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
-	47c01a90-d68e-483a-9271-24b7e7e60178 = 15.99$, plus koszty wysyłki!
+	47c01a90-d68e-483a-9271-24b7e7e60178 = 15,99 $, plus koszty wysyłki!
 
 	////58. ORIGINAL [#FF7030A0]: You know why we're here...
 	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = 
@@ -235,13 +235,13 @@
 	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *oklaski w sali rozpraw*
 
 	////75. ORIGINAL [#FF00B050]: Paul, you're on 2000 dollars! Well done!
-	c0402817-3eb0-46ca-b709-64ae6638e745 = Paul, na swoim koncie masz już 2000$! Znakomicie!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = Paul, na swoim koncie masz już 2000 $! Znakomicie!
 
 	////76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
-	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Za 3000$: twoją odpowiedzią jest „Poznań”.
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Za 3000 $: twoją odpowiedzią jest „Poznań”.
 
 	////77. ORIGINAL [#FF00B050]: Robert Johnson, you're on 1000 dollars! Well done!
-	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Pan Robert Johnson wygrał właśnie 1000$! Brawo!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Pan Robert Johnson wygrał właśnie 1000 $! Brawo!
 
 	////78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
 	c9b01cec-94a2-4fb0-95d2-0677e237538f = 
@@ -253,7 +253,7 @@
 	a706a64e-f46a-407f-b853-91c7e0b607bf = 
 
 	////81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
-	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Ten elegancki, szwajcarski zestaw do fondue? 33.99$.
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Ten elegancki, szwajcarski zestaw do fondue? 33,99 $.
 
 	////82. ORIGINAL [Yellow]: I... Die!
 	72ff543a-10c4-409f-a7c2-9603dc521c11 = 
@@ -265,7 +265,7 @@
 	845988d3-0acf-464a-952e-b0b05050ad46 = Pomóżmy twojej zabawce...
 
 	////85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
-	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15,99$ plus koszty wysyłki.
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15,99 $ plus koszty wysyłki.
 
 	////86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
 	4f019495-c989-495d-8c31-ed833ef9c7e7 = Proszę tylko o jedno: pamiętajcie o mnie, gdy niebo pociemnieje.
