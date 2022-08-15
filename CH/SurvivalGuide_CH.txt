@@ -12,7 +12,7 @@ SurvivalGuide_CH = {
                                     " <LINE> <H1> 右鍵選單 <BR> <TEXT> 使用右鍵選單可以查看更詳細的互動選項, 例如物品製作. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> 時間 <BR> <TEXT> Project Zomboid 的時間通常過得很快, 但若不夠快 (且又在單人模式下) , 畫面右上方的時間控制能幫上忙. 如果你只是站著進行耗時的動作 (像是閱讀或建造) , 你可以運用時間控制來快轉至不同的速度. 你也可以暫停時間, 在糟糕的物資搜索行動後重新思考人生. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> 地圖 <BR> <TEXT> 按下 <SPACE><KEY:Map><SPACE> 或者點擊畫面左上方的地圖圖示來打開你的地圖. 隨著你在世界四處旅行, 你的地圖也會越來越完整. 你也可以在畫面右下角顯示小地圖. 按住 <SPACE><KEY:Map><SPACE> 來查看地圖相關的選項, 例如開啟或關閉小地圖. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> 放置物品 <BR> <TEXT> 你可以透過右鍵選單內的 '放置物品' 來把大部分的物品擺放至世界中. 這可以讓你把物品放置在容器以外的地方. (像是家具等等的大型可動世界物件則可以使用畫面左上方的 '可動物件' 選項來放置. 請至第 5 頁查看更多資訊) . 請務必保持諾克斯事件的整齊乾淨! <BR>///
+                                    -- ///<LINE> <H1> 放置物品 <BR> <TEXT> 你可以透過右鍵選單內的 '放置物品' 來把大部分的物品擺放至世界中. 這可以讓你把物品放置在容器以外的地方. (像是家具等等的大型可動世界物件則可以使用畫面左上方的 '可動物件' 選項來放置. 請至第 5 頁查看更多資訊) . 請務必保持諾克斯事件的整齊乾淨! <BR>///
                                     "<H1> 別死 <BR> <TEXT> 請隨時注意不要死. <BR>",
 
 	SurvivalGuide_entrie2title = "#2 - 不要跑",
@@ -111,7 +111,7 @@ SurvivalGuide_CH = {
                                     " <LINE> <H1> 右鍵選單 <BR> <TEXT> 使用 <JOYPAD:XButton,28,28> 開啟右鍵選單可以查看更詳細的互動選項, 例如物品製作. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
                                     " <LINE> <H1> 時間 <BR> <TEXT> Project Zomboid 的時間通常過得很快, 但若不夠快 (且又在單人模式下), <JOYPAD:Back,28,28> 鍵環狀選單內的控制可以幫上忙. 你可以在你站著進行各種行動 (像是閱讀或建造) 時快轉時間流動. 你也可以暫停時間, 在糟糕的物資搜索行動後重新思考人生. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
                                     "<LINE> <H1> 地圖 <BR> <TEXT> 按住 <JOYPAD:DPadRight,28,28> 來開啟地圖與地圖相關的選項. 隨著你在世界四處旅行, 你的地圖也會越來越完整. 你也可以在畫面右下角顯示小地圖. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> 放置物品 <BR> <TEXT> 你可以透過右鍵選單內的 '放置物品' 來把大部分的物品擺放至世界中. 這可以讓你把物品放置在容器以外的地方. (像是家具等等的大型可動世界物件則可以使用畫面左上方的 '可動物件' 選項來放置. 請至第 5 頁查看更多資訊) . 請務必保持諾克斯事件的整齊乾淨! <BR>///
+                                    -- ///<LINE> <H1> 放置物品 <BR> <TEXT> 你可以透過右鍵選單內的 '放置物品' 來把大部分的物品擺放至世界中. 這可以讓你把物品放置在容器以外的地方. (像是家具等等的大型可動世界物件則可以使用畫面左上方的 '可動物件' 選項來放置. 請至第 5 頁查看更多資訊) . 請務必保持諾克斯事件的整齊乾淨! <BR>///
                                     "<H1> 別死 <BR> <TEXT> 請隨時注意不要死. <BR>",
 
 	SurvivalGuide_Joypad_entrie2title = "#2 - 不要跑",
