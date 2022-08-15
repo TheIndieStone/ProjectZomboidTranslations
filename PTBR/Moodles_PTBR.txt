@@ -1,226 +1,226 @@
 Moodles_PTBR = {
-	-- Moodle type :
-	-- Endurance
+	-- Tipo de Humor:
+	-- Resistência
 	Moodles_endurance_lvl1 = "Ofegante",
 	Moodles_endurance_lvl2 = "Cansado",
-	Moodles_endurance_lvl3 = "Muito cansado",
+	Moodles_endurance_lvl3 = "Muito Cansado",
 	Moodles_endurance_lvl4 = "Exausto",
-	-- Heavy Load
-	Moodles_heavyload_lvl1 = "Um pouco pesado",
+	-- Peso
+	Moodles_heavyload_lvl1 = "Levemente Pesado",
 	Moodles_heavyload_lvl2 = "Pesado",
-	Moodles_heavyload_lvl3 = "Pesadíssimo",
-	Moodles_heavyload_lvl4 = "Costas doendo",
-	-- Angry
-	Moodles_angry_lvl1 = "Aborrecido",
+	Moodles_heavyload_lvl3 = "Muito Pesado",
+	Moodles_heavyload_lvl4 = "Extremamente Pesado",
+	-- Raiva
+	Moodles_angry_lvl1 = "Incomodado",
 	Moodles_angry_lvl2 = "Irritado",
-	Moodles_angry_lvl3 = "Zangado",
+	Moodles_angry_lvl3 = "Nervoso",
 	Moodles_angry_lvl4 = "Furioso",
-	-- Stress
+	-- Estresse
 	Moodles_stress_lvl1 = "Ansioso",
 	Moodles_stress_lvl2 = "Agitado",
 	Moodles_stress_lvl3 = "Estressado",
-	Moodles_stress_lvl4 = "Nervoso pra caralho",
-	-- Thirst
-	Moodles_thirst_lvl1 = "Um pouco de sede",
-	Moodles_thirst_lvl2 = "Sedento",
-	Moodles_thirst_lvl3 = "Boca seca",
-	Moodles_thirst_lvl4 = "Morrendo de sede",
-	-- Tired
+	Moodles_stress_lvl4 = "Pilha de Nervos",
+	-- Sede
+	Moodles_thirst_lvl1 = "Pouca Sede",
+	Moodles_thirst_lvl2 = "Sede",
+	Moodles_thirst_lvl3 = "Sedento",
+	Moodles_thirst_lvl4 = "Morrendo de Sede",
+	-- Cansaço
 	Moodles_tired_lvl1 = "Sonolento",
 	Moodles_tired_lvl2 = "Cansado",
-	Moodles_tired_lvl3 = "Muito cansado",
-	Moodles_tired_lvl4 = "Ridiculamente cansado",
-	-- Hungry
-	Moodles_hungry_lvl1 = "Faminto",
-	Moodles_hungry_lvl2 = "Com fome",
-	Moodles_hungry_lvl3 = "Com muita fome",
-	Moodles_hungry_lvl4 = "Morrendo de fome",
-	-- Panic
-	Moodles_panic_lvl1 = "Pânico leve",
-	Moodles_panic_lvl2 = "Pânico",
-	Moodles_panic_lvl3 = "Pânico forte",
-	Moodles_panic_lvl4 = "Pânico extremo",
-	-- Sick
+	Moodles_tired_lvl3 = "Muito Cansado",
+	Moodles_tired_lvl4 = "Dormindo em Pé",
+	-- Fome
+	Moodles_hungry_lvl1 = "Pouca Fome",
+	Moodles_hungry_lvl2 = "Fome",
+	Moodles_hungry_lvl3 = "Faminto",
+	Moodles_hungry_lvl4 = "Morrendo de Fome",
+	-- Pânico
+	Moodles_panic_lvl1 = "Inseguro",
+	Moodles_panic_lvl2 = "Assustado",
+	Moodles_panic_lvl3 = "Pânico",
+	Moodles_panic_lvl4 = "Pânico Extremo",
+	-- Doença
 	Moodles_sick_lvl1 = "Enjoado",
-	Moodles_sick_lvl2 = "Tontinho",
+	Moodles_sick_lvl2 = "Nauseado",
 	Moodles_sick_lvl3 = "Doente",
-	Moodles_sick_lvl4 = "Febril",
-	-- Bored
-	Moodles_bored_lvl1 = "Ficando entediado",
+	Moodles_sick_lvl4 = "Febre",
+	-- Tédio
+	Moodles_bored_lvl1 = "Ficando Entediado",
 	Moodles_bored_lvl2 = "Entediado",
-	Moodles_bored_lvl3 = "Muito entediado",
-	Moodles_bored_lvl4 = "T...É...D...I...O...",
-	-- Unhappy
-	Moodles_unhappy_lvl1 = "Um pouco tristinho",
+	Moodles_bored_lvl3 = "Muito Entediado",
+	Moodles_bored_lvl4 = "Extremamente Entediado",
+	-- Tristeza
+	Moodles_unhappy_lvl1 = "Chateado",
 	Moodles_unhappy_lvl2 = "Triste",
-	Moodles_unhappy_lvl3 = "Depressivo",
-	Moodles_unhappy_lvl4 = "Muito depressivo",
-	-- Bleeding
-	Moodles_bleeding_lvl1 = "Sangramento leve",
-	Moodles_bleeding_lvl2 = "Sangrando",
-	Moodles_bleeding_lvl3 = "Sangrando muito",
-	Moodles_bleeding_lvl4 = "Perdendo muito sangue",
-	-- Wet
+	Moodles_unhappy_lvl3 = "Deprimido",
+	Moodles_unhappy_lvl4 = "Severamente Deprimido",
+	-- Sangramento
+	Moodles_bleeding_lvl1 = "Sangramento Leve",
+	Moodles_bleeding_lvl2 = "Sangramento Moderado",
+	Moodles_bleeding_lvl3 = "Sangramento Grave",
+	Moodles_bleeding_lvl4 = "Sangramento Letal",
+	-- Umidade
 	Moodles_wet_lvl1 = "Úmido",
 	Moodles_wet_lvl2 = "Molhado",
-	Moodles_wet_lvl3 = "Pingando",
+	Moodles_wet_lvl3 = "Muito Molhado",
 	Moodles_wet_lvl4 = "Encharcado",
-	-- Has a cold
-	Moodles_hascold_lvl1 = "Nariz escorrendo",
-	Moodles_hascold_lvl2 = "Nariz entupido",
-	Moodles_hascold_lvl3 = "Você tem um resfriado",
-	Moodles_hascold_lvl4 = "Você tem um resfriado brabo",
-	-- Injured
+	-- Resfriado
+	Moodles_hascold_lvl1 = "Resfriado Leve",
+	Moodles_hascold_lvl2 = "Resfriado",
+	Moodles_hascold_lvl3 = "Gripado",
+	Moodles_hascold_lvl4 = "Pneumonia",
+	-- Ferimento
 	Moodles_injured_lvl1 = "Desconforto",
-	Moodles_injured_lvl2 = "Machucado",
-	Moodles_injured_lvl3 = "Machucados sérios",
-	Moodles_injured_lvl4 = "Machucados críticos",
-	-- Pain
-	Moodles_pain_lvl1 = "Um pouco de dor",
+	Moodles_injured_lvl2 = "Ferido",
+	Moodles_injured_lvl3 = "Muito Ferido",
+	Moodles_injured_lvl4 = "Gravemente Ferido",
+	-- Dor
+	Moodles_pain_lvl1 = "Dor Leve",
 	Moodles_pain_lvl2 = "Dor",
-	Moodles_pain_lvl3 = "Muita dor",
+	Moodles_pain_lvl3 = "Dor Intensa",
 	Moodles_pain_lvl4 = "Agonia",
-	-- Drunk
-	Moodles_drunk_lvl1 = "Um pouquinho bêbado",
-	Moodles_drunk_lvl2 = "Embriagado",
-	Moodles_drunk_lvl3 = "B-bêbado",
-	Moodles_drunk_lvl4 = "Bêbasso",
-	-- Dead
+	-- Bêbado
+	Moodles_drunk_lvl1 = "Tonto",
+	Moodles_drunk_lvl2 = "Bêbado",
+	Moodles_drunk_lvl3 = "Muito Bêbado",
+	Moodles_drunk_lvl4 = "Podre de Bêbado",
+	-- Morto
 	Moodles_dead_lvl1 = "Morto",
-	-- Zombified
+	-- Zumbificado
 	Moodles_zombie_lvl1 = "Zumbificado",
-	-- Food eaten
+	-- Alimentado
 	Moodles_foodeaten_lvl1 = "Satisfeito",
-	Moodles_foodeaten_lvl2 = "Bem alimentado",
+	Moodles_foodeaten_lvl2 = "Bem Alimentado",
 	Moodles_foodeaten_lvl3 = "Cheio",
-	Moodles_foodeaten_lvl4 = "Quase explodindo",
-	-- Hyperthermia
-	Moodles_hyperthermia_lvl1 = "Desagradavelmente quente",
+	Moodles_foodeaten_lvl4 = "Explodindo",
+	-- Hipertermia
+	Moodles_hyperthermia_lvl1 = "Abafado",
 	Moodles_hyperthermia_lvl2 = "Quente",
-	Moodles_hyperthermia_lvl3 = "Muito quente",
-	Moodles_hyperthermia_lvl4 = "Hipertérmico",
-	-- Hypothermia
-	Moodles_hypothermia_lvl1 = "Friozinho",
+	Moodles_hyperthermia_lvl3 = "Muito Calor",
+	Moodles_hyperthermia_lvl4 = "Hipertermia",
+	-- Hipotermia
+	Moodles_hypothermia_lvl1 = "Arrepiado",
 	Moodles_hypothermia_lvl2 = "Frio",
 	Moodles_hypothermia_lvl3 = "Congelando",
-	Moodles_hypothermia_lvl4 = "Hipotérmico",
-    -- Windchill
-    Moodles_windchill_lvl1 = "Um pouco resfriado pelo vento",
-    Moodles_windchill_lvl2 = "Desconfortavelmente resfriado pelo vento",
-    Moodles_windchill_lvl3 = "Muito resfriado pelo vento",
-    Moodles_windchill_lvl4 = "Congelando pelo vento",
+	Moodles_hypothermia_lvl4 = "Hipotermia",
+    -- Ventania
+    Moodles_windchill_lvl1 = "Vento Leve",
+    Moodles_windchill_lvl2 = "Vento Desconfortável",
+    Moodles_windchill_lvl3 = "Vento Congelante",
+    Moodles_windchill_lvl4 = "Vento de Nevasca",
 
-	-- Description of moodle
-	-- Endurance
-	Moodles_endurance_desc_lvl1 = "Dá uma descansada.",
+	-- Descrição do Humor
+	-- Resistência
+	Moodles_endurance_desc_lvl1 = "Descanse um pouco.",
 	Moodles_endurance_desc_lvl2 = "Mal pode correr.",
 	Moodles_endurance_desc_lvl3 = "Mal pode andar.",
 	Moodles_endurance_desc_lvl4 = "Mal pode se mover.",
-	-- Angry
-	Moodles_angry_desc_lvl1 = "Um pouco fora do sério.",
-	Moodles_angry_desc_lvl2 = "De mal humor.",
-	Moodles_angry_desc_lvl3 = "Bola de ódio.",
-	Moodles_angry_desc_lvl4 = "Querendo trocar um murro.",
-	-- Stress
-	Moodles_stress_desc_lvl1 = "No limite.",
-	Moodles_stress_desc_lvl2 = "Nervoso e agitado.",
-	Moodles_stress_desc_lvl3 = "Mãos suando. Roendo as unhas.",
-	Moodles_stress_desc_lvl4 = "Afobado.",
-	-- Thirsty
+	-- Raiva
+	Moodles_angry_desc_lvl1 = "Não estou gostando disso...",
+	Moodles_angry_desc_lvl2 = "De mau humor.",
+	Moodles_angry_desc_lvl3 = "É melhor não me provocar mais...",
+	Moodles_angry_desc_lvl4 = "Prestes a matar alguém.",
+	-- Estresse
+	Moodles_stress_desc_lvl1 = "Roendo as unhas.",
+	Moodles_stress_desc_lvl2 = "Nervoso e inquieto.",
+	Moodles_stress_desc_lvl3 = "Mãos suadas. Medo à flor da pele.",
+	Moodles_stress_desc_lvl4 = "Apavorado.",
+	-- Sede
 	Moodles_thirst_desc_lvl1 = "Boca seca.",
-	Moodles_thirst_desc_lvl2 = "Desitratado.",
-	Moodles_thirst_desc_lvl3 = "Se sentindo fraco e tonto.",
-	Moodles_thirst_desc_lvl4 = "Desesperado por um gole.",
-	-- Tired
-	Moodles_tired_desc_lvl1 = "Podia tirar uma sonequinha.",
-	Moodles_tired_desc_lvl2 = "Alerta reduzido.",
-	Moodles_tired_desc_lvl3 = "Alerta drásticamente reduzido.",
-	Moodles_tired_desc_lvl4 = "Tão... cansado. Tão desumanamente... cansado.",
-	-- Hungry
-	Moodles_hungry_desc_lvl1 = "Podia comer alguma coisinha.",
-	Moodles_hungry_desc_lvl2 = "Comeria um boi agora.",
-	Moodles_hungry_desc_lvl3 = "Regeneração e força reduzidas.",
-	Moodles_hungry_desc_lvl4 = "A vida começou a cair...",
-	-- Panic
-	Moodles_panic_desc_lvl1 = "Dê o seu melhor pra continuar calmo.",
+	Moodles_thirst_desc_lvl2 = "Desidratado.",
+	Moodles_thirst_desc_lvl3 = "Sentindo-se fraco e tonto.",
+	Moodles_thirst_desc_lvl4 = "Desesperado por água.",
+	-- Cansaço
+	Moodles_tired_desc_lvl1 = "Um cochilo seria bom.",
+	Moodles_tired_desc_lvl2 = "Percepção reduzida.",
+	Moodles_tired_desc_lvl3 = "Percepção severamente reduzida.",
+	Moodles_tired_desc_lvl4 = "Muito cansado. Desesperadamente, desumanamente cansado.",
+	-- Fome
+	Moodles_hungry_desc_lvl1 = "Um petisco seria bom.",
+	Moodles_hungry_desc_lvl2 = "Poderia comer um boi agora.",
+	Moodles_hungry_desc_lvl3 = "Força e regeneração reduzida.",
+	Moodles_hungry_desc_lvl4 = "Logo começará a perder vida...",
+	-- Pânico
+	Moodles_panic_desc_lvl1 = "Procure permanecer calmo.",
 	Moodles_panic_desc_lvl2 = "Precisão reduzida.",
-	Moodles_panic_desc_lvl3 = "Precisão muito reduzida.",
-	Moodles_panic_desc_lvl4 = "Precisão e visão extremamente reduzidas.",
-	-- Sickness
-	Moodles_sick_desc_lvl1 = "Vai com calma.",
-	Moodles_sick_desc_lvl2 = "Regeneração e força reduzidas.",
-	Moodles_sick_desc_lvl3 = "Regeneração e força muito reduzidas.",
-	Moodles_sick_desc_lvl4 = "Aumentando as chances de morrer.",
-	-- Bored
-	Moodles_bored_desc_lvl1 = "Ocupe a mente ou procure algo pra se entreter.",
-	Moodles_bored_desc_lvl2 = "Em perigo de ficar triste.",
-	Moodles_bored_desc_lvl3 = "Altas chances de ficar triste.",
-	Moodles_bored_desc_lvl4 = "Chances de ficar tristes são mais de oito mil.",
-	-- Unhappy
-	Moodles_unhappy_desc_lvl1 = "Ache alguma coisa pra te alegrar.",
-	Moodles_unhappy_desc_lvl2 = "Ache algo divertido ou algum contato humano.",
-	Moodles_unhappy_desc_lvl3 = "Assolado pela tristeza e o desespero.",
-	Moodles_unhappy_desc_lvl4 = "Encontre algum jeito de esquecer a realidade.",
-	-- Bleeding
-	Moodles_bleed_desc_lvl1 = "Bandagem necessária.",
-	Moodles_bleed_desc_lvl2 = "Força e velocidade reduzidas.",
-	Moodles_bleed_desc_lvl3 = "Força e velocidade muito reduzidas.",
-	Moodles_bleed_desc_lvl4 = "Cara a cara com a morte.",
-	-- Wet
-	Moodles_wet_desc_lvl1 = "Um pouco molhado. Chuva ou suor?",
-	Moodles_wet_desc_lvl2 = "Suado, ou ainda mais molhado? ",
-    Moodles_wet_desc_lvl3 = "Chance de pegar um resfriado.",
-    Moodles_wet_desc_lvl4 = "Altas chances de pegar um resfriado.",
-	-- Has a cold
-	Moodles_hasacold_desc_lvl1 = "Espirrando.",
-	Moodles_hasacold_desc_lvl2 = "Espirrando mais ainda.",
-	Moodles_hasacold_desc_lvl3 = "Espirrando e tossindo. Velocidade e regeneração reduzidas.",
-	Moodles_hasacold_desc_lvl4 = "Velocidade e regeneração muito reduzidas.",
-	-- Injured
-	Moodles_injured_desc_lvl1 = "Alguma coisa não tá certo...",
-	Moodles_injured_desc_lvl2 = "Força e velocidade reduzidas.",
-	Moodles_injured_desc_lvl3 = "Força e velocidade muito reduzidas.",
-	Moodles_injured_desc_lvl4 = "Não vai dormir bem hoje à noite...",
-	-- Pain
-	Moodles_pain_desc_lvl1 = "Sentindo um pouquinho de dor.",
-	Moodles_pain_desc_lvl2 = "Velocidade e precisão um pouco reduzidas.",
-	Moodles_pain_desc_lvl3 = "Velocidade e precisão reduzidas.",
-	Moodles_pain_desc_lvl4 = "Velocidade e precisão muito reduzidas.",
-	-- Heavy load
-	Moodles_heavyload_desc_lvl1 = "Carregando um bucado.",
-	Moodles_heavyload_desc_lvl2 = "Velocidade reduzida.",
-	Moodles_heavyload_desc_lvl3 = "Velocidade muito reduzida.",
-	Moodles_heavyload_desc_lvl4 = "Não aguento mais! Costas em perigo.",
-	-- Drunk
-	Moodles_drunk_desc_lvl1 = "Tomou umas.",
-	Moodles_drunk_desc_lvl2 = "Cordenação um pouco afetada.",
-	Moodles_drunk_desc_lvl3 = "Cordenação afetada.",
-	Moodles_drunk_desc_lvl4 = "SI EU P-PUDESSE E-U MATAVA M-IL! *ric*",
-	-- Dead
-	Moodles_dead_desc_lvl1 = "Altas chances de virar comida de rato.",
-	-- Zombified
+	Moodles_panic_desc_lvl3 = "Precisão severamente reduzida.",
+	Moodles_panic_desc_lvl4 = "Precisão e visão severamente reduzida.",
+	-- Doença
+	Moodles_sick_desc_lvl1 = "Tem algo de errado comigo...",
+	Moodles_sick_desc_lvl2 = "Força e regeneração reduzida.",
+	Moodles_sick_desc_lvl3 = "Força e regeneração severamente reduzida.",
+	Moodles_sick_desc_lvl4 = "Risco de morte.",
+	-- Tédio
+	Moodles_bored_desc_lvl1 = "Procure algo para fazer.",
+	Moodles_bored_desc_lvl2 = "De saco cheio.",
+	Moodles_bored_desc_lvl3 = "Grande chance de ficar triste.",
+	Moodles_bored_desc_lvl4 = "Ficando triste.",
+	-- Tristeza
+	Moodles_unhappy_desc_lvl1 = "Procure melhorar seu humor.",
+	Moodles_unhappy_desc_lvl2 = "Procure alguma diversão ou interação humana.",
+	Moodles_unhappy_desc_lvl3 = "Em luto e desesperado.",
+	Moodles_unhappy_desc_lvl4 = "Encontrando uma forma de esquecer a realidade.",
+	-- Sangramento
+	Moodles_bleed_desc_lvl1 = "Primeiros socorros é necessário.",
+	Moodles_bleed_desc_lvl2 = "Força e velocidade reduzida.",
+	Moodles_bleed_desc_lvl3 = "Força e velocidade severamente reduzida.",
+	Moodles_bleed_desc_lvl4 = "Morte iminente.",
+	-- Úmido
+	Moodles_wet_desc_lvl1 = "Está um pouco úmido. Chuva ou suor?",
+	Moodles_wet_desc_lvl2 = "Estou mais suado, ou está chovendo mais?",
+	Moodles_wet_desc_lvl3 = "Chance de pegar um resfriado.",
+	Moodles_wet_desc_lvl4 = "Grande chance de pegar um resfriado.",
+	-- Resfriado
+	Moodles_hasacold_desc_lvl1 = "Espirros ocasionais.",
+	Moodles_hasacold_desc_lvl2 = "Espirros frequentes",
+	Moodles_hasacold_desc_lvl3 = "Espirros e tosses. Velocidade e regeneração reduzida.",
+	Moodles_hasacold_desc_lvl4 = "Velocidade e regeneração severamente reduzida.",
+	-- Ferimento
+	Moodles_injured_desc_lvl1 = "Algo não está certo...",
+	Moodles_injured_desc_lvl2 = "Força e velocidade reduzida.",
+	Moodles_injured_desc_lvl3 = "Força e velocidade severamente reduzida.",
+	Moodles_injured_desc_lvl4 = "Talvez seja meu último dia...",
+	-- Dor
+	Moodles_pain_desc_lvl1 = "Sentindo um pouco de dor.",
+	Moodles_pain_desc_lvl2 = "Velocidade e precisão levemente reduzida.",
+	Moodles_pain_desc_lvl3 = "Velocidade e precisão reduzida.",
+	Moodles_pain_desc_lvl4 = "Velocidade e precisão severamente reduzida.",
+	-- Peso
+	Moodles_heavyload_desc_lvl1 = "Carregando um pouco mais do que deveria.",
+	Moodles_heavyload_desc_lvl2 = "Velocidade de movimento reduzida.",
+	Moodles_heavyload_desc_lvl3 = "Velocidade de movimento muito reduzida.",
+	Moodles_heavyload_desc_lvl4 = "Não aguento mais. Movimentação comprometida.",
+	-- Bêbado
+	Moodles_drunk_desc_lvl1 = "Foi só uma bebidinha...",
+	Moodles_drunk_desc_lvl2 = "Coordenação motora prejudicada.",
+	Moodles_drunk_desc_lvl3 = "Coordenação motora muito prejudicada.",
+	Moodles_drunk_desc_lvl4 = "Não falando coisa com coisa. Mal sabe onde está...",
+	-- Morto
+	Moodles_dead_desc_lvl1 = "Alto risco de se tornar comida de rato.",
+	-- Zumbificado
 	Moodles_zombified_desc_lvl1 = "Desejo repentino de comer pessoas.",
-	-- Food eaten
-	Moodles_foodeaten_desc_lvl1 = "Satisfeito.",
-	Moodles_foodeaten_desc_lvl2 = "Barriga cheia. Se sentindo muito bem.",
-	Moodles_foodeaten_desc_lvl3 = "Comeu bem. Saúde e força aumentada.",
-	Moodles_foodeaten_desc_lvl4 = "Não consegue comer nem mais um pedacinho.",
-	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "Podia tirar a camisa né? Sede aumentada.",
-	Moodles_hyperthermia_desc_lvl2 = "Sedento. Suado. Exposto.",
-	Moodles_hyperthermia_desc_lvl3 = "Tonto, incapaz de se concentrar e desesperado por um golinho.",
-	Moodles_hyperthermia_desc_lvl4 = "Delirando pelo calor. Em risco.",
-	-- Hypothermia
-	Moodles_hypothermia_desc_lvl1 = "Tá um pouquinho frio aqui...",
-	Moodles_hypothermia_desc_lvl2 = "Você precisa encontrar algum jeito de se esquentar.",
-	Moodles_hypothermia_desc_lvl3 = "Cara acorda. Tá MUITO frio!"
-	Moodles_hypothermia_desc_lvl4 = "Corpo e mente consumidos pelo frio.",
-    -- Windchill
-    Moodles_windchill_desc_lvl1 = "Parecendo 5 a 10 graus mais frio do que realmente está",
-    Moodles_windchill_desc_lvl2 = "Parecendo 10 a 15 graus mais frio do que realmente está",
-    Moodles_windchill_desc_lvl3 = "Parecendo 15 a 20 graus mais frio do que realmente está",
-    Moodles_windchill_desc_lvl4 = "Parecendo mais de 20 graus mais frio do que realmente está",
-    -- CantSprint
-    Moodles_CantSprint = "Movimento restrito"
-    Moodles_CantSprint_desc = "Roupas pesadas, mochilas cheias ou itens grandes estão te desacelerando."
+	-- Alimentado
+	Moodles_foodeaten_desc_lvl1 = "Saciado momentaneamente.",
+	Moodles_foodeaten_desc_lvl2 = "Barriga cheia. Foi uma boa refeição.",
+	Moodles_foodeaten_desc_lvl3 = "Estômago satisfeito. Bônus em força e regeneração.",
+	Moodles_foodeaten_desc_lvl4 = "Não consigo comer mais nada por agora...",
+	-- Hipertermia
+	Moodles_hyperthermia_desc_lvl1 = "Sentirá mais sede. Considere usar menos roupa.",
+	Moodles_hyperthermia_desc_lvl2 = "Sedento. Suado. Superexposto ao calor.",
+	Moodles_hyperthermia_desc_lvl3 = "Náusea, incapaz de se concentrar e procurando algo para beber.",
+	Moodles_hyperthermia_desc_lvl4 = "Delirando devido à insolação e à superexposição. Severamente em perigo.",
+	-- Hipotermia
+	Moodles_hypothermia_desc_lvl1 = "Está ficando um pouco frio por aqui...",
+	Moodles_hypothermia_desc_lvl2 = "Encontre alguma forma de se aquecer.",
+	Moodles_hypothermia_desc_lvl3 = "Está MUITO frio!",
+	Moodles_hypothermia_desc_lvl4 = "Corpo e mente tomados pelo frio.",
+	-- Ventania
+	Moodles_windchill_desc_lvl1 = "Sensação térmica de 5 a 10 graus mais frio do que o normal.",
+	Moodles_windchill_desc_lvl2 = "Sensação térmica de 10 a 15 graus mais frio do que o normal.",
+	Moodles_windchill_desc_lvl3 = "Sensação térmica de 15 a 20 graus mais frio do que o normal.",
+	Moodles_windchill_desc_lvl4 = "Sensação térmica acima de 20 graus mais frio do que o normal.",
+	-- Não Posso Correr
+	Moodles_CantSprint = "Movimento Restrito",
+   	Moodles_CantSprint_desc = "Roupas e mochilas pesadas ou itens grandes estão atrapalhando você!"
 }

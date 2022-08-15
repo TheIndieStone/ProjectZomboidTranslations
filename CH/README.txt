@@ -2,8 +2,8 @@ Make sure you don't use any full-form symbols here, the font does NOT support th
 
 Example:
 	Instead of:
-		ä½ å¥½ï¼Œæˆ‘ï¼ˆå°±æ˜¯æˆ‘ï¼ï¼‰æ˜¯ä¸€å€‹å¥å­ã€‚
+		§A¦n¡A§Ú¡]´N¬O§Ú¡I¡^¬O¤@­Ó¥y¤l¡C
 	You should enter:
-		ä½ å¥½, æˆ‘ (å°±æ˜¯æˆ‘! ) æ˜¯ä¸€å€‹å¥å­. 
+		§A¦n, §Ú (´N¬O§Ú! ) ¬O¤@­Ó¥y¤l. 
 		
-mraz, Dec. 19 2021
+Also, make sure your files are using Big5 encoding.
