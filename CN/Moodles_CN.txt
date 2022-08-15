@@ -139,7 +139,7 @@ Moodles_CN = {
 	-- Hungry
 	Moodles_hungry_desc_lvl1 = "想要吃点东西.",
 	Moodles_hungry_desc_lvl2 = "什么都能吃得下.",
-	Moodles_hungry_desc_lvl3 = "力量和生命恢复降低.",
+	Moodles_hungry_desc_lvl3 = "体力和生命恢复降低.",
 	Moodles_hungry_desc_lvl4 = "生命正在流失...",
 	-- Panic
 	Moodles_panic_desc_lvl1 = "无法保持冷静.",
@@ -148,8 +148,8 @@ Moodles_CN = {
 	Moodles_panic_desc_lvl4 = "精准度和视野严重降低.",
 	-- Sickness
 	Moodles_sick_desc_lvl1 = "无法放轻松.",
-	Moodles_sick_desc_lvl2 = "力量和生命恢复降低.",
-	Moodles_sick_desc_lvl3 = "力量和生命恢复严重降低.",
+	Moodles_sick_desc_lvl2 = "体力和生命恢复降低.",
+	Moodles_sick_desc_lvl3 = "体力和生命恢复严重降低.",
 	Moodles_sick_desc_lvl4 = "死亡的危险增加.",
 	-- Bored
 	Moodles_bored_desc_lvl1 = "找些事来打发时间.",
@@ -163,8 +163,8 @@ Moodles_CN = {
 	Moodles_unhappy_desc_lvl4 = "想办法忘掉现实.",
 	-- Bleeding
 	Moodles_bleed_desc_lvl1 = "需要包扎.",
-	Moodles_bleed_desc_lvl2 = "力量和速度降低.",
-	Moodles_bleed_desc_lvl3 = "力量和速度严重降低.",
+	Moodles_bleed_desc_lvl2 = "体力和速度降低.",
+	Moodles_bleed_desc_lvl3 = "体力和速度严重降低.",
 	Moodles_bleed_desc_lvl4 = "死亡正在接近.",
 	-- Wet
 	Moodles_wet_desc_lvl1 = "有点湿湿的.下雨还是出汗?",
@@ -178,8 +178,8 @@ Moodles_CN = {
 	Moodles_hasacold_desc_lvl4 = "打喷嚏和咳嗽.速度和生命恢复严重降低.",
 	-- Injured
 	Moodles_injured_desc_lvl1 = "有点不对劲...",
-	Moodles_injured_desc_lvl2 = "力量和速度降低.",
-	Moodles_injured_desc_lvl3 = "力量和速度严重降低.",
+	Moodles_injured_desc_lvl2 = "体力和速度降低.",
+	Moodles_injured_desc_lvl3 = "体力和速度严重降低.",
 	Moodles_injured_desc_lvl4 = "过不了今晚了...",
 	-- Pain
 	Moodles_pain_desc_lvl1 = "感觉有点痛.",
@@ -203,7 +203,7 @@ Moodles_CN = {
 	-- Food eaten
 	Moodles_foodeaten_desc_lvl1 = "不再感到饥饿了.",
 	Moodles_foodeaten_desc_lvl2 = "肚子饱饱. 营养对你的身体有帮助.",
-	Moodles_foodeaten_desc_lvl3 = "肚子好撑. 力量和生命恢复提升.",
+	Moodles_foodeaten_desc_lvl3 = "肚子好撑. 体力和生命恢复提升.",
 	Moodles_foodeaten_desc_lvl4 = "连一口也吃不下了.",
 	-- Hyperthermia
 	Moodles_hyperthermia_desc_lvl1 = "考虑脱掉一些衣服. 更易口渴.",
