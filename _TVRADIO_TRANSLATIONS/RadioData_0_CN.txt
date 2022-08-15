@@ -13528,13 +13528,13 @@
 	27c9a086-afd7-4b1a-b4c6-f2e1a0bfaea9 = *喀嘶!* *枪声!*
 
 	//4506. ORIGINAL: The elements are against us today, huh?
-	eb21cefd-76a0-41de-b2dd-6a45822fb21c = 今天的元素对我们不利, 是吗?
+	eb21cefd-76a0-41de-b2dd-6a45822fb21c = 今天的天气对我们不利, 是吗?
 
 	//4507. ORIGINAL: Not for long. Let's kick some butt!
 	2d2d1b9b-11c8-4ff4-a2c9-6a0161310e25 = 不会太久的, 我们去打败他们吧!
 
 	//4508. ORIGINAL: *tadaaaa!*
-	ad2512d5-908a-41b0-8e76-8a45ff9d121c = *tadaaaa!*
+	ad2512d5-908a-41b0-8e76-8a45ff9d121c = *叮当!*
 
 	//4509. ORIGINAL: The Forgotten Element! Rated PG-13!
 	04de67eb-b8a5-4ca2-ab54-7d0ec8a85074 = 被遗忘的元素! 评级为PG-13!
