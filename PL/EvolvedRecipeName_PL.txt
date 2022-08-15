@@ -103,4 +103,5 @@ EvolvedRecipeName_PL = {
 	EvolvedRecipeName_farming.BaconBits = "Kawałki boczku",
 	EvolvedRecipeName_farming.BaconRashers = "Plasterki boczku",
 	EvolvedRecipeName_farming.Strewberrie = "Truskawki",
+	EvolvedRecipeName_Base.Violets = "Fiołki",
 }
