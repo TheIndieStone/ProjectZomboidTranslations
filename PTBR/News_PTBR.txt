@@ -6463,3 +6463,87 @@ Fixed server time on client after reconnect to another server or host.
 Changed ZomboidFileSystem.getGameModeCacheDir() to not append a trailing File.separator.
 [NODOT]<INDENT:40> Most callers of getGameModeCacheDir() already appended a File.separator, resulting in two separator characters.
 [NODOT]<INDENT:40> hese duplicate separators didn't seem to hurt anything.
+
+[VERSION]41.73
+[SECTION]NEW
+
+Gas container tooltip tweaks:
+[NODOT]<INDENT:40> 1) When adding fuel to a generator, tooltips show the percentage the generator's fuel percentage will increase.
+[NODOT]<INDENT:40> 2) When adding/siphoning fuel to/from a vehicle, tooltips show the item capacity in liters (to match the mechanics ui).
+[NODOT]<INDENT:40> 3) When taking fuel from a gas pump, tooltips show the item capacity in drainable units.
+[NODOT]<BR> 
+Added icons + textures for Medical/Trauma Bag and Canned Fruit Beverage.
+
+[SECTION]MODELS AND ANIMS
+Added masks to extended idle xmls to not clip as much,
+Added relevant extended idle anims where needed
+Capped off hoodieUP xfiles to stop transparency
+Adjusted hoodieUP texture for new cap
+Added blood locations to a couple of missing shirts
+Re-exported female and zombie female base textures after eliminating some erroneous pixels causing holes
+Adjusted Hat_Spiffo mask to display properly on character
+Re-exported missed zombie body textures that had outlying pixels
+Adjusted male and female HighViz vests to visually work similar to hunting vests
+Reworked Male and Female HighViz vests
+Changed HighViz vest body location
+Tweaked Hunting vest masks to work better with underlying clothes
+
+[SECTION]MODDING
+Added additional check to Vehicle Create, Update and Install Radios that may help prevent mods that modify what data is sent to it from causing errors.
+
+[SECTION]FORAGING / SEARCH MODE
+Changed double click behaviour of search mode pins to place items into the current selected player inventory panel if possible
+Adjusted the search mode snow cover penalty limit as snowy weather combination could easily hit the penalty cap
+Fixed an exploit with search focus when spamming the search mode button which could force items to change type
+Fixed a visual issue with search focus trigger after spotting items which caused picked up items to sometimes be the original item
+
+[SECTION]BALANCE
+Ginseng now provides an Endurance Buff when used to make a Hot Beverage as a spice.
+Added Basil to more recipes.
+Better handling of evolved recipe item name when they only have spice ingredients.
+[NODOT]<BR> 
+Added the ability to install Makeshift Radios into vehicles; this was done for consistency with the requested fix of allowing Makeshift HAM radios to be installed in Ham radio vehicles.
+Allow vehicles that have HAM radios to allow any sort of HAM radio installed in them; Luxury and Modern Cars will also always spawn with Premium Radios installed.
+CDs in Premium radios will transfer to/from the vehicle they are being installed into/uninstalled from.
+
+[SECTION]FIXES
+Fixed mapper-placed broken windows not being smashed IsoWindow objects.
+Fixed vehicle lightbar lights and siren continuing to operate after the part condition drops to zero (due to zombie thumping).
+Fixed the lightbar option not appearing in the vehicle radio menu after the part is destroyed.
+[NODOT]<INDENT:40>The option appears now, but the lights and siren won't operate at zero condition.
+Fixed multiple lightbar parts appearing in the vehicle mechanics ui.
+Fixed incorrect effect of distance on critical-hit chance with firearms.
+Fixed pans holding less water than pots.
+Fixed issue with zombie maggots + fishing; zombie corpses now spawn poisoned Base.Maggots and not Base.Maggots2 which are now obsolete.
+Fixed issues with new gas bottles and containers in backpacks.
+Fixed missing distributions for barbequestore and bathroom/shelves.
+Fixed Canned Fruit Beverage not having reduce thirst value.
+Fixed Obese and Fit not being fully mutually exclusive in MainCreationMethods.lua.
+Fixed missing translation string ContextMenu_FuelCapacity.
+Fixed inconsistent GoodHot from WildEggs tooltip.
+Fixed ContextMenu_PanicNoSleep not being translated in one instance.
+Fixed IsWaterSource parameter from BleachBottleGasoline.
+Fixed issues with eating quarter and half portions of small amounts of food.
+Fixed recipes to tear denim and leather - temporary fix pending improvement.
+Fixed adding whole and uncooked animal as a bait, removing and butchering it returning a "full" hunger reduction value animal
+Fixed missing tooltip for SafehouseAllowNonResidential server option
+Fixed ContextMenu_ContextMenu_FuelCapacity typo.
+Fixed the wrong sprites being used for windows sometimes.
+Fixed one of the molotov cocktail producing unwanted empty bottles.
+Fixed added AddIngredientIfCooked:true to the Burger evolved recipe so baked bread slices can be used to make burgers
+Fixed missing period in Tooltip_item_RainFromGroundOnlyPurifyMicrowave.
+Fixed missing period in Tooltip_item_RainFromGround.
+Fixed hot drinks with alcohol being too strong.
+Fixed better tooltips for tainted water items in plastic containers that can only be boiled in microwaves.
+Fixed baked bread slices not being usable when making sandwiches; this was on account of them being cooked, the evolved recipe for sandwiches was changed to allow cooked bread slices.
+Fixed missing item Violets that got accidentally removed
+Fixed Peaches having evolved recipe food type "Berry"
+Fixed various mapping issues
+
+[SECTION]HOTFIX
+Fixed updates to the map causing zombies to spawn inside previously cleared buildings.
+Disabled the transfer of media items (CDs) when installing/uninstalling vehicle radios, as the current method causes issues in MP. Should be resolved for the next unstable release
+Re-added previously removed IGUI_PlayerText_CanNotExitFromMovingCar string
+Removed the -Xss1280k stack-size JVM parameter from Linux ProjectZomboid.json files.
+Increased Linux and Mac -Xmx=2048m to -Xmx=3072m max-heap JVM parameter to match Windows.
+Fixed NullPointerException in IsoGameCharacter.Eat().
