@@ -13501,7 +13501,7 @@
 	efe9afbe-e3f6-4c28-a548-7964536bedf4 = 我们屡获殊荣的早餐餐点因佳评如潮而回归!
 
 	//4497. ORIGINAL: Come visit 'I *heart* Wok and Rolls today!
-	671135b0-8cb2-4d1e-bf18-be82f7b08e3d = 今天就来造访 '我*心*炒锅和面包卷' 吧!
+	671135b0-8cb2-4d1e-bf18-be82f7b08e3d = 今天就来造访 '我*心*锅和卷' 吧!
 
 	//4498. ORIGINAL: Earth. Air. Wind. Fire.
 	92a9cdd6-b50e-400f-906b-9579fdd18294 = 地球, 空气, 风, 火.
