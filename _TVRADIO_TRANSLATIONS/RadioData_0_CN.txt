@@ -67,7 +67,7 @@
 	322dc178-82ef-493b-8f7a-894df3ed852e = 我现在位于诺克斯隔离区北面的检查点.
 
 	//19. ORIGINAL: I'm here with Denise, who has a story to tell.
-	d4c855e9-12c7-4a89-ada8-c225ba4e360c = 有请丹妮丝, 他有一些故事想要和我们分享.
+	d4c855e9-12c7-4a89-ada8-c225ba4e360c = 有请丹妮丝, 她有一些故事想要和我们分享.
 
 	//20. ORIGINAL: Denise, you were one of the last out of the Zone. Am I right?
 	8a921753-4eaa-45c6-9fc7-c85d147c8a8b = 丹妮丝, 你是最近才从隔离区内出来的, 对吗?
@@ -817,7 +817,7 @@
 	d7c1d3b1-7ed2-45e6-938a-c451c5175944 = 随着军队进入村镇与城市, 局面持续动荡.
 
 	//269. ORIGINAL: Peacekeeping forces have been stationed throughout the nation.
-	cde6c2b5-14d8-4e08-8aa0-7432cad905bf = 维安部队已经在全国范围内部署.
+	cde6c2b5-14d8-4e08-8aa0-7432cad905bf = 维和部队已经在全国范围内部署.
 
 	//270. ORIGINAL: Throughout it all: that same message:
 	a85116a3-939b-49b1-875a-ed760c38b574 = 这些行动都传达了一条消息:
@@ -1429,7 +1429,7 @@
 	7e635ed6-baf5-448d-84b3-731f54b014a3 = 这里的人们正患上一种疾病.
 
 	//473. ORIGINAL: Ill without fluid contact.
-	5d8c525c-57c6-4b04-9ad6-d3136a04b091 = 一种不能接触液体的病.
+	5d8c525c-57c6-4b04-9ad6-d3136a04b091 = 一种不能接触体液的病.
 
 	//474. ORIGINAL: I think they're dying. It happens so quick.
 	c043051f-5525-4072-8bdc-16b6dd67d00e = 我觉得他们马上就要死了, 病情发展十分迅速.
@@ -1717,7 +1717,7 @@
 	0c1fbae7-ca62-464a-a7e1-eb900f57bc62 = 如果你不对病毒免疫, 你只有几天时间了.'
 
 	//569. ORIGINAL: ... but through fluid contact, by which I mean bites...'
-	8d42995f-e71e-48fa-8f79-cc9e3036b83f = 这个疾病并会扩散到其他人身上一样扩散到你们身上...'
+	8d42995f-e71e-48fa-8f79-cc9e3036b83f = 这个疾病不会扩散到其他人身上一样扩散到你们身上...'
 
 	//570. ORIGINAL: ... it surely will.'
 	bb028c17-c5bf-4477-b85d-8c2dba3050ef = 但是体液接触, 我的意思是咬...'
@@ -1747,7 +1747,7 @@
 	f3866131-96a7-4500-a82c-8875509c5253 = 我是乔纳斯,
 
 	//579. ORIGINAL: JONAS! THEY'RE INSIDE. THEY'RE INSIDE. RUN!
-	bb641309-1023-4c27-8c2b-fe058b5e20c6 = 乔纳斯! 他-们-进-来-了. 他-们-进-来-了. 快-跑-!
+	bb641309-1023-4c27-8c2b-fe058b5e20c6 = 乔-纳-斯! 他-们-进-来-了. 他-们-进-来-了. 快-跑-!
 
 	//580. ORIGINAL: Shit! Wha-
 	c8f2c4f2-7907-413f-aa35-a7f08d1781c2 = 该屎! 什么-
@@ -1993,7 +1993,7 @@
 	d8fd1b50-1582-4ae4-b374-38bca284e1d3 = 这种低效, 这种不尊重, 这种...
 
 	//661. ORIGINAL: Dr Galbraithe: what's going on in there?
-	9d8e8129-06e4-448e-be5b-754ac6f8800a = 加尔布雷斯博士: 那里到底出了什么事情
+	9d8e8129-06e4-448e-be5b-754ac6f8800a = 加尔布雷斯博士: 那里到底出了什么事情?
 
 	//662. ORIGINAL: Well, there's a very communicable illness. Clearly.
 	68b78050-f3a8-4f52-969a-a79f982cd737 = 好吧, 显而易见, 这是一种极具传染性的疾病.
@@ -2263,7 +2263,7 @@
 	463a648f-942b-4ddc-b0e5-0e0796d81fde = 为您播报一些即时新闻.
 
 	//751. ORIGINAL: ALL Flights leaving the US mainland after 6pm EST tonight...
-	96fc905a-346f-4793-9dc5-0f2c610cd395 = 今晚, 美国东部标准时间晚上6点后离开美国大陆的所有航班..
+	96fc905a-346f-4793-9dc5-0f2c610cd395 = 今晚, 美国东部标准时间晚上6点后离开美国大陆的所有航班...
 
 	//752. ORIGINAL: ...have been grounded by the World Health Organisation.
 	98819380-529d-4d9a-b282-77aa0fd3da9e = 已经被世界卫生组织要求停飞.
@@ -2983,7 +2983,7 @@
 	33a9adb5-6acc-4985-a04e-69bb80f8ab3c = 我将为你带来即时新闻.
 
 	//991. ORIGINAL: This... uh... this is NNR.
-	d31121e5-873d-48e7-b8cf-43c880a1b1d1 = 这里是... 呃... 欢迎收看NNR广播电台.
+	d31121e5-873d-48e7-b8cf-43c880a1b1d1 = 这里是... 呃... 欢迎收听NNR广播电台.
 
 	//992. ORIGINAL: Cases of the Knox Event infection are being reported around the world.
 	0172f2d3-86f4-4c6e-bd1c-ee818a953ed7 = 感染事件在世界范围内开始出现.
@@ -3070,7 +3070,7 @@
 	37e77611-ce91-4772-b102-39ba0c88ff95 = 如果你不对病毒免疫, 你只有几天时间了.
 
 	//1020. ORIGINAL: The disease will not spread to you as it has to others...
-	3ae41721-4122-4624-bb1e-144c22798a16 = 这个疾病并会扩散到其他人身上一样扩散到你们身上...
+	3ae41721-4122-4624-bb1e-144c22798a16 = 这个疾病不会扩散到其他人身上一样扩散到你们身上...
 
 	//1021. ORIGINAL: ... but through fluid contact, by which I mean bites...
 	f7908f2a-9824-438e-9523-6e8c1ac2d392 = 但是体液接触, 我的意思是咬...
@@ -3319,7 +3319,7 @@
 	b48aeb45-f50b-44d6-b5c9-10badebee31c = 当那些士兵出现时我正在高速公路上.
 
 	//1103. ORIGINAL: Musta been one of the last out. Then helicopters, trucks, guns...
-	13311f69-1364-456c-a384-d2e8b190104d = Musta是最后一批出来的, 然后就是直升机, 卡车, 枪...
+	13311f69-1364-456c-a384-d2e8b190104d = 穆斯塔是最后一批出来的, 然后就是直升机, 卡车, 枪...
 
 	//1104. ORIGINAL: You hear anything about the Event Bobby?
 	12b60198-a3e9-4bc0-a8f9-d37d96ea9aa8 = 你有听到有关这次事件的报导吗, 鲍比?
@@ -3562,7 +3562,7 @@
 	5065a349-4da7-4c07-8ddb-2460fdd4fbd2 = 确实不太对劲.
 
 	//1184. ORIGINAL: We'll come back to you after this James.
-	2842b289-4e2c-49ff-a896-9b1e3e5ddfb6 = 我们先插播一条消息,詹姆斯.
+	2842b289-4e2c-49ff-a896-9b1e3e5ddfb6 = 我们先插播一条消息, 詹姆斯.
 
 	//1185. ORIGINAL: You're with KnoxTalk Catherine...
 	8c5908fc-033b-4f63-8461-34e3c828ff15 = 这里是KnoxTalk广播电台, 凯瑟琳...
@@ -3883,7 +3883,7 @@
 	8f8d842d-c2b1-4c72-931d-6c2390729163 = 这应该是为了让民众冷静下来.
 
 	//1291. ORIGINAL: We're in Nowheresville out here...
-	bd62a3af-05e0-4bd6-9fa4-fd41198ea9e0 = 我们在Nowheresville这里...
+	bd62a3af-05e0-4bd6-9fa4-fd41198ea9e0 = 我们在这里的偏僻区...
 
 	//1292. ORIGINAL: And I've seen looting. Shelves are empty.
 	fcb325a7-9e0e-4d4a-9e91-5c14359da70a = 我看到了一些抢劫发生, 货架都被搬空了.
@@ -3946,7 +3946,7 @@
 	b5d16eff-1ec7-4f4b-b419-ec2623130aff = 好的伙计们, 你们的来电很踊跃, 正如各位想像的那样.
 
 	//1312. ORIGINAL: But Danielle's got a story to tell. You've got the mic Danielle.
-	0203b2fc-1147-4509-8d7d-e0daba757e18 = 但是丹妮尔有一个故事想和我们分享, 让我们有请丹妮尔.
+	0203b2fc-1147-4509-8d7d-e0daba757e18 = 但是丹尼尔有一个故事想和我们分享, 让我们有请丹尼尔.
 
 	//1313. ORIGINAL: They're lying. They're lying to us.
 	1ac79d53-7c8e-47a3-9ba9-af5efb97eaa0 = 他们在说谎, 他们在对我们说谎.
@@ -4009,7 +4009,7 @@
 	28281e96-16b2-46ff-9156-acafc9c15da2 = 但是他在Cine-E Plex工作.
 
 	//1333. ORIGINAL: Saw him last week when I took my son to the Spiffo movie.
-	a47d72ff-635b-4d49-996a-b654505c5afc = 上周我看到他了, 当时我带着我的儿子去Spiffo电影院看电影.
+	a47d72ff-635b-4d49-996a-b654505c5afc = 上周我看到他了, 当时我带着我的儿子去看斯皮福电影.
 
 	//1334. ORIGINAL: It's him for sure.
 	a16484ca-a3cd-4e43-aff8-f156e1312caa = 一定是他.
@@ -4327,10 +4327,10 @@
 	05d78cad-289d-43af-bc3a-6b8151f94d86 = 边界营地发生了一些事情.
 
 	//1439. ORIGINAL: We've got Danielle on the line again.
-	810330e4-cac2-4863-825b-c18473a5764b = 我们又接到了丹妮尔的来电.
+	810330e4-cac2-4863-825b-c18473a5764b = 我们又接到了丹尼尔的来电.
 
 	//1440. ORIGINAL: Danielle, honey. What's happening?
-	13330f65-28c5-46d4-ae99-d654befcfc98 = 丹妮尔, 发生了什么事情?
+	13330f65-28c5-46d4-ae99-d654befcfc98 = 丹尼尔, 发生了什么事情?
 
 	//1441. ORIGINAL: I'm on a carphone. The battery's low.
 	0d36990b-1529-46f6-a489-05848df3d4b5 = 我正在用车载电话, 但是快没电了.
@@ -4366,7 +4366,7 @@
 	5949cf0e-da4f-44ee-b343-a412b9038f12 = 啊, 完了, 他们来了 <噗滋> <滋滋>
 
 	//1452. ORIGINAL: Danielle, honey can you hear me?
-	ef89f2e7-e573-4098-8bbf-89da285de4e9 = 丹妮尔, 你还能听到我吗?
+	ef89f2e7-e573-4098-8bbf-89da285de4e9 = 丹尼尔, 你还能听到我吗?
 
 	//1453. ORIGINAL: Let's get the message out there.
 	34ff9f38-bad0-4f26-a521-582c326c5b2e = 让我们把这消息告诉所有人.
@@ -4687,7 +4687,7 @@
 	57630c21-39d2-44a4-bdf8-e1be58b6fc43 = 诺克斯事件没有被控制住.
 
 	//1559. ORIGINAL: I repeat: the Knox Event is not contained.
-	42de3805-5311-4ec0-afed-ad9efc03d1b0 = 我再重复一遍: 诺克斯事件已经失控
+	42de3805-5311-4ec0-afed-ad9efc03d1b0 = 我再重复一遍: 诺克斯事件已经失控.
 
 	//1560. ORIGINAL: After the.... what do we call them?
 	a723f2c5-bd97-40fc-b8a0-db5c9c5a5526 = 在那之后... 那叫什么?
@@ -5017,7 +5017,7 @@
 	fb332e23-2849-4305-a416-4928d2dbdb7f = 有些人说他们是免疫的.
 
 	//1669. ORIGINAL: Let's salvage something somehow.
-	24c2b067-ed5f-4634-a1e3-679e6c85f422 = 有些人说他们是免疫的.
+	24c2b067-ed5f-4634-a1e3-679e6c85f422 = 让我们了解更多.
 
 	//1670. ORIGINAL: Someone call in.
 	9731e1f3-8c15-4f8f-b75f-e3d0adcb96e2 = 希望有人能打来.
@@ -5029,7 +5029,7 @@
 	a6cae200-bcdd-4e46-8d7a-a8e7583ca311 = 嗨, 各位.
 
 	//1673. ORIGINAL: I'm sorry but KnoxTalk is tapping out.
-	d8e65b0e-1f55-4d8a-b69a-34c3e4e3cdc8 = 我很抱歉, 但是noxTalk即将结束.
+	d8e65b0e-1f55-4d8a-b69a-34c3e4e3cdc8 = 我很抱歉, 但是KnoxTalk即将结束.
 
 	//1674. ORIGINAL: We want to be with our families.
 	f25d9552-6724-462f-a348-ee4e810721e7 = 我们想和我们的家人待在一起.
@@ -5206,7 +5206,7 @@
 	f588f466-b2cd-4d0e-8272-709573bd74f9 = 哦对了, 还有那些枪声?
 
 	//1732. ORIGINAL: Warning shots
-	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 其实是鸣枪警告.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 鸣枪警告.
 
 	//1733. ORIGINAL: You feel safe yet?
 	1a7e3621-7dcf-49c3-9e03-9f16b3e3db3b = 您感到安全了吗?
@@ -5512,7 +5512,7 @@
 	9a6716f0-d515-4df5-9ed2-50e03759f409 = [img=music] 来做爱吧... [img=music]
 
 	//1834. ORIGINAL: Hey this is Frank-i-e.
-	b8f927eb-bd0f-427b-83b9-4049fdf3d31e = 嗨, 我是弗兰-基.
+	b8f927eb-bd0f-427b-83b9-4049fdf3d31e = 嗨, 我是弗兰基.
 
 	//1835. ORIGINAL: Lots of eyes on our slice of Kentucky.
 	96e726c1-ad8f-417a-820b-9c46a7b79c2f = 许多人正关注.
@@ -5686,7 +5686,7 @@
 	5ddd87d7-b2d8-4e7f-b4c2-69fabd1f84aa = [img=music] 爱---呀! [img=music]
 
 	//1892. ORIGINAL: It's Knox Hits. It's Frank-i-e!
-	31c82976-864b-413d-a648-934f0ec5e009 = 欢迎收听Knox Hits音乐电台, 我是弗兰-基!
+	31c82976-864b-413d-a648-934f0ec5e009 = 欢迎收听Knox Hits音乐电台, 我是弗兰基!
 
 	//1893. ORIGINAL: I'm finding this tough guys, and I know you are too.
 	c0b2effe-8516-4a1e-a145-9fafe20ff7fd = 我找到了这些坚强的人, 而我知道您也是.
@@ -5764,7 +5764,7 @@
 	5a527e44-7357-4798-ab70-03bfad0f3d0a = 这样根本没有用, 本...
 
 	//1918. ORIGINAL: It's Knox Hits. It's Frank-i-e.
-	13477e76-c7c9-4ac3-9173-ee6141f2386d = 欢迎收听Knox Hits音乐电台, 我是弗兰-基.
+	13477e76-c7c9-4ac3-9173-ee6141f2386d = 欢迎收听Knox Hits音乐电台, 我是弗兰基.
 
 	//1919. ORIGINAL: Oh God I'm not good at this.
 	b46503ac-480a-40c5-bedc-dc3c6242a5d0 = 天啊, 我不擅长这个.
@@ -6466,7 +6466,7 @@
 	dac0a515-12bd-4a34-afc4-aa7232a837aa = 然而, 关于诺克斯事件是什么, 以及传播方式, 至今还没有具体说法.
 
 	//2152. ORIGINAL: Worse? Revelations from a Dr Jack Galbraithe - a former scientist with the CDC.
-	61116350-6886-4e13-bd54-a83985ce2836 = 更糟的事? 来自前美国疾病控制与预防中心的科学家 - 杰克·加尔布雷斯博士的爆料.
+	61116350-6886-4e13-bd54-a83985ce2836 = 更糟的事? 来自前美国疾病控制与预防中心的科学家 - 杰夫·加尔布雷斯博士的爆料.
 
 	//2153. ORIGINAL: He's reported as saying: 'America is not ready for this'.
 	aa7aa9b6-a2c1-4f05-91b8-ec92e85c9c28 = 据报导, 他说: '美国还没有为此做好准备'.
@@ -6478,7 +6478,7 @@
 	38e536b5-d420-401d-a882-adfd677f9e83 = 科斯蒂·科米克, 边界现场看起来状况怎么样?
 
 	//2156. ORIGINAL: Well Joan, it's exactly that sort of rumor that's not helping.
-	a6698a96-263a-49d6-ae28-b1ad260ce285 = 好吧,琼, 这种谣言无济于事.
+	a6698a96-263a-49d6-ae28-b1ad260ce285 = 好吧, 琼, 这种谣言无济于事.
 
 	//2157. ORIGINAL: People just don't what to do, and the military don't know what to do with them.
 	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = 人们不知道该怎么做, 而军方也不知道该怎么处置他们.
@@ -6514,7 +6514,7 @@
 	3ecb94cf-cbfa-4cfa-b9da-459aef865e1d = 我们要答案!
 
 	//2168. ORIGINAL: This is Kirsty Cormick on the Knox Event line. Back to the studio.
-	2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = 这就是在诺克斯事件专线的报导, 我是科斯蒂·科米克 把镜头交还给棚内.
+	2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = 这就是在诺克斯事件专线的报导, 我是科斯蒂·科米克, 把镜头交还给棚内.
 
 	//2169. ORIGINAL: Now, coming up - the scientist that says 'it IS contained'...
 	35477a99-1fe7-4a62-8b0a-2cc50cd6375a = 现在, 接下来 — 科学家说疫情已经 '被控制住'...
@@ -6820,7 +6820,7 @@
 	ce98252a-4e30-4532-b46e-bdf328380815 = 这些图片显示了今天一些蒙面的年轻人...
 
 	//2270. ORIGINAL: ... and law enforcement officials in Memphis.
-	8590cbb4-e679-40a1-9676-064774c744b0 = 和曼非斯市执法人员之间的持续斗争.
+	8590cbb4-e679-40a1-9676-064774c744b0 = 和孟菲斯市执法人员之间的持续斗争.
 
 	//2271. ORIGINAL: No corner of the United States is unaffected by the chaos.
 	b2b6132b-96b4-4571-8b81-64c2a4de8962 = 美国无处不受到这场混乱的影响.
@@ -7069,7 +7069,7 @@
 	924d0a71-3eee-4e96-9edf-b5c03dcdcbe9 = 诺克斯事件已经被控制住了, 但一个真相已经出现了.
 
 	//2353. ORIGINAL: We're going straight over to Kirsty Cormick in Kentucky.
-	d7dc9beb-8675-44c1-9a66-2273f05a83cf = 我们直接把镜头转交给在肯塔基州的Kirsty Cormick.
+	d7dc9beb-8675-44c1-9a66-2273f05a83cf = 我们直接把镜头转交给在肯塔基州的科斯蒂·科米克.
 
 	//2354. ORIGINAL: I'm afraid we have disturbing news.
 	ae447259-1d43-4e7e-b087-c7b2b39d2624 = 恐怕我们有一个令人不安的消息.
@@ -7429,7 +7429,7 @@
 	0478ec89-072e-49bd-8f86-342992f18f46 = 我们直接去诺克斯事件.
 
 	//2473. ORIGINAL: Kirsty, are you there?
-	9b4f2da9-5242-4ccd-a511-ce035869d07e =科斯蒂, 你在吗?
+	9b4f2da9-5242-4ccd-a511-ce035869d07e = 科斯蒂, 你在吗?
 
 	//2474. ORIGINAL: I am. There are horrific scenes here.
 	2cd76e36-1e63-4ea1-8152-0e145704a924 = 是的, 这里有可怕的场景.
@@ -7483,7 +7483,7 @@
 	18230762-a44b-474c-8e87-e3af2e1c4d41 = 诺克斯事件的感染正在蔓延.
 
 	//2491. ORIGINAL: It's spreading fast, and it's spreading without fluid contact.
-	29d60fff-d011-468c-90db-5e59f9cae45d = 即使在没有液体接触的情况下, 它的传播速度依然非常的快.
+	29d60fff-d011-468c-90db-5e59f9cae45d = 即使在没有体液接触的情况下, 它的传播速度依然非常的快.
 
 	//2492. ORIGINAL: It came out with the infected over the Event line.
 	04b5e765-cb10-4395-a6b5-8deab8facac8 = 自从诺克斯事件之后产生了大量的感染者.
@@ -8590,7 +8590,7 @@
 	ff678374-eb27-47ff-9b9e-f2c2f575dc47 = 好的, 谢谢理查德. 我们马上回来.
 
 	//2860. ORIGINAL: I'm with Dr Jack Galbraithe, the former Chief Scientist of...
-	21d1ec38-3dab-42c0-8178-26fc4de1f980 = 在我身边的是杰克·加尔布雷斯博士...
+	21d1ec38-3dab-42c0-8178-26fc4de1f980 = 在我身边的是杰夫·加尔布雷斯博士...
 
 	//2861. ORIGINAL: ... The Center for Disease Control.
 	e2ff4762-0662-43b2-b69f-01d61238b16e = 他是疾控中心的前任首席科学家.
@@ -8935,7 +8935,7 @@
 	e0f43cae-7d7c-4056-9502-c362143b5d5c = 我是理查德·格什温, 在我旁边的是约翰·麦格鲁上将...
 
 	//2975. ORIGINAL: Good evening ladies and gentlemen.
-	6ef455d1-4db4-4d45-a952-67fa42a96831 = 晚安, 告位先生女士.
+	6ef455d1-4db4-4d45-a952-67fa42a96831 = 晚安, 各位先生女士.
 
 	//2976. ORIGINAL: Oh, we're starting.
 	8d1c9045-08ad-4f9c-a795-c5aa40820c3c = 噢, 我们开始了.
@@ -9649,16 +9649,16 @@
 	e2a87468-49a6-4ed7-86a9-d8f2ec26fee5 = 就像这样...
 
 	//3213. ORIGINAL: And use a paperclip on the end to snag those fish.
-	8bea8acf-6f00-4a38-8f62-dc96dd73e3f4 = 接着在鱼线上绑一个回纹针来钩住鱼.
+	8bea8acf-6f00-4a38-8f62-dc96dd73e3f4 = 接着在鱼线上绑一个回形针来钩住鱼.
 
 	//3214. ORIGINAL: Now if you're a smart-arse, you're saying:
 	b5466d25-25f2-4450-8a5f-69cc5895b5ed = 现在, 如果你是个聪明的家伙, 你就会说:
 
 	//3215. ORIGINAL: "Hey Dean, where'd the paperclip come from?"
-	a23769e9-1aa8-4afd-8a13-01401eca0917 = "嘿, 迪恩, 我们该从哪里弄来回纹针呢?"
+	a23769e9-1aa8-4afd-8a13-01401eca0917 = "嘿, 迪恩, 我们该从哪里弄来回形针呢?"
 
 	//3216. ORIGINAL: I always carry a paperclip guys, and so should you.
-	eff1b184-fc08-4c16-b51a-7a46a3b8a8a1 = 我总是自己带着一个回纹针, 你也应该这么做.
+	eff1b184-fc08-4c16-b51a-7a46a3b8a8a1 = 我总是自己带着一个回形针, 你也应该这么做.
 
 	//3217. ORIGINAL: It's the first thing they teach in the Army.
 	0da8d741-ccc6-4b08-90ec-3c60002425af = 这是军队教给我的第一件事.
@@ -9808,7 +9808,7 @@
 	b698aecf-c505-4dcb-a178-600335d7b24d = 因为, 这不是普通的刀, 这是一把小猫牌的厨房刀.
 
 	//3266. ORIGINAL: Kitten Knives are strong, sturdy and sharp.
-	a87ba511-d5d3-44ec-9028-83d959beb72e =小猫牌厨房刀, 又快又好, 品质保证.
+	a87ba511-d5d3-44ec-9028-83d959beb72e = 小猫牌厨房刀, 又快又好, 品质保证.
 
 	//3267. ORIGINAL: Look at this handle, I mean just look at the handle.
 	dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2 = 看看这刀的刀柄, 我的意思是, 你光看刀柄就能看出它的品质多么优良.
@@ -10594,7 +10594,7 @@
 	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = 这是什么神奇的机器, 黛安?
 
 	//3528. ORIGINAL: Why it's the Harakka all-purpose slow-broiler, from Scandinavia!
-	4e3d4f81-29aa-4e1e-9965-df044395234f = 这是来自斯堪地那维亚的哈拉卡多功能慢烤机!
+	4e3d4f81-29aa-4e1e-9965-df044395234f = 这是来自斯堪地那维亚的哈拉卡多功能慢烤箱!
 
 	//3529. ORIGINAL: It had NO idea that Scandinavia was such an AMAZING place!
 	55cb9d4b-c878-42b7-a601-e54d9f7b4d9b = 我真没想到斯堪的纳维亚半岛是一个如此神奇的地方!
@@ -10627,7 +10627,7 @@
 	5668ae1e-7da2-4543-a501-a6d2a75d9f8c = 太棒了, 我该如何获得它?
 
 	//3539. ORIGINAL: Just call the number on-screen!
-	a1fa1783-f2af-47b3-9a3c-2fe29537b7ec = 只要拨打萤幕上的号码就行了!
+	a1fa1783-f2af-47b3-9a3c-2fe29537b7ec = 只要拨打屏幕上的号码就行了!
 
 	//3540. ORIGINAL: You know how this works by now!
 	3a43c293-cf5d-4795-a121-3276dec64176 = 你现在已经知道它是如何运作的了!
@@ -10651,7 +10651,7 @@
 	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = 嗯, 对于这个提问者, 有两个答案.
 
 	//3547. ORIGINAL: One is the paperclip: which stays on me at ALL times.
-	ef497181-a22d-4e8b-8870-2187d81f285b = 第一是回纹针: 它一直都在我身上.
+	ef497181-a22d-4e8b-8870-2187d81f285b = 第一是回形针: 它一直都在我身上.
 
 	//3548. ORIGINAL: The second is foraging.
 	dd875aa3-b6ff-4418-a377-35bdee71f20e = 第二是搜寻.
@@ -10872,10 +10872,10 @@
 	//3620. ORIGINAL: We're now returning you to your regular programming.
 	eb7f9886-893b-4f5b-83d6-3fa7874a3b72 = 现在, 让我们恢复正常的节目排程.
 
-	//3621. ORIGINAL: [img=music] 多-啼 嘟.喂-唔.喂-唔. [img=music]
+	//3621. ORIGINAL: [img=music] Doop-ity doo. Wee-woo. Wee-woo. [img=music]
 	ba3df5b8-853f-404f-9e15-480e3f02e256 = [img=music] 多-啼 嘟.喂-唔.喂-唔. [img=music]
 
-	//3622. ORIGINAL: [img=music] 唔. [img=music]
+	//3622. ORIGINAL: [img=music] Woo. [img=music]
 	d4e2d45f-5706-4289-85c2-a5814dd36978 = [img=music] 唔. [img=music]
 
 	//3623. ORIGINAL: You're way out of line Hargrave.
@@ -10948,7 +10948,7 @@
 	0009bc32-db7b-4795-b83d-47dd4ca27857 = 噢, 阿尔伯特, 我等这一天很久了...
 
 	//3646. ORIGINAL: Sir, you're required in the James vs. Greggs hearing.
-	2cc0d3b1-b611-41d6-948a-82c8bbf32c3e = 先生,  詹姆斯与格雷格斯的听证会需要你.
+	2cc0d3b1-b611-41d6-948a-82c8bbf32c3e = 先生, 詹姆斯与格雷格斯的听证会需要你.
 
 	//3647. ORIGINAL: Now? What dratted timing.
 	99619c97-f556-442d-9641-bb81ff3e89cf = 现在? 这是什么时候安排的?
@@ -11275,7 +11275,7 @@
 	148ad271-361d-47bf-82e3-71a712d7e2f0 = 因为现在有个尴尬问题.
 
 	//3755. ORIGINAL: I've been asked to the Wetherspoons ball by Edmund Fothergay-Stroud.
-	da43bc0c-e40e-47c7-a8b0-44d50c05a90f = 埃德蒙·福瑟盖·斯特劳德请我去参加Wetherspoons的舞会.
+	da43bc0c-e40e-47c7-a8b0-44d50c05a90f = 埃德蒙·福瑟盖·斯特劳德请我去参加韦瑟斯彭的舞会.
 
 	//3756. ORIGINAL: Fothergay-Stroud? The man's a monster!
 	83211f74-11b0-41bc-b496-ba663f9df799 = 福瑟盖·斯特劳德? 那个人是个怪咖!
@@ -11434,7 +11434,7 @@
 	f70dd78a-91bc-47f5-abba-6bc26b09b2ca = 韦伦先生? 你在哪里?
 
 	//3808. ORIGINAL: He's gone to the Wetherspoons Ball my Lord!
-	87df0672-813f-43f3-a89a-4ada91fbc366 = 他去参加Wetherspoons的舞会了, 我的主人!
+	87df0672-813f-43f3-a89a-4ada91fbc366 = 他去参加韦瑟斯彭的舞会了, 我的主人!
 
 	//3809. ORIGINAL: Then let God go with him. The boy is a marvel.
 	0e0e4301-4adc-4157-b5f3-dbb030a5f437 = 愿上帝保佑, 这个男孩是个奇迹.
@@ -11473,7 +11473,7 @@
 	8b077a9f-452f-4cb7-b37d-b76cbdb1eb88 = 你太过分了, 保罗. 抱歉. 最后一次机会.
 
 	//3821. ORIGINAL: 'Where do Geordies come from, wahey?'
-	393db48b-0320-425f-949e-8aa80b265cf5 = '高地人指的是英国的哪里人?'.
+	393db48b-0320-425f-949e-8aa80b265cf5 = '乔德人指的是英国的哪里人?'.
 
 	//3822. ORIGINAL: Paul! Amazing! $3000!
 	2bc11e60-794a-4b09-b590-903b281d5825 = 保罗! 太棒了! $3000!
@@ -11488,7 +11488,7 @@
 	18939b5d-b3bf-4596-8ce9-fdddd9590941 = 在这些资讯之后, 我们将看到保罗的下一个答案!
 
 	//3826. ORIGINAL: I'm Stephanie O'Donoghue. This is Hollywood Insider.
-	c77faff4-852f-4e26-8f71-10013edbace3 = 宵禁将于美国东部时间下午6点开始. 请待在家里.
+	c77faff4-852f-4e26-8f71-10013edbace3 = 我是斯蒂芬妮·奥多诺霍. 欢迎收看好莱坞内幕.
 
 	//3827. ORIGINAL: This week we've seen a terrible story play out...
 	15aee4d7-2b86-469e-a0db-e0a8a173df7f = 本周我们都看到了一个悲剧的上演...
@@ -11590,7 +11590,7 @@
 	4eadd70c-ee77-413f-aadc-95e85d3842ed = 我讨厌这个... 鱼馅饼.
 
 	//3860. ORIGINAL: Today: Tinsel Town's OUTRAGE at the Knox Event.
-	e9d29d78-4b75-47ea-99dc-fb376f0219b8 = 今天: 好莱坞对诺克斯事件的暴怒.
+	e9d29d78-4b75-47ea-99dc-fb376f0219b8 = 今天: 好莱坞对诺克斯事件的愤怒.
 
 	//3861. ORIGINAL: Icon Jeff Madingly, star of Rock Paper Scissors, has spoken out!
 	9777cd7f-6177-4ffe-8efc-81c17df9c787 = "剪刀石头布"旗下的明星, 杰夫·麦丁格也忍不住发声了!
@@ -11854,7 +11854,7 @@
 	6cb711ba-f180-45b2-87d6-e73cb26beb55 = 欢迎收看奇幻林地!
 
 	//3948. ORIGINAL: Sponsored by Spiffos?!
-	9233196b-97dc-4fd9-804c-f45715875d4d = 本系列由Spiffo?!赞助.
+	9233196b-97dc-4fd9-804c-f45715875d4d = 本系列由斯皮福快餐?!赞助.
 
 	//3949. ORIGINAL: Hi there Spiffo! Who's your little friend?
 	b8feed00-3e07-412c-bc23-390ca80efe8b = 嗨, 浣熊斯皮福! 谁是你的好朋友?
@@ -12148,7 +12148,7 @@
 	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 那套优雅的瑞士锅? $33.99元.
 
 	//4046. ORIGINAL: BARGAINS! BARGAINS! CRAAA-ZY BARGAINS!
-	dd5c5ab6-4aa9-467c-9a5d-753fc42a6c89 = 便宜货! 便宜货!疯-狂的便宜货!
+	dd5c5ab6-4aa9-467c-9a5d-753fc42a6c89 = 便宜货! 便宜货! 疯-狂的便宜货!
 
 	//4047. ORIGINAL: Where does he get 'em from?
 	c7ca9cb5-59bc-450e-8a77-ce4d44255214 = 他从哪里弄来的?
@@ -12988,7 +12988,7 @@
 	469d90a3-d41f-4b1c-91a0-ac03f814c913 = 该屎, 我甚至不知道我们在哪里.
 
 	//4326. ORIGINAL: This is Hal broadcasting out of Nashville.
-	710fdcba-f246-410b-912a-321bab3cf755 = 我是Hal, 这是在纳什维尔的广播.
+	710fdcba-f246-410b-912a-321bab3cf755 = 我是哈尔, 这是在纳什维尔的广播.
 
 	//4327. ORIGINAL: We're in the Nashville Air Guard Base.
 	ae7302bb-f246-41cf-b8c8-ffcde75b5bfd = 我们在纳什维尔的空军基地.
@@ -13279,7 +13279,7 @@
 	b0ee632b-789e-4e4f-a2b0-b09374856a62 = 我们今天在回旋披萨的什么地方？
 
 	//4423. ORIGINAL: Hello there old boy! Pip pip!
-	e026c08a-32a1-4548-8cd0-b4a22830bae8 = 你好, 老伙计! Pip pip!
+	e026c08a-32a1-4548-8cd0-b4a22830bae8 = 你好, 老伙计! 嘟 嘟!
 
 	//4424. ORIGINAL: England! With the Olde English Renaissance Pizza!
 	d4927b4f-393c-4461-8aae-81308f2de8c1 = 英国! 用古老的英国文艺复兴披萨!
@@ -13336,7 +13336,7 @@
 	72a6f9f9-bd94-492a-bf8d-e0caacb73610 = 没有比这更好的方式开始新的一天了!
 
 	//4442. ORIGINAL: "Welcome to Seahorse Coffee! What can I get you today?"
-	976670d7-c82c-4844-bb70-d8971efd13e7 = "欢迎光海马咖啡! 您今天要点什么?"
+	976670d7-c82c-4844-bb70-d8971efd13e7 = "欢迎光临海马咖啡! 您今天要点什么?"
 
 	//4443. ORIGINAL: "One Caramel Flan Latte!"
 	127147cd-f820-4060-8556-3a0f16e81c98 = "一杯焦糖拿铁!"
@@ -13447,7 +13447,7 @@
 	74353cef-98ed-4aac-b450-eac04be503d8 = 那真是太美了!
 
 	//4479. ORIGINAL: This coat? It's from Fashionabelle.
-	07a033a7-76ff-4aa6-acf9-17c4e442b5aa = 这件外套? 它来自时尚标签.
+	07a033a7-76ff-4aa6-acf9-17c4e442b5aa = 这件外套? 它来自时尚贝拉.
 
 	//4480. ORIGINAL: Clothes of distinction, at fine prices.
 	e86eb129-9283-4a29-80cd-ab8489d95dd1 = 物美价廉的高级服装.
@@ -13462,7 +13462,7 @@
 	07b5c28d-1288-4c4a-8c3a-a079ca902347 = 你说对了! 就是现在!
 
 	//4484. ORIGINAL: Fashionabelle!
-	303606ff-d1d3-42f9-91c1-60a31c840835 = 时尚!
+	303606ff-d1d3-42f9-91c1-60a31c840835 = 时尚贝拉!
 
 	//4485. ORIGINAL: In today's busy cut and thrust world...
 	506d117a-4c3b-4e16-81c9-551232e77666 = 在现今这个忙碌的世界里...
@@ -13501,7 +13501,7 @@
 	efe9afbe-e3f6-4c28-a548-7964536bedf4 = 我们屡获殊荣的早餐餐点因佳评如潮而回归!
 
 	//4497. ORIGINAL: Come visit 'I *heart* Wok and Rolls today!
-	671135b0-8cb2-4d1e-bf18-be82f7b08e3d = 今天就来造访 '我*心*锅和卷' 吧!
+	671135b0-8cb2-4d1e-bf18-be82f7b08e3d = 今天就来造访 '我*心*炒锅和面包卷' 吧!
 
 	//4498. ORIGINAL: Earth. Air. Wind. Fire.
 	92a9cdd6-b50e-400f-906b-9579fdd18294 = 地球, 空气, 风, 火.
@@ -13534,7 +13534,7 @@
 	2d2d1b9b-11c8-4ff4-a2c9-6a0161310e25 = 不会太久的, 我们去打败他们吧!
 
 	//4508. ORIGINAL: *tadaaaa!*
-	ad2512d5-908a-41b0-8e76-8a45ff9d121c = *叮当!*
+	ad2512d5-908a-41b0-8e76-8a45ff9d121c = *嗒哒!*
 
 	//4509. ORIGINAL: The Forgotten Element! Rated PG-13!
 	04de67eb-b8a5-4ca2-ab54-7d0ec8a85074 = 被遗忘的元素! 评级为PG-13!
@@ -13615,7 +13615,7 @@
 	a391af64-dbb9-4a0e-b46b-5f93b9ee10d8 = 来搅拌我们吧.
 
 	//4535. ORIGINAL: Enjoy ice cream from our very own Daisy Dairy.
-	9ab797ee-1cca-4957-80f7-477c6beb0773 = 享用我们自己的黛西乳业提供的冰淇淋.
+	9ab797ee-1cca-4957-80f7-477c6beb0773 = 享用我们自己的雏菊乳业提供的冰淇淋.
 
 	//4536. ORIGINAL: Feel the most nutritious taste explosion known to man.
 	0f2ad995-891c-4b6d-813d-defe5d4772fc = 感受人类已知的最有营养的味觉爆炸.
@@ -13660,19 +13660,19 @@
 	a3043512-7926-433b-a48f-a50c2ff1153d = [img=music] 可丽家! 可丽家! [img=music]
 
 	//4550. ORIGINAL: [img=music] Jolly good. Jolly good. Jolly good-good-GOOD! [img=music]
-	f22811aa-5c8c-4ce4-8f58-f3ddc7224168 = [img=music] 非常好. 非常好. 太好了! [img=music]
+	f22811aa-5c8c-4ce4-8f58-f3ddc7224168 = [img=music] 非常好. 非常好. 好-极-了! [img=music]
 
 	//4551. ORIGINAL: [img=music] Jolly good. Jolly good. Jolly good-good-good. [img=music]
-	7da09b30-41bb-4a7a-8bdc-b0ba52481864 = [img=music] 非常好. 非常好. 好极了. [img=music]
+	7da09b30-41bb-4a7a-8bdc-b0ba52481864 = [img=music] 非常好. 非常好. 太-好-了. [img=music]
 
 	//4552. ORIGINAL: [img=music] Jolly GOOOOOOOD! Jolly Good Fish and Chips! [img=music]
-	88b95c0d-7275-4416-985b-2380e806ef22 = [img=music] 快乐的好!美味的炸鱼和薯条! [img=music]
+	88b95c0d-7275-4416-985b-2380e806ef22 = [img=music] 快乐的-好! 美味的炸鱼和薯条! [img=music]
 
 	//4553. ORIGINAL: Authentic British cuisine!
 	b007b91a-52f6-4841-9060-cafffdb5be5a = 地道的英国菜!
 
 	//4554. ORIGINAL: Try our new Biscuit and Gravy menu!
-	15e6f9df-6254-42ba-9b93-1197880cc88a = 试试我们新推出的饼乾和肉汁菜单吧!
+	15e6f9df-6254-42ba-9b93-1197880cc88a = 试试我们新推出的饼干和肉汁菜单吧!
 
 	//4555. ORIGINAL: Bottomless iced tea!
 	e9408199-ae4e-4da6-89b1-bb72a548e748 = 无限续杯冰茶!
@@ -13684,7 +13684,7 @@
 	51a63f37-9d4f-41d3-be4e-260a0b70212a = 你好, 邻居!
 
 	//4558. ORIGINAL: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O
-	77383a36-ae45-466d-9c4c-78c036d2862f = 我是乔·麦肯齐, 我经营着诺克斯郡的小马漫游-O.
+	77383a36-ae45-466d-9c4c-78c036d2862f = 我是乔·麦肯齐, 我经营着诺克斯乡村的小马漫游俱乐部.
 
 	//4559. ORIGINAL: Horse's our the finest animals our nation has to offer.
 	c09412e4-f02c-4735-9397-5736fd0ac2e6 = 马是我们国家提供的最好动物.
@@ -13804,7 +13804,7 @@
 	bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f = 我要告诉你一件事.
 
 	//4598. ORIGINAL: TACOS! BURRITOS! ENCHILLLLADAS!
-	df856737-76e0-48c3-9c06-43fa97bb4ad2 = 墨西哥夹饼! 墨西哥卷饼! 安吉拉卷!
+	df856737-76e0-48c3-9c06-43fa97bb4ad2 = 塔克饼! 墨西哥卷饼! 安吉拉卷!
 
 	//4599. ORIGINAL: ALL OF THAT GOOOOD STUFF!
 	8c1e5c92-b42e-4222-ad8d-4c0f90bae572 = 所有这些好东西!
@@ -13816,7 +13816,7 @@
 	5ec18628-1f94-4560-ae72-a3b26c54e1bc = 从我这里拿走吧! 我戴着帽子!
 
 	//4602. ORIGINAL: Arriba!
-	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = 上面!
+	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = 阿里巴!
 
 	//4603. ORIGINAL: My name's Valerie Pontin, and I work for Gas to Go!
 	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = 我的名字是瓦莱丽·庞廷, 我在加油站工作!
@@ -13855,7 +13855,7 @@
 	8852f3ae-e3a1-449c-a4e9-b4a5857d726a = 我是卡尔·费尔韦瑟, 我是进步的代言人.
 
 	//4615. ORIGINAL: I'm Howie Zitron, and I represent YOU.
-	ebedc0e9-9c19-4f4e-860c-9ceaf81f3529 = 我是豪伊·齐特伦,我代表你.
+	ebedc0e9-9c19-4f4e-860c-9ceaf81f3529 = 我是豪伊·齐特伦, 我代表你.
 
 	//4616. ORIGINAL: I've served the good people of Muldraugh and West Point for twenty years!
 	2c1be35f-fd26-45ed-9d79-4e142b96605e = 我为马尔德劳镇和西点镇的好人们服务了20年!
