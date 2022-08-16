@@ -283,7 +283,7 @@
 	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = 我知道我要去哪里!
 
 	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
-	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 今天就来造访 '我*心*炒锅和面包卷' 吧!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 今天就来造访 '我*心*锅和卷' 吧!
 
 	//92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
 	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] 做个跳舞机器人 [img=music]
