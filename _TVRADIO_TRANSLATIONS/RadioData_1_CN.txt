@@ -34,7 +34,7 @@
 	16a40ca6-c815-4b5d-bcb2-fc332b817e1f = <噗滋> <滋滋>
 
 	//8. ORIGINAL [#FF00B050]: I was getting lunch in Spiffo's.
-	f7d82c9d-d172-4134-a5b5-8829bc621648 = 我在斯皮福快餐吃午饭.
+	f7d82c9d-d172-4134-a5b5-8829bc621648 = 我当时在斯皮福快餐吃午饭.
 
 	//9. ORIGINAL [Black]: <click> <bzzt> <fzzt>
 	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <啪嗒> <噗滋> <滋滋>
@@ -49,7 +49,7 @@
 	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *远处的爆炸声*
 
 	//13. ORIGINAL [#FF7030A0]: Warning shots.
-	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 其实是鸣枪警告.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 鸣枪警告.
 
 	//14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
 	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] 如果我能说出... [img=music]
@@ -259,7 +259,7 @@
 	72ff543a-10c4-409f-a7c2-9603dc521c11 = 我... 死了...!
 
 	//83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
-	a44a5560-5f13-4575-9cd4-9a931123f3fd = 鼹鼠莫利? 它的鼻子是不是抽搐得很可爱
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = 鼹鼠莫利? 它的鼻子是不是抽搐得很可爱?
 
 	//84. ORIGINAL [#FF00B050]: Let's help your little friend here...
 	845988d3-0acf-464a-952e-b0b05050ad46 = 让我们来帮助你的小朋友...
@@ -283,7 +283,7 @@
 	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = 我知道我要去哪里!
 
 	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
-	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 今天就来造访 '我*心*锅和卷' 吧!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 今天就来造访 '我*心*炒锅和面包卷' 吧!
 
 	//92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
 	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] 做个跳舞机器人 [img=music]
@@ -295,7 +295,7 @@
 	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 感谢家庭医生们的推荐: Incontileve.
 
 	//95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
-	77383a36-ae45-466d-9c4c-78c036d2862f = 我是乔·麦肯齐, 我经营着诺克斯郡的小马漫游-O.
+	77383a36-ae45-466d-9c4c-78c036d2862f = 我是乔·麦肯齐, 我经营着诺克斯乡村的小马漫游俱乐部.
 
 	//96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
 	c09412e4-f02c-4735-9397-5736fd0ac2e6 = 马是我们国家提供的最好动物.
