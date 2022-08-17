@@ -5125,7 +5125,7 @@
 	61391c12-5f17-469f-b672-1911b48166a6 = [img=music] 你只是来到, 我便绽开! [img=music]
 
 	//1705. ORIGINAL: It's morning. It's Knox Hits.
-	426cdb01-4ee8-4aad-83bc-1272c942e5b0 = 早安. 欢迎收听Knox Hits音乐电台.
+	426cdb01-4ee8-4aad-83bc-1272c942e5b0 = 早安. 欢迎收听Knox Hitz音乐电台.
 
 	//1706. ORIGINAL: Crazy days right now, but we'll try and keep it normal.
 	b3b8d7bb-883c-4092-bab6-a3a6fa5f5b7f = 世界已经天翻地覆, 但我们还是试着保持正常.
@@ -5356,7 +5356,7 @@
 	b8a18ffb-5de0-4252-9793-f4b7a96e9c7a = [img=music] 我一天比一天要的更多! [img=music]
 
 	//1782. ORIGINAL: Janine tagging in on Knox Hits!
-	9678c59a-b503-4d85-9bb0-08e4688e2448 = 欢迎收听Knox Hits音乐电台, 我是珍妮!
+	9678c59a-b503-4d85-9bb0-08e4688e2448 = 欢迎收听Knox Hitz音乐电台, 我是珍妮!
 
 	//1783. ORIGINAL: First a message from our sponsors...
 	b197834e-4ee9-4880-a7e8-bbb7be27b167 = 首先是来自我们赞助商的消息...
@@ -5686,7 +5686,7 @@
 	5ddd87d7-b2d8-4e7f-b4c2-69fabd1f84aa = [img=music] 爱---呀! [img=music]
 
 	//1892. ORIGINAL: It's Knox Hits. It's Frank-i-e!
-	31c82976-864b-413d-a648-934f0ec5e009 = 欢迎收听Knox Hits音乐电台, 我是弗兰基!
+	31c82976-864b-413d-a648-934f0ec5e009 = 欢迎收听Knox Hitz音乐电台, 我是弗兰基!
 
 	//1893. ORIGINAL: I'm finding this tough guys, and I know you are too.
 	c0b2effe-8516-4a1e-a145-9fafe20ff7fd = 我找到了这些坚强的人, 而我知道您也是.
@@ -5764,7 +5764,7 @@
 	5a527e44-7357-4798-ab70-03bfad0f3d0a = 这样根本没有用, 本...
 
 	//1918. ORIGINAL: It's Knox Hits. It's Frank-i-e.
-	13477e76-c7c9-4ac3-9173-ee6141f2386d = 欢迎收听Knox Hits音乐电台, 我是弗兰基.
+	13477e76-c7c9-4ac3-9173-ee6141f2386d = 欢迎收听Knox Hitz音乐电台, 我是弗兰基.
 
 	//1919. ORIGINAL: Oh God I'm not good at this.
 	b46503ac-480a-40c5-bedc-dc3c6242a5d0 = 天啊, 我不擅长这个.
