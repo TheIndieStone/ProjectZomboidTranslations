@@ -10873,10 +10873,10 @@
 	eb7f9886-893b-4f5b-83d6-3fa7874a3b72 = 现在, 让我们恢复正常的节目排程.
 
 	//3621. ORIGINAL: [img=music] Doop-ity doo. Wee-woo. Wee-woo. [img=music]
-	ba3df5b8-853f-404f-9e15-480e3f02e256 = [img=music] 多-啼 嘟.喂-唔.喂-唔. [img=music]
+	ba3df5b8-853f-404f-9e15-480e3f02e256 = [img=music] 哆-嘀 嘟. 喂-呜. 喂-呜. [img=music]
 
 	//3622. ORIGINAL: [img=music] Woo. [img=music]
-	d4e2d45f-5706-4289-85c2-a5814dd36978 = [img=music] 唔. [img=music]
+	d4e2d45f-5706-4289-85c2-a5814dd36978 = [img=music] 呜. [img=music]
 
 	//3623. ORIGINAL: You're way out of line Hargrave.
 	9f66988e-7ced-496e-af44-9b945b81f8ce = 你太过分了, 哈格雷夫.
