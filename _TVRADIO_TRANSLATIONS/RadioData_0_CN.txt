@@ -6064,7 +6064,7 @@
 	0c2d8833-a092-4310-82b3-aa7621f35f3c = 我们将直接前往肯塔基州, 报导这个不断发展的故事.
 
 	//2018. ORIGINAL: Kirsty Cormick, are you there?
-	8bc41d8e-44dd-4e3b-9895-581839a51586 = 科斯蒂·科米克, 你在现场吗?
+	8bc41d8e-44dd-4e3b-9895-581839a51586 = 柯斯蒂·科米克, 你在现场吗?
 
 	//2019. ORIGINAL: I am Joan. It's 48 hours since this all began.
 	70119030-1d09-4680-af1b-eced1d9dab6e = 我是琼. 这一切已经发生48小时了.
@@ -6238,7 +6238,7 @@
 	16e6ffe8-fb90-4db5-b746-6b806ade746b = 被描述为具有 '恐慌' 和 '混乱' 症状的 '非致命' 疾病.
 
 	//2076. ORIGINAL: Kirsty Cormick is in Kentucky.
-	914df363-e3d9-46db-b1cd-4f2c1e9b976d = 我是科斯蒂·科米克, 在肯塔基州.
+	914df363-e3d9-46db-b1cd-4f2c1e9b976d = 我是柯斯蒂·科米克, 在肯塔基州.
 
 	//2077. ORIGINAL: A strange scene here south of Louisville.
 	61682c1c-bfe1-4dfb-ac30-6a076b240192 = 路易斯维尔以南的奇怪场景.
@@ -6286,10 +6286,10 @@
 	26a29815-fb68-48ff-a547-06bc4affee7c = 军方的官员告诉我们, 今天下午将会发表一份完整声明.
 
 	//2092. ORIGINAL: Until then this is Kirsty Cormick for Triple-N on the Knox Event line.
-	54273a36-0029-43b7-9dc5-c3c7b4d60d9c = 就到这里, 我是Triple-N电视台的科斯蒂·科米克, 诺克斯事件的专线记者.
+	54273a36-0029-43b7-9dc5-c3c7b4d60d9c = 就到这里, 我是Triple-N电视台的柯斯蒂·科米克, 诺克斯事件的专线记者.
 
 	//2093. ORIGINAL: Thank you Kirsty.
-	a45a4b41-7c8e-4358-b831-a348c849a410 = 谢谢你科斯蒂.
+	a45a4b41-7c8e-4358-b831-a348c849a410 = 谢谢你柯斯蒂.
 
 	//2094. ORIGINAL: Now, amidst angry scenes in Washington and a storm of Republican protest...
 	af1f998d-a559-4e4e-b38c-05c504f683c0 = 现在, 愤怒的场面出现在华盛顿一场对共和党的抗议中...
@@ -6334,7 +6334,7 @@
 	432ee696-b4b7-4aa2-b4ce-4e29006f6e81 = 和那些被疏散到北方的人似乎都在说 '不'.
 
 	//2108. ORIGINAL: Kirsty Cormick there on the Knox Event boundary.
-	c13549a1-f264-48da-982e-54e5e800fea7 = 科斯蒂·科米克正在诺克斯事件的边界上.
+	c13549a1-f264-48da-982e-54e5e800fea7 = 柯斯蒂·科米克正在诺克斯事件的边界上.
 
 	//2109. ORIGINAL: We'll be keeping you updated throughout the day...
 	ba0cbdd3-31ba-4140-a624-bc153150d1f3 = 我们将随时为您提供最新消息...
@@ -6475,7 +6475,7 @@
 	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = '我们已经很长时间没有准备好了.'
 
 	//2155. ORIGINAL: How does that sound to you on the ground at the Event boundary, Kirsty Cormick?
-	38e536b5-d420-401d-a882-adfd677f9e83 = 科斯蒂·科米克, 边界现场看起来状况怎么样?
+	38e536b5-d420-401d-a882-adfd677f9e83 = 柯斯蒂·科米克, 边界现场看起来状况怎么样?
 
 	//2156. ORIGINAL: Well Joan, it's exactly that sort of rumor that's not helping.
 	a6698a96-263a-49d6-ae28-b1ad260ce285 = 好吧, 琼, 这种谣言无济于事.
@@ -6514,7 +6514,7 @@
 	3ecb94cf-cbfa-4cfa-b9da-459aef865e1d = 我们要答案!
 
 	//2168. ORIGINAL: This is Kirsty Cormick on the Knox Event line. Back to the studio.
-	2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = 这就是在诺克斯事件专线的报导, 我是科斯蒂·科米克, 把镜头交还给棚内.
+	2434e2aa-cbeb-41d5-9ef9-1c56f289c5d2 = 这就是在诺克斯事件专线的报导, 我是柯斯蒂·科米克, 把镜头交还给棚内.
 
 	//2169. ORIGINAL: Now, coming up - the scientist that says 'it IS contained'...
 	35477a99-1fe7-4a62-8b0a-2cc50cd6375a = 现在, 接下来 — 科学家说疫情已经 '被控制住'...
@@ -6793,7 +6793,7 @@
 	53b9b081-f54c-4f11-a145-4aaec4b6e591 = 总统要求大家保持耐心和冷静:
 
 	//2261. ORIGINAL: Now, a report from Kirsty Cormick on the Event line.
-	eecb39dc-f479-4fdb-9d38-f41709784d2a = 现在, 由科斯蒂·科米克带来事件专线的报导.
+	eecb39dc-f479-4fdb-9d38-f41709784d2a = 现在, 由柯斯蒂·科米克带来事件专线的报导.
 
 	//2262. ORIGINAL: Here in Kentucky, in the camps just outside the Exclusion Zone...
 	b40eaeb9-7b6a-4b68-b224-f37a1daf1b6b = 我在肯塔基州, 封锁区外的安置营里...
@@ -7069,7 +7069,7 @@
 	924d0a71-3eee-4e96-9edf-b5c03dcdcbe9 = 诺克斯事件已经被控制住了, 但一个真相已经出现了.
 
 	//2353. ORIGINAL: We're going straight over to Kirsty Cormick in Kentucky.
-	d7dc9beb-8675-44c1-9a66-2273f05a83cf = 我们直接把镜头转交给在肯塔基州的科斯蒂·科米克.
+	d7dc9beb-8675-44c1-9a66-2273f05a83cf = 我们直接把镜头转交给在肯塔基州的柯斯蒂·科米克.
 
 	//2354. ORIGINAL: I'm afraid we have disturbing news.
 	ae447259-1d43-4e7e-b087-c7b2b39d2624 = 恐怕我们有一个令人不安的消息.
@@ -7183,7 +7183,7 @@
 	3dab6bbf-0ddb-49c8-ab85-e029dafe8ecc = 我们期待着接下来即将发布的官方声明.
 
 	//2391. ORIGINAL: We would like to thank Kirsty Cormick on the ground in Kentucky...
-	85d14165-81fc-4a63-9e11-6fcbf4ce4624 = 我们要特别感谢肯塔基州的科斯蒂·科米克...
+	85d14165-81fc-4a63-9e11-6fcbf4ce4624 = 我们要特别感谢肯塔基州的柯斯蒂·科米克...
 
 	//2392. ORIGINAL: ... for this information.
 	9f3421c7-7d5a-4c51-8263-f1af0e6180b4 = 她是为我们带来消息的热心民众.
@@ -7237,7 +7237,7 @@
 	69369396-a312-4e57-8875-ffcf8e3e4c5b = 我们有事件线内的现场照片.
 
 	//2409. ORIGINAL: Kirsty? Are you there?
-	0a6d0e67-4fa1-48bd-849b-4fc6ea19de48 = 科斯蒂? 你在吗?
+	0a6d0e67-4fa1-48bd-849b-4fc6ea19de48 = 柯斯蒂? 你在吗?
 
 	//2410. ORIGINAL: I am John. I can't say how, but we've been allowed access.
 	bc12607c-4c10-4b12-8873-079503e43a7a = 我是约翰. 我不能说是怎么回事, 但我们已经被允许进入了.
@@ -7306,7 +7306,7 @@
 	bbe2978f-fa64-4a6a-af03-2d33ce58fac3 = 总统要求保持冷静:
 
 	//2432. ORIGINAL: We've lost contact with our reporter Kirsty Cormick, but we have incoming reports...
-	d349a46f-1d21-48f5-a038-3aa6f304aa99 = 我们与我们的记者科斯蒂·科米克失去了联络, 但我们有新的报导...
+	d349a46f-1d21-48f5-a038-3aa6f304aa99 = 我们与我们的记者柯斯蒂·科米克失去了联络, 但我们有新的报导...
 
 	//2433. ORIGINAL: ... of gunfire and civilian casualties in the Knox border camp.
 	f337fdb6-3f8a-4f46-a16d-89b7fb028491 = 诺克斯边境营地的枪声和平民伤亡.
@@ -7429,7 +7429,7 @@
 	0478ec89-072e-49bd-8f86-342992f18f46 = 我们直接去诺克斯事件.
 
 	//2473. ORIGINAL: Kirsty, are you there?
-	9b4f2da9-5242-4ccd-a511-ce035869d07e = 科斯蒂, 你在吗?
+	9b4f2da9-5242-4ccd-a511-ce035869d07e = 柯斯蒂, 你在吗?
 
 	//2474. ORIGINAL: I am. There are horrific scenes here.
 	2cd76e36-1e63-4ea1-8152-0e145704a924 = 是的, 这里有可怕的场景.
@@ -7444,7 +7444,7 @@
 	8a3cc2c0-88e6-432e-9705-5a59e485d245 = 我们没有官方资料, 但是伤亡很大.
 
 	//2478. ORIGINAL: Has the military restored order Kirsty?
-	c7d5b609-9899-4071-86db-46cce4022516 = 军方恢复秩序了吗, 科斯蒂?
+	c7d5b609-9899-4071-86db-46cce4022516 = 军方恢复秩序了吗, 柯斯蒂?
 
 	//2479. ORIGINAL: That's hard to say. Those who could head North have done so.
 	e70dd3fb-cb9a-4b1c-a5ed-7ca69a39493f = 这很难说. 那些可以向北走的人已经这样做了.
@@ -7474,10 +7474,10 @@
 	944662a9-c2e7-42b0-9474-d4564fee0c00 = 这是肯塔基州令人绝望的一幕.
 
 	//2488. ORIGINAL: Desperate indeed. Thank you Kirsty.
-	daad0a3d-b0de-4032-91e4-3c25729dde1c = 确实令人绝望. 谢谢你科斯蒂.
+	daad0a3d-b0de-4032-91e4-3c25729dde1c = 确实令人绝望. 谢谢你柯斯蒂.
 
 	//2489. ORIGINAL: This is Kirsty Cormick.
-	10272ca4-19cf-4a44-a12f-5a8b3764150c = 我是科斯蒂·科米克.
+	10272ca4-19cf-4a44-a12f-5a8b3764150c = 我是柯斯蒂·科米克.
 
 	//2490. ORIGINAL: The Knox Event infection is spreading.
 	18230762-a44b-474c-8e87-e3af2e1c4d41 = 诺克斯事件的感染正在蔓延.
@@ -7528,7 +7528,7 @@
 	945b8341-cc14-41da-8e6a-3c1ba0b5b5ae = 他不会死! 他不会死!
 
 	//2506. ORIGINAL: This is Kirsty Cormick, on the road to Louisville.
-	a38a8f50-a7d3-4177-91fb-9bc95bc2b8c1 = 我是科斯蒂·科米克, 在前往路易斯维尔的路上.
+	a38a8f50-a7d3-4177-91fb-9bc95bc2b8c1 = 我是柯斯蒂·科米克, 在前往路易斯维尔的路上.
 
 	//2507. ORIGINAL: We've had word from our reporter on the ground in Kentucky.
 	2c91d62a-4d2e-4ac9-a3d6-28179f38d853 = 我们从肯塔基州当地的记者那里得到消息.
@@ -7630,7 +7630,7 @@
 	d86d3064-08e9-487e-9717-d630417b3b15 = 然而, 也有一些人并没有立即出现感染症状.
 
 	//2540. ORIGINAL: We have obtained this audio recording from Kirsty Cormick.
-	2b3fed98-0d74-40af-9716-e9d859d1fd4d = 我们从科斯蒂·科米克那里得到了这段录音:
+	2b3fed98-0d74-40af-9716-e9d859d1fd4d = 我们从柯斯蒂·科米克那里得到了这段录音:
 
 	//2541. ORIGINAL: I'm hoping you guys get this.
 	62b40fff-9334-44ed-889f-205ed5ba58d3 = 我们希望你们能知道这些.
