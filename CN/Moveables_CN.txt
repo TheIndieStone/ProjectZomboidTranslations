@@ -819,6 +819,7 @@ Moveables_CN = {
 	Oak_Left_Bar = "酒吧橡木货架(左)",
 	Oak_Middle_Bar = "酒吧橡木货架(中)",
 	Oak_Right_Bar = "酒吧橡木货架(右)",
+	Small_Animal_Trough = "小型饲料槽",
 
 }
 
