@@ -845,6 +845,7 @@ IGUI_KO = {
 	IGUI_Vehicle_ContainerCapacity_Gasoline = "연료: %1",
 	IGUI_Vehicle_ContainerCapacity_Other = "%1：%2",
 	IGUI_Vehicle_SeatOccupied = "좌석 사용중",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "움직이고 있는 차량에서 나올 수 없습니다.",
 	IGUI_VehicleLightbar_Title = "경광등 컨트롤러",
 	IGUI_VehicleLightbar_ALARM = "경보",
 	IGUI_VehicleLightbar_STANDBY = "대기",

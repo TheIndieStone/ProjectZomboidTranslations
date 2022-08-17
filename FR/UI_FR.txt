@@ -1245,7 +1245,7 @@ UI_FR = {
     UI_servers_LastUpdate = "Dernière mise à jour : ",
     UI_servers_LocalIP = "IP locale :",
     UI_servers_LocalIP_tt = "Adresse LAN IP du serveur (facultatif)",
-    UI_servers_LogAs = "Se connecter en tant que : ;",
+    UI_servers_LogAs = "Se connecter en tant que : ",
     UI_servers_NotInvited = "L'hôte doit vous autoriser à rejoindre la partie",
     UI_servers_P2PSessionConnectFail = "La connection P2P au serveur a échoué",
     UI_servers_Ping = "Ping : %1",
@@ -1296,12 +1296,12 @@ UI_FR = {
     UI_servers_showLargeServer_warning = "<H1> MESSAGE D'INTÉRET PUBLIC <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> "..
                                          "<CENTRE> <SIZE:large> Les serveurs avec plus de 32 joueurs entraîneront potentiellement une mauvaise diffusion de la carte et des désynchronisations. Procédez avec prudence. <LINE><LINE> " ..
                                          "<CENTRE> <SIZE:large> Veuillez faire preuve de compréhension pendant que nous améliorons et peaufinons. <LINE><LINE> ",
-    UI_servers_showWhitelistServer = "Afficher les serveurs en liste blanche",
+    UI_servers_showWhitelistServer = "Afficher les serveurs avec liste blanche",
     UI_servers_username = "Nom d'utilisateur",
     UI_servers_username = "Nom sur le serveur : ",
     UI_servers_username_tt = "Vu par les autres joueurs du serveur.\nInclus dans le nom du fichier de sauvegarde.",
     UI_servers_version = "Version : ",
-    UI_servers_versionCheck = "Afficher les serveurs utilisant une version différente du jeu.;",
+    UI_servers_versionCheck = "Afficher les serveurs utilisant une version différente",
     UI_soloscreen_ControllerPrompt = "Durant le jeu, appuyez sur une manette pour ajouter un joueur en coopération.",
     UI_soloscreen_beginner = "PZ : mode facile",
     UI_soloscreen_beginnerDesc = "Votre premier aperçu du monde de Zomboid. La vie ici est un peu moins dure.",

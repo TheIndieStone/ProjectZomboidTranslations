@@ -1,0 +1,74 @@
+Challenge_PH = {
+    Challenge_YouHaveOneDay_name = "Mayroon kang Isang Araw",
+	Challenge_YouHaveOneDay_desc = "Maligayang pagdating sa Knox County. Balikan natin kung saan unang nagsimula ang impeksyon ng Project Zomboid. <LINE> <LINE> Mayroon kang isang araw upang maligtas and iyong kamag-anak. Darating ang mga zombie sa napakaraming bilang, at hinahanap ka nila. Saan mo gagamitin upang gawin ang iyong huling paninindigan? Saan mo ginawa ang iyong huling paninindigan noong unang panahon? Bilisan mong hanapin.",
+
+    Challenge_WinterIsComing_name = "Parating na ang Taglamig",
+	Challenge_WinterIsComing_desc = "Kalagitnaan na ng Hulyo, pero biglang nanlamig ang simoy ng hangin. Sa loob lamang ng tatlong araw, darating ang taglamig na walang katulad.<LINE> <LINE> Gumising ka sa isang liblib na lokasyon. Mayroon kang kakaunting suplay, at ang mga zombie na maaaring mapabagal ng matinding lamig - ngunit hindi gaanong nakamamatay ang mga ito.",
+
+	Challenge_OpeningHours_name = "Oras ng Pagbubukas",
+    Challenge_OpeningHours_desc = "Napapaligiran ang Mall. Noong unang panahon, ito ay isang mahalagang lugar sa kanilang buhay. Instinct ay humantong sa kanila sa mga pinto nito. Isang alaala ng dati nilang ginagawa... <LINE> <LINE> Nag-iisa ka, ngunit hindi pang matagalan. Sa 9 AM ang Mall ay handa na para sa negosyo: ang mga pinto ay magbubukas, at ang mga sangkawan ay papasok. <LINE> <LINE> Maging handa para sa kanila.",
+
+	Challenge_AReallyCDDAy_name = "A Really CD DA",
+	Challenge_AReallyCDDAy_desc = "Lumabas ka sa shower at bumagsak ka sa sahig. Ikaw ay sobrang lasing at may lagnat. <LINE> <LINE> Higit sa lahat, nasusunog ang iyong bahay! Ngayon ay tiyak na hindi ang iyong araw. <LINE> <LINE> [Ang challenge na ito ay hango sa A Really Bad Day mula sa kahanga-hangang, at  MUST-PLAY Cataclysm: Dark Days Ahead] ",
+
+	Challenge_Challenge1_name = "Bahay sa kakahuyan - Huling Paninindigan",
+	Challenge_Challenge1_desc = "Maririnig mo silang papalapit. Mga sangkawan!, na pumapasok sa iyong nakahiwalay na cabin mula sa bawat anggulo. Ang kamatayan ay hindi maiiwasan, ngunit ang isang shotgun ay malapit-sa-kamay. <LINE> <LINE> Nagtatampok ang Huling Paninindigan ng walang katapusang mga alon ng mga zombie sa patuloy na pagtaas ng bilang. Mabuhay hangga't maaari laban sa napakaraming posibilidad.",
+
+	Challenge_Challenge2_name = "Bahay sa kakahuyan - Huling Paninindigan Accumulator",
+	Challenge_Challenge2_desc = "Isa pang araw, isa pang cabin na handang duguan. Ang mga sangkawan ay nasa iyo, at ang iyong kamatayan ay magiging kasing sakit ng ito ay kakila-kilabot. Kaya lumaban ka... <LINE> <LINE> Huling Paninindigan – Nagtatampok ang Accumulator ng walang katapusang mga alon ng mga zombie sa patuloy na dumaraming bilang. Gumamit ng perang kinita sa pamamagitan ng pagpatay kay zeds para makabili ng kagamitan, mag-level up at ayusin ang iyong mga sandata na nababad sa dugo.",
+
+    Challenge_AStormIsComing_name = "Isang Bagyo ang Parating",
+	Challenge_AStormIsComing_desc = "Ang mga ulap ay nagtitipon sa Kentucky. Maririnig sa di kalayuan ang kaluskos ng kulog. <LINE> <LINE> Habang dumilim ang kalangitan, ang mga patay na natitisod sa ibabaw ng lupa ay hindi mapakali. <LINE> <LINE> Ito ay isang bagyo na lalago at babalik sa kanyang bangis, ngunit hindi ito magwawakas.",
+
+    Challenge_TheDescendingFog_name = "Ang Hamog",
+    Challenge_TheDescendingFog_desc = "Unang nakita ito ng mga tao sa tubig. Isang malabong puting kumot sa ibabaw ng ilog ng Ohio. <LINE> <LINE> Nagsimula ito bilang ambon. Pagkatapos ay binalot nito ang bayan. Namatay ang mga taong-bayan sa hiyawan sa dilim. Ngayon ay naglalakad na sila palabas doon. <LINE> <LINE> Hindi nakikita, hindi naririnig at walang humpay sa pagtugis ng buhay.",
+
+    Challenge_Kingsmouth_name = "Kingsmouth",
+    Challenge_Kingsmouth_desc = "Mag-enjoy sa nakakarelaks na paglagi sa Kingsmouth Island!",
+
+    Challenge_Studio_name = "Studio",
+    Challenge_Studio_desc = "Kung saan kinukunan ang lahat ng pinakamahusay na pelikula!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Pindutin ang "o" para sa permanenteng pagpapalakas at paggastos ng pera.",
+	Challenge_Challenge2_WaveStart = "Wave %1 in : %2 (Pindutin ang Enter upang laktawan)",
+	Challenge_Challenge2_WaveDuration = "Wave %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombies left : %1",
+	Challenge_Challenge2_Money = "Money : %1",
+	Challenge_Challenge2_Money2 = "Player %1 pera : %2",
+	Challenge_Challenge2_WaveFinished = "Wave %1 natapos sa : %2",
+	Challenge_Challenge2_MoneyGained = "Perang nakuha : %1",
+	Challenge_Challenge2_XPGained = "Karanasan na nakuha : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Huling Paninindigan",
+	Challenge_Challenge2_TabPlayer = "Player",
+	Challenge_Challenge2_Weapons = "Arams",
+	Challenge_Challenge2_TabItems = "Bagay",
+	Challenge_Challenge2_TabRepair = "Pagkukumpuni",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP",
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Gintong Bonus",
+	Challenge_Challenge2_XpBonus = "XP Bonus",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Starting Gold - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Max Starting Gold %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Kasanayan",
+	Challenge_Challenge2_PermanentBonus = "Permanenteng Bonus",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Karpinterya",
+	Challenge_Challenge2_Health = "Health",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Repair Weapon",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Health",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Ang Mall ay magbubukas ng 9AM. <LINE> <LINE> Humanda sa maraming tao...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Sa tatlong araw magsisimula ang walang katapusang taglamig. <LINE> <LINE> Wrap up warm...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Sa loob ng 24 na oras ang iyong biyahe pabalik sa Knox County ay magiging Impiyerno...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Walang katapusang masamang panahon sa hinaharap...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Umaambon...",
+}

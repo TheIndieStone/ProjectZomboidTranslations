@@ -1,16 +1,23 @@
 __________________________
 
-Traducteurs principaux
+Depuis le build 40 : 
 
--> Xianah (Builds depuis le 40)
--> Teesee (Builds avant le 40)
+Traductrice
+-> Xianah
+
+Assistants
+-> Poulpe
+-> Chaudpeau (+ Recorded Media)
+-> Agreubill
 
 __________________________
 
-Assistants
+Avant le build 40 :
 
--> Agreubill
--> Chaudpeau
+Traducteur
+-> Teesee
+
+Assistants
 -> Salih
 -> Bijoo
 -> Bret

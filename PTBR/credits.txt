@@ -20,8 +20,6 @@ in previous builds and updates.
 ZonaryQuasar
 NezukeOkami
 Victor "Benin" Hugo
-
-HiveFuse:
 Bruno "DuMA" Duarte 
 Alan "JohnySouzac" Johny 
 Pedro "JokerQuinn" Thiago 

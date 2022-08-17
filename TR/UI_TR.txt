@@ -243,7 +243,7 @@ UI_TR = {
     UI_NewsVersion = "Versiyon",
     UI_News_Anim = "<H1> BUILD 41 AÇIK BETA'YA HOŞ GELDİNİZ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> ..",
     UI_News_Anim2 = "<H1> İlk Build 41 MP test sürümü geldi ! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> ..",
-    UI_News_Anim3 = "<H1> Sürüm 41'e Hoşgeldin <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
+     UI_News_Anim3 = "<H1> Sürüm 41'e Hoşgeldin <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
                     "<CENTRE> <SIZE:large> En iyi deneyim için beyazliste olan sunucularda veya sadece arkadaşlarınızla oynamanız tavsiye edilir. <LINE><LINE> " ..
                     "<CENTRE> <SIZE:large> Biz oyunu daha iyi bir hale getirmeye çalışırken lütfen anlayışlı olunuz. <LINE><LINE> ",
     UI_No = "Hayır",
@@ -1094,6 +1094,7 @@ UI_TR = {
     UI_optionscreen_heart_volume_tt = "İki büyük ses kalp atışı normalken 'lup dup' şeklindedir. <BR> 'Lub' duyulan ilk sestir ve yaygın olarak S1 olarak kullanılır ve sistol başlangıcında mitral ve trikuspit kapakların kapanmasının neden olduğu türbülanstan kaynaklanır. <BR> İkinci kalp sesi 'dub' veya S2'dir ve sistol sonunda aortik ve pulmonik kapakların kapanmasından kaynaklanır.",
     UI_optionscreen_inventory_font = "Envanter Yazı Büyüklüğü",
     UI_optionscreen_iso_cursor = "İzometrik İmleç Görünürlüğü",
+    UI_optionscreen_jumpscare_volume = "Jump-Scare Ses Yüksekliği",
     UI_optionscreen_keyAlreadyBinded = "%1 tuşu zaten %2 için kullanılıyor.",
     UI_optionscreen_keybinding = "TUŞ AYARLARI",
     UI_optionscreen_language = "Dil",
@@ -1497,4 +1498,5 @@ UI_TR = {
     UI_worldscreen_SavefileVersion = "Kayıtlı Dünya Versiyonu: %1 <LINE> Mevcut Dünya Versiyonu: %2",
     UI_worldscreen_deletesave = "Bu kaydı silmek istediğinizden emin misiniz?",
     UI_worldscreen_title = "KAYITLI DÜNYAYI SEÇİN",
+    
 }

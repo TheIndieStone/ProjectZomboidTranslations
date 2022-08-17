@@ -1054,6 +1054,7 @@ UI_CH = {
     UI_optionscreen_hardcore = "硬核",
     UI_optionscreen_heart_volume = "心跳音量",
     UI_optionscreen_heart_volume_tt = "一般心跳的主要兩個聲音, 噗通. <BR> 噗是第一聲, 常被稱作 S1, 是二尖瓣與三尖瓣收縮時造成的聲音. <BR> 第二聲, '通' 或 S2, 則是主動脈和肺動脈瓣閉合造成的聲音, 也代表收縮的完成. ",
+    UI_optionscreen_jumpscare_volume = "突發驚嚇效果音量",
     UI_optionscreen_inventory_font = "物品欄字體",
     UI_optionscreen_iso_cursor = "立體指標可見度",
     UI_optionscreen_keyAlreadyBinded = "%1 鍵已被指定為 \%2\. \n選擇 \%2\ 該怎麼辦: ",

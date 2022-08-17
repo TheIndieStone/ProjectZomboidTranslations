@@ -148,6 +148,7 @@ ContextMenu_FR = {
     ContextMenu_EvolvedRecipe_RecipeName = "%2 %1",
     ContextMenu_EvolvedRecipe_RecipeNameNew = "%2 %1 %3 %4",
     -- %1 = Ingrédients, %2 = Nom de la recette évolutive, %3 = avec, %4 = Condiments/Épices
+    ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%2 %1 %3",
     ContextMenu_EvolvedRecipe_Rice = "Riz",
     ContextMenu_EvolvedRecipe_RicePan = "Riz",
     ContextMenu_EvolvedRecipe_RicePot = "Riz",
@@ -233,6 +234,7 @@ ContextMenu_FR = {
     ContextMenu_ForwardCap = "Visière vers l'avant",
     ContextMenu_FromRandom = "À partir de %1 au hasard",
     ContextMenu_From_Ingredient = "À partir de %1 %2",
+    ContextMenu_FuelCapacity = "Capacité de carburant : ",
     ContextMenu_Full = "Remplir (%1)",
     ContextMenu_FullPercent = "%",
     ContextMenu_Furnace_Info = "Inofs du fourneau",

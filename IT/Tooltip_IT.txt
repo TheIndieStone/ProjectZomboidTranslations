@@ -120,6 +120,7 @@ Tooltip_IT = {
     Tooltip_SterilizedRag = "Può essere usato come un bendaggio improvvisato. Protegge dalle infezioni.",
     Tooltip_SutureNeedle = "Usato per trattare ferite profonde.",
     Tooltip_SutureNeedleHolder = "Usato con l'Ago da sutura per aumentare la probabilità di curare una ferita profonda.",
+	Tooltip_item_TaintedWater_Plastic = "Acqua contaminata. Non è sicura da bere.<br>Sterilizzare bollendo nel microonde.",
     Tooltip_TapKey = "Tastiera: Premi %1",
     Tooltip_TooExhaustedFitness = "Troppo esausto per fare gli esercizi",
     Tooltip_TooHeavyFitness = "Trasporti troppo peso per fare gli esercizi",

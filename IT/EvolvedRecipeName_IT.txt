@@ -94,6 +94,7 @@ EvolvedRecipeName_IT = {
 	EvolvedRecipeName_Base.Thistle = "Cardo",
 	EvolvedRecipeName_Base.TomatoPaste = "Pasta di pomodoro",
 	EvolvedRecipeName_Base.TunaTinOpen = "Tonno in scatola (Aperto)",
+	EvolvedRecipeName_Base.Violets = "Viole",
 	EvolvedRecipeName_Base.WaterPotRice = "Pentola di Riso",
 	EvolvedRecipeName_Base.Watermelon = "Anguria",
 	EvolvedRecipeName_Base.WatermelonSliced = "Fetta di anguria",

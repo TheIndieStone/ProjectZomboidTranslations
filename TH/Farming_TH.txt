@@ -2,7 +2,7 @@ Farming_TH = {
     -- vegetables name (type of seed)
     Farming_Carrots = "แคร์รอต",
     Farming_Broccoli = "บรอกโคลี",
-    Farming_Radishes = "หัวไชเท้า",
+    Farming_Radishes = "แรดิช",
     Farming_Strawberry_plant = "สตรอว์เบอร์รี",
     Farming_Tomato_Vine = "มะเขือเทศ",
     Farming_Potatoes = "มันฝรั่ง",

@@ -1045,6 +1045,7 @@ UI_IT = {
     UI_optionscreen_hardcore = "Hardcore",
     UI_optionscreen_heart_volume = "Volume battito cardiaco",
     UI_optionscreen_heart_volume_tt = "I due suoni principali prodotti dal cuore, ossia tu tum. <BR> Il tu è il primo suono, chiamato comunemente S1 ed è causato dalla turbolenza provocata dalle valvole mitrale e tricuspide all'inizio della sistole. <BR> Il secondo suono, tum o S2, viene causato dalla chiusura dalle valvole aortica e polmonare, ponendo fine alla sistole.",
+	UI_optionscreen_jumpscare_volume = "Volume SFX del jump-scare",
     UI_optionscreen_inventory_font = "Carattere inventario",
     UI_optionscreen_iso_cursor = "Visibilità del cursore Iso",
     UI_optionscreen_keyAlreadyBinded = "Il tasto %1 è già in uso per %2",

@@ -245,6 +245,7 @@ Tooltip_TR = {
     Tooltip_item_Spices = "Baharatlar:",
     Tooltip_item_StackWeight = "Hepsinin ağırlığı",
     Tooltip_item_TaintedWater = "Kirli su. Bir fırında veya ateş kaynağında kaynatarak suyu sterilize edin.",
+    Tooltip_item_TaintedWater_Plastic = "Kirli su. İçmesi tehlikeli..<br>Mikrodalgada sterilize edilebilir.",
     Tooltip_item_Temperature = "Sıcaklık",
     Tooltip_item_TwoHandWeapon = "İki elle kullanıldığında tam etkili.",
     Tooltip_item_Unequipped = "Kuşanılmamış",

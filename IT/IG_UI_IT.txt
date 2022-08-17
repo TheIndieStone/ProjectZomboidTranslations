@@ -1405,6 +1405,7 @@ IG_UI_IT = {
     IGUI_Vehicle_EngineQuality = "Qualità del motore:",
     IGUI_Vehicle_Repairing = "Riparazione di %1",
     IGUI_Vehicle_SeatOccupied = "Posto occupato",
+	IGUI_PlayerText_CanNotExitFromMovingCar = "Non posso scendere da un'auto in movimento.",
     IGUI_Washing_NeedSoap = "Hai bisogno di sapone",
     IGUI_Washing_Soap = "Sapone",
     IGUI_Washing_WithoutSoap = "Con poco sapone (più lento)",
