@@ -72,7 +72,7 @@ Moveables_CN = {
     Black_Low_Modern_Table = "黑色现代矮桌",
     Black_Office_Chair = "黑色办公椅",
     Black_Tiles = "黑色瓷砖",
-    Blood_Bank = "血液储存柜",
+    Blood_Bank = "狗笼",
     Blowout_Sign = "井喷销售标牌",
     Blue_Bar_Stool = "酒吧凳",
     Blue_Bed = "蓝色单人床",
@@ -444,9 +444,9 @@ Moveables_CN = {
     Mall_Tile_N = "商场N型瓷砖",
     Mall_Tile_W = "商场W型瓷砖",
     Man_With_One_Ear_Painting = "单耳人的绘画",
-    Mannequin = "人体模型",
-    Mannequin_Stand = "模型展台",
-    Map_Display = "地图显示",
+    Mannequin = "假人模特",
+    Mannequin_Stand = "模特展台",
+    Map_Display = "地图展示",
     Map_of_USA = "美国地图",
     March_Ridge_Road_Sign = "三月岭路标",
     Margarite_Painting = "玛格丽特绘画",
@@ -819,6 +819,7 @@ Moveables_CN = {
 	Oak_Left_Bar = "酒吧橡木货架(左)",
 	Oak_Middle_Bar = "酒吧橡木货架(中)",
 	Oak_Right_Bar = "酒吧橡木货架(右)",
+	Small_Animal_Trough = "小型饲料槽",
 
 }
 
