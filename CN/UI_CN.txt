@@ -327,7 +327,7 @@ UI_CN = {
 	UI_trait_overweightdesc = "跑步速度减慢,耐力低并容易受伤.",
 	UI_trait_underweight = "体重过轻",
 	UI_trait_underweightdesc = "力量低,耐力差且容易受伤.",
-	UI_trait_veryunderweight = "体重超轻",
+	UI_trait_veryunderweight = "身形消瘦",
 	UI_trait_veryunderweightdesc = "力量很低,耐力很差且容易受伤.",
 	UI_trait_emaciated = "瘦骨嶙峋",
 	UI_trait_emaciateddesc = "力量低,耐力差且容易受伤.",
@@ -373,7 +373,7 @@ UI_CN = {
 	UI_trait_deafdesc = "听不到声音.",
 	UI_trait_fit = "身体健康",
 	UI_trait_fitdesc = "身体状况良好.",
-	UI_trait_obese = "体重超重",
+	UI_trait_obese = "身肥体胖",
 	UI_trait_obesedesc = "跑步速度减慢,耐力极低并容易受伤.",
 	-- various
 	UI_btn_back = "返回",
