@@ -6550,4 +6550,3 @@ PetrolBleachBottle 和 PetrolPopBottle 项目的固定显示类别
 多人游戏中允许的 map_meta.bin 和 map_zone.bin 文件大小从 20MB 增加到 50MB。
 修复了 MainCreationMethods.lua 中的冗余/重复的专有特征定义，该定义可能允许在某些情况下采用两次 Obese 特征。
  
- 
