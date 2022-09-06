@@ -1,4 +1,4 @@
 VERSION = 1,
-text = Indonesian,
+text = Indonesia,
 charset = UTF-8,
 

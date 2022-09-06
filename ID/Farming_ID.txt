@@ -38,7 +38,7 @@ Farming_ID = {
     Farming_Ready_to_harvest = "Siap panen",
     -- disease
     Farming_Mildew = "Jamur",
-    Farming_Pest_Flies = "Hama Lalat Hama",
+    Farming_Pest_Flies = "Hama",
     Farming_Devil_Water_Fungi = "Jamur Air Devil",
     -- hours
     Farming_Hours = "Jam",
