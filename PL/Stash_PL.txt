@@ -41,7 +41,7 @@ Stash_PL = {
     Stash_LVMap10_Text1 = "stary pierdziel z domem pełnym żarcia",
     Stash_LVMap10_Text2 = "ale nie ma żadnej broni",
     Stash_LVMap10_Text3 = "tylko tym razem nie sprowadź tam",
-    Stash_LVMap10_Text4 = "całej pieprzonej hordy ze sobą!",
+    Stash_LVMap10_Text4 = "ze sobą całej pieprzonej hordy!",
 
     Stash_LVMap11_Text1 = "nieobrabowany sklep",
     Stash_LVMap11_Text2 = "ale pełno tam zombie",
@@ -66,9 +66,9 @@ Stash_PL = {
     Stash_LVMap14_Text6 = "jeśli mnie nie będzie, wywołaj Edwardsa przez radio",
     Stash_LVMap14_Text7 = "xxxxx",
 
-    Stash_LVMap15_Text1 = "Do znalazcy: nazywałam się Natalie Sigmundsson",
-    Stash_LVMap15_Text2 = "wykładałam historię sztuki na LSU",
-    Stash_LVMap15_Text3 = "już pewnie nie żyję, ale mam ostatnią prośbę",
+    Stash_LVMap15_Text1 = "Do znalazcy: nazywam się Natalie Sigmundsson.",
+    Stash_LVMap15_Text2 = "wykładałam historię sztuki na LSU.",
+    Stash_LVMap15_Text3 = "Już pewnie nie żyję, ale mam ostatnią prośbę.",
     Stash_LVMap15_Text4 = "To jest koniec świata tylko wtedy, gdy na to pozwolimy.",
     Stash_LVMap15_Text5 = "Musimy zabezpieczyć eksponaty z galerii sztuki, bo inaczej",
     Stash_LVMap15_Text6 = "naprawdę będzie koniec. Znajomi zgromadzili broń",
