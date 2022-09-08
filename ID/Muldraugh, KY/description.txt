@@ -1,10 +1,10 @@
 ﻿Muldraugh
   <LINE> <LINE>
   Muldraugh adalah kota kecil di daerah yang penduduk setempat dikenal sebagai "Negara Knox" -
-  pusat kematian Negara Bagian Kentucky. Itu tumbuh sebagai kota Militer, tetapi sekarang menyambut
+  pusat kematian Negara Bagian Kentucky. Tumbuh sebagai kota Militer, tetapi sekarang menyambut
   orang-orang dari semua lapisan masyarakat - beberapa komuter ke kota-kota besar
   di dekatnya, beberapa keluarga militer dan beberapa hidup di bawah garis kemiskinan.
   <LINE> <LINE>
-  Ini adalah tempat kecil, penuh dengan orang-orang baik - belum lagi yang terbaik dari Spiffo
-  Chicken dan Biskuit di sisi Kentucky ini! Tentu, tidak banyak yang terjadi di sini -
+  Ini adalah tempat kecil, penuh dengan orang-orang baik - belum lagi Ayam dan Biskuit Spiffo, asli dari Kentucky! Tentu, tidak banyak yang terjadi di sini -
   tapi bukan berarti hidup Muldraugh membosankan...
+

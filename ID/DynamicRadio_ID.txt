@@ -78,7 +78,7 @@ DynamicRadio_ID {
     AEBS_random_13 = "<bzzt>... mereka bilang datang dari Timur <fzzt> ulangi: Timur...<wzzt>",
 
     AEBS_segment_night = "malam",
-    AEBS_segment_early_morning = "pagi sekali",
+    AEBS_segment_early_morning = "subuh",
     AEBS_segment_morning = "pagi",
     AEBS_segment_afternoon = "siang",
     AEBS_segment_evening = "malam",

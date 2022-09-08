@@ -14,13 +14,13 @@ MultiStageBuild_ID = {
     MultiStageBuild_UpgradeWoodenWindow_2To3 = "Updrade ke Jendela Kayu Lvl 3",
     MultiStageBuild_CreateWoodenWindow_3 = "Buat Jendela Kayu Lvl 3",
     -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "Buat Dinding Besi Lvl 1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Updrade ke Dinding Besi Lvl 2",
-    MultiStageBuild_CreateMetalWall_2 = "Buat Dinding Besi Lvl 2",
+    MultiStageBuild_CreateMetalWall_1 = "Buat Dinding Logam Lvl 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Updrade ke Dinding Logam Lvl 2",
+    MultiStageBuild_CreateMetalWall_2 = "Buat Dinding Logam Lvl 2",
     -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "Buat Jendela Besi Lvl 1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Updrade ke Jendela Besi Lvl 2",
-    MultiStageBuild_CreateMetalWindow_2 = "Buat Jendela Besi Lvl 2",
+    MultiStageBuild_CreateMetalWindow_1 = "Buat Jendela Logam Lvl 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Updrade ke Jendela Logam Lvl 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Buat Jendela Logam Lvl 2",
     -- wooden door frame
     MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Upgrade ke Kusen Pintu Kayu Lvl 2",
     MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Upgrade ke Kusen Pintu Kayu Lvl 3",
