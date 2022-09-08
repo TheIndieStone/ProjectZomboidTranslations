@@ -1811,5 +1811,35 @@
 
 	//600. ORIGINAL: What is this outbreak? Should America be afraid?
 	fe3d36ce-1926-4e65-bd77-94526d76f05f = Què és aquest virus? Deu Amèrica tenir por?
+	
+	//601. ORIGINAL: We'll be asking the questions you want answered.
+	19b7737a-abb8-41a5-9b78-2d5b1d32c1f9 = Farem les preguntes de les que volen respostes.
+
+	//602. ORIGINAL: Today, all day. On NNR.
+	b55bd8b1-3881-4763-8ea9-75c56a380d6b = Avui, tot el dia, a NNR.
+
+	//603. ORIGINAL: Back... after these messages.
+	8a6048c2-d7df-45e6-98e2-6fd904da50fe = Tornem... després d'aquests missatges.
+
+	//604. ORIGINAL: NNR Network: What matters to you, matters to America.
+	3a4d2caf-f839-4b86-9211-fcc4ae8b2bb4 = El que és important per a vostè, ho és per a Amèrica.
+
+	//605. ORIGINAL: The President today met officials from the CDC...
+	6eb76e31-1162-47f0-9a71-07ce5ad4b2a8 = El President es va reunir avui amb els oficials del CCE...
+
+	//606. ORIGINAL: ...the Center for Disease Control...
+	4afef15f-c5ee-4388-9720-e63c5460cf02 = ...el Centre de Control de Malalties...
+
+	//607. ORIGINAL: ... on the ongoing Kentucky outbreak situation.
+	efa2577f-c289-42ea-8e1f-8ee19ad6e8ce = ...sobre la situació del brot a Kentucky
+
+	//608. ORIGINAL: We're expecting an official statement tomorrow, but White House representatives...
+	ac9250b0-20f2-477d-a44e-b6198dad989d = Demà esperem una declaració oficial, però els representants de la Casa Blanca...
+
+	//609. ORIGINAL: ... have underlined that the large-scale military maneuvers in and around...
+	95a753c5-1cc8-4b2e-a2ba-c55c3bd6fb31 = ...han subratllat que les maniobres militars a gran escala als voltants...
+
+	//610. ORIGINAL: ... the towns of Muldraugh and West Point are part of a 'long held and long term strategy'...
+	c926f26b-a503-4176-814e-26525a9fd565 = ...de Muldraught i West Point són part d'una “estratègia a llarg termini”... 
 
 [/Translations]
