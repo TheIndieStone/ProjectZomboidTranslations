@@ -75,4 +75,1741 @@
 	//21. ORIGINAL: I was. My Mom's still in there.
 	c9e0f0ce-1e45-4e54-b3a3-87bc4a23f7bc = Si. La meva mare encara segueix a dins.
 
+	//22. ORIGINAL: Have you heard from her?
+	01629d24-aed0-4e1e-99ff-a25aa27052fe = Has sabut alguna cosa d'ella?
+	
+	//23. ORIGINAL: Nothin'. Phones are out.
+	f7c026e2-b18c-4d7f-8277-050f3d20bf68 = Res. Els telèfons no funcionen.
+
+	//24. ORIGINAL: These guys... all standing in-between us.
+	96d80efe-f798-4901-9ebc-25080578ded4 = Aquests tipets... dempeus davant de nosaltres.
+
+	//25. ORIGINAL: The Army, yes. And how did you get out?
+	70f388ca-efa9-440b-931e-9d0b56c02f46 = L'exèrcit, sí. Com vas aconseguir sortir?
+
+	//26. ORIGINAL: Well we heard the helicopters all night through.
+	a99c5149-bde4-4a60-a3b9-abfa97684589 = Be,vam sentir els helicòpters durant tota la nit.
+
+	//27. ORIGINAL: Mom was ill. High temperature, real sleepy.
+	805e9ad5-298d-416f-a04f-0f2c15b9f704 = La meva mare estava malalta. Tenia febre i molta son.
+
+	//28. ORIGINAL: Nothing serious I thought.
+	1c17c50e-d69d-48ef-9cf9-8b32e3b5bb27 = Res seriós, vaig pensar.
+
+	//29. ORIGINAL: I was going to work at Gas to Go early, like every morning.
+	d28d6492-236f-430a-9084-3028332a4bec = Anava a treballar al 'Gas to Go', com tots els matins.
+
+	//30. ORIGINAL: I saw these guys in plastic suits.
+	b301d0b1-fa87-4899-933a-230a40634cfb = Vaig veure a aquests tipets amb vestits de plàstic.
+
+	//31. ORIGINAL: Y'know... bright yellow?
+	746d8625-b390-45df-bbdc-9eba105bf8d6 = Ja saps... de color groc brillant.
+
+	//32. ORIGINAL: Hazard suits Denise?
+	aa04c625-a5b1-4de8-ae8f-3df03e606408 = Trajes protectors, Denise?
+
+	//33. ORIGINAL: I guess. Anyway I saw them down the road.
+	f9f387f4-51ce-4dde-a597-56023c2becfe = Supose. De totes maneres jo els vaig veure pel camí.
+
+	//34. ORIGINAL: Thought it was weird, but everything's weird at 4AM right?
+	1cc3e820-fa5f-4eb3-b252-16bc40cef828 = Vaig pensar que era estrany, però tot és estrany a les 4AM, veritat?
+	
+	//35. ORIGINAL: Then I drive through, get taken aside...
+	7574ce0b-17a4-48f7-8ace-0c47cb38a5fb = Llavors vaig conduir a través d'ells, em van fer parar...
+
+	//36. ORIGINAL: They shine a light into my eyes. Take a blood sample...
+	746c1d08-d204-4fc1-89d4-e23a9d4ec162 = Em van apuntar amb una llum als ulls. Em van prendre una mostra de sang...
+
+	//37. ORIGINAL: Keep me locked tight until like... ten minutes ago?
+	a9435e87-3d5e-4a25-ba96-5487b28a0aa8 = Em van retindre així com... deu minuts?
+
+	//38. ORIGINAL: Then they say I'm clear and kick me out.
+	94e20d7e-a073-4d4a-8cc3-54d7ab0d9c7a = Després em van dir que estava neta i em van deixar anar.
+
+	//39. ORIGINAL: Then I meet you.
+	5c013232-603a-4f38-a774-795eff8c4989 = Aleshores em vaig trobar amb tu.
+
+	//40. ORIGINAL: What's going on Jackie?
+	1b1dccf0-f0ab-45f6-9ce5-c910b9a97261 =  Què està passant Jackie?
+
+	//41. ORIGINAL: We don't know just yet Denise.
+	3abff103-77ff-4e58-8dac-07f41bd64d5c = Encara no sabem res, Denise.
+
+	//42. ORIGINAL: From what I've been told your Mom will be fine.
+	dad1efe1-ba60-417e-8e3d-88286945417d = Per això m'han dit, la teva mare es posarà bé.
+
+	//43. ORIGINAL: You know that?
+	5ef17536-1286-450b-be93-80b41ad7cf6a = Ho saps?
+
+	//44. ORIGINAL: I don't know that, I've been told that.
+	10c8fbff-20bc-4d89-870e-51fed2c5c6f9 = No ho sé, m'han dit.
+
+	//45. ORIGINAL: Keep close Denise, you'll know what I know.
+	e851af03-01cc-4aa9-aa1c-5ac0da3666ce = Estarem en contacte Denise, sabràs qualsevol cosa que descobreixi.
+	
+	//46. ORIGINAL: Just like the guys listening will.
+	2883b958-e65b-4f5f-9747-bb4493868805 = Igual que la gent que ens escolta.
+
+	//47. ORIGINAL: This is Frank Hemingway, taking over coverage of the Knox Event from Jackie.
+	7a40f145-4598-4396-baa5-3f789a8ac573 = Aquí Frank Hemingway, cobrint l'incident a Knox de Jackie.
+	
+	//48. ORIGINAL: It's the end of the second day of the Knox exclusion.
+	6eea019c-bfef-4e37-84b2-74e7cc0835af = És el final del segon dia d'exclusió a Knox.
+
+	//49. ORIGINAL: Still no word on the contagion.
+	22ef3586-729e-44c2-997d-cd70e8de2c7b = Seguim sense informació sobre el contagi.
+
+	//50. ORIGINAL: So what do we know?
+	5ef69ba0-97a5-4fbc-bc57-205a2c879928 = Aleshores, què sabem?
+
+	//51. ORIGINAL: Influenza symptoms brought the towns of West Point and Muldraugh to a standstill.
+	0c9696d0-cc02-415d-a8d3-918b554cdf1e = Els símptomes del virus han paralitzat les ciutats de West Point i Muldraugh.
+
+	//52. ORIGINAL: Then overnight... the blockades appeared.
+	cdba3a7e-6b15-411a-bf24-b0bca7162e39 = De la nit al dia... van aparèixer els bloquejos militars.
+
+	//53. ORIGINAL: Military sources suggest the area is watertight...
+	adf90c6c-49cb-4517-baf1-57be6bddbb24 = Fonts militars van informar que la zona està assegurada...
+
+	//54. ORIGINAL: ... there's even boats patrolling the Ohio river.
+	2e7834ec-4eff-4b71-9aad-3b8acf2539c6 = ...fins i tot hi ha llanxes patrullant el riu Ohio.
+
+	//55. ORIGINAL: If the checkpoints aren't gone tomorrow, however... the boundary will be tested.
+	bc3eaf5d-8160-4288-9216-e406904cfc85 = Si els punts de control no han estat aixecats demà, sens dubte... el límit estarà a prova.
+
+	//56. ORIGINAL: We've got concerned locals, evacuated families and, yup...
+	322406e4-cc71-4dbf-afa9-ee02937e4f85 = Tenim veïns afectats, famílies evacuades i, sí...
+
+	//57. ORIGINAL: ... more news teams turning up every hour.
+	ce3a28c6-1928-4e80-9de1-5779090b8bae = ...més avenços informatius cada hora.
+
+	//58. ORIGINAL: Everyone wants to get in just as, we assume, the residents want to get out.
+	eac76b0f-d596-411b-a84b-735f59d1dc65 = Tots volen entrar, igual que, assumim, els residents volen sortir.
+
+	//59. ORIGINAL: We're promised answers tomorrow from one... General John McGrew.
+	60f0cb9b-e7ab-4846-8db8-816c1c37b3ad = Ens prometeixen respostes demà d'un tal... General John McGrew.
+
+	//60. ORIGINAL: We can't wait to hear them General.
+	60e10242-c8b8-41d1-8661-f55ac6ced7b7 = Estem desitjant sentir al General.
+
+	//61. ORIGINAL: Better make them good...
+	7d4ead1e-c9df-44de-9cde-869c2192d9a1 = Espero que siguin bones notícies...
+
+	//62. ORIGINAL: Frank Hemingway. LBMW.
+	61e52aca-8694-4377-bbb0-8b17d942a286 = Frank Hemingway. LBMW.
+
+	//63. ORIGINAL: Good morning.
+	7ff1f8d1-c866-445a-a00f-fedd460b010a = Bon dia.
+
+	//64. ORIGINAL: You're listening to LBMW.
+	9b95f31e-a4af-4619-9ee8-97f23b9328c5 = Estàs escoltant LBMW.
+
+	//65. ORIGINAL: It's day three of the Knox evacuation
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = És el tercer dia de l'evacuació de Knox.
+
+	//66. ORIGINAL: Still NO official statement on the contagion that has gripped Kentucky.
+	aacb2fcf-5b5f-4c4c-a2a3-468098fc3889 = Seguim sense CAP declaració oficial sobre el contagi que ha tenallat a Kentucky.
+
+	//67. ORIGINAL: The Exclusion Zone remains in place.
+	bcc6a6ab-db3b-4ac3-9f56-1b59c8e0a8e7 = La zona dexclusió continua vigent.
+
+	//68. ORIGINAL: Military personnel from local bases have a HUGE area closed off.
+	ef737db4-8961-48a4-8471-91210473948b = El personal militar de les bases locals té un ENORME espai tancat.
+
+	//69. ORIGINAL: Their primary deployment: south of Louisville.
+	b1ca550d-6c90-4d1d-a146-6d93600a36ee = El seu desplegament primari: al sud de Louisville.
+
+	//70. ORIGINAL: The Exclusion Zone stretches out below the curve of the Ohio river...
+	d0979fcd-7a3c-4b39-b741-717dfd3fcb1f = La zona d'exclusió s'estén per sota la corba del riu Ohio...
+
+	//71. ORIGINAL: ...and contains the small towns of Muldraugh and West Point.
+	f11b8d7a-0948-4a12-91f8-637fa2591f67 = ...i abasta les petites ciutats de Muldraugh y West Point.
+
+	//72. ORIGINAL: We have been told: there will be answers.
+	b4a7511e-cc21-4e8c-84c3-0216d8406563 = Ens han dit que hi haurà respostes.
+
+	//73. ORIGINAL: LBMW understands a press conference will be held this afternoon...
+	d9819e94-9a02-47c8-b9ff-5fc9a97caaac = Des de LBMW creiem que hi haurà una conferència de premsa aquesta tarda...
+
+	//74. ORIGINAL: ... on the brewing chaos of the last four days.
+	f5b06095-59b5-4694-b64c-fa9323f79fe9 = ...sobre el caos produït els darrers quatre dies.
+
+	//75. ORIGINAL: Will the communications black-out be explained?
+	8a916bfb-ecb3-4455-86ba-c2349532b977 = S'explicarà el tall de les comunicacions?
+	
+	//76. ORIGINAL: Until then, the only advice for those nearby remains: stay indoors.
+	efeec9a4-18d7-4d63-812c-14ab32f92852 = Fins llavors, l'únic consell per als que estiguin a prop: romanguin a casa seva.
+	
+	//77. ORIGINAL: This is Frank Hemingway for LBMW.
+	566db375-aecc-4c54-88b2-814ac5fb0f49 = Aquí Frank Hemingway per a LBMW.
+
+	//78. ORIGINAL: We're reporting direct from where General John McGrew made the following statement:
+	74232cf7-3f67-435a-9d4d-a6b2923e57cb = Estem informant directament des d'on el General John McGrew va fer la següent declaració:
+
+	//79. ORIGINAL: I am making this statement at 11AM on the 14th July 1993.
+	5416c659-bc67-423c-9c3e-60f8967aa5ff = Estic fent aquesta declaració a les 11:00 hores del 14 de juliol de 1993.
+
+	//80. ORIGINAL: There are many rumors circulating. Many falsehoods.
+	296adae8-8283-406d-b10c-bc85ebc05f20 = Hi ha molts rumors circulant. Moltes falsedats.
+
+	//81. ORIGINAL: This is an appeal for calm.
+	78c80363-af8a-484c-aacf-ea6781e2b61a = Això és una crida a la calma.
+
+	//82. ORIGINAL: I can confirm there has been an outbreak.
+	41cb500f-d8ce-4383-aca6-bc606796aefa = Puc confirmar que hi ha hagut un brot víric.
+
+	//83. ORIGINAL: The ailment is, as yet, unidentified.
+	633d4c40-3878-4bda-a240-4dedf435a024 = La malaltia encara està sense identificar.
+
+	//84. ORIGINAL: It is flu-like. It leads to panic. It leads to confusion.
+	f6ca8667-1805-45d7-9736-5645a61e74c0 = Es similar a una gripe. Això condueix al pànic ia la confusió.
+
+	//85. ORIGINAL: There is NO evidence of fatalities within the Exclusion Zone.
+	c809b2c2-03c3-401c-9ded-6f2b82b3d4d0 = No hi ha CAP prova de víctimes mortals dins de la zona d'exclusió.
+
+	//86. ORIGINAL: We are using judged and judicious force to maintain the border.
+	b0cae34e-abd7-433b-9b50-26bbc119ba57 = Estem utilitzant mesures justes i assenyades per mantenir la frontera.
+
+	//87. ORIGINAL: Warning shots have been fired.
+	8bb3eb6d-9248-4678-ad38-a00e5e368481 = S'han fet trets d'advertiment.
+
+	//88. ORIGINAL: No civilians have been harmed.
+	8a7b28dc-7089-4c34-bc09-01fb3dbb3107 = No hi ha civils contagiats.
+
+	//89. ORIGINAL: We must ensure that this infection is not allowed to spread.
+	5a647fd3-006b-4713-a4d9-9c54bb1cf973 = Hem d'assegurar-nos que aquesta infecció no s'estengui.
+
+	//90. ORIGINAL: I am in hourly contact with the President on this matter.
+	7cbba644-1d80-4239-a70c-c91109460ab2 = Estic en contacte permanent amb el president sobre aquest assumpte.
+
+	//91. ORIGINAL: The no-fly zone will remain in place for the foreseeable future.
+	5d36daaf-1b21-44ec-a921-86ace44039e6 = L'espai aeri romandrà restringit durant un temps.
+
+	//92. ORIGINAL: At this time, we will take no questions.
+	d58b7c37-47a5-41de-a690-b2ce7f3417f1 = De moment, no acceptem preguntes.
+
+	//93. ORIGINAL: You're listening to LBMW. I'm Jackie Jaye.
+	280a954b-dfa5-49cc-b294-6ce6b574c2ca = Estàs escoltant la LBMW. Sóc Jackie Jaye.
+
+	//94. ORIGINAL: The exclusion zone to the south of Louisville remains in place today.
+	a0bad126-44f2-42d9-9a26-7658eca0d15d = La zona d'exclusió al sud de Louisville roman activa.
+
+	//95. ORIGINAL: No vehicles, no phone calls, no cameras...
+	365250fc-f9af-4718-aaa0-93d2d3100d46 = Cap vehicle, ni trucades telefòniques, ni càmeres...
+
+	//96. ORIGINAL: ... just the rapid deployment of military personnel and vehicles.
+	10949f25-f712-40fd-9aa8-aaf0d36af793 = ...només un ràpid desplegament de personal i vehicles militars.
+
+	//97. ORIGINAL: LBMW is in a temporary camp on the exclusion border.
+	80064149-7198-47da-9c44-8f52170964f4 = La LBMW es troba en un campament temporal a la frontera de l'exclusió.
+
+	//98. ORIGINAL: Panic throughout the nation is endemic.
+	3d2b4949-ec8f-4143-bbcb-9a846241e422 = El pànic a tota la nació és endèmic.
+
+	//99. ORIGINAL: What next for Kentucky in this sad story?
+	52faf12e-7f7e-40d5-b43b-56c86326e23d = Què serà el següent per a Kentucky en aquesta trista història?
+
+	//100. ORIGINAL: Good evening. This is LBMW.
+	f32fb478-2f75-4556-8f66-9efd9d48882c = Bona nit. Això és la LBMW.
+
+	//101. ORIGINAL: I'm Frank Hemingway.
+	8438d923-3d21-44b2-a549-8674ba714bad = Soc Frank Hemingway.
+
+	//102. ORIGINAL: After repeated demands General John McGrew today explained the Exclusion Zone.
+	7ddd7e1c-ea6c-4acd-b89f-658cd03bed33 = Després de repetides sol·licituds, el General John McGrew ha explicat avui la Zona d'Exclusió.
+
+	//103. ORIGINAL: But are his answers enough for Kentucky?
+	62aeb4bc-751d-4c51-9eec-c499f6d1a516 = Però són les respostes suficients per a Kentucky?
+
+	//104. ORIGINAL: General McGrew went on to state that the no-fly zone...
+	e65c7b4c-ca43-497c-ac59-de3b60709153 = El General McGrew va afirmar que el trànsit aeri...
+
+	//105. ORIGINAL: ... would remain in place for the immediate future.
+	e5f7e871-4852-44fe-ab6f-5bf31e04e197 = ...romandria restringit per ara.
+
+	//106. ORIGINAL: His comments have done little to allay public fear.
+	0a5df8d9-474e-4606-bf90-a2e540ccae7a = Els seus comentaris no van ajudar a dissipar el temor públic.
+
+	//107. ORIGINAL: Why are we in the dark?
+	bbaace95-51a6-4313-8c5b-0ce49bc89c44 = Per què tant secretisme?
+
+	//108. ORIGINAL: Why can't they talk to us?
+	ab375233-3434-4f3b-8eba-b21f3bb407eb = Per què no parlen amb nosaltres?
+
+	//109. ORIGINAL: And why won't they let US talk to them?
+	f768c8b8-6cca-4f70-951c-64379cbbc85e = I per què no ens permeten parlar amb ells?
+
+	//110. ORIGINAL: Ah, wait we've just got this in.
+	e3f0c2a9-68de-418b-8f74-2e6fb98afa68 = Ah, esperin, acabem d'aconseguir això.
+
+	//111. ORIGINAL: It's a statement from the President distributed to all media.
+	028bee7b-0c38-4163-bd05-424cd8d359ae = És una declaració oficial del president distribuïda a tots els mitjans.
+
+	//112. ORIGINAL: This is a distressing time.
+	4296776d-6ee6-411c-b8f2-b887514a1a12 = Aquest és un moment angoixant.
+
+	//113. ORIGINAL: The situation in Kentucky is unexpected and saddening.
+	1009b319-c826-40b2-ae82-c0e64233555b = La situació a Kentucky és inesperada i trista.
+
+	//114. ORIGINAL: My first thoughts are with the friends and families of those within the Zone.
+	62a5514d-a85a-43a1-8508-89e0f681531b = Els meus primers pensaments són amb els amics i familiars de les persones dins de la Zona.
+
+	//115. ORIGINAL: People have been separated, folk have been evacuated...
+	41c5bb6e-fb72-4520-a053-af8e00a9f1d3 = La gent ha estat separada i evacuada...
+
+	//116. ORIGINAL: I understand the difficulties facing us.
+	efdc9a75-b080-43f9-83cf-ffb5a3f06542 = Entenc les dificultats a què ens enfrontem.
+
+	//117. ORIGINAL: However, I have faith in the fine people of the Center for Disease Control...
+	690daf87-627f-4e99-85f1-9ae02c0362ed = No obstant això, confio en el personal del Centre de Control de Malalties...
+
+	//118. ORIGINAL: ... to get to the root of the panic and confusion within the Exclusion Zone.
+	303e9c48-eb61-4f5e-bea6-42ebfbf8df0e = ...per arribar a l'arrel de l'assumpte del pànic i la confusió dins de la zona d'exclusió.
+
+	//119. ORIGINAL: I have faith in our Servicemen and Women to fulfill their duties...
+	43cfd043-73ff-48d1-b713-fbba9a5ea483 = Confio en els nostres militars per complir els seus deures...
+
+	//120. ORIGINAL: ... and for General John McGrew to command them with the foresight and dedication...
+	dc4e51e9-7a73-4d87-a0ec-e2a5d5a8b362 = ...i al General John McGrew al comandament, amb la visió i dedicació...
+
+	//121. ORIGINAL: ... he has shown throughout his exemplary career.
+	43474999-1c85-4561-9ba5-033bddb8f091 = ...que ha demostrat al llarg de la seva exemplar carrera.
+
+	//122. ORIGINAL: It is a distressing time America, but you are in safe hands.
+	af49e92c-ff32-4f0b-a8a9-4d5bf2e5cdd9 = Són temps angoixants per a Amèrica, però esteu en bones mans.
+
+	//123. ORIGINAL: Thank you.
+	220498db-8d7c-49df-8557-f69e3cf403a9 = Gràcies.
+
+	//124. ORIGINAL: Saying it like I see it.
+	0c939dc4-2286-4649-9aa1-7acb1c895691 = Así lo vemos, y así se lo hemos contado.
+
+	//125. ORIGINAL: This is Frank Hemingway, LBMW.
+	c3e67440-db99-4740-ae8f-0bf217a0ff25 = Aquí Frank Hemingway, LBMW.
+
+	//126. ORIGINAL: I'm in the media camp on the Knox Exclusion Zone boundary.
+	5612a73c-bf82-466f-859b-b8096433d1fb = Estic al campament dels mitjans de comunicació al límit de la Zona d'Exclusió de Knox.
+
+	//127. ORIGINAL: Last night, the President gave full support to agencies fighting the Knox Event.
+	3add099a-199c-42e6-b2ff-eb56f5f1f888 = Ahir a la nit, el President va donar ple suport a les persones que lluiten contra l'incident de Knox.
+
+	//128. ORIGINAL: Now back to the Exclusion Zone Boundary, where I am this morning.
+	8ecf0af1-3f13-4ed8-8421-5735c1a1ebaa = Ara tornem al Límit de Zona d'Exclusió, on sóc aquest matí.
+
+	//129. ORIGINAL: In my hand? An exclusive statement from General John McGrew.
+	c517943d-c1ee-465e-99f4-0355df13c4ee = Tinc a la meva mà una declaració exclusiva del General John McGrew.
+
+	//130. ORIGINAL: Here he apologises for...
+	8a582fad-8c48-4c2d-bd52-a815bd2168df = Es disculpa per...
+
+	//131. ORIGINAL: a 'lack of clarity'...
+	70458f2f-5ad3-456f-86b9-9023f484ef00 = la 'falta de claredat'...
+
+	//132. ORIGINAL: ... in what many are calling 'The Knox Event'.
+	b8ac3d7b-b052-42b9-affc-05a0af63b4a9 = ...en allò que molts anomenen 'L'Incident de Knox'.
+
+	//133. ORIGINAL: In the EXCLUSIVE statement to LBMW he again confirmed...
+	8e84cfae-8a31-4cf3-817b-782501f23552 = A la declaració EXCLUSIVA a la LBMW, va tornar a confirmar...
+
+	//134. ORIGINAL: ... that the outbreak is contained...
+	d71743e0-1cca-41e7-81ac-982d15e88313 = ...que el brot està controlat...
+
+	//135. ORIGINAL: ...and that he is unaware of fatalities within the exclusion zone.
+	f76932ab-dff7-44c9-ab0e-a516f1c92c22 = ...i que no té constància de morts a la zona dexclusió.
+
+	//136. ORIGINAL: When I asked whether the miliary sensitivity of the region...
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Quan li vaig preguntar si la sensibilitat militar de la regió...
+
+	//137. ORIGINAL: ... had an impact on the way the Event is being handled...
+	88339464-23cc-4c18-a235-7b82c65f817a = ...va tenir un impacte en la manera com s'està manejant l'Incident...
+
+	//138. ORIGINAL: ... I was met only with silence.
+	31f0b476-d6eb-4cec-b9ea-727be8a3ecf1 = ...només vaig obtenir silenci de la seva part.
+
+	//139. ORIGINAL: Saying it, like I see it.
+	44946032-de60-44b2-856a-7a6cff85049a = Així ho veiem i així ho hem explicat.
+
+	//140. ORIGINAL: Hi. Jackie Jaye for LBMW.
+	7ea33495-fa23-4d5b-b491-a3abb912c4f7 = Hola. Jackie Jaye per a la LBMW.
+
+	//141. ORIGINAL: What caused the Event? Rumor is rife.
+	53500e0d-7653-48af-86a5-2c6defb8ba90 = Què va causar l'Incident? Els rumors abunden.
+
+	//142. ORIGINAL: A strange cloud hangs over Kentucky.
+	7d626e8d-ed2c-4032-a58a-91c87bfb9f70 = Un estrany núvol plana sobre Kentucky.
+
+	//143. ORIGINAL: I'm in one of the camps that has grown on the Event border.
+	e01d06ee-41bd-4325-a5ef-4db18d9a6948 = Estic en un dels campaments que s'han instal·lat als límits de l'Incident.
+
+	//144. ORIGINAL: Displaced families, people with families inside the Event...
+	d701449c-961e-476c-8954-e75cb8d088de = Famílies separades, persones amb famílies dins de l'Incident...
+
+	//145. ORIGINAL: They're all here. And, guess what? They're angry.
+	e8ac73dc-5abe-48f4-83f2-b80cab072aba = Són tots aquí. I endevinin què? Estan enfadats.
+
+	//146. ORIGINAL: They say we shouldn't be worried...
+	e5f66148-1765-43de-aaa3-5cf065f9ef3f = Diuen que no ens hem de preocupar...
+
+	//147. ORIGINAL: ... but they won't even say what in HELL this is?
+	130686fa-3616-4ac9-a59b-95b6a9163ef1 = ...però ni tan sols diuen què DIMONIS és això.
+
+	//148. ORIGINAL: He says there are no casualties?
+	eaada990-55c8-4981-b487-9291cb811441 = Diu que no hi ha morts?
+
+	//149. ORIGINAL: There's a lot of bad stuff leading up to a casualty, right?
+	fdb946ae-796b-4958-b0e9-8b2df833bbf1 = Hi ha un munt de coses que condueixen a una mort, oi?
+
+	//150. ORIGINAL: What happened to my wife, General?
+	937592a6-28aa-44ef-ac11-d142756ae9e5 = Què va passar amb la meva dona, General?
+
+	//151. ORIGINAL: Why can't we speak?
+	847e00ce-5d89-4017-b74d-716df0d87014 = Per què no podem parlar?
+
+	//152. ORIGINAL: Do you know what caused this sir?
+	a3f4c5c2-6c1e-4403-9311-a252f6d02a94 = Sap què va causar això, senyor?
+
+	//153. ORIGINAL: Hell if I know.
+	d6798136-09ca-4be5-aa8f-99c5a7f03d1a = No en tinc ni idea.
+
+	//154. ORIGINAL: Some are saying it was the smell.
+	3228c791-6225-4627-a0ed-445af98c7320 = Alguns diuen que va ser l'olor.
+
+	//155. ORIGINAL: Awful bad smell here, for weeks.
+	2040166c-f3d9-46b7-8aae-bfe02d26c5bb = Una mala olor horrible, durant setmanes.
+
+	//156. ORIGINAL: And what do you think has happened to your Mommy, sweetheart?
+	561fa02f-6f48-4696-9fdd-0cea023a293d = I què creus que li ha passat a la teva mare?
+
+	//157. ORIGINAL: I don't know.
+	931c1bb9-dfea-4d07-8abe-d62d4373cd5d = No ho sé.
+
+	//158. ORIGINAL: Neither do I honey.
+	9b01718c-0977-44fe-97e4-9894f99ddaab = Ni jo tampoc, carinyo meu.
+
+	//159. ORIGINAL: It'll be okay.
+	a9f753f2-d8b1-4006-a8ca-65fa615ff72d = Tot anirà bé.
+
+	//160. ORIGINAL: This is Jackie Jaye. Keep safe guys.
+	c0e919be-c180-4e09-877f-4c97eb7a0fe4 = Fins aquí Jackie Jaye. Cuideu-vos nois.
+
+	//161. ORIGINAL: This is Jackie Jaye, here today with Professor John Ramirez - a military scientist
+	c0a828d5-691f-47f9-9e03-2e6fa475e31a = Aquí Jackie Jaye, avui amb el professor John Ramirez - un científic militar.
+
+	//162. ORIGINAL: Professor Ramirez, we've been told that you can provide some answers.
+	4d8f50dd-a723-4cac-8149-e3e3c831cb0b = Professor Ramirez, ens han dit que ens pot proporcionar algunes respostes.
+
+	//163. ORIGINAL: How are they doing in there?
+	273df837-01dd-4c48-bfe0-f5445aee73e4 = Com està la cosa allà dins?
+
+	//164. ORIGINAL: Not good Jackie.
+	c2067159-db7b-4225-a229-27603671c4e9 = No pinta bé, Jackie.
+
+	//165. ORIGINAL: They're all on two feet, but they're in a bad way.
+	b46389b2-c688-4a8d-aae3-21deff253cae = Ells sembla que estan bé, però no és així.
+
+	//166. ORIGINAL: What are the symptoms? Is this life-threatening?
+	4a60607c-8970-423c-b821-7245d721c99a = Quins són els símptomes? Les vostres vides corren perill?
+
+	//167. ORIGINAL: We've taken samples.
+	49d75c54-62eb-4f74-ae9d-97fc5348c6fb = Hem pres mostres.
+
+	//168. ORIGINAL: There's a team looking into that right now.
+	e320a9c8-ac18-4c7b-b22d-7010da6f8917 = Hi ha un equip treballant ara mateix.
+
+	//169. ORIGINAL: There's no reason to spread fear or alarm.
+	865772b3-4238-4c1d-894f-fa7200deaeb5 = No hi ha cap raó per difondre por o alarmisme.
+
+	//170. ORIGINAL: We have top men looking into what this is...
+	e6df79c0-f8da-4e23-ba4c-9acc825db21a = Tenim bons professionals investigant què és...
+
+	//171. ORIGINAL: ...and just where it came from.
+	edd8315b-73b1-4b80-befd-960a048f9ed4 = ...i d'on ve.
+
+	//172. ORIGINAL: And the symptoms?
+	453d1fb8-e0d4-410d-897b-998f50b74be3 = I els símptomes?
+
+	//173. ORIGINAL: Like we said: flu-like at first, then - panic and confusion.
+	e38d60d8-88a6-4e77-a4e9-aaaeec421241 = El que ja vam dir: Com una grip al principi, i després - episodis de pànic i confusió.
+
+	//174. ORIGINAL: We think the spread has slowed now.
+	8562c856-7aa7-4853-8a1b-59adb2d410e1 = Creiem que la propagació s'ha frenat.
+
+	//175. ORIGINAL: But we don't deal in absolutes.
+	4e264273-371d-40bd-9c66-d893c5fbd13e = Però no tenim cap garantia en absolut.
+
+	//176. ORIGINAL: This remains a volatile situation, with a contagious illness at its heart.
+	d84fdccb-ed55-4289-aaa0-fbf21ead5b2b = Això continua sent una situació volàtil, amb una malaltia contagiosa al seu interior.
+
+	//177. ORIGINAL: The lockdown is required by international law...
+	96786dff-0539-4b9e-afc5-127cdd159fca = El bloqueig és requerit per la llei internacional...
+
+	//178. ORIGINAL: ... and common sense...
+	4aa5f58d-f000-42ba-8c43-5c5b9aa2b217 = ...i el sentit comú...
+
+	//179. ORIGINAL: ... until we know for sure we are safe.
+	3fae8e9c-2d12-40ad-8572-e87e3a58f22b = ...fins que estiguem segurs que estem fora de perill.
+
+	//180. ORIGINAL: I'm sure y'all can understand why.
+	d1f957a4-bf15-4252-8c53-6eddee8b8725 = Estic segur que vostès poden entendre el perquè.
+
+	//181. ORIGINAL: And the reports of violence?
+	bc102443-31bd-4476-a055-ba5ae375d93a = I els informes de violència?
+
+	//182. ORIGINAL: At this point in time we have no reason to believe folks won't recover.
+	47e458d7-73f0-40ff-b13c-7c1069bdf8bf = En aquest moment no tenim cap raó per creure que la gent no es recuperarà.
+
+	//183. ORIGINAL: Thank you for your time.
+	d66f9a20-997a-4652-90cf-1796ecea7a9e = Gràcies pel seu temps.
+
+	//184. ORIGINAL: I'm Jackie Jaye. Keep safe Kentucky.
+	4f1ba862-2224-4cbe-a64e-aff0e81e68bc = Sóc Jackie Jaye. Força per a Kentucky.
+
+	//185. ORIGINAL: Good evening. I'm Frank Hemingway.
+	92dcd964-dba3-4f9c-beab-9086d0275054 = Bona nit. Sóc Frank Hemingway.
+
+	//186. ORIGINAL: This is LBMW.
+	9dca17e8-01b1-4d31-b327-7c2102588327 = Estàs a la LBMW.
+
+	//187. ORIGINAL: Public anger reaches boiling point...
+	cd05c61d-e14d-4b53-9315-21dfcef68090 = L'enuig social assoleix el seu punt d'ebullició...
+
+	//188. ORIGINAL: ... and Knox Telecommunications accept responsibility for ongoing communication outages...
+	a7a13d1c-6e22-4b61-9b22-cb9bbd33ee1b = ...i Telecomunicacions Knox accepta la responsabilitat de les interrupcions en les comunicacions...
+
+	//189. ORIGINAL: ... that were in place days BEFORE the Knox Event began.
+	e0731c9a-3769-4365-9357-61dedf9c4d11 = ...que estaven succeint dies abans que comencés l'Incident de Knox.
+
+	//190. ORIGINAL: Meanwhile, fresh details of the Knox Infection emerge.
+	0fde3c24-d723-4280-aaa2-047f2a0195f9 = Mentrestant, apareixen nous detalls sobre la Infecció a Knox.
+
+	//191. ORIGINAL: Flu-like - then panic and confusion.
+	67356bbf-0874-4c71-81d8-7ede2387d406 = Com una grip - i després episodis de pànic i confusió.
+
+	//192. ORIGINAL: A contagion that spread throughout entire communities.
+	973812c2-d0d7-499c-9b08-1e336db493ff = Un contagi que es va estendre per tota la comunitat.
+
+	//193. ORIGINAL: A contagion that, scientists claim, might soon have run its course.
+	d049a5d6-d50b-42e6-a421-23b5d4860218 = Un contagi que, segons afirmen els científics, aviat podria arribar al final.
+
+	//194. ORIGINAL: So, if it's all over: why the black-out?
+	9753a697-b276-417b-9fa9-3b0704591b0c = Així que, si tot s'ha acabat: per què segueix el secretisme?
+
+	//195. ORIGINAL: What aren't we being told?
+	5fa705bd-14ea-4fde-a492-023f786e1eea = Què és el que no ens han explicat?
+
+	//196. ORIGINAL: Today a public demonstration in Washington DC exploded into angry scenes.
+	ed55f0ac-b364-4fa5-b489-ad218fd59af8 = Avui una manifestació pública a Washington va desencadenar escenes d'ira.
+
+	//197. ORIGINAL: All we need, the people say, are answers.
+	7c72c3db-9e8b-4117-a4fe-c2d36aa7c2c2 = Tot allò que necessitem, diu la gent, són respostes.
+
+	//198. ORIGINAL: LBMW ask the questions..
+	fb720674-250f-41ca-b269-e5e69da97c0c = La LBMW fa les preguntes..
+
+	//199. ORIGINAL: But sometimes the silence is even more damning...
+	48af083f-b72d-4a25-a0fe-d9ecc6c0bde6 = Però de vegades el silenci encara és més contundent...
+
+	//200. ORIGINAL: ...than the answers that aren't there.
+	9c21aa74-d71c-4586-8e8b-817270550136 = ...que les respostes que no ens donen.
+
+	//201. ORIGINAL: Frank Hemingway.  LBMW.
+	48c8c29f-7e2a-4461-8026-6961e0b1aec3 = Frank Hemingway. LBMW.
+
+	//202. ORIGINAL: This is Frank Hemingway, signing off for the night.
+	710a20de-b15a-4e27-a938-e2277c427c7e = Aquí Frank Hemingway, acomiadant-se per aquesta nit.
+
+	//203. ORIGINAL: Growing unrest has been reported throughout the nation.
+	6c009f96-08ea-4139-bbd4-0b7b2e2cf12a = Un creixent malestar ha estat reportat per tota la nació.
+
+	//204. ORIGINAL: Placards in Washington. Firebombs in Detroit.
+	a6892caf-2a63-4e75-acd7-6f0c8513ea26 = Pancartes a Washington. Bombes incendiàries a Detroit.
+
+	//205. ORIGINAL: A Greene's Grocery Store in downtown LA: set ablaze.
+	f851133b-393c-45f1-903f-594f9940824a = La botiga de comestibles Greene al centre de Los Angeles: arrasada pel foc.
+
+	//206. ORIGINAL: Isolated incidents with one voice:
+	dbc8b85c-265e-4f81-a7d2-300b1853d9fc = Incidents aïllats amb una sola veu:
+
+	//207. ORIGINAL: We don't feel safe.'
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'No ens sentim segurs'.
+
+	//208. ORIGINAL: and 'What aren't we being told?'
+	119ca91b-89a5-42ec-be56-a34ce4990c7b = i 'Què ens oculten?'
+
+	//209. ORIGINAL: Meanwhile, camps on the edge of the Event boundary continue to grow.
+	f61c4477-365e-4f16-8a96-4d1559ed8b10 = Mentrestant, els campaments als límits de l'Incident continuen creixent.
+
+	//210. ORIGINAL: Onlookers, well-wishers, worried families...
+	04b08d08-ab1c-4938-88ed-66977d376919 = Curiosos, simpatitzants, familiars preocupats...
+
+	//211. ORIGINAL: ... staring through the wire and arguing with military personnel.
+	8b95b931-4d52-4b0e-989a-48bd8ffa4bf2 = ...mirant a través dels filats i discutint amb el personal militar.
+
+	//212. ORIGINAL: As anger continues to grow.
+	6005c673-6527-425a-b78d-de8dc8db3c64 = L'enuig continua creixent.
+
+	//213. ORIGINAL: We're five days into the Event exclusion. This is LBMW.
+	752964df-ade2-4249-ab0d-2532efb28409 = Han passat cinc dies des de l'inici de l'exclusió. Això és la LBMW.
+
+	//214. ORIGINAL: This is Jackie Jaye on the Event boundary, with your breaking news.
+	3c837f51-0a5c-4065-855e-9472446bf5e1 = Aquí Jackie Jaye a la frontera de l'Incident, explicant-los l'última hora.
+
+	//215. ORIGINAL: Last night anger at the handling of the Knox Event boiled over.
+	a6161be8-3396-4270-afd5-6265ce95b6d3 = La nit passada l'enuig per la gestió de l'incident de Knox es va desbordar.
+
+	//216. ORIGINAL: As public outcry and disorder spills onto the streets of our cities.
+	16e932fa-52ed-43e8-be8e-bc972ac85911 = Mentrestant, les manifestacions públiques i el caos s'apoderen dels carrers de les nostres ciutats.
+
+	//217. ORIGINAL: The President has released a statement asking for calm.
+	0ba92996-a2ab-48e7-9264-ae54eaf2b760 = El President ha llançat un comunicat oficial demanant calma.
+
+	//218. ORIGINAL: I understand the frustration. I can hear you: loud and clear.
+	25071aff-ef5f-48ad-aa20-cdc845c6adae = Entenc la frustració. Puc sentir-vos: alt i clar.
+
+	//219. ORIGINAL: I understand the frustration because I'm like you.
+	893fd722-e802-4bdb-ba3a-118f37c0f33c = Entenc la frustració perquè jo sóc com vosaltres.
+
+	//220. ORIGINAL: I want to know when my fellow Americans...
+	0da8e0fd-b878-41d6-b7c8-33a5a885b5af = Vull saber quan els meus compatriotes...
+
+	//221. ORIGINAL: ...fellow Americans who are laid low with sickness...
+	8f311ef4-3081-4bcf-96eb-bba57ceb418d = ...compatriotes americans postrats per la malaltia...
+
+	//222. ORIGINAL: ... can be returned to their families.
+	8d41be7f-63ff-466c-93e9-35bebc669599 = ...podran tornar amb els familiars.
+
+	//223. ORIGINAL: To this end I will be talking to the General today.
+	97e3447b-9604-4461-abd3-40808d527f79 = Amb aquesta finalitat parlaré amb el General avui.
+
+	//224. ORIGINAL: From which I will be able to provide more answers.
+	293a5eb6-88a5-4734-829a-7d2839682af1 = I així seré capaç de donar més respostes.
+
+	//225. ORIGINAL: However.
+	d74bb2b8-8f5d-4acf-b874-5d412bc33252 = Tan mateix,
+
+	//226. ORIGINAL: The horrifying activities we have seen on our streets over the last 24 hours?
+	535f3244-16a2-4d70-87ea-b83a42568ec0 = Les horribles escenes que hem vist als nostres carrers les darreres 24 hores?
+
+	//227. ORIGINAL: There is no excuse. No excuse whatsoever.
+	6f6abcaf-0a37-4080-94b4-5d7784c62d02 = No hi ha cap excusa. No hi ha cap excusa.
+
+	//228. ORIGINAL: Arrests will be made. Every authority is on high alert.
+	db148435-a3d8-4164-9a68-5f03eec863c6 = Hi haurà detencions. Les autoritats estan en alerta màxima.
+
+	//229. ORIGINAL: If you are seeking to disrupt our way of life through fear and scaremongering...
+	4832e1e4-fb82-418c-9450-e60b6de2b294 = Si vostè està tractant de pertorbar la nostra manera de vida a través de la por i l'alarmisme..
+
+	//230. ORIGINAL: ...you will be sorely disappointed.
+	a467a8c4-92f8-4fe4-8d85-e871d0e2a72f = ...se sentirà amargament desil·lusionat.
+
+	//231. ORIGINAL: I will come back to you with more information...
+	40f5478b-f7b9-46a1-bf33-2cc7bcc2e0fb = Tornaré amb més informació...
+
+	//232. ORIGINAL: ...FULL information...
+	dc5c5b50-fe58-4d63-b072-1d0d8fc28442 = ...TOTA l’informació...
+
+	//233. ORIGINAL: When I have it in my hand.
+	c2d3184e-be50-489b-978f-e4048721367a = Quan la tingui en la meva mà.
+
+	//234. ORIGINAL: Meanwhile, closer to home.
+	7a8af28f-be41-4aaa-9145-8cf1d0fb0094 = Mentrestant, quedeu-vos a prop de casa.
+
+	//235. ORIGINAL: General John McGrew has issued a warning to folks camped out on the Event line.
+	719ad0bf-dcfc-404d-9a4d-5c71fc630778 = El General John McGrew ha emès una advertència a la gent acampada a la frontera de l'Incident.
+
+	//236. ORIGINAL: His message: if worried relatives and displaced families do not move on...
+	53933aa2-d150-4e5d-9b52-0b5563aeadff = El seu missatge: si els familiars i coneguts no se'n van...
+
+	//237. ORIGINAL: ... they will be dispersed.
+	86215554-dfb5-4338-a236-c06923c6e703 = ...seran dispersats.
+
+	//238. ORIGINAL: Meanwhile, gunshots from inside the Zone have been heard.
+	3b21e2d0-02f0-4e1c-a812-320811844901 = Mentrestant, s'han sentit trets dins la zona.
+
+	//239. ORIGINAL: The military refused to comment.
+	8c96c38f-d13a-4004-956f-91391a889d0a = Els militars es van negar a fer declaracions.
+
+	//240. ORIGINAL: This is Jackie Jaye. Keep safe Kentucky.
+	2e8473aa-e846-43e2-b7d4-f88fd4d476fb = Aquí Jackie Jaye. Ànim, Kentucky.
+
+	//241. ORIGINAL: Breaking news.
+	2146a338-6733-46be-a2bd-5c50449e813d = Notícies de darrera hora.
+
+	//242. ORIGINAL: Commercial flights out of the US have been grounded by the World Health Organisation.
+	b3b664e0-6f5b-491d-8853-6e7fd8a194f9 = Els vols comercials que havien de sortir dels Estats Units han estat a terra per ordre de l'Organització Mundial de la Salut.
+
+	//243. ORIGINAL: Any flight scheduled to take off after six tonight is cancelled.
+	6abe4027-7766-4caa-8ec0-3ce48c281db9 = Qualsevol pla de vol per enlairar-se després de les sis d'aquesta nit està cancel·lat.
+
+	//244. ORIGINAL: In a statement the World Health Organisation highlights...
+	fb094ff3-fd90-49b6-ae11-32668a57d874 = En un comunicat, l'Organització Mundial de la Salut...
+
+	//245. ORIGINAL: ... an 'ongoing concern over the still unidentified Kentucky outbreak'...
+	d450fb7e-a330-4158-b94a-e920501f1fca = ...una 'gran preocupació sobre el brot víric encara no identificat de Kentucky'...
+
+	//246. ORIGINAL: ... as it seeks to prevent  the malady spreading internationally.
+	1d53166f-c09a-45a8-8503-4710ba9a1749 = ...amb això procura evitar que la malaltia es propagui mundialment.
+
+	//247. ORIGINAL: The President has reacted with anger.
+	0ef51166-3a83-4d00-be4e-0330cd2ee361 = El president ha reaccionat amb ira.
+
+	//248. ORIGINAL: This move is as unwelcome...
+	79dd62ce-3411-48d6-bf08-3e37b3b7501a = Aquesta decisió és tan inoportuna...
+
+	//249. ORIGINAL: ...as it is economically unsound.
+	423c07d9-0aff-4e0d-a8c3-3fdeaed61c02 = ...com econòmicament poc viable.
+
+	//250. ORIGINAL: I will seek to redress this move at every opportunity.
+	9205ec38-984f-4ce4-a852-2ff346bd9bbc = Intentaré canviar aquesta decisió quan tingui ocasió.
+
+	//251. ORIGINAL: After talks with the General I am satisfied that...
+	203cbb31-3261-4c39-966c-586e8ddcd004 = Després de les converses amb el General estic convençut que...
+
+	//252. ORIGINAL: The Knox Event is, to all intents of purpose, contained.
+	7b983b4d-5ec1-4a19-8b64-db3d7d7b3538 = L'Incident de Knox, amb caràcter general, està controlat.
+
+	//253. ORIGINAL: Tests on those recovering from the Knox sickness are inconclusive.
+	083860d9-f68a-476c-b1be-fb81de8bc587 = Les proves sobre la recuperació de la malaltia no són concloents.
+
+	//254. ORIGINAL: We have labs set up inside the Zone now.
+	e91e923b-e6cf-4ac3-81fc-57a6f9c0c8d5 = Comptem amb laboratoris instal·lats dins de la Zona.
+
+	//255. ORIGINAL: I assure the American people that every dollar I have at my disposal...
+	88a87684-c393-471e-905a-03ed9fa463f8 = Asseguro a tots els americans que cada dòlar que tinc a la meva disposició...
+
+	//256. ORIGINAL: ...will go toward their healing and rehabilitation.
+	0ae4b081-c033-4dd5-b14a-c78cb812085f = ...anirà destinat a la curació i rehabilitació dels afectats.
+
+	//257. ORIGINAL: However, I repeat: the Knox Event IS contained.
+	a8dc2de1-9e0a-49ac-bd59-100516d0bdfa = No obstant, repeteixo: l'Incident de Knox està controlat.
+
+	//258. ORIGINAL: Procedures are underway to ensure our safety.
+	26e692bb-7aab-4ac4-bfa8-cfa50d65e5ae = Els procediments estan en marxa per tal de garantir la nostra seguretat.
+
+	//259. ORIGINAL: That will be all.
+	6da28a3a-1473-4628-95c8-8e3a079ef4f0 = Això és tot.
+
+	//260. ORIGINAL: From six tonight EST the ONLY craft with permission to take off...
+	4bb3cc38-ce6a-4c47-957a-33f39ca93ad7 = A partir de les sis d'aquesta nit l'ÚNIC avió amb permís per...
+
+	//261. ORIGINAL: ...will carry medicines or military personnel.
+	b5ed42ad-4a93-4716-9c5c-3d7b8d767b68 = ...portarà medicaments o personal militar.
+
+	//262. ORIGINAL: Meanwhile in unsavory scenes...
+	ed3560a4-794e-4763-b5af-5ed886298f43 = Mentrestant, escenes desagradables...
+
+	//263. ORIGINAL: ...panic-buying has turned to looting in many states.
+	ba9b1359-58b5-4301-af69-6839dffb460f = ...de compres desmesurades a causa del pànic, han aconseguit que comenci el saqueig en molts estats.
+
+	//264. ORIGINAL: America sits on a knife-edge.
+	28ffa063-de11-4860-a506-ef4c4fbf647c = Amèrica es troba a la vora de l'abisme.
+
+	//265. ORIGINAL: Jackie Jaye.
+	d8cc5fbe-f305-4eb0-92b6-a7819f166dc1 = Jackie Jaye.
+
+	//266. ORIGINAL: This is Frank Hemingway...
+	2d1448cd-9ef3-496b-bdec-5be1a5810f0d = Aquí Frank Hemingway...
+
+	//267. ORIGINAL: ... and I'm Jackie Jaye.
+	9f4d3a40-20f3-4afd-be0f-07adda55dbaf = ...i Jackie Jaye.
+
+	//268. ORIGINAL: Scenes of turmoil tonight as military forces roll into towns and cities.
+	d7c1d3b1-7ed2-45e6-938a-c451c5175944 = S'han viscut escenes de confusió aquesta nit, amb l'exèrcit entrant a pobles i ciutats.
+
+	//269. ORIGINAL: Peacekeeping forces have been stationed throughout the nation.
+	cde6c2b5-14d8-4e08-8aa0-7432cad905bf = S'han desplegat grups militars per tota la nació.
+
+	//270. ORIGINAL: Throughout it all: that same message:
+	a85116a3-939b-49b1-875a-ed760c38b574 = I mentrestant, el mateix missatge:
+
+	//271. ORIGINAL: Stay indoors where possible. Do not panic.
+	a5bc1ed0-406a-4112-9865-669202e8c406 = Romangui a casa sempre que sigui possible. Que no s'estengui el pànic.
+
+	//272. ORIGINAL: This all in response to the unprecedented move made by the WHO...
+	ca3fb02f-6abd-4b44-9618-4200d5fb59ee = Tot això en resposta a la mesura sense precedents de l'OMS...
+
+	//273. ORIGINAL: ...who have cancelled all flights to and from mainland America.
+	ed80c57c-f03e-48d1-be08-22fe6a8ebaeb = ...que ha cancel·lat tots els vols d'entrada i sortida a tota Amèrica.
+
+	//274. ORIGINAL: All eyes are on developments in a sleepy corner of Kentucky...
+	1e6eb544-642d-4c67-8de9-07889f05b380 = Tots els ulls estan posats en una zona tranquil·la de Kentucky...
+
+	//275. ORIGINAL: ...now a no-go zone ring-fenced by the US Army
+	9b0160d5-58be-49a8-a57a-325ed97c8b70 = ...ara convertida en una zona acordonada per l'exèrcit dels Estats Units.
+
+	//276. ORIGINAL: Once we'd report from Muldraugh and West Point about county fairs and sick pets...
+	8ba0e339-7940-4e6b-84ae-584e2ccb76af = Abans fèiem reportatges des de Muldraugh i West Point sobre fires locals i animals malalts...
+
+	//277. ORIGINAL: ... now times have changed significantly.
+	de37e743-8960-4fc5-bbb1-8dd1702eb191 = ...ara les coses han canviat significativament.
+
+	//278. ORIGINAL: Pictures released to LBMW, however, show crowded streets...
+	3b32002a-8622-41b7-9dbb-f4ff4b797c5b = Les imatges difoses per la LBMW, però, mostren carrers concorreguts...
+
+	//279. ORIGINAL: ...suggesting that, despite it all, some townsfolk are living as normal.
+	2f817b17-db18-45bc-a27a-02b63676236d = ...cosa que suggereix que, malgrat tot, alguns habitants continuen vivint amb normalitat.
+
+	//280. ORIGINAL: Frank Hemingway and Jackie Jaye,  LBMW.
+	a7cbf66b-e9d5-444b-bfeb-8e4f8870c904 = Frank Hemingway i Jackie Jaye, LBMW.
+
+	//281. ORIGINAL: Stay safe everyone.
+	10ff4139-65db-4ea0-b3a3-7634552a605a = Cuideu-vos.
+
+	//282. ORIGINAL: Breaking news on LBMW.
+	258eaa89-ae44-46e3-90f5-f19a9370d04d = Últimes notícies a LBMW.
+
+	//283. ORIGINAL: The Knox Exclusion Zone has been widened.
+	891e662e-a81b-4d9d-b185-2b2df42925be = S'ha ampliat la zona d'exclusió de Knox.
+
+	//284. ORIGINAL: Early this morning, some camps growing along key access roads were moved back.
+	48648b40-3cf1-41b1-9097-ca460978b89a = Aquesta matinada, alguns campaments propers a les vies d'accés van ser obligats a recular.
+
+	//285. ORIGINAL: A statement from the office of General John McGrew reads as follows:
+	2ace711f-936b-4a07-a84e-31e9074b2ae3 = Un comunicat de l'oficina del General John McGrew diu el següent:
+
+	//286. ORIGINAL: Civilians were moved peacefully and calmly...'
+	e46f4b87-9aa3-4ce2-8039-395f89f73afe = Els civils van ser traslladats pacíficament...
+
+	//287. ORIGINAL: ...and sometimes in military vehicles for their own safety.'
+	29474bd9-0ee7-47df-afdd-0e46f208354a = ...en vehicles militars per seguretat pròpia.
+
+	//288. ORIGINAL: Rumors of conflict on the edge of the abandoned perimeter...
+	02d157ee-8887-4faf-80a2-9cae2d8aaae7 = Els rumors de conflictes a la vora del perímetre abandonat...
+
+	//289. ORIGINAL: ... however, have not gone away.
+	a3c98088-4506-4992-969d-5eb5c6f19c5f = ...tanmateix, no han desaparegut.
+
+	//290. ORIGINAL: Meanwhile, throughout the nation the disruption continues.
+	ae9855b8-4da3-4145-ac82-2d228274c8b4 = Mentrestant, continuen els disturbis a tota la nació.
+
+	//291. ORIGINAL: There were fatalities today when a demo in New York turned violent.
+	db05234a-c838-4789-b6bb-501dd61e7922 = Amb diversos morts avui en una manifestació a Nova York que es va tornar violenta.
+
+	//292. ORIGINAL: Fear and panic are growing.
+	e8f2db79-d43c-4b79-9941-7e94893fb55b = Continua creixent la por i el pànic.
+
+	//293. ORIGINAL: America looks to its leaders for answers.
+	40ba5ff1-b0f6-4d17-803c-0839fa8769a6 = Amèrica mira els seus líders per obtenir respostes.
+
+	//294. ORIGINAL: Frank Hemingway, LBMW.
+	19f62732-0a4d-4bad-87a7-fd0b4e66663a = Frank Hemingway, LBMW.
+
+	//295. ORIGINAL: This is Jackie Jaye with breaking news.
+	76366a44-bc3d-4459-b9fa-51ac23e29c5d = Aquí Jackie Jaye amb notícies d'última hora.
+
+	//296. ORIGINAL: We're going straight over to a briefing from the White House.
+	7b1639f6-17d5-4609-9bdf-e845f0c7624e = Ens dirigim a una conferència de premsa a la Casa Blanca.
+
+	//297. ORIGINAL: It is time to face facts. It is time to settle down.
+	be0172f6-b4fc-40c5-bf13-67a8000f003e = És hora d'enfrontar-se als fets.
+
+	//298. ORIGINAL: We only ask for your responsible actions as an American citizen.
+	386e2948-ed28-4d7c-acd1-8c4ae322682c = Només demanem que sigui responsable dels seus actes com a ciutadà americà.
+
+	//299. ORIGINAL: I, personally, take responsibility for the perceived lack of communication.
+	9d50690a-d349-4e8e-942d-46c1515d7a82 = Jo, personalment, assumeixo la responsabilitat per la falta de comunicació.
+
+	//300. ORIGINAL: And for the rumormongering that has grown around the so-called 'Knox Event'
+	6e4817d0-c3a4-4fa0-bd86-c4e6928ced86 = I per la difusió de rumors que ha crescut al voltant de l'anomenat 'Incidente de Knox'
+
+	//301. ORIGINAL: At this time we have no reason to believe residents of Kentucky will not recover.
+	8fcab8fd-4a34-4c22-a578-87efdeb36b32 = En aquest moment no tenim cap raó per creure que els residents de Kentucky no es recuperaran.
+
+	//302. ORIGINAL: However, as the picture clears, and more information is made available...
+	303c01f4-a6ac-42b5-8ef6-d199e78dac28 = Tot i això, a mesura que el panorama s'aclareix, i ens faciliten més informació...
+
+	//303. ORIGINAL: ... its likelihood is starting to recede.
+	c8a960ef-525e-4eb7-83b9-1924236072d7 = ...la probabilitat comença a retrocedir.
+
+	//304. ORIGINAL: We have been hesitant to discuss specifics, yes, but with reason.
+	0aa067d2-4cf5-427d-9a1e-1d3e02645066 = Hem estat reticents a parlar de dades concretes, sí, però amb raó.
+
+	//305. ORIGINAL: The Knox Event IS contained, but its panic and confusion is not.
+	f30d02a5-ee71-441d-9bce-9ddaa66d4ed2 = L'Incident de Knox ESTÀ controlat, però el pànic i la confusió no.
+
+	//306. ORIGINAL: We wanted to establish facts, but public alarm has not provided enough time.
+	1937e940-813b-438e-8f1f-c262a3a98b28 = Volíem establir els fets però l'alarma pública no ens ha deixat temps.
+
+	//307. ORIGINAL: From 6pm tonight there will be curfews in some of our biggest cities.
+	c2184a83-3c08-4c2f-80d0-8afd1bc112eb = Des de les 6pm d'aquesta nit hi haurà un toc de queda en algunes de les nostres ciutats més importants.
+
+	//308. ORIGINAL: This is for your protection. Please do not leave your house.
+	406a6cf9-4ffc-424d-ac53-eb5be1405448 = És per la pròpia seguretat. Si us plau que ningú surti de casa.
+
+	//309. ORIGINAL: Please have faith in both our military and our emergency services.
+	3a148268-f47b-47f5-9ffe-c8fe1c5fa7a0 = Si us plau, confieu en els nostres militars i serveis d'emergència.
+
+	//310. ORIGINAL: I ask our journalistic community to report responsibly.
+	5f03af59-8783-4c16-b939-5acc9e8dc577 = Demano a la premsa informar amb responsabilitat.
+
+	//311. ORIGINAL: We are examining all potentialities.
+	88725dc7-5942-41dc-9e14-0e54b1b48985 = Estem barrejant totes les possibilitats.
+
+	//312. ORIGINAL: I will update you whenever we have new information.
+	afc5b0bb-5e8c-4634-a3dd-a17c2eb4d60b = Informaré cada cop que tingui noves dades.
+
+	//313. ORIGINAL: This has been Jackie Jaye.
+	faa8f83a-402a-4d38-818c-3ff0e54feb0c = Fins aquí, Jackie Jaye.
+
+	//314. ORIGINAL: This is Jackie Jaye on LBMW.
+	8242d4d2-c7eb-41e0-b9a2-d55f942ab044 = Aquí Jackie Jaye a LBMW.
+
+	//315. ORIGINAL: We've seen... disturbing evidence from inside the Exclusion Zone.
+	e1df2c9e-08ed-41bc-8493-c42fdb812fa0 = Hem vist... proves inquietants de dins de la zona d'exclusió.
+
+	//316. ORIGINAL: But... it's not verified.
+	0e173bfd-5dec-4a4e-baf3-ee423adcbf20 = Però... no està confirmat.
+
+	//317. ORIGINAL: We're working hard to assess what we've witnessed.
+	8d769a30-7495-4eb1-90c1-201163ef4925 = Estem treballant per poder confirmar això del que hem estat testimonis.
+
+	//318. ORIGINAL: But there's still no official word on the true danger of the biological threat
+	3fb56972-8f69-4657-b2c2-f11c96615ee9 = Però encara no hi ha anunci oficial sobre el veritable perill de l'amenaça...
+
+	//319. ORIGINAL: ...that we can report on.
+	9e5d1013-5583-4fba-b7b4-7a72c8a6e613 = ...que puguem informar.
+
+	//320. ORIGINAL: Embedded as we are, with General John McGrew's troops.
+	e52b6889-7207-4f6f-949a-93187cd47e4c = Integrats com estem, amb les tropes del General John McGrew.
+
+	//321. ORIGINAL: While we work on that, the President this morning addressed the nation.
+	9671212c-dba0-43d9-b911-51f59ea7d558 = Mentre treballem en això, el president es va dirigir aquest matí a la nació.
+
+	//322. ORIGINAL: And for the rumor-mongering that has grown around the so-called 'Knox Event'
+	bb8b927b-addc-47dc-a4fc-c0adc3373678 = Per parlar sobre la difusió de rumors que ha crescut al voltant de l'anomenat 'Incidente de Knox'
+
+	//323. ORIGINAL: Stay tuned everyone...
+	72240b99-c4c1-4fb5-8023-756425cfe1df = Estigueu atents...
+
+	//324. ORIGINAL: ... you need to hear what's coming up next.
+	6f2780bf-522c-48de-b03d-37bfc06049e5 = ...necessiten escoltar el que ve després.
+
+	//325. ORIGINAL: Keep safe.
+	67712fa7-8e6f-4002-bb77-838c797e02d2 = Cuideu-vos.
+
+	//326. ORIGINAL: And I'm Frank Hemingway.
+	7d47477f-2204-4d6f-82f0-1c532dc94188 = Aquí Frank Hemingway.
+
+	//327. ORIGINAL: This news report will contain information many listeners will find shocking.
+	4ac27912-8c07-4034-832c-586c75977889 = Aquest avenç informatiu contindrà dades que molts oients trobaran impactants.
+
+	//328. ORIGINAL: We have verified survivor accounts and shocking images from inside the Exclusion Zone.
+	9860b0b0-4fa3-41a0-a2c5-1db8302871a7 = Hem verificat els relats dels supervivents i les imatges impactants de l'interior de la Zona d'Exclusió.
+
+	//329. ORIGINAL: There IS violence...
+	00bde738-b5e8-4dba-9d10-2702aa2e5550 = HI HA actes violents...
+
+	//330. ORIGINAL: ...terrible violence in there.
+	51d34a92-09a8-4cdc-afe6-5e0d25e23ad4 = ...terribles actes violents allà dins.
+
+	//331. ORIGINAL: In one image, circulated between civilians on the border-line...
+	9f386ef8-2899-442f-aa39-34d852e8ddf2 = En una imatge, que circula entre la població civil a la frontera.
+
+	//332. ORIGINAL: ... a man appears with...
+	4ae3dee6-ae48-4206-9c35-7c8acd3d7b32 = ...apareix un home amb...
+
+	//333. ORIGINAL: ... with his arm unattached...
+	88ea8d51-7941-4ebd-bdd2-5d208e6389b9 = ...amb un braç arrencat...
+
+	//334. ORIGINAL: ... and apparently unconcerned at his severe injury.
+	8923cfa7-9492-45b1-afb6-d2c0d155ce03 = ...i aparentment indiferent de la seva greu lesió.
+
+	//335. ORIGINAL: This morning's statement by the President...
+	3c299d81-e566-49f1-8aaf-db20c1cf1978 = La declaració formulada aquest matí pel President...
+
+	//336. ORIGINAL: ... suggested that there was a receding chance of recovery.
+	0f184913-e960-4e66-9c5b-8cc0ebc3efae = ...va suggerir que hi havia una possibilitat de retrocés en la recuperació.
+
+	//337. ORIGINAL: But still a chance.
+	8a98a2e9-1cff-4885-ab3f-8a5c508dd58b = Però encara hi havia possibilitats.
+
+	//338. ORIGINAL: This new evidence would suggest this is...
+	f0d088c7-9254-4eed-993c-726da71310be = Aquesta nova evidència suggereix que això és...
+
+	//339. ORIGINAL: ... an exaggeration.
+	1d7790bb-4e3a-40c9-8e0f-d8a5ba280557 = ...una exageració.
+
+	//340. ORIGINAL: We have pressed officials for an official response.
+	8957b4c8-d0f2-4e57-afbe-899dea783795 = Hem insistit les autoritats perquè donin una resposta oficial.
+
+	//341. ORIGINAL: Jackie Jaye and Frank Hemingway, keeping you informed.
+	166a6f2c-679c-4356-8765-3f6b32b1e60c = Jackie Jaye i Frank Hemingway, mantenint-los informats.
+
+	//342. ORIGINAL: I'm Jackie Jaye and if you can hear me you're <bzzt>
+	cb0585b2-c9bb-416b-a2c0-a1b6a66e302a = Sóc Jackie Jaye i, si em pots sentir, estàs <bzzt>
+
+	//343. ORIGINAL: <fzzt>
+	7558faba-50c8-4126-8313-ab48222d374a = <fzzt>
+
+	//344. ORIGINAL: <bzzt> impacting on all communications <fzzt>
+	e1ba861f-7a89-454c-b1b7-75ef90505289 = <bzzt> afecten totes les comunicacions<fzzt>
+
+	//345. ORIGINAL: <bzzt> some flights <bzzt>
+	590a1c74-e511-4694-8903-3f95cabacd97 = <bzzt> alguns vols <bzzt>
+
+	//346. ORIGINAL: <bzzt>
+	ef73c65f-531d-4809-a85c-19b1a0c5a006 = <bzzt>
+
+	//347. ORIGINAL: This is Frank Hemingway, we've got a witness.
+	936c69af-916b-4b98-acba-586d2cdf7cf3 = Aquí Frank Hemingway, tenim un testimoni.
+
+	//348. ORIGINAL: Someone from the inside, we've got one.
+	f72b74c0-a671-4a1e-844d-3b02acd3bce9 = Tenim algú de dins.
+
+	//349. ORIGINAL: LBMW staff don't want to pour gas on the flames but... this is important.
+	c4192aba-4150-45d7-9a65-c72c88a558cf = El personal de LBMW no vol fer llenya al foc però... això és important.
+
+	//350. ORIGINAL: Where've you been Joe?
+	491d6df8-87c8-4856-bdb5-556803c39b6f = On has estat Joe?
+
+	//351. ORIGINAL: The military base.
+	a30cf415-c7b2-4974-8aa9-79f4a869c09f = A la base militar.
+
+	//352. ORIGINAL: Inside Knox.
+	033fa1d0-4f85-4ce4-b987-bbab0a94b1f4 = Dins Knox.
+
+	//353. ORIGINAL: Who, who kept you there?
+	65ecdd96-a19e-4e30-85e4-f9d00f287094 = Qui t'hi va retenir?
+
+	//354. ORIGINAL: The Army. McGrew's men.
+	3aa2b2c7-56e5-4b4c-b9fe-51a3928b4918 = L'exèrcit. Els soldats de McGrew.
+
+	//355. ORIGINAL: They said it was a quarantine. Then one day we woke up
+	ea61b98c-047b-4a3e-8f59-22be2be1aff5 = Em van dir que era una quarantena. Aleshores, un dia ens despertem.
+
+	//356. ORIGINAL: Doors unlocked. Soldiers... gone.
+	784dcfa1-0873-4365-b4cf-43af02671965 = Les portes estaven obertes. Els soldats... havien desaparegut.
+
+	//357. ORIGINAL: But in the main dorm. In the hall...
+	3364d9ea-5afe-4f3b-b40f-fd1c39aa1e02 = Però a la sala principal. Al vestíbul...
+
+	//358. ORIGINAL: Blood.
+	d962ddfe-1ab2-4aef-a3a7-eb89df3dacb1 = Hi havia sang.
+
+	//359. ORIGINAL: Blood and... changed people.
+	cc0b162f-3701-4e42-8b63-8bef78f9d303 = Sang i... persones estranyes.
+
+	//360. ORIGINAL: What don't they want us to know, Joe?
+	a5994260-7bad-4933-9e80-d7078f2df59a = Què és el que no volen que sapiguem, Joe?
+
+	//361. ORIGINAL: What you already do know.
+	6b82540c-6229-4296-a996-2f77de88ec36 = El que ja sabeu.
+
+	//362. ORIGINAL: Like in the photos.
+	291f7634-17dc-4034-b811-6b4e7ac2276e = Això de les fotos.
+
+	//363. ORIGINAL: The first sickness.
+	442dbcd9-56b3-4be0-8045-5af4eb515e57 = El primer contagiat.
+
+	//364. ORIGINAL: It killed.
+	ec903f60-6360-4c1f-9c80-67683604dda9 = És mort.
+
+	//365. ORIGINAL: But it didn't kill enough.
+	a64f1781-880f-463e-ae4c-64d6aecd6ed8 = Però no estava del tot mort.
+
+	//366. ORIGINAL: What you're saying can't be real.
+	c1008405-7fec-4fd1-a9ce-1b37f4c37c46 = El que dius no pot ser real.
+
+	//367. ORIGINAL: They got sick, they went crazy, they died.
+	90ed9ed3-33e5-4fc3-a444-1598748676d1 = Ells van emmalaltir, es van tornar bojos, i van morir.
+
+	//368. ORIGINAL: Then they went for my fuckin' throat.
+	697636de-0b22-40f8-9454-c48b532bf96f = Aleshores es van llançar a la meva puta gola.
+
+	//369. ORIGINAL: Sorry for the language.
+	770f0931-a3d4-4bf6-92d3-be9c5f4f3472 = Disculpa pel llenguatge.
+
+	//370. ORIGINAL: That's okay Joe
+	9ba02d74-c5d2-464b-85e1-cbfd655ee6e8 = No passa res Joe
+
+	//371. ORIGINAL: Joe, is it contained. Are you safe here with us?
+	cda121e8-032b-423e-bfd0-062ddde143f0 = Joe, està controlat. Et sents segur aquí amb nosaltres?
+
+	//372. ORIGINAL: That much is true.
+	7dc007ef-bfad-4cbc-bf96-cd24b798faea = Això és un fet.
+
+	//373. ORIGINAL: The people who changed... they're trapped behind the Event line.
+	0628b761-2e5e-4355-979c-8de1eca91dd1 = Els que van canviar... estan atrapats dins la zona.
+
+	//374. ORIGINAL: Whatever they are...
+	13aee3a7-ed04-44ca-8011-e231fe8dc4c3 = Siguin el que siguin...
+
+	//375. ORIGINAL: Is everyone infected?
+	c18f39fc-1862-4d7d-97db-6208e4198dba = Tots estan infectats?
+
+	//376. ORIGINAL: I think so. I think they all got it.
+	aa0605cb-2c4b-4e79-9bcf-e0315187179c = Això crec. Crec que tothom ho té.
+
+	//377. ORIGINAL: We were lucky.
+	ca1a0930-c2a6-4db3-a390-33a10713f405 = Vam tenir sort.
+
+	//378. ORIGINAL: This might be LBMW's last broadcast from the Knox Event Journalist camp.
+	26ce422f-41fd-41f9-934a-4ee4414b5964 = Aquesta podria ser la darrera connexió de la LBMW des del campament de premsa a l'Incident de Knox.
+
+	//379. ORIGINAL: We can confirm the infection is now spread through fluid exchange.
+	4b3908ac-2804-400b-926d-d885c8ccc685 = Podem confirmar que la infecció es transmet mitjançant l'intercanvi de fluids.
+
+	//380. ORIGINAL: Namely... bites from carriers.
+	4aede1e5-98cc-4455-96ce-af9974f4c8a0 = Concretament... per mossegades dels infectats.
+
+	//381. ORIGINAL: The infected are shadows of human beings - savages.
+	e7a54f65-98c9-43ae-a347-e4ff1226514e = Els infectats són ombres d'éssers humans – salvatges.
+
+	//382. ORIGINAL: They don't think, they just... want to bite.
+	2ce466cf-d938-42f6-9f8c-b94eae394ee8 = No pensen, només... volen mossegar.
+
+	//383. ORIGINAL: And they're. They're dead.
+	d7126655-600a-4aab-ac32-4220e05f28be = I són... són morts.
+
+	//384. ORIGINAL: They move, but they're dead.
+	23d7b8f8-9e05-46ae-a37d-0e2d3a7f8dee = Es mouen, però són morts.
+
+	//385. ORIGINAL: We have been... encouraged to keep this truth from our listeners.
+	825e58d2-38c7-4e19-8835-47b0c2048fb0 = Ens han... pressionat per amagar això als nostres oients.
+
+	//386. ORIGINAL: We disagreed.
+	7d72a78f-bc33-49b6-baf2-214561490cb4 = No hi estàvem d'acord.
+
+	//387. ORIGINAL: We will endeavor to keep broadcasting on this wavelength.
+	61a9a297-b964-4209-b35d-2ab872d1b001 = Farem tot el possible per continuar emetent en aquesta freqüència.
+
+	//388. ORIGINAL: She's locked the fucking door!
+	407bba76-4773-418a-a4ee-4bb86608ef54 = Ella ha tancat la maleïda porta!
+
+	//389. ORIGINAL: I've got some unhappy faces looking through the glass.
+	64ddb8e8-4a3d-4d52-92a5-d1e5277fa0cb = Veig algunes cares disgustades mirant a través del vidre.
+
+	//390. ORIGINAL: Truth hurts.
+	59104ea0-b61f-468f-bc94-d87439ad9005 = La veritat fa mal.
+
+	//391. ORIGINAL: This is General John McGrew
+	acb9a704-610f-497c-9b7f-cdfccdf09604 = Aquí el General John McGrew
+
+	//392. ORIGINAL: I have requested that this broadcast play on all media embedded with my troops.
+	cc2aef39-61c5-4279-80f6-f50bcefebe8c = He sol·licitat que aquest comunicat s'emeti de tots els mitjans de comunicació integrats amb les meves tropes.
+
+	//393. ORIGINAL: And I have received permission.
+	e163ac54-255b-4bec-8285-39467ca19a6b = I m'han donat permís.
+
+	//394. ORIGINAL: First and foremost: we are safe.
+	1f4dd9f0-ae56-4d86-9423-de4cb9eec84a = El primer i més important: estem bé.
+
+	//395. ORIGINAL: America is safe.
+	a4c9a20d-4403-4add-a52f-263efa257fcf = Amèrica està fora de perill.
+
+	//396. ORIGINAL: Today we can confirm that, yes,  the nature of the Knox Event is degenerative.
+	98d67239-f795-4ab5-97a7-57a7347aff68 = Hoi podem confirmar que, sí, la naturalesa de l'Incident de Knox és degenerativa.
+
+	//397. ORIGINAL: It causes panic and confusion among sufferers
+	c3cc1d3a-6491-4aad-a153-c140cc4b8b7f = Causa pànic i confusió entre les víctimes.
+
+	//398. ORIGINAL: Some of whom will then perform acts that are... un-American.
+	417d66c8-2cad-4150-a46a-d9fecb2758fb = Alguns fan actes que són... antipatriotes.
+
+	//399. ORIGINAL: The initial period of contagion is over.
+	89c5fb8b-eed4-4b49-a30d-3fc7c5697fad = El període inicial de contagi s'ha acabat.
+
+	//400. ORIGINAL: There is absolutely NO need for further panic.
+	c4c4bfa7-efac-419a-a835-e38ab4223632 = NO hi ha absolutament cap necessitat de sentir més pànic.
+
+	//401. ORIGINAL: Panic... engendered by irresponsible and unofficial reporting.
+	449564c7-540e-448b-aede-795056f5cb12 = Pànic... generat per notícies irresponsables i no oficials.
+
+	//402. ORIGINAL: Sufferers are NOT deceased.
+	06a0c84c-833c-422b-b54b-9b85a4c2a0c3 = Les víctimes NO han mort.
+
+	//403. ORIGINAL: We ARE establishing the likelihood of discovering a cure.
+	6637cb0b-fedd-4768-b743-5cd1afe1bea7 = ESTEM davant la possibilitat de descobrir una cura.
+
+	//404. ORIGINAL: At this stage the infection is passed  only through DIRECT fluid contact.
+	8886a095-c6a2-44fb-8b9c-5d363dd94feb = En aquesta etapa la infecció només es contagia pel contacte DIRECTE de fluids.
+
+	//405. ORIGINAL: This means bites. This means scratches.
+	d538d86a-053d-461d-9b40-a14cb7aefc79 = Això vol dir, mossegades i rascades.
+
+	//406. ORIGINAL: My thoughts are with those poor souls behind the Event line.
+	ce2f60c4-3c21-45d1-88c6-8c34b900ee9f = Els meus pensaments són amb aquestes pobres ànimes dins de la zona de l'Incident.
+
+	//407. ORIGINAL: But this is contained.
+	6c16c77e-f803-4e25-b245-6e7b25fadd16 = Però està controlat.
+
+	//408. ORIGINAL: It has always been contained.
+	47fb832f-ec63-429c-841c-6fadc884be90 = Sempre ha estat controlat.
+
+	//409. ORIGINAL: We are safe.
+	2ba876f2-4ebc-4a6d-b9a2-959624669f5f = Estem fora de perill.
+
+	//410. ORIGINAL: I have requested that this broadcast play on all media  embedded with my troops.
+	8174ed7c-c980-41ab-bf26-7ed3b740b1cc = He sol·licitat que aquest comunicat s'emeti de tots els mitjans de comunicació integrats amb les meves tropes.
+
+	//411. ORIGINAL: There's violence in the border camp.
+	840ca614-19e9-430d-9993-80a722b5ff42 = Hi ha violència al campament situat a la frontera.
+
+	//412. ORIGINAL: We have unverified reports of injured civilians.
+	860d770d-f19e-4aa4-8a69-888afbb18a67 = Tenim informes sense confirmar de civils ferits.
+
+	//413. ORIGINAL: Potentially deceased civilians.
+	0c0f11d0-3bf5-4aaf-8dcc-93654831c8e8 = Podrien haver-hi civils morts.
+
+	//414. ORIGINAL: This morning we woke up to loud gunfire and now armed military personnel are...
+	2c98b587-49c1-4d3c-aed7-0f5b64054bf8 = Aquest matí ens hem despertat amb sons de trets i el personal militar està...
+
+	//415. ORIGINAL: ... pushing back the crowds. Frank. Frank. Can you hear me?
+	5b1f9611-1e46-41c7-a19d-0a60ac547401 = ...fent retrocedir a la multitud. Frank. Frank. Pots escoltar-me?
+
+	//416. ORIGINAL: I can hear you Jackie. I can confirm two people are dead.
+	7170250e-6570-4ed2-8b8c-603e1c8224d9 = Et puc sentir Jackie. Puc confirmar dues víctimes mortals.
+
+	//417. ORIGINAL: MOVE BACK PEOPLE. YOU ARE SAFE.
+	e4f32ff2-d460-4df1-9aa2-1d15fed59b84 = ENRERE TOT EL MÓN. ESTEU A TRET.
+
+	//418. ORIGINAL: THE INFECTION IS CONTAINED.
+	ef38b59c-d54b-453e-996f-ff6e86ae205a = LA INFECCIÓ ESTÀ CONTROLADA.
+
+	//419. ORIGINAL: Jackie! We're being moved back! Can you hear me?
+	3a5594ca-7177-4217-aefd-ec5a6a4b03f1 = Jackie! Ens estan fent fora! Pots sentir-me?
+
+	//420. ORIGINAL: MA'AM! STAND DOWN! MA'AM! MOVE BACK!
+	ae1c33e7-bd2e-4418-a69c-84e3b60cba6f = SENYORA! RETIRI'S! SENYORA! CAP ENRERE!
+
+	//421. ORIGINAL: THERE IS NO NEED FOR PANIC!
+	33ad4434-4506-423d-adb8-6d9f8615860b = NO HI HA NECESSITAT D'ENTRAR AL PÀNIC!
+
+	//422. ORIGINAL: THE KNOX EVENT IS CONTAINED
+	5e12fb29-6bfe-41f3-a578-9f1336a8a5b1 = L'INCIDENT ESTÀ CONTROLAT
+
+	//423. ORIGINAL: IT HAS ALWAYS BEEN CONTAINED
+	167470ae-0c7f-40f5-8609-ca739576621e = SEMPRE HO HA ESTAT
+
+	//424. ORIGINAL: This morning violence erupted in the primary Exclusion border camp.
+	c01634df-3847-4ecb-a28a-4206c9b01214 = Aquest matí hi va haver un esclat de violència al campament principal a la vora de la Zona d'Exclusió.
+
+	//425. ORIGINAL: A morning of violence has raged after the shooting of two unarmed individuals
+	95497c93-6af4-4dd5-b497-3dfdeb7e5c9f = Un matí de violència que va esclatar després dels trets contra dos indivius desarmats.
+
+	//426. ORIGINAL: Angry protesters were pushed back by troops.
+	725cd57e-be33-4bb7-85c9-3a3d1d822e23 = Els manifestants van ser retirats per les tropes militars.
+
+	//427. ORIGINAL: Warning shots were fired. Tear gas deployed.
+	a5a9b248-cc52-4d6f-96e7-6250708b4b26 = Hi va haver trets d'advertiment i es van llançar gasos lacrimògens.
+
+	//428. ORIGINAL: Wait! I can see General John McGrew.
+	42e31fcf-8b54-4c61-8037-95b8016becfe = Un moment! Puc veure el General John McGrew.
+
+	//429. ORIGINAL: General! Is there blood on your hands?
+	ec9efc0f-d1f5-4a73-b302-c7cadecb2179 = General! És sang el que té a les mans?
+
+	//430. ORIGINAL: Who is this? Are you broadcasting?
+	75705d28-6996-43ae-94d9-5b91469e708c = Qui és? Estàs emetent?
+
+	//431. ORIGINAL: Do you know what in hell we're dealing with?
+	f3ed2456-62b0-4b1e-be19-803b253852df = Sap l'infern contra el que estem lluitant?
+
+	//432. ORIGINAL: Shut her down!
+	27a966f0-16d1-481c-bda1-e89e04b0b701 = Apaga això!
+
+	//433. ORIGINAL: Shut this all.... <bzzt> <fzzt>
+	0771e273-c818-4525-b83a-bce89fbdd6ba = Apaga tot això... <bzzt> <fzzt>
+
+	//434. ORIGINAL: I've been... separated from my colleague Frank Hemingway.
+	92770c0d-0f5d-4e77-999b-555ffa3136d9 = He estat... separada del meu col·lega Frank Hemingway.
+
+	//435. ORIGINAL: There's gunfire on the other side of the camp. Frank!
+	217f594a-0907-46f4-82a5-0e2134317a7a = Hi ha trets a l'altra banda del campament. Frank!
+
+	//436. ORIGINAL: Frank. Can you hear me? We're live. We're live on air.
+	cfdd7257-a96b-4387-b9de-5a293db8b095 = Frank. Em pots sentir? Estem vius. Estem en directe.
+
+	//437. ORIGINAL: Jackie! There's been an incursion!
+	a33fbe53-e6d8-48e5-9fa5-ac017f978774 = Jackie! Hi ha hagut una incursió!
+
+	//438. ORIGINAL: There's hundreds of them!
+	30996797-9d0b-4c24-989c-0f95647c9a9f = N'hi ha centenars!
+
+	//439. ORIGINAL: They're everywhere! They came from every side!
+	4d30388c-9ca8-4b44-80b6-db42ff9f4068 = Són a tot arreu! Van arribar de totes bandes!
+
+	//440. ORIGINAL: Frank! What are they? What do they look like?
+	76576946-f56f-4911-b302-a2cbbd9bea3b = Frank! Què són? Quin aspecte tenen?
+
+	//441. ORIGINAL: Argh! ARGH! FUCK! GET OFF ME!
+	88ff315d-50ae-4dda-8ca8-42233fe803a5 = Argh! ARGH! MERDA! SOLTA'M!
+
+	//442. ORIGINAL: GET OFF!
+	47555790-5883-4fcc-9a58-860cb0d56632 = SOLTA!
+
+	//443. ORIGINAL: Jesus Christ.
+	fdbd3c6d-0ee9-4b4c-97e7-5005187ad293 = Déu.
+
+	//444. ORIGINAL: It's been the night from hell at the Louisville border camp.
+	43541f6d-b4cf-492e-81d6-7a118002f6a1 = Ha estat una nit infernal al campament fronterer de Louisville.
+
+	//445. ORIGINAL: Violence between the military and civilian groups broke out and...
+	e5cea902-7d56-4b67-9db8-4300dba6fe95 = Va esclatar la violència entre els grups militars i els civils, i...
+
+	//446. ORIGINAL: ... it attracted them.
+	e549785e-cd39-425b-9c72-ef6bd30fea09 = ...això els va atraure.
+
+	//447. ORIGINAL: Hundreds of people with the Knox Event infection...
+	62b0d2ee-b26b-4b9d-84f3-475c8598bb44 = Centenars de persones infectades de l'Incident de Knox...
+
+	//448. ORIGINAL: ...maybe more. Maybe thousands.
+	97104c8c-f9dc-4003-bf69-73df45167a24 = ...potser més. Potser milers.
+
+	//449. ORIGINAL: They came in... through the wire.
+	b3730c8d-49bf-45b1-bd38-3fddac989ede = Van travessar... els filats.
+
+	//450. ORIGINAL: Through the barricades.
+	e4e76552-dd88-4461-880f-a7c22653dc4b = A través de les barricades.
+
+	//451. ORIGINAL: They attacked. It was dark.
+	06e48cc5-9e77-4b70-8f71-64246c46f78c = Van atacar. Estava fosc.
+
+	//452. ORIGINAL: Some they killed.
+	6c667777-83df-4509-bb0e-d136b1a034c0 = Alguns van ser assassinats.
+
+	//453. ORIGINAL: Some died in the crossfire.
+	79cb22fb-e502-42cc-8601-df0408973eb5 = Altres van morir al foc creuat.
+
+	//454. ORIGINAL: I don't know what happens next.
+	3e46c5ef-aa39-4760-a270-76ead2c0c591 = No sé què passarà.
+
+	//455. ORIGINAL: Jackie Jaye, LBMW.
+	1c6889c2-1f1f-4c62-a776-700bf5c88761 = Jackie Jaye, LBMW.
+
+	//456. ORIGINAL: If you're listening to this from Louisville. Get out.
+	cf70d014-cc77-451b-a81b-96c740a0fb92 = Si estàs escoltant això des de Louisville. Fuig.
+
+	//457. ORIGINAL: This isn't scaremongering. This is really happening.
+	422c6442-e55e-47f6-b6c3-83f701968935 = Açò no és alarmisme. Està passant realment.
+
+	//458. ORIGINAL: The people here are running. Scattering.
+	f741f0a2-5fb2-462c-b84a-b314d71de5de = La gent està fugint. Dispersant-se.
+
+	//459. ORIGINAL: I've been outside.
+	5b00c296-0fbc-446c-8e86-fc489c5a24aa = He estat fora.
+
+	//460. ORIGINAL: There are bodies everywhere.
+	8bb236bb-5f10-477f-90d4-84bcc408d7a0 = Hi ha cossos per tot arreu.
+
+	//461. ORIGINAL: Some of them aren't dead.
+	46d8318c-e08c-43af-b51f-fc0dedfd226f = Alguns d'ells no són morts.
+
+	//462. ORIGINAL: The Knox Event is no longer contained.
+	89b7bcc8-b356-4cf7-8b5d-d6db0da5f5b3 = L'Incident de Knox ja no està controlat.
+
+	//463. ORIGINAL: I think it's coming to you.
+	0ecf5330-1e91-4d95-96b1-2fe8072daafe = Crec que aniran a per tu.
+
+	//464. ORIGINAL: The military have pulled out.
+	fc36938b-3ad9-433c-ab78-611cfd9313cc = Els militars s'han retirat.
+
+	//465. ORIGINAL: You can't take any risks.
+	f367b5fc-78bd-47f2-8421-70fdf88ae63b = No corris cap risc.
+
+	//466. ORIGINAL: Get out.
+	3e8a09c1-f010-454a-8c6e-fca13c770551 = Fuig.
+
+	//467. ORIGINAL: GET OUT NOW.
+	09282fcd-a216-4941-80a3-44d3d72638cc = FUIG ARA.
+
+	//468. ORIGINAL: Hey this is Jackie.
+	665718cf-0823-4d09-a136-bd80ff814c35 = Aquí Jackie.
+
+	//469. ORIGINAL: I'm sorry. I'm sorry but there's more.
+	86d3659a-4c66-4c08-931c-e0399e2626c6 = Em sap greu. Ho sento però n'hi ha més.
+
+	//470. ORIGINAL: More news to report... here on LBMW.
+	7853ae81-2243-40d5-a72a-92ecdce1a6e8 = Més notícies per explicar... aquí a LBMW.
+
+	//471. ORIGINAL: Something else came out with the infected.
+	9bf36d7a-67d1-4ab7-99ca-41969d7f98f6 = Una mica més va sortir amb els infectats.
+
+	//472. ORIGINAL: People here are getting ill.
+	7e635ed6-baf5-448d-84b3-731f54b014a3 = La gent aquí està emmalaltint.
+
+	//473. ORIGINAL: Ill without fluid contact.
+	5d8c525c-57c6-4b04-9ad6-d3136a04b091 = Malalteixen sense contacte amb fluids.
+
+	//474. ORIGINAL: I think they're dying. It happens so quick.
+	c043051f-5525-4072-8bdc-16b6dd67d00e = Crec que s'estan morint. Passa molt de pressa.
+
+	//475. ORIGINAL: This is only going to get worse.
+	1ff9caba-45ed-4833-85d3-608d0a88fd62 = Això només empitjorarà.
+
+	//476. ORIGINAL: Stay away from other people.
+	101836a1-2874-4d25-b246-336cbacb6743 = Per estar allunyat d'altres persones.
+
+	//477. ORIGINAL: Keep indoors if you can't get away.
+	65cd768c-5785-405e-b8e8-b09be2177aca = No sortiu de casa si no podeu fugir.
+
+	//478. ORIGINAL: I don't know what it is but...
+	e837d36a-0906-49d8-903f-10af4fd8e503 = No sé què és però...
+
+	//479. ORIGINAL: ... it isn't going to stop.
+	1a071109-eb0e-46ee-a971-f7bd28ee83ad = ...no s'aturarà.
+
+	//480. ORIGINAL: Jackie Jaye on the LBMW frequency.
+	9c61fe0f-d7bd-46f9-86ba-73c92aff4b20 = Jackie Jaye a la freqüència de LBMW.
+
+	//481. ORIGINAL: The camp looks like a battleground.
+	4109d736-2777-438c-9066-89252b03764d = El campament sembla un camp de batalla.
+
+	//482. ORIGINAL: It's empty here now.
+	f9711873-612f-407b-84bc-52a73bc061ae = Està buit ara.
+
+	//483. ORIGINAL: Folks are running through the dark.
+	13adf924-cf50-474d-a987-311f12381e07 = La gent està corrent a les fosques.
+
+	//484. ORIGINAL: Those who could anyways.
+	a4680f40-ad9a-4486-98f4-40416c854c63 = Els que poden.
+
+	//485. ORIGINAL: Not everyone gets the illness.
+	070b26d1-12c6-4cf8-9b1a-e4acbd54b5b7 = No tothom té la malaltia.
+
+	//486. ORIGINAL: That's what people have said.
+	ce03ce4e-e740-4d28-a410-01316f02a626 = Això és el que han dit.
+
+	//487. ORIGINAL: Maybe that's me too.
+	54358198-3f6e-4ff3-be10-5963b92e8fe0 = Potser jo també en tindrà.
+
+	//488. ORIGINAL: I'm going to stay here, with the broadcast equipment.
+	febb6fbf-c802-4c64-8b82-3df87c059bd9 = Em quedaré aquí, amb l'equip de transmissió.
+
+	//489. ORIGINAL: The military will be coming back through soon.
+	af2eb77e-56bf-4a9b-8ae0-b37c041f650f = Els militars tornaran aviat.
+
+	//490. ORIGINAL: I need to keep you informed.
+	2c1dce85-7bbe-4e9c-87fb-195835711f06 = Necessito mantenir-los informats.
+
+	//491. ORIGINAL: That's my job.
+	76942fab-293e-4188-a809-590339db9545 = És la meva feina.
+
+	//492. ORIGINAL: Was my job at least.
+	88eb2db1-d287-49f6-a611-7b8acc7faef8 = Era la meva feina almenys.
+
+	//493. ORIGINAL: This is Jackie, on the LBMW frequency.
+	31ab691f-3849-46ca-b470-a130097bf7a4 = Aquí Jackie, a la freqüència de LBMW.
+
+	//494. ORIGINAL: National news is reporting that it's in Louisville.
+	46cd95e2-828a-405c-a038-deaf79d8ca74 = Les notícies nacionals informen que és a Louisville.
+
+	//495. ORIGINAL: This thing... it spreads like wildfire.
+	e5c310d6-de20-43ed-a4f0-2200a61d2816 = Aquesta cosa... es propaga com un incendi fora de control.
+
+	//496. ORIGINAL: I don't know what it is.
+	9702f1ab-7c11-4a0c-9f2a-b22fd9683969 = No sé què és.
+
+	//497. ORIGINAL: Wherever you are: avoid other people.
+	f13e3996-1a5d-496e-bff2-9c24e8e31845 = On sigui que siguis: evita el contacte amb altres persones.
+
+	//498. ORIGINAL: The dead are dangerous, but so are the living.
+	cf5fc122-3113-4821-8371-02fb9d0b9fa6 = Els morts són perillosos, però també els vius.
+
+	//499. ORIGINAL: Go somewhere secluded, barricade and hide.
+	91715188-24d6-4b74-a770-a24ea5b69d40 = Aneu a un lloc aïllat, tanqueu amb barricades i amageu-vos.
+
+	//500. ORIGINAL: Wait till it all blows over.
+	ce6dab55-b260-487a-8f06-7960a36147c9 = Espereu fins que passi tot això.
+
+	//501. ORIGINAL: Find a way to...
+	53c91752-3b77-4146-9176-c0da91adf46e = Trobeu una manera de...
+
+	//502. ORIGINAL: <cough>
+	6c8347f7-8b15-4c4f-bc4c-7094488e2ffd = <cough>
+
+	//503. ORIGINAL: ... a way to escape.
+	396781f9-abaf-4888-9bd3-142270fd74f0 = ... una manera descapar.
+
+	//504. ORIGINAL: This is Jackie, broadcasting on LBMW's frequency.
+	ec75d17b-6743-49e1-b50c-7a4bf0b0d15e = Aquí Jackie, emetent des de la freqüència de LBMW.
+
+	//505. ORIGINAL: I've... caught the illness.
+	1054e99e-62bc-481f-b7c6-1a8d2a538fb2 = Jo... m'he contagiat.
+
+	//506. ORIGINAL: I have the Knox Event infection.
+	1923268d-9903-4068-a922-5a2fbac8fca4 = Tinc la infecció de l'Incident de Knox.
+
+	//507. ORIGINAL: I've been hiding in here this whole time.
+	ff16a21d-e62e-4c0c-8602-ab29613b1e50 = He estat amagada aquí tot aquest temps.
+
+	//508. ORIGINAL: No bites. No scratches.
+	61039dbe-4cb9-405f-b8db-ea0d845263c7 = Ni una mossegada, ni una esgarrinxada.
+
+	//509. ORIGINAL: Those... things haven't got close.
+	0a87f3de-990f-4129-bdbc-dedcdc27e3d9 = Aquestes coses... no les he tingut a prop.
+
+	//510. ORIGINAL: But something did.
+	4cf88166-81ee-443d-8fe2-c60d43b672cc = Però alguna cosa ha passat.
+
+	//511. ORIGINAL: I've seen it happen.
+	e95e002d-baa5-46ed-a932-4ab2a1b19f72 = He vist com passa.
+
+	//512. ORIGINAL: I'll be gone in day.
+	1a80076a-b406-405b-8e3e-4ff7ac597974 = Em queda un dia.
+
+	//513. ORIGINAL: The lights go out.
+	b97c037e-6451-4958-9673-89e40677466c = S'apaguen els llums.
+
+	//514. ORIGINAL: But something stays on.
+	3687ea39-bdf9-4821-8fd9-033c315c15d5 = Però alguna cosa roman.
+
+	//515. ORIGINAL: Not much, hopefully.
+	52db23e9-cac8-4ea1-b8a1-65e46ca3d6f3 = No gaire, espero.
+
+	//516. ORIGINAL: If I was braver I'd...
+	7af4a444-2116-4501-9889-a71a37823ef9 = Si tingués valor jo…
+
+	//517. ORIGINAL: God knows what I'd do.
+	630f398d-022c-4511-a9a5-1b7f8d702bd6 = Déu sap què faria.
+
+	//518. ORIGINAL: I'm just going to wait.
+	64461930-a904-4853-b82f-3d0812edae43 = Només esperaré.
+
+	//519. ORIGINAL: Jackie out.
+	2b257cdb-0f87-48f1-a3d0-16fd7cee5ef9 = Jackie, fora.
+
+	//520. ORIGINAL: Jackie Jaye. <Cough>. LBMW.
+	20a2710d-7cb5-42f0-aa9b-8b63b0f21bee = Jackie Jaye. <Cough>. LBMW.
+
+	//521. ORIGINAL: I'm still here.
+	17807dd0-05c4-47ac-89ee-1994779623f1 = Encara segueixo aquí.
+
+	//522. ORIGINAL: Need you to know something.
+	adbff604-a328-4527-adce-6907d8790b76 = Cal que sàpiguen alguna cosa.
+
+	//523. ORIGINAL: National networks are reporting that it's spread.
+	051cafca-47c2-4bac-8623-ee07cb7adaf1 = Els mitjans nacionals estan informant que s'està expandint.
+
+	//524. ORIGINAL: They're saying Somalia in Africa.
+	631750a8-8e3a-47e7-b6bb-f0018075e2e1 = Ells parlen de Somàlia a Àfrica.
+
+	//525. ORIGINAL: They're saying... Norfolk, England.
+	8db26c91-2aac-40a8-847c-a789af840f73 = També a... Norfolk, Anglaterra.
+
+	//526. ORIGINAL: I know it isn't possible.
+	310ebd0d-95d7-43cf-b50a-b54271aaca75 = Sé que no és possible.
+
+	//527. ORIGINAL: But it's true.
+	2de52fbb-e3a6-45cc-8668-c6a0907e9246 = Però és cert.
+
+	//528. ORIGINAL: Go listen to them now.
+	da3ed0f7-836b-42c8-9b6d-1738f48f2170 = Escolta'ls ara.
+
+	//529. ORIGINAL: Go listen to someone else.
+	f17ffe72-08ba-454a-b59b-05c95dd6ddf2 = Escolta qualsevol.
+
+	//530. ORIGINAL: This place is a goddam wasteland.
+	7a6ac76f-8cc0-4cf3-a2bd-8475cc93588c = Aquest lloc és un maleït cementiri.
+
+	//531. ORIGINAL: Hello? Hello?
+	d773f352-3c27-4459-975a-a61802008c9e = Hola? Hola?
+
+	//532. ORIGINAL: Is it working? Can you hear it in there?
+	6d3b2581-0412-40ac-b8c1-3e04d6024f9d = Això funciona? Em pot sentir algú?
+
+	//533. ORIGINAL: Okay cool.
+	94ad3083-f41a-464c-9afb-bfce4abdef87 = D'acord bé.
+
+	//534. ORIGINAL: My name is Jonas. Jonas Underwood.
+	78d63e8c-fd90-4fc4-8538-73ff6ec39206 = Em dic Jonas. Jonas Underwood.
+
+	//535. ORIGINAL: We've cleared this area and set up camp.
+	5eb4aeb5-20c7-4d68-a06e-4d66dfa85e3c = Hem clar aquesta àrea i establert un campament.
+
+	//536. ORIGINAL: We've come from Louisville.
+	b122d88a-3c7c-4ab2-ba20-b74fc309d95e = Hem vingut des de Louisville.
+
+	//537. ORIGINAL: Do NOT go to Louisville.
+	6c477d98-05ef-46c0-a7ee-0e8415c8052b = NO vagis a Louisville.
+
+	//538. ORIGINAL: The infection just... spread.
+	88fb1f4c-4bb4-4729-82f3-e2b098f92e24 = El virus s'ha expandit.
+
+	//539. ORIGINAL: People started getting sick.
+	b066b844-ee87-4914-8972-f9c2ac019594 = La gent va començar a emmalaltir.
+
+	//540. ORIGINAL: So many of  them.
+	f9b0da7b-5070-4246-b0c9-faa88ec50e02 = Molts d’ells.
+
+	//541. ORIGINAL: All at the same time.
+	e99338ed-3943-43f0-b4b3-608ca01091be = Tots al mateix temps.
+
+	//542. ORIGINAL: We left before... before it looked like it was gonna happen.
+	537bc12c-6742-430a-9639-2a73131659b0 = Ens vam anar abans... abans que semblés que pogués passar.
+
+	//543. ORIGINAL: If you've been listening, we found Jackie.
+	2fda1cc9-bac4-4666-a894-3e05bb39f7f7 = Si has estat escoltant, vam trobar Jackie.
+
+	//544. ORIGINAL: She's at peace now.
+	102732f0-fa2b-469d-bf62-14d18f715dbb = Ella ara està en pau.
+
+	//545. ORIGINAL: Hey it's Jonas.
+	25e36ade-8c9b-4722-a129-bd7d567d5f2e = Hola, sóc Jonas.
+
+	//546. ORIGINAL: More people have come by saying they're going to Louisville.
+	0169ff6a-e38a-4c76-b6ec-d72c2a91d2a5 = Més gent ha vingut dient que van a Louisville.
+
+	//547. ORIGINAL: They had a print-out. Said soldiers checked them for bites.
+	a9d94e4a-0222-49d5-922d-a1d1b5caa477 = Tenien un imprès. Van dir que els soldats van comprovar si tenien mossegades.
+
+	//548. ORIGINAL: Stuck a gun to their head and gave them a sheet of paper.
+	cdb3d6ef-2f4d-406d-8ac1-c610192afca1 = Els van apuntar amb una pistola al cap i els van donar un full de paper.
+
+	//549. ORIGINAL: This is what it says:
+	80deb97f-37dd-4d0e-87c5-2d4c97fd51ce = Això és el que diu:
+
+	//550. ORIGINAL: This is addressed to those immune to the second wave of the Knox Infection.'
+	d02f3feb-1387-4f2b-b8b9-3a2ed53a4d14 = Això va dirigit als immunes a la segona onada de la infecció de Knox.
+
+	//551. ORIGINAL: You know you're immune. Till a bite at least.'
+	0d1d739a-5f65-4d47-a161-fe686e6d2c97 = Saps que ets immune. Almenys per mossegades.
+
+	//552. ORIGINAL: If you don't, you will in coming days.'
+	af43b09d-ac6e-4cea-a651-cba15adcc42f = Si no, emmalaltiràs els propers dies.
+
+	//553. ORIGINAL: The time has come to bear arms against this threat.'
+	178809af-f188-4978-a884-2b8d6cf60a5a = Ha arribat el moment de fer servir les armes contra aquesta amenaça.
+
+	//554. ORIGINAL: They may be your family, they may be your friends.'
+	0e7bd1c5-e8b8-4ac4-81bb-7fa9cc2e831e = Pot ser la família, poden ser els amics.
+
+	//555. ORIGINAL: Do not hesitate to pull the trigger.'
+	1bd4343c-d38d-464c-918f-f5438a24394a = No dubteu a prémer el gallet.
+
+	//556. ORIGINAL: We're safe here, but we're surrounded.
+	b2161f60-2fab-4053-bad6-404b89dff4bc = Aquí estem fora de perill, però estem envoltats.
+
+	//557. ORIGINAL: We woke up this morning, and there they were.
+	1adf02f8-a8ad-48cb-831e-9400d6500b89 = Ens despertem aquest matí, i hi eren.
+
+	//558. ORIGINAL: Some staring. Some clawing at the door.
+	f3fbe147-8284-40f6-81d0-dbba9ea7912f = Alguns observant. Altres esgarrapant portes.
+
+	//559. ORIGINAL: All of them hungry.
+	1b5db856-4267-4ca9-9c0b-9c51eb953de4 = Tots famolencs.
+
+	//560. ORIGINAL: Still not used to seeing them up close.
+	866c9a4a-54ee-4586-940e-d347c1006c62 = Encara no m'acostumo a veure'ls a prop.
+
+	//561. ORIGINAL: They look so... so dead.
+	ce5eb750-6086-42ae-abc5-69f3f1037619 = Ells semblen... tan morts.
+
+	//562. ORIGINAL: No other word for it.
+	4f517d6c-b91d-4ee5-859a-5757a0d89ae3 = No es pot descriure d’altra manera.
+
+	//563. ORIGINAL: Faces are blanks, 'cept for the hunger.
+	dbfee44a-eb98-4554-99a9-124a34754ab2 = Les cares pàl·lides, excepte per la gana.
+
+	//564. ORIGINAL: I don't think they're gonna go away.
+	f0976683-c540-4025-9686-c9bf90f5fe58 = Crec que no se n'aniran.
+
+	//565. ORIGINAL: Okay again, this is what's being handed around.
+	474469e0-8e32-4ee9-bef9-240c8c70e925 = Un altre cop, això és el que s'està repartint.
+
+	//566. ORIGINAL: This is addressed to those unaffected by the second wave of the Knox Infection.'
+	4feea482-8a0a-4d8d-aba2-d3b4c6a3368e = Això va dirigit als no afectats per la segona onada de la infecció de Knox.
+
+	//567. ORIGINAL: You might know who you are by now..'
+	5ad65a54-bd79-4986-b17a-cef4f8e04147 = Hauríeu de saber qui sou per ara...
+
+	//568. ORIGINAL: The disease will not spread to you as it has to others...'
+	0c1fbae7-ca62-464a-a7e1-eb900f57bc62 = La malaltia no se li transmetrà com als altres...
+
+	//569. ORIGINAL: ... but through fluid contact, by which I mean bites...'
+	8d42995f-e71e-48fa-8f79-cc9e3036b83f = ...però a través del contacte amb fluids, em refereixo a mossegades...
+
+	//570. ORIGINAL: ... it surely will.'
+	bb028c17-c5bf-4477-b85d-8c2dba3050ef = ...possiblement si.
+
+	//571. ORIGINAL: These are dark days, but as a nation we can and will prevail.'
+	2d983bff-597a-4fd6-be30-e094b9882a5b = Són dies foscos, però com a nació, podrem i aconseguirem prevaldre.
+
+	//572. ORIGINAL: You have not been forgotten.'
+	c253a343-4323-457d-97bd-cdcd48ab45c7 =  No te hem oblidat.
+
+	//573. ORIGINAL: We will come for you.'
+	6531bfba-42ed-4eee-98b9-a6bfd7eca2dc = Anirem a ajudar-te.
+
+	//574. ORIGINAL: We're going to keep reporting from here as long as we can.
+	bea87333-c63c-403e-9a0f-8925bb3adb09 = Seguirem informant des d'aquí tant de temps com puguem.
+
+	//575. ORIGINAL: If you can hear us, if anyone can, then we'll use this frequency.
+	fdc4e090-b444-40cc-ae05-4bcc2566508b = Si ens sent, si algú pot, utilitzarem aquesta freqüència.
+
+	//576. ORIGINAL: Whatever helps us to help you.
+	23efb07a-456c-4de2-ac41-ecf9f18b22db = El que sigui per ajudar-te.
+
+	//577. ORIGINAL: We've got enough people around us to hold out.
+	53cf2642-7ad2-42c9-b1ff-9189fbf121fd = Tenim gent de sobres per resistir.
+
+	//578. ORIGINAL: This is Jonas,
+	f3866131-96a7-4500-a82c-8875509c5253 = Aquí Jonas.
+
+	//579. ORIGINAL: JONAS! THEY'RE INSIDE. THEY'RE INSIDE. RUN!
+	bb641309-1023-4c27-8c2b-fe058b5e20c6 = JONAS! ESTAN DINS. ESTAN DINS. CORRE!
+
+	//580. ORIGINAL: Shit! Wha-
+	c8f2c4f2-7907-413f-aa35-a7f08d1781c2 = Merda! Què...
+
+	//581. ORIGINAL: This wavelength has been chosen for Emergency Broadcast.
+	02a1e14a-a619-489e-adcb-1abd3f3c86b4 = Aquesta longitud d'ona ha estat escollida per a emissions d'emergència.
+
+	//582. ORIGINAL: The spread of the Knox Event infection is now total.
+	e5e4e0d6-a047-4ffc-a417-9b3f38b6842f = La propagació de la infecció de l'Incident de Knox és ara total.
+
+	//583. ORIGINAL: Stay in small groups.
+	5c30f52a-3a45-4630-aab8-6faba1a273dd = Romangui en grups petits.
+
+	//584. ORIGINAL: Do not travel.
+	0e5431c6-ae5a-47fe-b691-04543e949be6 = No viatge.
+
+	//585. ORIGINAL: Assume all major urban areas have been compromised.
+	35ac7688-7455-488f-9917-da24dba34d07 = Entengueu que totes les àrees urbanes han estat compromeses.
+
+	//586. ORIGINAL: We are doing all we can to reclaim American soil.
+	b0ab86be-9aad-42e1-85e6-a629ac5bb713 = Estem fent tot el que sigui possible per recuperar la situació.
+
+	//587. ORIGINAL: We will come for you.
+	561e9974-443c-464d-91ea-3f3a0dc6eda1 = Anirem a ajudar-los.
+
+	//588. ORIGINAL: This broadcast will be set to repeat.
+	061f2e55-e448-410b-a61e-cb943a72d611 = Aquesta emissió està programada perquè es repeteixi.
+
+	//589. ORIGINAL: All further updates will be broadcast on this frequency.
+	fc8c1440-65a7-4b0c-a27b-b2c5a8d5c945 = Totes les noves actualitzacions seran transmeses en aquesta freqüència.
+
+	//590. ORIGINAL: Good luck.
+	3880fe04-94b0-49af-a6ea-dd488e8c1834 = Bona sort.
+
+	//591. ORIGINAL: *beep*
+	a935c744-6d82-4650-a572-0219f4df5c34 = *beep*
+
+	//592. ORIGINAL: You're on the NNR Network.
+	3ff71b2f-9698-457a-8c28-a2ab60fd7367 = Estàs a NNR Network.
+
+	//593. ORIGINAL: We're going to break from our regular programming to...
+	993a48c8-0be9-4670-b5b4-986f44bdab74 = Interromprem la nostra programació habitual per...
+
+	//594. ORIGINAL: ... talk about the Kentucky situation.
+	7835b86a-a768-4dbc-83b1-f92a164cf665 = ...parlar sobre la situació de Kentucky.
+
+	//595. ORIGINAL: So, a huge area of forest and farmland has been cut off.
+	c542421a-a6f0-4d05-b1e9-5be299c69001 = Una enorme àrea de bosc i zones de cultiu ha estat tallada.
+
+	//596. ORIGINAL: Roads blocked. The border patrolled.
+	82a12290-3be7-43c7-b3ad-87bb98a68119 = Carreteres bloquejades. La frontera està patrullada.
+
+	//597. ORIGINAL: Barriers intended for military use overseas used on home soil.
+	e18034f2-f09f-4ff9-a154-3af86c8932e9 = Barreres de militars que estaven destinats a anar a l'estranger estan ara en el nostre propi territori.
+
+	//598. ORIGINAL: A massive logistical operation, and for what end?
+	65f293c7-aefe-4898-a514-be0060ab7f93 = Una massiva operació logística, amb quina finalitat?
+
+	//599. ORIGINAL: The sectioning of an unknown, localized, contagion.
+	3a3ad0ae-7644-48c6-8487-12ac4afc2610 = L'aïllament d'un desconegut però localitzat contagi.
+
+	//600. ORIGINAL: What is this outbreak? Should America be afraid?
+	fe3d36ce-1926-4e65-bd77-94526d76f05f = Què és aquest virus? Deu Amèrica tenir por?
+
 [/Translations]
