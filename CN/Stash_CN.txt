@@ -46,7 +46,7 @@ Stash_CN = {
     Stash_LVMap11_Text1 = "未被搜寻的商店",
     Stash_LVMap11_Text2 = "不过全是僵尸",
     Stash_LVMap11_Text3 = "贮藏处",
-    Stash_LVMap11_Text4 = "全是LV",
+    Stash_LVMap11_Text4 = "路易斯维尔综合医院",
 
     Stash_LVMap12_Text1 = "披萨女士",
     Stash_LVMap12_Text2 = "卖汉堡的帅哥",
