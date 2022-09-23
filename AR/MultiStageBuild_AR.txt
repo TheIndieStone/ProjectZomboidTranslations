@@ -1,9 +1,4 @@
 MultiStageBuild_ES = {
-
-    -- Build 41.35
-    -- 17-04-2020
-    -- Autor: Sopa
-
     -- Wooden Wall
     MultiStageBuild_CreateWoodenWall_1 = "Construir pared de madera nivel 1",
     MultiStageBuild_UpgradeWoodenWall_1To2 = "Mejorar pared de madera a nivel 2",
