@@ -5044,7 +5044,7 @@
 	2098745e-5694-4630-b9c1-7232fa466da1 = 也许我们有一天还能重启这档节目.
 
 	//1678. ORIGINAL: Knox Hitz! Your style, your music!
-	16a20d27-b28d-45fb-8af4-3f1c562ed95f = Knox Hitz电台! 您的风格, 您的音乐!
+	16a20d27-b28d-45fb-8af4-3f1c562ed95f = Knox Hitz! 你的风格, 你的音乐!
 
 	//1679. ORIGINAL: [img=music] We talked the night, till the sun came up. [img=music]
 	1de4dd3e-178e-4164-b47b-893a6b997f7e = [img=music] 我们整晚对谈, 直到太阳升起. [img=music]
@@ -7783,7 +7783,7 @@
 	dd364ea2-18e2-4224-92a8-0fa241de7c23 = 找到活下去的办法.
 
 	//2591. ORIGINAL: WBLN! Your news, your station.
-	0772229c-a5a5-4556-b1cf-b494257b2876 = WBLN电台! 你的新闻, 你的资讯站.
+	0772229c-a5a5-4556-b1cf-b494257b2876 = WBLN! 你的新闻, 你的资讯站.
 
 	//2592. ORIGINAL: Uncertainty and fear in Kentucky as the lockdown continues on this...
 	036d85be-a47c-44d4-9c32-85fbe019db3f = 肯塔基州因为不确定性的事件和持续的恐慌而持续封锁中...
