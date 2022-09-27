@@ -873,7 +873,6 @@ ItemName_EN = {
     ItemName_Base.HotDrinkSpiffo = "Hot Drink",
     ItemName_Base.HotDrinkTea = "Hot Teacup",
     ItemName_Base.HotDrinkWhite = "Hot Drink",
-    ItemName_Base.Hotdog = "Hotdog",
     ItemName_Base.Hotsauce = "Hot Sauce",
     ItemName_Base.HottieZ = "HottieZ",
     ItemName_Base.HuntingKnife = "Hunting Knife",
