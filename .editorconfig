@@ -13,7 +13,6 @@ indent_style=tab
 indent_size=4
 
 [AR/**]
-charset = utf-8
 indent_style = space
 indent_size = 4
 tab_width = 4
