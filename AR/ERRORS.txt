@@ -1,0 +1,11 @@
+ITEMNAME
+ItemName_Base.Necklace_Pearl = "Pearl Necklace",
+ItemName_Base.Necklacepearl = "Pearl Necklace",
+
+
+UI
+UI_trait_TailorDesc
+UI_trait_cook is twice
+
+UI_optionscreen_binding_VehicleSwitchSeat
+UI_optionscreen_binding_VehicleSwitchSeat

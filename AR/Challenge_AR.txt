@@ -18,7 +18,7 @@ Challenge_AR = {
     Challenge_Challenge1_desc = "Puedes escuchar como vienen. Hordas de zombies, invadiendo tu aislada cabaña desde todos los ángulos. Tu muerte es inevitable, pero tienes una escopeta a mano. <LINE> <LINE> El modo último en pie presenta hordas interminables de zombies que cada vez son más grandes. Sobrevive mientras puedas a pesar de las escasas posibilidades.",
     
     Challenge_Challenge2_name = "Cabaña del bosque - Último en pie acumulador",
-    Challenge_Challenge2_desc = "Otro día, otra cabaña lista para llenarse de sangre. Las hordas están por llegar, y tu muerte será espantosa y doloroza. Salí y pelea... <LINE> <LINE> El modo último en pie - Acumulador  último en pie presenta hordas interminables de zombies que cada vez son más grandes. Usa el dinero obtenido matando zombies para comprar equipo, subir de nivel y reparar tu armamento ensangrentado.",
+    Challenge_Challenge2_desc = "Otro día, otra cabaña lista para llenarse de sangre. Las hordas están por llegar, y tu muerte será espantosa y doloroza. Salí y pelea... <LINE> <LINE> El modo último en pie - Acumulador último en pie presenta hordas interminables de zombies que cada vez son más grandes. Usa el dinero obtenido matando zombies para comprar equipo, subir de nivel y reparar tu armamento ensangrentado.",
     
     Challenge_AStormIsComing_name = "Se viene una tormenta",
     Challenge_AStormIsComing_desc = "Las nubes aparecen sobre Kentucky. El ruido de los truenos se escucha a lo lejos. <LINE> <LINE> Con el cielo negro, los muertos que vagan por la tierra se sienten inquietos. <LINE> <LINE> Esta tormenta aumenta y aumentará en su ferocidad, está nunca terminara.",
