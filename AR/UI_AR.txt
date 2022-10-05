@@ -843,7 +843,7 @@ UI_AR = {
     UI_WorkshopServerItemState_Installed = "Instalado",
     UI_WorkshopServerItemState_Error = "Error",
     UI_trait_Herbalist = "Herborista",
-    UI_trait_HerbalistDesc = "Puede encontrar hierbas medicinales para elaborar medicamentos y cataplasmas con ellas.",
+    UI_trait_HerbalistDesc = "Puede encontrar hierbas medicinales para elaborar medicamentos y ungüentos con ellas.",
     -- Controller test panel
     UI_ControllerTest_Combo = "Probar mando:",
     UI_ControllerTest_Axis = "Eje %1:",
