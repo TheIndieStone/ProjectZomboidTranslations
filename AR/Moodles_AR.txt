@@ -221,6 +221,6 @@ Moodles_ES = {
     Moodles_windchill_desc_lvl3 = "Tu sensación térmica es de 15 a 20 grados menor a la temperatura.",
     Moodles_windchill_desc_lvl4 = "La térmica es de menos de 20 grados respecto a la temperatura",
     -- CantSprint
-    Moodles_CantSprint = "Movimiento limitado"
+    Moodles_CantSprint = "Movimiento limitado",
     Moodles_CantSprint_desc = "¡Ropa pesada, mochilas muy llenas o ítems grandes te están poniendo lento!"
 }
