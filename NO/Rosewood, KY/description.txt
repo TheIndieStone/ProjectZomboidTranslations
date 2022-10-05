@@ -1,0 +1,9 @@
+Rosewood
+ <LINE> <LINE>
+ Et kort opphold i Rosewood er hyggelig, men et langt opphold?
+ Vel, som de innsatte i det berømte Knox Penitentiary vil fortelle deg: det er ikke så gøy!
+ <LINE> <LINE>
+ Rosewood har en ideell beliggenhet geografisk for enkel tilgang, og er et knutepunkt for administrasjon
+ og samfunnstjenester, samt et ledende fengslingssenter.
+ Tinghuset i fylket, et nylig pusset opp brannvesen og et livlig fengsel
+ gjør dette til en av de viktigste byene i området! Kom på besøk i dag!

@@ -221,6 +221,6 @@ Moodles_EN = {
 	Moodles_windchill_desc_lvl3 = "Det føles 15 til 20 grader kaldere enn det faktisk er.",
 	Moodles_windchill_desc_lvl4 = "Det føles mer enn 20 grader kaldere enn det faktisk er.",
 	-- CantSprint
-	Moodles_CantSprint = "Begrenset bevegelse"
-	Moodles_CantSprint_desc = "Tunge klær, fulle vesker eller store gjenstander som bremser deg!"
+	Moodles_CantSprint = "Begrenset bevegelse",
+	Moodles_CantSprint_desc = "Tunge klær, fulle vesker eller store gjenstander som bremser deg!",
 	}
