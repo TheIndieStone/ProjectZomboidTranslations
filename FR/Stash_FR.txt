@@ -139,11 +139,11 @@ Stash_FR = {
     Stash_MulMap15_Text21 = "C'est là que j'ai été mordu",
 
     Stash_MulMap16_Text1 = "La sécurité de la banque a des armes à feu",
-    Stash_MulMap16_Text2 = "La TV et une bonne bière fraiche, ça me manque. Monde de merde",
+    Stash_MulMap16_Text2 = "La TV et une bonne bière fraîche, ça me manque. Monde de merde",
 
     Stash_MulMap17_Text1 = "Le Zippee est plein de matériel",
     Stash_MulMap17_Text2 = "Vérifiez la seconde porte de la boulangerie",
-    Stash_MulMap17_Text3 = "Attention maman, papa erre toujours par ici",
+    Stash_MulMap17_Text3 = "Attention Maman, Papa erre toujours par ici",
 
     Stash_MulMap18_Text1 = "Crazy Willy's trailer",
     Stash_MulMap18_Text11 = "On m'a dit qu'il s'était transformé",
