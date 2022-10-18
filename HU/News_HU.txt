@@ -1,3 +1,2 @@
-[VERSION] 41.61
-[NEWS]
-Verzi�inform�ci� az angol nyelvben �rhet� el!
+[VERSION] 41.69b - A fordítás jelenlegi verziója.
+A játék verzióinformációja az angol nyelvben érhető el!

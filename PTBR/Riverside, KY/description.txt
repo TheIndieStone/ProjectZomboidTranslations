@@ -1,10 +1,11 @@
 Riverside
  <LINE> <LINE>
- Uma cidade muito colorida que abraça as margens do grande Ohio: explorar Riverside é uma experiência rica e diversa!
- Para o oeste você encontrará as partes mais antigas da cidade,
- enquanto ao leste é onde os moradores mais ricos trabalham, descansam e se divertem.
+ Uma cidade colorida abraçando fortemente as margens do Poderoso Rio Ohio: explorar Riverside é uma experiência rica e diversificada!
+ A Oeste você encontrará as partes mais antigas da cidade
+ enquanto a Leste é onde nossos residentes mais ricos trabalham, descansam e se divertem.
  <LINE> <LINE>
- De fato, se você está considerando ficar com a gente,
- por que não dar uma olhadinha no Country Club de Knox Heights?
- O melhor em conforto e relaxamento: membros tem acesso a um campo de golf com 18 buracos,
- quadra de tênis, piscina e spa. Venha ainda hoje!
+ Na verdade, se você está considerando uma estadia conosco, 
+ por que não conferir o Clube de Campo Knox Heights, que fica nas proximidades? 
+ O máximo em conforto e descanso: os membros têm acesso a um campo de golfe de 18 buracos,
+ quadras de tênis, piscina e spa. Junte-se a nós hoje mesmo!
+

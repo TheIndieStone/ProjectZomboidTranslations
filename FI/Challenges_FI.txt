@@ -1,0 +1,74 @@
+Challenge_FI = {
+    Challenge_YouHaveOneDay_name = "Sinulla on yksi päivä",
+	Challenge_YouHaveOneDay_desc = "Olet taas Knox Countyssa. Olet takaisin kartalla, missä Project Zomboid -infektio alkoi. <LINE> <LINE> Sinulla on yksi päivä suhteellisen turvassa. Zombeja saapuu valtavia määriä, ja he löytävät sinut. Missä käytit, kun nostit viimeisen asennon uudelleen? Missä teit viimeisen kantasi vanhaan aikaan? Parempi löytää se nopeasti. <LINE> <LINE> [Our thanks to Community mapper BobHeckling for recreating the old 0.1.5 map with the current PZ toolset.]",
+
+    Challenge_WinterIsComing_name = "Talvi on tulossa",
+	Challenge_WinterIsComing_desc = "On heinäkuun puoliväli, mutta yhtäkkiä tuulessa on kylmä. Vain kolmen päivän kuluttua tulee talvi, jollaista ei ole ennen sitä. <LINE> <LINE> Olet hereillä syrjäisessä paikassa Varastot ovat niukat, ja kova kylmä saattaa hidastaa epäkuolleiden laumojen toimintaa – mutta ne eivät ole yhtä tappavia. <LINE> <LINE> Pukeudu lämpimästi, selviytyjä...",
+
+	Challenge_OpeningHours_name = "Avoin ajat",
+    Challenge_OpeningHours_desc = "Mall on ympäröity. Se oli kerran tärkeä paikka heidän elämässään. Vaisto on johtanut heidät ovilleen. Muisto siitä, mitä he tekivät... <LINE> <LINE> Olet yksin, mutta et kauaa. Klo 9 kauppakeskus on valmis liikenteeseen: ovet avautuvat ja laumat tulevat sisään. <LINE> <LINE> Ole valmis niihin",
+
+	Challenge_AReallyCDDAy_name = "Todella CD DA",
+	Challenge_AReallyCDDAy_desc = "Tulet ulos suihkusta ja putoat pahasti. Olet sokea humalassa ja sinulla on paha flunssa. <LINE> <LINE> Kaiken tämän lisäksi talo on tulessa! Tänään ei todellakaan ole sinun päiväsi. <LINE> <LINE> [A challenge inspired by A Really Bad Day from the awesome, wonderful and MUST-PLAY Cataclysm: Dark Days Ahead] ",
+
+	Challenge_Challenge1_name = "Talo metsässä - Viimeinen seisaus",
+	Challenge_Challenge1_desc = "Voit kuulla heidän lähestyvän. Laumoja kuolleita, jotka tunkeutuvat eristettyyn mökkiisi joka kulmasta. Kuolema on väistämätön, mutta haulikko on lähellä <LINE> <LINE> Viimeinen Seisaus sisältää loputtomat zombiaallot jatkuvasti kasvavassa määrin. Selviydy niin kauan kuin mahdollista ylivoimaisia ​​kertoimia vastaan.",
+
+	Challenge_Challenge2_name = "talo metsässä - Viimeinen seisaus Akku",
+	Challenge_Challenge2_desc = "Toinen päivä, toinen mökki, joka on valmis vereen. Laumot ovat kimpussasi, ja kuolemasi on yhtä tuskallista kuin kauheaakin. Joten mene taistelemaan... <LINE> <LINE> Viimeinen Seisaus – Akku sisältää loputtomat zombiaallot jatkuvasti kasvavassa määrin. Käytä tappamalla zedejä ansaittuja rahoja ostaaksesi varusteita, nostaaksesi tasoa ja korjataksesi veren kastelevia aseitasi.",
+
+    Challenge_AStormIsComing_name = "Myrsky on tulossa",
+	Challenge_AStormIsComing_desc = "Pilviä kerääntyy Kentuckyn ylle. Kaukaa kuuluu ukkonen rätinä. <LINE> <LINE> Kun taivas pimenee, maan päälle kompastuneet kuolleet muuttuvat levottomiksi. <LINE> <LINE> This is a storm that will grow and fall back in its ferocity, but it will never end.",
+
+    Challenge_TheDescendingFog_name = "Nouseva Sumu",
+    Challenge_TheDescendingFog_desc = "Ihmiset näkivät sen ensin vedessä. Vaalea valkoinen peitto Ohio-joen yllä. <LINE> <LINE> Se alkoi sumuna. Sitten se peitti kaupungin. Kaupunkilaiset kuolivat huutaen synkkyyteen. Nyt he kävelevät sieltä ulos. <LINE> <LINE> Näkymätön, kuulematon ja säälimätön elävän etsimisessä",
+
+    Challenge_Kingsmouth_name = "Kuninkaiden suu",
+    Challenge_Kingsmouth_desc = "Nauti rentouttavasta oleskelusta Kuninkaiden suun Islandilla!",
+
+    Challenge_Studio_name = "Studio",
+    Challenge_Studio_desc = "Missä kaikki parhaat elokuvat on kuvattu!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Paina "o" pysyvää lisäystä ja rahaa.",
+	Challenge_Challenge2_WaveStart = "Aalto %1 in : %2 (paina Enteriä ohittaaksesi)",
+	Challenge_Challenge2_WaveDuration = "Aalto %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombies left : %1",
+	Challenge_Challenge2_Money = "Raha : %1",
+	Challenge_Challenge2_Money2 = "Pelaaja %1 Raha : %2",
+	Challenge_Challenge2_WaveFinished = "Aalto %1 finished in : %2",
+	Challenge_Challenge2_MoneyGained = "rahaa saanti  : %1",
+	Challenge_Challenge2_XPGained = "Kokemuksen saanti : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Viimeinen seisaus",
+	Challenge_Challenge2_TabPlayer = "Pelaaja",
+	Challenge_Challenge2_Weapons = "Aseet",
+	Challenge_Challenge2_TabItems = "Tuotteet",
+	Challenge_Challenge2_TabRepair = "Korjaus",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Kulta bonus",
+	Challenge_Challenge2_XpBonus = "XP Bonus",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Max",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Aloituskulta - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Max Aloituskulta %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Taidot",
+	Challenge_Challenge2_PermanentBonus = "Pysyvä bonus",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Puusepäntyöt",
+	Challenge_Challenge2_Health = "Terveys",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Korjaa ase",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Terveys",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Ostoskeskus aukeaa klo 9. <LINE> <LINE> Valmistaudu väkijoukkoon...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Kolmen päivän päästä alkaa loputon talvi. <LINE> <LINE> Pukeutua lämpimästi...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 24 tunnin kuluttua matkastasi takaisin Knox Countyyn tulee maapallon helvetti...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE>Loputon huono sää edessä...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Alkaa sumua...",
+}

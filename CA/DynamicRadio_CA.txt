@@ -1,4 +1,4 @@
-DynamicRadio_CA {
+DynamicRadio_CA = {
     AEBS_Intro = "<bzzt> Cinc Zero Dos. <wzzt> Sistema d'emissió automàtica. <bzzt>",
     AEBS_Choppah = "Detectada activitat aèria.",
     AEBS_Power_1 = "Xarxa elèctrica de Knox: Fluctuacions de potència detectades.",
@@ -20,13 +20,13 @@ DynamicRadio_CA {
     AEBS_clouds_3 = "Intervals nuvolosos periòdics.",
     AEBS_clouds_4 = "Períodes de forta nuvositat.",
     AEBS_fog_0 = "Boira tènue.",
-    AEBS_fog_1 = "Boisa densa.",
+    AEBS_fog_1 = "Boira densa.",
     AEBS_fog_2 = "Boira molt densa.",
-    AEBS_weather_0_a = "ADVERTÈNCIA: Període meteorològic previst que comence %s... ",
+    AEBS_weather_0_a = "ADVERTÈNCIA: Període meteorològic previst que comence de %s... ",
     AEBS_weather_0_b = "L'oratge continuarà a la llarga del dia... ",
     AEBS_weather_0_c = "L'oratge està previst que acabe %s... ",
     AEBS_weather_predicted = "esperant ",
-    AEBS_weather_and_a = " i un ",
+    AEBS_weather_and_a = " i una ",
     AEBS_weather_light_moderate = "esperant pluges dèbils o moderades...",
     AEBS_weather_heavy_rain = "arruixons amb possibilitat de pluja intensa",
     AEBS_weather_storm = "tempesta elèctrica",

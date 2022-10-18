@@ -1,0 +1,12 @@
+EvolvedRecipeName_PH = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "De-latang Bolognese",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "De-latang Carrots",
+	EvolvedRecipeName_Base.CannedChiliOpen = "De-latang Chili",
+	EvolvedRecipeName_Base.CannedCornOpen = "De-latang Mais",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "De-latang Corned Beef",
+	EvolvedRecipeName_Base.CannedPeasOpen = "De-latang Peas",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "De-latang Patatas",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "De-latang Sardinas",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "De-latang Kamatis",
+	EvolvedRecipeName_Base.Teabag2 = "Tsaa",
+}

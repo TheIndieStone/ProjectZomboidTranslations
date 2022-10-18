@@ -16,6 +16,9 @@ Farming_EN = {
     Farming_Receding = "Receding",
     Farming_Rotten = "Rotten",
     Farming_Destroyed = "Destroyed",
+    Farming_Seedling = "Seedling",
+    Farming_Fully_grown = "Fully grown",
+    Farming_Ready_to_harvest = "Ready to harvest",
     -- farming info text
     -- title
     Farming_Plant_Information = "Plant Information",
@@ -32,10 +35,6 @@ Farming_EN = {
     Farming_Thirsty = "Thirsty",
     Farming_Dry = "Dry",
     Farming_Parched = "Parched",
-    -- growing phase
-    Farming_Seedling = "Seedling",
-    Farming_Fully_grown = "Fully grown",
-    Farming_Ready_to_harvest = "Ready to harvest",
     -- disease
     Farming_Mildew = "Mildew",
     Farming_Pest_Flies = "Pest Flies",
