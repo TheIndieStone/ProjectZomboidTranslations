@@ -279,7 +279,6 @@ UI_EN = {
     UI_prof_SmitherDesc = "Can build a stone furnace and work metal.",
     UI_trait_Metalworker = "Metalworker",
     UI_trait_MetalworkerDesc = "Can weld foraged metal to create items and barricades.",
-    UI_trait_Cook = "Cook",
     UI_trait_CookDesc = "Know cooking recipes.",
     UI_trait_Blacksmith = "Blacksmith",
     UI_trait_BlacksmithDesc = "Use an anvil to create metal items.",
