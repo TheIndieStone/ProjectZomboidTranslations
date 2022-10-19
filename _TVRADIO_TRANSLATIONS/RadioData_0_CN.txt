@@ -97,7 +97,7 @@
 	1c17c50e-d69d-48ef-9cf9-8b32e3b5bb27 = 但是我想并没有那么严重.
 
 	//29. ORIGINAL: I was going to work at Gas to Go early, like every morning.
-	d28d6492-236f-430a-9084-3028332a4bec = 我当时正在去加油站上班的路上, 每天如此.
+	d28d6492-236f-430a-9084-3028332a4bec = 我当时正在去途行油站上班的路上, 每天如此.
 
 	//30. ORIGINAL: I saw these guys in plastic suits.
 	b301d0b1-fa87-4899-933a-230a40634cfb = 我就看到了那些穿着塑胶制服的人.
@@ -2494,7 +2494,7 @@
 	b5cfe549-6778-4ef5-8dd7-fd9e855aae68 = 宵禁将强制执行, 直至另行通知.
 
 	//828. ORIGINAL: Your regional NNR station will have all the details.
-	4c230f0f-0aab-4ecc-bd3b-a7312f765b75 = 您所在地区的NNR广播电台站将提供所有详细信息.
+	4c230f0f-0aab-4ecc-bd3b-a7312f765b75 = 您所在地区的NNR广播电台站将提供所有详细资讯.
 
 	//829. ORIGINAL: God bless America.
 	00a41d2e-2f19-4f73-b02e-0a8fd2cf51c1 = 天佑美国.
@@ -2722,7 +2722,7 @@
 	997063a1-26bb-40c2-b4fc-741a98e23bc5 = 我们的记者在路易斯维尔以南的31W公路上.
 
 	//904. ORIGINAL: Al. Al can you hear me?
-	a2e6317a-1fdd-4abd-b6c1-e06a798aaae1 = Al. Al你能听到吗?
+	a2e6317a-1fdd-4abd-b6c1-e06a798aaae1 = 阿尔. 阿尔你能听到吗?
 
 	//905. ORIGINAL: I can.
 	ae08072e-22c0-4f56-a012-8cb6ac2db59d = 收到.
@@ -3043,7 +3043,7 @@
 	b1c616d4-6f2b-4e4d-9b5b-c05f25c8f2da = 英格兰的诺福克和伦敦.
 
 	//1011. ORIGINAL: Newcastle, England.
-	f0df88b0-d188-49ba-bb1d-34d18d0b4980 = 英格兰的新堡.
+	f0df88b0-d188-49ba-bb1d-34d18d0b4980 = 英格兰的纽卡斯尔.
 
 	//1012. ORIGINAL: Mogadishu, Somalia - in Africa.
 	ddadff76-360b-4d99-9f41-a0e1504bb4c1 = 位于非洲的摩加迪休和索马利亚.
@@ -3346,7 +3346,7 @@
 	bd987c70-ab21-4ee6-a3c1-d7870e3f9f34 = 有些人说有攻击事件发生.
 
 	//1112. ORIGINAL: I was getting lunch in Spiffos.
-	f7d82c9d-d172-4134-a5b5-8829bc621648 = 我当时在斯皮福快餐吃午饭.
+	f7d82c9d-d172-4134-a5b5-8829bc621648 = 我当时在斯皮福餐厅吃午饭.
 
 	//1113. ORIGINAL: Didn't see no fight.
 	8a31eb2e-984e-43e3-bf91-edb990648354 = 没看到什么暴力事件.
@@ -3568,7 +3568,7 @@
 	8c5908fc-033b-4f63-8461-34e3c828ff15 = 这里是KnoxTalk广播电台, 凯瑟琳...
 
 	//1186. ORIGINAL: That new Spiffo's restaurant just opened.
-	517d8876-af87-4a3f-9952-37ddc02c7b7b = 那家新的斯皮福快餐才刚刚开业.
+	517d8876-af87-4a3f-9952-37ddc02c7b7b = 那家新的斯皮福餐厅才刚刚开业.
 
 	//1187. ORIGINAL: And you think it's connected?
 	0f18d0df-5da2-4734-b338-8cde815ac070 = 你觉得这和诺克斯事件有关?
@@ -3598,7 +3598,7 @@
 	1a12ddbb-a88d-4a08-8d3e-8b7d6eed2f9d = 你吃了汉堡, 这东西就会进入你的脑子.
 
 	//1196. ORIGINAL: My son worked in Spiffos before they let him go.
-	3eb9356d-dae9-4004-a830-6c26663ed97c = 隔离区建立以前, 我儿子在斯皮福快餐上班.
+	3eb9356d-dae9-4004-a830-6c26663ed97c = 隔离区建立以前, 我儿子在斯皮福餐厅上班.
 
 	//1197. ORIGINAL: You know how many he cooked a day?
 	601940f4-5746-4d6f-b33a-9a997b716569 = 你知道他一天做多少个汉堡吗?
@@ -3835,7 +3835,7 @@
 	f6728ec0-7f6a-4338-befe-499e5135f1b4 = 他们为什么一直说这种狗屎废话?
 
 	//1275. ORIGINAL: Who Abigail? And please... this is a family show.
-	88b83ebb-e72c-4fbd-8189-c31aba2c89d8 = 你在说谁, 阿比盖尔? 还有... 这是一档阖家欢怡的节目.
+	88b83ebb-e72c-4fbd-8189-c31aba2c89d8 = 你在说谁, 阿比盖尔? 还有... 这是一档家庭秀的节目.
 
 	//1276. ORIGINAL: You still think that counts for something?
 	facc28ed-ed8a-4f62-a475-2e387980034a = 这种时候了你还在乎这个?
@@ -5044,7 +5044,7 @@
 	2098745e-5694-4630-b9c1-7232fa466da1 = 也许我们有一天还能重启这档节目.
 
 	//1678. ORIGINAL: Knox Hitz! Your style, your music!
-	16a20d27-b28d-45fb-8af4-3f1c562ed95f = Knox Hitz! 您的风格, 您的音乐!
+	16a20d27-b28d-45fb-8af4-3f1c562ed95f = Knox Hitz! 你的风格, 你的音乐!
 
 	//1679. ORIGINAL: [img=music] We talked the night, till the sun came up. [img=music]
 	1de4dd3e-178e-4164-b47b-893a6b997f7e = [img=music] 我们整晚对谈, 直到太阳升起. [img=music]
@@ -5260,7 +5260,7 @@
 	fe80fb9a-9255-4599-bb3d-85c254c994da = [img=music] 因为我从来没说: '邦妮... 嫁给我吧' [img=music]
 
 	//1750. ORIGINAL: You're with Late Night Love on Knox Hits.
-	fed60985-5d2d-4851-b2f5-3af6ff4a1fd6 = 欢迎收听本台的《深夜爱情》节目.
+	fed60985-5d2d-4851-b2f5-3af6ff4a1fd6 = 欢迎收听本台的深夜爱情节目.
 
 	//1751. ORIGINAL: Tough times out there.
 	113fb2a0-128d-4d03-87ad-4cb2c1967202 = 外面的日子不好过.
@@ -5440,7 +5440,7 @@
 	66820a91-24e8-41dc-bcb2-f58d36935690 = 不能说我怪你们.
 
 	//1810. ORIGINAL: You're listening to Late Night Love.
-	6e45c887-a6c0-40c5-9135-fb28e83e33d8 = 您正在收听的是《深夜爱情》节目.
+	6e45c887-a6c0-40c5-9135-fb28e83e33d8 = 您正在收听的是深夜爱情节目.
 
 	//1811. ORIGINAL: Seems like that's all we got left, huh?
 	fac1eebe-c2a7-4199-b8c6-8d7e2081d400 = 看起来我们只剩下这些了, 是吗?
@@ -5989,7 +5989,7 @@
 	0f979956-6174-4c27-aff2-362674055a0b = 大家注意安全.
 
 	//1993. ORIGINAL: This is the Late Night Love slot.
-	e356a94d-3dd6-4956-b3e4-7104f351a6a6 = 欢迎来到《深夜爱情》节目.
+	e356a94d-3dd6-4956-b3e4-7104f351a6a6 = 欢迎来到深夜爱情节目.
 
 	//1994. ORIGINAL: I'm figuring if you wanted the news...
 	63e7bbb1-23c3-4610-9406-11600ca3da50 = 我在想, 如果你想听新闻...
@@ -8992,7 +8992,7 @@
 	fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = 我们已经摄入这个物质好几年了.
 
 	//2994. ORIGINAL: Every trip to Spiffos. Every pot roast.
-	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = 每一次去斯皮福快餐, 每一次吃烤牛肉.
+	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = 每一次去斯皮福餐厅, 每一次吃烤牛肉.
 
 	//2995. ORIGINAL: It's lain dormant, and now the Knox Event has set it free.
 	8df463f6-6bbf-4e16-b643-f54faa0568a9 = 病毒处在潜伏状态, 而诺克斯事件则使它彻底爆发开来.
@@ -9598,7 +9598,7 @@
 	01b17da1-87cc-4365-bc9b-696368c9a0ed = 哈哈, 这些东西你都具备了.
 
 	//3196. ORIGINAL: And for the middle? The bar element?
-	fda5440a-1e04-4c18-abe9-91d1bc967213 = 在这之后呢? 酒吧元素?
+	fda5440a-1e04-4c18-abe9-91d1bc967213 = 在这之后呢? 酒吧柜?
 
 	//3197. ORIGINAL: Same again: four planks, four nails.
 	8445073f-d3fc-48dd-9ec7-051a0b7fc2c5 = 同样的: 四块木板, 四根钉子.
@@ -9964,7 +9964,7 @@
 	80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2 = 40多年来, 我帮助过无数家庭...
 
 	//3318. ORIGINAL: ... come across a treatment like Incontileve.
-	e3e517dd-45b7-427a-927a-7177148489ec = 但我从来没有遇过像Incontileve这样的治疗方法.
+	e3e517dd-45b7-427a-927a-7177148489ec = 但我从来没有遇过像失控制药这样的治疗方法.
 
 	//3319. ORIGINAL: Everywhere I go, good friends say 'Thank you Doctor Cox'
 	effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11 = 无论我到哪里, 好朋友们说: '谢谢你考克斯医生'.
@@ -9973,7 +9973,7 @@
 	fa20ce59-7949-4d1a-8afa-e2e58e77d70a = 感谢家庭医生们的推荐:
 
 	//3321. ORIGINAL: Incontileve.
-	f065b2ee-813d-4323-903f-59b4a7d42f97 = Incontileve.
+	f065b2ee-813d-4323-903f-59b4a7d42f97 = 失控制药.
 
 	//3322. ORIGINAL: Product may cause swelling of the urinary tract....
 	5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52 = 产品可能导致尿路肿胀...
@@ -10093,28 +10093,28 @@
 	fbc35c77-7a87-4917-befe-3141bfec8a0a = 我好像能听到你们的"呀呼"声?
 
 	//3361. ORIGINAL: Now I'd like you to meet my good friend Tooks Bear.
-	5b256688-3ca3-4cb6-aa83-142fe98b55cc = 现在, 请允许我介绍我的好朋友Tooks熊.
+	5b256688-3ca3-4cb6-aa83-142fe98b55cc = 现在, 请允许我介绍我的好朋友图克熊.
 
 	//3362. ORIGINAL: Tooks Bear is the friendliest, smiliest, bounciest bear in town.
-	a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3 = Tooks熊是镇上最友好的, 最常微笑的, 最快活的熊.
+	a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3 = 图克熊是镇上最友好的, 最常微笑的, 最快活的熊.
 
 	//3363. ORIGINAL: You know why you'll like him the most?
 	4009cbdb-f9db-4741-9258-de17df18b90e = 你知道你们为什么会疯狂喜欢上它吗?
 
 	//3364. ORIGINAL: He's only $49.99 plus postage and packing.
-	361268c6-0b75-4d1c-be51-020f7808e2b4 = 它只需要$49.99元, 再加上邮费和包装费.
+	361268c6-0b75-4d1c-be51-020f7808e2b4 = 它只需要49.99美元, 再加上邮费和包装费.
 
 	//3365. ORIGINAL: All I have to do is press this little button on his paw and...
 	fb798ae7-afae-43f2-9e14-a85f50c465c0 = 我需要做的就仅仅是按动它爪子上的小按钮, 然后...
 
 	//3366. ORIGINAL: I'm Tooks Bear! Let's go on an adventure!
-	c1e3f233-80a0-4254-83b3-cde19a4e0cfe = "我是Tooks熊! 让我们开始冒险吧!"
+	c1e3f233-80a0-4254-83b3-cde19a4e0cfe = "我是图克熊! 让我们开始冒险吧!"
 
 	//3367. ORIGINAL: We sure will Tooks!
 	3b595ea3-ed30-4eda-affc-5c3c91d6f24a = 把它带回家吧!
 
 	//3368. ORIGINAL: For $49.99 who'd resist? Call now!
-	ade87393-e60f-4677-a43a-8ed67a311547 = 把它带回家吧! 只需$49.99元，谁会抗拒?
+	ade87393-e60f-4677-a43a-8ed67a311547 = 把它带回家吧! 只需49.99美元，谁会抗拒?
 
 	//3369. ORIGINAL: You're back with the Cook Show!
 	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = 您已经回到了厨艺秀!
@@ -10291,7 +10291,7 @@
 	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = 如果想要简单...
 
 	//3427. ORIGINAL: ...standing in line at Spiffos' or sittin' in Pizza Whirled.
-	9b784828-ffa8-4735-bfb5-7c220501b804 = 可以去吃斯皮福快餐或是回旋披萨.
+	9b784828-ffa8-4735-bfb5-7c220501b804 = 可以去吃斯皮福餐厅或是回旋披萨.
 
 	//3428. ORIGINAL: Now I love a BLT.
 	7ec30333-076d-490e-a761-fed0cdfe33d9 = 但我选择BLT.
@@ -11449,13 +11449,13 @@
 	ba963645-bbdd-449d-bd70-62a26ccbdc4d = 您正在收看问答节目!
 
 	//3813. ORIGINAL: Paul, you're on $2000 dollars! Well done!
-	c0402817-3eb0-46ca-b709-64ae6638e745 = 保罗, 你赢得了$2000元! 干得好!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = 保罗, 你赢得了2000美元! 干得好!
 
 	//3814. ORIGINAL: Thanks so much Daniel. I'm having the time of me life!
 	1a925f13-ab5c-4a98-befa-82d93bb9f4b2 = 非常感谢丹尼尔. 我正在享受我生命中最美好的时光!
 
 	//3815. ORIGINAL: For $3000: your answer is 'Newcastle'
-	d7e9480d-695c-4dd1-92af-ad2ec640d201 = $3000元: 你的答案是 '纽卡斯尔'.
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = 3000美元: 你的答案是 '纽卡斯尔'.
 
 	//3816. ORIGINAL: You have three attempts remaining.
 	de1c72f2-b53c-407f-84d0-b017a83eaa52 = 你有三次回答的机会.
@@ -11476,7 +11476,7 @@
 	393db48b-0320-425f-949e-8aa80b265cf5 = '乔德人指的是英国的哪里人?'.
 
 	//3822. ORIGINAL: Paul! Amazing! $3000!
-	2bc11e60-794a-4b09-b590-903b281d5825 = 保罗! 太棒了! $3000!
+	2bc11e60-794a-4b09-b590-903b281d5825 = 保罗! 太棒了! 3000美元!
 
 	//3823. ORIGINAL: Aye! I kennay believe this like!
 	be9bfd66-020d-450f-be71-80096609834d = 啊耶! 我真不敢相信这是真的!
@@ -11551,13 +11551,13 @@
 	5386f3fd-fce6-463e-b5a0-18935cca75bb = <噗滋> 地狱之夜.
 
 	//3847. ORIGINAL: Robert Johnson, you're on $1000 dollars! Well done!
-	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = 罗伯特·约翰逊, 你现在有$1000元! 干得好!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = 罗伯特·约翰逊, 你现在有1000美元! 干得好!
 
 	//3848. ORIGINAL: Thank you Daniel. It is an honor to be here.
 	165a3d5b-84e7-4974-85d6-ae1d1b751f3f = 谢谢你丹尼尔. 很荣幸来到这里.
 
 	//3849. ORIGINAL: For $2000: your answer is 'A fish pie'.
-	dd584987-f6b0-436f-b9f0-8197a19c5734 = $2000元: 你的答案是 '鱼馅饼'.
+	dd584987-f6b0-436f-b9f0-8197a19c5734 = 2000美元: 你的答案是 '鱼馅饼'.
 
 	//3850. ORIGINAL: Bof. I think maybe... 'What is a bad pie?'
 	64fd355d-9c72-41a7-b048-2187c1e402e1 = 博夫. 我想也许... '什么是评价最差的馅饼?'.
@@ -11854,7 +11854,7 @@
 	6cb711ba-f180-45b2-87d6-e73cb26beb55 = 欢迎收看奇幻林地!
 
 	//3948. ORIGINAL: Sponsored by Spiffos?!
-	9233196b-97dc-4fd9-804c-f45715875d4d = 本系列由斯皮福快餐?!赞助.
+	9233196b-97dc-4fd9-804c-f45715875d4d = 本系列由斯皮福餐厅?!赞助.
 
 	//3949. ORIGINAL: Hi there Spiffo! Who's your little friend?
 	b8feed00-3e07-412c-bc23-390ca80efe8b = 嗨, 浣熊斯皮福! 谁是你的好朋友?
@@ -11929,7 +11929,7 @@
 	774fcd1e-298b-454a-95cd-bc7f55099ae0 = 你必须等待轮到你.
 
 	//3973. ORIGINAL: Nanny Bunny will be cross!
-	0387efbb-fb54-49ab-b4c5-ac54d5a09003 = 否则保姆兔兔会生气!
+	0387efbb-fb54-49ab-b4c5-ac54d5a09003 = 否则兔子保姆会生气!
 
 	//3974. ORIGINAL: No! I won't wait my turn!
 	36d70f3c-4f53-45bd-b7ac-0ec71b203da4 = 不, 我等不及了!
@@ -12073,7 +12073,7 @@
 	f823121d-46e9-431c-9b2b-909165ccf37b = 这东西是真是超高科技.
 
 	//4021. ORIGINAL: $1999 for perfect home computing, for life.
-	0e2ee878-cb0d-4eeb-a944-35630cf6e0a5 = $1999元购买这台完美的家用电脑, 终身保固.
+	0e2ee878-cb0d-4eeb-a944-35630cf6e0a5 = 1999美元购买这台完美的家用电脑, 终身保固.
 
 	//4022. ORIGINAL: Sign me up! Call now folks!
 	05b26a6c-d5b2-43cb-ba5c-f8e27adc5748 = 现在就播打电话订购吧!
@@ -12094,7 +12094,7 @@
 	a547324a-349a-49f1-8a67-46b233f7211b = 不行! 这是我的溜滑梯!
 
 	//4028. ORIGINAL: But Nanny Bunny says that we must share!
-	030d3dae-c15c-44e7-a813-75b2b9220dac = 但是保姆兔兔说要分享快乐!
+	030d3dae-c15c-44e7-a813-75b2b9220dac = 但是兔子保姆说要分享快乐!
 
 	//4029. ORIGINAL: It is MY slide!
 	207e7b28-0497-4b2c-abf6-2dc9147584e4 = 这-是-我-的-溜-滑-梯!
@@ -12112,13 +12112,13 @@
 	42a22b57-c4d6-4389-8005-056aaae14c34 = 你想玩跷跷板吗?
 
 	//4034. ORIGINAL: Yes Nanny Bunny, I would.
-	c7073307-8f89-475f-9b01-7a359d18971c = 是的保姆兔兔, 我想玩.
+	c7073307-8f89-475f-9b01-7a359d18971c = 是的兔子保姆, 我想玩.
 
 	//4035. ORIGINAL: And Zachary, would you like to play on the see-saw.
 	9bfd3e27-abd6-4ac7-bc3b-36e99b021efe = 那么扎卡里, 你想玩跷跷板吗?
 
 	//4036. ORIGINAL: Yes Nanny Bunny.
-	95d2db54-b082-4867-a06b-f944b1e530ee = 是的, 保姆兔兔.
+	95d2db54-b082-4867-a06b-f944b1e530ee = 是的, 兔子保姆.
 
 	//4037. ORIGINAL: The see-saw lets you play... together!
 	f6f022f4-02c4-4087-b663-3e35d6a33dd9 = 你们可以一起玩跷跷板!
@@ -12142,10 +12142,10 @@
 	51738f11-f7a3-4891-95af-d507bb9c9549 = 今天有什么推荐的吗? 当然有了!
 
 	//4044. ORIGINAL: This steam cooker? $45.99.
-	f80b3fc0-508a-4fd7-b2a3-873f36f2e47a = 这个蒸气锅? $45.99元.
+	f80b3fc0-508a-4fd7-b2a3-873f36f2e47a = 这个蒸气锅? 45.99美元.
 
 	//4045. ORIGINAL: That elegant swiss fondue set? ￡33.99
-	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 那套优雅的瑞士锅? $33.99元.
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 那套优雅的瑞士锅? 33.99美元.
 
 	//4046. ORIGINAL: BARGAINS! BARGAINS! CRAAA-ZY BARGAINS!
 	dd5c5ab6-4aa9-467c-9a5d-753fc42a6c89 = 便宜货! 便宜货! 疯-狂的便宜货!
@@ -12160,7 +12160,7 @@
 	7c2eb83a-ab50-4791-82ac-70dec175ddcc = 但是我在乎你今天什么时候会打电话来...
 
 	//4050. ORIGINAL: ...for this electric carving knife! $17.99!?
-	cd66b5ca-514d-4f40-9a22-4b326ff665a0 = 这把电动雕刻刀! 只要$17.99元!?
+	cd66b5ca-514d-4f40-9a22-4b326ff665a0 = 这把电动雕刻刀! 只要17.99美元!?
 
 	//4051. ORIGINAL: Is he mad? No!
 	1d5cbade-26bf-422b-bdb4-0eed83f80101 = 我疯了吗? 不!
@@ -12193,7 +12193,7 @@
 	3170e602-4bdc-467d-9ef1-443a8002f783 = 你不能拿走它! 那是我的!
 
 	//4061. ORIGINAL: Nanny Bunny!
-	e7468947-a90b-41c9-991d-6fbb09107916 = 保姆兔兔!
+	e7468947-a90b-41c9-991d-6fbb09107916 = 兔子保姆!
 
 	//4062. ORIGINAL: You do your dinosaur puzzle... together.
 	69e101b0-afae-4c42-9eb8-89a9b999b282 = 把你做的恐龙拼图... 合并在一起.
@@ -12208,7 +12208,7 @@
 	2a1f5c48-6dd5-4d4d-a5b2-132b64b81a9a = 那么, 这样不是更好吗?
 
 	//4066. ORIGINAL: Yes Nanny Bunny!
-	4a998fe6-7e41-4ab9-905c-1267d3f12831 = 是的, 保姆兔兔!
+	4a998fe6-7e41-4ab9-905c-1267d3f12831 = 是的, 兔子保姆!
 
 	//4067. ORIGINAL: WELCOME MODERATORS. YOU AWAKE IN CHAINS!
 	46a892b9-7380-456f-abcc-e431843c72d0 = 欢迎回来, 主教!
@@ -12316,7 +12316,7 @@
 	e0130246-7efd-4158-96ad-b8f11c9d5319 = 这多少钱呢?
 
 	//4102. ORIGINAL: Just $18.99 plus postage and packing...
-	1a6d70a6-dd1e-419f-b7ca-7411b538c02a = 只要$18.99元, 加上邮费和包装费...
+	1a6d70a6-dd1e-419f-b7ca-7411b538c02a = 只要18.99美元, 加上邮费和包装费...
 
 	//4103. ORIGINAL: ... for ten.
 	a3fe2986-a843-45fc-8710-4971ee186e47 = 只有10个.
@@ -12466,7 +12466,7 @@
 	4535c47d-31c1-4ca9-b262-fddcb6ed6114 = 我听说过这个! 这是...
 
 	//4152. ORIGINAL: It's Turbo To Town!
-	029d376c-7923-4117-90b0-ffd92909313d = 这是《涡轮进城》!
+	029d376c-7923-4117-90b0-ffd92909313d = 这是"涡轮进城"!
 
 	//4153. ORIGINAL: The family board game about getting to work on time!
 	5a47a944-993e-421c-ba5c-5db80970d43b = 关于准时上班的家庭游戏!
@@ -12481,7 +12481,7 @@
 	c9ac1721-cc0a-4da5-9b15-5050ebd7e1de = 当我掷骰子的时候... 这多少钱?
 
 	//4157. ORIGINAL: $15.99, plus postage and packing?
-	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = $15.99元, 加上邮费和包装费.
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15.99美元, 加上邮费和包装费.
 
 	//4158. ORIGINAL: I rolled a six!
 	54c89282-9d4b-4266-92e3-d1790fbfef88 = 我掷出了6!
@@ -12493,7 +12493,7 @@
 	c3ce07cd-e463-4998-9fbb-389dca97c9e5 = 真是太爽了!
 
 	//4161. ORIGINAL: That was worth $15.99 plus postage and packing, in one roll!
-	9979d19e-c400-4767-8406-2a4b2a96474b = 划算的$15.99元, 加上邮费和包装费!
+	9979d19e-c400-4767-8406-2a4b2a96474b = 划算的15.99美元, 加上邮费和包装费!
 
 	//4162. ORIGINAL: Man, I LOVE THIS!
 	5e88686b-3fbe-47fa-a2fc-5fc4f3dba2bb = 伙计, 我-喜-欢-这-个-!
@@ -13396,7 +13396,7 @@
 	93ab9c85-17a9-4094-adce-4e09d0584a7e = 值得信任的人.
 
 	//4462. ORIGINAL: At Fossoil we understand that.
-	f194e606-ffe3-4b8d-b42d-ef43eb15fa5a = 在Fossoil, 我们理解这一点.
+	f194e606-ffe3-4b8d-b42d-ef43eb15fa5a = 在福斯石油, 我们理解这一点.
 
 	//4463. ORIGINAL: We've cleaned up the Gulf of Alaska.
 	e22a11be-41c4-439f-bac1-52dc3cce813c = 我们已经清理了阿拉斯加湾.
@@ -13585,22 +13585,22 @@
 	e9b81ec2-c7cd-4e8e-9012-e47e5ff8906c = 我们在这里为您提供支持.
 
 	//4525. ORIGINAL: Pharmahug: your health...
-	20148f77-4a55-4358-abab-b4eedf032963 = Pharmahug: 您的健康...
+	20148f77-4a55-4358-abab-b4eedf032963 = 药店: 您的健康...
 
 	//4526. ORIGINAL: ... your store.
 	fc434162-3415-4d37-aadc-86817edd12e7 = 您的商店.
 
 	//4527. ORIGINAL: Thanks for asking family doctors to recommend: Incontileve
-	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 感谢家庭医生们的推荐: Incontileve.
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 感谢家庭医生们的推荐: 失控制药.
 
 	//4528. ORIGINAL: Ask your doctor today!
 	9321a6af-16e3-426a-96a9-2a0d5c3274a0 = 现在就咨询您的医生吧.
 
 	//4529. ORIGINAL: "I'm Tooks Bear! Let's go on an adventure!"
-	0b529010-9da0-472f-a28d-3503859b308e = "我是Tooks熊! 让我们开始冒险吧!"
+	0b529010-9da0-472f-a28d-3503859b308e = "我是图克熊! 让我们开始冒险吧!"
 
 	//4530. ORIGINAL: We sure will Tooks! For $49.99 who'd resist?
-	af296a0e-f561-4f4e-9fff-ae8a65900803 = 把它带回家吧! 只需$49.99元, 谁会抗拒?
+	af296a0e-f561-4f4e-9fff-ae8a65900803 = 把它带回家吧! 只需49.99美元, 谁会抗拒?
 
 	//4531. ORIGINAL: I am a cow.
 	68b1fee8-5fd9-4166-a9ff-43331eae097d = 我是一头牛!
@@ -13819,7 +13819,7 @@
 	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = 阿里巴!
 
 	//4603. ORIGINAL: My name's Valerie Pontin, and I work for Gas to Go!
-	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = 我的名字是瓦莱丽·庞廷, 我在加油站工作!
+	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = 我的名字是瓦莱丽·庞廷, 我在途行油站工作!
 
 	//4604. ORIGINAL: Sure, we're a big name - but we know family.
 	ad5f91f7-05f5-4766-bfa0-2293f82d307c = 当然, 我们赫赫有名 - 但我们重视员工的家庭生活.
@@ -13834,10 +13834,10 @@
 	263c30c5-0783-492c-8966-73adb6ecffed = 这就是为什么我知道我的汽油是全郡最便宜的, 所以我可以高枕无忧.
 
 	//4608. ORIGINAL: Come on, join the Gas to Go family!
-	21d0bfad-29f5-4d2a-9d6f-6e482638c666 = 来吧, 加入Gas to Go的大家庭吧!
+	21d0bfad-29f5-4d2a-9d6f-6e482638c666 = 来吧, 加入途行油站的大家庭吧!
 
 	//4609. ORIGINAL: Gas to Go, a Fossoil company.
-	3209af3f-1c7f-402c-8137-fb94b69f48f5 = Gas to Go是Fossoil旗下的子公司.
+	3209af3f-1c7f-402c-8137-fb94b69f48f5 = 途行油站是福斯石油旗下的子公司.
 
 	//4610. ORIGINAL: Making amends. Working together.
 	2bba8250-c647-4fcd-a722-de25939bf987 = 弥补过错, 一起工作.
@@ -13876,6 +13876,6 @@
 	4293fc93-7971-43db-af38-06e5f65860c0 = 本地最好的律师!
 
 	//4622. ORIGINAL: Even though I do say so myself!
-	48d201d8-0325-4952-9eef-d5944239dd73 = 虽然我自己也这么说!
+	48d201d8-0325-4952-9eef-d5944239dd73 = 尽管我自己也这么说!
 
 [/Translations]
