@@ -541,7 +541,6 @@ ContextMenu_EN = {
     ContextMenu_FuelCapacity = "Item fuel capacity: ",
     ContextMenu_EnableAutodrink = "Enable Autodrink",
     ContextMenu_DisableAutodrink = "Disable Autodrink",
-    ContextMenu_DisableAutodrink = "Disable Autodrink",
 	ContextMenu_PumpFuelAmount = "Fuel Pump Amount Remaining",
     ContextMenu_TooComplicated = "Skill level too low to read",
     ContextMenu_Illiterate = "You're illiterate",

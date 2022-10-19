@@ -303,6 +303,7 @@ Tooltip_EN = {
     Tooltip_BookTitle_9 = "Master %1",
 	Tooltip_item_Watermelon = "Needs to be sliced or smashed before it can be eaten.",
 	Tooltip_item_NeedsSliced = "Needs to be sliced before addition to most recipes.",
+    -- Compass lines are currently unused since the compass item is not implemented yet.
 	Tooltip_compass_9 = "Compass heading: North.",
 	Tooltip_compass_8 = "Compass heading: Northwest.",
 	Tooltip_compass_7 = "Compass heading: West.",
