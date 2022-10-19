@@ -1,5 +1,5 @@
 UI_TH = {
-    -- Main screen (lua) :
+    -- Main screen (lua)
     UI_mainscreen_laststand = "ศึกสุดท้าย",
     UI_mainscreen_option = "ตั้งค่า",
     UI_mainscreen_debug = "ดีบั๊ก",
@@ -23,7 +23,7 @@ UI_TH = {
     UI_mainscreen_InviteFormat = "เจ้าของเซิร์เวอร์ต้องเชิญคุณ โดยใช้หน้าต่างเชิญเพื่อนในเกม\n\n%1",
     UI_mainscreen_InviteFromSteamToNoSteam = "คุณไม่ได้ใช้ Steam ไม่สามารถเข้าร่วมเซิร์ฟเวอร์ของ Steam ได้",
     UI_mainscreen_TutorialControllerWarn = "บทเรียนไม่ได้สอนเรื่องของจอยสติ๊ก <LINE> <LINE> ยังจะเริ่มอยู่ไหม?",
-    -- Main screen (lua) :
+    -- Coop screen
     UI_coopscreen_title = "สร้างเซิร์ฟเวอร์",
     UI_coopscreen_account_name = "บัญชีชื่อผู้ใช้:",
     UI_coopscreen_server_name = "ชื่อเซิร์ฟเวอร์:",
@@ -40,7 +40,7 @@ UI_TH = {
     UI_coopscreen_btn_start = "เริ่ม",
     UI_coopscreen_btn_abort = "ยกเลิก",
     UI_coopscreen_ServerWorkshopItemsCancelled = "ยกเลิกแล้ว รอสักครู่เพื่อออก",
-    -- Main screen (lua) :
+    -- Option screen (lua)
     UI_optionscreen_gameoption = "ตัวเลือก",
     UI_optionscreen_display = "หน้าจอ",
     UI_optionscreen_fullscreen = "เต็มจอ",
@@ -183,10 +183,10 @@ UI_TH = {
     UI_optionscreen_EnableLeftJoystickRadialMenu = "เปิดใช้งานเมนูแฉกรัศมีของก้านควบคุมด้านซ้ายของจอย",
     UI_ConfirmMonitorSettings_Prompt = "ต้องการใช้งานการตั้งค่านี้?",
     UI_ConfirmMonitorSettings_RevertIn = "กำลังจะยกเลิกใน %1 วินาที",
-    -- Main screen (lua) :
+    -- Map selecter (lua)
     UI_mapselecter_title = "เลือกแผนที่",
     UI_mapselecter_savename = "ชื่อเซฟ: ",
-    -- Main screen (lua) :
+    -- Map spawn region selecter
     UI_mapspawn_title = "เลือกจุดเกิด",
     UI_mapspawn_ServerSpawnPoint = "ตั้งค่าจุดเกิดเซิร์ฟเวอร์",
     UI_mapspawn_Safehouse = "เซฟเฮาส์",
@@ -194,7 +194,7 @@ UI_TH = {
     UI_mapspawn_WithPlayer2 = "กับผู้เล่น 2",
     UI_mapspawn_WithPlayer3 = "กับผู้เล่น 3",
     UI_mapspawn_WithPlayer4 = "กับผู้เล่น 4",
-    -- Main screen (lua) :
+    -- World screen (lua)
     UI_LoadGameScreen_title = "เลือกเซฟเกม",
     UI_LoadGameScreen_Mods = "ม็อด:",
     UI_LoadGameScreen_NoMods = "ไม่ได้ใช้งานม็อด",
@@ -218,7 +218,7 @@ UI_TH = {
     UI_worldscreen_SavefileUseBeta41_50 = "โปรดตรวจสอบ PZ Steam เบต้าสำหรับเวอร์ชัน 41.50",
     UI_worldscreen_SavefileNewerThanGame = "ไฟล์เซฟนี้มาจากเวอร์ชันที่ใหม่กว่าของเกม",
     UI_worldscreen_SavefileVersion = "เวอร์ชันของโลกไฟล์เซฟ: %1 <LINE> เวอร์ชันของโลกปัจจุบัน: %2",
-    -- Main screen (lua) :
+    -- login screen (lua)
     UI_loginscreen_desurakey = "รหัส Desura:",
     UI_loginscreen_username = "ชื่อผู้ใช้:",
     UI_loginscreen_purchasemethod = "วิธีการที่ซื้อ: ",
@@ -228,7 +228,7 @@ UI_TH = {
     UI_loginscreen_login = "เข้าสู่ระบบ",
     UI_loginscreen_loginfailed = "เข้าสู่ระบบล้มเหลว",
     UI_loginscreen_loginsuccess = "เข้าสู่ระบบสำเร็จ",
-    -- Main screen (lua) :
+    -- characters creation (lua)
     UI_characreation_title = "ปรับแต่งตัวละคร",
     UI_characreation_title2 = "เลือกอาชีพ และคุณลักษณะ",
     UI_characreation_forename = "ชื่อ",
@@ -256,7 +256,7 @@ UI_TH = {
     UI_characreation_clothing_bottom = "กางเกง",
     UI_characreation_clothing_footwear = "รองเท้า",
     UI_charactercreation_needpoints = "คุณต้องทำให้คุณลักษณะด้านบวก และด้านลบสมดุลกันก่อนที่จะเริ่มเล่นได้",
-    -- Main screen (lua) :
+    -- professions and Traits
     UI_prof_securityguard = "เจ้าหน้าที่รักษาความปลอดภัย",
     UI_prof_constructionworker = "คนงานก่อสร้าง",
     UI_prof_parkranger = "เจ้าหน้าที่ป่าไม้",
@@ -272,19 +272,17 @@ UI_TH = {
     UI_trait_Mechanics = "ช่างยนต์ฝึกหัด",
     UI_trait_MechanicsDesc = "มีความรู้ในการบำรุงรักษา<br>และซ่อมแซมยานพาหนะทั่วไป",
     UI_trait_axeman = "ผู้ชำนาญการใช้ขวาน",
+    UI_trait_cook = "กุ๊ก",
+    UI_prof_MetalWorker = "ช่างเชื่อมเหล็ก",
     UI_profdesc_metalworker = "สามารถนำเหล็กมาสร้างเป็นสิ่งกีดขวาง และอุปกรณ์สิ่งของต่าง ๆ ได้",
     UI_prof_Smither = "ช่างตีเหล็ก",
     UI_prof_SmitherDesc = "สามารถสร้างเตาหลอม และสร้างอุปกรณ์<br>สิ่งของต่าง ๆ จากเหล็กได้",
     UI_trait_Metalworker = "ช่างเชื่อมเหล็ก",
     UI_trait_MetalworkerDesc = "สามารถนำเหล็กมาสร้างเป็นสิ่งกีดขวาง และอุปกรณ์สิ่งของต่าง ๆ ได้",
-    UI_trait_Cook = "กุ๊ก",
-    UI_trait_cook = "กุ๊ก",
-    UI_trait_Cook2Desc = "ทำอาหารเก่ง",
     UI_trait_CookDesc = "รู้สูตรอาหารต่าง ๆ",
     UI_trait_Blacksmith = "ช่างตีเหล็ก",
     UI_trait_BlacksmithDesc = "สามารถใช้ทั่ง สร้างอุปกรณ์<br>สิ่งของต่าง ๆ จากเหล็กได้",
     UI_prof_MetalWorker = "ช่างเชื่อมเหล็ก",
-    UI_prof_Metalworker = "ช่างเชื่อมเหล็ก",
     UI_trait_axemandesc = "ความเร็วในการใช้ขวานเพิ่มขึ้น<br>เชี่ยวชาญการตัดไม้",
     UI_trait_handy = "ช่างฝีมือ",
     UI_trait_handydesc = "ก่อสร้างได้อย่างรวดเร็ว และแข็งแรง",
@@ -376,7 +374,7 @@ UI_TH = {
     UI_trait_fitdesc = "รูปร่างดี สมส่วน",
     UI_trait_obese = "อ้วน",
     UI_trait_obesedesc = "วิ่งช้า<br>เหน็ดเหนื่อยได้ง่ายมาก<br>บาดเจ็บได้ง่าย",
-    -- Main screen (lua) :
+    -- various
     UI_btn_back = "ย้อนกลับ",
     UI_btn_save = "บันทึก",
     UI_btn_next = "ต่อไป",
@@ -396,7 +394,7 @@ UI_TH = {
     UI_Medium = "กลาง",
     UI_Low = "ต่ำ",
     UI_Lowest = "ต่ำสุด",
-    -- Main screen (lua) :
+    -- Last stand selecter (lua)
     UI_challenge_title = "ท้าทาย",
     UI_challengeplayer_title = "เลือกผู้เล่น",
     UI_challengeplayer_PlayedTime = "เวลาที่เล่น : %1",
@@ -421,6 +419,8 @@ UI_TH = {
     UI_servers_username_tt = "มองเห็นโดยผู้เล่นอื่นบนเซิร์ฟเวอร์\nรวมไปถึงชื่อไฟล์เซฟ",
     UI_servers_pwd = "รหัสผ่าน:",
     UI_servers_pwd_tt = "ป้องกันผู้เล่นอื่นใช้งานชื่อนี้\nไม่จำเป็นต้องใช้รหัสผ่านที่สำคัญมาก",
+    UI_servers_connectionOptions = "ตัวเลือกการเชื่อมต่อ",
+    UI_servers_useSteamRelay = "ใช้งาน Steam Relay",
     UI_servers_erase = "ลบ",
     UI_servers_add = "เพิ่ม",
     UI_servers_quickJoin = "เข้าร่วมแบบเร็ว",
@@ -436,6 +436,9 @@ UI_TH = {
     UI_servers_err_saved_server_exists = "ชื่อเซิร์ฟเวอร์ที่จะทำการบันทึกมีอยู่แล้ว",
     UI_servers_err_version_mismatch = "เซิร์ฟเวอร์เวอร์ชั่น (%1) ไม่สามารถเข้ากับได้กับ (%2)",
     UI_servers_Connecting = "กำลังเชื่อมต่อเซิร์ฟเวอร์...",
+    UI_servers_GettingServerInfo = "กำลังรับข้อมูลเซิร์ฟเวอร์...",
+    UI_servers_UDPConnecting = "กำลังลองเชื่อมต่อโดยตรง...",
+    UI_servers_SteamConnecting = "กำลังลองเชื่อมต่อกับ Steam...",
     UI_servers_AuthPending = "กำลังขออนุญาตจาก Steam...",
     UI_servers_ConnectionPending = "กำลังเชื่อมต่อ...",
     UI_servers_ServerFailedToRespond = "เซิร์ฟเวอร์ล้มเหลวในการตอบสนอง",
@@ -463,13 +466,13 @@ UI_TH = {
     UI_servers_version = "เวอร์ชั่น : ",
     UI_servers_mods = "ม็อด : ",
     UI_servers_not_responding = "เซิร์ฟเวอร์ไม่ตอบสนอง",
-    UI_servers_Ping = "ปิง : %1",
+    UI_servers_Ping = "ค่า Ping : %1",
     UI_servers_WhitelistOn = "บัญชีรายชื่อที่ได้รับอนุญาต : เปิด",
     UI_servers_WhitelistOff = "บัญชีรายชื่อที่ได้รับอนุญาต : ปิด",
     UI_servers_ConnectionImmediately = "คิวเซิร์ฟเวอร์ว่าง กำลังเชื่อมต่อ",
     UI_servers_ApplyRequest = "โปรดทำการเชื่อมต่อกับเซิร์ฟเวอร์",
     UI_GameLoad_LoadingQueue = "คิวการเชื่อมต่อเซิร์ฟเวอร์",
-    UI_GameLoad_PlaceInQueue = "คุณอยู่ในคิวการเชื่อมต่อตำแหน่ง %d",
+    UI_GameLoad_PlaceInQueue = "คุณอยู่ในคิวการเชื่อมต่อตำแหน่งที่ %d",
     UI_chat_local = "[ในพื้นที่] ",
     UI_chat_Clear = "ล้าง",
     UI_ChestHair = "ขนหน้าอก",
@@ -482,7 +485,7 @@ UI_TH = {
     UI_Loading_Lua = "กำลังโหลด Lua",
     UI_Loading_Scripts = "กำลังโหลดสคริปต์",
     UI_Loading_Clothing = "กำลังโหลดเสื้อผ้า",
-    UI_Loading_Texturepack = "กำลังโหลดชุดพื้นผิว  %1",
+    UI_Loading_Texturepack = "กำลังโหลดชุดพื้นผิว  %1",
     UI_Loading_ModelsAnimations = "กำลังโหลดแอนิเมชัน",
     UI_optionscreen_pressKeyToBind = "กดปุ่มที่ต้องการตั้งค่าเป็น \%1\\nหรือกดปุ่มใดปุ่มหนึ่งดังนี้:",
     UI_optionscreen_keyAlreadyBinded = "ปุ่ม %1 ถูกใช้งานเป็น \%2\ อยู่แล้ว\nเลือกว่าจะทำอย่างไรกับ \%2\:",
@@ -509,6 +512,8 @@ UI_TH = {
     UI_optionscreen_CorpseShadows = "เงาของศพ",
     UI_optionscreen_AutoDrink = "ดื่มน้ำเมื่อกระหายโดยอัตโนมัติ",
     UI_optionscreen_LeaveKeyInIgnition = "ทิ้งกุญแจรถไว้ในรูกุญแจ",
+    UI_optionscreen_AutoWalkContainer = "เดินไปยังบรรจุภัณฑ์ที่คลิกโดยอัตโนมัติ"
+    UI_optionscreen_AutoWalkContainer_tt = "หากเปิดใช้งาน คุณจะเคลื่อนที่ไปยังบรรจุภัณฑ์ที่ถูกคลิกเมื่ออยู่ใกล้โดยอัตโนมัติ"
     UI_optionscreen_iso_cursor = "การมองเห็นตัวชี้ตำแหน่งของเมาส์ เมื่อคลิกขวาค้างไว้",
     UI_optionscreen_ShowCursorWhileAiming = "แสดงเมาส์ขณะเล็ง",
     UI_optionscreen_ShowCursorWhileAiming_tt = "ค่าปกติคือซ่อนเมาส์เมื่อเล็ง",
@@ -531,8 +536,8 @@ UI_TH = {
     UI_optionscreen_ShoulderButtonContainerSwitch = "ใช้ปุ่ม LR สลับช่องเก็บของ",
     UI_optionscreen_ShoulderButtonContainerSwitch1 = "ปุ่ม L: ช่องเก็บของ และปุ่ม R: สิ่งของ",
     UI_optionscreen_ShoulderButtonContainerSwitch2 = "ปุ่ม L: ขึ้น และปุ่ม R: ลง",
-    UI_optionscreen_ShoulderButtonContainerSwitch3 = "ปุ่ม L + ปุ่มทิศทาง: ช่องเก็บของ และปุ่ม R + ปุ่มทิศทาง: สิ่งของ",
-    -- Main screen (lua) :
+    UI_optionscreen_ShoulderButtonContainerSwitch3 = "ปุ่ม L + ปุ่มทิศทาง: ช่องเก็บของ และปุ่ม R + ปุ่มทิศทาง: สิ่งของ",    
+    -- key binding
     UI_optionscreen_binding_Crouch = "ย่อตัว"
     UI_optionscreen_binding_Forward = " ไปข้างหน้า",
     UI_optionscreen_binding_Backward = " ถอยหลัง",
@@ -600,9 +605,9 @@ UI_TH = {
     UI_optionscreen_binding_ToggleVehicleHeadlights = "เปิด/ปิดไฟหน้ารถ",
     UI_optionscreen_binding_VehicleHeater = "เครื่องปรับอากาศ",
     UI_optionscreen_binding_VehicleMechanics = "ข้อมูลรถ",
-    UI_optionscreen_binding_VehicleRadialMenu = "เมนูลัดของรถ",
+    UI_optionscreen_binding_VehicleRadialMenu = "เมนูแฉกรัศมีของรถ",
     UI_optionscreen_binding_VehicleSwitchSeat = "สลับเบาะนั่ง",
-    UI_optionscreen_binding_VehicleSwitchSeat = "สลับเบาะนั่ง",
+    UI_optionscreen_binding_WalkTo = "เดินไปที่นั่น",
     UI_servers_LastUpdate = "อัปเดตล่าสุด: ",
     UI_servers_Users = "ชื่อผู้ใช้: ",
     UI_servers_LogAs = "บันทึกเป็น: ",
@@ -639,7 +644,8 @@ UI_TH = {
     UI_Scoreboard_PlayerConnected = "%1 ได้เชื่อมต่อ",
     UI_Scoreboard_SteamName = "ชื่อใน Steam: %1",
     UI_Scoreboard_SteamID = "ไอดี Steam: %1",
-    UI_Ping = "ปิง: %1 ms",
+    UI_Ping = "ค่า Ping: %1 ms",
+    UI_DirectConnectionPortWarning = "คำเตือน: เซิร์ฟเวอร์ปิดพอร์ต %1 อาจส่งผลกระทบต่อประสิทธิภาพของเกมอย่างรุนแรง",
     UI_Intro1 = "วาระสุดท้ายมาถึงแล้ว",
     UI_Intro2 = "สูญสิ้นความหวังที่จะรอดชีวิต",
     UI_Intro3 = "นี่คือความตายของคุณ",
@@ -771,7 +777,7 @@ UI_TH = {
     UI_FriendState_LookingToTrade = "ต้องการแลกเปลี่ยน",
     UI_FriendState_LookingToPlay = "กำลังอยากเล่น",
     UI_FriendState_Unknown = "ไม่ทราบ",
-    -- Main screen (lua) :
+    -- Workshop
     UI_mainscreen_workshop = "เวิร์กชอป",
     UI_WorkshopSubmit_Title1 = "เลือกที่อยู่ม็อดของคุณ",
     UI_WorkshopSubmit_ContentFolder = "วางม็อดของคุณแยกตามแต่ละโฟลเดอร์ที่นี่:",
@@ -810,7 +816,7 @@ UI_TH = {
     UI_WorkshopSubmit_BtnOpenWorkshopUserOverlay = "เปิดเวิร์กชอปของฉัน",
     UI_WorkshopSubmit_BtnViewSubscriptions = "ดูเฉพาะที่สมัครไว้",
     UI_WorkshopSubmit_BtnCreateAndUpdate = "สร้าง และอัปเดตม็อด",
-    -- Main screen (lua) :
+    -- Workshop errors
     UI_WorkshopError_IOError = "เกิดข้อผิดพลาดที่ไม่คาดคิด",
     UI_WorkshopError_MissingContents = "ไม่มีโฟลเดอร์ Contents/ ในแฟ้มที่คุณเลือก\nทุกไฟล์ และโฟลเดอร์ที่จะอัปโหลดจะต้องอยู่ในโฟลเดอร์ Contents/",
     UI_WorkshopError_FolderNotAllowedInContents = "มีโฟลเดอร์ที่ไม่รู้จักใน Contents/ \nเฉพาะโฟลเดอร์ต่อไปนี้เท่านั้นได้รับอนุญาตให้อยู่ใน Contents/:\n%1",
@@ -827,7 +833,7 @@ UI_TH = {
     UI_WorkshopError_PreviewFileSize = "ไฟล์ preview.png ต้องมีขนาดไม่เกิน 1000 KB",
     UI_WorkshopError_PreviewDimensions = "ไฟล์ preview.png ต้องมีขนาดความกว้างคูณยาว 256x256 พิกเซล",
     UI_WorkshopError_PreviewFormat = "ไม่สามารถอ่านไฟล์ preview.png ได้\nดูเหมือนว่ารูปแบบไฟล์จะไม่ถูกต้อง",
-    -- Main screen (lua) :
+    -- Workshop server items
     UI_ServerWorkshopItemScreen_Title = "รายการเวิร์กชอปของเซิร์ฟเวอร์",
     UI_ServerWorkshopItemScreen_Prompt = "เซิร์ฟเวอร์ที่คุณเข้าต้องการรายการเหล่านี้จากเวิร์กชอป:",
     UI_ServerWorkshopItemScreen_Error = "พบข้อผิดพลาด: %1",
@@ -847,7 +853,7 @@ UI_TH = {
     UI_WorkshopServerItemState_Error = "พบข้อผิดพลาด",
     UI_trait_Herbalist = "ผู้เชี่ยวชาญด้านสมุนไพร",
     UI_trait_HerbalistDesc = "สามารถค้นหาสมุนไพร<br>สร้างยารักษาโรค และยาพอกได้",
-    -- Main screen (lua) :
+    -- Controller test panel
     UI_ControllerTest_Combo = "ทดสอบจอยสติ๊ก:",
     UI_ControllerTest_Axis = "Axis %1:",
     UI_ControllerTest_Buttons = "ปุ่ม:",
@@ -924,7 +930,7 @@ UI_TH = {
     UI_OnConnectFailed_CreateQueryUGCDetailsRequest = "ผิดพลาดในการรับข้อมูลจากเวิร์กช็อป",
     UI_OnConnectFailed_ModRequired = "ม็อด %1 ยังไม่ได้ติดตั้ง",
     UI_OnConnectFailed_QueueNotFound = "ไม่พบคิวการเชื่อมต่อ ไม่สามารถลงทะเบียนไคลเอ็นต์ได้",
-    UI_OnConnectFailed_Ping = "ค่าปิงของคุณสูงเกินไปสำหรับการเชื่อมต่อกับเซิร์ฟเวอร์นี้",
+    UI_OnConnectFailed_Ping = "ค่า Ping ของคุณสูงเกินไปสำหรับการเชื่อมต่อกับเซิร์ฟเวอร์นี้",
     --
     UI_ValidationFailed_Type1 = "ตรวจพบแพ็กเก็ตที่มีรูปแบบไม่ถูกต้อง ประเภทที่ 1",
     UI_ValidationFailed_Type2 = "ตรวจพบแพ็กเก็ตที่มีรูปแบบไม่ถูกต้อง ประเภทที่ 2",
@@ -960,7 +966,7 @@ UI_TH = {
     UI_GameLoad_MapDownloadFailed = "ล้มเหลวในการโหลดแผนที่จากเซิร์ฟเวอร์",
     UI_GameLoad_KickChecksum = "คุณถูกเตะออกจากเซิร์ฟเวอร์ เพราะไฟล์เกมของคุณไม่ตรงกับของเซิร์ฟเวอร์",
     UI_GameLoad_TimedOut = "รอคอยการตอบสนองจากเซิร์ฟเวอร์นานเกินไป",
-    -- Main screen (lua) :
+    -- Server Settings Editor
     UI_ServerSettings_Title1 = "การตั้งค่าเซิร์ฟเวอร์",
     UI_ServerSettings_Title2 = "ตั้งค่าใหม่",
     UI_ServerSettings_Title3 = "แก้ไขการตั้งค่า: %1",
@@ -1002,7 +1008,7 @@ UI_TH = {
     UI_ServerSettings_ButtonMoveUp_tooltip = "แผนที่ด้านบนของรายการมีลำดับความสำคัญสูงกว่าแผนที่ด้านล่าง หากสองแผนที่มีการทับซ้อนกันในโลกของเกม พื้นที่ของแผนที่ที่มีลำดับความสำคัญสูงกว่าจะถูกใช้งาน",
     UI_ServerSettings_ButtonMoveDown = "เลื่อนลง",
     UI_ServerSettings_ButtonRemove = "ลบ",
-    -- Main screen (lua) :
+    -- Edit SpawnPoints File
     UI_ServerSettings_ListOfSpawnProfessions = "อาชีพ:",
     UI_ServerSettings_ListOfSpawnPoints = "จุดเกิดสำหรับอาชีพที่เลือก:",
     UI_ServerSettings_AddSpawnProfession = "เพิ่มอาชีพ:",
@@ -1012,7 +1018,7 @@ UI_TH = {
     UI_ServerSettings_AddSpawnPoint = "เพิ่มจุดเกิด:",
     UI_ServerSettings_AddSpawnPoint_tooltip = "พิมพ์พิกัดโลกด้วยระนาบ x,y,z แล้วกด Enter",
     UI_ServerSettings_UnemployedRequired = "ต้องมีจุดเกิดอย่างน้อยหนึ่งจุดสำหรับอาชีพว่างงาน โดยจะใช้เป็นค่าเริ่มต้นเมื่ออาชีพของผู้เล่นไม่อยู่ในรายการ อาชีพอื่นในรายการจะต้องมีจุดเกิดอย่างน้อยหนึ่งจุด",
-    -- Main screen (lua) :
+    -- INI Setting Groups
     UI_ServerSettingGroup_Backups = "สำรองข้อมูล",
     UI_ServerSettingGroup_Details = "ข้อมูล",
     UI_ServerSettingGroup_Steam = "Steam",
@@ -1034,17 +1040,17 @@ UI_TH = {
     UI_ServerSettingGroup_Other = "อื่น ๆ",
     UI_ServerSettingGroup_Vehicles = "ยานพาหนะ",
     UI_ServerSettingGroup_Voice = "การพูดคุย",
-    -- Main screen (lua) :
+    -- Spawn Regions
     UI_ServerSettings_ButtonAddRegion = "เพิ่มพื้นที่",
     UI_ServerSettings_ButtonRemoveRegion = "ลบพื้นที่",
     UI_ServerSettings_ButtonEditRegion = "แก้ไขไฟล์",
     UI_ServerSettings_ButtonEditRegion_tooltip1 = "ไฟล์ใน media/maps/ หรือโฟลเดอร์อื่น ๆ อาจไม่สามารถแก้ไขได้",
     UI_ServerSettings_ButtonEditRegion_tooltip2 = "ชื่อไฟล์ต้องลงท้ายด้วย "spawnpoints.lua".",
-    -- Main screen (lua) :
+    -- Sandbox Presets
     UI_ServerSettingsGroup_SandboxPresets = "การตั้งค่าที่มี",
     UI_ServerSettings_ListOfPresets = "รายการ:",
     UI_ServerSettings_ButtonApplyPreset = "ใช้งาน",
-    -- Main screen (lua) :
+    -- Server Option Tooltips
     UI_ServerOption_PlayerBumpPlayer_tooltip = "ผู้เล่นสามารถกระแทก (และล้มทับ) ผู้เล่นคนอื่นเมื่อวิ่งชน",
     UI_ServerOption_DefaultPort_tooltip = "พอร์ตเริ่มต้นเริ่มต้นสำหรับข้อมูลผู้เล่น นี่เป็นหนึ่งในสองพอร์ตที่ใช้สำหรับ UDP",
     UI_ServerOption_PublicName_tooltip = "ชื่อของเซิร์ฟเวอร์ที่แสดงในเบราว์เซอร์ในเกมและเบราว์เซอร์ Steam (หากใช้ได้)"
@@ -1069,6 +1075,7 @@ UI_TH = {
     UI_ServerOption_DiscordChannelID_tooltip = "ไอดีช่อง Discord (ใช้งานเมื่อพบปัญหากับตัวเลือกชื่อช่อง Discord)",
     UI_ServerOption_WorkshopItems_tooltip = "ระบุไอดีม็อดในเวิร์กชอปเพื่อให้เซิร์ฟเวอร์ดาวน์โหลด ต้องคั่นม็อดแต่ละรายการด้วยเครื่องหมายอัฒภาค ตัวอย่าง: WorkshopItems=514427485;513111049",
     UI_ServerOption_SteamVAC_tooltip = "เปิดใช้งานระบบ Steam Valve Anti-Cheat (VAC)",
+    UI_ServerOption_SendBufferSize_tooltip  = "ขนาดบัฟเฟอร์ Steam Network (ใช้งานเมื่อมีข้อผิดพลาด RakNetSendTo)",
     UI_ServerOption_ResetID_tooltip = "Reset ID เป็นตัวกำหนดว่าเซิร์ฟเวอร์ผ่านการซอฟต์รีเซ็ตหรือไม่ หากหมายเลขนี้ตรงกับไคลเอ็นต์ ฝั่งไคลเอ็นต์จะต้องสร้างตัวละครใหม่ ใช้ร่วมกับ PlayerServerID แนะนำให้คุณสำรองไอดีเหล่านี้ไว้ด้วย",
     UI_ServerOption_MaxAccountsPerUser_tooltip = "จำกัดจำนวนบัญชีที่ผู้ใช้ Steam หนึ่งคนสามารถสร้างได้บนเซิร์ฟเวอร์นี้ ละเว้นเมื่อใช้ปุ่มโฮสต์",
     UI_ServerOption_SpawnPoint_tooltip = "บังคับให้ผู้เล่นใหม่ทุกคนเกิดที่ตำแหน่ง x,y,z ในพิกัดโลกเหล่านี้ ค้นหาพิกัดที่ต้องการได้ที่ map.projectzomboid.com (ละเว้นหากค่าเป็น 0,0,0)",
@@ -1237,14 +1244,13 @@ UI_TH = {
     UI_ServerOptionDesc_ReloadLua = "โหลดสคริปต์ Lua ในเซิร์ฟเวอร์ใหม่อีกครั้ง ใช้คำสั่ง: /reloadlua "ชื่อไฟล์"",
     UI_ServerOptionDesc_Connections = "แสดงข้อมูลเกี่ยวกับการเชื่อมต่อทั้งหมด",
     UI_ServerOptionDesc_TeleportTo = "เทเลพอร์ตไปยังพิกัด ใช้คำสั่ง: /teleportto x,y,z ตัวอย่าง /teleportto 10000,11000,0",
-    UI_ServerOptionDesc_SetAccessLevel = "ตั้งค่าระดับการเข้าถึงของผู้เล่น ระดับปัจจุบัน: Admin, Moderator, Overseer, GM, Observer ใช้คำสั่ง: /setaccesslevel "ชื่อผู้ใช้" "ระดับการเข้าถึงสิทธิ์" ตัวอย่าง /setaccesslevel "DaengGuitar" "moderator",
-    UI_ServerOptionDesc_ChangePwd = "เปลี่ยนรหัสผ่านของคุณ ใช้คำสั่ง: /changepwd "รหัสผ่านก่อนหน้า" "รหัสผ่านใหม่",
+    UI_ServerOptionDesc_SetAccessLevel = "ตั้งค่าระดับการเข้าถึงของผู้เล่น ระดับปัจจุบัน: Admin, Moderator, Overseer, GM, Observer ใช้คำสั่ง: /setaccesslevel "ชื่อผู้ใช้" "ระดับการเข้าถึงสิทธิ์" ตัวอย่าง /setaccesslevel "DaengGuitar" "moderator"",
+    UI_ServerOptionDesc_ChangePwd = "เปลี่ยนรหัสผ่านของคุณ ใช้คำสั่ง: /changepwd "รหัสผ่านก่อนหน้า" "รหัสผ่านใหม่"",
     UI_ServerOptionDesc_Roll = "หากคุณมีลูกเต๋า คุณสามารถทอยสุ่มตัวเลขได้มากถึง 100 ใช้คำสั่ง: /roll 6",
     UI_ServerOptionDesc_Card = "ถ้าคุณมีสำรับไพ่ คุณสามารถสุ่มจั่วการ์ดได้ ใช้คำสั่ง: /card",
     UI_ServerOptionDesc_VoiceBan = "ปิดกั้นเสียงจากผู้ใช้ "ชื่อผู้ใช้" ใช้คำสั่ง: /voiceban "ชื่อผู้ใช้" -value ตัวอย่าง /voiceban "Prayut" -true (หรือ -false)",
     UI_ServerOptionDesc_Help = "ช่วยเหลือ",
     UI_ServerOptionDesc_SafeHouse = "ปล่อยเซฟเฮาส์ที่คุณเป็นเจ้าของ ใช้คำสั่ง: /releasesafehouse",
-    UI_ServerOptionDesc_Replay = "บันทึกและเล่นซ้ำผู้เล่นที่กำลังเคลื่อนที่ ใช้คำสั่ง /replay "ชื่อผู้เล่น" -record|-play|-stop filename ตัวอย่าง: /replay user1 -record stadion.bin",
     UI_ServerOptionDesc_Replay = "บันทึกและเล่นรีเพลย์สำหรับผู้เล่นที่กำลังเคลื่อนที่ ใช้คำสั่ง: /replay "ชื่อผู้เล่น" -record|-play|-stop filename ตัวอย่าง: /replay user1 -record stadion.bin",
     UI_ServerOptionDesc_SetLogLevel = "ตั้งค่าระดับบันทึก ใช้ /log %1 %2",
     UI_ServerOptionDesc_SetStatisticsPeriod = "ตั้งค่าและล้างสถิติเซิร์ฟเวอร์ ใช้ /stats none|file|console|all periods ตัวอย่าง /stats file 10",
@@ -1257,7 +1263,9 @@ UI_TH = {
     UI_userpanel_factionpanel = "กลุ่ม",
     UI_mainscreen_userpanel = "ผู้ใช้งาน",
     UI_PPT_Key = "ปุ่มกดเพื่อพูดคุย: %1",
-    UI_optionscreen_objHighlightColor = "สีของศพ หรือตู้เก็บของที่ถูกเลือก",
+    UI_optionscreen_objHighlightColor = "สีของศพ หรือบรรจุภัณฑ์ที่ถูกเลือก",
+    UI_optionscreen_goodHighlightColor = "สีไฮไลต์ 'ดี'",
+    UI_optionscreen_badHighlightColor = "สีไฮไลต์ 'แย่'",
     UI_userpanel_tickets = "ทิกเก็ต",
     UI_Scoreboard_TeleportToYou = "เทเลพอร์ตมาหาฉัน",
     UI_TradingUIHelp = " <CENTRE> <SIZE:medium> นี่คือหน้าต่างการแลกเปลี่ยนระหว่างผู้เล่น <LINE> <LINE> <SIZE:small> <LEFT> คุณต้องลากสิ่งของจากช่องเก็บของของคุณ ไปยังช่องข้อเสนอของคุณ เพื่อเพิ่มเข้าไปยังรายการแลกเปลี่ยน สิ่งของที่อยู่บนพื้น หรือในกระเป๋าไม่สามารถเพิ่มลงไปได้ <LINE> <LINE> เมื่อคุณพร้อมที่จะแลกเปลี่ยน ให้เช็คถูกที่ช่องยืนยันข้อเสนอ <LINE> เมื่อผู้เล่นทั้งคู่ทำการยืนยันแล้ว ให้คลิกตอบรับข้อเสนอ เพื่อทำการแลกเปลี่ยน <LINE> <LINE> หลังจากที่คุณยืนยันข้อเสนอแล้ว หากผู้เล่นอื่นแก้ไขข้อเสนอของเขา คุณต้องทำการยืนยันอีกครั้ง",
@@ -1297,7 +1305,7 @@ UI_TH = {
     UI_NewGame_OneWeekLater = "หนึ่งสัปดาห์ถัดมา",
     UI_NewGame_OneWeekLaterMore = " - สำหรับผู้เล่นที่ต้องการความผ่อนคลาย",
     UI_NewGame_SixMonthsMore = " - สำหรับผู้เล่นที่ต้องการความท้าทาย",
-    -- Main screen (lua) :
+    -- Chat system
     UI_chat_main_tab_title_id = "ทั่วไป",
     UI_chat_faction_tab_title_id = "กลุ่ม",
     UI_chat_safehouse_tab_title_id = "เซฟเฮาส์",
@@ -1426,6 +1434,14 @@ UI_TH = {
     "<CENTRE> อาจมีบั๊กและปัญหาเรื่องความสมดุล การอัปเดตเพื่อเพิ่มประสิทธิภาพอยู่ในระหว่างดำเนินการ <LINE><LINE> " ..
     "<CENTRE> คุณสมบัติบางประการถูกปิดใช้งานชั่วคราว <LINE><LINE> " ..
     "<CENTRE> หากคุณพบเจอปัญหา: อย่าหัวร้อน ขอเชิญเข้ามามีส่วนร่วมกับเรา แจ้งให้เราทราบที่กระดานสนทนาของเรา",
+    UI_TermsOfService_Title = "ข้อกำหนดในการให้บริการ และประกาศนโยบายความเป็นส่วนตัว",
+    UI_TermsOfService_Prompt1 = "สวัสดีผู้รอดชีวิต! ก่อนที่คุณจะติดเชื้อ... <BR> คลิกยอมรับหากคุณเห็นด้วยกับข้อกำหนดในการให้บริการและยอมรับนโยบายความเป็นส่วนตัวของเรา",
+    UI_TermsOfService_Prompt2 = "[การคลิกที่ปุ่มเหล่านี้จะเปิดหน้าเว็บในเบราว์เซอร์ของคุณ]",
+    UI_TermsOfService_Button1 = "ดูข้อกำหนดในการให้บริการ",
+    UI_TermsOfService_Button2 = "ดูนโยบายความเป็นส่วนตัว",
+    UI_TermsOfService_ButtonAccept = "ยอมรับ",
+    UI_TermsOfService_ButtonQuit = "ออก",
+    UI_TermsOfService_MainMenu = "ข้อตกลงทางกฎหมาย",
     UI_optionscreen_binding_Hotbar 1 = "ปุ่มลัดช่องที่ 1",
     UI_optionscreen_binding_Hotbar 2 = "ปุ่มลัดช่องที่ 2",
     UI_optionscreen_binding_Hotbar 3 = "ปุ่มลัดช่องที่ 3",
@@ -1500,4 +1516,5 @@ UI_TH = {
     UI_ServerOption_AntiCheatProtectionType15ThresholdMultiplier_tooltip = "ตัวคูณค่าเกณฑ์สำหรับการป้องกันการโกง: ประเภทที่ 15",
     UI_ServerOption_AntiCheatProtectionType20ThresholdMultiplier_tooltip = "ตัวคูณค่าเกณฑ์สำหรับการป้องกันการโกง: ประเภทที่ 20",
     UI_ServerOption_MapRemotePlayerVisibility_tooltip = "กำหนดการแสดงผู้เล่นระยะไกลบนแผนที่ในเกม\n1=ไม่แสดง 2=เพื่อนเท่านั้น 3=ทุกคน",
+    UI_ServerOptionDesc_CheckModsNeedUpdate = "ระบุว่าม็อดได้รับการอัปเดตแล้วใช่หรือไม่ เขียนคำตอบไปยังไฟล์บันทึก",
 }
