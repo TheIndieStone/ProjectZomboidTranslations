@@ -16,7 +16,7 @@ IGUI_CN = {
 	IGUI_invpanel_Melting = "融化",
 	IGUI_invpanel_FreezingTime = "冷冻时间",
 	IGUI_invpanel_Inspect = "检查",
-	IGUI_invpanel_weight = "重量",
+	IGUI_invpanel_weight = "负重",
 	IGUI_invpanel_ascending = "升序",
 	IGUI_invpanel_descending = "降序",
 	-- InventoryPage
