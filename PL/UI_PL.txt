@@ -1477,7 +1477,7 @@ UI_PL = {
 	UI_servers_connectionOptions = "Opcje połączenia",
     UI_servers_useSteamRelay = "Korzystaj ze Steam Relay",
 	UI_optionscreen_AutoWalkContainer = "Automatyczne podejście do klikniętego pojemnika"
-    UI_optionscreen_AutoWalkContainer_tt "Jeśli opcja jest włączona, postać automatycznie podejdzie do klikniętego pojemnika, jeśli jest dostatecznie blisko."
+    UI_optionscreen_AutoWalkContainer_tt = "Jeśli opcja jest włączona, postać automatycznie podejdzie do klikniętego pojemnika, jeśli jest dostatecznie blisko."
 	UI_optionscreen_binding_WalkTo = "Podejdź tu",
 	UI_optionscreen_goodHighlightColor = "'Pozytywny' kolor podświetlenia",
     UI_optionscreen_badHighlightColor = "'Negatywny' kolor podświetlenia",
