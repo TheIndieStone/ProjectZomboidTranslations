@@ -644,4 +644,12 @@ Sandbox_CN = {
     Sandbox_LightBulbLifespan = "灯泡寿命",
     Sandbox_LightBulbLifespan_tooltip = "数值越高,灯泡在损坏前持续的时间越长<br>如果是0,灯泡将永远不会坏<br>不会影响车辆灯",
 	
+	
+	Sandbox_ZDecomposition = "腐烂",
+    Sandbox_ZDecomposition_tooltip = "随时间推移的弱化效果.",
+    Sandbox_ZDecomposition_option1 = "减速+弱化",
+    Sandbox_ZDecomposition_option2 = "减速",
+    Sandbox_ZDecomposition_option3 = "弱化",
+    Sandbox_ZDecomposition_option4 = "无效果",
+	
 	}
