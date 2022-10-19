@@ -1,5 +1,5 @@
 UI_CN = {
-	-- Main screen (lua) :
+	-- Main screen (lua) 
 	UI_mainscreen_laststand = "背水一战",
 	UI_mainscreen_option = "游戏选项",
 	UI_mainscreen_debug = "DEBUG",
@@ -279,7 +279,6 @@ UI_CN = {
 	UI_prof_SmitherDesc = "可以建造石炉并加工金属.",
 	UI_trait_Metalworker = "焊工",
 	UI_trait_MetalworkerDesc = "可以焊接金属来制造物品.",
-	UI_trait_Cook = "厨师",
 	UI_trait_CookDesc = "了解烹饪食谱.",
 	UI_trait_Blacksmith = "铁匠",
 	UI_trait_BlacksmithDesc = "使用铁砧来锻造金属物品.",
