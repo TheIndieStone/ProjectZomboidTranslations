@@ -494,6 +494,9 @@ Moveables_CN = {
     Oak_Corner_Bar_Counter = "橡木酒吧转角柜台",
     Oak_Corner_Counter = "橡木转角柜台",
     Oak_Counter = "橡木柜台",
+	Oak_Left_Bar = "酒吧橡木货架(左)",
+	Oak_Middle_Bar = "酒吧橡木货架(中)",
+	Oak_Right_Bar = "酒吧橡木货架(右)",
     Oak_Round_Table = "橡木圆桌",
     Oakwood_Bench = "橡木长椅",
     Oakwood_Floor = "橡木地板",
@@ -816,9 +819,6 @@ Moveables_CN = {
 
 	--Add Text--
 
-	Oak_Left_Bar = "酒吧橡木货架(左)",
-	Oak_Middle_Bar = "酒吧橡木货架(中)",
-	Oak_Right_Bar = "酒吧橡木货架(右)",
 	Small_Animal_Trough = "小型饲料槽",
 	Victorian_2_Chair = "维多利亚式2号椅",
 	Victorian_C3_Couch = "维多利亚式C3沙发",
