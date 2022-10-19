@@ -1,4 +1,4 @@
-DynamicRadio_CN {
+DynamicRadio_CN= {
     AEBS_Intro = "<噗滋> 五零二。 <呜滋> 自动广播系统。 <噗滋>",
     AEBS_Choppah = "检测到空中活动。",
     AEBS_Power_1 = "诺克斯电网：检测到电力波动。",
@@ -32,7 +32,7 @@ DynamicRadio_CN {
     AEBS_weather_storm = "雷暴",
     AEBS_weather_tropical = "热带风暴",
     AEBS_weather_blizzard = "暴雪",
-    AEBS_weather_snowfall = "且有几率降雪。",
+    AEBS_weather_snowfall = "有几率降雪。",
     AEBS_weather_storm_C = "雷暴",
     AEBS_weather_tropical_C = "热带风暴",
     AEBS_weather_blizzard_C = "暴雪",
@@ -63,7 +63,7 @@ DynamicRadio_CN {
     AEBS_zone_name_se = "东南方",
 
     AEBS_random_0 = "全体人员。 %s 隔离区的临时通信发生故障... 扇区 %i， %i， %i 和 %i",
-    AEBS_random_1 = "查理 <滋> 印度－阿尔法小队， <噗滋> 指定区域 <噗滋> 扇区 %i <呜滋>",
+    AEBS_random_1 = "查理 <滋> 印度 - 阿尔法小队， <噗滋> 指定区域 <噗滋> 扇区 %i <呜滋>",
     AEBS_random_2 = "全体人员 <噗滋> 命令 <滋> %i 已下达 <呜滋>",
     AEBS_random_3 = "...%s <滋> 扇区 %i 发生活动 <呜滋>",
     --AEBS_random_4 = "<滋>",
@@ -77,10 +77,9 @@ DynamicRadio_CN {
     AEBS_random_12 = "<噗滋>... 我不相信他 <滋> 谁说... 不可能是真的 <呜滋>",
     AEBS_random_13 = "<噗滋>... 说他们是从东边来的 <滋> 重复：东... <呜滋>",
 
-    AEBS_segment_night = "夜晚",
+    AEBS_segment_night = "夜间",
     AEBS_segment_early_morning = "早晨",
     AEBS_segment_morning = "上午",
     AEBS_segment_afternoon = "下午",
     AEBS_segment_evening = "傍晚",
 }
-

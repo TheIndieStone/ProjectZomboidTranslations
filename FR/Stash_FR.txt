@@ -1,100 +1,384 @@
 Stash_FR = {
+
     Stash_AnnotedMap = "Carte annotée",
-    Stash_AnnotedMap = "Carte annotée",
-    Stash_MarchRidgeMap1_Text1 = "Arme ici",
-    Stash_MarchRidgeMap1_Text2 = "Hache et outils ici ?",
-    Stash_MarchRidgeMap1_Text3 = "A éviter",
-    Stash_MarchRidgeMap2_Text1 = "Je t'ai laissé un pistolet",
-    Stash_MarchRidgeMap2_Text2 = "Le magasin semblait avoir des réserves",
-    Stash_MarchRidgeMap2_Text3 = "Ils peuvent migrer ? On aurait dit qu'ils allaient ici",
-    Stash_MarchRidgeMap3_Text1 = "Chasseur ici",
-    Stash_MarchRidgeMap3_Text2 = "Boulangerie",
-    Stash_MarchRidgeMap3_Text3 = "Dernier endroit où je l'ai vue",
-    Stash_MarchRidgeMap4_Text1 = "Si tu peux y arriver avant de te transformer. Il y a un truc qui devrait t'aider.",
-    Stash_MarchRidgeMap4_Text11 = "On se retrouvera. D'une façon ou une autre.",
-    Stash_MarchRidgeMap4_Text2 = "Maison de quartier. Tu y trouveras mon corps. Je t'aime.",
-    Stash_MarchRidgeMap4_Text3 = "J'ai prié pour que tu ne sois pas en garnison ici. Quand même de bon souvenirs.",
-    Stash_MarchRidgeMap5_Text1 = "N'utilise pas d'armes à feu - d'autres armes potentielles ici",
-    Stash_MarchRidgeMap5_Text2 = "Centre médical",
-    Stash_MarchRidgeMap5_Text3 = "Discretion ici",
-    Stash_MarchRidgeMap6_Text1 = "Matos utile pour sécuriser le bâtiment",
-    Stash_MarchRidgeMap6_Text2 = "Matos bonus",
-    Stash_MarchRidgeMap6_Text3 = "Carrément vide ici",
-    Stash_MarchRidgeMap6_Text6 = "Tout a été vidé ici",
-    Stash_MarchRidgeMap7_Text1 = "Je crois qu'il se cachait là",
-    Stash_MarchRidgeMap7_Text2 = "Il faudra sûrement des outils.",
-    Stash_MarchRidgeMap7_Text3 = "Je l'ai vu ici. Pas de morsure, mais de la fièvre.",
-    Stash_MulMap10_Text1 = "Maison mortelle",
-    Stash_MulMap10_Text2 = "Spiffo's",
-    Stash_MulMap10_Text3 = "Les environs semblaient dégagés",
-    Stash_MulMap11_Text1 = "Flingue au Spiffo's",
-    Stash_MulMap11_Text2 = "Médocs ici",
-    Stash_MulMap11_Text3 = "Ennuis",
-    Stash_MulMap12_Text1 = "Fusil ici - Bouffe dans la cuisine",
-    Stash_MulMap12_Text2 = "Matos médical",
-    Stash_MulMap12_Text3 = "Grosse horde",
-    Stash_MulMap13_Text1 = "J'ai fait la moitié du retour mais j'ai du tout laisser ici - trop lourd",
-    Stash_MulMap13_Text2 = "Il reste plein d'équipement dans la boutique de matériel",
-    Stash_MulMap13_Text3 = "Coups de feu",
+
+----- LV MAP ----
+    Stash_LVMap1_Text1 = "RIP le fou au pistolet",
+    Stash_LVMap1_Text2 = "Maison du fou au pistolet",
+
+    Stash_LVMap2_Text1 = "Cadeau de maman",
+    Stash_LVMap2_Text2 = "N'oublie pas de rendre visite",
+    Stash_LVMap2_Text3 = "à la tombe de mamie si tu peux",
+    Stash_LVMap2_Text4 = "et faire une prière de notre part",
+
+    Stash_LVMap3_Text1 = "Alcool",
+    Stash_LVMap3_Text2 = "Le camion du concierge flippant devrait être là",
+    Stash_LVMap3_Text3 = "Attention à la clôture !",
+
+    Stash_LVMap4_Text1 = "Pas la peine, j'ai perdu mon temps à chercher ici",
+    Stash_LVMap4_Text2 = "Il faut une masse",
+    Stash_LVMap4_Text4 = "Station Essence",
+
+    Stash_LVMap5_Text1 = "Debbie, les Carlins ont déménagé ici",
+    Stash_LVMap5_Text2 = "Va les voir si tu as besoin d'aide !",
+    Stash_LVMap5_Text3 = "Nous avons vu ces choses",
+    Stash_LVMap5_Text4 = "tout autour du gymnase ici",
+    Stash_LVMap5_Text5 = "N'y allez surtout pas la nuit !",
+
+    Stash_LVMap6_Text1 = "RIEN DE MIEUX QUE D'ÊTRE À LA MAISON !",
+
+    Stash_LVMap7_Text1 = "Merci d'avoir tout saccagé",
+    Stash_LVMap7_Text2 = "C'était ma maison",
+    Stash_LVMap7_Text3 = "J'avais tout ce dont j'avais besoin",
+    Stash_LVMap7_Text4 = "Du moins, je croyais...",
+
+    Stash_LVMap8_Text1 = "On est là, 3ème porte en bas",
+    Stash_LVMap8_Text2 = "Dépêche-toi avec les médocs Diego",
+    Stash_LVMap8_Text3 = "ILS SONT TOUT AUTOUR D'ICI, N'Y VA PAS !",
+
+    Stash_LVMap9_Text1 = "Flingues et bouffe dans la ferme plus loin, soyez vigilants !",
+    Stash_LVMap9_Text2 = "Ne vous perdez pas dans les arbres",
+    Stash_LVMap9_Text3 = "Ces choses sont par ici aussi",
+
+    Stash_LVMap10_Text1 = "Vieux schnock avec une baraque pleine de bouffe",
+    Stash_LVMap10_Text2 = "et pas de flingues",
+    Stash_LVMap10_Text3 = "Ne ramenez pas toute la putain de",
+    Stash_LVMap10_Text4 = "horde avec vous cette fois-ci !",
+
+    Stash_LVMap11_Text1 = "Magasin rempli",
+    Stash_LVMap11_Text2 = "Rempli de zombies également",
+    Stash_LVMap11_Text3 = "Stockage",
+    Stash_LVMap11_Text4 = "LV Général",
+
+    Stash_LVMap12_Text1 = "Serveuse de pizza",
+    Stash_LVMap12_Text2 = "Un mec qui vend des burgers",
+    Stash_LVMap12_Text3 = "Notre tente",
+    Stash_LVMap12_Text4 = "sinsilla va être vraiment",
+    Stash_LVMap12_Text5 = "génial wooohooo !!!",
+
+    Stash_LVMap13_Text1 = "Bonnes maisons sécurisées",
+    Stash_LVMap13_Text2 = "Mais attention en nettoyant les jardins",
+    Stash_LVMap13_Text3 = "Voiture en état de marche ici",
+
+    Stash_LVMap14_Text1 = "Barricades avec les planches que je t'ai ramené",
+    Stash_LVMap14_Text2 = "Sinon ces saloperies vont rentrer",
+    Stash_LVMap14_Text3 = "N'oublie pas !",
+    Stash_LVMap14_Text4 = "Ne laisse jamais personne entrer quand je ne suis pas là !",
+    Stash_LVMap14_Text5 = "J'en ai pour une demi-heure (Il est 2h30)",
+    Stash_LVMap14_Text6 = "Si ça dure plus, contacte Édouard à la radio",
+    Stash_LVMap14_Text7 = "Bisous",
+
+    Stash_LVMap15_Text1 = "Si quelqu'un trouve ceci, je suis Natalie Sigmundsson",
+    Stash_LVMap15_Text2 = "maître de conférences en histoire de l'art à LSU",
+    Stash_LVMap15_Text3 = "Je suis déjà morte, mais j'aurais une requête",
+    Stash_LVMap15_Text4 = "Ce n'est que la fin du monde si nous le permettons.",
+    Stash_LVMap15_Text5 = "Nous devons mettre en sécurité les trésors de la galerie d'art, sinon",
+    Stash_LVMap15_Text6 = "nous serons véritablement perdus. Des amis ont réussi à rassembler une",
+    Stash_LVMap15_Text7 = "cache d'armes dans une voiture à proximité. Utilisez-les pour les tuer.",
+    Stash_LVMap15_Text8 = "Ne laissez personne dire que l'humanité est perdue à jamais.",
+    Stash_LVMap15_Text9 = "Voiture",
+
+    Stash_LVMap16_Text1 = "Toute cette rue est dangereuse",
+    Stash_LVMap16_Text2 = "Ils ont ton fils ici",
+    Stash_LVMap16_Text3 = "Rejoins-nous, c'est sécurisé",
+    Stash_LVMap16_Text4 = "Nous allons nous diriger vers le Sud",
+    Stash_LVMap16_Text5 = "Viens avec nous s'il te plaît",
+    
+----- MULD MAP -----
     Stash_MulMap1_Text1 = "Ici. Le plancher.",
     Stash_MulMap1_Text2 = "Hache ?",
     Stash_MulMap1_Text3 = "Gros groupe",
+    
     Stash_MulMap2_Text1 = "Je l'ai laissé là pour toi",
     Stash_MulMap2_Text2 = "Stockage",
     Stash_MulMap2_Text3 = "Tout le quartier est transformé ici",
+    
     Stash_MulMap3_Text1 = "Fusil et munitions - cachés si jamais quelqu'un jette un oeil",
     Stash_MulMap3_Text2 = "Matériaux, outils et autres trucs",
     Stash_MulMap3_Text3 = "Beaucoup ici",
+    
     Stash_MulMap4_Text1 = "Sortie plus simple",
     Stash_MulMap4_Text2 = "Trucs médicaux",
     Stash_MulMap4_Text3 = "On traîne pas ici - trop d'entre eux",
+    
     Stash_MulMap6_Text1 = "Bob, je veux voir cet endroit SUPER fortifié d'ici mon retour.",
     Stash_MulMap6_Text2 = "Matos médical ici.",
     Stash_MulMap6_Text21 = "Rappel : antibiotiques, bandages. Cette jambe ne veut pas guérir.",
-    Stash_MulMap6_Text3 = "J'ai vu une horde partir par là ! A éviter ! Je t'aime",
+    Stash_MulMap6_Text3 = "J'ai vu une horde partir par là ! À éviter ! Je t'aime",
+    
     Stash_MulMap7_Text1 = "Plan B.",
     Stash_MulMap7_Text2 = "Magasin - ENCORE PLEIN",
     Stash_MulMap7_Text3 = "Gros merdier",
-    Stash_MulMap8_Text1 = "Prend mon matos. Enterre moi si tu le peux et c'est sécurisé. Que dieu te garde",
-    Stash_MulMap8_Text2 = "Prend un verre si t'en as besoin",
+    
+    Stash_MulMap8_Text1 = "Prends mon matos. Enterre-moi si tu le peux et c'est sécurisé. Que dieu te garde",
+    Stash_MulMap8_Text2 = "Prends un verre si tu en as besoin",
     Stash_MulMap8_Text3 = "Gros groupe, n'a pas bougé depuis des jours",
-    Stash_RosewoodStashMap2_Text1 = "Quelques flingues",
-    Stash_RosewoodStashMap2_Text2 = "Ensuite ici",
-    Stash_RosewoodStashMap2_Text3 = "S'arrête ici",
-    Stash_RosewoodStashMap3_Text1 = "J'ai trouvé du matériel pour fortifier un endroit en attendant que ça se calme",
-    Stash_RosewoodStashMap3_Text11 = "Chez maman. On se retrouve là",
-    Stash_RosewoodStashMap3_Text2 = "Armes ici - en cas de besoin",
-    Stash_RosewoodStashMap3_Text3 = "Ne vas pas là !",
-    Stash_WpMap10_Text1 = "Tout un tas de détraqués",
-    Stash_WpMap10_Text2 = "La boutique a peut-être encore des trucs",
-    Stash_WpMap10_Text3 = "Encore plus de problèmes",
-    Stash_WpMap11_Text1 = "Le manager de Spiffo's gardait un fusil dans le magasin",
-    Stash_WpMap11_Text11 = "Ce taré savait ce qui allait se passer",
-    Stash_WpMap11_Text2 = "Boutique de matériel encore intacte",
-    Stash_WpMap11_Text3 = "Je vais éviter les alentours de la maison - ne me cherchez pas ici",
-    Stash_WpMap12_Text1 = "Tout le monde est entré dans les bureaux le jour - la fièvre est arrivée",
-    Stash_WpMap12_Text11 = "Je les ai barricadés avant qu'ils ne se transforment",
-    Stash_WpMap12_Text2 = "Armurerie",
-    Stash_WpMap12_Text3 = "Horde genre début des soldes",
+    
+    Stash_MulMap10_Text1 = "Maison mortelle",
+    Stash_MulMap10_Text2 = "Spiffo's",
+    Stash_MulMap10_Text3 = "Les environs semblaient dégagés",
+    
+    Stash_MulMap11_Text1 = "Flingue au Spiffo's",
+    Stash_MulMap11_Text2 = "Médocs ici",
+    Stash_MulMap11_Text3 = "Ennuis",
+    
+    Stash_MulMap12_Text1 = "Fusil ici - Bouffe dans la cuisine",
+    Stash_MulMap12_Text2 = "Matos médical",
+    Stash_MulMap12_Text3 = "Grosse horde",
+    
+    Stash_MulMap13_Text1 = "J'ai fait la moitié du retour, mais j'ai dû tout laisser ici - trop lourd",
+    Stash_MulMap13_Text2 = "Il reste plein d'équipement dans la boutique de matériel",
+    Stash_MulMap13_Text3 = "Coups de feu",
+    
+    Stash_MulMap14_Text1 = "Planque sécurisée - Barricadez !",
+    Stash_MulMap14_Text2 = "Tout autour d'ici",
+    Stash_MulMap14_Text3 = "Ne tire pas - le bruit les attire",
+
+    Stash_MulMap15_Text1 = "Vieux médecin vit/vivait ici",
+    Stash_MulMap15_Text2 = "Attention par ici",
+    Stash_MulMap15_Text21 = "C'est là que j'ai été mordu",
+
+    Stash_MulMap16_Text1 = "La sécurité de la banque a des armes à feu",
+    Stash_MulMap16_Text2 = "La TV et une bonne bière fraîche, ça me manque. Monde de merde",
+
+    Stash_MulMap17_Text1 = "Le Zippee est plein de matériel",
+    Stash_MulMap17_Text2 = "Vérifiez la seconde porte de la boulangerie",
+    Stash_MulMap17_Text3 = "Attention Maman, Papa erre toujours par ici",
+
+    Stash_MulMap18_Text1 = "Crazy Willy's trailer",
+    Stash_MulMap18_Text11 = "On m'a dit qu'il s'était transformé",
+    Stash_MulMap18_Text12 = "J'espère que toutes ses armes sont encore là",
+    
+----- WP MAP -----
     Stash_WpMap1_Text1 = "Je suis sûre qu'il vivait ici",
     Stash_WpMap1_Text2 = "Trop nombreux pour s'en charger, ne tire pas près d'ici pour l'amour de Dieu",
+    
     Stash_WpMap2_Text1 = "Je crois qu'elle vivait là",
     Stash_WpMap2_Text2 = "Centre médical",
     Stash_WpMap2_Text3 = "Je l'ai trouvé dans ce coin, sans arme",
+    
     Stash_WpMap4_Text1 = "Du courage. Je t'aime.",
     Stash_WpMap4_Text3 = "NE VAS PAS LA. Megan est dans les parages - elle est l'un deux.",
-    Stash_WpMap4_Text31 = "Je ne savais même pas qu'elle était en ville. N'y vas pas",
+    Stash_WpMap4_Text31 = "Je ne savais même pas qu'elle était en ville. N'y va pas",
+    
     Stash_WpMap5_Text1 = "Les outils que j'ai laissés dans la chambre devraient bien t'aider",
     Stash_WpMap5_Text11 = "Repousse-les aussi longtemps que tu peux JE T'AIME",
     Stash_WpMap5_Text2 = "Pizza",
     Stash_WpMap5_Text3 = "Emmerdes",
+    
     Stash_WpMap6_Text1 = "Je n'aurai plus besoin de tout ça maintenant. Bonne chance.",
     Stash_WpMap6_Text2 = "Twiggy's",
     Stash_WpMap6_Text3 = "Chaud patate par là",
+    
     Stash_WpMap8_Text1 = "Jolene n'est pas tombée malade. Elle peut aider.",
     Stash_WpMap8_Text2 = "Armurerie",
     Stash_WpMap8_Text3 = "J'ai vu un mec mourir",
+    
     Stash_WpMap9_Text1 = "Enfer de zombies",
     Stash_WpMap9_Text2 = "Bureau de papa",
     Stash_WpMap9_Text3 = "Corps de papa",
+    
+    Stash_WpMap10_Text1 = "Tout un tas de détraqués",
+    Stash_WpMap10_Text2 = "La boutique a peut-être encore des trucs",
+    Stash_WpMap10_Text3 = "Encore plus de problèmes",
+    
+    Stash_WpMap11_Text1 = "Le manager de Spiffo's gardait un fusil dans le magasin",
+    Stash_WpMap11_Text11 = "Ce taré savait ce qui allait se passer",
+    Stash_WpMap11_Text2 = "Boutique de matériel encore intacte",
+    Stash_WpMap11_Text3 = "Je vais éviter les alentours de la maison - ne me cherchez pas ici",
+    
+    Stash_WpMap12_Text1 = "Tout le monde est entré dans les bureaux le jour - la fièvre est arrivée",
+    Stash_WpMap12_Text11 = "Je les ai barricadés avant qu'ils ne se transforment",
+    Stash_WpMap12_Text2 = "Armurerie",
+    Stash_WpMap12_Text3 = "Horde genre début des soldes",
+    
+    Stash_WpMap13_Text1 = "Tués au fusil à pompe : 12",
+    Stash_WpMap13_Text2 = "Tués à la hache : 20",
+    Stash_WpMap13_Text3 = "Tués en voiture : 11",
+
+    Stash_WpMap14_Text1 = "Retrouve-moi ici Tonya ! J'ai assez de bouffe."
+    Stash_WpMap14_Text11 = "Maintenant nous devons juste attendre Colin avec son bateau",
+
+    Stash_WpMap15_Text1 = "Ils ne nous trouveront jamais ici, fais-moi confiance",
+    Stash_WpMap15_Text11 = "Ils sont plus débiles qu'une merde de chien",
+    Stash_WpMap15_Text2 = "Bonne chasse ici",
+
+    Stash_WpMap16_Text1 = "Attaques probables",
+    Stash_WpMap16_Text2 = "Sortie la plus sûre"
+    Stash_WpMap16_Text21 = "Clôture, ensuite au sud la route qui mène à la forêt"
+    Stash_WpMap16_Text3 = "Chances de survie :"
+    Stash_WpMap16_Text31 = "Un mois : 58%"
+    Stash_WpMap16_Text32 = "Pendant l'hiver : 22%"
+    Stash_WpMap16_Text4 = "Besoin de plus de bouffe et de voiture"
+    
+----- MARCHRIDGE MAP -----
+    Stash_MarchRidgeMap1_Text1 = "Arme ici",
+    Stash_MarchRidgeMap1_Text2 = "Hache et outils ici ?",
+    Stash_MarchRidgeMap1_Text3 = "À éviter",
+    
+    Stash_MarchRidgeMap2_Text1 = "Je t'ai laissé un pistolet",
+    Stash_MarchRidgeMap2_Text2 = "Le magasin semblait avoir des réserves",
+    Stash_MarchRidgeMap2_Text3 = "Ils peuvent migrer ? On aurait dit qu'ils allaient ici",
+    
+    Stash_MarchRidgeMap3_Text1 = "Chasseur ici",
+    Stash_MarchRidgeMap3_Text2 = "Boulangerie",
+    Stash_MarchRidgeMap3_Text3 = "Dernier endroit où je l'ai vue",
+    
+    Stash_MarchRidgeMap4_Text1 = "Si tu peux y arriver avant de te transformer. Il y a un truc qui devrait t'aider.",
+    Stash_MarchRidgeMap4_Text11 = "On se retrouvera. D'une façon ou d'une autre.",
+    Stash_MarchRidgeMap4_Text2 = "Maison de quartier. Tu y trouveras mon corps. Je t'aime.",
+    Stash_MarchRidgeMap4_Text3 = "J'ai prié pour que tu ne sois pas en garnison ici. Quand même de bons souvenirs.",
+    
+    Stash_MarchRidgeMap5_Text1 = "N'utilise pas d'armes à feu - d'autres armes potentielles ici",
+    Stash_MarchRidgeMap5_Text2 = "Centre médical",
+    Stash_MarchRidgeMap5_Text3 = "Discrétion ici",
+    
+    Stash_MarchRidgeMap6_Text1 = "Matos utile pour sécuriser le bâtiment",
+    Stash_MarchRidgeMap6_Text2 = "Matos bonus",
+    Stash_MarchRidgeMap6_Text3 = "Carrément vide ici",
+    Stash_MarchRidgeMap6_Text6 = "Tout a été vidé ici",
+    
+    Stash_MarchRidgeMap7_Text1 = "Je crois qu'il se cachait là",
+    Stash_MarchRidgeMap7_Text2 = "Il faudra sûrement des outils.",
+    Stash_MarchRidgeMap7_Text3 = "Je l'ai vu ici. Pas de morsure, mais de la fièvre.",
+    
+    Stash_MarchRidgeMap8_Text1 = "J'ai laissé mes anciens outils ici"
+    Stash_MarchRidgeMap8_Text2 = "Je n'en aurai plus besoin"
+
+    Stash_MarchRidgeMap9_Text1 = "Les survivants sont les bienvenus chez nous"
+    Stash_MarchRidgeMap9_Text2 = "Toujours besoin de plus de nourriture, armes, etc."
+    Stash_MarchRidgeMap9_Text3 = "Tuez des Z au passage pour plus de félicitations !"
+
+    Stash_MarchRidgeMap10_Text1 = "Bénédiction pour une bonne âme",
+    Stash_MarchRidgeMap10_Text2 = "Puisse-t-il vous garder de l'enfer pour le moment",
+
+    Stash_RiversideStashMap1_Text1 = "Nous sommes ici désormais",
+    Stash_RiversideStashMap1_Text11 = "J'espère te revoir bientôt",
+    Stash_RiversideStashMap1_Text2 = "Attention par ici !",
+
+    Stash_RiversideStashMap2_Text1 = "Chambre 208. Je t'attends",
+    Stash_RiversideStashMap2_Text11 = "Tu te souviens quand on passait juste des journées à regarder la rivière ?",
+    Stash_RiversideStashMap2_Text12 = "Ne me laisse pas seul ici ...",
+
+    Stash_RiversideStashMap3_Text1 = "Vidéothèque",
+    Stash_RiversideStashMap3_Text2 = "Gnole",
+
+    Stash_RiversideStashMap4_Text1 = "Daryl est malade, on l'a laissé là",
+    Stash_RiversideStashMap4_Text11 = "Je suis allée chercher Nathalie, elle saura quoi faire",
+    Stash_RiversideStashMap4_Text2 = "Je les ai vu mettre à terre deux personnes, ignoble",
+
+    Stash_RiversideStashMap5_Text1 = "PEU IMPORTE QUI TROUVERA CECI, N'ALLEZ PAS ICI",
+    Stash_RiversideStashMap5_Text2 = "CES ENCULÉS ONT BUTÉ FRANCK ET M'ONT MORDU",
+
+    Stash_RiversideStashMap6_Text1 = "Eddie soit avoir des flingues planqués ici",
+    Stash_RiversideStashMap6_Text11 = "Ce connard prendrait le contrôle de la ville s'il n'était pas malade",
+    Stash_RiversideStashMap6_Text12 = "J'espère que la psychopathe Vicky ne les a pas atteints",
+
+    Stash_RiversideStashMap7_Text1 = "J'ai regardé par là où je suis passé - ils se sont tous transformés",
+    Stash_RiversideStashMap7_Text2 = "Je me dirige au Gigamart désormais",
+    Stash_RiversideStashMap7_Text21 = "Ne te bats pas avec Sandra pendant que je ne suis pas là",
+
+    Stash_RiversideStashMap8_Text1 = "Je t'ai laissé de la bouffe ici", 
+    Stash_RiversideStashMap8_Text11 = "Mange avant de partir",
+    Stash_RiversideStashMap8_Text2 = "Infectés errants ici",
+    Stash_RiversideStashMap8_Text3 = "Là où j'ai vu ce groupe de gens (probablement morts)",
+
+    Stash_RiversideStashMap9_Text1 = "Ton nous attends ici",
+    Stash_RiversideStashMap9_Text2 = "Essence",
+    Stash_RiversideStashMap9_Text3 = "J'ai été mordu, mais ce n'est pas sévère - besoin d'antibio au cas où",
+
+    Stash_RiversideStashMap10_Text1 = "Banque", 
+    Stash_RiversideStashMap10_Text2 = "N'oublie pas de prendre une arme de secours", 
+    Stash_RiversideStashMap10_Text21 = "La tête de ta hache avait l'air un peu abîmée",
+    Stash_RiversideStashMap10_Text3 = "Je me dirige à l'Ouest hors de la ville, tu sais où me trouver",
+    
+---- ROSEWOOD MAP -----
+    Stash_RosewoodStashMap2_Text1 = "Quelques flingues",
+    Stash_RosewoodStashMap2_Text2 = "Ensuite ici",
+    Stash_RosewoodStashMap2_Text3 = "S'arrête ici",
+    
+    Stash_RosewoodStashMap3_Text1 = "J'ai trouvé du matériel pour fortifier un endroit en attendant que ça se calme",
+    Stash_RosewoodStashMap3_Text11 = "Chez maman. On se retrouve là",
+    Stash_RosewoodStashMap3_Text2 = "Armes ici - en cas de besoin",
+    Stash_RosewoodStashMap3_Text3 = "Ne va pas là !",
+
+    Stash_RosewoodStashMap4_Text1 = "J'ai laissé quelques trucs pour évacuer ici",
+    Stash_RosewoodStashMap4_Text2 = "Quand ils viendront (ET ILS VONT VENIR!)",
+    Stash_RosewoodStashMap4_Text3 = "Prends tout ce que tu peux porter et fonds-toi dans la forêt",
+
+    Stash_RosewoodStashMap5_Text1 = "Nourriture ici",
+    Stash_RosewoodStashMap5_Text2 = "Ne vous précipitez pas !",
+    Stash_RosewoodStashMap5_Text3 = "Rappelez-vous ce qui est arrivé à M. Duncan",
+    
+    /*
+    Stash_WorldMap1_Text1 = "Viens ici ! Cara va t'aider",
+    Stash_WorldMap1_Text2 = "J'ai vu des infectés ici (ils ont peut-être bougé)",
+    Stash_WorldMap1_Text4 = "Si tu conduis, va doucement, ne les attire pas",
+
+    Stash_WorldMap2_Text1 = "Bon endroit pour une base, à distance",
+    Stash_WorldMap2_Text11 = "Barricades dès que tu arrives !",
+    Stash_WorldMap2_Text12 = "J'ai caché des flingues à l'intérieur pour toi",
+
+    Stash_WorldMap3_Text1 = "Essence ici",
+    Stash_WorldMap3_Text11 = "Vous en aurez besoin",
+
+    Stash_WorldMap4_Text1 = "Là où Yana nous a dit qu'une femme vivait",
+    Stash_WorldMap4_Text11 = "Peut-être qu'elle nous aidera ?",
+
+    Stash_WorldMap5_Text1 = "Paulie a laissé les affaires ici",
+    Stash_WorldMap5_Text11 = "Vérifiez les belvédères avant d'aller dedans",
+    Stash_WorldMap5_Text12 = "et n'oubliez pas de brûler cette putain de carte !!!",
+
+    Stash_WorldMap6_Text1 = "Du bon butin ici",
+    Stash_WorldMap6_Text2 = "Pour piller - trop grand pour être sécurisé",
+    Stash_WorldMap6_Text3 = "Andy",
+
+    Stash_WorldMap7_Text1 = "Faites le plein ici",
+    Stash_WorldMap7_Text2 = "Dixie est pleine d'infectés",
+    Stash_WorldMap7_Text21 = "D'où est-ce qu'ils viennent tous ?",
+
+    Stash_WorldMap8_Text1 = "Les affaires de Ken seront utiles",
+    Stash_WorldMap8_Text2 = "Attention aux personnes qui vous suivent",
+    Stash_WorldMap8_Text21 = "pas seulement les zombies",
+
+    Stash_WorldMap9_Text1 = "Gare de triage",
+    Stash_WorldMap9_Text2 = "Des caisses un peu partout, on pourrait mettre du bordel dedans",
+    Stash_WorldMap8_Text3 = "Des bureaux, y'a rien",
+    Stash_WorldMap8_Text4 = "Des entrepôts ?",
+
+    Stash_WorldMap10_Text1 = "STATION SERVICE",
+    Stash_WorldMap10_Text2 = "MAGASIN DE FRINGUES",
+    Stash_WorldMap10_Text3 = "SPIFFO'S",
+    Stash_WorldMap10_Text4 = "VOITURES",
+
+    Stash_WorldMap11_Text1 = "Antenne 3 sur la Tour 2 - Signal perdu autour des 6 GHz - problème de puissance",
+    Stash_WorldMap11_Text11 = "Demandez au siège de tester avec Lexington ensuite",
+
+    Stash_WorldMap12_Text1 = "GRAND terrain de camping - Tout ce dont nous avons besoin (sauf les médocs de Jane)",
+    Stash_WorldMap12_Text11 = "On doit faire du ménage, mais il y a plein de bouffe, de lits et de feux de camp"
+    Stash_WorldMap12_Text2 = "SEUL DANGER : Mall au Nord, Des centaines d'infectés par là"
+
+    Stash_WorldMap13_Text1 = "Hal, on va ici, ça devrait être sécurisé"
+    Stash_WorldMap13_Text11 = "Je sais que c'est difficile, mais N'AMMENE PAS PAULA"
+    Stash_WorldMap13_Text12 = "Tu dois au moins sauver ta peau"
+
+    Stash_WorldMap14_Text1 = "Mamie"
+    Stash_WorldMap14_Text2 = "Là où ils ont eu papi"
+    Stash_WorldMap14_Text3 = "Que Dieu les protège"
+
+    Stash_WorldMap17_Text1 = "Angle mort de patrouille"
+    Stash_WorldMap17_Text2 = "V coupera les capteurs de mouvements à 23h15 précisément"
+    Stash_WorldMap17_Text21 = "Ne soyez pas distraits ! Suivez V, prenez vos photos et partez"
+
+    Stash_WorldMap18_Text1 = "Ben"
+    Stash_WorldMap18_Text2 = "Chemin"
+
+    Stash_WorldMap19_Text1 = "Bande d'abrutis ! Prenez les flingues que j'ai laissé dans la maison de Mme Cuddy"
+    Stash_WorldMap19_Text11 = "Si vous crevez, je ne vous le pardonnerai jamais !!!"
+
+    Stash_WorldMap19_Text1 = "TÊTES DE GLAND"
+    Stash_WorldMap19_Text2 = "ENCULÉS"
+    Stash_WorldMap19_Text3 = "TROUS DU CUL"
+*/
+
 }

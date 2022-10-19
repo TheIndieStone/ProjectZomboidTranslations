@@ -1,0 +1,76 @@
+Challenge_NO = {
+	Challenge_YouHaveOneDay_name = "Du har en dag",
+	Challenge_YouHaveOneDay_desc = "Du er tilbake i Knox County. Du er tilbake på kartet der Project Zomboid-infeksjonen først startet. <LINE> <LINE> Du har en dag med relativ sikkerhet. Zombier vil ankomme i enorme antall, og de vil finne deg. Hva brukte du til å lage din siste stand igjen? Hvor gjorde du din siste stand i gamle dager? Bedre å finne stedet raskt. <LINE> <LINE> [Takk til Community-kartlegger BobHeckling for å gjenskape den gamle 0.1.5-kartet med gjeldende PZ-verktøysett.]",
+	
+	Challenge_WinterIsComing_name = "Vinteren kommer",
+	Challenge_WinterIsComing_desc = "Det er midten av juli, men plutselig kjenner du en frysende vind. Om bare tre dager kommer en vinter som ingen andre før den. <LINE> <LINE> Du våkner på et isolert sted. Du har få forsyninger, og de vandøde hordene kan bli bremset av den intense kulden - men de er ikke mindre dødelige. <LINE> <LINE> Kle deg godt, overlevende...",
+	
+	Challenge_OpeningHours_name = "Åpningstider",
+	Challenge_OpeningHours_desc = "Kjøpesenteret er omringet. En gang i tiden var det et viktig sted i livene deres. Instinkt har ført dem til dørene. Et minne om hva de pleide å gjøre... <LINE> <LINE> Du er alene, men ikke så lenge. Klokka 09.00 vil kjøpesenteret være klart for virksomhet: dørene åpnes, og hordene vil komme. <LINE> <LINE> Vær klar for dem.",
+	
+	Challenge_AReallyCDDAy_name = "En virkelig CD DA",
+	Challenge_AReallyCDDAy_desc = "Du kommer deg ut av dusjen og faller stygt. Du er full og har en stygg forkjølelse. <LINE> <LINE> På toppen av alt dette står huset i brann! I dag er definitivt ikke din dag. <LINE> <LINE> [En utfordring inspirert av A Really Bad Day fra den fantastiske, fantastiske og MUST-PLAY Cataclysm: Dark Days Ahead] ",
+	
+	Challenge_Challenge1_name = "Hus i skogen - Siste stand",
+	Challenge_Challenge1_desc = "Du kan høre dem nærme seg. Horder av døde hoder, som trer inn i den isolerte hytten din fra alle vinkler. Døden er uunngåelig, men hånden din rører ved en hagle. <LINE> <LINE> Siste Forsvar har endeløse bølger av zombier i stadig økende tall. Overlev så lenge som mulig mot de overveldende oddsene.",
+	
+	Challenge_Challenge2_name = "Hus i skogen - Siste stand - Økende angrep",
+	Challenge_Challenge2_desc = "En annen dag, en annen hytte klar til å bli blodig. Hordene er over deg, og din død vil være like smertefull som den er grusom. Så gå ut og slåss... <LINE> <LINE> Siste stand - Økende angrep har uendelige bølger av zombier i stadig økende antall. Bruk penger tjent ved å drepe zombier til å kjøpe utstyr, gå opp i nivå og reparere dine våpen som renner av blod.",
+	
+	Challenge_AStormIsComing_name = "En storm kommer",
+	Challenge_AStormIsComing_desc = "Skyer samler seg over Kentucky. Lyden av torden kan høres i det fjerne. <LINE> <LINE> Når himmelen mørkner, blir de døde som snubler over jorden urolige. <LINE> <LINE> Dette er en storm som vil vokse og falle tilbake i sin voldsomhet, men det vil aldri ta slutt.",
+	
+	Challenge_TheDescendingFog_name = "Den synkende tåken",
+	Challenge_TheDescendingFog_desc = "Folk så det først på vannet. Et svakt hvitt teppe over elven Ohio. <LINE> <LINE> Det begynte som en tåke. Så omsluttet det byen. Bybefolkningen døde skrikende i mørket. Nå går de der ute. <LINE> <LINE> Usett, uhørt og nådeløs i jakten på de levende.",
+	
+	Challenge_Kingsmouth_name = "Kingsmouth",
+	Challenge_Kingsmouth_desc = "Nyt et avslappende opphold på Kingsmouth Island!",
+	
+	Challenge_Studio_name = "Studio",
+	Challenge_Studio_desc = "Hvor alle de beste filmene er filmet!",
+	-- Brukergrensesnitt på skjermen
+	Challenge_Challenge2_PressKey = "Trykk "o" for permanent boost og for å bruke litt penger.",
+	Challenge_Challenge2_WaveStart = "Bølge %1 i: %2 (trykk Enter for å hoppe over)",
+	Challenge_Challenge2_WaveDuration = "Bølge %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombier som gjenstår: %1",
+	Challenge_Challenge2_Money = "Penger: %1",
+	Challenge_Challenge2_Money2 = "Spiller %1 penger : %2",
+	Challenge_Challenge2_WaveFinished = "Bølge %1 fullført i: %2",
+	Challenge_Challenge2_MoneyGained = "Penger tjent: %1",
+	Challenge_Challenge2_XPGained = "Erfaring oppnådd: %1",
+	-- Vindu
+	Challenge_Challenge2_WindowTitle = "Siste stand",
+	Challenge_Challenge2_TabPlayer = "Spiller",
+	Challenge_Challenge2_Weapons = "Våpen",
+	Challenge_Challenge2_TabItems = "Elementer",
+	Challenge_Challenge2_TabRepair = "Reparer",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP",
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Max",
+	Challenge_Challenge2_GoldBonus = "Gullbonus",
+	Challenge_Challenge2_XpBonus = "XP-bonus",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Maks",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Startgull - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Maks startgull %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Egenskaper",
+	Challenge_Challenge2_PermanentBonus = "Permanent bonus",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Snekker",
+	Challenge_Challenge2_Health = "Helse",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- Weapon RepairWindow
+	Challenge_Challenge2_RepairWeapon = "Reparer våpen",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Helse",
+	
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Kjøpesenteret åpner kl. 09.00. <LINE> <LINE> Gjør deg klar for folkemengdene...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Om tre dager begynner den endeløse vinteren. <LINE> <LINE> Kle deg godt...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Om 24 timer vil turen tilbake til Knox County bli et helvete på jorden...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Uendelig dårlig vær i vente...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Det blir tåkete...",
+}
+
+	

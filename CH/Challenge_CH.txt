@@ -1,5 +1,5 @@
 Challenge_CH = {
-    Challenge_AReallyCDDAy_desc = "你走出浴室時跌得很慘. 不但爛醉如泥, 還得了重感冒. <LINE> <LINE> 除此之外, 房子還著火了! 今天真是太倒楣了.  <LINE> <LINE> [此挑戰受超棒且必玩的 Cataclysm: Dark Days 中的 非常倒楣的一天 挑戰啟發]",
+    Challenge_AReallyCDDAy_desc = "你走出浴室時跌得很慘. 不但爛醉如泥, 還得了重感冒. <LINE> <LINE> 除此之外, 房子還著火了! 今天真是太倒楣了.  <LINE> <LINE> [此挑戰受超棒且必玩的 Cataclysm: Dark Days Ahead 中的 非常倒楣的一天 (Really Bad Day) 挑戰啟發]",
     Challenge_AReallyCDDAy_name = "非常 CD 的 DA",
     Challenge_AStormIsComingInfoBox = " <CENTRE> 前方只有無盡的壞天氣...",
     Challenge_AStormIsComing_desc = "肯塔基州烏雲密布, 遠處傳來陣陣雷鳴. <LINE> <LINE> 隨著天色漸暗, 踩踏大地的死者們開始躁動不安.  <LINE> <LINE> 這場兇猛的風暴時強時弱, 但它永遠也不會結束. ",

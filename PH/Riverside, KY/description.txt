@@ -1,0 +1,10 @@
+Riverside
+ <LINE> <LINE>
+ Isang makulay na bayan na mahigpit na nakayakap sa pampang ng makapangyarihang banko ng Ohio: 
+ ang paggalugad sa Riverside ay isang mayaman at magkakaibang karanasan! Sa kanluran, makikita mo ang mga mas lumang bahagi ng bayan, 
+ habang sa silangan ay kung saan nagtatrabaho, nagpapahinga at naglalaro ang mga residente.
+ <LINE> <LINE>
+ Sa katunayan, kung isinasaalang-alang mong manatili sa amin, bakit hindi tingnan ang malapit na Knox Heights Country Club? 
+ Ang sukdulang ginhawa at pagpapahinga: ang mga miyembro ay may access sa isang 18-hole golf course, tennis court, swimming pool, at spa. 
+ Halika samahan kami ngayon!
+

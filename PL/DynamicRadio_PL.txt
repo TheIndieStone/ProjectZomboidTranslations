@@ -78,3 +78,4 @@ DynamicRadio_PL = {
 	AEBS_segment_afternoon = "popołudnie",
 	AEBS_segment_evening = "wieczór",
 }
+

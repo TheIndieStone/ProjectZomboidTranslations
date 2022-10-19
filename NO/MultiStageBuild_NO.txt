@@ -1,0 +1,27 @@
+MultiStageBuild_NO = {
+-- Trevegg
+MultiStageBuild_CreateWoodenWall_1 = "Lag trevegg nivå 1",
+MultiStageBuild_UpgradeWoodenWall_1To2 = "Oppgrader til trevegg nivå 2",
+MultiStageBuild_CreateWoodenWall_2 = "Lag trevegg nivå 2",
+MultiStageBuild_UpgradeWoodenWall_1To3 = "Oppgrader til trevegg nivå 3",
+MultiStageBuild_UpgradeWoodenWall_2To3 = "Oppgrader til trevegg nivå 3",
+MultiStageBuild_CreateWoodenWall_3 = "Lag trevegg nivå 3",
+-- Trevindu
+MultiStageBuild_CreateWoodenWindow_1 = "Lag trevindu nivå 1",
+MultiStageBuild_UpgradeWoodenWindow_1To2 = "Oppgrader til trevindu nivå 2",
+MultiStageBuild_CreateWoodenWindow_2 = "Lag trevindu nivå 2",
+MultiStageBuild_UpgradeWoodenWindow_1To3 = "Oppgrader til trevindu nivå 3",
+MultiStageBuild_UpgradeWoodenWindow_2To3 = "Oppgrader til trevindu nivå 3",
+MultiStageBuild_CreateWoodenWindow_3 = "Lag trevindu nivå 3",
+-- Metallvegg
+MultiStageBuild_CreateMetalWall_1 = "Lag metallvegg nivå 1",
+MultiStageBuild_UpgradeMetalWall_1To2 = "Oppgrader til metallvegg nivå 2",
+MultiStageBuild_CreateMetalWall_2 = "Lag metallvegg nivå 2",
+-- Metallvindu
+MultiStageBuild_CreateMetalWindow_1 = "Opprett metallvindu nivå 1",
+MultiStageBuild_UpgradeMetalWindow_1To2 = "Oppgrader til Metal Window nivå 2",
+MultiStageBuild_CreateMetalWindow_2 = "Opprett metallvindu nivå 2",
+-- dørkarm i tre
+MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Oppgrader til tredørramme nivå 2",
+MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Oppgrader til tredørramme nivå 3",
+}

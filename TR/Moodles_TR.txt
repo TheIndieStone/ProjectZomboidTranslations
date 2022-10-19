@@ -1,4 +1,6 @@
 Moodles_TR = {
+    Moodles_CantSprint = "Hareketi kısıtlanmış",
+    Moodles_CantSprint_desc = "Kalın giysiler, devasa çantalar yada büyük eşyaların seni yavaşlatıyor!",
     Moodles_angry_desc_lvl1 = "Asabiliği üzerinde.",
     Moodles_angry_desc_lvl2 = "Cidden kötü bir ruh halinde.",
     Moodles_angry_desc_lvl3 = "Sinirden çıldırıyor.",
@@ -32,7 +34,7 @@ Moodles_TR = {
     Moodles_drunk_lvl1 = "Çakır Keyif",
     Moodles_drunk_lvl2 = "Sarhoş",
     Moodles_drunk_lvl3 = "Zil Zurna Sarhoş",
-    Moodles_drunk_lvl4 = "Sarhoşluktan Boku Yemiş",
+    Moodles_drunk_lvl4 = "Damarlardan Kan Yerine Alkol Akıyor",
     Moodles_endurance_desc_lvl1 = "Biraz mola ver.",
     Moodles_endurance_desc_lvl2 = "Zar zor koşuyor.",
     Moodles_endurance_desc_lvl3 = "Zar zor yürüyor.",
@@ -171,6 +173,4 @@ Moodles_TR = {
     Moodles_windchill_lvl4 = "Buzkesen Rüzgar",
     Moodles_zombie_lvl1 = "Zombileşmiş",
     Moodles_zombified_desc_lvl1 = "Birden insanları yeme ihtiyacı duymaya başladı.",
-    Moodles_CantSprint = "Hareketi kısıtlanmış",
-    Moodles_CantSprint_desc = "Kalın giysiler, devasa çantalar yada büyük eşyaların seni yavaşlatıyor!",
 }
