@@ -87,6 +87,7 @@ ContextMenu_CN = {
 	ContextMenu_WaterSource = "水源",
 	Puddle = "水坑",
 	ContextMenu_NaturalWaterSource = "天然水源",
+	ContextMenu_ItemWaterCapacity = "物品水容量",
 	
 	-- Crafting menu
 	ContextMenu_Door = "门",
@@ -302,6 +303,7 @@ ContextMenu_CN = {
     ContextMenu_FoodType_Bacon = "培根",
     ContextMenu_FoodType_HotPepper = "辣椒",
     ContextMenu_FoodType_Rice = "米饭",
+	ContextMenu_FoodType_Cocoa = "可可粉",
     ContextMenu_or = "或",
     ContextMenu_RemoveBush = "清理灌木",
     ContextMenu_RemoveGrass = "清理杂草",
@@ -501,12 +503,12 @@ ContextMenu_CN = {
     ContextMenu_SitGround = "坐在地上",
     ContextMenu_NeedSoap = "需要肥皂",
     ContextMenu_Patch = "缝补",
-    ContextMenu_CantRepair = "修补衣物需要织物、针和线。",
+    ContextMenu_CantRepair = "修补衣物需要织物、针和线",
     ContextMenu_PatchHole = "缝补",
 	ContextMenu_PatchAllHoles = "补上所有的洞，使用 ",
     ContextMenu_RemovePatch = "移除补丁",
 	ContextMenu_RemoveAllPatches = "移除所有补丁",
-    ContextMenu_CantRemovePatch = "需要针。",
+    ContextMenu_CantRemovePatch = "需要针",
     ContextMenu_AddPadding = "添加填充",
 	ContextMenu_AddPaddingAll = "添加填充物到所有，使用 ",
     ContextMenu_NoWeaponsAvailable = "没有武器可用。",
@@ -537,9 +539,17 @@ ContextMenu_CN = {
 	ContextMenu_ComboWasherDryer_SetModeWasher = "设置模式: 洗衣机",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "设置模式: 烘干机",
 	ContextMenu_FuelCapacity = "汽油容量: ",
+	ContextMenu_EnableAutodrink = "启用自动饮水",
+    ContextMenu_DisableAutodrink = "禁用自动饮水",
+    ContextMenu_DisableAutodrink = "禁用自动饮水",
+	ContextMenu_PumpFuelAmount = "燃油泵剩余量",
+    ContextMenu_TooComplicated = "技能水平太低,无法阅读",
+    ContextMenu_Illiterate = "你是文盲",
+    ContextMenu_AmmoType = "弹药类型",
+	
+	
 	
 	--Add Text--
 	
-	ContextMenu_FoodType_Cocoa = "可可粉",
-	
+
 }
