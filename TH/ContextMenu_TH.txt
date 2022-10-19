@@ -87,6 +87,7 @@ ContextMenu_TH = {
 	ContextMenu_WaterSource = "แหล่งน้ำ",
 	Puddle = "แอ่งน้ำ",
 	ContextMenu_NaturalWaterSource = "แหล่งน้ำธรรมชาติ",
+	ContextMenu_ItemWaterCapacity = "ความจุของภาชนะ",
 	
 	-- Crafting menu
 	ContextMenu_Door = "ประตู",
@@ -302,6 +303,7 @@ ContextMenu_TH = {
     ContextMenu_FoodType_Bacon = "เบคอน",
     ContextMenu_FoodType_HotPepper = "พริก",
 	ContextMenu_or = "หรือ",
+	ContextMenu_FoodType_Cocoa = "โกโก้",
 	ContextMenu_RemoveBush = "ถางพุ่มไม้",
 	ContextMenu_RemoveGrass = "ถางหญ้า",
 	ContextMenu_RemoveWallVine = "ถอนไม้เลื้อยกำแพง",
@@ -544,5 +546,11 @@ ContextMenu_TH = {
 	ContextMenu_FoodType_Wine = "ไวน์",
 	ContextMenu_FoodType_Nut = "ถั่ว",
 	ContextMenu_FoodType_Herb = "สมุนไพร",
+	ContextMenu_EnableAutodrink = "เปิดใช้การดื่มน้ำโดยอัตโนมัติ",
+    ContextMenu_DisableAutodrink = "ปิดใช้การดื่มน้ำโดยอัตโนมัติ",
+	ContextMenu_PumpFuelAmount = "ปริมาณเชื้อเพลิงที่เหลืออยู่",
+    ContextMenu_TooComplicated = "ระดับทักษะต่ำเกินกว่าจะอ่านได้",
+    ContextMenu_Illiterate = "คุณไม่รู้หนังสือ",
+    ContextMenu_AmmoType = "ประเภทกระสุน",
 	} 
 	
