@@ -541,15 +541,12 @@ ContextMenu_CN = {
 	ContextMenu_FuelCapacity = "汽油容量: ",
 	ContextMenu_EnableAutodrink = "启用自动饮水",
     ContextMenu_DisableAutodrink = "禁用自动饮水",
-    ContextMenu_DisableAutodrink = "禁用自动饮水",
 	ContextMenu_PumpFuelAmount = "燃油泵剩余量",
     ContextMenu_TooComplicated = "技能水平太低,无法阅读",
     ContextMenu_Illiterate = "你是文盲",
     ContextMenu_AmmoType = "弹药类型",
 	
-	
-	
 	--Add Text--
-	
+
 
 }
