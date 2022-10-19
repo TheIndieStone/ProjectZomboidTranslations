@@ -272,7 +272,6 @@ UI_NO = {
     UI_trait_Mechanics = "Amatørmekaniker",
     UI_trait_MechanicsDesc = "Har en detaljert kompetanse for vanlige- og kommersielle kjøretøymodeller og reparasjon.",
     UI_trait_axeman = "Øksemann",
-    UI_trait_cook = "Kokk",
     UI_prof_Metalworker = "Metallarbeider",
     UI_profdesc_metalworker = "Kan sveise innsanket metall for å lage gjenstander og barrikader.",
     UI_prof_Smither = "Smed",

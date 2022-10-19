@@ -1375,7 +1375,6 @@ UI_CH = {
     UI_trait_claustrodesc = "在室內會恐慌. ",
     UI_trait_clumsy = "笨拙",
     UI_trait_clumsydesc = "移動時製造較多噪音. ",
-    UI_trait_cook = "廚師",
     UI_trait_cowardly = "懦弱",
     UI_trait_cowardlydesc = "特別容易恐慌. ",
     UI_trait_deaf = "耳聾",

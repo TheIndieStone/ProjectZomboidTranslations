@@ -1379,7 +1379,6 @@ UI_IT = {
     UI_trait_claustrodesc = "Ti fai prendere dal panico in ambienti chiusi.",
     UI_trait_clumsy = "Goffo",
     UI_trait_clumsydesc = "Fai più rumore quando ti muovi.",
-    UI_trait_cook = "Cuoco",
     UI_trait_cowardly = "Codardo",
     UI_trait_cowardlydesc = "Ti fai prendere dal panico più facilmente.",
     UI_trait_deaf = "Sordo",

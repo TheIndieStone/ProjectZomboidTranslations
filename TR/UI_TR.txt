@@ -1410,7 +1410,6 @@ UI_TR = {
     UI_trait_claustrodesc = "Kapalı alanda panikler.",
     UI_trait_clumsy = "Sakar",
     UI_trait_clumsydesc = "Hareket ederken daha çok ses çıkarır.",
-    UI_trait_cook = "Aşçı",
     UI_trait_cowardly = "Korkak",
     UI_trait_cowardlydesc = "Paniklemeye meyilli.",
     UI_trait_deaf = "Sağır",
