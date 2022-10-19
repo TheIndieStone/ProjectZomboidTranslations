@@ -229,6 +229,7 @@ IGUI_CN = {
 	IGUI_ItemCat_Literature = "文学",
 	IGUI_ItemCat_MakeUp = "化妆",
 	IGUI_ItemCat_Material = "材料",
+	IGUI_ItemCat_Mole = "鼹鼠",
 	IGUI_ItemCat_Paint = "油漆",
 	IGUI_ItemCat_Raccoon = "浣熊",
 	IGUI_ItemCat_Security = "安全",
