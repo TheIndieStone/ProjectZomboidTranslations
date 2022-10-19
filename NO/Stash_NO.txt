@@ -1,0 +1,350 @@
+Stash_NO = {
+    Stash_AnnotedMap = "Annotert kart",
+
+    Stash_LVMap1_Text1 = "gal pistolmann rip",
+    Stash_LVMap1_Text2 = "huset til en gal pistolmann",
+
+    Stash_LVMap2_Text1 = "gave fra mamma x",
+    Stash_LVMap2_Text2 = "ikke glem å besøke",
+    Stash_LVMap2_Text3 = "bestemors grav hvis du kan",
+    Stash_LVMap2_Text4 = "si en bønn for oss alle",
+
+    Stash_LVMap3_Text1 = "skole",
+    Stash_LVMap3_Text2 = "bilen til han der vaktmestern burde være her",
+    Stash_LVMap3_Text3 = "pass på at gjerdet når du kjører ut!",
+
+    Stash_LVMap4_Text1 = "ikke gidd, kastet bort tiden min her",
+    Stash_LVMap4_Text2 = "trenger slegge",
+    Stash_LVMap4_Text4 = "bensinstasjon",
+
+    Stash_LVMap5_Text1 = "Carlins flyttet hit, Debbie",
+    Stash_LVMap5_Text2 = "Gå til dem hvis du trenger hjelp!",
+    Stash_LVMap5_Text3 = "vi så de tingene",
+    Stash_LVMap5_Text4 = "rundt treningsstudioet her",
+    Stash_LVMap5_Text5 = "ikke gå noe sted om natten!",
+
+    Stash_LVMap6_Text1 = "BORTE BRA MEN HJEMME BEST!",
+
+    Stash_LVMap7_Text1 = "Takk for at du gjorde slutt på meg",
+    Stash_LVMap7_Text2 = "Dette var huset mitt",
+    Stash_LVMap7_Text3 = "Jeg hadde alt jeg trengte",
+    Stash_LVMap7_Text4 = "Trodde jeg",
+
+    Stash_LVMap8_Text1 = "vi er her tredje dør ned",
+    Stash_LVMap8_Text2 = "skynd deg med disse pillene Diego",
+    Stash_LVMap8_Text3 = "DE ER OVER HER, IKKE KOM",
+
+    Stash_LVMap9_Text1 = "skytevåpen og mat i stallen lengst bort - vær forsiktig!",
+    Stash_LVMap9_Text2 = "ikke gå deg vill blant trærne",
+    Stash_LVMap9_Text3 = "de... tingene er der også",
+
+    Stash_LVMap10_Text1 = "gammel kar med huset fullt av mat",
+    Stash_LVMap10_Text2 = "og ingen skytevåpen",
+    Stash_LVMap10_Text3 = "bare ikke ta med hele jævla",
+    Stash_LVMap10_Text4 = "horden med deg denne gangen!",
+
+    Stash_LVMap11_Text1 = "ikke plyndret butikk",
+    Stash_LVMap11_Text2 = "full av zombier",
+    Stash_LVMap11_Text3 = "lagringsenheter",
+    Stash_LVMap11_Text4 = "LV General",
+
+    Stash_LVMap12_Text1 = "pizzadame",
+    Stash_LVMap12_Text2 = "stilig kar som selger burgere",
+    Stash_LVMap12_Text3 = "teltet vårt",
+    Stash_LVMap12_Text4 = "sinsilla kommer til å bli jævla",
+    Stash_LVMap12_Text5 = "fantastisk wooooooo!!!",
+
+    Stash_LVMap13_Text1 = "gode sikre hus",
+    Stash_LVMap13_Text2 = "men vær forsiktig med å rydde bakgårdene",
+    Stash_LVMap13_Text3 = "fungerende bil her",
+
+    Stash_LVMap14_Text1 = "barrikader med plankene jeg tok med",
+    Stash_LVMap14_Text2 = "ellers kommer disse tingene inn",
+    Stash_LVMap14_Text3 = "ikke glem!",
+    Stash_LVMap14_Text4 = "ikke slipp noen inn mens jeg er borte!",
+    Stash_LVMap14_Text5 = "Jeg kommer en halvtime (klokken er 14.30)",
+    Stash_LVMap14_Text6 = "blir det lenger, ring Edwards på radioen",
+    Stash_LVMap14_Text7 = "xxxxx",
+
+    Stash_LVMap15_Text1 = "Den som finner dette, jeg var Natalie Sigmundsson",
+    Stash_LVMap15_Text2 = "lektor i kunsthistorie ved LSU",
+    Stash_LVMap15_Text3 = "Jeg er allerede død, men jeg har en siste forespørsel",
+    Stash_LVMap15_Text4 = "Dette er bare verdens ende vi lar det være."
+    Stash_LVMap15_Text5 = "Vi må sikre skattene i kunstgalleriet, ellers vil vi det",
+    Stash_LVMap15_Text6 = "vær virkelig fortapt. Venner klarte å samle en cache med våpen i",
+    Stash_LVMap15_Text7 = "en bil i nærheten av galleriet. Bruk dem til å fjerne den.",
+    Stash_LVMap15_Text8 = "La ingen si at menneskeheten er tapt for alltid.",
+    Stash_LVMap15_Text9 = "bil",
+
+    Stash_LVMap16_Text1 = "hele denne gaten er farlig",
+    Stash_LVMap16_Text2 = "De har sønnen din her",
+    Stash_LVMap16_Text3 = "kom til oss, det er trygt nå",
+    Stash_LVMap16_Text4 = "vi skal dra sørover",
+    Stash_LVMap16_Text5 = "vær så snill å bli med oss",
+
+    Stash_MulMap1_Text1 = "Her. Gulvbord.",
+    Stash_MulMap1_Text2 = "øks?",
+    Stash_MulMap1_Text3 = "stort publikum",
+    Stash_MulMap2_Text1 = "la det her for deg",
+    Stash_MulMap2_Text2 = "lagring",
+    Stash_MulMap2_Text3 = "hele nabolaget viste seg her",
+    Stash_MulMap3_Text1 = "hagle og ammunisjon - skjult i tilfelle noen andre sjekker",
+    Stash_MulMap3_Text2 = "Maskinvare, verktøy og ting",
+    Stash_MulMap3_Text3 = "masse her",
+    Stash_MulMap4_Text1 = "enklere vei ut",
+    Stash_MulMap4_Text2 = "medisinsk",
+    Stash_MulMap4_Text3 = "det ville vært raskt her - så mange av dem",
+    Stash_MulMap6_Text1 = "Bob, jeg vil ha dette stedet befestet som HELVETE innen jeg kommer tilbake.",
+    Stash_MulMap6_Text2 = "Medikamenter her.",
+    Stash_MulMap6_Text21 = "Husk: antibiotika, bandasjer. Dette beinet blir ikke bedre.",
+    Stash_MulMap6_Text3 = "Så en flokk av dem på vei denne veien. Unngå! Elsker deg x ",
+    Stash_MulMap7_Text1 = "Plan B.",
+    Stash_MulMap7_Text2 = "Butikk – FORTSATT FULL",
+    Stash_MulMap7_Text3 = "rota det til",
+    Stash_MulMap8_Text1 = "Ta tingene mine. Begrav meg hvis du kan, og det er trygt. Gud velsigne deg.",
+    Stash_MulMap8_Text2 = "ta deg en drink hvis du trenger det",
+    Stash_MulMap8_Text3 = "stort publikum, har ikke beveget seg på flere dager",
+    Stash_MulMap10_Text1 = "dødshus",
+    Stash_MulMap10_Text2 = "Spiffo's",
+    Stash_MulMap10_Text3 = "så klart ut her",
+    Stash_MulMap11_Text1 = "Skytevåpen i Spiffo's.",
+    Stash_MulMap11_Text2 = "Narkotika her.",
+    Stash_MulMap11_Text3 = "problemer",
+    Stash_MulMap12_Text1 = "hagle her - mat på kjøkkenet?.",
+    Stash_MulMap12_Text2 = "medisinske greier",
+    Stash_MulMap12_Text3 = "stort publikum",
+    Stash_MulMap13_Text1 = "kom halvveis tilbake, men måtte forlate alt her - for tungt",
+    Stash_MulMap13_Text2 = "rikelig med utstyr fortsatt i jernvarehandel",
+    Stash_MulMap13_Text3 = "skudd",
+
+    Stash_MulMap14_Text1 = "tryggeste huset - barrikader det!",
+    Stash_MulMap14_Text2 = "overalt her",
+    Stash_MulMap14_Text3 = "ikke skyt - lyd tiltrekker dem",
+
+    Stash_MulMap15_Text1 = "gammel lege bor/bodde her",
+    Stash_MulMap15_Text2 = "forsiktig her",
+    Stash_MulMap15_Text21 = "det er der J ble bitt",
+
+    Stash_MulMap16_Text1 = "vekterne ved banken har skytevåpen",
+    Stash_MulMap16_Text2 = "Jeg savner TV og kald øl, gir fingeren til denne verden",
+
+    Stash_MulMap17_Text1 = "zippees har mye rart",
+    Stash_MulMap17_Text2 = "sjekk bakeriet ved siden av også",
+    Stash_MulMap17_Text3 = "vær forsiktig muttern, fattern vandrer fortsatt rundt her",
+
+    Stash_MulMap18_Text1 = "Crazy Willys trailer",
+    Stash_MulMap18_Text11 = "hørte han ble en av dem",
+    Stash_MulMap18_Text12 = "håper alle våpnene hans fortsatt er der",
+
+    Stash_WpMap1_Text1 = "Klart det var her han bodde",
+    Stash_WpMap1_Text2 = "altfor mange til å håndtere, ikke skyt den i nærheten her for guds skyld";
+    Stash_WpMap2_Text1 = "tror hun bodde her",
+    Stash_WpMap2_Text2 = "medisinsk senter",
+    Stash_WpMap2_Text3 = "fant henne gående her, hadde ikke skytevåpen",
+    Stash_WpMap4_Text1 = "Vær modig. Jeg elsker deg.",
+    Stash_WpMap4_Text3 = "IKKE GÅ HER. Megan er her et sted – hun er en av dem.",
+    Stash_WpMap4_Text31 = "Visste ikke at hun var i byen engang. Bare ikke gå",
+    Stash_WpMap5_Text1 = "verktøy jeg la igjen på soverommet vil gi deg et forsprang -",
+    Stash_WpMap5_Text11 = "hold dem ute så lenge du kan jeg ELSKER DEG",
+    Stash_WpMap5_Text2 = "pizza",
+    Stash_WpMap5_Text3 = "problemer",
+    Stash_WpMap6_Text1 = "Jeg trenger ikke alt dette nå. Lykke til.",
+    Stash_WpMap6_Text2 = "Twiggy's",
+    Stash_WpMap6_Text3 = "et lite helvete",
+    Stash_WpMap8_Text1 = "Jolene ble ikke syk. Hun kan hjelpe.",
+    Stash_WpMap8_Text2 = "Butikk med skytevåpen",
+    Stash_WpMap8_Text3 = "så en fyr dø",
+    Stash_WpMap9_Text1 = "et helvete bebodd med zombier",
+    Stash_WpMap9_Text2 = "fars kontor",
+    Stash_WpMap9_Text3 = "pappas kropp",
+    Stash_WpMap10_Text1 = "all slags galskap",
+    Stash_WpMap10_Text2 = "maskinvarebutikken kan fortsatt ha ting",
+    Stash_WpMap10_Text3 = "mer trøbbel",
+    Stash_WpMap11_Text1 = "Spiffos leder pleide å ha en hagle i butikken.",
+    Stash_WpMap11_Text11 = "Den gale jævelen visste hva som kom.",
+    Stash_WpMap11_Text2 = "Urørt maskinvareplass.",
+    Stash_WpMap11_Text3 = "skal unngå hvor som helst i nærheten av hjemmet - ikke se etter meg her",
+    Stash_WpMap12_Text1 = "alle kom inn på kontoret den dagen feberen slo til",
+    Stash_WpMap12_Text11 = "Jeg satte dem inn før de snudde",
+    Stash_WpMap12_Text2 = "Butikk med skytevåpen",
+    Stash_WpMap12_Text3 = "Black Friday litt folkemengder",
+
+    Stash_WpMap13_Text1 = "hagledrap: 12",
+    Stash_WpMap13_Text2 = "øksedrap: 20",
+    Stash_WpMap13_Text3 = "bildrap: 11",
+
+    Stash_WpMap14_Text1 = "Møt meg her Tonya! Har nok mat."
+    Stash_WpMap14_Text11 = "Nå må vi bare vente på Colin med båten hans",
+
+    Stash_WpMap15_Text1 = "De vil aldri finne oss her, stol på meg",
+    Stash_WpMap15_Text11 = "de er dummere enn hundeskit",
+    Stash_WpMap15_Text2 = "God jakt her",
+
+    Stash_WpMap16_Text1 = "Sannsynlige angrep",
+    Stash_WpMap16_Text2 = "Sikker utgang"
+    Stash_WpMap16_Text21 = "gjerde, så sørover over veien til skogen"
+    Stash_WpMap16_Text3 = "sjanser for å overleve:"
+    Stash_WpMap16_Text31 = "én måned: 58 %"
+    Stash_WpMap16_Text32 = "gjennom vinteren: 22 %"
+    Stash_WpMap16_Text4 = "Trenger mer mat og fungerende bil"
+
+    Stash_MarchRidgeMap1_Text1 = "Skytevåpen her",
+    Stash_MarchRidgeMap1_Text2 = "øks og verktøy her?",
+    Stash_MarchRidgeMap1_Text3 = "ikke gå",
+    Stash_MarchRidgeMap2_Text1 = "etterlot deg en pistol",
+    Stash_MarchRidgeMap2_Text2 = "butikken så ut som den hadde forsyninger",
+    Stash_MarchRidgeMap2_Text3 = "migrerer de? Virker som om de skulle hit",
+    Stash_MarchRidgeMap3_Text1 = "jegerfyr her",
+    Stash_MarchRidgeMap3_Text2 = "bakeri",
+    Stash_MarchRidgeMap3_Text3 = "siste stedet jeg så henne",
+    Stash_MarchRidgeMap4_Text1 = "Hvis du klarer det før du snur. Det er noe her som kan hjelpe.",
+    Stash_MarchRidgeMap4_Text11 = "Vi finner hvernadre igjen. På en eller annen måte.",
+    Stash_MarchRidgeMap4_Text2 = "Samfunnshus. Du finner kroppen min her. Jeg elsker deg.",
+    Stash_MarchRidgeMap4_Text3 = "Ønsker Gud at du aldri hadde vært stasjonert her. Men glade minner her.",
+    Stash_MarchRidgeMap5_Text1 = "ikke bruk  skytevåpen - andre våpen her",
+    Stash_MarchRidgeMap5_Text2 = "medisinsk senter",
+    Stash_MarchRidgeMap5_Text3 = "stille her",
+    Stash_MarchRidgeMap6_Text1 = "ting vi kan bruke for å sikre bygningen",
+    Stash_MarchRidgeMap6_Text2 = "ekstra maskinvare",
+    Stash_MarchRidgeMap6_Text3 = "helvete kom ut her",
+    Stash_MarchRidgeMap7_Text1 = "Hvor jeg tror han gjemte seg.",
+    Stash_MarchRidgeMap7_Text2 = "Du trenger sannsynligvis verktøy",
+    Stash_MarchRidgeMap7_Text3 = "Så ham her. Ingen biteskader, men hadde feber.",
+
+    Stash_MarchRidgeMap8_Text1 = "La mine gamle verktøy ligge her"
+    Stash_MarchRidgeMap8_Text2 = "Vil ikke trenge dem lenger"
+
+    Stash_MarchRidgeMap9_Text1 = "overlevende velkommen til å bli med oss"
+    Stash_MarchRidgeMap9_Text2 = "trenger alltid mer mat og våpen og sånt"
+    Stash_MarchRidgeMap9_Text3 = "drep noen Z-er på vei inn for ekstra kudos!"
+
+    Stash_MarchRidgeMap10_Text1 = "Velsignelse for en god sjel",
+    Stash_MarchRidgeMap10_Text2 = "Må det holde deg fra helvete en stund til",
+
+    Stash_RiversideStashMap1_Text1 = "vi er her nå",
+    Stash_RiversideStashMap1_Text11 = "håper å se deg snart",
+    Stash_RiversideStashMap1_Text2 = "forsiktig her!",
+
+    Stash_RiversideStashMap2_Text1 = "Rom 208. Venter på deg",
+    Stash_RiversideStashMap2_Text11 = "Husker du da vi brukte hele dagen på å bare stirre på elven?",
+    Stash_RiversideStashMap2_Text12 = "Ikke la meg være alene her xxx",
+
+    Stash_RiversideStashMap3_Text1 = "videobutikk",
+    Stash_RiversideStashMap3_Text2 = "sprit",
+
+    Stash_RiversideStashMap4_Text1 = "daryl er syk, forlot ham her",
+    Stash_RiversideStashMap4_Text11 = "skal finne Natalie, hun vet hva hun skal gjøre",
+    Stash_RiversideStashMap4_Text2 = "så dem dra ned to personer her, forferdelig",
+
+    Stash_RiversideStashMap5_Text1 = "DEN SOM FINNER DETTE, GÅ IKKE HER",
+    Stash_RiversideStashMap5_Text2 = "DE DREPTE FRANK OG BET MEG",
+
+    Stash_RiversideStashMap6_Text1 = "Eddie må ha noen våpen gjemt her",
+    Stash_RiversideStashMap6_Text11 = "Jævla ville tatt over byen hvis han ikke var syk",
+    Stash_RiversideStashMap6_Text12 = "Håper at psykopaten Vicky ikke kom til dem",
+
+    Stash_RiversideStashMap7_Text1 = "Sett inn på veien forbi - de har alle snudd",
+    Stash_RiversideStashMap7_Text2 = "På vei til Gigamart nå",
+    Stash_RiversideStashMap7_Text21 = "Ikke slåss med Sandra mens jeg er borte",
+
+    Stash_RiversideStashMap8_Text1 = "La deg litt mat her",
+    Stash_RiversideStashMap8_Text11 = "Spis før du drar",
+    Stash_RiversideStashMap8_Text2 = "infiserte vandrer her",
+    Stash_RiversideStashMap8_Text3 = "der jeg så den gruppen mennesker (sannsynligvis døde nå)",
+
+    Stash_RiversideStashMap9_Text1 = "Ton venter på oss her",
+    Stash_RiversideStashMap9_Text2 = "gass",
+    Stash_RiversideStashMap9_Text3 = "Den er litt, men ikke alvorlig - trenger antibiotika i tilfelle",
+
+    Stash_RiversideStashMap10_Text1 = "bank",
+    Stash_RiversideStashMap10_Text2 = "Ikke glem et reservevåpen",
+    Stash_RiversideStashMap10_Text21 = "Øksehodet ditt så litt løst ut",
+    Stash_RiversideStashMap10_Text3 = "Vi drar vestover ut av byen snart, du vet hvor du finner meg",
+
+    Stash_RosewoodStashMap2_Text1 = "Lagret unna noen våpen",
+    Stash_RosewoodStashMap2_Text2 = "her etterpå",
+    Stash_RosewoodStashMap2_Text3 = "slutter akkurat her",
+    Stash_RosewoodStashMap3_Text1 = "Gikk og fant noe utstyr for å hjelpe oss å befeste et sted mens vi venter på det.",
+    Stash_RosewoodStashMap3_Text11 = "Mors gamle sted. Jeg ser deg der x",
+    Stash_RosewoodStashMap3_Text2 = "kan være våpen her - bare i tilfelle",
+    Stash_RosewoodStashMap3_Text3 = "ikke gå denne veien",
+
+    Stash_RosewoodStashMap4_Text1 = "La litt stikk-av-ting her",
+    Stash_RosewoodStashMap4_Text2 = "Når de kommer (og de VIL!)",
+    Stash_RosewoodStashMap4_Text3 = "ta det du kan bære og forsvinn ut i skogen",
+
+    Stash_RosewoodStashMap5_Text1 = "mat her",
+    Stash_RosewoodStashMap5_Text2 = "Ta det rolig",
+    Stash_RosewoodStashMap5_Text3 = "Husk hva som skjedde med Mr Duncan",
+
+    /*
+    Stash_WorldMap1_Text1 = "kom hit! Cara vil hjelpe",
+    Stash_WorldMap1_Text2 = "så infisert her (kanskje flyttet nå)",
+    Stash_WorldMap1_Text4 = "hvis du kjører, gå sakte, ikke tiltrekke dem",
+
+    Stash_WorldMap2_Text1 = "bra sted for base, fjernkontroll",
+    Stash_WorldMap2_Text11 = "barrikader først når du ankommer!",
+    Stash_WorldMap2_Text12 = "gjemte noen våpen inne for deg",
+
+    Stash_WorldMap3_Text1 = "bensin her",
+    Stash_WorldMap3_Text11 = "du trenger det",
+
+    Stash_WorldMap4_Text1 = "Hvor Yana sa at kvinnen bodde",
+    Stash_WorldMap4_Text11 = "Kanskje hun vil hjelpe oss?",
+
+    Stash_WorldMap5_Text1 = "Paulie la igjen ting her",
+    Stash_WorldMap5_Text11 = "Se etter utkikksposter før du går inn",
+    Stash_WorldMap5_Text12 = "og ikke glem å brenne dette kartet!!!",
+
+    Stash_WorldMap6_Text1 = "bra greier her",
+    Stash_WorldMap6_Text2 = "for plyndring - for stor til å sikre",
+    Stash_WorldMap6_Text3 = "Andy",
+
+    Stash_WorldMap7_Text1 = "fyll opp her",
+    Stash_WorldMap7_Text2 = "dixie full av infiserte",
+    Stash_WorldMap7_Text21 = "hvor kom de alle fra",
+
+    Stash_WorldMap8_Text1 = "kens ting, burde være nyttige",
+    Stash_WorldMap8_Text2 = "vær forsiktig med folk som følger deg",
+    Stash_WorldMap8_Text21 = "ikke bare zombiene",
+
+    Stash_WorldMap9_Text1 = "jernbanegård",
+    Stash_WorldMap9_Text2 = "kassene rundt, kan fylles med ting",
+    Stash_WorldMap8_Text3 = "kontorer, ingenting",
+    Stash_WorldMap8_Text4 = "varehus?",
+
+    Stash_WorldMap10_Text1 = "BENSINSTASJON",
+    Stash_WorldMap10_Text2 = "KLeSBUTIKK",
+    Stash_WorldMap10_Text3 = "SPIFFO'S",
+    Stash_WorldMap10_Text4 = "BILER",
+
+    Stash_WorldMap11_Text1 = "Skål 3 på tårn 2 - mister signal rundt 6 GHz - strømproblem",
+    Stash_WorldMap11_Text11 = "Få HQ til å teste med Lexington senere",
+
+    Stash_WorldMap12_Text1 = "STORE campingplasser - alt vi trenger (unntatt Janes piller)",
+    Stash_WorldMap12_Text11 = "må ryddes først, men har mye mat, senger, peis",
+    Stash_WorldMap12_Text2 = "LIVSFARLIG: kjøpesenter mot nord, hundrevis av infiserte der",
+
+    Stash_WorldMap13_Text1 = "Hal, vi skal hit, burde være trygt",
+    Stash_WorldMap13_Text11 = "Jeg vet det er vanskelig, men IKKE TA MED PAULA",
+    Stash_WorldMap13_Text12 = "Du må i det minste redde deg selv",
+
+    Stash_WorldMap14_Text1 = "bestemor",
+    Stash_WorldMap14_Text2 = "her tok de bestefar",
+    Stash_WorldMap14_Text3 = "Herren beskytte dem",
+
+    Stash_WorldMap17_Text1 = "patrulje blindsone",
+    Stash_WorldMap17_Text2 = "V vil slå av bevegelsessensorer 23.15 nøyaktig",
+    Stash_WorldMap17_Text21 = "Ikke bli distrahert! Følg V, ta bildene dine, kom deg ut",
+
+    Stash_WorldMap18_Text1 = "Ben",
+    Stash_WorldMap18_Text2 = "sti",
+
+    Stash_WorldMap19_Text1 = "Sta faen! Ta i det minste våpnene jeg la igjen i fru Cuddys hus",
+    Stash_WorldMap19_Text11 = "Hvis du dør, vil jeg aldri tilgi deg!!!",
+
+    Stash_WorldMap19_Text1 = "IDIOT",
+    Stash_WorldMap19_Text2 = "TULLING",
+    Stash_WorldMap19_Text3 = "RASHØLL",
+    */
+}
