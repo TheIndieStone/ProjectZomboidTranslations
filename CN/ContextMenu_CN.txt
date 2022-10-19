@@ -87,6 +87,7 @@ ContextMenu_CN = {
 	ContextMenu_WaterSource = "水源",
 	Puddle = "水坑",
 	ContextMenu_NaturalWaterSource = "天然水源",
+	ContextMenu_ItemWaterCapacity = "目标水容量",
 	
 	-- Crafting menu
 	ContextMenu_Door = "门",
@@ -302,6 +303,7 @@ ContextMenu_CN = {
     ContextMenu_FoodType_Bacon = "培根",
     ContextMenu_FoodType_HotPepper = "辣椒",
     ContextMenu_FoodType_Rice = "米饭",
+	ContextMenu_FoodType_Cocoa = "可可粉",
     ContextMenu_or = "或",
     ContextMenu_RemoveBush = "清理灌木",
     ContextMenu_RemoveGrass = "清理杂草",
@@ -537,9 +539,17 @@ ContextMenu_CN = {
 	ContextMenu_ComboWasherDryer_SetModeWasher = "设置模式: 洗衣机",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "设置模式: 烘干机",
 	ContextMenu_FuelCapacity = "汽油容量: ",
+	ContextMenu_EnableAutodrink = "启用自动饮水",
+    ContextMenu_DisableAutodrink = "禁用自动饮水",
+    ContextMenu_DisableAutodrink = "禁用自动饮水",
+	ContextMenu_PumpFuelAmount = "燃油泵剩余量",
+    ContextMenu_TooComplicated = "技能水平太低，无法阅读",
+    ContextMenu_Illiterate = "你是文盲",
+    ContextMenu_AmmoType = "弹药类型",
+	
+	
 	
 	--Add Text--
 	
-	ContextMenu_FoodType_Cocoa = "可可粉",
-	
+
 }
