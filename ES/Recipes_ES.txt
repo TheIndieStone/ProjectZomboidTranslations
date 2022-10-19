@@ -397,4 +397,10 @@ Recipes_ES = {
 	Recipe_Make_Biscuits = "Preparar galletas",
 	Recipe_Make_Onigiri = "Preparar Onigiri",
 	Recipe_Open_Condensed_Milk = "Abrir leche condensada enlatada",
+	Recipe_Make_Chocolate_Chip_Cookie_Dough = "Hacer masa de galletas con pepitas de chocolate",
+	Recipe_Make_Chocolate_Cookie_Dough = "Hacer masa de galletas de chocolate",
+	Recipe_Make_Oatmeal_Cookie_Dough = "Hacer masa de galletas de avena",
+	Recipe_Make_Shortbread_Cookie_Dough = "Hacer masa de galletas de mantequilla",
+	Recipe_Make_Sugar_Cookie_Dough = "Hacer masa de galletas de azúcar",
+	Recipe_Scoop_Ice_Cream = "Preparar cucurucho de helado",
 }

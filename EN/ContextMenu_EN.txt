@@ -87,6 +87,7 @@ ContextMenu_EN = {
 	ContextMenu_WaterSource = "Water source",
 	Puddle = "Puddle",
 	ContextMenu_NaturalWaterSource = "Natural Water Source",
+	ContextMenu_ItemWaterCapacity = "Item Water Capacity",
 
 	-- Crafting menu
 	ContextMenu_Door = "Door",
@@ -302,6 +303,7 @@ ContextMenu_EN = {
     ContextMenu_FoodType_Bacon = "Bacon",
     ContextMenu_FoodType_HotPepper = "Hot Peppers",
     ContextMenu_FoodType_Rice = "Rice",
+    ContextMenu_FoodType_Cocoa = "Cocoa",
     ContextMenu_or = "or",
     ContextMenu_RemoveBush = "Remove Bush",
     ContextMenu_RemoveGrass = "Remove Grass",
@@ -537,4 +539,10 @@ ContextMenu_EN = {
     ContextMenu_ComboWasherDryer_SetModeWasher = "Set Mode: Washer",
     ContextMenu_ComboWasherDryer_SetModeDryer = "Set Mode: Dryer",
     ContextMenu_FuelCapacity = "Item fuel capacity: ",
+    ContextMenu_EnableAutodrink = "Enable Autodrink",
+    ContextMenu_DisableAutodrink = "Disable Autodrink",
+	ContextMenu_PumpFuelAmount = "Fuel Pump Amount Remaining",
+    ContextMenu_TooComplicated = "Skill level too low to read",
+    ContextMenu_Illiterate = "You're illiterate",
+    ContextMenu_AmmoType = "Ammo Type",
 } 

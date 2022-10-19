@@ -61,7 +61,7 @@ Farming_NO = {
   Farming_Tooltip_FurrowHasSeeds = "Furen har allerede frø.",
   Farming_Tooltip_RequiredSeeds = "Krever frø: ",
   Farming_Strawberry plant = "Jordebærplante",
-  Farming_Tomat = "Tomat",
+  Farming_Tomato = "Tomat",
   Farming_Plowed_Land = "Pløyd land",
   Farming_MissingItem = "Du trenger %1",
   }

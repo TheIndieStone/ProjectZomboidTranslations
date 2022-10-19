@@ -1,58 +1,71 @@
 Challenge_AR = {
     Challenge_YouHaveOneDay_name = "Tenes un día",
-    Challenge_YouHaveOneDay_desc = "Estás de vuelta en Knox County. Estás de vuelta en el mapa donde empezó la infección Project Zomboid. <LINE> <LINE> Tendras un dia de relativa tranquilidad. Los Zombies llegarán en grandes cantidades, y te encontraran. ¿Donde planeas aguantar? ¿En el mismo lugar que lo hacías en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestros agradecimientos al mapper de la comunidad BobHeckling por recrear el viejo mapa de la versión 0.1.5 con las herramientas actuales de  PZ.]",
+    Challenge_YouHaveOneDay_desc = "Estás de vuelta en Knox County. Estás de vuelta en el mapa donde empezó la infección Project Zomboid. <LINE> <LINE> Tendras un dia de relativa tranquilidad. Los Zombies llegarán en grandes cantidades, y te encontraran. ¿Donde planeas aguantar? ¿En el mismo lugar que lo hacías en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestros agradecimientos al mapper de la comunidad BobHeckling por recrear el viejo mapa de la versión 0.1.5 con las herramientas actuales de PZ.]",
     Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu viaje de vuelta a Knox County habrá sido tu peor idea...",
+
     Challenge_WinterIsComing_name = "Se viene el invierno",
     Challenge_WinterIsComing_desc = "Son mediados de Enero, pero de repente el viento se pone fresco. En tres días el invierno llegará como nunca antes. <LINE> <LINE> Te despertaste en un lugar aislado. Tienes muy pocos suministros, y las hordas de zombies podrán ir más despacio por el frío pero no son menos mortales. <LINE> <LINE> Mantente caliente, superviviente...",
     Challenge_WinterIsComingInfoBox = " <CENTRE> Un invierno eterno empieza en tres días. <LINE> <LINE> Mantente caliente...",
+
     Challenge_OpeningHours_name = "Horario de apertura",
-    Challenge_OpeningHours_desc = "El shoping está rodeado. Hace tiempo, fue un lugar importante en sus vidas. El instinto los condujo a las puertas. Un recuerdo de lo que solían ser... <LINE> <LINE> Estas solo, pero no por mucho. A las 9 AM el shoping estará listo: las puertas se abrirán, y las hordas entrarán. <LINE> <LINE> Prepárate para ellos.",
+    Challenge_OpeningHours_desc = "El shopping está rodeado. Hace tiempo, fue un lugar importante en sus vidas. El instinto los condujo a las puertas. Un recuerdo de lo que solían ser... <LINE> <LINE> Estas solo, pero no por mucho. A las 9 AM el shopping estará listo: las puertas se abrirán, y las hordas entrarán. <LINE> <LINE> Prepárate para ellos.",
     Challenge_OpeningHoursInfoBox = " <CENTRE> El shoping abre a las 9 AM. <LINE> <LINE> Prepárate para la multitud...",
+
     Challenge_AReallyCDDAy_name = "Un día realmente malo",
-    Challenge_AReallyCDDAy_desc = "Saliste de la ducha y te caiste feo. Estas muy borracho, y estas muy resfriado. <LINE> <LINE> ¡Sobre todo eso, la casa está en llamas! Obviamente no es tu dia. <LINE> <LINE> [Un desafío inspirado en  A Really Bad Day del asombroso, extraordinario y MUY JUGADO Cataclysm: Dark Days Ahead] ",
+    Challenge_AReallyCDDAy_desc = "Saliste de la ducha y te caíste feo. Estas muy borracho y muy resfriado. <LINE> <LINE> ¡Encima, la casa está en llamas! Obviamente no es tu día. <LINE> <LINE> [Un desafío inspirado en A Really Bad Day del asombroso, extraordinario y MUY JUGADO Cataclysm: Dark Days Ahead] ",
+    
     Challenge_Challenge1_name = "Cabaña del bosque - Último en pie",
     Challenge_Challenge1_desc = "Puedes escuchar como vienen. Hordas de zombies, invadiendo tu aislada cabaña desde todos los ángulos. Tu muerte es inevitable, pero tienes una escopeta a mano. <LINE> <LINE> El modo último en pie presenta hordas interminables de zombies que cada vez son más grandes. Sobrevive mientras puedas a pesar de las escasas posibilidades.",
-    Challenge_Challenge2_name = "Cabaña del bosque - Último en pie - Acumulador",
-    Challenge_Challenge2_desc = "Otro dia, otra cabaña lista para llenarse de sangre. Las hordas están por llegar, y tu muerte será espantosa y doloroza. Salí y pelea... <LINE> <LINE> El modo último en pie - Acumulador  último en pie presenta hordas interminables de zombies que cada vez son más grandes. Usa el dinero obtenido matando zombies para comprar equipo, subir de nivel y reparar tu armamento ensangrentado.",
+    
+    Challenge_Challenge2_name = "Cabaña del bosque - Último en pie acumulador",
+    Challenge_Challenge2_desc = "Otro día, otra cabaña lista para llenarse de sangre. Las hordas están por llegar, y tu muerte será espantosa y doloroza. Salí y pelea... <LINE> <LINE> El modo último en pie - Acumulador último en pie presenta hordas interminables de zombies que cada vez son más grandes. Usa el dinero obtenido matando zombies para comprar equipo, subir de nivel y reparar tu armamento ensangrentado.",
+    
     Challenge_AStormIsComing_name = "Se viene una tormenta",
     Challenge_AStormIsComing_desc = "Las nubes aparecen sobre Kentucky. El ruido de los truenos se escucha a lo lejos. <LINE> <LINE> Con el cielo negro, los muertos que vagan por la tierra se sienten inquietos. <LINE> <LINE> Esta tormenta aumenta y aumentará en su ferocidad, está nunca terminara.",
     Challenge_AStormIsComingInfoBox = " <CENTRE> Una tormenta eterna se aproxima...",
+    
     Challenge_TheDescendingFog_name = "Niebla descendiente",
-    Challenge_TheDescendingFog_desc = "La gente primero la vio sobre el agua. Una pequeña sábana blanca sobre el río Ohio. <LINE> <LINE> Empezó como una niebla común. Luego cubrió la ciudad. Los ciudadanos murieron entre gritos y oscuridad. Ahora caminan dentro de ella. <LINE> <LINE> Sin ser vistos y escuchados, en busca de los que aún están vivos.",
+    Challenge_TheDescendingFog_desc = "La gente primero la vio sobre el agua. Una pequeña sábana blanca sobre el río Ohio. <LINE> <LINE> Empezó como una niebla común. Luego cubrió la ciudad. Los ciudadanos murieron entre gritos y oscuridad. Ahora caminan dentro de ella. <LINE> <LINE> Invisibles, sin hacer ruido, implacables en busca de los que aún están vivos.",
     Challenge_TheDescendingFogInfoBox = " <CENTRE>La niebla empieza a aparecer...",
+   
     Challenge_Kingsmouth_name = "Kingsmouth",
-    Challenge_Kingsmouth_desc = "¡Disfruta de tu tiempo de descanso en la isla Kingsmout!",
+    Challenge_Kingsmouth_desc = "¡Disfruta de tu tiempo de descanso en la isla Kingsmouth!",
+   
     Challenge_Studio_name = "Estudio",
     Challenge_Studio_desc = "¡Donde se filman las mejores películas!",
-    Challenge_Challenge2_PressKey = "Apreta 'o' para obtener bonificaciones permanentes o gastar dinero.",
-    Challenge_Challenge2_WaveStart = "La oleada %1 empieza en : %2 (Apreta Enter para omitir)",
-    Challenge_Challenge2_WaveDuration = "Duracion de oleada %1 : %2",
+    -- On-screen UI
+    Challenge_Challenge2_PressKey = "Apretá 'o' para obtener bonificaciones permanentes o gastar dinero.",
+    Challenge_Challenge2_WaveStart = "La oleada %1 empieza en: %2 (Apretá Enter para omitir)",
+    Challenge_Challenge2_WaveDuration = "Duracion de oleada %1: %2",
     Challenge_Challenge2_ZombiesLeft = "Zombies restantes: %1",
     Challenge_Challenge2_Money = "Dinero: %1",
     Challenge_Challenge2_Money2 = "Dinero de jugador %1: %2",
-    Challenge_Challenge2_WaveFinished = "Oleada %1 terminada en : %2",
+    Challenge_Challenge2_WaveFinished = "Oleada %1 terminada en: %2",
     Challenge_Challenge2_MoneyGained = "Dinero conseguido: %1",
     Challenge_Challenge2_XPGained = "Experiencia conseguida: %1",
+    -- Window
     Challenge_Challenge2_WindowTitle = "Último en pie",
     Challenge_Challenge2_TabPlayer = "Jugador",
     Challenge_Challenge2_Weapons = "Armas",
     Challenge_Challenge2_TabItems = "Objetos",
     Challenge_Challenge2_TabRepair = "Arreglar",
+    Challenge_Challenge2_CurrentXp = "Experiencia: %1",
+    Challenge_Challenge2_ButtonSkill = "%1 Nivel %2 - %3 Experiencia",
+    Challenge_Challenge2_ButtonSkillMax = "%1 Nivel máximo",
+    Challenge_Challenge2_GoldBonus = "Bonus de dinero",
+    Challenge_Challenge2_XpBonus = "Bonus de Experiencia",
+    Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 Experiencia",
+    Challenge_Challenge2_ButtonBonusMax = "%1 Maximo",
+    Challenge_Challenge2_ButtonStartGold = "+%1 Dinero inicial - %2 Experiencia",
+    Challenge_Challenge2_ButtonStartGoldMax = "Dinero inicial máximo %1",
+    -- PlayerUpWindow
     Challenge_Challenge2_Skills = "Habilidades",
     Challenge_Challenge2_PermanentBonus = "Bonificacion permanente",
+    -- VariousItemWindow
     Challenge_Challenge2_Carpentry = "Carpintería",
     Challenge_Challenge2_Health = "Vida",
     Challenge_Challenge2_ItemButton = "%1 - %2",
     Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
-    Challenge_Challenge2_RepairWeapon = "Arreglar arma",
-    Challenge_Challenge2_Health = "Vida",
-    Challenge_Challenge2_GoldBonus = "Bonus de dinero",
-    Challenge_Challenge2_ButtonBonusMax = "%1 Maximo",
-    Challenge_Challenge2_ButtonSkill = "%1 Nivel %2 - %3 XP",
-    Challenge_Challenge2_ButtonStartGoldMax = "Dinero inicial máximo %1",
-    Challenge_Challenge2_XpBonus = "Bonus de XP",
-    Challenge_Challenge2_ButtonStartGold = "+%1 Dinero inicial - %2 XP",
-    Challenge_Challenge2_ButtonSkillMax = "%1 Nivel máximo",
-    Challenge_Challenge2_CurrentXp = "XP : %1",
-    Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+    -- WeaponRepairWindow
+    Challenge_Challenge2_RepairWeapon = "Arreglar arma"
 }

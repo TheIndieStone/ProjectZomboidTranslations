@@ -457,7 +457,7 @@ IG_UI_PL = {
     IGUI_HotbarAttachment_SmallBeltLeft = "Lewy pasek",
     IGUI_HotbarAttachment_SmallBeltRight = "Prawy pasek",
     IGUI_Hotkey = "KLAWISZ",
-    IGUI_HouseKey = "Klucz od budynku",
+    IGUI_HouseKey = "Klucz",
     IGUI_ISTradingUIHistorical_Title = "Dziennik handlu %1",
     IGUI_InflateTire = "Napompuj oponę",
     IGUI_InfoPanel_Inventory = "<CENTRE> <SIZE:large> Witamy w Project Zomboid! <LINE> <LINE> <SIZE:medium>Niedługo umrzesz okrutną śmiercią. Nikt nie będzie po tobie płakał ani długo wspominał, a twoje wszystkie trudy okażą się daremne. <LINE> <LINE> Weź się więc w garść i walcz! <LINE> <LINE> (wciśnij spację, aby kontynuować)",
@@ -1118,8 +1118,8 @@ IG_UI_PL = {
     IGUI_Tutorial1_Shotgun1bJoypad = " <SIZE:medium> Możesz wspinać się na wysokie ogrodzenia, jeśli Twoje umiejętności są na odpowiednio wysokim poziomie i nie padasz z wyczerpania. <LINE> <LINE> <SIZE:large> Spełniasz te warunki! <LINE> <LINE> <SIZE:large> Wciśnij przycisk <JOYPAD:BButton,28,28>, aby przejść przez ogrodzenie.",
     IGUI_Tutorial1_Shotgun2 = " <CENTRE> <SIZE:medium> Co za wysportowanie! Czas narobić hałasu. <LINE> <LINE> Przygotuj strzelbę! <LINE> <LINE> <SIZE:large> Wyceluj w zgnilców, przytrzymując PPM.",
     IGUI_Tutorial1_Shotgun2Joypad = " <SIZE:medium> Ale masz krzepę! Czas narobić trochę hałasu. <LINE> <LINE> Przygotuj strzelbę! <LINE> <LINE> <SIZE:large> Wyceluj w zgniłków, przytrzymując drążek <JOYPAD:RStick,28,28>.",
-    IGUI_Tutorial1_Shotgun3 = " <CENTRE> <SIZE:medium> Zbliżają się! <LINE> <LINE> Zielona obwódka oznacza wysoką szansę na trafienie. <LINE> <LINE> <SIZE:large> Przytrzymaj PPM, aby wycelować i wciśnij LPM, aby wystrzelić.",
-    IGUI_Tutorial1_Shotgun3Joypad = " <SIZE:medium> Nadchodzą! <LINE> <LINE> Zielony obrys oznacza wysoką szansę na trafienie w cel! <LINE> <LINE> <SIZE:large> Podczas celowania przytrzymując drążek <JOYPAD:RStick,28,28>, wciśnij przycisk <JOYPAD:RTrigger,28,28>, aby wystrzelić.",
+    IGUI_Tutorial1_Shotgun3 = " <CENTRE> <SIZE:medium> Zbliżają się! <LINE> <LINE> <RGB:GHCR,GHCG,GHCB> Obrys w tym kolorze oznacza wysoką szansę na trafienie w cel! <RGB:1,1,1> <LINE> <LINE> <SIZE:large> Przytrzymaj PPM, aby wycelować i wciśnij LPM, aby wystrzelić.",
+    IGUI_Tutorial1_Shotgun3Joypad = " <SIZE:medium> Nadchodzą! <LINE> <LINE> <RGB:GHCR,GHCG,GHCB> Obrys w tym kolorze oznacza wysoką szansę na trafienie w cel! <RGB:1,1,1> <LINE> <LINE> <SIZE:large> Podczas celowania przytrzymując drążek <JOYPAD:RStick,28,28>, wciśnij przycisk <JOYPAD:RTrigger,28,28>, aby wystrzelić.",
     IGUI_Tutorial1_Shotgun4 = " <CENTRE> <SIZE:medium> Wszyscy nie żyją! Smuteczek! <LINE> <LINE> Nic to, wkrótce do nich dołączysz! <LINE> <LINE>  Każde zombie z lasu usłyszało wystrzał i idą teraz w Twoim kierunku! <LINE> <LINE> <SIZE:large> Wciśnij klawisz '%1' , aby znów przejść przez ogrodzenie z siatki i ucieknij!",
     IGUI_Tutorial1_Shotgun4Joypad = " <SIZE:medium> Wszyscy nie żyją! Smuteczek! Nic to, wkrótce do nich dołączysz! <LINE> <LINE> Każde zombie z lasu usłyszało wystrzał i idą teraz w Twoim kierunku! <LINE> <LINE> <SIZE:large> Wciśnij przycisk <JOYPAD:BButton,28,28>, aby znów przejść przez ogrodzenie z siatki i ucieknij!",
     IGUI_Tutorial1_Shotgun5 = " <CENTRE> <SIZE:medium> Nadchodzą! <LINE> <LINE> Wiesz już, jak biegać, ale teraz czas na sprint! Biegnij sprintem do znacznika przy wychodku, teraz! <LINE> <LINE> <SIZE:large> Wciśnij %1, aby się poruszać i %2, aby biec sprintem.",
@@ -1536,7 +1536,7 @@ IG_UI_PL = {
     IGUI_invpanel_drop_all = "Wyrzuć wsz.",
     IGUI_invpanel_drop_one = "Wyrzuć 1",
     IGUI_invpanel_unpack = "Wypakuj",
-    IGUI_invpanel_weight = "Waga",
+    IGUI_invpanel_weight = "Obciążenie",
     IGUI_media_addMedia = "Włóż płytę / kasetę",
     IGUI_media_dragCD = "Przeciągnij i upuść tutaj płytę CD lub wciśnij PPM, aby ją wyjąć.",
     IGUI_media_dragVHS = "Przeciągnij i upuść tutaj kasetę VHS lub kliknij PPM, aby ją wyjąć.",
@@ -1594,4 +1594,16 @@ IG_UI_PL = {
 	IGUI_MapOption_Symbols = "Symbole",
 	
 	IGUI_PlayerText_ItemNameTooLong = "Nazwa nie może być dłuższa niż %1 znaków.",
+	
+	IGUI_ItemCat_Badger = "Borsuk"
+	IGUI_ItemCat_Beaver = "Bóbr"
+    IGUI_ItemCat_Bunny = "Królik"
+	IGUI_ItemCat_FirstAid = "Pierwsza pomoc",
+	IGUI_ItemCat_Fox = "Lis"
+	IGUI_ItemCat_Hedgehog = "Jeż"
+	IGUI_ItemCat_Mole = "Kret"
+	IGUI_ItemCat_Squirrel = "Wiewiórka"
+	IGUI_Sleep_NotSafe = "To nie jest bezpieczne miejsce do spania.",
+			
+	
 }
