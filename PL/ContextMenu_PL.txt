@@ -534,4 +534,13 @@ ContextMenu_PL = {
 	
 	ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
 	ContextMenu_FuelCapacity = "Pojemność paliwa przedmiotu: ",
+	
+	ContextMenu_ItemWaterCapacity = "Pojemność wody",
+	ContextMenu_FoodType_Cocoa = "Kakao",
+	ContextMenu_EnableAutodrink = "Włącz automatyczne picie",
+    ContextMenu_DisableAutodrink = "Wyłącz automatyczne picie",
+	ContextMenu_PumpFuelAmount = "Ilość paliwa pozostała w pompie",
+    ContextMenu_TooComplicated = "Poziom umiejętności jest za niski, aby to przeczytać",
+    ContextMenu_Illiterate = "Nie umiesz czytać ani pisać",
+    ContextMenu_AmmoType = "Rodzaj amunicji",
 }

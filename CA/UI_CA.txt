@@ -271,7 +271,6 @@ UI_CA = {
     UI_trait_Mechanics = "Mecànic aficionat",
     UI_trait_MechanicsDesc = "Té un coneixement detallat dels vehicles comuns i comercials i la seua reparació.",
     UI_trait_axeman = "Destraler",
-    UI_trait_cook = "Cuiner",
     UI_prof_Metalworker = "Soldador",
     UI_profdesc_metalworker = "Pot soldar metall trobat per a crear mobles i barricades.",
     UI_prof_Smither = "Ferrer",

@@ -988,7 +988,6 @@ UI_RO = {
     UI_trait_claustrodesc = "Te panichezi când ești înauntru.",
     UI_trait_clumsy = "Stângaci/e",
     UI_trait_clumsydesc = "Faci mai mult zgomot atunci când te miști.",
-    UI_trait_cook = "Bucătar",
     UI_trait_cowardly = "Laș(ă)",
     UI_trait_cowardlydesc = "Ușor de a se panica.",
     UI_trait_deaf = "Surd",

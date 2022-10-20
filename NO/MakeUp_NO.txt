@@ -1,0 +1,37 @@
+MakeUp_EN = {
+    MakeUpCategory_Eyes = "Øyne",
+    MakeUpCategory_EyesShadow = "Øyenskygge",
+    MakeUpCategory_FullFace = "Fult ansikt",
+    MakeUpCategory_Lips = "Lepper",
+    
+    MakeUpType_EyesCrow = "Kråke",
+    MakeUpType_EyesRedStripes1 = "Røde striper 1",
+    MakeUpType_EyesRedStripes2 = "Røde striper 2",
+    MakeUpType_EyesCamo1 = "Camo 1",
+    MakeUpType_EyesCamo2 = "Camo 2",
+    MakeUpType_EyesCamoStripes = "Striper",
+    MakeUpType_EyesFootball = "Fotball",
+    
+    MakeUpType_EyeShadowWhite = "Hvit øyenskygge",
+    MakeUpType_EyeShadowLightBlue = "Lyseblå øyenskygge",
+    MakeUpType_EyeShadowBlue = "Blå øyenskygge",
+    MakeUpType_EyeShadowRed = "Rød øyenskygge",
+    MakeUpType_EyeShadowPink = "Rosa øyenskygge",
+    MakeUpType_EyeShadowGreen = "Grønn øyenskygge",
+    MakeUpType_EyeShadowYellow = "Gul øyenskygge",
+    
+    MakeUpType_FullFaceCamo1 = "Full Camo 1",
+    MakeUpType_FullFaceCamo2 = "Full Camo 2",
+    MakeUpType_FullFaceWarrior = "Kriger",
+    MakeUpType_FullFaceClown1 = "Klovn 1",
+    MakeUpType_FullFaceClown2 = "Klovn 2",
+    MakeUpType_FullFaceSkull1 = "Hodeskalle 1",
+    MakeUpType_FullFaceSkull2 = "Hodeskalle 2",
+    
+    MakeUpType_LipsRed = "Rød leppestift",
+    MakeUpType_LipsLightBlue = "Lyseblå leppestift",
+    MakeUpType_LipsBlue = "Blå leppestift",
+    MakeUpType_LipsBlack = "Svart leppestift",
+    MakeUpType_LipsGreen = "Grønn leppestift",
+    MakeUpType_LipsPink = "Rosa leppestift",
+}

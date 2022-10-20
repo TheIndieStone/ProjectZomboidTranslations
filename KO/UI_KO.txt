@@ -327,7 +327,6 @@ UI_KO = {
     UI_trait_nutritionistdesc = "음식의 영양가를 알게 됩니다.",
     UI_trait_deafdesc = "소리를 들을 수 없습니다.",
     UI_trait_Cook = "요리",
-    UI_trait_cook = "요리",
     UI_trait_Cook2Desc = "요리를 만들 수 있습니다.",
     UI_trait_CookDesc = "다양한 레시피를 알고 있습니다.",
     UI_trait_Blacksmith = "대장장이",
