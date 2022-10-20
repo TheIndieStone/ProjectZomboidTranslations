@@ -6547,3 +6547,370 @@ Re-added previously removed IGUI_PlayerText_CanNotExitFromMovingCar string
 Removed the -Xss1280k stack-size JVM parameter from Linux ProjectZomboid.json files.
 Increased Linux and Mac -Xmx=2048m to -Xmx=3072m max-heap JVM parameter to match Windows.
 Fixed NullPointerException in IsoGameCharacter.Eat().
+Increased allowed map_meta.bin and map_zone.bin file size from 20MB to 50MB in multiplayer.
+Fixed a redundant/duplicate exclusive trait definition in MainCreationMethods.lua that could allow the Obese trait to be taken twice under some circumstances.
+
+[VERSION]41.74 - 41.77
+[SECTION]41.77.7 Hotfix October 17th:
+
+znet libraries were rebuilt.
+Minor revision number now displayed on main menu instead of just inside the console.
+[NODOT]<BR> 
+Fixed being stuck on the connection screen or a black screen when trying to connect to a co-op server.
+Fixed: log messages and NPE during the processing of the RakNet already-connected packet.
+Fixed instances of clients being unable to connect to a server where logs showed that the client is already connected. The client will use 127.0.0.1 to connect if it is a co-op host.
+Fixed host connections from remote clients.
+The client will save coop server logs to the logs.zip file before and after each start.
+
+[SECTION]Hotfix October 7th:
+Rebuilt znet libraries
+Fixed /banid command
+
+[SECTION]MP
+
+Improved client connection.
+[NODOT]<INDENT:40> Important for server providers: Servers now have two ports for clients to connect to.
+[NODOT]<INDENT:40> The game port (UDP 16261 by default) is used to handle Steam queries. The additional port (UDP 16262 by default) is used to handle the direct connection. These ports can be configured through the server options.
+[NODOT]<INDENT:40> Clients will first try to use a direct connection. If direct connection fails, clients will try to connect via Steam.
+[NODOT]<INDENT:40> The non-Steam version works as usual.
+[NODOT]<INDENT:40> UPnP rules were changed accordingly (UPnP is used in cases to prevent manual port-forwarding).
+[NODOT]<INDENT:40> The client will show the warning message "WARNING: SERVER HAS PORT %1 CLOSED. PERFORMANCE MAY BE SEVERELY AFFECTED" if the client can't connect through direct connection.
+[NODOT]<BR> 
+ZNet libraries rebuilt for Windows, Linux, and Mac.
+ZNet, Connection, and Kick logs are improved.
+[NODOT]<BR> 
+Improved Type5, and Type21-24 Anti-Cheat behaviour to reduce false positives.
+[NODOT]<INDENT:40> A note that if you do not run a public server (i.e. a server exclusively for you and your family & friends without the worry of griefing and cheating), you can entirely circumvent any sort of frustration with false positives by disabling all AntiCheat protections in the servers .ini file.
+[NODOT]<BR> 
+Split the large ConnectionDetails packet into several smaller packets with one of the ConnectionDetailsPacket.State enum values indicating which data is requested.
+Improved algorithm for the transmission of large files while playing.
+Loading screen now shows the download status of large files when connecting to a server.
+Extended checksum logs for debugging CRC differences.
+Increased kick delay for CRC differences.
+Additional logs were added.
+[NODOT]<BR> 
+Fixed ObjectModData packets not being sent while the server was in the FastForward state.
+Fixed bug in world dictionary when an item in a different module but with a similar name as an vanilla item was removed.
+Fixed a new stubble Beard getting added to remote players after each appearance change, which resulted in receivePlayerZombieDescriptors errors.
+Fixed kicks after disabling VOIP.
+Fixed connecting to host after disconnection from a dedicated server.
+Fixed infinite connection attempt to non-steam server when it's not up.
+Fixed the client displaying "Disconnected" instead of "Wrong username or password".
+Fixed players being able to change their saved password for an already created account in some instances.
+Fixed Type21 black screen at connection stage when Type21 anti-cheat check is disabled.
+Fixed the character model always using media/textures/Body/Masks instead a clothing item's UnderlayMasks folder.
+Fixed black screen issues with certain mod constellations.
+Fixed the timed-action progress bar position not being updated during actions without a fixed duration.
+Fixed the animation speed of the timed-action progress bar at different framerates.
+
+[SECTION]NEW
+
+Added a looping progress bar for timed actions that have no defined end. This is mainly a stopgap "fix" for entering cars, to visualize that there is an ongoing unfinished action until we can have visually open doors, etc.
+[NODOT]<INDENT:40>Specifically added for the scenarios where players reported being bitten through the car door after they had entered a car and interrupted the "enter car" action before it could finish (e.g. by opening the map, etc), i.e. before the door was "closed".
+[NODOT]<INDENT:40>This bar extends to other "infinite" actions like Walk To.
+
+[SECTION]MODELS
+
+Added new body locations: Jacket_Bulky, JacketHat_Bulky, TorsoExtraVest, and JacketSuit.
+Assigned new body locations to existing clothing items to avoid clipping.
+Tweaked and added many clothing masks to avoid clipping through each other.
+Adjusted several clothing models and bone weighting to improve clipping.
+Removed Bowling shirt model from Bowling shirt definitions and made Bowling Shirt a texture. The model was left in the files in case mods use it.
+Improved base Body mask to help with clipping.
+Re-exported ALICE packs as some straps were missing. 
+
+[VERSION]41.78
+
+[SECTION]NEW
+Added a prompt for the updated Terms of Service as we are a big boy game now and have to fit in with the other biggerer boys.
+[NODOT]<BR> 
+Added sandbox option to disable Fake Dead Reanimation. Disabled Fake deads in MP by default.
+Added more control over fake dead behaviour to the sandbox options; having zombies that were "killed" having a chance to become fake dead is an option that is off by default.
+Added sandbox option that allows Corpse Maggot spawning to be disabled or limited to corpse inventory.
+Added sandbox option that allows poisoning food to be disabled, or for poisoning food with bleach to be disabled.
+Added sandbox option to disable the Tainted Water Tooltip/Warning for hardcore play
+Added sandbox option for enabling/disabling XP multipliers affecting passive skills, which is false by default.
+Added sandbox option that prevents survivor vehicles from spawning.
+Added sandbox option "Light Bulb Lifespan". This does not affect Light Bulbs in vehicles, only in light fixture tiles.
+[NODOT]<BR> 
+Added "Randomize" options to Zombie sandbox options for Memory, Sight, and Hearing.
+Added loot rarity settings "Incredibly Rare" and "None", as well as a "Super Low" option for Fuel Pump content. 
+[NODOT]<BR> 
+Items from table stories/randomized stories/etc will still spawn when loot rarity is set to none.
+[NODOT]<BR> 
+Renamed Item "Weight" to "Encumbrance" in the UI and context menu. 
+[NODOT]<BR> 
+Added an Accessibility Option that makes the player character automatically walk to a click container within a short radius of 3 tiles.
+Added the ability to set custom "Good" and "Bad" highlighting colours in the Accessibility Options menu. This is applied to things like traits, tooltips, and the aiming outline.
+Added an option to bind "Walk To" to a key instead of having to go through the RMB menu.
+Added highlighting to clicked Crates so it's easier to tell which crate is selected.
+Added a Context Menu entry that enables/disables Auto-Drink.
+Tiles that are being disassembled will now be highlighted in the "bad colour", red being the default.
+[NODOT]<BR> 
+Resolutions higher than 1440p will have their zoom levels adjusted to allow closer zoom-in, bringing it more in line with lower resolutions.
+[NODOT]<BR> 
+Disabled some Randomized Survivor Safehouses from occurring in instances where a building has over 10 rooms, or is a spawn location. The limit is 10 for some and 20 for other Randomized Survivor Safehouses.
+[NODOT]<INDENT:40> This also means the Toilet Paper story is now disabled in buildings that have over 10 rooms or are spawn locations, which will likely reduce the amount of Reddit posts about it by 50%.
+Added a check to prevent any of the randomized burnt building stories from occurring if the building is a spawn location.
+[NODOT]<BR> 
+Added "HasMetal" tag for items. This tag was added to food and water items in metal containers, which will now set microwaves on fire when microwaved.
+[NODOT]<BR> 
+Adjusted the mechanics UI so that both the Battery Charge and Condition are included in the Battery entry in the list of parts.
+Modified the vehicle mechanics UI to prominently feature the % of a full tank of gas it has, in addition to the battery charge.
+[NODOT]<BR> 
+Added a few more existing clothing options to the character creation.
+Added the ability to destroy only one wall when selecting corner walls.
+Replaced the bucket world static model textures with metal icons and textures and not plastic ones, as buckets are now metal and not plastic.
+Updated the BucketEmpty and BucketWaterFull scripts with tooltips and IsCookable to reflect that they are now metal and not plastic.
+Changed the icon of the Watering Can With Water to match the Empty Water Can and the Watering Can models.
+Added a stale tooltip for perishable food to display, when appropriate, that such food is neither fresh nor rotten.
+Added tooltip to Club Hammers and Mallets explaining that they are unsuitable for driving nails.
+Flatpack model is applied to movable items that use the Flatpack icon.
+Made more food items capable of being added to tacos and burritos.
+Bell Pepper can now be added to Stews.
+[NODOT]<BR> 
+Added a check so cooked eggs cannot be used for inappropriate non-evolved recipes.
+Removed the requirement for hot water to make a bowl of oats.
+Changed the Violet FoodType to NoExplicit.
+[NODOT]<BR> 
+Trash tiles (Movable items) and Plastic Bags can now be used as tinder and fuel for fires.
+Changed the Sawed-off Shotgun recipes to only use the hacksaw, and not the garden saw; a wood saw would be unable to cut through the metal barrel of a shotgun.
+Added the Meat Cleaver to the Slice Onions recipe. Removed it from the Jack-o'-lantern recipe.
+[NODOT]<BR> 
+Changed the Cigarettes script to prioritize using Matches before a Lighter if both are in the same inventory.
+Added a new Doctor's bag and military duffel bag.
+Renamed "Hemophobic" trait to "Fear of Blood".
+Vehicle Spawn Chance rate can now be a float value instead of just an int.
+Added a check to prevent items that "weigh" over 50 units from being put in vehicle seats.
+[NODOT]<INDENT:40> This is an ongoing issue with bags/containers that are modded over capacity, which get stuck once placed in vehicle seats when the bag + contents have an Encumbrance of >50.
+[NODOT]<BR> 
+Changed translation strings to make bottle names more consistent.
+Changed IGUI_HouseKey from "House Key" to "Key" to avoid issues with non-residential keys.
+[NODOT]<BR> 
+Removed the numeric information tooltip provided when selecting eat all/half/quarter food item context options.
+Commented out the tool definitions in ClothingRecipesDefinitions as they currently are nonfunctional and serve no purpose aside from confusing modders.
+[NODOT]<BR> 
+Commented out the WoodenLance in the safehouse weapons distro lists; that item is redundant vs SpearCrafted, and also doesn't work with spear recipes. SpearCrafted already spawns with safehouse weapons.
+Replaced AmmoStraps in the safehouse armor distro list with AmmoStraps_Bullets and AmmoStraps_Shells.
+Changed the display name translation string for the wearable AmmoStraps items to Bandolier on account of consistent confusion with the weapon attachment that is also called Ammo Straps.
+Changed the display name translation string for firearm magazines to use the firearm it is for, and not the caliber, as the prefix. Solves having two .308 Magazines, for both the MSR788 and the M14, and also that's how they're named in real life.
+Added a tooltip to firearm magazines that displays the ammunition type that it accepts.
+[NODOT]<BR> 
+Added missing models for Candy Corn, Candied Fruit Slices, Hot Sauce, Fountain Cups, JuJubes, Nettles, Shrimp Dumplings, Poached Eggs, Scrambled Eggs, Packaged Corn, Pickled Ginger, Sugar Cookies, Fish Sushi, Radio Receivers,Radio Transmitters, Gummy Bears, Gummy Worms, and Tent Kits.
+[NODOT]<BR> 
+Added checks for a null VehicleScript to IsoPlayer.getNearVehicle() and IsoZombie.getNearVehicle().
+
+[SECTION]MULTIPLAYER
+Added server option "KnockedDownAllowed" to enable/disable the PVP knockdown. 
+[NODOT]<INDENT:40> This is a stopgap change to give servers an option to make PVP combat less frustrating before we can address PVP combat more directly in the future.  
+[NODOT]<BR> 
+Added auto-completion for player nicknames when pressing TAB while typing in the Chatbox.
+Added RCON command "checkModsNeedUpdate" to check for mods that need to be updated.
+Allow other non-admin permission levels to delete items in inventory/containers.
+[NODOT]<BR> 
+Fixed the multiplayer "whisper" command corrupting the Lua environment due to multithreading.
+Fixed being unable to claim a safehouse unless standing on the ground floor.
+Fixed not checking upper floors for other players or zombies when claiming a safehouse.
+Fixed an exception on the server when food rots into a new item in a container that isn't in the world any longer.
+Fixed new stubble getting added to remote players after each appearance change.
+Fixed text annotations not appearing on annotated maps in multiplayer.
+Fixed Endurance sync in the Admin Health Tool. 
+Fixed a bug that didn't display mods in the mod list of a server in the ESC menu. 
+Fixed admins being unable to remove car hoods while inside the vehicle.
+Fixed players being unable to interact with Radios they placed themselves. 
+Fixed a safehouse owner always respawning in their safehouse when the option to do so is unchecked.
+
+[SECTION]BALANCE
+Modified the M16 & M14 critical values to be more consistent with other rifles.
+[NODOT]<INDENT:40> M16 CriticalChance changed from 30 to 25.
+[NODOT]<INDENT:60> Added CritDmgMultiplier 10
+[NODOT]<INDENT:60> Added AimingPerkCritModifier 12
+[NODOT]<INDENT:40> M14 CriticalChance changed from 0 to 30.
+[NODOT]<INDENT:60> Added CritDmgMultiplier 10
+[NODOT]<INDENT:60> AimingPerkCritModifier 15
+Disabled the cumulative slowdown until the next shot when firing the M16 in automatic mode. Firing the M16 in automatic mode will cumulatively reduce the chance of a critical with each additional shot. This is intended to represent the loss in accuracy due to recoil.
+Set some traits to be mutually exclusive to remove exploits or illogical combinations.
+[NODOT]<BR> 
+Hot-Wiring a vehicle will have a low chance of causing a car alarm. The chance for this is decreased further for higher electronics skill levels. 
+Zombies pushing up against a previously unentered stationary vehicle have a chance to set off an alarm. 
+Removed the undesired RNG check that made vehicle alarms go off only 20% of the time.
+Fixed car hoods being unable to trigger vehicle alarms.
+[NODOT]<BR> 
+Disabled being able to make melee attacks while inside a vehicle with the window rolled down.
+[NODOT]<BR> 
+Randomized the fall damage that zombies take. This randomized spread will average out to the previous damage before it was randomized; this will have a minor impact (hohoho) on the damage that zombies that fall suffer, but slightly more of them will be able to be killed by this than before.
+Made it so groin injuries from not-crawler zombies are less common, and that crawlers can also inflict uncommon groin injuries.
+[NODOT]<BR> 
+Increased the yield of metal parts when scrapping wrecked vehicles by 33%.
+Added a new procedural container, "CratePropane", to garages and shed.
+Increased the spawn rates for Propane Tanks in the distributions.
+[NODOT]<BR> 
+Trailer capacity now reduces slightly when damaged, as there was no point in repairing them before.
+Changed Bowling Ball Bag capacity from 2 to 8.
+Increase number of Plaster uses to 10, same as Paint.
+Allow plastic bags and money to be used as tinder
+[NODOT]<BR> 
+Adjusted the capacities of pistol and revolver cases from 7 down to 4.
+Adjusted Encumbrance of the sturdy stick item to 1 to be more consistent with other items.
+Adjusted Encumbrance of fire extinguishers to 2, to be consistent with other items.
+Decreased Encumbrance of Walkie-Talkies.
+Adjusted Encumbrance of the TreeBranch item to match that of a crafted spear, to 1.7 from 1; 
+[NODOT]<INDENT:40> The Encumbrance discrepancy has been remarked upon repeatedly, and this also serves in making item Encumbrance more consistent.
+Adjusted the amount of fuel that spawns in fuel pumps at Low and Very Low.
+[NODOT]<BR> 
+Updated the nutritional value for Canned Evaporated Milk. Calories 472; Carbs, Lipids, and Proteins at 23.6
+Changed the days until rotten for Bagels from 2 to 6.
+Gave the Stir Fry and roast script items a default hunger value of 10. This was previously reported as a bug when players spawned the item in instead of making it via the evolved recipe.
+[NODOT]<BR> 
+Maggots are slightly more poisonous. 
+Fewer maggots spawn, especially in spring and fall (maggots don't spawn during winter).
+Maggots are now a default item in the world item removal lists. Added a comment for the world item removal lists explaining that Base.Maggots should stay in the list due to corpse maggots.
+Additional safeguard to prevent errors when using mods that remove maggots altogether.
+
+[SECTION]DEBUG / MODDING
+Added a search bar to the LootZed cheat panel.
+Added vehicle distributions to LootZed.
+Improved inventory check-in Check Stats panel.
+[NODOT]<BR> 
+Right-clicking on a fuel pump in debug mode will display the amount of fuel in the pump in the right-click context menu.
+[NODOT]<BR> 
+Added isStartValid function check for BaseTimedAction. Allows checking if an action is valid before the action starts. 
+Added saving ModData from IsoGameCharacter to IsoDeadBody and from IsoDeadBody to IsoZombie.
+Added "OnPlayerGetDamage" event.
+Added event "OnWeaponHitThumpable" (Args: character, weapon, object)
+Added a trigger for the OnFillContainer Event when vehicle part containers are filled.
+Added the tag "CarBattery" which can be used with mod item car batteries so they can be charged with the vanilla car battery charger.
+Added the event "OnThrowableExplode", which transmits the IsoTrap and IsoSquare when one detonates.
+Added a toggle option in the vehicle debug context menu that will show if a vehicle's alarm is enabled or disabled.
+Changed Fast Move cheat in debug. Players can now levitate on different height levels via the PageUP/PageDown keys, and move around via the Arrow Keys on the different height levels.
+Made ImageScale, SeatOffsetY and SeatOffsetX global and not local in ISVehicleSeatUI.
+"Missing translation", "ignoring invalid ItemPicker item type", and "VEHICLE MISSING CONT DISTRIBUTION" console messages will now only appear when using debug mode.
+[NODOT]<LINE> 
+Fixed issues with the Tile picker:
+[NODOT]<INDENT:40> Fixed being unable to lock Doors placed via Tile Picker.
+[NODOT]<INDENT:40> Fixed Tree Tile issues.
+[NODOT]<INDENT:40> Fixed electronic tiles (TV, radio, generators, etc).
+[NODOT]<INDENT:40> Fixed Garage Doors.
+[NODOT]<INDENT:40> Fixed Street Light tiles.
+[NODOT]<INDENT:40> Fixed Search Bar issues.
+[NODOT]<INDENT:40> Fixed Light Switches.
+[NODOT]<INDENT:40> Fixed not showing all tiles.
+[NODOT]<INDENT:40> Fixed Fireplace objects.
+[NODOT]<INDENT:40> Fixed Wells and Lights.
+[NODOT]<LINE> 
+Fixed characters in godmode still changing body weight.
+Fixed instances of the Cheat Menu not working after a player died. 
+Fixed removing bodies via Horde manager not working in SP.
+Fixed being stuck in a vehicle after trying to uninstall/install a car part through the Mechanics Cheat, when a character was inside the vehicle.
+Fixed bug with health panel: Fully healing a body part now also removes its muscle fatigue.
+Fixed mod texture packs being loaded before Core.TileScale was set based on the double-sized-textures option. This would result in 2x texture packs being loaded instead of 1x texture packs.
+[NODOT]<LINE> 
+
+[SECTION]FIXES
+Fixed only being able to add Maple syrup to "PancakesRecipe" and not to "PancakesCraft" or "Pancakes".
+Fixed not being able to make 2 or 4 bowls of Rice or Pasta with a Saucepan anymore.
+Fixed lipstick not being appliable when player had Foundation Makeup in inventory
+Fixed Make-Up not being appliable when in a car.
+Fixes and changes to item categories.
+Fixed destroying a wall with a Lightswitch on it not destroying the Lightswitch too.
+Fixed making 2/4 bowls from a Saucepan returning a Cooking Pot.
+Fixed putting a hat on a Mohawk resetting hair growth timer.
+Fixed not being able to make a Molotov with an Empty Beer bottle.
+Fixed repeatedly building/disassembling some carpentry objects increasing the number of Planks sometimes.
+Fixed Sand/Gravel Bag wall behaviour when built at an angle.
+Fixed selected part of a garment in the "Inspect" UI being too faint.
+Fixed Shirts and other clothing items getting auto-removed from the world.
+Fixed unnecessary extra Muffin recipe. United the two existing Muffin recipes into one.
+Fixed being able to make Cake Batter using rotten ingredients below level 7.
+Fixed unused Zombie Decomposition sandbox option still being listed.
+Fixed NullPointerException in bThump animation variable when the object isn't loaded.
+Fixed being unable to click on open doors in an adjacent room.
+Fixed the starting house in "A Really CDDAy" challenge sometimes not being on fire.
+Fixed possible Lua error in MOBarricade.lua when a barricade sprite is on the east or south edge of a chunk.
+Fixed minor issues in ISZoneDisplay UI and text colours.
+Fixed Foraging icons rerolling when a search focus was selected.
+Fixed ISSearchManager check for valid zoneData when loading icons.
+Fixed not being able to rip Jeans/Leather Jackets when they're on the ground instead of the player inventory.
+Fixed disassembly of Favourited items.
+Fixed randomized crashed cars not having the correct car keys spawned for them.
+Fixed Mouse Trap related collision.
+Fixed sound issue when pressing W and S at the same time.
+Fixed sound issue when switching Seats while Cruise Control was enabled.
+Fixed Refill tool not updating the container visually.
+Fixed incorrectly named recipe for making Wooden Box Traps.
+Fixed several tile and cutaway issues.
+Fixed Lighters draining completely when used with a Molotov.
+[NODOT]<INDENT:40> When a Lighter is equipped it will no longer automatically become lit, instead it will do so only if activated using the flashlight keybind or radial menu, or using the inventory context menu option to activate them.
+Fixed evolved recipe error in scripts for Lemons and Lime.
+Fixed Machetes not losing condition when used to craft spears from branches/planks.
+Fixed Empty Beer Bottle using the wrong icons.
+Fixed the space before commas in evolved recipe item names.
+Fixed missing recipe for Opening Canned Fruit Beverage.
+Changed "Canned Condensed Milk" to "Canned Evaporated Milk" because people are really passionate about milk in can lore.
+Fixed melted ice cream not rotting.
+Fixed house keys spawning with a long string of numbers in their display name.
+Fixed climb sheet rope speed.
+Fixed water collision bug when placing Stairs on water.
+Fixed missing textures for Flatpack model.
+Fixed ISInventoryPaneContextMenu.doEvorecipeMenu error.
+Fixed the on-screen keyboard returning asterisks instead of the actual text when entering passwords.
+Fixed microwaves not stopping the StoveTimer sound when turned off.
+Fixed missing context menu translation string for "Item Water Capacity".
+Fixed missing movables translation strings for Oak Bars.
+Fixed missing translation string for foodtype cocoa.
+Fixed wrong tooltip for Onion Slices.
+Fixed pies and cakes being able to be sliced when uncooked.
+Fixed frozen ice cream cones causing boredom and unhappiness; added the "GoodFrozen" tag for such items that should still be enjoyable when frozen.
+Fixed characters not limping when they had their groin bitten. 
+Fixed being able to fill a square over its capacity by using the Place Item interface.
+Fixed cooking rotten eggs producing fresh boiled eggs; now if food is rotten and has a "replace on cooked" value, it will not be replaced but will still be cooked, i.e. you will get a cooked rotten egg when you cook a rotten egg.                                             
+Fixed Propane Torch not being used for disassembling objects.                                          
+Fixed Walking and sprinting not burning more calories than standing still.
+Fixed NullPointerExeption when throwing a bomb from above ground level with a controller.
+Fixed not being able to pick items that were dropped to a removed seat slot.
+Fixed being stuck on a seat when trying to change seat twice in different places.
+Fixed being able to do Fitness during sleep and while sitting in a car.
+Fixed the eternal fire after destroying a lit campfire with a sledgehammer.
+Fixed Map objects disappearing when a player aims at a stealthing player.
+Fixed bug with item icons in halo text when foraging.
+Fixed a bug with locking/unlocking doors inside buildings.
+Fixed different values between standard and evolved recipes for Soup.
+Fixed an issue where the interaction between the two different separate zombie population sandbox settings was inconsistent between singleplayer and multiplayer sandbox setting interfaces.
+Fixed equipping "Bandana (face)" placing the bandana on the head. 
+Fixed not being able to get a key ring. Some zombies will now have their house or vehicle key in a key ring, and key rings can also sometimes be found in store displays with watches.
+Fixed that it was impossible for a randomized name to be "Pat Bren".
+Fixed adding poisonous berries or mushrooms to an evolved recipe did not make the product poisonous.
+Fixed missing icon for Scrambled Eggs.
+Fixed currently nonfunctional bayonet and gunlight items not being commented out in the distribution files.
+Fixed missing models/textures for Fountain Cups, Recipe Pizza and Recipe Bread.
+Fixed missing "Obsolete" parameter to BakingTrayBread as it's an unused test item without a model.
+Fixed missing checks to prevent buildings with inappropriate randomized dead survivor stories from being alarmed.
+Fixed being able to use the place item option to place infinite items in a floor square.
+Fixed cut and paste error in the unused function HandWeapon.getToHitMod.
+Fixed an exploit where players, especially ones with desensitized, were able to sleep immediately after breaking LOS with zombies.
+Fixed a couple of inconsistencies between the default MP settings and the Apocalypse setting on account of the loot setting changes.
+Fixed CannedMilk not having the parameter CannedFood = TRUE.
+Fixed only pouring 50 units when selecting the option to put 100 units of water into a farming plot.
+Fixed an issue with the vehicle alarm debug tool, BaseVehicle.setAlarmed also needed to set previouslyEntered to false for the vehicle when enabling an alarm.
+Fixed car horns continuing when switching seats while honking.
+Fixed being able to hold down keys while AFKing to grind nimble; now a check is made to ensure that the character has actually moved before awarding XP.
+Fixed error with broken glass script name in distro files.
+Fixed hazmat suit missing blood locations.
+Fixed being able to put uncooked bacon into tacos and burritos.
+Fixed Pink Hair Dye not being in the distribution lists.
+Fixed not being able to put Black Beans into a salad.
+Fixed Strength XP levels causing slower Sheet Rope climbing at certain levels, especially at level 10.
+Fixed bugged interaction with building metal objects and the Propane Torch.
+Fixed not being able to disassemble car wrecks due to a missing Propane Torch, even though it was in inventory. This needs Balance feedback since the usage per Torch was also changed.
+Fixed interaction when pressing shift+e near passenger seat to move to the drivers seat.
+Fixed ISBuryCorpse action validity check.
+Fixed using a firearm to repair another firearm evaporating the ammo, magazine, and attachments of the first weapon. The items will now be placed in the player's inventory.
+Fixed being unable to read in a car when the engine was running.
+Fixed zombies spawning inside buildings when the zombie populations is set to 0.
+Fixed missing world static model for Bag_ShotgunDblSawnoffBag.
+Fixed search window tooltips still appearing on hover when the world map is open.
+Fixed player able to walk away while equipping items to scrap or destroy an object to perform the actions from afar.
+Fixed dismantling floors with the character on top by moving character to an adjacent square where possible.
+Fixed disassembly context menu issue: added highlighting of target object in world and object texture in disassembly tooltips
+Fixed reflective and shooting glasses having reversed icons.
+Fixed some events of ZomboidSoundMP.bank not playing for remote clients. This is to potentially fix sounds cutting out when several players are together.
