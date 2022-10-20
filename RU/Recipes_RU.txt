@@ -168,6 +168,7 @@ Recipe_RU = {
 	Recipe_Place_Rice_in_Saucepan = "Засыпать рис в кастрюльку",
 	Recipe_Place_Ingredients_in_Roasting_Pan = "Приготовить стир-фрай",
 	Recipe_Prepare_Beverage = "Приготовить напиток",
+	Recipe_Prepare_Soup = "Приготовить суп",
 	Recipe_Prepare_Burger = "Приготовить бургер",
 	Recipe_Prepare_Cake = "Добавить топпинг к торту",
 	Recipe_Prepare_Pasta = "Приготовить спагетти",
