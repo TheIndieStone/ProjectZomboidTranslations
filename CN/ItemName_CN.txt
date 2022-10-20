@@ -873,7 +873,6 @@ ItemName_CN = {
 	ItemName_Base.HotDrinkSpiffo = "马克杯(热饮)",
 	ItemName_Base.HotDrinkTea = "茶杯(热茶)",
     ItemName_Base.HotDrinkWhite = "马克杯(热饮)",
-    ItemName_Base.Hotdog = "热狗",
     ItemName_Base.Hotsauce = "辣酱",
     ItemName_Base.HottieZ = "脏比辣妹",
     ItemName_Base.HuntingKnife = "猎刀",
@@ -1977,4 +1976,5 @@ ItemName_CN = {
 	
 	--Add Text--
 	ItemName_Base.Maggots2 = "蛆",
+
 }
