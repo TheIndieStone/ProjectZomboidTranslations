@@ -4,6 +4,7 @@ Tooltip_PTBR = {
 	Tooltip_food_Uncooked = "Cru",
 	Tooltip_food_Rotten = "Podre",
 	Tooltip_food_Fresh = "Fresco",
+	Tooltip_food_Stale = "Não Fresco",
 	Tooltip_food_Cooked = "Cozido",
 	Tooltip_food_Burnt = "Queimado",
 	Tooltip_food_Hunger = "Fome",
@@ -302,4 +303,14 @@ Tooltip_PTBR = {
     	Tooltip_BookTitle_9 = "Mestre em %1",
 	Tooltip_item_Watermelon = "Tem que ser fatiado ou destruído antes de ser consumido.",
 	Tooltip_item_NeedsSliced = "Precisa ser fatiado antes de ser adicionado na maioria das receitas.",
+	-- As linhas da bússola não são usadas no momento, pois o item "Bússola" ainda não foi implementado.
+	Tooltip_compass_9 = "Direção da Bússola: Norte",
+	Tooltip_compass_8 = "Direção da Bússola: Noroeste",
+	Tooltip_compass_7 = "Direção da Bússola: Oeste",
+	Tooltip_compass_4 = "Direção da Bússola: Sudoeste",
+	Tooltip_compass_1 = "Direção da Bússola: Sul",
+	Tooltip_compass_2 = "Direção da Bússola: Sudeste",
+	Tooltip_compass_3 = "Direção da Bússola: Leste",
+	Tooltip_compass_6 = "Direção da Bússola: Nordeste",
+	Tooltip_no_nails = "Muito pesado para fixar pregos.",
 }
