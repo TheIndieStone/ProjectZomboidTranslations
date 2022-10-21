@@ -200,7 +200,7 @@ Tooltip_CH = {
     Tooltip_food_Fat = "脂肪",
     Tooltip_food_Fatigue = "疲勞",
     Tooltip_food_Fresh = "新鮮",
-	Tooltip_food_Stale = "變質",
+    Tooltip_food_Stale = "變質",
     Tooltip_food_Frozen = "冷凍",
     Tooltip_food_Hunger = "飢餓",
     Tooltip_food_Prots = "蛋白質",
@@ -296,21 +296,21 @@ Tooltip_CH = {
     Tooltip_BookTitle_9 = "大師%1",
     Tooltip_food_Slice = "切片",
     Tooltip_food_SlightDanger_uncooked = "未烹煮可能導致不適和嘔吐.",
-    Tooltip_item_OnlyPurifyMicrowave = "內容物只能使用微波爐消毒.",	
+    Tooltip_item_OnlyPurifyMicrowave = "內容物只能使用微波爐消毒.",
     Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "內容物只能使用微波爐消毒.<br>放置於戶外地面時可收集雨水.",
     Tooltip_item_Watermelon = "需要先切片或是砸碎才能食用.",
     Tooltip_item_NeedsSliced = "需要先切片才能作為食材利用.",
     Tooltip_item_TaintedWater_Plastic = "髒水, 不適合飲用. <br>使用微波爐消毒. ",
-	
+    
 -- Compass lines are currently unused since the compass item is not implemented yet.
-	Tooltip_compass_9 = "指針指向: 北方.",
-	Tooltip_compass_8 = "指針指向: 西北方.",
-	Tooltip_compass_7 = "指針指向: 西方.",
-	Tooltip_compass_4 = "指針指向: 西南方.",
-	Tooltip_compass_1 = "指針指向: 南方.",
-	Tooltip_compass_2 = "指針指向: 東南方.",
-	Tooltip_compass_3 = "指針指向: 東方.",
-	Tooltip_compass_6 = "指針指向: 東北方.",
-	
-	Tooltip_no_nails = "過於粗笨, 無法釘釘子.",
+    Tooltip_compass_9 = "指針指向: 北方.",
+    Tooltip_compass_8 = "指針指向: 西北方.",
+    Tooltip_compass_7 = "指針指向: 西方.",
+    Tooltip_compass_4 = "指針指向: 西南方.",
+    Tooltip_compass_1 = "指針指向: 南方.",
+    Tooltip_compass_2 = "指針指向: 東南方.",
+    Tooltip_compass_3 = "指針指向: 東方.",
+    Tooltip_compass_6 = "指針指向: 東北方.",
+    
+    Tooltip_no_nails = "過於粗笨, 無法釘釘子.",
 }

@@ -1,22 +1,27 @@
 MultiStageBuild_CH = {
-    MultiStageBuild_CreateMetalWall_1 = "建造金屬牆等級 1",
-    MultiStageBuild_CreateMetalWall_2 = "建造金屬牆等級 2",
-    MultiStageBuild_CreateMetalWindow_1 = "建造金屬窗等級 1",
-    MultiStageBuild_CreateMetalWindow_2 = "建造金屬窗等級 2",
+    -- Wooden Wall
     MultiStageBuild_CreateWoodenWall_1 = "建造木牆等級 1",
-    MultiStageBuild_CreateWoodenWall_2 = "建造木牆等級 2",
-    MultiStageBuild_CreateWoodenWall_3 = "建造木牆等級 3",
-    MultiStageBuild_CreateWoodenWindow_1 = "建造木窗等級 1",
-    MultiStageBuild_CreateWoodenWindow_2 = "建造木窗等級 2",
-    MultiStageBuild_CreateWoodenWindow_3 = "建造木窗等級 3",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "升級至金屬牆等級 2",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "升級至金屬窗等級 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "升級至木門框等級 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "升級至木門框等級 3",
     MultiStageBuild_UpgradeWoodenWall_1To2 = "升級至木牆等級 2",
+    MultiStageBuild_CreateWoodenWall_2 = "建造木牆等級 2",
     MultiStageBuild_UpgradeWoodenWall_1To3 = "升級至木牆等級 3",
     MultiStageBuild_UpgradeWoodenWall_2To3 = "升級至木牆等級 3",
+    MultiStageBuild_CreateWoodenWall_3 = "建造木牆等級 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "建造木窗等級 1",
     MultiStageBuild_UpgradeWoodenWindow_1To2 = "升級至木窗等級 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "建造木窗等級 2",
     MultiStageBuild_UpgradeWoodenWindow_1To3 = "升級至木窗等級 2",
     MultiStageBuild_UpgradeWoodenWindow_2To3 = "升級至木窗等級 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "建造木窗等級 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "建造金屬牆等級 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "升級至金屬牆等級 2",
+    MultiStageBuild_CreateMetalWall_2 = "建造金屬牆等級 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "建造金屬窗等級 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "升級至金屬窗等級 2",
+    MultiStageBuild_CreateMetalWindow_2 = "建造金屬窗等級 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "升級至木門框等級 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "升級至木門框等級 3",  
 }
