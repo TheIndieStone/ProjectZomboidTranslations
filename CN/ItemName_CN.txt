@@ -2,7 +2,7 @@ ItemName_CN = {
     ItemName_Base.223Box = ".223子弹(盒装)",
     ItemName_Base.223Bullets = ".223子弹",
     ItemName_Base.223BulletsMold = ".223子弹模具",
-    ItemName_Base.223Clip = ".223弹匣",
+    ItemName_Base.223Clip = ".223弹夹",
     ItemName_Base.308Box = ".308子弹(盒装)",
     ItemName_Base.308Bullets = ".308子弹",
     ItemName_Base.308BulletsMold = ".308子弹模具",
@@ -439,7 +439,7 @@ ItemName_CN = {
     ItemName_Base.ComicBook = "漫画书",
     ItemName_Base.CommonMallow = "锦葵",
     ItemName_Base.CompostBag = "袋装堆肥",
-    ItemName_Base.ConcretePowder = "袋装混凝土",
+    ItemName_Base.ConcretePowder = "袋装混凝土粉",
     ItemName_Base.Cone = "甜筒",
     ItemName_Base.ConeIcecream = "甜筒冰淇淋",
     ItemName_Base.ConeIcecreamToppings = "甜筒冰淇淋",
@@ -871,7 +871,7 @@ ItemName_CN = {
     ItemName_Base.HotDrink = "马克杯(热饮)",
 	ItemName_Base.HotDrinkRed  = "马克杯(热饮)",
 	ItemName_Base.HotDrinkSpiffo = "马克杯(热饮)",
-	ItemName_Base.HotDrinkTea = "茶杯(热茶)",
+	ItemName_Base.HotDrinkTea = "茶杯(热饮)",
     ItemName_Base.HotDrinkWhite = "马克杯(热饮)",
     ItemName_Base.Hotsauce = "辣酱",
     ItemName_Base.HottieZ = "脏比辣妹",
@@ -1975,6 +1975,7 @@ ItemName_CN = {
     ItemName_farming.WateredCanFull = "洒水壶(水)",
 	
 	--Add Text--
-	ItemName_Base.Maggots2 = "蛆",
+	ItemName_Base.Bag_DoctorBag = "医生包",
+	ItemName_Base.Bag_Military = "军用行李袋",
 
 }
