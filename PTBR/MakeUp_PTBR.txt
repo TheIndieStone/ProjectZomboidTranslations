@@ -10,7 +10,7 @@ MakeUp_PTBR = {
     MakeUpType_EyesCamo1 = "Camuflado 1",
     MakeUpType_EyesCamo2 = "Camuflado 2",
     MakeUpType_EyesCamoStripes = "Listras",
-    MakeUpType_EyesFootball = "Futebol",
+    MakeUpType_EyesFootball = "Futebol Americano",
 
     MakeUpType_EyeShadowWhite = "Sombra Branca",
     MakeUpType_EyeShadowLightBlue = "Sombra Azul Claro",
