@@ -882,7 +882,7 @@ UI_IT = {
     UI_optionscreen_Large = "Grande",
     UI_optionscreen_LeaveKeyInIgnition = "Lascia la chiave nell'accensione",
 	UI_optionscreen_AutoWalkContainer = "Passaggio automatico al contenitore cliccato",
-    UI_optionscreen_AutoWalkContainer_tt "Quando è abilitato, ci si sposta automaticamente in un contenitore cliccato se è vicino.",
+    UI_optionscreen_AutoWalkContainer_tt = "Quando è abilitato, ci si sposta automaticamente in un contenitore cliccato se è vicino.",
     UI_optionscreen_LockCursorToWindow = "Blocca il cursore alla finestra",
     UI_optionscreen_LockCursorToWindow_tt = "Mantieni il cursore del mouse all'interno della finestra. Quando abilitato, il cursore di sistema è nascosto e il gioco esegue il rendering del proprio cursore.",
     UI_optionscreen_Medium = "Medio",
