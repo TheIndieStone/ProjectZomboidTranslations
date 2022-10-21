@@ -273,7 +273,7 @@ IGUI_PTBR = {
     IGUI_Fish_Bass = "Achigã",
     IGUI_Fish_CatFish = "Bagre",
     IGUI_Fish_Crappiefish = "Perca-prateada",
-    IGUI_Fish_PanFish = "Peixe-Lua",
+    IGUI_Fish_PanFish = "Peixe-lua",
     IGUI_Fish_Perch = "Perca",
  -- Controle (Joypad)
     IGUI_Controller_TakeOverPlayer = "Assumir Jogador %1",
@@ -1403,7 +1403,7 @@ IGUI_PTBR = {
     IGUI_SelectBodyLocation = "Selecione o Local do Corpo",
     IGUI_AddMakeUp = "Adicionar Maquiagem",
     IGUI_RemoveMakeUp = "Remover Maquiagem",
-    IGUI_MakeUp = "Maquiagem",
+    IGUI_MakeUp = "Usar Maquiagem",
     IGUI_invpage_RemoveAll = "Deletar Tudo",
     IGUI_ConfirmDeleteItems = "Deseja deletar todos os itens?",
     IGUI_ConfirmQuitToDesktop = "Deseja sair do jogo?",
