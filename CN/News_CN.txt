@@ -132,7 +132,7 @@ GrabItemAction 一次传输多个项目，类似于 InventoryTransferAction。
 修复了将玩家保存到 Vehicles.db 数据库的问题。
 动画/模型导入器不支持固定的 unicode 文件名。
 修复了当玩家已经站在广场的正中心时无法通过上下文菜单打开/关闭窗口的问题。
-阻止僵尸将神模式玩家拖至死亡。
+阻止僵尸将上帝模式玩家拖至死亡。
 降低了跑车的外部乘客位置（修复了摄像头故障）。
 撕裂服装和工艺表绳适用于所有选定的项目（如果它们有效）。
 删除了 PerformanceSettings.modelsEnabled 和 PerformanceSettings.support3D。
@@ -6798,7 +6798,7 @@ Vehicle Spawn Chance rate 现在可以是一个浮点值，而不仅仅是一个
 [NODOT]<INDENT:40> 修复了壁炉对象。
 [NODOT]<INDENT:40> 固定井和灯。
 [NODOT]<LINE>
-修复了神模式中的角色仍然会改变体重。
+修复了上帝模式中的角色仍然会改变体重。
 修复了玩家死亡后作弊菜单实例不起作用的问题。
 修复了通过部落管理器移除尸体在 SP 中不起作用的问题。
 修复了当角色在车辆内时，尝试通过 Mechanics Cheat 卸载/安装汽车部件后卡在车辆中的问题。
