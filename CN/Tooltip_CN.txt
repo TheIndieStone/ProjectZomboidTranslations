@@ -312,6 +312,6 @@ Tooltip_CN = {
 	Tooltip_compass_2 = "指南针方向: 东南",
 	Tooltip_compass_3 = "指南针方向: 东",
 	Tooltip_compass_6 = "指南针方向: 东北",
-	Tooltip_no_nails = "太笨拙了,无法钉钉子",
+	Tooltip_no_nails = "太笨重了,不能钉钉子.",
 	
 }
