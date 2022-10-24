@@ -221,8 +221,8 @@ Sandbox_CN = {
     Sandbox_LootSurvivalGears = "生存必备",
     Sandbox_LootSurvivalGears_tooltip = "种子,锯子,钉子,各种工具,维修物品,钓鱼竿...",
     Sandbox_LootMedical = "医疗用品",
-    Sandbox_LootFood = "新鲜食物",
-    Sandbox_LootLiterature = "文献",
+    Sandbox_LootFood = "非罐头食物",
+    Sandbox_LootLiterature = "文学品",
     Sandbox_LootCannedFood = "罐头食物",
     Sandbox_Rarity_option1 = "无",
     Sandbox_Rarity_option2 = "极度罕见",
@@ -241,7 +241,7 @@ Sandbox_CN = {
     Sandbox_XpMultiplier = "经验倍率",
     Sandbox_XpMultiplier_tooltip = "修改此项来改变经验收益.",
     Sandbox_XpMultiplierAffectsPassive = "经验倍率能影响被动技能",
-    Sandbox_XpMultiplierAffectsPassive_tooltip = "经验倍率是否影响被动技能的经验提升<br>例如体格/力量",
+    Sandbox_XpMultiplierAffectsPassive_tooltip = "经验倍率是否影响被动升级的技能<br>例如体格/力量",
     Sandbox_StatDecrease = "状态减少速度",
     Sandbox_StatDecrease_tooltip = "角色的饥饿,口渴和疲劳会以多快的速度减少.",
     Sandbox_StatDecrease_option1 = "非常快",
@@ -644,8 +644,8 @@ Sandbox_CN = {
     Sandbox_LightBulbLifespan = "灯泡寿命",
     Sandbox_LightBulbLifespan_tooltip = "数值越高,灯泡在损坏前持续的时间越长<br>如果是0,灯泡将永远不会坏<br>不会影响车辆灯",
 	
-	
-	Sandbox_ZDecomposition = "腐烂",
+	--Add Text--
+    Sandbox_ZDecomposition = "腐烂",
     Sandbox_ZDecomposition_tooltip = "随时间推移的弱化效果.",
     Sandbox_ZDecomposition_option1 = "减速+弱化",
     Sandbox_ZDecomposition_option2 = "减速",
