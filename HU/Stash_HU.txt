@@ -88,7 +88,7 @@ Stash_MulMap1_Text3 = "nagy tömeg",
 Stash_MulMap2_Text1 = "Itt hagyta neked",
 Stash_MulMap2_Text2 = "tároló",
 Stash_MulMap2_Text3 = "az egész környék itt volt",
-Stash_MulMap3_Text1 = "Sörétes puska és lőszer, elrejtve, arra az esetre, ha valaki más ellenőrizne.",
+Stash_MulMap3_Text1 = "Sörétes Puska és Lőszer, elrejtve, arra az esetre, ha valaki más ellenőrizne.",
 Stash_MulMap3_Text2 = "Fémáru, szerszámok és egyéb dolgok",
 Stash_MulMap3_Text3 = "sok itt",
 Stash_MulMap4_Text1 = "könnyebb kiút",
@@ -110,7 +110,7 @@ Stash_MulMap10_Text3 = "Tisztának tűnt errefelé",
 Stash_MulMap11_Text1 = "Fegyver a Spiffo-ban.",
 Stash_MulMap11_Text2 = "Itt drogok vannak.",
 Stash_MulMap11_Text3 = "baj",
-Stash_MulMap12_Text1 = "puska itt - étel a konyhában?.",
+Stash_MulMap12_Text1 = "Puska itt - étel a konyhában?.",
 Stash_MulMap12_Text2 = "orvosi szarság",
 Stash_MulMap12_Text3 = "nagy tömeg",
 Stash_MulMap13_Text1 = "Szereztem félúton visszafelé, de itt kellett hagynom az egészet, túl nehéz volt.",
@@ -312,10 +312,10 @@ Stash_WorldMap9_Text2 = "crates all around, could be filled with stuff",
 Stash_WorldMap8_Text3 = "offices, nothing",
 Stash_WorldMap8_Text4 = "warehouses?",
 
-Stash_WorldMap10_Text1 = "GAS STATION",
-Stash_WorldMap10_Text2 = "CLOTHES STORE",
-Stash_WorldMap10_Text3 = "SPIFFO'S",
-Stash_WorldMap10_Text4 = "CARS",
+Stash_WorldMap10_Text1 = "BENZINKÚT",
+Stash_WorldMap10_Text2 = "RUHABOLT",
+Stash_WorldMap10_Text3 = "SPIFFO-É",
+Stash_WorldMap10_Text4 = "AUTÓK",
 
 Stash_WorldMap11_Text1 = "Dish 3 on Tower 2 - loses signal around 6 GHz - power problem",
 Stash_WorldMap11_Text11 = "Get HQ to test with Lexington after",
@@ -342,15 +342,15 @@ Stash_WorldMap18_Text2 = "path"
 Stash_WorldMap19_Text1 = "Stubborn fuck! At least take the guns I left in Mrs Cuddy's house"
 Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!"
 
-Stash_WorldMap19_Text1 = "DICKHEAD"
-Stash_WorldMap19_Text2 = "FUCKER"
-Stash_WorldMap19_Text3 = "ASSHOLE"
+Stash_WorldMap19_Text1 = "FASZFEJ"
+Stash_WorldMap19_Text2 = "ROHADÉK"
+Stash_WorldMap19_Text3 = "SEGGFEJ"
 */
 
-	-- v41.72b
-	-- Átnézve 2022.07.08
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- 41.72 új sorok hozzáadva.
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- 41.72-es sorokat fordítani kell!
 }

@@ -1002,6 +1002,7 @@ IG_UI_IT = {
     IGUI_SitUps_Tooltip = "Migliora la forma fisica se eseguito regolarmente.",
     IGUI_Skill = "Abilità",
     IGUI_Sleep_NHours = "%1 ore",
+	IGUI_Sleep_NotSafe = "Non è sicuro dormire qui.",
     IGUI_Sleep_NotTiredEnough = "Non sei abbastanza stanco per dormire.",
     IGUI_Sleep_OneHour = "1 ora",
     IGUI_Sleep_OutsideRain = "Non puoi dormire fuori in un letto mentre piove.",
