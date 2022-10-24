@@ -1373,7 +1373,6 @@ UI_DE = {
     UI_trait_claustrodesc = "Wird in Gebäuden panisch.",
     UI_trait_clumsy = "Tollpatschig",
     UI_trait_clumsydesc = "Macht mehr Geräusche beim Bewegen.",
-    UI_trait_cook = "Koch",
     UI_trait_cowardly = "Feige",
     UI_trait_cowardlydesc = "Besonders anfällig für Panikattacken.",
     UI_trait_deaf = "Taub",

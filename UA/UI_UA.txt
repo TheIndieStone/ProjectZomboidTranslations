@@ -248,7 +248,6 @@ UI_UA = {
 	UI_trait_Mechanics = "Автолюбитель",
 	UI_trait_MechanicsDesc = "Знає багато про автомобілі. Може лагодити комерційні машини",
 	UI_trait_axeman = "Володіння сокирою",
-	UI_trait_cook = "Любить готувати",
 	UI_prof_Metalworker = "Зварювальник",
 	UI_profdesc_metalworker = "Може працювати з металом, створюючи предмети і барикади",
 	UI_prof_Smither = "Пічник",

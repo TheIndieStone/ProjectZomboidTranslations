@@ -1422,7 +1422,6 @@ UI_FR = {
     UI_trait_claustrodesc = "Panique lorsqu'il est à l'intérieur d'un bâtiment.",
     UI_trait_clumsy = "Pataud",
     UI_trait_clumsydesc = "Fait plus de bruit quand il se déplace.",
-    UI_trait_cook = "Cuisinier",
     UI_trait_cowardly = "Lâche",
     UI_trait_cowardlydesc = "Très enclin à la panique.",
     UI_trait_deaf = "Sourd",

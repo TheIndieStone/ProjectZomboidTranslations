@@ -1296,7 +1296,6 @@ UI_CS = {
     UI_trait_claustrodesc = "Panikaří, když je v uzavřeném prostoru.",
     UI_trait_clumsy = "Neohrabaný",
     UI_trait_clumsydesc = "Při pohybu nadělá více hluku.",
-    UI_trait_cook = "Kuchař",
     UI_trait_cowardly = "Bojácný",
     UI_trait_cowardlydesc = "Zvlášť náchylný k zpanikaření",
     UI_trait_deaf = "Hluchý",

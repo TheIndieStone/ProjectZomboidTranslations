@@ -263,7 +263,6 @@ UI_ID = {
     UI_trait_Mechanics = "Mekanik Amatir",
     UI_trait_MechanicsDesc = "Memiliki pengetahuan mendetail tentang model dan perbaikan kendaraan umum dan komersial.",
     UI_trait_axeman = "Manusia Memakai Kapak",
-    UI_trait_cook = "Memasak",
     UI_prof_Metalworker = "Pekerja Besi",
     UI_profdesc_metalworker = "Dapat mengelas Besi bekas untuk membuat item dan barikade.",
     UI_prof_Smither = "Smither",

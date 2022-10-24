@@ -87,6 +87,7 @@ ContextMenu_PTBR = {
 	ContextMenu_WaterSource = "Fonte de Água",
 	Puddle = "Poça",
 	ContextMenu_NaturalWaterSource = "Poço Artesiano",
+	ContextMenu_ItemWaterCapacity = "Capacidade de Água",
 
 	-- Menu de Criação
 	ContextMenu_Door = "Portas",
@@ -302,6 +303,7 @@ ContextMenu_PTBR = {
     	ContextMenu_FoodType_Bacon = "Bacon",
     	ContextMenu_FoodType_HotPepper = "Pimenta",
     	ContextMenu_FoodType_Rice = "Arroz",
+        ContextMenu_FoodType_Cocoa = "Cacau",
     	ContextMenu_or = "ou",
     	ContextMenu_RemoveBush = "Remover Arbusto",
     	ContextMenu_RemoveGrass = "Remover Grama",
@@ -537,4 +539,10 @@ ContextMenu_PTBR = {
     	ContextMenu_ComboWasherDryer_SetModeWasher = "Modo: Lavadora",
     	ContextMenu_ComboWasherDryer_SetModeDryer = "Modo: Secadora",
     	ContextMenu_FuelCapacity = "Capacidade de combustível: ",
+    	ContextMenu_EnableAutodrink = "Beber Automaticamente",
+    	ContextMenu_DisableAutodrink = "Não Beber Automaticamente",
+	ContextMenu_PumpFuelAmount = "Quantidade Restante da Bomba de Combustível",
+    	ContextMenu_TooComplicated = "Você ainda não tem nível de aprendizado suficiente para ler este livro.",
+    	ContextMenu_Illiterate = "Você é analfabeto.",
+    	ContextMenu_AmmoType = "Tipo de Munição",
 } 

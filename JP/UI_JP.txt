@@ -271,7 +271,6 @@ UI_JP = {
 	UI_trait_Mechanics = "車両愛好家",
     UI_trait_MechanicsDesc = "一般的な車種や商用車の車種、修理に関する詳細な知識を持っています。",
 	UI_trait_axeman = "斧使い",
-	UI_trait_cook = "料理人",
     UI_prof_Metalworker = 金属加工職人",
     UI_profdesc_metalworker = "拾った金属を溶接して、アイテムやバリケードを作ることができます。",
     UI_prof_Smither = "鍛工",

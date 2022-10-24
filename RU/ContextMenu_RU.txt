@@ -539,5 +539,5 @@ ContextMenu_RU = {
 	ContextMenu_PumpFuelAmount = "Кол-во бензина в бензоколонке: ",
     ContextMenu_TooComplicated = "Уровень навыка слишком мал, чтобы прочитать",
     ContextMenu_Illiterate = "Вы безграмотны",
-    ContextMenu_AmmoType = "Тип патрон",
+    ContextMenu_AmmoType = "Тип патронов",
 }
