@@ -1435,7 +1435,7 @@ UI_CN = {
 					"<CENTRE> 一部分功能已暂时禁用. <LINE><LINE> " ..
 					"<CENTRE> 如果你遇到问题:请不要生气,参与进来.去我们的论坛或github上让我们知道.",
     UI_TermsOfService_Title = "服务条款和隐私声明",
-    UI_TermsOfService_Prompt1 = "问候命中注定的幸存者！在您的感染之旅开始前…<br>选择接受,表示您同意我们的服务条款并确认隐私政策",
+    UI_TermsOfService_Prompt1 = "问候命中注定的幸存者！在您的感染之旅开始前...<br>选择接受,表示您同意我们的服务条款并确认隐私政策",
     UI_TermsOfService_Prompt2 = "[单击这些按钮将在web浏览器中显示一个页面]",
     UI_TermsOfService_Button1 = "查看服务条款",
     UI_TermsOfService_Button2 = "查看隐私策略",
