@@ -3,7 +3,7 @@ Challenge_CN = {
 	Challenge_YouHaveOneDay_desc = "你回到了诺克斯县。 你又回到了 僵尸毁灭工程 最初的地图上。 <LINE> <LINE> 你只有一天时间做准备。 然后尸潮将会蜂拥而至， 它们会无情的猎杀你。 你将在何处坚守阵地？ 你昔日在何处坚守阵地？ 赶紧找到它吧。 <LINE> <LINE> 【感谢社区地图制作者 BobHeckling 使用当前的 PZ 工具集重新创建了 0.1.5 版本的地图。】",
 
     Challenge_WinterIsComing_name = "2. 凛冬将至",
-	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然传来一股寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 不死族群可能会因为严寒而减慢脚步， 但它们致命不减。 <LINE> <LINE> 多穿点，幸存者…",
+	Challenge_WinterIsComing_desc = "现在是七月中旬， 但微风中突然传来一股寒意。 再过三天就会迎来一个前所未有的冬天。 <LINE> <LINE> 你在一个与世隔绝的地方醒来。 你的物资匮乏， 不死族群可能会因为严寒而减慢脚步， 但它们致命不减。 <LINE> <LINE> 多穿点，幸存者...",
 
 	Challenge_OpeningHours_name = "营业时间",
     Challenge_OpeningHours_desc = "商场被包围了， 从前这里是它们生活中的重要场所。 本能将它们引向了大门。 对它们过去所做事情的记忆... <LINE> <LINE> 你独自一人， 但不会太久。 上午九点， 商场将开始营业：门会打开， 成群的僵尸将进入。 <LINE> <LINE> 准备好迎接它们。",
@@ -68,7 +68,7 @@ Challenge_CN = {
 
 	Challenge_OpeningHoursInfoBox = " <CENTRE> 商场在上午九点开门。 <LINE> <LINE> 准备好迎接尸潮...",
 	Challenge_WinterIsComingInfoBox = " <CENTRE> 再过三天无尽的冬天就开始了。 <LINE> <LINE> 多穿点...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你在诺克斯县的旅程就会变的困难无比…",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> 你将面对无穷无尽的恶劣天气…",
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越朦胧了…",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你在诺克斯县的旅程就会变的困难无比...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> 你将面对无穷无尽的恶劣天气...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越朦胧了...",
 }
