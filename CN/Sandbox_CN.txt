@@ -222,7 +222,7 @@ Sandbox_CN = {
     Sandbox_LootSurvivalGears_tooltip = "种子,锯子,钉子,各种工具,维修物品,钓鱼竿...",
     Sandbox_LootMedical = "医疗用品",
     Sandbox_LootFood = "非罐头食物",
-    Sandbox_LootLiterature = "文学品",
+    Sandbox_LootLiterature = "文献书籍",
     Sandbox_LootCannedFood = "罐头食物",
     Sandbox_Rarity_option1 = "无",
     Sandbox_Rarity_option2 = "极度罕见",
@@ -652,4 +652,4 @@ Sandbox_CN = {
     Sandbox_ZDecomposition_option3 = "弱化",
     Sandbox_ZDecomposition_option4 = "无效果",
 	
-	}
+}
