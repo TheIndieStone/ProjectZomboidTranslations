@@ -16,6 +16,9 @@ Farming_ES = {
 	Farming_Receding = "En retroceso",
 	Farming_Rotten = "Podrido",
 	Farming_Destroyed = "Destruido",
+	Farming_Seedling = "Plántula",
+	Farming_Fully_grown = "Adulta",
+	Farming_Ready_to_harvest = "Listo para cosechar",
 	-- farming info text
 	-- title
 	Farming_Plant_Information = "Información sobre la planta",
@@ -32,10 +35,6 @@ Farming_ES = {
 	Farming_Thirsty = "Sedienta",
 	Farming_Dry = "Seca",
 	Farming_Parched = "Agostada",
-	-- growing phase
-	Farming_Seedling = "Plántula",
-	Farming_Fully_grown = "Adulta",
-	Farming_Ready_to_harvest = "Listo para cosechar",
 	-- disease
 	Farming_Mildew = "Moho",
 	Farming_Pest_Flies = "Plaga de moscas",
@@ -52,12 +51,6 @@ Farming_ES = {
 	Farming_Tooltip_MaxWater = "Máximo de agua: ",
 	Farming_Tooltip_TimeOfGrow = "Promedio de crecimiento: ",
 	Farming_Tooltip_AverageWater = "Promedio de agua: ",
-	Farming_Tooltip_RequiredSeeds = "Semillas necesarias: ",
-	Farming_Strawberry plant = "Fresas",
-	Farming_Tomato = "Tomates",
-	Farming_Plowed_Land = "Tierra arada",
-	Farming_MissingItem = "Necesitas %1",
-	
 	Farming_Tooltip_FurrowNeedsSeed = "El surco necesita semillas.",
 	Farming_Tooltip_ItemUsed = "Objeto usado",
 	Farming_Tooltip_NotAFurrow = "No es un surco.",
@@ -66,4 +59,9 @@ Farming_ES = {
 	Farming_Tooltip_NotReadyToHarvest = "No está listo para ser cosechado.",
 	Farming_Tooltip_PlantHasEnoughWater = "La planta tiene suficiente agua.",
 	Farming_Tooltip_FurrowHasSeeds = "El surco ya tiene semillas.",
+	Farming_Tooltip_RequiredSeeds = "Semillas necesarias: ",
+	Farming_Strawberry plant = "Fresas",
+	Farming_Tomato = "Tomates",
+	Farming_Plowed_Land = "Tierra arada",
+	Farming_MissingItem = "Necesitas %1",
 }
