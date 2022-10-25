@@ -17,7 +17,7 @@ GameSound_CH = {
     GameSound_Category_Zombie = "殭屍",
     
     /* You can provide translations for every GameSound if you want to, some might appear in the menu but not in this file */
-
+    
 /* Item */
     GameSound_AlarmClockRingingLoop = "鬧鐘鈴聲",
     GameSound_WatchAlarmLoop = "手錶鬧鐘",
@@ -90,7 +90,7 @@ GameSound_CH = {
     GameSound_AmbientMusic_RhythmicAmbient = "環境音: 節奏",
     GameSound_AmbientMusic_VoiceAmbient = "環境音: 語",
     GameSound_AmbientMusic_ZombieAmbient = "環境音: 殭屍",
-
+    
     GameSound_NewMusic_32 = "官方: 32",
     GameSound_NewMusic_33 = "官方: 33",
     GameSound_NewMusic_34 = "官方: 34",
