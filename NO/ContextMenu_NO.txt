@@ -87,7 +87,7 @@ ContextMenu_NO = {
 	ContextMenu_WaterSource = "Vannkilde",
 	Puddle = "Dam",
 	ContextMenu_NaturalWaterSource = "Naturlig vannkilde",
-
+	ContextMenu_ItemWaterCapacity = "Gjenstands vannkapasitet",
 	
     -- Crafting menu
 	ContextMenu_Door = "Dør",
@@ -303,6 +303,7 @@ ContextMenu_NO = {
     ContextMenu_FoodType_Bacon = "Bacon",
     ContextMenu_FoodType_HotPepper = "Sterk chili",
     ContextMenu_FoodType_Rice = "Ris",
+	ContextMenu_FoodType_Cocoa = "Kakao",
     ContextMenu_or = "eller",
     ContextMenu_RemoveBush = "Fjern busk",
     ContextMenu_RemoveGrass = "Fjern gress",
@@ -538,4 +539,10 @@ ContextMenu_NO = {
     ContextMenu_ComboWasherDryer_SetModeWasher = "Sett modus: Vask",
     ContextMenu_ComboWasherDryer_SetModeDryer = "Sett modus: Tørk",
     ContextMenu_FuelCapacity = "Gjenstandens brenselkapasitet: ",
+	ContextMenu_EnableAutodrink = "Aktiver autodrikk",
+    ContextMenu_DisableAutodrink = "Deaktiver autodrikk",
+	ContextMenu_PumpFuelAmount = "Brenselnivå i drivstoffpumpe",
+    ContextMenu_TooComplicated = "Ferdighetsnivået er for lavt til å lese",
+    ContextMenu_Illiterate = "Du er et analfabet",
+    ContextMenu_AmmoType = "Ammotype",
 }
