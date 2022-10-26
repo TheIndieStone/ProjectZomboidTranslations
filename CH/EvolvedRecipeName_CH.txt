@@ -12,15 +12,15 @@ EvolvedRecipeName_CH = {
     EvolvedRecipeName_Base.Teabag2 = "茶",
 	
     --not in EvolvedRecipeName_EN
+    EvolvedRecipeName_Base.BeanBowl = "豆子",
+    EvolvedRecipeName_Base.BeerBottle = "啤酒",
+    EvolvedRecipeName_Base.BeerCan = "啤酒",
     EvolvedRecipeName_Base.CannedFruitBeverageOpen = "水果飲料",
     EvolvedRecipeName_Base.CannedFruitCocktailOpen = "水果沙拉",
     EvolvedRecipeName_Base.CannedMilkOpen = "煉乳",
     EvolvedRecipeName_Base.CannedMushroomSoupOpen = "蘑菇湯",
     EvolvedRecipeName_Base.CannedPeachesOpen = "桃子",
     EvolvedRecipeName_Base.CannedPineappleOpen = "鳳梨",
-    EvolvedRecipeName_Base.BeanBowl = "豆子",
-    EvolvedRecipeName_Base.BeerBottle = "啤酒",
-    EvolvedRecipeName_Base.BeerCan = "啤酒",
     EvolvedRecipeName_Base.CocoaPowder = "可可",
     EvolvedRecipeName_Base.DogfoodOpen = "狗食",
     EvolvedRecipeName_Base.OpenBeans = "豆子",
