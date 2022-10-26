@@ -1,5 +1,4 @@
 EvolvedRecipeName_CH = {
-
     EvolvedRecipeName_Base.CannedBologneseOpen = "波隆那肉醬",
     EvolvedRecipeName_Base.CannedCarrotsOpen = "胡蘿蔔",
     EvolvedRecipeName_Base.CannedChiliOpen = "辣醬",
