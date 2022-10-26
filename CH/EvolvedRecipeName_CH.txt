@@ -10,6 +10,7 @@ EvolvedRecipeName_CH = {
     EvolvedRecipeName_Base.CannedSardinesOpen = "沙丁魚",
     EvolvedRecipeName_Base.CannedTomatoOpen = "番茄",
     EvolvedRecipeName_Base.Teabag2 = "茶",
+	
     --not in EvolvedRecipeName_EN
     EvolvedRecipeName_Base.CannedFruitBeverageOpen = "水果飲料",
     EvolvedRecipeName_Base.CannedFruitCocktailOpen = "水果沙拉",
