@@ -312,7 +312,7 @@ Recipes_PL = {
     Recipe_Place_Shotgun_Shells_in_Box = "Włóż naboje do strzelby do pudełka",
     Recipe_Place_Vegetables_in_Roasting_Pan = "Włóż warzywa do blachy",
     Recipe_Prepare_Beverage = "Przygotuj napój",
-    Recipe_Prepare_Burger = "Przygotuj burger",
+    Recipe_Prepare_Burger = "Przygotuj burgera",
     Recipe_Prepare_Cake = "Przygotuj ciasto",
     Recipe_Prepare_Cereals_Bowl = "Przygotuj miskę płatków śniadaniowych",
     Recipe_Prepare_Muffins = "Przygotuj muffinki",
@@ -430,5 +430,4 @@ Recipes_PL = {
 	Recipe_Muffin = "Muffinka",
 	Recipe_Oatmeal = "Owsianka",
 	Recipe_Omelette = "Omlet",
-
 }
