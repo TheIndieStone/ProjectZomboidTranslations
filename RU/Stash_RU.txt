@@ -344,7 +344,7 @@ Stash_WorldMap18_Text2 = "тропинка"
 Stash_WorldMap19_Text1 = "Упрямый мудень! Возьми хотя бы оружие, которое я оставила в доме миссис Кадди."
 Stash_WorldMap19_Text11 = "Если ты умрешь, я никогда тебя не прощу!!!"
 
-Stash_WorldMap19_Text1 = "ПИДОР"
+Stash_WorldMap19_Text1 = "ХУЙЛО"
 Stash_WorldMap19_Text2 = "УЁБОК"
 Stash_WorldMap19_Text3 = "МУДАК"
 

@@ -222,6 +222,7 @@ Recipe_RU = {
     Recipe_Make_Squid_Calamari = "Приготовить кальмара",
     Recipe_Make_Sushi = "Приготовить суши",
 	Recipe_Open_Canned_Fruit_Beverage = "Открыть консервы",
+	Recipe_Open_Canned_Fruit_Cocktail = "Открыть консервы",
     Recipe_Open_Canned_Peaches = "Открыть консервы",
 	Recipe_Pour_Tumbler_of_Beer = "Налить пиво в стакан",
 	Recipe_Pour_Cup_of_Beer = "Налить пиво в стаканчик",
