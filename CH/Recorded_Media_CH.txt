@@ -2747,7 +2747,7 @@ RM_86a979c6-35ca-466d-8f3b-ec7b83bb318d = "看起來確實是這樣, BC. 但我�
 RM_8e723daa-6e54-4589-9fb8-28d9135518c5 = "我們永遠都是... Z-戰隊."
 RM_68a7cacc-6db4-452f-997a-4dc58cdafb94 = "影集錄影帶: Omega部門 S3.01"
 RM_2ece0e41-a386-46ef-b0ee-607ee08c49a4 = "Omega部門"
-RM_148c6d1f-3460-41d0-8133-1d9b3bd89d33 = "S3.01"
+RM_b94c4cd6-4158-4188-8e52-a9d7b5b059a6 = "S3.01"
 RM_f93f74af-3d35-474f-b94b-d1ef3103c4af = "[img=music] *Doop-ity doo. Wee-woo. Wee-woo* [img=music]"
 RM_b38fa82d-b9e8-4cb7-be6e-8c1d84145546 = "[img=music] *Woo* [img=music]"
 RM_aacd9f8b-7ba6-436c-b36c-51f1b726cb79 = "這裡什麼都沒有, Hargrave. 只是一個廢棄的採礦小鎮."
