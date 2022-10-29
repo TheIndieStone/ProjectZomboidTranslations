@@ -87,6 +87,7 @@ ContextMenu_WaterName = "Víz",
 ContextMenu_WaterSource = "Vízforrás",
 ContextMenu_Puddle = "Pocsolya",
 ContextMenu_NaturalWaterSource = "Természetes Vízforrás",
+ContextMenu_ItemWaterCapacity = "Tétel vízkapacitása",
 
 	-- Crafting menu
 ContextMenu_Door = "Ajtó",
@@ -225,7 +226,7 @@ ContextMenu_EvolvedRecipe_Stew = "Pörkölt",
 ContextMenu_EvolvedRecipe_Pie = "Sós Pite",
 ContextMenu_EvolvedRecipe_PieSweet = "Édes Pite",
 ContextMenu_EvolvedRecipe_Cake = "Torta",
-ContextMenu_EvolvedRecipe_Stir fry = "Párolt",
+ContextMenu_EvolvedRecipe_Stir fry = "Párolt Zöldség",
 ContextMenu_EvolvedRecipe_Roasted Vegetables = "Sült",
 ContextMenu_EvolvedRecipe_Sandwich = "Szendvics",
 ContextMenu_EvolvedRecipe_Sandwich Baguette = "Szendvics",
@@ -266,7 +267,7 @@ ContextMenu_FoodType_Meat = "Hús",
 ContextMenu_FoodType_Chocolate = "Csokoládé",
 ContextMenu_FoodType_Rice = "Rizs",
 ContextMenu_FoodType_Vegetables = "Zöldség",
-ContextMenu_EvolvedRecipe_Stir_fry_Griddle_Pan = "Kavarva sütés",
+ContextMenu_EvolvedRecipe_Stir fry Griddle Pan = "Kavarva sütés",
 ContextMenu_FoodType_Fruits = "Gyümölcs",
 ContextMenu_FoodType_Pasta = "Tészta",
 ContextMenu_FoodType_Fish = "Hal",
@@ -302,6 +303,7 @@ ContextMenu_FoodType_Beef = "Marhahús",
 ContextMenu_FoodType_Bacon = "Szalonna",
 ContextMenu_FoodType_HotPepper = "Csípős Paprika",
 ContextMenu_FoodType_Rice = "Rizs",
+ContextMenu_FoodType_Cocoa = "Kakaó",
 ContextMenu_or = "vagy",
 ContextMenu_RemoveBush = "Bokor eltávolítása",
 ContextMenu_RemoveGrass = "Fű eltávolítása",
@@ -343,8 +345,8 @@ ContextMenu_ComfreyCataplasm = "Fekete Nadálytő borogatás",
 ContextMenu_GarlicCataplasm = "Vadfokhagyma borogatás",
 ContextMenu_CraftBatConnector = "Akkumulátor csatlakoztatása",
 ContextMenu_AddBattery = "Elem behelyezése",
-ContextMenu_AddLightbulb = "Villanykörte becsavarása",
-ContextMenu_RemoveLightbulb = "Villanykörte kicsavarása",
+ContextMenu_AddLightbulb = "Izzó becsavarása",
+ContextMenu_RemoveLightbulb = "Izzó kicsavarása",
 ContextMenu_DamagedHands = "Sérült kezek",
 ContextMenu_Blacksmith = "Kovácsolás",
 ContextMenu_Stone_Furnace = "Kőkemence",
@@ -536,12 +538,19 @@ ContextMenu_PlaceAll = "Mind lerakása",
 ContextMenu_NeedCooked = "Meg kell főzni.",
 ContextMenu_ComboWasherDryer_SetModeWasher = "Mód beállítás: Mosás",
 ContextMenu_ComboWasherDryer_SetModeDryer = "Mód beállítás: Szárítás",
-ContextMenu_FuelCapacity = "Tétel Üzemanyag Kapacitása: ",
+ContextMenu_FuelCapacity = "Tétel üzemanyag kapacitása: ",
+ContextMenu_EnableAutodrink = "Automatikus ivás engedélyezése",
+ContextMenu_DisableAutodrink = "Automatikus ivás letíltása",
+ContextMenu_PumpFuelAmount = "Az üzemanyag-szivattyú hátralévő mennyisége",
+ContextMenu_TooComplicated = "Készségszint túl alacsony az elolvasásához.",
+ContextMenu_Illiterate = "Írástudatlan vagy",
+ContextMenu_AmmoType = "Lőszertípus",
 
-	-- v41.73b
-	-- Átnézve 2022.07.16
+
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- 41.73 új sorok hozzáadva.
+	-- 41.78-as sorok hozzáadva.
 	-- Megjegyzés:
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítani való, játék közben kell ellenőrizni.

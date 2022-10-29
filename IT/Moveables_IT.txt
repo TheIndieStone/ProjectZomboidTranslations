@@ -499,7 +499,7 @@ Moveables_IT = {
     Oak_Counter = "Bancone in rovere",
 	Oak_Left_Bar = "Bancone bar in rovere sinistro",
 	Oak_Middle_Bar = "Bancone bar in rovere centrale",
-	Oak_Right_Bar "Bancone bar in rovere destro",
+	Oak_Right_Bar = "Bancone bar in rovere destro",
     Oak_Round_Table = "Tavolo rotondo in rovere",
     Oakwood_Bench = "Panca in legno di quercia",
     Oakwood_Floor = "Pavimento in legno di quercia",

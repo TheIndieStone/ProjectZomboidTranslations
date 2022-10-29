@@ -303,6 +303,7 @@ Tooltip_CN = {
     Tooltip_BookTitle_9 = "%1 适合大师",
 	Tooltip_item_Watermelon = "需要先切片或捣碎才能食用",
 	Tooltip_item_NeedsSliced = "需要先切片才能作为配料添加",
+	-- Compass lines are currently unused since the compass item is not implemented yet.
 	Tooltip_compass_9 = "指南针方向: 北",
 	Tooltip_compass_8 = "指南针方向: 西北",
 	Tooltip_compass_7 = "指南针方向: 西",
@@ -311,6 +312,6 @@ Tooltip_CN = {
 	Tooltip_compass_2 = "指南针方向: 东南",
 	Tooltip_compass_3 = "指南针方向: 东",
 	Tooltip_compass_6 = "指南针方向: 东北",
-	Tooltip_no_nails = "太不方便了,无法钉钉子",
+	Tooltip_no_nails = "太笨拙了,不能钉钉子.",
 	
 }

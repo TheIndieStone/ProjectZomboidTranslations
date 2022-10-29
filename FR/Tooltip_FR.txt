@@ -303,4 +303,14 @@ Tooltip_FR = {
     Tooltip_weapon_Stock = "Crosse",
     Tooltip_weapon_Type = "Type",
     Tooltip_weapon_Unusable_at_max_exertion = "Inutilisable si épuisement au max",
+    -- Compass lines are currently unused since the compass item is not implemented yet.
+	Tooltip_compass_9 = "Boussole : Nord.",
+	Tooltip_compass_8 = "Boussole : Nord-Ouest.",
+	Tooltip_compass_7 = "Boussole : Ouest.",
+	Tooltip_compass_4 = "Boussole : Sud-Ouest.",
+	Tooltip_compass_1 = "Boussole : Sud.",
+	Tooltip_compass_2 = "Boussole : Sud-Est.",
+	Tooltip_compass_3 = "Boussole : Est.",
+	Tooltip_compass_6 = "Boussole : Nord-Est.",
+	Tooltip_no_nails = "Trop encombrant pour planter des clous.",
 }

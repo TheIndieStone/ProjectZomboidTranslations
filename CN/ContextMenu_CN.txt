@@ -258,10 +258,10 @@ ContextMenu_CN = {
     ContextMenu_EvolvedRecipe_Bread = "面包",
     ContextMenu_EvolvedRecipe_Toast = "吐司",
     ContextMenu_EvolvedRecipe_Oatmeal = "碗(燕麦片)",
-    ContextMenu_EvolvedRecipe_ConeIcecream = "冰淇淋甜筒",
-    ContextMenu_EvolvedRecipe_Beer = "玻璃杯",
-    ContextMenu_EvolvedRecipe_Beer2 = "塑料杯",
-    ContextMenu_EvolvedRecipe_WineInGlass = "酒杯",
+    ContextMenu_EvolvedRecipe_ConeIcecream = "甜筒冰淇淋",
+    ContextMenu_EvolvedRecipe_Beer = "酒饮",
+    ContextMenu_EvolvedRecipe_Beer2 = "酒饮",
+    ContextMenu_EvolvedRecipe_WineInGlass = "酒饮",
 	ContextMenu_EvolvedRecipe_Pizza = "披萨",
     ContextMenu_FoodType_Meat = "肉",
 	ContextMenu_FoodType_Chocolate = "巧克力",
@@ -541,15 +541,12 @@ ContextMenu_CN = {
 	ContextMenu_FuelCapacity = "汽油容量: ",
 	ContextMenu_EnableAutodrink = "启用自动饮水",
     ContextMenu_DisableAutodrink = "禁用自动饮水",
-    ContextMenu_DisableAutodrink = "禁用自动饮水",
 	ContextMenu_PumpFuelAmount = "燃油泵剩余量",
     ContextMenu_TooComplicated = "技能水平太低,无法阅读",
     ContextMenu_Illiterate = "你是文盲",
     ContextMenu_AmmoType = "弹药类型",
 	
-	
-	
 	--Add Text--
-	
+
 
 }

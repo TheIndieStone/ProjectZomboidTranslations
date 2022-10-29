@@ -389,10 +389,10 @@ GameSound_HU = {
     GameSound_ZombieSurprisedPlayer = "Zombie Surprised Player",
     GameSound_TutorialZombie = "TutorialZombie",
 
-	-- v41.69b
-	-- Átnézve 2022.04.29
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- Néhány sor végi vessző hiány.
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- Fordítani kell!
 

@@ -65,10 +65,11 @@ Farming_Tomato = "Paradicsom",
 Farming_Plowed_Land = "Felszántott",
 Farming_MissingItem = "%1 kell",
 
-	-- v41.71b
-	-- Átnézve 2022.06.05
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- Kisebb fordítási hibák javítása
+	-- Nincs változás.
 	-- Megjegyzés:
+	-- Farming_Ready_to_harvest = "Leszedhető2 ???", Ezt ellenőrizni.
 	-- Egész átnézve. 100%!
 }

@@ -12,7 +12,7 @@ Challenge_AReallyCDDAy_name = "Egy igazán rossz nap",
 Challenge_AReallyCDDAy_desc = "Kijössz a zuhany alól, és esel egy hatalmasat. Tök részeg vagy, ráadásul baromi hideg van. <LINE> <LINE> Mindennek a tetejébe, a ház lángokban áll! A mai nap határozottan nem a te napod. <LINE> <LINE> [Az - Egy igazán rossz nap - kihívást ihlette a félelmetes és csodálatos és MUST-PLAY Cataclysm: Dark Days Ahead] ",
 
 Challenge_Challenge1_name = "Ház az erdőben - Az utolsó ellenállás",
-Challenge_Challenge1_desc = "Hallani, ahogy közelednek. Az élőholtak hordái minden oldalról támadják az elbarikádozott kunyhót. A halál elkerülhetetlen, de a sörétes puska kéznél van. <LINE> <LINE> Utolsó mentsvár a végtelen hullámokban érkező, egyre növekvő számú zombival szemben. Túlélni, ameddig csak lehetséges a nyilvánvaló túlerő dacára.",
+Challenge_Challenge1_desc = "Hallani, ahogy közelednek. Az élőholtak hordái minden oldalról támadják az elbarikádozott kunyhót. A halál elkerülhetetlen, de a Sörétes Puska kéznél van. <LINE> <LINE> Utolsó mentsvár a végtelen hullámokban érkező, egyre növekvő számú zombival szemben. Túlélni, ameddig csak lehetséges a nyilvánvaló túlerő dacára.",
 
 Challenge_Challenge2_name = "Ház az erdőben - Az utolsó ellenállás gyűjtögetéssel",
 Challenge_Challenge2_desc = "Egy másik nap, egy másik ház készen arra, hogy vérbe borítsd. A hordák a sarkadban vannak, a halálod ugyanolyan fájdalmas lesz, mint amilyen borzalmas. Menj és harcolj... <LINE> <LINE> Utolsó ellenállás gyűjtögetéssel, miközben végtelen hullámokban, egyre nagyobb számban érkeznek a hordák. Használd a dögök leölésével szerzett pénzt felszerelések vásárlásához, a véráztatta fegyverek fejlesztéséhez és javításához.",
@@ -72,10 +72,10 @@ Challenge_YouHaveOneDayInfoBox = " <CENTRE>24 óra múlva a Knox megyébe való 
 Challenge_AStormIsComingInfoBox = " <CENTRE> Végtelen rossz idő elé nézünk...",
 Challenge_TheDescendingFogInfoBox = " <CENTRE> Köd lesz...",
 
-	-- v41.69b
-	-- Átnézve 2022.04.29
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- 48. sor végi vessző hiány.
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- Nincs új sor és változás.
 }
