@@ -73,7 +73,7 @@ SurvivalGuide_CH = {
     SurvivalGuide_entrie10title = "#10 - 天氣",
     SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 天氣與衣物 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 記住, 你的衣物不只能防風... ",
     SurvivalGuide_entrie10moreinfo = "<H1> 氣候變遷 <BR> <TEXT> Project Zomboid 中的天氣變化十分寫實. 模擬氣候系統使用季節, 虛擬鋒面來在適當的時候創造雨, 雪, 霧以及雷雨. 穿著適當的衣物能幫助你在夏天保持涼爽, 或在冬天保持溫暖, 要記得保持衣物的狀況完好! <LINE> " ..
-                                      :" <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫也會影響你的生存. 當冬天來臨時, 你可以透過吃飽, 睡好, 與適當的冬季衣物來抗寒. 保持活躍與體態也有幫助. 濕度與生病都會增加你受寒冷受苦的程度. <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 氣溫也會影響你的生存. 當冬天來臨時, 你可以透過吃飽, 睡好, 與適當的冬季衣物來抗寒. 保持活躍與體態也有幫助. 濕度與生病都會增加你受寒冷受苦的程度. <LINE> " ..
                                       "在極寒的時候最好待在室內或者熱源旁, 像是營火, 車輛暖氣或是火爐. <LINE> "..
                                       "炎熱天氣時, 則要保持水份充足, 並不要穿太厚重的衣物. <LINE> <BR>" ..
                                       " <H2> 了解氣溫 <BR> <TEXT> 穿戴電子錶會在介面上顯示氣溫. <LINE> <BR> " ..
