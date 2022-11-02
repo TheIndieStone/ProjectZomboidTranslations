@@ -1264,6 +1264,7 @@ UI_EN = {
     UI_mainscreen_userpanel = "USER PANEL",
     UI_PPT_Key = "Push-To-Talk Key: %1",
     UI_optionscreen_objHighlightColor = "Color of Highlighted Container",
+    UI_optionscreen_do_container_outline = "Display Outline for Highlighted Container",
     UI_optionscreen_goodHighlightColor = "'Good' Highlight Color",
     UI_optionscreen_badHighlightColor = "'Bad' Highlight Color",
     UI_userpanel_tickets = "Tickets",
