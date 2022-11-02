@@ -1264,6 +1264,7 @@ UI_CH = {
     UI_mainscreen_userpanel = "使用者介面",
     UI_PPT_Key = "發話鍵: %1",
     UI_optionscreen_objHighlightColor = "突顯容器的顏色",
+    UI_optionscreen_do_container_outline = "在突顯的容器上顯示突顯輪廓",
     UI_optionscreen_goodHighlightColor = "'正面' 突顯顏色",
     UI_optionscreen_badHighlightColor = "'負面' 突顯眼色",
     UI_userpanel_tickets = "投訴",
