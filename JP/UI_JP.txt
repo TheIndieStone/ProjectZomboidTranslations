@@ -512,8 +512,8 @@ UI_JP = {
 	UI_optionscreen_CorpseShadows = "死体の影",
 	UI_optionscreen_AutoDrink = "喉が渇いた時に自動的に水を飲む",
 	UI_optionscreen_LeaveKeyInIgnition = "イグニッションに鍵を挿したままにする",
-	UI_optionscreen_AutoWalkContainer = "クリックしたコンテナまで自動で歩く"
-    UI_optionscreen_AutoWalkContainer_tt "有効にすると、クリックしたコンテナが近くにある場合、自動的に移動するようになります"
+	UI_optionscreen_AutoWalkContainer = "クリックしたコンテナまで自動で歩く",
+    UI_optionscreen_AutoWalkContainer_tt "有効にすると、近くにあるコンテナをクリックした場合、そこまで自動的に移動するようになります",
 	UI_optionscreen_iso_cursor = " ISOカーソルの視認性",
     UI_optionscreen_ShowCursorWhileAiming = "エイム中にマウスカーソルを表示",
 	UI_optionscreen_ShowCursorWhileAiming_tt = "デフォルトでは、ISOカーソルが表示されている時は、マウスカーソルは非表示になります。",

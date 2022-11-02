@@ -137,7 +137,7 @@ Stash_MulMap18_Text11 = "heard he turned",
 Stash_MulMap18_Text12 = "hope all his guns still there",
 
     Stash_WpMap1_Text1 = "Sure this was where he lived",
-    Stash_WpMap1_Text2 = "way too many to handle, don’t fire it near here for God’s sake";
+    Stash_WpMap1_Text2 = "way too many to handle, don’t fire it near here for God’s sake",
     Stash_WpMap2_Text1 = "think she lived here",
     Stash_WpMap2_Text2 = "medical center",
     Stash_WpMap2_Text3 = "found her walking here, wasn't carrying gun",
@@ -173,7 +173,7 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_WpMap13_Text2 = "axe kills: 20",
     Stash_WpMap13_Text3 = "car kills: 11",
 
-    Stash_WpMap14_Text1 = "Meet me here Tonya! Got enough food."
+    Stash_WpMap14_Text1 = "Meet me here Tonya! Got enough food.",
     Stash_WpMap14_Text11 = "Now we just have to wait for Colin with his boat",
 
     Stash_WpMap15_Text1 = "They'll never find us here, trust me",
@@ -181,12 +181,12 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_WpMap15_Text2 = "Good hunting here",
 
     Stash_WpMap16_Text1 = "Likely attacks",
-    Stash_WpMap16_Text2 = "Safest egress"
-    Stash_WpMap16_Text21 = "fence, then south across road to forest"
-    Stash_WpMap16_Text3 = "chances of survival:"
-    Stash_WpMap16_Text31 = "one month: 58%"
-    Stash_WpMap16_Text32 = "through winter: 22%"
-    Stash_WpMap16_Text4 = "Need more food and working car"
+    Stash_WpMap16_Text2 = "Safest egress",
+    Stash_WpMap16_Text21 = "fence, then south across road to forest",
+    Stash_WpMap16_Text3 = "chances of survival:",
+    Stash_WpMap16_Text31 = "one month: 58%",
+    Stash_WpMap16_Text32 = "through winter: 22%",
+    Stash_WpMap16_Text4 = "Need more food and working car",
 
     Stash_MarchRidgeMap1_Text1 = "Gun here",
     Stash_MarchRidgeMap1_Text2 = "axe and tools here?",
@@ -211,12 +211,12 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_MarchRidgeMap7_Text2 = "You'll probably need to be tooled up",
     Stash_MarchRidgeMap7_Text3 = "Saw him here. No bite, but had the fever.",
 
-    Stash_MarchRidgeMap8_Text1 = "Left my old tools here"
-    Stash_MarchRidgeMap8_Text2 = "Won't need em anymore"
+    Stash_MarchRidgeMap8_Text1 = "Left my old tools here",
+    Stash_MarchRidgeMap8_Text2 = "Won't need em anymore",
 
-    Stash_MarchRidgeMap9_Text1 = "survivors welcome to join us"
-    Stash_MarchRidgeMap9_Text2 = "always need more food and guns and stuff"
-    Stash_MarchRidgeMap9_Text3 = "kill some Z's on the way in for extra kudos!"
+    Stash_MarchRidgeMap9_Text1 = "survivors welcome to join us",
+    Stash_MarchRidgeMap9_Text2 = "always need more food and guns and stuff",
+    Stash_MarchRidgeMap9_Text3 = "kill some Z's on the way in for extra kudos!",
 
     Stash_MarchRidgeMap10_Text1 = "Blessing for a good soul",
     Stash_MarchRidgeMap10_Text2 = "May it keep you from Hell for another while",
@@ -247,7 +247,7 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_RiversideStashMap7_Text2 = "Heading to Gigamart now",
     Stash_RiversideStashMap7_Text21 = "Don't fight with Sandra while I'm gone",
 
-    Stash_RiversideStashMap8_Text1 = "left you some food here", 
+    Stash_RiversideStashMap8_Text1 = "left you some food here",
     Stash_RiversideStashMap8_Text11 = "Eat before you leave",
     Stash_RiversideStashMap8_Text2 = "infected wandering here",
     Stash_RiversideStashMap8_Text3 = "where I saw that group of people (probably dead now)",
@@ -256,8 +256,8 @@ Stash_MulMap18_Text12 = "hope all his guns still there",
     Stash_RiversideStashMap9_Text2 = "gas",
     Stash_RiversideStashMap9_Text3 = "D's bit but not serious - need antibiotics just in case",
 
-    Stash_RiversideStashMap10_Text1 = "bank", 
-    Stash_RiversideStashMap10_Text2 = "Don't forget a backup weapon", 
+    Stash_RiversideStashMap10_Text1 = "bank",
+    Stash_RiversideStashMap10_Text2 = "Don't forget a backup weapon",
     Stash_RiversideStashMap10_Text21 = "Your axe head looked a little loose",
     Stash_RiversideStashMap10_Text3 = "Heading west out of town soon, you know where to find me",
 
@@ -322,29 +322,29 @@ Stash_WorldMap11_Text1 = "Dish 3 on Tower 2 - loses signal around 6 GHz - power 
 Stash_WorldMap11_Text11 = "Get HQ to test with Lexington after",
 
 Stash_WorldMap12_Text1 = "LARGE campgrounds - everything we need (except Jane's pills)",
-Stash_WorldMap12_Text11 = "needs clearing first but has lots of food, beds, fireplace"
-Stash_WorldMap12_Text2 = "ONLY DANGER: Mall to north, hundreds of infected there"
+Stash_WorldMap12_Text11 = "needs clearing first but has lots of food, beds, fireplace",
+Stash_WorldMap12_Text2 = "ONLY DANGER: Mall to north, hundreds of infected there",
 
-Stash_WorldMap13_Text1 = "Hal, we're going here, should be safe"
-Stash_WorldMap13_Text11 = "I know it's hard but DO NOT BRING PAULA"
-Stash_WorldMap13_Text12 = "You have to save yourself at least"
+Stash_WorldMap13_Text1 = "Hal, we're going here, should be safe",
+Stash_WorldMap13_Text11 = "I know it's hard but DO NOT BRING PAULA",
+Stash_WorldMap13_Text12 = "You have to save yourself at least",
 
-Stash_WorldMap14_Text1 = "grandma"
-Stash_WorldMap14_Text2 = "where they got grampa"
-Stash_WorldMap14_Text3 = "Lord protect them"
+Stash_WorldMap14_Text1 = "grandma",
+Stash_WorldMap14_Text2 = "where they got grampa",
+Stash_WorldMap14_Text3 = "Lord protect them",
 
-Stash_WorldMap17_Text1 = "patrol blindspot"
-Stash_WorldMap17_Text2 = "V will turn off motion sensors at 23.15 exactly"
-Stash_WorldMap17_Text21 = "Don't get distracted! Follow V, take your pictures, get out"
+Stash_WorldMap17_Text1 = "patrol blindspot",
+Stash_WorldMap17_Text2 = "V will turn off motion sensors at 23.15 exactly",
+Stash_WorldMap17_Text21 = "Don't get distracted! Follow V, take your pictures, get out",
 
-Stash_WorldMap18_Text1 = "Ben"
-Stash_WorldMap18_Text2 = "path"
+Stash_WorldMap18_Text1 = "Ben",
+Stash_WorldMap18_Text2 = "path",
 
-Stash_WorldMap19_Text1 = "Stubborn fuck! At least take the guns I left in Mrs Cuddy's house"
-Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!"
+Stash_WorldMap19_Text1 = "Stubborn fuck! At least take the guns I left in Mrs Cuddy's house",
+Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!",
 
-Stash_WorldMap19_Text1 = "DICKHEAD"
-Stash_WorldMap19_Text2 = "FUCKER"
+Stash_WorldMap19_Text1 = "DICKHEAD",
+Stash_WorldMap19_Text2 = "FUCKER",
 Stash_WorldMap19_Text3 = "ASSHOLE"
 */
 }

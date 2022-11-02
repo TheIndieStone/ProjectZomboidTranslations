@@ -81,7 +81,7 @@ Recipe_RU = {
 	Recipe_Reclaim_Spoon_from_Spear = "Снять с копья ложку",
 	-- 03. Фермерство
 	Recipe_Make_Flies_Cure = "Сделать инсектицидный раствор",
-	Recipe_Make_Mildew_Cure = "Сделать раствор от мучной росы",
+	Recipe_Make_Mildew_Cure = "Сделать раствор от мучнистой росы",
 	Recipe_Open_Packet_of_Broccoli_Seeds = "Вынуть семена брокколи",
 	Recipe_Open_Packet_of_Cabbage_Seeds = "Вынуть семена капусты",
 	Recipe_Open_Packet_of_Carrot_Seeds = "Вынуть семена моркови",

@@ -546,6 +546,9 @@ ContextMenu_TooComplicated = "Készségszint túl alacsony az elolvasásához.",
 ContextMenu_Illiterate = "Írástudatlan vagy",
 ContextMenu_AmmoType = "Lőszertípus",
 
+	-- Ellenőrizni ezt a sort.
+Puddle = "Pocsolya???",
+
 
 	-- v41.78b
 	-- Átnézve 2022.10.22

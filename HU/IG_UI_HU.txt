@@ -302,11 +302,11 @@ IGUI_Gametime_Survival = "Túlélő",
 IGUI_Gametime_Apocalypse = "Apokalipszis",
 IGUI_Gametime_Survivor = "Túlélő",
 IGUI_Gametime_Builder = "Építő",
-IGUI_Gametime_You_Have_One_Day = "Egy napod van",
-IGUI_Gametime_Winter_is_Coming = "Közeleg a tél",
-IGUI_Gametime_A_Storm_is_Coming = "Vihar közeleg",
-IGUI_Gametime_The_Descending_Fog = "Leszálló köd",
-IGUI_Gametime_A_Really_CD_DA = "Egy igazán rossz nap",
+IGUI_Gametime_You Have One Day = "Egy napod van",
+IGUI_Gametime_Winter is Coming = "Közeleg a tél",
+IGUI_Gametime_A Storm is Coming = "Vihar közeleg",
+IGUI_Gametime_The Descending Fog = "Leszálló köd",
+IGUI_Gametime_A Really CD DA = "Egy igazán rossz nap",
 IGUI_Gametime_Kingsmouth = "Kingsmouth",
 IGUI_Gametime_Studio = "Stúdió",
 IGUI_Gametime_LastStand = "Az utolsó ellenállás",
@@ -438,7 +438,7 @@ IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Üdv a Project Zomboid-ban! <L
 IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> Első lépésként: nagyítani, vagy kicsinyíteni tudsz az egérgörgővel, vagy ezekkel a gombokkal: %1/%2. <LINE> <LINE> Szóval, nézzük meg madártávlatból ezt a magányos helyet, ahol meg fogsz halni. <LINE> <LINE> <SIZE:large>Kicsinyíts!",
 IGUI_Tutorial1_Welcome3 = " <CENTRE> <SIZE:medium> Nagyszerű volt! <LINE> <LINE> Rendben, a következő: Kattints a szív ikonra, itt fogod tudni megnézni a karaktered tulajdonságait. <LINE> <LINE> <SIZE:large>Kattints a villogó szívre a bal oldalon!",
 IGUI_Tutorial1_Welcome4 = " <CENTRE> <SIZE:medium> Itt tudod megnézni a karaktered egészségét. <LINE> <LINE> Karcolások, harapások, törött végtagok, minden itt jelenik meg a kényelmed érdekében. <LINE> <LINE> Ha vannak Orvosi ismereteid, akkor itt tudod ellátni magad.",
-IGUI_Tutorial1_Welcome5 = " <CENTRE> <SIZE:medium> Ismersz egy másik jó panelt? Igen! A tapasztalat panel! <LINE> <LINE> <SIZE:large> Kérlek, kattints a Tapasztalat fülre!",
+IGUI_Tutorial1_Welcome5 = " <CENTRE> <SIZE:medium> Ismersz egy másik jó panelt? Igen! A készség panel! <LINE> <LINE> <SIZE:large> Kérlek, kattints a Készség fülre!",
 IGUI_Tutorial1_Welcome6 = " <CENTRE> <SIZE:medium> Fantasztikus! Tényleg nagy kár lesz téged elveszíteni! <LINE> <LINE> Ez a panel a különböző túlélési készségekkel kapcsolatos pontjaidat mutatja.",
 IGUI_Tutorial1_Welcome7 = " <CENTRE> <SIZE:medium> A játékon belüli tevékenységek olyan ügyességi pontokkal látnak el, amelyekkel szintet léphetsz az egyes szakterületeken. <LINE> <LINE> A tanulási sebesség növelhető könyvolvasással és bizonyos tévéműsorok nézésével! <LINE> <LINE> Végül az agyad úgyis hideg, döglött iszap lesz - de addig miért ne tanulnád meg az asztalosmunkát?",
 IGUI_Tutorial1_Welcome8 = " <CENTRE> <SIZE:medium> Ideje eldobni a mankókat, hölgyem! <LINE> <LINE> <SIZE:large> A keresztre kattintva zárd be a Karaktertáblát, és áttérünk a túlélő élet következő, izgalmas aspektusára!",
@@ -1675,9 +1675,9 @@ IGUI_PlayerText_CanNotExitFromMovingCar = "Nem lehet mozgó járműből kiszáll
 
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2022.10.26
 	-- Legutóbbi változás:
-	-- 41.78-as sorok hozzáadva.
+	-- Tapasztalat fül átírva készség fülre.
 	-- Megjegyzés:
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítandó, játék közben kell ellenőrizni.
