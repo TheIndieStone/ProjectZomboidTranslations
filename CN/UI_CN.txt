@@ -1,5 +1,5 @@
 UI_CN = {
-	-- Main screen (lua) 
+	-- Main screen (lua)
 	UI_mainscreen_laststand = "背水一战",
 	UI_mainscreen_option = "游戏选项",
 	UI_mainscreen_debug = "DEBUG",
@@ -610,7 +610,7 @@ UI_CN = {
 	UI_optionscreen_binding_WalkTo = "移动至",
 	UI_servers_LastUpdate = "最后更新: ",
 	UI_servers_Users = "昵称: ",
-	UI_servers_LogAs = "登入昵称: ";
+	UI_servers_LogAs = "登入昵称: ",
 	UI_mods_Done = "确定",
 	UI_mods_Explanation = "把你的模组放在 ",
 	UI_mods_GetModsHere = "在这获取更多模组!",
@@ -1264,6 +1264,7 @@ UI_CN = {
 	UI_mainscreen_userpanel = "用户面板",
 	UI_PPT_Key = "语音键:%1",
 	UI_optionscreen_objHighlightColor = "容器高亮颜色",
+	UI_optionscreen_do_container_outline = "显示高亮容器轮廓",
 	UI_optionscreen_goodHighlightColor = "良好显示颜色",
 	UI_optionscreen_badHighlightColor = "低劣显示颜色",
 	UI_userpanel_tickets = "票",
