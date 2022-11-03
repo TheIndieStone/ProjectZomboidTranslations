@@ -459,7 +459,7 @@ Sandbox_ActiveOnly_option1 = "Mindig",
 Sandbox_ActiveOnly_option2 = "Éjszaka",
 Sandbox_ActiveOnly_option3 = "Nappal",
 Sandbox_NightDarkness = "A sötétség az éjszaka folyamán",
-Sandbox_NightDarkness_tooltip = "Szabályozza a környezet világosságát éjszaka."
+Sandbox_NightDarkness_tooltip = "Szabályozza a környezet világosságát éjszaka.",
 Sandbox_NightDarkness_option1 = "Koromsötét",
 Sandbox_NightDarkness_option2 = "Sötét",
 Sandbox_NightDarkness_option3 = "Normál",
@@ -665,9 +665,9 @@ Sandbox_ZDecomposition_option4 = "Nincs",
 
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2022.11.02
 	-- Legutóbbi változás:
-	-- 41.78-as sorok hozzáadva.
+	-- Vesszőpótlások.
 	-- Megjegyzés:
 	-- Egységesíteni kell ezeket: Controls, governs: Szabályozza
 	-- Át kell nézni az egészet!

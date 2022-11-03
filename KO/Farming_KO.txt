@@ -60,8 +60,8 @@ Farming_KO = {
     Farming_Tooltip_FurrowHasSeeds = "이미 씨앗이 있음",
     Farming_Tooltip_FurrowNeedsSeed = "씨앗이 필요함",
     Farming_Tooltip_NotReadyToHarvest = "수확할 준비가 되지 않음.",
-    Farming_Tooltip_NotAPlant = "식물이 아니다.",
+    Farming_Tooltip_NotAPlant = "식물이 아님.",
     Farming_Tooltip_ItemUsed = "사용됨",
-    Farming_Tooltip_PlantHasEnoughWater = "식물에 물이 가득 찼다.",
+    Farming_Tooltip_PlantHasEnoughWater = "식물에 물이 가득 찼음.",
     Farming_Tooltip_NotAFurrow = "고랑이 아님.",
 }

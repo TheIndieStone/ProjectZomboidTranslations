@@ -14,8 +14,8 @@ UI_KO = {
     UI_mainscreen_continue = "이어하기",
     UI_mainscreen_exit = "나가기",
     UI_mainscreen_workshop = "Steam 워크샵",
-    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.71용 <2022년 5월 26일자>",
-    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.71용 <2022년 5월 26일자>",
+    UI_mainscreen_version_steam = "Steam 버전 : Build - %1  한국어 번역본 : Build 41.78용 <2022년 11월 3일자>",
+    UI_mainscreen_version = "버전 : Build - %1   한국어 번역본 : Build 41.78용 <2022년 11월 3일자>",
     --UI_mainscreen_version_steam = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     --UI_mainscreen_version = "테스트 버전: 41용 정식 릴리스판 적용 불확실합니다.",
     UI_Details = "갱신 정보",
@@ -327,6 +327,7 @@ UI_KO = {
     UI_trait_nutritionistdesc = "음식의 영양가를 알게 됩니다.",
     UI_trait_deafdesc = "소리를 들을 수 없습니다.",
     UI_trait_Cook = "요리",
+    UI_trait_cook = "요리",
     UI_trait_Cook2Desc = "요리를 만들 수 있습니다.",
     UI_trait_CookDesc = "다양한 레시피를 알고 있습니다.",
     UI_trait_Blacksmith = "대장장이",
@@ -1230,7 +1231,7 @@ UI_KO = {
     UI_optionscreen_render_rain_indoors = "집 안에 있을 때 비 오는 효과를 켭니다.",
     UI_optionscreen_binding_ToggleGodModeInvisible = "선택 God Mode 와 Invisible",
 	UI_LoadGameScreen_ButtonChooseMods = "모드 고르기...",
-    UI_ModsNagPanel_Text = "모드는 프로젝트 좀보이드 커뮤니티의 멤버들에 의해 만들어진다.  <BR> 이전 버전의 게임을 위해 만들어진 모드는 최신 버전에서는 작동하지 않을 수 있다. I-Will-Back-My-Save(IWBUMS)를 플레이 할 때 특히 그렇습니다.<BR> 프로젝트좀보이드에서 버그가 발생한다면, 저희 포럼에서 이슈를 보고하기 전에 모드를 사용하지 않고 게임을 해보십시오."
+    UI_ModsNagPanel_Text = "모드는 프로젝트 좀보이드 커뮤니티의 멤버들에 의해 만들어진다.  <BR> 이전 버전의 게임을 위해 만들어진 모드는 최신 버전에서는 작동하지 않을 수 있다. "Unstable" 베타를 플레이 할 때 특히 그렇습니다.<BR> 프로젝트좀보이드에서 버그가 발생한다면, 저희 포럼에서 이슈를 보고하기 전에 모드를 사용하지 않고 게임을 해보십시오."
     UI_optionscreen_CannotChangeWhileInGame = "게임 중에는 변경할 수 없습니다.",
     UI_optionscreen_aim_outline_tt = "플레이어가 조준하고 있는 좀비에 강조선이 생깁니다.",
     UI_NewGame_Apocalypse = "세상의 종말",
@@ -1269,7 +1270,7 @@ UI_KO = {
     UI_optionscreen_binding_ToggleAnimationText = "애니메이션 텍스트 전환",
     UI_optionscreen_binding_ToggleModelsEnabled = "사용 가능한 모델 전환",
     UI_optionscreen_fog_quality = "안개 품질",
-    UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "만약 활성화상태라면, 플레이어는 다른 플레이어에게 공격당할 수 있습니다."
+    UI_ServerOption_PVPMeleeWhileHitReaction_tooltip = "만약 활성화상태라면, 플레이어는 다른 플레이어에게 경직당할 수 있습니다."
 	UI_challengeplayer_XP = "XP : %1",
 	UI_ServerOptionDesc_Replay = "움직이는 플레이어를 녹화하고 재생합니다. Use: /replay \"playername\" -record|-play|-stop filename. Example: /replay user1 -record stadion.bin",
     UI_Loading_Clothing = "옷 가져오는 중",
@@ -1478,5 +1479,41 @@ UI_KO = {
     UI_optionscreen_MusicActionStyle = "음악 동작 방식",
     UI_optionscreen_MusicActionStyle_1 = "공식",
     UI_optionscreen_MusicActionStyle_2 = "구버전",
-    UI_ServerOption_SafehouseAllowNonResidential_tooltip = "플레이어가 주거할 수 없는 건물(상점 건물등)에 은신처 설정을 허용할지 여부를 설정합니다.",
+    UI_ServerOption_SafehouseAllowNonResidentialHomes_tooltip = "플레이어가 주거할 수 없는 건물(상점 건물등)에 은신처 설정을 허용할지 여부를 설정합니다.",
+	UI_LoadGameScreen_ButtonRenameSavefile = "파일 이름 변경",
+	UI_LoadGameScreen_RenameSavefileText = "이 저장 파일의 새로운 이름을 선택하세요. 폴더 이름을 변경하려면 버튼을 눌러주세요.",
+	
+	UI_ServerOptionDesc_SetStatisticsPeriod = "서버 통계를 설정하거나 지웁니다. Use /stats none|file|console|all period. Example /stats file 10",
+	UI_ServerOption_MapRemotePlayerVisibility_tooltip = "게임 내 지도에서 플레이어 표시를 설정합니다. \n1=모두 숨겨짐 2=같은 편만 3=모두 보임",
+	UI_optionscreen_jumpscare_volume = "놀라게 하는 특수효과 소리 크기",
+	UI_ServerOptionDesc_StartStorm = "서버에 폭풍우를 시작합니다. 명령어 /startstorm "duration", 설정한 지속시간은 게임내 시간입니다.",
+	UI_ServerOption_SafehouseAllowNonResidential_tooltip = "비주거 건물에 플레이어가 은신처 신청이 가능한지 여부를 결정합니다.",
+	
+	
+	
+	UI_ServerOptionDesc_CheckModsNeedUpdate = "모드 업데이트가 되었는지 여부를 나타냅니다. 로그 파일에 응답 기록됨",
+	UI_ServerOptionDesc_SetLogLevel = "로그 레벨 설정. /log %1 %2 를 사용",
+	UI_servers_UDPConnecting = "직접 연결 시도 중...",
+	UI_servers_SteamConnecting = "스팀 연결 시도 중...",
+	UI_ServerOption_SendBufferSize_tooltip  = "스팀 네트워킹에서 버퍼 크기를 보냅니다. (Use if having RakNetSendTo error)",
+	
+	
+	UI_optionscreen_AutoWalkContainer = "선택한 보관함으로 자동 이동",
+	UI_optionscreen_AutoWalkContainer_tt = "이 설정을 활성화하면 선택한 보관함 근처로 이동합니다.",
+	UI_optionscreen_goodHighlightColor = "'긍정적' 강조 색",
+    UI_optionscreen_badHighlightColor = "'부정적' 강조 색",
+	UI_optionscreen_binding_WalkTo = "이곳으로 걸어가기",
+	
+	UI_TermsOfService_Title = "서비스 약관 및 개인 정보 보호 공지",
+    UI_TermsOfService_Prompt1 = "죽음에 처한 생존자들께 인사드립니다! 감염되기 전에... 수락을 선택하면 서비스 약관에 동의하고 개인 정보 보호 정책을 승인하게 됩니다.",
+    UI_TermsOfService_Prompt2 = "[이 버튼들을 클릭하면 웹 브라우저에서 페이지가 표시됩니다.]",
+    UI_TermsOfService_Button1 = "서비스 약관 보기",
+    UI_TermsOfService_Button2 = "개인 정보 보호 정책 보기",
+    UI_TermsOfService_ButtonAccept = "수락",
+    UI_TermsOfService_ButtonQuit = "그만두기",
+    UI_TermsOfService_MainMenu = "법률",
+	
+	
+	
+	UI_servers_connectionOptions = "연결 설정",
 }

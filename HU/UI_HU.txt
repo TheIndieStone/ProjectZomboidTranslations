@@ -103,9 +103,9 @@ UI_optionscreen_InventoryContainerSize = "Felszerelés Tároló gombjának mére
 UI_optionscreen_clock_format = "Időformátum",
 UI_optionscreen_clock_month_day = "Hónap/Nap",
 UI_optionscreen_clock_day_month = "Nap/Hónap",
-UI_optionscreen_clock_Size = "Óra kijelző mérete"
-UI_optionscreen_clock_small = "Kicsi"
-UI_optionscreen_clock_large = "Nagy"
+UI_optionscreen_clock_Size = "Óra kijelző mérete",
+UI_optionscreen_clock_small = "Kicsi",
+UI_optionscreen_clock_large = "Nagy",
 UI_optionscreen_clock_24_or_12 = "Óra 24/12",
 UI_optionscreen_clock_24_hour = "24 óra",
 UI_optionscreen_clock_12_hour = "12 óra",
@@ -1264,6 +1264,7 @@ UI_userpanel_factionpanel = "Csoport",
 UI_mainscreen_userpanel = "Tag Felület",
 UI_PPT_Key = "Nyomd le a következő gombot a beszédhez: %1",
 UI_optionscreen_objHighlightColor = "A kiemelt tároló színe",
+UI_optionscreen_do_container_outline = "A kiemelt tároló körvonalának megjelenítése",
 UI_optionscreen_goodHighlightColor = "'Jó' Kiemelési Szín",
 UI_optionscreen_badHighlightColor = "'Rossz' Kiemelési Szín",
 UI_userpanel_tickets = "Jegyek",
@@ -1519,9 +1520,9 @@ UI_disable_search_mode = "Keresés mód leállítása",
     UI_ServerOptionDesc_CheckModsNeedUpdate = "Kijelzi, hogy egy mód frissítve lett-e. A válasz a naplófájlba lesz írva",
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2022.11.02
 	-- Legutóbbi változás:
-	-- 41.64-es sorok megcsinálva és a 41.78-as sorok hozzáadva.
+	-- Vesszőpótlások és új sor.
 	-- Megjegyzés:
 	-- Egészet át kell nézni!
 

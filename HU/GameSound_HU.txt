@@ -260,9 +260,9 @@ GameSound_HU = {
     GameSound_DrinkingFromTap = "Drinking from Tap",
     GameSound_Eating = "Eating",
     GameSound_Swallowing = "Swallowing",
-    GameSound_HeartBeat = "Heartbeat", 
+    GameSound_HeartBeat = "Heartbeat",
     GameSound_FemaleHeavyBreath = "Heavy Breathing - Female",
-    GameSound_MaleHeavyBreath = "Heavy Breathing - Male", 
+    GameSound_MaleHeavyBreath = "Heavy Breathing - Male",
     GameSound_FemaleHeavyBreathPanic = "Heavy Breathing Panic - Female",
     GameSound_MaleHeavyBreathPanic = "Heavy Breathing Panic - Male",
     GameSound_PlayerDied = "Player Died",
@@ -390,9 +390,9 @@ GameSound_HU = {
     GameSound_TutorialZombie = "TutorialZombie",
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2022.11.02
 	-- Legutóbbi változás:
-	-- Nincs változás.
+	-- Vesszőpótlások.
 	-- Megjegyzés:
 	-- Fordítani kell!
 
