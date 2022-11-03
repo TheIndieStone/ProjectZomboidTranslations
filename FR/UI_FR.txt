@@ -1084,6 +1084,7 @@ UI_FR = {
     UI_optionscreen_corpses = "Corps 3D",
     UI_optionscreen_default_lang = "Langue par défaut.",
     UI_optionscreen_display = "AFFICHAGE",
+    UI_optionscreen_do_container_outline = "Affiche une démarcation sur les conteneur en surbrillance",
     UI_optionscreen_do_door_sprite_effects = "Tremblement des portes lors des coups",
     UI_optionscreen_do_wind_sprite_effects = "Effets visuels du vent",
     UI_optionscreen_easy = "Facile",
