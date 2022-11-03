@@ -1495,4 +1495,5 @@ UI_RU = {
     UI_TermsOfService_MainMenu = "Лиц. соглашение",
 	UI_WorkshopSubmit_VisibilityUnlisted = "По ссылке",
 	UI_ServerOptionDesc_CheckModsNeedUpdate = "Определяет был ли обновлён какой-нибудь мод. Ответ будет выдан в лог-файле",
+	UI_optionscreen_do_container_outline = "Отображать контур просматриваемого контейнера",
 }
