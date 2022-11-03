@@ -1086,6 +1086,7 @@ UI_PL = {
     UI_optionscreen_no_translators = "Żadne tłumaczenie społeczności dla radia i telewizji nie jest aktualnie dostępne",
     UI_optionscreen_normal = "Normalny",
     UI_optionscreen_objHighlightColor = "Kolor podświetlonego pojemnika",
+    UI_optionscreen_do_container_outline = "Pokazuj kontur podświetlonego pojemnika",
     UI_optionscreen_panCameraWhileAiming = "Przesuwanie kamery podczas celowania",
     UI_optionscreen_panCameraWhileDriving = "Przesuwanie kamery podczas jazdy",
     UI_optionscreen_perf_3Ditems = "Wyświetlaj przedmioty 3D",
