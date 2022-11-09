@@ -6707,6 +6707,7 @@ Vehicle Spawn Chance rate 现在可以是一个浮点值，而不仅仅是一个
 添加了服务器选项"KnockedDownAllowed"以启用/禁用 PVP 击倒。
 [NODOT]<INDENT:40> 这是一个权宜之计的改变，让服务器可以选择让 PVP 战斗不那么令人沮丧，然后我们才能在未来更直接地解决 PVP 战斗。  
 [NODOT]<BR>
+调整了 Type 3 和 5 Anticheat 以减少误报。
 添加了在聊天框中输入时按 TAB 键自动完成玩家昵称的功能。
 添加了 RCON 命令"checkModsNeedUpdate"来检查需要更新的模组。
 允许其他非管理员权限级别删除库存/容器中的项目。
@@ -6717,6 +6718,8 @@ Vehicle Spawn Chance rate 现在可以是一个浮点值，而不仅仅是一个
 [NODOT]<INDENT:60> 客户端向服务器发送日志。
 [NODOT]<INDENT:60> 服务器将日志转储到 checksum.txt。
 [NODOT]<INDENT:60> 服务器将客户端的日志转储到校验和-<id>.txt。
+[NODOT]<BR>
+多人游戏客户端现在将重试 GettingServerInfo 请求 3 次。
 [NODOT]<BR>
 在对脚本和 Lua 文件的相对路径进行排序以确定加载顺序时，首先将相对路径转换为小写。这是为了修复平台差异破坏多人游戏中的校验和。它还解决了如果模组对同一个文件或文件夹使用不同的大小写，同一个文件可能会被多次加载的问题。
 [NODOT]<BR>
@@ -6944,3 +6947,8 @@ Vehicle Spawn Chance rate 现在可以是一个浮点值，而不仅仅是一个
 修正 WorldSoundManager.getSoundAttract() 不使用 IsoZombie.hearing。
 修复了连帽衫和雨披一起穿着时的遮盖问题。
 修复了 Moodle 的速率和心脏（健康面板）图标摆动不处理 ui 屏幕外渲染和不封顶的帧速率。
+修复了僵尸 Pinpoint 听力无法按预期工作的问题。
+修复了无法清空腐烂的农产品袋的问题。
+修复了拆卸物品时无限丙烷火炬故障。
+修复了中文广播和电视内容的编码。
+修复了灯泡寿命沙箱值错误。
