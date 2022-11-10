@@ -13,7 +13,7 @@ DynamicRadio_KO {
     AEBS_wind_1 = "포근함",
     AEBS_wind_2 = "적당한",
     AEBS_wind_3 = "강한",
-    AEBS_wind_4 = "폭풍우-강도",
+    AEBS_wind_4 = "폭풍 정도의",
     AEBS_clouds_0 = "맑은 하늘.",
     AEBS_clouds_1 = "약간 흐림.",
     AEBS_clouds_2 = "흐림.",

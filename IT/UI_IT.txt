@@ -1086,6 +1086,7 @@ UI_IT = {
     UI_optionscreen_no_translators = "Nessuna traduzione della Comunità di Radio e TV",
     UI_optionscreen_normal = "Normale",
     UI_optionscreen_objHighlightColor = "Colore del contenitore evidenziato",
+	UI_optionscreen_do_container_outline = "Visualizzare il contorno del contenitore che viene guardato",
 	UI_optionscreen_goodHighlightColor = "Colore di evidenziazione 'buono'",
     UI_optionscreen_badHighlightColor = "Colore di evidenziazione 'cattivo'",
     UI_optionscreen_panCameraWhileAiming = "Panoramica della camera mentre si mira",

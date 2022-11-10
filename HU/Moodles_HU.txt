@@ -221,13 +221,13 @@ Moodles_windchill_desc_lvl2 = "Az érzés 10-15 fokkal hidegebb, mint amilyen va
 Moodles_windchill_desc_lvl3 = "Az érzés 15-20 fokkal hidegebb, mint amilyen valójában.",
 Moodles_windchill_desc_lvl4 = "Az érzés több, mint 20 fokkal hidegebb, mint amilyen valójában.",
     -- CantSprint
-Moodles_CantSprint = "Korlátozott mozgás"
+Moodles_CantSprint = "Korlátozott mozgás",
 Moodles_CantSprint_desc = "Nehéz ruházat, terjedelmes táskák, vagy nagy tételek, amik lassulást okoznak!"
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2022.11.02
 	-- Legutóbbi változás:
-	-- Nincs változás.
+	-- Vesszőpótlások
 	-- Megjegyzés:
 	-- Egész átnézve. 100%!
 }

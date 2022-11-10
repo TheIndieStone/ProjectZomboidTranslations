@@ -3,31 +3,31 @@ SurvivalGuide_KO = {
 	SurvivalGuide_entrie1title = "#1 - 가장 기초적인 것",
 	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 일단 진정하기 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 심호흡을 크게 하고 기초부터 배우지 않으면 오래 살아남기 힘들 겁니다.",
 	SurvivalGuide_entrie1moreinfo = " <H1> 움직이는 법 <BR> <TEXT> 프로젝트 좀보이드에서 날쌔게 움직이려면 WASD키를 사용하세요. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
-                                    "<LINE> <H1> 싸우는 법 <BR> <TEXT>공격을 하려면, 오른쪽 마우스 버튼을 누르고 <SPACE><KEY:Aim><SPACE> 조준하고, 왼쪽 마우스 버튼을 눌러서 공격을 하세요. 무기를 들고 있지 않다면, 밀치기만 합니다 (밀치기는 <SPACE><KEY:Melee><SPACE> 를 눌러서 별도 동작으로 할 수 있습니다, 무기를 들고 있더라고 말이죠). <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 조준을 하면 ISO커서(마우스 커서)가 있는 방향으로 항상 쳐다 봅니다, 마우스 커서가 있는 곳의 하얀색 원은 바닥을 알려줍니다. 싸우는 방법에 대한 자세한 이야기는 3쪽에서 확인해주세요. <BR> "..
-                                    "<LINE> <H1> 무들 <BR> <TEXT> 화면의 오른쪽 상단에 나타나는 작은 원형의 아이콘을 무들이라고 부릅니다. 생존자의 상태를 한 눈에 볼 수 있습니다. 자세한 설명은 각 무들 아이콘 위로 마우스를 가져가 보세요. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
-                                    "<LINE> <H1> 상호 작용하는 법 <BR> <TEXT> 근처의 물건 위에 마우스 커서를 올리고 왼쪽 마우스 버튼을 누르거나, 오른쪽 버튼을 누르면 상호 작용 할 수 있습니다. 문을 열거나 찬장을 확인할 때 왼쪽 마우스 버튼을 누르면 상호 작용이 될 겁니다. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 오른쪽 마우스 버튼을 누르고 있으면 주변을 둘러 볼 수 있고 공격을 하기 위해 조준도 가능합니다. 마우스 휠을 굴리거나 <SPACE><KEY:Zoom&nbsp;in><SPACE>  키와 <SPACE><KEY:Zoom&nbsp;out><SPACE>  키를 눌러서, 화면을 확대 축소 할 수 있습니다. <BR>"..
-                                    "<LINE> <H1> 상태 확인 하는 법 <BR> <TEXT> 왼쪽 상단에 있는 심장 아이콘을 눌러서 상태를 확인할 수 있습니다. 이 창에서는 응급처치를 하거나 - 두려운 물림 상태가 있는지 확인할 수 있습니다. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
-                                    "<LINE> <H1> 상호 작용 키 <BR> <TEXT> 상호 작용의 다른 방법으로는 <SPACE><KEY:Interact>.  키를 누르는 방법이 있습니다. 이렇게 하면 공격 자세를 유지하면서 문을 열 수 있게 됩니다. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> <TEXT> <SPACE><KEY:Interact><SPACE>  키를 짧게 눌러서 창문을 여닫을 수 있고 <SPACE><KEY:Interact><SPACE>  키를 길게 눌러서 열린(아니면 깨졌거나) 창문을 넘어갈 수 있습니다. 이 <SPACE><KEY:Interact><SPACE>  키를 여러번 두드려서 창문을 열려고 한다면 창문을 깰겁니다. - 위급한 상황에서 유용하지만, 깨진 유리 조각을 조심하세요. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-                                    "<LINE> <H1> 담 넘는 법 <BR> <TEXT> <SPACE><KEY:Interact><SPACE>  키를 눌러서 담을 넘을 수 있습니다. 또는 달리기나 전력 질주를 하면서 작은 울타리를 지나가면 자동으로 넘어갈 겁니다. (자세한 내용은 2쪽을 확인해 주세요). <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
-                                    " <LINE> <H1> 상호 작용 메뉴 <BR> <TEXT> 제작과 같은 자세한 상호 작용은 오른쪽 마우스 버튼을 눌러서 확인 할 수 있습니다. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
-                                    " <LINE> <H1> 시간을 이용하는 법 <BR> <TEXT> 프로젝트 좀보이드의 시간은 보통 빨리가지만, 오른쪽 상단에 보이는 재생 버튼이 도움이 될 겁니다. 가만히 서 있거나 작업(무언가 읽거나 만들기 같은)을 할 경우에 버튼을 눌러서 시간을 가속할 수 있습니다. 그리고 일시정지 버튼을 눌러서 게임의 시간을 완전히 멈추고 비참한 상황에서 탈출할 방법을 찾을 수도 있습니다. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
-                                    "<LINE> <H1> 지도 보는 법 <BR> <TEXT> <SPACE><KEY:Map><SPACE>  키를 누르거나 왼쪽의 지도 아이콘을 눌러서 지도를 볼 수 있습니다. 좀보이드 세계를 돌아다니면 지도가 점점 자세하게 채워질 겁니다. 오른쪽 하단에 미니맵도 설정으로 활성화할 수 있습니다. <SPACE><KEY:Map><SPACE>  키를 꾹 누르고 있으면 지도 메뉴가 뜹니다, 여기에서 미니맵을 키거나 끌 수 있습니다. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
-                                    ///<LINE> <H1> 소지품에 있는 물건으로 장식하는 법 <BR> <TEXT> 소지품에 있는 물건에 마우스 오른쪽 클릭을 하면 '바닥에 물건 내려놓기' 항목이 생깁니다. 이걸 이용해서 원하는대로 꾸미는게 가능합니다. (가구 같은 물건은 왼쪽의 '가구 모양' 아이콘으로 옮길 수 있습니다. 자세한 이야기는 5쪽을 참고해주세요.) 녹스 사건을 청소하는걸 잊지마세요! <BR>///
-                                    "<H1> 죽지 마세요 <BR> <TEXT> 죽지 않도록 항상 힘내세요. <BR>",
+    "<LINE> <H1> 싸우는 법 <BR> <TEXT>공격을 하려면, 오른쪽 마우스 버튼을 누르고 <SPACE><KEY:Aim><SPACE> 조준하고, 왼쪽 마우스 버튼을 눌러서 공격을 하세요. 무기를 들고 있지 않다면, 밀치기만 합니다 (밀치기는 <SPACE><KEY:Melee><SPACE> 를 눌러서 별도 동작으로 할 수 있습니다, 무기를 들고 있더라고 말이죠). <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 조준을 하면 ISO커서(마우스 커서)가 있는 방향으로 항상 쳐다 봅니다, 마우스 커서가 있는 곳의 하얀색 원은 바닥을 알려줍니다. 싸우는 방법에 대한 자세한 이야기는 3쪽에서 확인해주세요. <BR> "..
+    "<LINE> <H1> 무들 <BR> <TEXT> 화면의 오른쪽 상단에 나타나는 작은 원형의 아이콘을 무들이라고 부릅니다. 생존자의 상태를 한 눈에 볼 수 있습니다. 자세한 설명은 각 무들 아이콘 위로 마우스를 가져가 보세요. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+    "<LINE> <H1> 상호 작용하는 법 <BR> <TEXT> 근처의 물건 위에 마우스 커서를 올리고 왼쪽 마우스 버튼을 누르거나, 오른쪽 버튼을 누르면 상호 작용 할 수 있습니다. 문을 열거나 찬장을 확인할 때 왼쪽 마우스 버튼을 누르면 상호 작용이 될 겁니다. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 오른쪽 마우스 버튼을 누르고 있으면 주변을 둘러 볼 수 있고 공격을 하기 위해 조준도 가능합니다. 마우스 휠을 굴리거나 <SPACE><KEY:Zoom&nbsp;in><SPACE>  키와 <SPACE><KEY:Zoom&nbsp;out><SPACE>  키를 눌러서, 화면을 확대 축소 할 수 있습니다. <BR>"..
+    "<LINE> <H1> 상태 확인 하는 법 <BR> <TEXT> 왼쪽 상단에 있는 심장 아이콘을 눌러서 상태를 확인할 수 있습니다. 이 창에서는 응급처치를 하거나 - 두려운 물림 상태가 있는지 확인할 수 있습니다. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+    "<LINE> <H1> 상호 작용 키 <BR> <TEXT> 상호 작용의 다른 방법으로는 <SPACE><KEY:Interact>.  키를 누르는 방법이 있습니다. 이렇게 하면 공격 자세를 유지하면서 문을 열 수 있게 됩니다. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> <TEXT> <SPACE><KEY:Interact><SPACE>  키를 짧게 눌러서 창문을 여닫을 수 있고 <SPACE><KEY:Interact><SPACE>  키를 길게 눌러서 열린(아니면 깨졌거나) 창문을 넘어갈 수 있습니다. 이 <SPACE><KEY:Interact><SPACE>  키를 여러번 두드려서 창문을 열려고 한다면 창문을 깰겁니다. - 위급한 상황에서 유용하지만, 깨진 유리 조각을 조심하세요. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+    "<LINE> <H1> 담 넘는 법 <BR> <TEXT> <SPACE><KEY:Interact><SPACE>  키를 눌러서 담을 넘을 수 있습니다. 또는 달리기나 전력 질주를 하면서 작은 울타리를 지나가면 자동으로 넘어갈 겁니다. (자세한 내용은 2쪽을 확인해 주세요). <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+    " <LINE> <H1> 상호 작용 메뉴 <BR> <TEXT> 제작과 같은 자세한 상호 작용은 오른쪽 마우스 버튼을 눌러서 확인 할 수 있습니다. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+    " <LINE> <H1> 시간을 이용하는 법 <BR> <TEXT> 프로젝트 좀보이드의 시간은 보통 빨리가지만, 오른쪽 상단에 보이는 재생 버튼이 도움이 될 겁니다. 가만히 서 있거나 작업(무언가 읽거나 만들기 같은)을 할 경우에 버튼을 눌러서 시간을 가속할 수 있습니다. 그리고 일시정지 버튼을 눌러서 게임의 시간을 완전히 멈추고 비참한 상황에서 탈출할 방법을 찾을 수도 있습니다. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+    "<LINE> <H1> 지도 보는 법 <BR> <TEXT> <SPACE><KEY:Map><SPACE>  키를 누르거나 왼쪽의 지도 아이콘을 눌러서 지도를 볼 수 있습니다. 좀보이드 세계를 돌아다니면 지도가 점점 자세하게 채워질 겁니다. 오른쪽 하단에 미니맵도 설정으로 활성화할 수 있습니다. <SPACE><KEY:Map><SPACE>  키를 꾹 누르고 있으면 지도 메뉴가 뜹니다, 여기에서 미니맵을 키거나 끌 수 있습니다. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+    ///<LINE> <H1> 소지품에 있는 물건으로 장식하는 법 <BR> <TEXT> 소지품에 있는 물건에 마우스 오른쪽 클릭을 하면 '바닥에 물건 내려놓기' 항목이 생깁니다. 이걸 이용해서 원하는대로 꾸미는게 가능합니다. (가구 같은 물건은 왼쪽의 '가구 모양' 아이콘으로 옮길 수 있습니다. 자세한 이야기는 5쪽을 참고해주세요.) 녹스 사건을 청소하는걸 잊지마세요! <BR>///
+    "<H1> 죽지 마세요 <BR> <TEXT> 죽지 않도록 항상 힘내세요. <BR>",
 
 	SurvivalGuide_entrie2title = "#2 - 뛰지 마세요",
 	SurvivalGuide_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 뛰지 마세요 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> <SPACE><KEY:Run><SPACE>  키를 사용해서 달릴 수 있고, <SPACE><KEY:Sprint><SPACE>  키를 사용해서 전력 질주를 할 수 있습니다, 그래도 조심하세요!",
 	SurvivalGuide_entrie2moreinfo = " <H1> 좀비의 감지 능력 <BR> <TEXT> 좀비는 시각과 청각에 반응을 합니다. 경보음과 사이렌, 총성과 같은 큰 소음은 좀비 무리가 듣고 반드시 찾아오기 때문에 조심하세요. <LINE> <BR>"..
-                                    "<H1> 달리기 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> <SPACE><KEY:Run><SPACE>  키를 사용해서 달릴 수 있고, <SPACE><KEY:Sprint><SPACE>  키를 사용해서 전력 질주를 할 수 있습니다. 달리면 소음이 발생하고 더 눈에 띄게 됩니다. 한동안은 도망칠 수 있지만, 영원히 도망가긴 힘들죠."..
-                                    " <BR> <H1> 웅크리기 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 생존자들은 웅크리기가 가능합니다. <SPACE><KEY:Crouch><SPACE>  키를 사용해서 좀비의 시야에서 몸을 조금이나마 숨길 수 있고, 더 많은 시야를 줄이기 위해서는 벽이나 울타리에 가까이 붙으면 됩니다.(캐릭터가 더 낮게 웅크리는걸 확인할 수 있습니다.) 그리고 웅크린 상태로 달리기도 가능합니다. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
-                                    "프로젝트 좀보이드는 장기 자랑을 하는 게임이 아닙니다. 좀비들은 당신의 장기 자랑을 보러오는게 아니라 장기를 원하거든요. 물론 포옹을 원하는 것도 아니에요. <BR>",
+    "<H1> 달리기 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> <SPACE><KEY:Run><SPACE>  키를 사용해서 달릴 수 있고, <SPACE><KEY:Sprint><SPACE>  키를 사용해서 전력 질주를 할 수 있습니다. 달리면 소음이 발생하고 더 눈에 띄게 됩니다. 한동안은 도망칠 수 있지만, 영원히 도망가긴 힘들죠."..
+    " <BR> <H1> 웅크리기 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 생존자들은 웅크리기가 가능합니다. <SPACE><KEY:Crouch><SPACE>  키를 사용해서 좀비의 시야에서 몸을 조금이나마 숨길 수 있고, 더 많은 시야를 줄이기 위해서는 벽이나 울타리에 가까이 붙으면 됩니다.(캐릭터가 더 낮게 웅크리는걸 확인할 수 있습니다.) 그리고 웅크린 상태로 달리기도 가능합니다. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
+    "프로젝트 좀보이드는 장기 자랑을 하는 게임이 아닙니다. 좀비들은 당신의 장기 자랑을 보러오는게 아니라 장기를 원하거든요. 물론 포옹을 원하는 것도 아니에요. <BR>",
 
 	SurvivalGuide_entrie3title = "#3 - 싸우는 법",
 	SurvivalGuide_entrie3txt = " <CENTRE> "<SIZE:large> #3 - 여러분! 집중해 주세요. <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 으깨지는 소리가 들릴 때 까지 공격을 멈추지 마세요!",
 	SurvivalGuide_entrie3moreinfo = " <H1> 전투 기술 <BR> <TEXT> 무기는 각각 정해진 공격력이 있습니다. 하지만, 공격력과 명중률은 캐릭터의 능력에 의해 영향을 받습니다. 부족한 능력도 마찬가지입니다."..
-                                    " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 오른쪽 마우스 버튼을 꾹 누르거나 <SPACE><KEY:Aim><SPACE> 를 이용해서 조준을 해보세요, 그리고 왼쪽 마우스 버튼을 눌러서 공격을 하면 됩니다. 총기를 재장전을 하려면 소지품에 탄약이 있어야 하고 <SPACE><KEY:ReloadWeapon>  키를 눌러서 장전합니다, 그리고 격발 불량을 해결하기 위해서 <SPACE><KEY:Rack&nbsp;Firearm>  키를 눌러서 해결합니다. 총기의 내구도가 낮을수록 격발 불량이 심해집니다. <BR> <LINE> 조준시 윤곽선은 총기만 나타나도록 기본 설정되어 있습니다. 빨간색이면 명중률이 낮다는 뜻이고, 초록색이면 높다는 뜻입니다. 근접 무기의 조준시 윤곽선도 설정하려면 설정의 화면 설정 메뉴에서 조준시 윤곽선 설정을 확인해보세요, 아니면 <SPACE><KEY:Main&nbsp;Menu>.  키를 눌러보세요. <LINE>"..
-                                    " <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/aimingoutlines.png> <LINE> 단검 같은 날카로운 무기는 가끔 한방에 좀비를 죽이기 위해 찌르는게 가능합니다. 그래도 버터 칼에는 큰 기대 하지 마세요. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-                                    " <H2> 바닥 공격 하는 법 <BR> <TEXT> 살아있는 시체에게 다시 죽음을 주는 가장 좋은 방법은 그들을 바닥에 쓰러뜨린 다음 그들의 뇌를 박살 내는 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 좀비는 공격을 당하거나 밀치기를 당하면 넘어질 수 있습니다. 주변에 다른 좀비가 없다면, 무기 사정거리 내에 있는 쓰러진 좀비를 향해 공격을 할 수 있습니다. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> 또한 <SPACE><KEY:Melee><SPACE>  키를 눌러서 발로 좀비를 밟아 죽일 수 있습니다. 쓰러져 있는 좀비를 발로 으깨 죽인다면 무기로 공격하는 것보다 약하지만 무기의 내구도가 낮아지지 않거나 총알을 낭비하지 않는다는 장점이 있습니다. 마우스 커서를 사용해서 흰색 원을 머리에 조준하는 걸 잊지 마세요. 좀비 다리를 공격하면 죽지 않기 때문에, 어리석은 행동이 될지도 모릅니다. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
+    " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 오른쪽 마우스 버튼을 꾹 누르거나 <SPACE><KEY:Aim><SPACE> 를 이용해서 조준을 해보세요, 그리고 왼쪽 마우스 버튼을 눌러서 공격을 하면 됩니다. 총기를 재장전을 하려면 소지품에 탄약이 있어야 하고 <SPACE><KEY:ReloadWeapon>  키를 눌러서 장전합니다, 그리고 격발 불량을 해결하기 위해서 <SPACE><KEY:Rack&nbsp;Firearm>  키를 눌러서 해결합니다. 총기의 내구도가 낮을수록 격발 불량이 심해집니다. <BR> <LINE> 조준시 윤곽선은 총기만 나타나도록 기본 설정되어 있습니다. 빨간색이면 명중률이 낮다는 뜻이고, 초록색이면 높다는 뜻입니다. 근접 무기의 조준시 윤곽선도 설정하려면 설정의 화면 설정 메뉴에서 조준시 윤곽선 설정을 확인해보세요, 아니면 <SPACE><KEY:Main&nbsp;Menu>.  키를 눌러보세요. <LINE>"..
+    " <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/aimingoutlines.png> <LINE> 단검 같은 날카로운 무기는 가끔 한방에 좀비를 죽이기 위해 찌르는게 가능합니다. 그래도 버터 칼에는 큰 기대 하지 마세요. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+    " <H2> 바닥 공격 하는 법 <BR> <TEXT> 살아있는 시체에게 다시 죽음을 주는 가장 좋은 방법은 그들을 바닥에 쓰러뜨린 다음 그들의 뇌를 박살 내는 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 좀비는 공격을 당하거나 밀치기를 당하면 넘어질 수 있습니다. 주변에 다른 좀비가 없다면, 무기 사정거리 내에 있는 쓰러진 좀비를 향해 공격을 할 수 있습니다. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> 또한 <SPACE><KEY:Melee><SPACE>  키를 눌러서 발로 좀비를 밟아 죽일 수 있습니다. 쓰러져 있는 좀비를 발로 으깨 죽인다면 무기로 공격하는 것보다 약하지만 무기의 내구도가 낮아지지 않거나 총알을 낭비하지 않는다는 장점이 있습니다. 마우스 커서를 사용해서 흰색 원을 머리에 조준하는 걸 잊지 마세요. 좀비 다리를 공격하면 죽지 않기 때문에, 어리석은 행동이 될지도 모릅니다. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
 
 	SurvivalGuide_entrie4title = "#4 - 물",
 	SurvivalGuide_entrie4txt = " <CENTRE> "<SIZE:large> #4 - 물을 얻는 방법 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 깨끗한 물은 오랫동안 생존하기 위해서 필수적입니다.",
@@ -36,7 +36,7 @@ SurvivalGuide_KO = {
 	SurvivalGuide_entrie5title = "#5 - 제작하는 법",
 	SurvivalGuide_entrie5txt = " <CENTRE> "<SIZE:large> #5 - 무언가 만들기 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 좀비들은 문과 창문을 할퀴고 다닙니다! 안전하다고 확신이 들지 않다면, 바리케이드를 치세요!",
 	SurvivalGuide_entrie5moreinfo = " <H1> 소지품함에서 제작하기 <BR> <TEXT> 소지품안에 있는 아이템으로 제작을 하려면, 간단하게 아이템에 오른쪽 마우스 버튼을 누르면 됩니다. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 이걸로 만들 수 있는 모든 아이템이 소지품에 마법처럼 생길 겁니다! <BR> 다양한 요리, 목공, 의료, 생존에 관한 제작법이 세상의 종말에서 당신을 도와줄 겁니다. <BR> <H1> 방어선 구축 <BR> <TEXT> 문과 창문에 마우스 오른쪽 버튼을 누르면 바리케이드를 칠 수 있습니다. 나무 바리케이드를 치기 위해선 판자와 망치, 못이 필요하고, 금속으로 바리케이드를 치려면 프로판 토치와 용접 마스크, 금속판이 필요합니다. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 목공과 용접 <BR> <TEXT> 능력이 오르고 자원을 모으다 보면 건물을 통째로 지을 수 있습니다. 목조 건축은 망치가 있어야 하고, 금속 구조물은 프로판 토치, 용접 마스크와 함께 대부분 용접봉도 필요합니다. 마우스 오른쪽 버튼을 바닥에 누르면 건축 가능한 메뉴가 나옵니다. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 여기에서 여러분의 능력과 재료로 만들어낼 수 있는 어떤 물건이든 선택할 수 있습니다. <BR> 선택을 하고 나면 투명하게 설치가 가능할지 알려줍니다. 마우스 왼쪽 버튼을 누르고 이리저리 끌면 설치와 동시에 방향도 바꿀 수 있습니다. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 만드는 과정은 빠르지 않으며, 벽은 여러 단계로 지어야합니다. 프좀은 현실적으로 구현하려 하는 게임입니다, 그리고 건축업자를 만나보신 적이 있으시다면, 실제로도 오래 걸린다는 걸 알 수 있을 겁니다. (게임에서 차 한잔 마실 수 있다는 걸 알고 계시나요, 도움이 될 겁니다.) 벽은 설치하기 전에 아래  키를 눌러서 회전 시킬 수 있습니다. <SPACE><KEY:Rotate&nbsp;building>. <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 명심하세요: 더 많이 만들수록, 더 좋은 품질로 만들 수 있을 겁니다. 높은 능력은 더 좋은 품질의 물건이나 유용한 물건을 만들 수 있습니다. <BR> "..
-                                    "<BR> <LINE> <H1> 바닥 타일 떼어내는 법 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 세상의 대부분의 가구나 장식물들은 떼어낼 수 있습니다. 화면 왼쪽 상단의 가구모양 아이콘을 누르고 원하는 작업을 선택하세요. 떼어내기 배치하기 회전하기 분해하기를 Tab 버튼을 눌러 전환이 가능합니다. 그리고 소지품에 가구가 있다면 배치를 할 수 있습니다. <BR> 물건을 분해하는 데 성공하려면 도구나 최소 능력 조건을 갖춰야 합니다. 떼어낼 수 있는 물체는 빠르게 기지에 바리케이드를 칠 수 있습니다. (물건으로 문 앞을 막을 수 있습니다.), 또는 냉장고나 상자같은 유용한 물건을 가지고 올 수 있습니다. <BR>",
+    "<BR> <LINE> <H1> 바닥 타일 떼어내는 법 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 세상의 대부분의 가구나 장식물들은 떼어낼 수 있습니다. 화면 왼쪽 상단의 가구모양 아이콘을 누르고 원하는 작업을 선택하세요. 떼어내기 배치하기 회전하기 분해하기를 Tab 버튼을 눌러 전환이 가능합니다. 그리고 소지품에 가구가 있다면 배치를 할 수 있습니다. <BR> 물건을 분해하는 데 성공하려면 도구나 최소 능력 조건을 갖춰야 합니다. 떼어낼 수 있는 물체는 빠르게 기지에 바리케이드를 칠 수 있습니다. (물건으로 문 앞을 막을 수 있습니다.), 또는 냉장고나 상자같은 유용한 물건을 가지고 올 수 있습니다. <BR>",
 
 	SurvivalGuide_entrie6title = "#6 - 엿보는 사람들",
 	SurvivalGuide_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 엿보는 사람들 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 그들이 죽었을지 몰라도, 여전히 창문을 통해 엿볼 수 있습니다. <LINE> 커튼이 없다고요? 즉흥적으로 만들어봅시다. ",
@@ -45,57 +45,65 @@ SurvivalGuide_KO = {
 	SurvivalGuide_entrie7title = "#7 - 맛있는 음식 먹기",
 	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 맛있는 음식 먹기 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 식중독은 세상의 종말에선 재미있는 농담이 아닙니다. <LINE> <LINE> 따뜻한 식사는 훨씬 좋습니다. ",
 	SurvivalGuide_entrie7moreinfo = " <H1> 요리하기 <BR> <TEXT> 고기, 생선이나 다른 많은 음식들은 먹기 전에 조리가 필요합니다. 식중독 위험을 줄일 수 있고, 만들어진 식사는 더 만족도가 높고, 영양가 있고, 배고픔을 더 오랫동안 유지시켜줄 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 음식을 조리하기 위해서는, 간단하게 오븐이나 전자레인지에 넣거나, 도시에 있지 않다면 모닥불을 설치하면 됩니다. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 마우스 오른쪽 버튼을 눌러 메뉴에서 가전제품을 켜고, 음식이 익으면 꺼내면됩니다. 집을 요리와 같이 익히고 싶지 않으면 꼭 요리가 끝난 뒤 끄세요. 난로와 모닥불은 연료가 있어야 하므로 태울 목재를 비축해 둬야 합니다. (만약 문맹이라면 책도 태워보세요). <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
-                                    " <H1> 농사하는 법 <BR> <TEXT> 자신만의 식량을 기르기 위해서는, 씨앗과 흙만 찾으면 됩니다. 땅을 파고 씨앗을 뿌리면 조만간 먹을 수 있는 식량이 자라날 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-                                    " <H1> 채집하는 법 <BR> <TEXT> 화면 왼쪽 상단에 있는 돋보기 아이콘을 눌러 "탐색 모드 활성화"를 하시면 산딸기, 돌, 막대 등 유용한 물건을 찾을 수 있습니다. <BR> "눈" 아이콘이 머리 위에 나타날 때 맞는 방향을 바라보면 물건을 찾을 수 있습니다. 채집 반경은 능력 수준, 지역, 밝기 와 같은 환경적 요소에 영향을 받습니다. 채집에 대한 자세한 내용은 11쪽을 참고하시거나 왼쪽 상단의 모서리에 있는 정보 아이콘을 누르시면 됩니다. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
+    " <H1> 농사하는 법 <BR> <TEXT> 자신만의 식량을 기르기 위해서는, 씨앗과 흙만 찾으면 됩니다. 땅을 파고 씨앗을 뿌리면 조만간 먹을 수 있는 식량이 자라날 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+    " <H1> 채집하는 법 <BR> <TEXT> 화면 왼쪽 상단에 있는 돋보기 아이콘을 눌러 "탐색 모드 활성화"를 하시면 산딸기, 돌, 막대 등 유용한 물건을 찾을 수 있습니다. <BR> "눈" 아이콘이 머리 위에 나타날 때 맞는 방향을 바라보면 물건을 찾을 수 있습니다. 채집 반경은 능력 수준, 지역, 밝기 와 같은 환경적 요소에 영향을 받습니다. 채집에 대한 자세한 내용은 11쪽을 참고하시거나 왼쪽 상단의 모서리에 있는 정보 아이콘을 누르시면 됩니다. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
 	SurvivalGuide_entrie8title = "#8 - 빠르게 물건 뒤지기",
 	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 빠르게 물건 뒤지기 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 소지품을 빠르고 효율적이게 관리하여 시간을 절약하고 가끔은, 목숨도 구하세요!",
 	SurvivalGuide_entrie8moreinfo = " <H1> 물건 고르는 법 <BR> <TEXT> 그럼 프로젝트 좀보이드에서 어떻게 물건을 뒤지고, 잡고, 떨어뜨리고 사용하는 걸 까요? 주된 방법은 마우스로 끌거나 오른쪽 버튼을 눌러 상호작용 메뉴를 키는 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-                                    " 왼쪽 SHIFT  키를 누른채 선택을 하면 여러 품목을 선택할 수 있습니다. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 또는 마우스를 빈 공간에 왼쪽 버튼을 누른 채 끌어보는건 어떤가요? 물건 위로 선택한 범위를 알려주는 사각형이 생길 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-                                    " 빠르게 물건을 수집하려면 가져오려는 보관함의 물건을 더블 클릭을 하거나 물건의 오른쪽에 있는 줍기 버튼을 누르면 됩니다. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  모든 걸 가져가고 싶어서 흥분하셨다면 모두 가져가기 버튼을 누르시면 됩니다. <LINE> "..
-                                    " <BR> <H1> 가방을 찬양하라 <BR> <TEXT> 가방은 중요합니다. 더 많은 짐을 들고 다니게 도와줍니다. <BR> 가방을 메고 싶다면 마우스 오른쪽 버튼을 눌러 손이나 등에 메기를 고르세요. "..
-                                    " <BR> 이제 장착을 했다면 소지품함 밑으로 가방이 보일 겁니다. 기본적으로, 가방은 더 많은 짐을 들고 다닐 수 있도록 무게를 줄여주지만, 가방에 많은 물건을 넣는다면, 여전히 움직임을 느리게 하는 건 똑같으니 조심하세요. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-                                    " <H1> 벨트와 단축키  <BR> <TEXT> 벨트, 권총집 또는 등에 특정 물건을 장착할 수 있습니다. 화면 하단에 있는 정사각형 칸이 바로 해당 항목으로, 표시된 숫자를 눌러 해당 장비를 손에 장착 할 수 있습니다. 다른 유용한 단축키도 있습니다."..
-                                    " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 소지하고있는 광원을 손에 장착하고 사용합니다. <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE>  키를 누르면 광원을 끄고 켤 수 있고,  <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE>  키를 길게 누르면 배터리 분리와 같은 다른 설정을 확인 할 수 있습니다." ..
-			                        " <BR> <KEY:ReloadWeapon><SPACE> : 손에 들고 있는 총기를 장전 합니다. <SPACE><KEY:ReloadWeapon><SPACE>  키를 길게 누르면 고급 설정 메뉴를 확인할 수 있습니다. <SPACE><KEY:Rack&nbsp;Firearm><SPACE>  키를 누르면 총알 걸림 해결이나 노리쇠 후퇴 전진을 할 수 있습니다.  " ..
-			                        " <BR> <KEY:VehicleRadialMenu><SPACE> : 차량의 실내, 옆에 있을 경우, 세부 차량 메뉴를 확인할 수 있습니다. " ..
-			                        " <BR> <KEY:Shout><SPACE> : 소리를 지릅니다. 좀비를 끌어모으죠. 웅크리고 있으면 좀 더 조용하게 소리를 지릅니다. <SPACE><KEY:Shout><SPACE>  키를 길게 누르면 감정 표현을 할 수 있습니다. 친구에게 손을 흔들거나, 좀비에게 따봉을 해보세요! "..
-			                        " <BR> <KEY:Toggle&nbsp;Search&nbsp;Mode><SPACE> : 탐색 모드를 켜고 끕니다.",
+    " 왼쪽 SHIFT  키를 누른채 선택을 하면 여러 품목을 선택할 수 있습니다. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 또는 마우스를 빈 공간에 왼쪽 버튼을 누른 채 끌어보는건 어떤가요? 물건 위로 선택한 범위를 알려주는 사각형이 생길 겁니다. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+    " 빠르게 물건을 수집하려면 가져오려는 보관함의 물건을 더블 클릭을 하거나 물건의 오른쪽에 있는 줍기 버튼을 누르면 됩니다. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  모든 걸 가져가고 싶어서 흥분하셨다면 모두 가져가기 버튼을 누르시면 됩니다. <LINE> "..
+    " <BR> <H1> 가방을 찬양하라 <BR> <TEXT> 가방은 중요합니다. 더 많은 짐을 들고 다니게 도와줍니다. <BR> 가방을 메고 싶다면 마우스 오른쪽 버튼을 눌러 손이나 등에 메기를 고르세요. "..
+    " <BR> 이제 장착을 했다면 소지품함 밑으로 가방이 보일 겁니다. 기본적으로, 가방은 더 많은 짐을 들고 다닐 수 있도록 무게를 줄여주지만, 가방에 많은 물건을 넣는다면, 여전히 움직임을 느리게 하는 건 똑같으니 조심하세요. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+    " <H1> 벨트와 단축키  <BR> <TEXT> 벨트, 권총집 또는 등에 특정 물건을 장착할 수 있습니다. 화면 하단에 있는 정사각형 칸이 바로 해당 항목으로, 표시된 숫자를 눌러 해당 장비를 손에 장착 할 수 있습니다. 다른 유용한 단축키도 있습니다."..
+    " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 소지하고있는 광원을 손에 장착하고 사용합니다. <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE>  키를 누르면 광원을 끄고 켤 수 있고,  <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE>  키를 길게 누르면 배터리 분리와 같은 다른 설정을 확인 할 수 있습니다." ..
+    " <BR> <KEY:ReloadWeapon><SPACE> : 손에 들고 있는 총기를 장전 합니다. <SPACE><KEY:ReloadWeapon><SPACE>  키를 길게 누르면 고급 설정 메뉴를 확인할 수 있습니다. <SPACE><KEY:Rack&nbsp;Firearm><SPACE>  키를 누르면 총알 걸림 해결이나 노리쇠 후퇴 전진을 할 수 있습니다.  " ..
+    " <BR> <KEY:VehicleRadialMenu><SPACE> : 차량의 실내, 옆에 있을 경우, 세부 차량 메뉴를 확인할 수 있습니다. " ..
+    " <BR> <KEY:Shout><SPACE> : 소리를 지릅니다. 좀비를 끌어모으죠. 웅크리고 있으면 좀 더 조용하게 소리를 지릅니다. <SPACE><KEY:Shout><SPACE>  키를 길게 누르면 감정 표현을 할 수 있습니다. 친구에게 손을 흔들거나, 좀비에게 따봉을 해보세요! "..
+    " <BR> <KEY:Toggle&nbsp;Search&nbsp;Mode><SPACE> : 탐색 모드를 켜고 끕니다.",
 
     SurvivalGuide_entrie9title = "#9 - 자동차",
     SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 자동차 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 자동차는 생존에 이득이 되지만, 소음을 만듭니다! 회전하는 엔진의 소음이 먼 거리에 있는 좀비 무리를 끌어올 겁니다...",
     SurvivalGuide_entrie9moreinfo = " <H1> 냅다 뛰어드세요 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 만약 운이 좋다면, 제정신이 아닌 자동차 주인이 키를 꽂아뒀거나 조수석 수납함에 넣어 뒀을 수도 있습니다. 그리고, 주변의 좀비를 확인해 보세요. 그들 중 한 명이 차 주인일지도 모릅니다. 또, 만약 집 마당에 자동차가 주차되어 있다면, 주변이나 집 안을 찾아보세요. 열쇠가 집 안에서 나올 수 있습니다. <BR> 아직도 차를 못 타봤다고요? 그럼 GTA 해보는 건 어떠신가요? 자동차 창문을 부셔서 문을 여세요. 차량정비, 전기 기술이 있다면, 배선을 딸 수 있습니다. <BR> " ..
-                                    " <H1> 운전해 볼까요? <BR> <TEXT> 키 박스를 눌러 키를 삽입한 다음 대시보드에서 엔진 아이콘을 클릭하거나 N 키를 눌러 엔진 시동을 거세요. 아니면 앞으로 가는 키를 누르면 자동으로 시동을 겁니다. <SPACE><KEY:Forward><SPACE>  키를 누르면 앞으로 갑니다. <BR> 차량의 엔진 상태가 좋지 않으면 시동이 잘 걸리지 않습니다. 만약 시동이 걸리지 않는다면, 기름이 없거나 차량을 점검해야 합니다... <BR> 조심히 운전하세요! 시끄러울 수록 더 멀리에 있는 좀비들이 소리를 듣고 오기 시작합니다...  <BR> " ..
-                                    " <H1> 대시보드 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 자동차의 대시보드에는 연료량, 속도, RPM과 같은 유용한 정보가 있습니다. <BR> 대시보드 상단에 보이는 아이콘은 엔진 상태, 트렁크 잠금, 헤드라이트 작동 여부 등을 알려줍니다. <BR> " ..
-                                    " <H1> 차량 상세 메뉴 <BR> <TEXT> 자동차 옆이나 실내에 있다면 <SPACE><KEY:VehicleRadialMenu>.  키를 눌러서 차량 상세 메뉴를 열 수 있습니다.  <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 여기에서 차량 내 기기를 작동시키거나, 좌석을 이동하거나, 문을 잠그거나, 창문을 열거나 닫을 수 있습니다. <BR> " ..
-                                    " <H1> 자동차 기술 창 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 능력이 부족한 생존자라도 배터리 상태, 연료량, 자동차의 부품이 손상되어 있는지 확인이 가능합니다. 차량 정비 기술을 배우면 추가적인 세부 사항을 볼 수 있고 부품을 탈부착 할 수 있습니다. <BR> 차량 정비에 관한 자세한 내용은 차량 정비 창의 왼쪽 상단 모서리에 있는 정보 아이콘을 누르세요. <BR>",
+    " <H1> 운전해 볼까요? <BR> <TEXT> 키 박스를 눌러 키를 삽입한 다음 대시보드에서 엔진 아이콘을 클릭하거나 N 키를 눌러 엔진 시동을 거세요. 아니면 앞으로 가는 키를 누르면 자동으로 시동을 겁니다. <SPACE><KEY:Forward><SPACE>  키를 누르면 앞으로 갑니다. <BR> 차량의 엔진 상태가 좋지 않으면 시동이 잘 걸리지 않습니다. 만약 시동이 걸리지 않는다면, 기름이 없거나 차량을 점검해야 합니다... <BR> 조심히 운전하세요! 시끄러울 수록 더 멀리에 있는 좀비들이 소리를 듣고 오기 시작합니다...  <BR> " ..
+    " <H1> 대시보드 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 자동차의 대시보드에는 연료량, 속도, RPM과 같은 유용한 정보가 있습니다. <BR> 대시보드 상단에 보이는 아이콘은 엔진 상태, 트렁크 잠금, 헤드라이트 작동 여부 등을 알려줍니다. <BR> " ..
+    " <H1> 차량 상세 메뉴 <BR> <TEXT> 자동차 옆이나 실내에 있다면 <SPACE><KEY:VehicleRadialMenu>.  키를 눌러서 차량 상세 메뉴를 열 수 있습니다.  <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 여기에서 차량 내 기기를 작동시키거나, 좌석을 이동하거나, 문을 잠그거나, 창문을 열거나 닫을 수 있습니다. <BR> " ..
+    " <H1> 자동차 기술 창 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 능력이 부족한 생존자라도 배터리 상태, 연료량, 자동차의 부품이 손상되어 있는지 확인이 가능합니다. 차량 정비 기술을 배우면 추가적인 세부 사항을 볼 수 있고 부품을 탈부착 할 수 있습니다. <BR> 차량 정비에 관한 자세한 내용은 차량 정비 창의 왼쪽 상단 모서리에 있는 정보 아이콘을 누르세요. <BR>",
 
     SurvivalGuide_entrie10title = "#10 - 날씨",
     SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 날씨와 옷가지 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 명심하세요, 당신이 입고 있는 옷은 바람만 막아주는게 아닙니다...",
     SurvivalGuide_entrie10moreinfo = "<H1> 기후 변화 <BR> <TEXT> 프로젝트 좀보이드의 날씨 방식은 현실적입니다. 비, 눈, 안개, 뇌우를 만드는 가상의 기후 시스템을 사용하고 있습니다. 여름에는 시원하고 겨울에는 따뜻하게 하기 위해 알맞은 옷을 입고, 옷의 상태를 좋게 유지해야 한다는 걸 기억하세요! <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 온도는 생존의 중요한 요소입니다. 겨울이 왔을 때, 여러분은 피곤하지 않고 따뜻한 옷을 입고 잘먹고 있다면 추위에 대한 저항력이 높을 겁니다. 물론 건강에도 좋습니다. 축축함과 질병은 추위를 겪을 가능성을 높여줍니다. <LINE> " ..
-                                      "극도로 추운 날에는 건물 안에서 모닥불이나, 자동차 난방, 난로와 같은 열원으로 몸을 녹이는 것이 좋습니다. <LINE> "..
-                                      " 반면 더운 날씨에 생존할 때는 수분을 충분이 보충하고 가벼운 옷을 입는 것이 좋습니다. <LINE> <BR>" ..
-                                      " <H2> 온도 파악하는 법 <BR> <TEXT> 전자시계를 착용하면 온도 UI를 확인할 수 있습니다. <LINE> <BR> " ..
-                                      " <H2> 체감 온도 (풍속 냉각) <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 특히 겨울에 야외에 있는 것은 바람의 냉기를 경험하게 될 겁니다. 한 겨울 폭우나 눈보라가 몰아치면 강풍과 저온이 겹쳐서 체온이 심하게 떨어질 수 있습니다. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 체감온도는 신체에 영향을 미치지만 전자시게에 온도 차이가 보이진 않습니다. 무들을 확인하면서 온도 차이가 나타나는지 지켜보세요. <LINE> <BR> "<H1> 피복 보호 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 튼튼한 옷을 입는 것으로 물림, 긁힘, 찢어진 상처로부터 보호할 수 있습니다. P를 눌러 피복 보호 창을 열고 현재 보호 수준을 확인해 보세요. <BR> 적절한 소재와 재단술로 옷에 난 구멍을 수선할 수 있고, 속을 누벼서 보호 수준을 올릴 수 있습니다. 소지품에 있는 의류를 마우스 오른쪽 버튼을 눌러 "상태 보기"를 선택하고 수선이나 누빌 부분을 마우스 오른쪽 버튼을 눌러 작업을 선택합니다. 소지품에 바늘과 실 그리고 적절한 의류 조각이 있는지 확인해 보세요. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 온도는 생존의 중요한 요소입니다. 겨울이 왔을 때, 여러분은 피곤하지 않고 따뜻한 옷을 입고 잘먹고 있다면 추위에 대한 저항력이 높을 겁니다. 물론 건강에도 좋습니다. 축축함과 질병은 추위를 겪을 가능성을 높여줍니다. <LINE> " ..
+      "극도로 추운 날에는 건물 안에서 모닥불이나, 자동차 난방, 난로와 같은 열원으로 몸을 녹이는 것이 좋습니다. <LINE> "..
+      " 반면 더운 날씨에 생존할 때는 수분을 충분이 보충하고 가벼운 옷을 입는 것이 좋습니다. <LINE> <BR>" ..
+      " <H2> 온도 파악하는 법 <BR> <TEXT> 전자시계를 착용하면 온도 UI를 확인할 수 있습니다. <LINE> <BR> " ..
+      " <H2> 체감 온도 (풍속 냉각) <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 특히 겨울에 야외에 있는 것은 바람의 냉기를 경험하게 될 겁니다. 한 겨울 폭우나 눈보라가 몰아치면 강풍과 저온이 겹쳐서 체온이 심하게 떨어질 수 있습니다. <LINE> <BR> " ..
+      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 체감온도는 신체에 영향을 미치지만 전자시게에 온도 차이가 보이진 않습니다. 무들을 확인하면서 온도 차이가 나타나는지 지켜보세요. <LINE> <BR> "<H1> 피복 보호 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 튼튼한 옷을 입는 것으로 물림, 긁힘, 찢어진 상처로부터 보호할 수 있습니다. P를 눌러 피복 보호 창을 열고 현재 보호 수준을 확인해 보세요. <BR> 적절한 소재와 재단술로 옷에 난 구멍을 수선할 수 있고, 속을 누벼서 보호 수준을 올릴 수 있습니다. 소지품에 있는 의류를 마우스 오른쪽 버튼을 눌러 "상태 보기"를 선택하고 수선이나 누빌 부분을 마우스 오른쪽 버튼을 눌러 작업을 선택합니다. 소지품에 바늘과 실 그리고 적절한 의류 조각이 있는지 확인해 보세요. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
     SurvivalGuide_entrie11title = "#11 - 채집",
     SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 채집 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 어딜 찾아야 할 지 아신다면 세상은 유용한 것들로 가득 차있는걸 확인할 수 있습니다! <LINE> <LINE> 산딸기, 버섯, 돌... 제대로 찾아본다면 뭐가 나올지 누가 알겠나요?",
     SurvivalGuide_entrie11moreinfo = " <H1> 채집 / 탐색 시스템 <BR> " ..
-                                     " <TEXT> <SIZE:small>" ..
-                                     " 탐색 영역 창에 현재 지역의 영역이 표시됩니다. 영역에 따라 발견되는 물건이 다릅니다." ..
-                                     " 마우스를 창 위로 가져가서 현재 영역에서 나오는 물건들의 범주를 확인할 수 있습니다." ..
-                                     " 만약 "?????" 가 보인다면, 아무것도 나오지 않는 영역입니다. <LINE> <LINE> " ..
-                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
-                                     " 탐색을 시작하려면, '탐색 모드 활성화'를 누르세요. 탐색 범위가 나타나는데 물건을 발견할 수 있는 영역입니다. <LINE> <LINE>" ..
-                                     " 무언가 발견을 하면 화살표가 나타납니다. 캐릭터가 접근하면 눈동자 모양이 나타나면서 그 물건을 정확하게 볼 수 있습니다. <LINE> <LINE>" ..
-                                     " 발견한 물건에 더블 클릭을 하면 바로 습득할 수 있습니다. 추가 메뉴를 보려면 마우스 오른쪽 버튼을 누르세요. <LINE> <LINE> " ..
-                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> 탐색 영역 향상 <TEXT> <BR> " ..
-                                     " 조준을 하고 둘러보거나 웅크리면 탐색 반경이 넓어집니다. 악천후, 현재 밝기, 채집 능력, 부정적인 무들, 물건 크기가 물건을 찾는데 영향을 미칩니다. <LINE> <LINE> " ..
-                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
-                                     " <SIZE:medium> <CENTRE> 중요합니다! <TEXT> <BR> " ..
-                                     " 상식적으로 적절한 위치인지 반드시 확인하세요!" ..
-                                     " 예를 들어, 쓰레기는 쓰레기 더미에서 발견될 수 있고, 돌은 종종 도로의 균열과 움푹 패인 곳에서 발견될 수 있습니다. <LINE> <LINE> ",
+     " <TEXT> <SIZE:small>" ..
+     " 탐색 영역 창에 현재 지역의 영역이 표시됩니다. 영역에 따라 발견되는 물건이 다릅니다." ..
+     " 마우스를 창 위로 가져가서 현재 영역에서 나오는 물건들의 범주를 확인할 수 있습니다." ..
+     " 만약 "?????" 가 보인다면, 아무것도 나오지 않는 영역입니다. <LINE> <LINE> " ..
+     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+     " 탐색을 시작하려면, '탐색 모드 활성화'를 누르세요. 탐색 범위가 나타나는데 물건을 발견할 수 있는 영역입니다. <LINE> <LINE>" ..
+     " 무언가 발견을 하면 화살표가 나타납니다. 캐릭터가 접근하면 눈동자 모양이 나타나면서 그 물건을 정확하게 볼 수 있습니다. <LINE> <LINE>" ..
+     " 발견한 물건에 더블 클릭을 하면 바로 습득할 수 있습니다. 추가 메뉴를 보려면 마우스 오른쪽 버튼을 누르세요. <LINE> <LINE> " ..
+     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+     " <SIZE:medium> <CENTRE> 탐색 영역 향상 <TEXT> <BR> " ..
+     " 조준을 하고 둘러보거나 웅크리면 탐색 반경이 넓어집니다. 악천후, 현재 밝기, 채집 능력, 부정적인 무들, 물건 크기가 물건을 찾는데 영향을 미칩니다. <LINE> <LINE> " ..
+     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+     " <SIZE:medium> <CENTRE> 중요합니다! <TEXT> <BR> " ..
+     " 상식적으로 적절한 위치인지 반드시 확인하세요!" ..
+     " 예를 들어, 쓰레기는 쓰레기 더미에서 발견될 수 있고, 돌은 종종 도로의 균열과 움푹 패인 곳에서 발견될 수 있습니다. <LINE> <LINE> ",
+	
+	 
+	 
+	 
+	 
+	 
+	 
+	 
 }

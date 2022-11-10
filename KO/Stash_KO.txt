@@ -96,4 +96,264 @@ Stash_KO = {
 	Stash_RosewoodStashMap3_Text11 = "어머니의 오래된 장소. X에서 볼 수 있음",
 	Stash_RosewoodStashMap3_Text2 = "무기를 여기에 둠 - 혹시 모르니",
 	Stash_RosewoodStashMap3_Text3 = "이쪽으로 가지 마",
+	
+	
+	
+	Stash_MulMap14_Text1 = "안전한 집 - 바리케이드를 치자!",
+Stash_MulMap14_Text2 = "이 주변에 다 있음",
+Stash_MulMap14_Text3 = "쏘지 말 것 - 소리 듣고 몰려옴",
+
+Stash_MulMap15_Text1 = "나이 많은 의사가 여기 살고있음/살았었음",
+Stash_MulMap15_Text2 = "여기는 앞으로 주의",
+Stash_MulMap15_Text21 = "J가 물렸었음",
+
+Stash_MulMap16_Text1 = "은행 경비원이 총을 가지고 있음",
+Stash_MulMap16_Text2 = "티비랑 차가운 맥주가 그립다, 좆같은 세상",
+
+Stash_MulMap17_Text1 = "지피 가게에 물건이 가득함",
+Stash_MulMap17_Text2 = "옆 빵집도 확인 필요",
+Stash_MulMap17_Text3 = "엄마 조심해요, 아빠가 여전히 이 주변에 돌아다니고 있어요",
+
+Stash_MulMap18_Text1 = "정신나간 윌리의 트레일러",
+Stash_MulMap18_Text11 = "그가 변한걸 들었음",
+Stash_MulMap18_Text12 = "그의 모든 총이 아직 있길 바라며",
+	
+	
+	
+	Stash_WpMap13_Text1 = "산탄총으로 잡은 수: 12",
+    Stash_WpMap13_Text2 = "도끼로 잡은 수: 20",
+    Stash_WpMap13_Text3 = "자동차로 잡은 수: 11",
+
+    Stash_WpMap14_Text1 = "여기서 만나자 토냐! 음식은 충분해."
+    Stash_WpMap14_Text11 = "이제 우리는 콜린이 배타고 오는걸 기다리면 돼.",
+
+    Stash_WpMap15_Text1 = "여기 있는 우릴 절대 못 찾을 거야, 날 믿어",
+    Stash_WpMap15_Text11 = "걔넨 개빡대가리라 몰라",
+    Stash_WpMap15_Text2 = "사냥하기 좋은 자리야",
+
+    Stash_WpMap16_Text1 = "덤벼들 가능성 있음",
+    Stash_WpMap16_Text2 = "안전한 탈출구"
+    Stash_WpMap16_Text21 = "장애물을 넘고, 그리고 남쪽으로 도로를 가로질러 숲으로 감"
+    Stash_WpMap16_Text3 = "생존 가능성:"
+    Stash_WpMap16_Text31 = "한 달: 58%"
+    Stash_WpMap16_Text32 = "겨울 내내: 22%"
+    Stash_WpMap16_Text4 = "더 많은 음식과 움직이는 차가 필요함"
+	
+	
+	
+	
+	Stash_MarchRidgeMap8_Text1 = "내 오랜 도구들을 여기 두고 왔습니다"
+    Stash_MarchRidgeMap8_Text2 = "더 이상 필요 없을 테니까요"
+
+    Stash_MarchRidgeMap9_Text1 = "우리는 합류하는 생존자 여러분을 환영합니다."
+    Stash_MarchRidgeMap9_Text2 = "언제나 더 많은 음식과 총이 필요합니다"
+    Stash_MarchRidgeMap9_Text3 = "오시는 길에 Z들을 좀 죽여 주시면 특별한 영광을 드립니다!"
+
+    Stash_MarchRidgeMap10_Text1 = "선한 영혼에게 축복이 있길",
+    Stash_MarchRidgeMap10_Text2 = "이 지옥에서 당신을 잠시 더 머물게 해주길",
+	
+	
+	
+	
+	Stash_RiversideStashMap1_Text1 = "우리는 지금 여기 있음",
+    Stash_RiversideStashMap1_Text11 = "조만간 보길 바람",
+    Stash_RiversideStashMap1_Text2 = "여기 주의바람!",
+
+    Stash_RiversideStashMap2_Text1 = "208호실. 기다리고 있습니다.",
+    Stash_RiversideStashMap2_Text11 = "우리가 하루 종일 강만 바라보던 거 기억나나요?",
+    Stash_RiversideStashMap2_Text12 = "날 여기 혼자 두지마 xxx",
+
+    Stash_RiversideStashMap3_Text1 = "비디오 가게",
+    Stash_RiversideStashMap3_Text2 = "술",
+
+    Stash_RiversideStashMap4_Text1 = "데릴이 다쳤다, 여기에 그를 두고 옴",
+    Stash_RiversideStashMap4_Text11 = "나탈리를 찾으러 가면, 뭘 해야 할지 알 것이다.",
+    Stash_RiversideStashMap4_Text2 = "그들이 여기서 두 사람을 끌어내리는 걸 봤어, 끔찍하다",
+
+    Stash_RiversideStashMap5_Text1 = "이걸 발견한 사람은 절대! 여기로 가지 말 것!",
+    Stash_RiversideStashMap5_Text2 = "프랭크를 죽이고 날 물어뜯은 개자식들이 있음",
+
+    Stash_RiversideStashMap6_Text1 = "에디가 여기에 숨겨둔 총이 있을 거야",
+    Stash_RiversideStashMap6_Text11 = "망할 놈들이 마을을 장악했어 그가 아프지 않았다면",
+    Stash_RiversideStashMap6_Text12 = "사이코 비키가 그들을 잡지 않았길",
+
+    Stash_RiversideStashMap7_Text1 = "지나가는 길에 보았음 - 모두 변함",
+    Stash_RiversideStashMap7_Text2 = "지금 기가마트로 가는 중",
+    Stash_RiversideStashMap7_Text21 = "나 없는 동안 산드라랑 싸우지 말 것",
+
+    Stash_RiversideStashMap8_Text1 = "여기 음식을 남겨 두었음", 
+    Stash_RiversideStashMap8_Text11 = "떠나기 전에 드세요",
+    Stash_RiversideStashMap8_Text2 = "이리저리 돌아다니는 감염자",
+    Stash_RiversideStashMap8_Text3 = "그룹의 사람들을 본 곳(아마 지금쯤 죽었을 것)",
+
+    Stash_RiversideStashMap9_Text1 = "톤이 여기서 우릴 기다리고 있음",
+    Stash_RiversideStashMap9_Text2 = "기름",
+    Stash_RiversideStashMap9_Text3 = "D가 물렸음 하지만 심각하진 않음 - 만약을 위해 항생제가 필요함",
+
+    Stash_RiversideStashMap10_Text1 = "은행", 
+    Stash_RiversideStashMap10_Text2 = "예비 무기 챙기는 거 잊지마", 
+    Stash_RiversideStashMap10_Text21 = "네 도끼 머리가 좀 느슨해 보여",
+    Stash_RiversideStashMap10_Text3 = "곧 마을을 벗어나 서쪽으로 향할 때, 날 어디서 찾을 지 알고 있을거야",
+	
+	
+	
+	Stash_RosewoodStashMap4_Text1 = "튈려고 준비한 물건이 있음",
+    Stash_RosewoodStashMap4_Text2 = "그들이 올 때 (무조건 오겠지!)",
+    Stash_RosewoodStashMap4_Text3 = "가지고 갈 수 있는 것은 가지고 숲으로 도망가",
+
+    Stash_RosewoodStashMap5_Text1 = "음식 있음",
+    Stash_RosewoodStashMap5_Text2 = "성급하게 들어가지 말 것",
+    Stash_RosewoodStashMap5_Text3 = "던컨 씨에게 무슨 일이 있엇는지 기억할 것",
+	
+	
+	
+	Stash_WorldMap1_Text1 = "이리 오세요! 카라가 도와줄겁니다",
+	Stash_WorldMap1_Text2 = "감염자을 여기서 보았음 (아마도 지금쯤 움직였을 것)",
+	Stash_WorldMap1_Text4 = "천천히 운전하고 있다면, 그들을 오게하지 마세요",
+
+	Stash_WorldMap2_Text1 = "기지로 삼기 좋은 장소, 외진 곳",
+	Stash_WorldMap2_Text11 = "도착하면 먼저 바리케이드를 쳐라!",
+	Stash_WorldMap2_Text12 = "너를 위해 안에 총을 숨겨뒀음",
+
+	Stash_WorldMap3_Text1 = "기름 여기있음",
+	Stash_WorldMap3_Text11 = "필요할거야",
+
+	Stash_WorldMap4_Text1 = "야나가 그 여자가 살고 있다고 한 곳",
+	Stash_WorldMap4_Text11 = "우릴 도와줄까?",
+
+	Stash_WorldMap5_Text1 = "폴리가 물건을 여기 두고 옴",
+	Stash_WorldMap5_Text11 = "들어가기 전에 주의사항을 확인",
+	Stash_WorldMap5_Text12 = "그리고 시발 이 지도를 불태우는 거 잊지마!!!",
+
+	Stash_WorldMap6_Text1 = "좋은 물건이 여기 있음",
+	Stash_WorldMap6_Text2 = "물건을 가져가기 위해 - 너무 커서 확인이 힘듬",
+	Stash_WorldMap6_Text3 = "앤디",
+
+	Stash_WorldMap7_Text1 = "여기 가득 참",
+	Stash_WorldMap7_Text2 = "감염자로 딕시가 가득참",
+	Stash_WorldMap7_Text21 = "이 많은 감염자들이 어디서 온거야",
+
+	Stash_WorldMap8_Text1 = "켄의 물건, 유용할 겁니다",
+	Stash_WorldMap8_Text2 = "미행하는 사람들을 조심하세요",
+	Stash_WorldMap8_Text21 = "좀비들뿐만 아닙니다",
+
+	Stash_WorldMap9_Text1 = "철도 공장",
+	Stash_WorldMap9_Text2 = "사방에 상자가 있음, 물건들로 가득 차 있을 수 있음",
+	Stash_WorldMap8_Text3 = "사무실, 없음",
+	Stash_WorldMap8_Text4 = "창고?",
+
+	Stash_WorldMap10_Text1 = "주유소",
+	Stash_WorldMap10_Text2 = "옷가게",
+	Stash_WorldMap10_Text3 = "스피포",
+	Stash_WorldMap10_Text4 = "자동차",
+
+	Stash_WorldMap11_Text1 = "타워 2 접시 3 - 약 6 GHz 에서 신호 손실  - 전력 문제",
+	Stash_WorldMap11_Text11 = "HQ에서 렉싱턴과 함께 테스트",
+
+	Stash_WorldMap12_Text1 = "넓은 캠핑장 - 우리가 필요한 모든 것 (제인의 약 제외)",
+	Stash_WorldMap12_Text11 = "먼저 정리해야 하지만 음식, 침대, 난로가 많음"
+	Stash_WorldMap12_Text2 = "유일한 위험: 쇼핑몰 북쪽으로 감염자 수백명이 있음"
+
+	Stash_WorldMap13_Text1 = "할, 우린 여기로 갈 거야, 안전할 거야"
+	Stash_WorldMap13_Text11 = "힘들겟지만 [폴라를 데려오지 마]"
+	Stash_WorldMap13_Text12 = "적어도 너라도 살아야지"
+
+	Stash_WorldMap14_Text1 = "할머니"
+	Stash_WorldMap14_Text2 = "그들이 할아버지를 데려간 곳"
+	Stash_WorldMap14_Text3 = "주여 그들을 보살펴 주소서"
+
+	Stash_WorldMap17_Text1 = "순찰 사각지대"
+	Stash_WorldMap17_Text2 = "V는 정확히 23.15에 모션 센서를 끔"
+	Stash_WorldMap17_Text21 = "집중해! V를 따라가서, 사진을 찍고, 빠져 나와"
+
+	Stash_WorldMap18_Text1 = "벤"
+	Stash_WorldMap18_Text2 = "경로"
+
+	Stash_WorldMap19_Text1 = "고집쎈 새끼야! 적어도 내가 커디 부인 집에 놔둔 총은 들고가"
+	Stash_WorldMap19_Text11 = "네가 죽으면 난 절대 널 용서하지 않을 거야!!!"
+
+	Stash_WorldMap19_Text1 = "병신 새끼"
+	Stash_WorldMap19_Text2 = "망할 새끼"
+	Stash_WorldMap19_Text3 = "개 새끼"
+	
+	Stash_LVMap1_Text1 = "미친 총잡이, RIP",
+    Stash_LVMap1_Text2 = "미친 총잡이네 집",
+
+    Stash_LVMap2_Text1 = "엄마가 준 선물 x",
+    Stash_LVMap2_Text2 = "방문하는거 잊지 말기",
+    Stash_LVMap2_Text3 = "할 수 있으면 할머니 무덤도",
+    Stash_LVMap2_Text4 = "우리 모두를 위해 기도하기",
+
+    Stash_LVMap3_Text1 = "학교",
+    Stash_LVMap3_Text2 = "소름끼치는 수위의 트럭이 여기 있어야함",
+    Stash_LVMap3_Text3 = "나갈때 울타리 조심해서 운전하기!",
+
+    Stash_LVMap4_Text1 = "신경 쓰지 마, 여기서 시간 낭비 했어",
+    Stash_LVMap4_Text2 = "대형 망치 필요함",
+    Stash_LVMap4_Text4 = "주유소",
+
+    Stash_LVMap5_Text1 = "칼린 가족이 여기로 왔어 데비",
+    Stash_LVMap5_Text2 = "도움이 필요하면 그들에게 가봐!",
+    Stash_LVMap5_Text3 = "여기서 보았음",
+    Stash_LVMap5_Text4 = "체육관 주변에 둘러싸여 있음",
+    Stash_LVMap5_Text5 = "밤에는 아무데도 가지 마!",
+
+    Stash_LVMap6_Text1 = "내 집보다 좋은 곳은 없다!",
+
+    Stash_LVMap7_Text1 = "날 좌절하게 만들다니 참 고맙네",
+    Stash_LVMap7_Text2 = "내 집이었는데",
+    Stash_LVMap7_Text3 = "내가 필요한건 모두 있었는데",
+    Stash_LVMap7_Text4 = "그렇게 생각 했는데",
+
+    Stash_LVMap8_Text1 = "우리는 세 번째 문 아래 있어",
+    Stash_LVMap8_Text2 = "디에고 약을 들고 서둘러줘",
+    Stash_LVMap8_Text3 = "여기 전.부. 모여있어 가.지.마.",
+
+    Stash_LVMap9_Text1 = "총이랑 음식은 충분해 - 조심해!",
+    Stash_LVMap9_Text2 = "나무사이에서 헤매지 말고",
+    Stash_LVMap9_Text3 = "저것들도 거기에 있어",
+
+    Stash_LVMap10_Text1 = "집에 노친네랑 음식이 가득 차 있음",
+    Stash_LVMap10_Text2 = "그리고 총은 없음",
+    Stash_LVMap10_Text3 = "그냥 전부 나둬",
+    Stash_LVMap10_Text4 = "이번엔 네 차례다!",
+
+    Stash_LVMap11_Text1 = "털리지 않은 가게",
+    Stash_LVMap11_Text2 = "하지만 좀비로 가득참",
+    Stash_LVMap11_Text3 = "보관 창고",
+    Stash_LVMap11_Text4 = "루이빌 제너럴 병원",
+
+    Stash_LVMap12_Text1 = "피자 아가씨",
+    Stash_LVMap12_Text2 = "햄버거 파는 섹시한 녀석",
+    Stash_LVMap12_Text3 = "우리 텐트",
+    Stash_LVMap12_Text4 = "친칠라는 개 쩔거야",
+    Stash_LVMap12_Text5 = "워우우우!!!",
+
+    Stash_LVMap13_Text1 = "안전해 보이는 집",
+    Stash_LVMap13_Text2 = "하지만 뒷마당 청소는 조심하자",
+    Stash_LVMap13_Text3 = "여기 작동하는 차량",
+
+    Stash_LVMap14_Text1 = "내가 가져온 판자로 바리케이드를 치자",
+    Stash_LVMap14_Text2 = "그렇지 않으면 그것들이 들어올 거야",
+    Stash_LVMap14_Text3 = "잊지마!",
+    Stash_LVMap14_Text4 = "내가 없는 동안 아무도 들여보내지 마!",
+    Stash_LVMap14_Text5 = "30분 후에 돌아올게 (약 2.30)",
+    Stash_LVMap14_Text6 = "더 길어지면 라디오로 에드워드에게 연락해",
+    Stash_LVMap14_Text7 = "xxxxx",
+
+    Stash_LVMap15_Text1 = "누군가 이걸 발견한다면, 저는 나탈리 시그문손이에요",
+    Stash_LVMap15_Text2 = "LSU에서 미술사 강사를 하고 있어요",
+    Stash_LVMap15_Text3 = "저는 이미 죽었지만 마지막 부탁이 있습니다.",
+    Stash_LVMap15_Text4 = "이건 우리가 지나가게한 세상의 종말입니다.",
+    Stash_LVMap15_Text5 = "우리는 미술관에 있는 보물들을 지켜야해요. 그렇지 않으면",
+    Stash_LVMap15_Text6 = "우리는 정말 잃어버릴 거에요. 동료들이 무기들을 모아서",
+    Stash_LVMap15_Text7 = "미술관 근처의 차 안에 넣어뒀어요. 그 무기들을 사용해서 쫓아주세요.",
+    Stash_LVMap15_Text8 = "인류가 영원히 사라지지 않았다는 걸 보여주세요.",
+    Stash_LVMap15_Text9 = "차량",
+
+    Stash_LVMap16_Text1 = "이 거리 전체가 위험합니다.",
+    Stash_LVMap16_Text2 = "그들이 여기에서 당신 아들을 잡았어요",
+    Stash_LVMap16_Text3 = "우리에게 오세요, 이제 안전합니다",
+    Stash_LVMap16_Text4 = "우리는 남쪽으로 갈 겁니다.",
+    Stash_LVMap16_Text5 = "부디 우리와 함께 가요.",	
 }

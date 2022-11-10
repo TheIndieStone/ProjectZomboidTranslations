@@ -162,7 +162,7 @@ Tooltip_KO = {
 	Tooltip_Map_NeedRedPen = "펜 (빨간색)이 필요합니다.",
 	Tooltip_Map_NeedPencil = "연필이 필요합니다.",
 	Tooltip_food_CookedInMicrowave = "전자레인지에서 조리가 끝난 상태입니다.",
-	Tooltip_food_BetterHot = "먹을 때에는 데우면 좋습니다.",
+	Tooltip_food_BetterHot = "데워서 먹으면 좋습니다.",
 	Tooltip_clothing_dirty = "더러움",
 	Tooltip_clothing_bloody = "피투성이",
 	Tooltip_clothing_worn = "해졌음",
@@ -301,5 +301,17 @@ Tooltip_CantPlaceFavoriteItems = "즐겨찾기한 물건은 소지품함에서 �
     Tooltip_BookTitle_3 = "중급자를 위한 %1 서적"
     Tooltip_BookTitle_5 = "고급자를 위한 %1 서적"
     Tooltip_BookTitle_7 = "%1의 전문가"
-    Tooltip_BookTitle_9 = "%1의 달인"
+    Tooltip_BookTitle_9 = "%1의 달인"소독
+	Tooltip_item_TaintedWater_Plastic = "오염된 물입니다. 마시기엔 안전하지 않습니다.<br>전자레인지에 넣어 끓여 드세요.",
+	Tooltip_food_SlightDanger_uncooked = "데우지 않은 상태로 드시면 질병이나 메스꺼움을 유발할 수 있습니다.",
+	Tooltip_food_Slice = "썰기",
+	Tooltip_item_OnlyPurifyMicrowave = "내용물은 전자레인지에서만 소독할 수 있습니다.",	
+	Tooltip_item_RainFromGroundOnlyPurifyMicrowave = "내용물은 전자레인지에서만 소독할 수 있습니다. <br>밖에 두어 빗물을 모을 수 있습니다.",
+	Tooltip_item_Watermelon = "먹기 전에 자르거나 부숴야 합니다.",
+	Tooltip_item_NeedsSliced = "대부분의 음식에 추가하기 위해선 썰어야 합니다.",
+	빗물을 받아 물을 저장할 수 있습니다.
+	
+	
+	
+	
 }
