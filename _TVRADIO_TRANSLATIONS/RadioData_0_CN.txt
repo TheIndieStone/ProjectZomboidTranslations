@@ -1,7 +1,7 @@
 // Localization Table
 // Language: Simplified Chinese
 [Info]
-	version = 1
+	version = 0
 	guid = b73aa63e-6286-4c32-9e48-3b0024c22b51
 	language = CN
 	translator = HenryFishYu, Jeff, HansKaffee, TwilightRain, moonlight-pz, Susan Admason（Canada）, L'Etranger, 天冷就要吃火锅, 轻轻的晚风, 格兰瑞敌击剑, 湖畔镇一枝花, Livia, Flying, Penguin, AZ, taoran, eva08maicy02
