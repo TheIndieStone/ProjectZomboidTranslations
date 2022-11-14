@@ -1,4 +1,4 @@
 VERSION = 1,
-text = Ukranian,
+text = Ukrainian,
 charset = Cp1251,
 

@@ -1,0 +1,303 @@
+// Localization Table
+// Language: Simplified Chinese
+[Info]
+	version = 1
+	guid = b73aa63e-6286-4c32-9e48-3b0024c22b51
+	language = CN
+	translator = HenryFishYu, Jeff, HansKaffee, TwilightRain, moonlight-pz, Susan Admason（Canada）, L'Etranger, 天冷就要吃火锅, 轻轻的晚风, 格兰瑞敌击剑, 湖畔镇一枝花, Livia, Flying, Penguin, AZ, taoran, eva08maicy02
+[/Info]
+
+[Translations]
+
+	//0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = 这些美军新兵四天前正在当地的军事基地等待着向海外部署...
+
+	//1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = 今天是诺克斯撤离行动的第三天.
+
+	//2. ORIGINAL [#FF00B050]: When I asked whether the military sensitivity of the region...
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = 当我提到这片地区的军事敏感度时...
+
+	//3. ORIGINAL [#FF00B050]: LBMW ask the questions...
+	fb720674-250f-41ca-b269-e5e69da97c0c = LBMW广播电台将刨根问底...
+
+	//4. ORIGINAL [#FF00B050]: 'We don't feel safe.'
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = '我们感到不安全.'
+
+	//5. ORIGINAL [#FF00B0F0]: And for the rumor-mongering that has grown around the so-called 'Knox Event'.
+	fe80180c-2253-456a-bb7e-75bb249da8ba = 而那些关于所谓 '诺克斯事件' 的谣言.
+
+	//6. ORIGINAL [#FF7030A0]: But there's still no official word on the true danger of the biological threat.
+	3fb56972-8f69-4657-b2c2-f11c96615ee9 = 但是目前并没有有关生化威胁的官方声明.
+
+	//7. ORIGINAL [Black]: <bzzt> <fzzt>
+	16a40ca6-c815-4b5d-bcb2-fc332b817e1f = <噗滋> <滋滋>
+
+	//8. ORIGINAL [#FF00B050]: I was getting lunch in Spiffo's.
+	f7d82c9d-d172-4134-a5b5-8829bc621648 = 我当时在斯皮福餐厅吃午饭.
+
+	//9. ORIGINAL [Black]: <click> <bzzt> <fzzt>
+	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <啪嗒> <噗滋> <滋滋>
+
+	//10. ORIGINAL [#FF00B050]: <cough> I know what people will think.
+	b3af859d-e0d4-4ede-a185-597b785489b4 = <咳嗽> 我知道人们会想什么.
+
+	//11. ORIGINAL [#FF00B050]: <cough> For me it's over. Whatever else happens to you...
+	d37f1120-58df-4e90-87a7-213c1279927d = <咳嗽> 这是我的结局了, 至于你们怎么样...
+
+	//12. ORIGINAL [Black]: *distant explosion*
+	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *远处的爆炸声*
+
+	//13. ORIGINAL [#FF7030A0]: Warning shots.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = 鸣枪警告.
+
+	//14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
+	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] 如果我能说出... [img=music]
+
+	//15. ORIGINAL [#FF7030A0]: [img=music] Anything that would make you stay. [img=music]
+	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] 任何能让你留下的话语. [img=music]
+
+	//16. ORIGINAL [#FF7030A0]: [img=music] You know I would. You know. [img=music]
+	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] 你知道我会的, 你知道. [img=music]
+
+	//17. ORIGINAL [#FF7030A0]: [img=music] I never wanted to step in your way... [img=music]
+	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] 我从来都不想要挡你的路... [img=music]
+
+	//18. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh... [img=music]
+	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] 而你...你知道你也是爱我的, 噢... [img=music]
+
+	//19. ORIGINAL [#FF7030A0]: [img=music] You love me too. [img=music]
+	fc02e25d-971d-452f-b5c3-957eaa631e0f = [img=music] 你也爱我. [img=music]
+
+	//20. ORIGINAL [#FF7030A0]: [img=music] You do. [img=music]
+	b093f7d5-77a2-4f39-af2a-a73964baa7b0 = [img=music] 你爱我. [img=music]
+
+	//21. ORIGINAL [#FF7030A0]: [img=music] Sweetheart darling, you... [img=music]
+	e95407c3-883e-46fe-a612-c4dbcd39ea3b = [img=music] 甜心宝贝, 你... [img=music]
+
+	//22. ORIGINAL [#FF7030A0]: [img=music] Do... [img=music]
+	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] 爱我... [img=music]
+
+	//23. ORIGINAL [#FF7030A0]: [img=music] You just know, right where I'll be. [img=music]
+	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] 你知道, 我会在哪. [img=music]
+
+	//24. ORIGINAL [#FF7030A0]: [img=music] Just turn around. It's me you'll see. [img=music]
+	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] 只要转身. 就能找到我. [img=music]
+
+	//25. ORIGINAL [#FF7030A0]: [img=music] I can't lie. [img=music]
+	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] 我不能说谎. [img=music]
+
+	//26. ORIGINAL [#FF7030A0]: [img=music] You'll see me cry. [img=music]
+	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] 你会看见我哭泣. [img=music]
+
+	//27. ORIGINAL [#FF7030A0]: [img=music] You'll know that a true heart can bleed. [img=music]
+	62afca05-35b8-4243-b686-bf160368826f = [img=music] 你会知道真心是会淌血的. [img=music]
+
+	//28. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh. [img=music]
+	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] 而你... 你知道你也是爱我的, 噢. [img=music]
+
+	//29. ORIGINAL [#FF7030A0]: ... by The Question.
+	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = 从采访中发现.
+
+	//30. ORIGINAL [#FFFFC000]: [img=music] ... to get a dime stuck in your shoe. [img=music]
+	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] 当10美分硬币卡在你的鞋子里. [img=music]
+
+	//31. ORIGINAL [#FFFFC000]: [img=music] And now yessir I'm sinking... [img=music]
+	79b24afa-80a6-4491-ac53-4a85b0eccd26 = [img=music] 而我现在正在沉沦... [img=music]
+
+	//32. ORIGINAL [#FFFFC000]: [img=music] My boy once asked me, before he went away. [img=music]
+	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] 我的孩子有次问我, 就在他离去之前. [img=music]
+
+	//33. ORIGINAL [#FF7030A0]: A military perimeter set up almost overnight.
+	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = 一个军事分界线几乎在一夜之间建立起来.
+
+	//34. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
+	4f5162dd-e620-40e0-813e-2841fd354881 = 如果我一觉醒来, 发现有人在我家周围设了一道军事警戒线, 我也会感到困惑的!
+
+	//35. ORIGINAL [#FF00B050]: So let's support our boys, people.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = 所以, 让我们支持他们吧.
+
+	//36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
+	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = 我们已经很长时间没有准备好了.
+
+	//37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = 人们不知道该怎么做, 而军方也不知道该怎么处置他们.
+
+	//38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
+	3433cccb-5d67-467b-89f2-bcb69677b093 = 军队在等待时机, 确保我们的安全.
+
+	//39. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
+	a33a9161-878b-47fc-a084-549ee52bbc6a = 到那时我就可以提供更多的答案...
+
+	//40. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
+	184e6db0-da2b-4262-abac-cc0dc1680fe1 = 由于诺克斯事件传染的威胁...
+
+	//41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
+	ce98252a-4e30-4532-b46e-bdf328380815 = 这些图片显示了今天一些蒙面的年轻人...
+
+	//42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
+	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = 步兵进入了时代广场, 坦克开上了迈阿密海滩.
+
+	//43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
+	da14d0d0-b5e4-493d-bc55-4424e50cd975 = 发送给Triple-N电视台的恐怖照片, 揭示了封锁区内的残酷暴行.
+
+	//44. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
+	c99cd365-ac9d-463d-be67-2901750c1595 = 我们在这里, 与您站在一样的立场思考着.
+
+	//45. ORIGINAL [#FF7030A0]: If the fever didn't get to you...
+	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = 如果你没有发烧...
+
+	//46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = 欢迎收看夜间访谈, 伴你到黎明! 我是道恩·史蒂文森.
+
+	//47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
+	109f693d-3ebc-451d-97f0-4fd6d093f26e = 我意识到这是从罗利事件中吸取到的教训.
+
+	//48. ORIGINAL [#FF7030A0]: Thank you Richard. Keep the reports coming.
+	3f18f815-7017-41b2-ad00-6ddea2a2b19d = 谢谢你, 理查德. 随时报告最新情况.
+
+	//49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = 人们的处境很糟糕, 他们现在惊慌失措.
+
+	//50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
+	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = 诺克斯事件让我们都连在了一起.
+
+	//51. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
+	a5cd6429-d856-4662-9729-c9175f237540 = 我们被告知这是为了: '消除任何风险因素'...
+
+	//52. ORIGINAL [#FF00B050]: They don't want to risk more riots.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = 政府不想冒着产生更多暴乱的风险.
+
+	//53. ORIGINAL [#FF7030A0]: FUCK THIS SHIT!
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = 干-他-妈-的-狗-屎-!
+
+	//54. ORIGINAL [#FFFFC000]: There were thousands of infected, and they left their mark.
+	20a8ee60-553a-45ce-add3-dbe20fd5555f = 那里有上千名感染者, 并且他们留下了他们的痕迹.
+
+	//55. ORIGINAL [#FFFFC000]: People who sustained infected attacks in yesterday's chaotic scenes.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = 那些在昨天的混乱中遭受了感染者攻击的人们.
+
+	//56. ORIGINAL [#FFFFC000]: That can't be true.
+	de1a7a5c-e799-4a92-b942-d7683f46449a = 那不是真的.
+
+	//57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
+	47c01a90-d68e-483a-9271-24b7e7e60178 = 15.99美元, 加上邮费和包装费.
+
+	//58. ORIGINAL [#FF7030A0]: You know why we're here...
+	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = 你知道我们为什么在这里...
+
+	//59. ORIGINAL [#FF00B050]: <sigh>
+	4d474699-6df3-4b02-beec-bdea6b0a8e55 = <叹气>
+
+	//60. ORIGINAL [#FFFFC000]: Take a trowel. A shovel... hell maybe even your bare hands.
+	d5a7a459-120c-46d2-915a-84ba1453d013 = 拿起铲子, 或者泥铲... 你不怕受伤的话甚至可以用手挖.
+
+	//61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = 无论我到哪里, 好朋友们说: '谢谢你考克斯医生'.
+
+	//62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = 前几天我站在体重机上面.
+
+	//63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = 四块木板! 四根钉子! 一个把手! 两个门铰链!
+
+	//64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = 拿三块木头, 最好是木板.
+
+	//65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = 我真没想到斯堪的纳维亚半岛是一个如此神奇的地方!
+
+	//66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
+	85b904e0-14e3-4daf-b354-33a7eb31df83 = 大家好, 欢迎回到厨艺秀!
+
+	//67. ORIGINAL [#FFFFC000]: I'm shutting the whole Paranormal department down!
+	819bf863-8eaf-4521-a433-e2f536815951 = 我要关闭超自然部门!
+
+	//68. ORIGINAL [#FF00B0F0]: [img=music] Jaunty music [img=music]
+	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] *欢快的音乐* [img=music]
+
+	//69. ORIGINAL [#FF00B0F0]: [img=music] Orchestral music [img=music]
+	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] *管弦乐* [img=music]
+
+	//70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = "奥兹博士"是最新一部登上大银幕的大片...
+
+	//71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
+	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = 你是如何为扮演奥兹博士的角色做准备的?
+
+	//72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = 伙计们, "奥兹博士"已经在电影院上映了.
+
+	//73. ORIGINAL [Black]: *bang!* *bang*
+	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *砰* *砰*
+
+	//74. ORIGINAL [Black]: *Applause in Courtroom*
+	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *法庭上的掌声*
+
+	//75. ORIGINAL [#FF00B050]: Paul, you're on $2000 dollars! Well done!
+	c0402817-3eb0-46ca-b709-64ae6638e745 = 保罗, 你赢得了2000美元! 干得好!
+
+	//76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = 3000美元: 你的答案是 '纽卡斯尔'.
+
+	//77. ORIGINAL [#FF00B050]: Robert Johnson, you're on $1000 dollars! Well done!
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = 罗伯特·约翰逊, 你现在有1000美元! 干得好!
+
+	//78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
+	c9b01cec-94a2-4fb0-95d2-0677e237538f = 我看到了把旧世公爵送进虚空的傻瓜?
+
+	//79. ORIGINAL [Red]: Sponsored by Spiffo's?!
+	980e2e5d-fb55-417d-a38d-7d08838abdaf = 本系列由斯皮福餐厅赞助.
+
+	//80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = 那么扎卡里, 你想玩跷跷板吗?
+
+	//81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = 那套优雅的瑞士锅? 33.99美元.
+
+	//82. ORIGINAL [Yellow]: I... Die!
+	72ff543a-10c4-409f-a7c2-9603dc521c11 = 我... 死了...!
+
+	//83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = 鼹鼠莫利? 它的鼻子是不是抽搐得很可爱?
+
+	//84. ORIGINAL [#FF00B050]: Let's help your little friend here...
+	845988d3-0acf-464a-952e-b0b05050ad46 = 让我们来帮助你的小朋友...
+
+	//85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15.99美元, 加上邮费和包装费.
+
+	//86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = 我只要求夜空变暗时, 你还记得我.
+
+	//87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
+	3707534c-49f2-4dc1-bbff-6ef689a945e7 = 毛茸茸的兔子茸毛脚? 你见过这么蓬松可口的兔子吗?
+
+	//88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
+	1046a459-6ead-4145-acc5-192fa0e4398d = 今天早上LBMW广播电台告诉我们: '待在室内'.
+
+	//89. ORIGINAL [#FF00B050]: You'll just need to find a way to distract the...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = 你只需要想个办法分散他们的注意力...
+
+	//90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = 我知道我要去哪里!
+
+	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = 今天就来造访 '我*心*锅和卷' 吧!
+
+	//92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
+	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] 做个跳舞机器人 [img=music]
+
+	//93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
+	75fa01e1-5c17-493a-b539-1d009ade45f2 = 奥兹博士, 评级为普遍级.
+
+	//94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = 感谢家庭医生们的推荐: 失控制药.
+
+	//95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
+	77383a36-ae45-466d-9c4c-78c036d2862f = 我是乔·麦肯齐, 我经营着诺克斯乡村的小马漫游俱乐部.
+
+	//96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
+	c09412e4-f02c-4735-9397-5736fd0ac2e6 = 马是我们国家提供的最好动物.
+
+[/Translations]

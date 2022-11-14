@@ -1,0 +1,4 @@
+VERSION = 1,
+text = Finnish,
+charset = Cp1252,
+

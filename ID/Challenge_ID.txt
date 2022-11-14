@@ -1,0 +1,74 @@
+Challenge_ID = {
+    Challenge_YouHaveOneDay_name = "Anda punya Satu Hari",
+	Challenge_YouHaveOneDay_desc = "Kamu kembali ke Knox County, kembali ke peta dimana tempat infeksi Project Zomboid pertama kali dimulai. <LINE> <LINE> Anda memiliki satu hari yang relatif aman. Zombie akan tiba dalam jumlah besar, dan mereka akan menemukanmu. Di mana kamu akan berjuang sampai akhir? Di mana perjuangan terkahirmu di masa lalu? Lebih baik kau temukan dengan cepat. <LINE> <LINE> [Terima kasih kepada Community Mapper BobHeckling karena telah membuat ulang peta lama versi 0.1.5 dengan toolset PZ saat ini.]",
+
+    Challenge_WinterIsComing_name = "Musim Dingin akan Tiba",
+	Challenge_WinterIsComing_desc = "Ini pertengahan Juli, tapi tiba-tiba ada angin sepoi-sepoi. Hanya dalam waktu tiga hari, musim dingin akan datang tidak seperti sebelumnya. <LINE> <LINE> Kamu terbangun di lokasi terpencil. kamu mempunyai persediaan yang sedikit, dan gerombolan zombie mungkin akan diperlambat oleh cuaca dingin yang hebat - tetapi mereka masih mematikan. <LINE> <LINE> Berhangatlah, survivor...",
+
+	Challenge_OpeningHours_name = "Jam Buka",
+    Challenge_OpeningHours_desc = "Mall dikelilingi. Dahulu kala, itu adalah tempat penting dalam hidup mereka. Insting telah membawa mereka ke dalamnya. Kenangan tentang apa yang dulu mereka lakukan... <LINE> <LINE> Kamu sendirian, tetapi tidak lama. Pukul 9 pagi Mall akan siap untuk dibuka: pintu akan terbuka, dan gerombolan zombie akan masuk. <LINE> <LINE> Bersiaplah untuk mereka.",
+
+	Challenge_AReallyCDDAy_name = "Benar-benar CD DA",
+	Challenge_AReallyCDDAy_desc = "Kamu keluar dari kamar mandi dan jatuh parah. Kamu mabuk berat, dan demam parah. <LINE> <LINE> Di atas semua ini, rumah terbakar! Hari ini jelas bukan harimu. <LINE> <LINE> [Tantangan yang terinspirasi oleh Really Bad Day dari Cataclysm: Dark Days Ahead yang luar biasa, menakjubkan, dan HARUS DIMAINKAN] ",
+
+	Challenge_Challenge1_name = "Rumah di Hutan - Last Stand",
+	Challenge_Challenge1_desc = "Mereka terdengar semakin dekat. Gerombolan zombie menuju kabin kamu yang terisolasi dari setiap sudut. Kematian tidak dapat dihindari, tetapi shotgun ada di dekatmu. <LINE> <LINE> Last Stand menampilkan gelombang zombie yang tak ada habis dan angka yang terus meningkat. Bertahan selama mungkin melawan peluang yang sangat kecil.",
+
+	Challenge_Challenge2_name = "Rumah di Hutan - Last Stand (akumulasi)",
+	Challenge_Challenge2_desc = "Hari baru, kabin baru yang siap untuk berlumuran darah. Gerombolan zombie ada di depanmu, dan kematianmu akan sama menyakitkannya dengan mengerikan. Jadi pergilah bertarung... <LINE> <LINE> Last Stand dengan fitur akumulasi yang tak ada habisnya gelombang zombie dalam jumlah yang terus meningkat. Gunakan uang yang diperoleh dengan membunuh zombie untuk membeli peralatan, naik level, dan memperbaiki persenjataanmu yang berlumuran darah.",
+
+    Challenge_AStormIsComing_name = "Badai Akan Datang",
+	Challenge_AStormIsComing_desc = "Awan berkumpul di atas Kentucky. Suara guntur terdengar di kejauhan. <LINE> <LINE> Saat langit menjadi gelap, orang mati yang ada di atas bumi menjadi bergolak. <LINE> <LINE> Ini badai yang akan tumbuh dan jatuh kembali dalam keganasannya, tetapi tidak akan pernah berakhir.",
+
+    Challenge_TheDescendingFog_name = "Kabut Turun",
+    Challenge_TheDescendingFog_desc = "Orang-orang pertama kali melihatnya di atas air. Selimut putih tipis di atas sungai Ohio. <LINE> <LINE> Berawal dari kabut. Kemudian menyelimuti kota. Penduduk kota mati berteriak dalam kegelapan. Sekarang mereka berjalan keluar di sana. <LINE> <LINE> Tak terlihat, tak terdengar, dan tak kenal lelah dalam mengejar yang masih hidup.",
+
+    Challenge_Kingsmouth_name = "Kingsmouth",
+    Challenge_Kingsmouth_desc = "Nikmati waktu santaimu di Pulau Kingsmouth!",
+
+    Challenge_Studio_name = "Studio",
+    Challenge_Studio_desc = "Tempat di mana semua film terbaik dibuat!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Tekan "o" untuk boost permanen dan menggunakan uang.",
+	Challenge_Challenge2_WaveStart = "Gelombang %1 di : %2 (tekan Enter untuk Skip)",
+	Challenge_Challenge2_WaveDuration = "Gelombang %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "Zombie tersisa : %1",
+	Challenge_Challenge2_Money = "Uang : %1",
+	Challenge_Challenge2_Money2 = "Player %1 uang : %2",
+	Challenge_Challenge2_WaveFinished = "Gelombang %1 selesai dalam : %2",
+	Challenge_Challenge2_MoneyGained = "Uang yang diperoleh : %1",
+	Challenge_Challenge2_XPGained = "Experience yang didapat : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Perjuangan Terakhir",
+	Challenge_Challenge2_TabPlayer = "Player",
+	Challenge_Challenge2_Weapons = "Senjata",
+	Challenge_Challenge2_TabItems = "Barang",
+	Challenge_Challenge2_TabRepair = "Perbaiki",
+	Challenge_Challenge2_CurrentXp = "XP : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 Lvl %2 - %3 XP"
+	Challenge_Challenge2_ButtonSkillMax = "%1 Lvl Maks",
+	Challenge_Challenge2_GoldBonus = "Bonus Emas",
+	Challenge_Challenge2_XpBonus = "Bonus XP",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 Maks",
+	Challenge_Challenge2_ButtonStartGold = "+%1 Emas Awal - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "Maks Emas Awal %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Skill",
+	Challenge_Challenge2_PermanentBonus = "Bonus Permanen",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Perkayuan",
+	Challenge_Challenge2_Health = "Nyawa",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Perbaiki Senjata",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "Nyawa",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Mall buka jam 9 pagi. <LINE> <LINE> Bersiaplah untuk keramaian...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Dalam tiga hari, musim dingin tanpa akhir akan dimulai. <LINE> <LINE> Berhangatlah...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Dalam 24 jam perjalanan kamu kembali ke Knox County akan menjadi Neraka di Bumi...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Cuaca buruk tak berujung di depan...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Hari mulai berkabut...",
+}

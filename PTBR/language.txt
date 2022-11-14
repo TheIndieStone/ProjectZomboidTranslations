@@ -1,3 +1,4 @@
 VERSION = 1,
 text = Brazilian Portuguese,
-charset = cp1252,
+charset = Cp1252,
+

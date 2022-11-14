@@ -1,86 +1,193 @@
 SurvivalGuide_CN = {
-	SurvivalGuide_entrie1title = "生存指南 #1 - 角色控制",
-	SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #1 - 控制自己 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来,并且学习基础知识,<br>你就活不了多久.",
-	SurvivalGuide_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在僵尸毁灭工程中,使用WASD键来移动.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
-            "按住左SHIFT键可以加速奔跑. <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <LINE> <H1> "..
-            "战斗 <BR> <TEXT> 想要攻击僵尸,你需要先按住鼠标右键进入攻击姿态后才能进行攻击动作. <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT>  按住鼠标右键进入攻击姿态的同时, 使用鼠标箭头瞄准准备攻击的方向.不过更好的方法是同时再使用WASD键来保持自己在不断移动中攻击来防范僵尸的攻击."..
-            " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 在做好上述准备后,单击鼠标左键来进行攻击.但是请记住,不要无意义的疯狂点击鼠标左键进行无效攻击,因为那会很快耗尽你的体力. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <TEXT> <BR> 按住LCTRL也可以进入攻击姿态.攻击姿态可以让你观察四周并减少被发现的几率,请善用这个功能..  <BR> <H1> 互动 <BR> "..
-            "<H2> 鼠标单击 <BR> <TEXT> 单击鼠标左键即可与周围物品进行互动. 例如,你可以使用鼠标单击门窗来打开或关闭门窗,点击橱柜来查看橱柜中有哪些可以收集的物资.. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> <TEXT> "..
-            "<H2> 互动快捷键 <BR> <TEXT> 如果你处于攻击姿态下要打开或关闭门窗,你可以按E键来打开或关闭门窗. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> 例如, 门后有僵尸需要打开门就展开攻击的情况下. <BR>  <TEXT> 按住E键可以让你翻越窗或高墙,这在你陷入危险时,不失为一种应急办法. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
-            " <LINE> <H2> 互动菜单 <BR> <TEXT> 在物体上点击鼠标右键,可以打开物体的互动菜单,例如制作,拆解等. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE> <TEXT> ",
+	SurvivalGuide_WindowTitle = "生存指南",
+	SurvivalGuide_entrie1title = "#1 - 角色控制",
+	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 角色控制 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来, 并且学习基础知识, <br>你就活不了多久. ",
+	SurvivalGuide_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在僵尸毁灭工程中, 使用WASD键来移动. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
+                                    "<LINE> <H1> 战斗 <BR> <TEXT>想要攻击僵尸, 你需要先按住鼠标右键或 <SPACE><KEY:Aim><SPACE> 来瞄准, 再点击 鼠标左键 攻击. 如果没有配备武器，你只能推搡(在装备了武器的情况下, 你也可以点击 <SPACE><KEY:Melee><SPACE> 来推搡). <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 鼠标光标附近有一个白色的光圈, 指示的就是你的攻击位置. 有关战斗的更多信息, 参见本指南的第 3 页. <BR> "..
+                                    "<LINE> <H1> 状态 <BR> <TEXT> 有时右上角会出现一些图标, 他们显示了角色的一些状态, 将鼠标光标停在图标上可以获取更多详细信息. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+                                    "<LINE> <H1> 鼠标控制 <BR> <TEXT> 单击鼠标左键即可与周围物品进行互动. 例如, 你可以使用鼠标单击门窗来打开或关闭门窗, 点击橱柜来查看橱柜中有哪些可以收集的物资. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 按下鼠标右键并移动光标可以让你环顾四周或瞄准. 滚动鼠标滚轮, 或使用 <SPACE><KEY:Zoom&nbsp;in><SPACE> 和 <SPACE><KEY:Zoom&nbsp;out><SPACE> 键, 来放大或缩小视角. <BR>"..
+                                    "<LINE> <H1> 健康 <BR> <TEXT> 点击左上角的心形图标查看你的健康状况, 从这里你可以进行伤口急救 - 或检查可怕的咬痕. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+                                    "<LINE> <H1> 互动键 <BR> <TEXT> 另一种交互方式是点击 <SPACE><KEY:Interact> 键. 这可以让你保持战斗姿态下打开门. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> <TEXT> 按 <SPACE><KEY:Interact><SPACE> 可以将窗口打开或关闭, 按住 <SPACE><KEY:Interact><SPACE> 时, 如果窗户已经打开 (或被打碎), 则可以爬过去. 在尝试打开窗户时点击 <SPACE><KEY:Interact><SPACE> 打碎它 - 在紧急情况下很有用, 但要小心残留的碎玻璃. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+                                    "<LINE> <H1> 翻越 <BR> <TEXT> 按 <SPACE><KEY:Interact><SPACE> 可以翻越栅栏. 你还可以通过慢跑或冲刺来自动翻越栅栏 (参见第 2 页了解更多信息). <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+                                    " <LINE> <H1> 交互菜单 <BR> <TEXT> 可以通过 鼠标右键 调出更详细的交互菜单, 例如制作. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+                                    " <LINE> <H1> 时间 <BR> <TEXT> 想让游戏中时间加速(非单人游戏中), 右上角的加速按钮会有所帮助. 你可以使用控制快进来使得你静止不动或快速执行动作(如阅读或建造).  则以非常快的速度进行. 你也可以在搜刮储藏点后, 使用暂停来思考之后的行动. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+                                    "<LINE> <H1> 地图 <BR> <TEXT> 按 <SPACE><KEY:Map><SPACE> 或点击左上角的地图图标打开你的地图. 当你在世界各地移动时, 你的地图会显示更多内容. 你可能还会在右下角有一个小地图. 按住 <SPACE><KEY:Map><SPACE> 可访问与地图相关的选项, 例如打开或关闭小地图. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+                                    -- ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项, 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
+                                    "<H1> 不要死 <BR> <TEXT> 任何时候都尽量不要死. <BR>",
 
-	SurvivalGuide_entrie2title = "生存指南 #2 - 不要乱跑",
-	SurvivalGuide_entrie2txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #2 - 不要乱跑 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <SIZE:medium> 你发出的动静越大,僵尸发现你的概率也越大.<br>当然,你也会死的更快.",
-	SurvivalGuide_entrie2moreinfo = " <H1> 僵尸知觉 <BR> <TEXT> 在生存模式中,僵尸有视力以及听力. <BR> <IMAGECENTRE:media/ui/tutimages/running.png> <LINE> <TEXT> 跑步会制造噪音,引起僵尸的注意. <BR> 你能比僵尸跑得快,但那不长久. <BR> "..
-    " 一个明智的玩家会善用左CTRL键 (或者你觉得鼠标右键更顺手). 进入攻击姿态模式.攻击姿态会放慢你的脚步,并且让你有充分的时间观察四周.且在遭遇僵尸时可以进行快速攻击 <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png> <LINE> 僵尸毁灭工程不是一个竞速类游戏.请隐藏好自己.僵尸只有想吃掉你一种想法.",
+	SurvivalGuide_entrie2title = "#2 - 隐秘行动",
+	SurvivalGuide_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 隐秘行动 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> 使用 <SPACE><KEY:Run><SPACE> 进行慢跑, 使用 <SPACE><KEY:Sprint><SPACE> 进行冲刺, 但要小心!",
+	SurvivalGuide_entrie2moreinfo = " <H1> 僵尸感知 <BR> <TEXT> 僵尸会对视线和声音做出反应. 要极其警惕警报器、警报和枪声等响亮的噪音, 因为附近的僵尸群肯定会来到这里. <LINE> <BR>"..
+                                    "<H1> 奔跑 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> 使用 <SPACE><KEY:Run><SPACE> 进行慢跑, 使用 <SPACE><KEY:Sprint><SPACE> 进行冲刺. 冲刺时会产生较大的脚步声音, 让你更引人注目. 你可以在一段时间内跑进僵尸的视线死角躲起来, 但这不是永远."..
+                                    " <BR> <H1> 蹲下 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 你可以通过使用 <SPACE><KEY:Crouch><SPACE> 蹲下来降低他们发现你的可能, 然后蹲在墙壁和栅栏旁边以进一步降低自己被发现的可能 (注意你的角色在掩体时蹲下更低). 你也可以在这种状态下慢跑. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
+                                    "PZ 不是赛跑游戏, 僵尸们追着你也不是想要你的签名, 他们伸起双手也不是要拥抱你 - 它们只想吃掉你. <BR>",
 
-	SurvivalGuide_entrie3title = "生存指南 #3 - 精准攻击!",
-	SurvivalGuide_entrie3txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #3 - 精准攻击! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 你在与僵尸作战.有效攻击是很重要的! <LINE> <LINE> 记住:瞄准僵尸然后攻击!",
-	SurvivalGuide_entrie3moreinfo = " <H1> 战斗系统 <BR> <TEXT> 每个武器能造成的伤害都不同.然而,它的威力取决于你自己的技能和技巧.善用武器的特点和技巧,能让你事半功倍. <BR> <H2> 瞄准 "..
-            " <BR> <TEXT> 近战武器爆头的力量都是取决于你的技能等级. 不过, 另一个重要的因素是你为这一下攻击蓄力/瞄准了多久.记住, 每一下攻击都要按住右键数秒后再进行,这会确保你每一下的攻击都会发挥最好的效果(蓄力攻击). <BR> 蓄力攻击比不停按攻击键更有效,频繁的点攻击键,并没有什么好处! <BR> <H2> 攻击距离 <BR> <TEXT> 攻击距离也是一个重要的元素. <BR> 例如棒球棒和斧头,它们的优点就是它们能在远距离发动攻击.  <BR> <IMAGECENTRE:media/ui/tutimages/combataxe1.png> <LINE> <BR> <IMAGECENTRE:media/ui/tutimages/combataxe2.png> <LINE> 而餐刀,黄油刀等武器的优点是近距离刺杀效果.不过,不要对黄油刀期望太高. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
-            " <H2> GROUND ATTACKS <BR> <TEXT> 杀僵尸的方法通常是把它们推倒,再不停地攻击它的头部. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 蓄力挥动武器有几率击倒僵尸,但僵尸进入低攻击范围内,则只能推开僵尸. <BR> 当僵尸被击倒后: 每一次攻击都将自动瞄准被击倒在地面上的僵尸.不过还是请瞄准僵尸头部.这将很快杀死它们. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> ",
+	SurvivalGuide_entrie3title = "#3 - 精准打击",
+	SurvivalGuide_entrie3txt = " <CENTRE> "<SIZE:large> #3 - 精准打击! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 持续攻击直到你听到头骨的破碎声!",
+	SurvivalGuide_entrie3moreinfo = " <H1> 战斗机制 <BR> <TEXT> 每把武器都能造成一定的伤害. 但是, 它的威力和精度取决于你的技能和你对武器的熟悉程度."..
+                                    " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 按住 鼠标右键 或 <SPACE><KEY:Aim><SPACE> 进入战斗姿态, 点击 鼠标左键 攻击. 重新装填弹药点击 <SPACE><KEY:ReloadWeapon> 装填武器的弹药/弹匣, 当武器卡壳时使用 <SPACE><KEY:Rack&nbsp;Firearm> 清除卡壳. 低耐久度枪械会更容易卡壳. <BR> <LINE> 瞄准轮廓默认情况下只出现在枪械上. 红色轮廓表示命中率低, 绿色表示命中率高. 要同时打开近战武器的瞄准轮廓, 或完全关闭瞄准轮廓, 请切换选项中的瞄准框选择, 或按 <SPACE><KEY:Main&nbsp;Menu>. <LINE>"..
+                                    " <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/aimingoutlines.png> <LINE> 像黄油刀等这类短武器可以在极近的距离内秒杀僵尸, 但对黄油刀期望太多是非常危险的. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+                                    " <H2> 倒地追击 <BR> <TEXT> 杀死一个僵尸的最好方法是推搡它们直至倒地, 然后击打他们的脑袋. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 僵尸可以被攻击或推搡击倒. 在攻击范围内没有其他站立僵尸的情况下, 你将触发倒地追击. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> 你也可以在击倒的僵尸旁边按 <SPACE><KEY:Melee><SPACE> 来踩踏他们. 虽然攻击较弱, 但不会损失武器耐久或弹药. 记住使用鼠标光标来瞄准头部. 踩踏僵尸的腿永远不会杀死他们, 而且看起来很傻. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
 
-	SurvivalGuide_entrie4title = "生存指南 #4 - 求水之路",
-	SurvivalGuide_entrie4txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #4 - 求水之路 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 干净的水对你的持续生存至关重要.",
-	SurvivalGuide_entrie4moreinfo = " <H1> 水源 <BR> <TEXT> 供水系统就像电力一样,不会用之不竭.如果你不想因缺水而渴死的话,请储备好水瓶... <BR> 你的角色会自动从随身的任何储水容器里喝水. <BR> 要喝水或装满瓶子,只需在游戏中任何能供水的方格/物品上使用鼠标右键菜单即可. 水槽,浴缸,水龙头... 啥都行. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> ",
+	SurvivalGuide_entrie4title = "#4 - 求水之路",
+	SurvivalGuide_entrie4txt = " <CENTRE> "<SIZE:large> #4 - 求水之路 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 干净的水对你的持续生存至关重要.",
+	SurvivalGuide_entrie4moreinfo = " <H1> 水源 <BR> <TEXT> 供水系统就像电力一样, 不会取之不尽. 如果你不想因缺水而渴死的话, 请储备好水... <BR> 你的角色会自动从你物品栏中的任何容器中喝水. <BR> 要喝水或装水, 只需在游戏中任何提供水的家具/物品上使用右键菜单. 例如水槽、浴缸、水龙头...这些东西. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> 你也可以通过用平底锅等容器放在雨中、或河流中收集喝水, 也可以建造一个木制雨水收集桶. <BR> 但这样获取的水是被污染的, 必须煮沸才能安全饮用, 被污染的水可以安全地用于浇灌庄稼或洗衣服. <BR>",
 
-	SurvivalGuide_entrie5title = "生存指南 #5 - 固若金汤",
-	SurvivalGuide_entrie5txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #5 - 固若金汤 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 僵尸们会破坏门窗!最佳建议:加固门窗!",
-	SurvivalGuide_entrie5moreinfo = " <H1> 制作 <BR> <TEXT> 要制作物品,只需在随身材料上右键单击选择制作即可. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE>你可以用它制作的各种各样的物品,以及你随身携带的其他物品,都会神奇地显示出来! <BR>丰富的烹饪,木工,医疗和生存等配方能给你在末世中占据优势. <BR> <H1> 加固 <BR> <TEXT>你可以用右键点击来加固你的门窗 & 但你随身必须携带锤子,木板和钉子. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png>  <LINE>可以使用多块木板来进一步加固门窗. <BR> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> "..
-            " <H1> 木工 <BR> <TEXT>当你找到更多资源和更好的铁锤,你便可以构建一个更加坚固的防御工事.只需在想要建筑的地面上按右键即可显示建筑条目.进行木工工作时必须随身携带铁锤. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 在这里,你可以选择任何你当前技能和材料能制作出来的物品. <BR> 当选择好要建筑的物品后,你可以用鼠标移动它,你可以用鼠标移动它,决定好理想位置后再按左键摆放. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 制作不会瞬间完成.PZ是个偏向现实的游戏,如果你曾经当过建筑工你就会明白这些东西需要时间. (请注意,如果有帮助的话,我们确实允许您在游戏中制作几杯茶). <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 在你摆放打造的物品前可以按R键来旋转它. <BR> <IMAGECENTRE:media/ui/tutimages/flip.png> <LINE> 切记: 你打造得越多,你的手艺就会越好.更高的技能水平意味着更高质量的产品,产品也更为有用.",
+	SurvivalGuide_entrie5title = "#5 - 建造达人",
+	SurvivalGuide_entrie5txt = " <CENTRE> "<SIZE:large> #5 - 建造达人 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 僵尸们在抓挠门窗! 最佳建议: 加固门窗!",
+	SurvivalGuide_entrie5moreinfo = " <H1> 物品制作 <BR> <TEXT> 要制作列表的物品, 只需打开制作菜单即可. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 你可以用它制作任何可制作的物品, 以及你携带的东西, 都会神奇地展示出来! <BR> 烹饪、木工、医疗和生存等一系列技巧将让你在世界末日中占据优势. <BR> <H1> 加固 <BR> <TEXT> 你可以通过右键单击来加固门窗. 你需要在物品栏中使用锤子、木板和钉子来设置木板, 或者使用丙烷焊枪、焊接面罩, 来焊接金属板. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 木工和金属加工 <BR> <TEXT> 当你找到资源并变得更有能力时, 你可以建造建筑. 对于木制建筑, 你必须有一把锤子, 而金属结构需要丙烷焊枪、焊接面罩, 而对于大多数金属制品, 则需要焊条. 只需 鼠标右键 单击地面即可获得建筑菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 从这里你可以看到所能建筑的家具. <BR> 选择后, 你将看到建筑的透明表示, 然后你可以在世界各地移动, 点击 鼠标左键 放置. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 这个过程并不快, 因为墙壁必须分阶段建造. PZ 是一款专注于现实主义的游戏, 如果你有过建筑知识, 你就会知道这些事情需要时间. (请注意, 如果有帮助, 我们确实允许你在游戏中制作心仪的东西). 你可以在放置前摁住拖动 <SPACE><KEY:Rotate&nbsp;building> 来旋转的物品. <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 记住:你制作的越多, 你就会变得越强. 更高的技能水平意味着更好的质量, 以及更有用的物品. <BR> "..
+                                    "<BR> <LINE> <H1> 搬运家具 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 这个世界大多数家具和静态物体都可以搬运. 只需将光标悬停在屏幕左上角的木制储物柜图标上, 点击搬运图标即可搬运世界物品到你的物品栏中, 点击放置图标即可放置在你物品栏中的世界物品, 在放置时可以选择世界物品的朝向. 在其中任何一种模式下, 点击 Tab 键可切换到下一种模式. <BR> 搬运物体可能需要工具与最低技能等级才可能成功. 移动物体可能是快速封锁基地的有效方法 (将物品放在门窗前), 或将冰箱或板条箱等有用物品移至新位置. <BR>",
 
-	SurvivalGuide_entrie6title = "生存指南 #6 - 防止偷窥",
-	SurvivalGuide_entrie6txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #6 - 防止偷窥 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 虽然它们可能已经死了,<br>但它们还是能看透窗户. <LINE> <LINE> 没有窗帘? 赶快动手吧. ",
-	SurvivalGuide_entrie6moreinfo = " <H1> 阻挡它们的视线 <BR> <TEXT> 在僵尸末日中一个最常见的错误就是让窗帘开着.忘记关窗帘后果是致命性的,游荡的僵尸会发现并杀死你. <BR> 要关闭窗帘或百叶窗: 用右键菜单. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固窗户也能阻止僵尸看到光线和动静. <BR> 如果那没有窗帘,而你又没有备用木板,或许有什么其他东西可以代替?来吧,找找看.",
+	SurvivalGuide_entrie6title = "#6 - 防止偷窥",
+	SurvivalGuide_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 防止偷窥 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 它们或许死了, 但他们仍然可以透过窗户看你. <LINE> 没有窗帘? 找类似物品替代吧. ",
+	SurvivalGuide_entrie6moreinfo = " <H1> 挡住他们的视线 <BR> <TEXT> 僵尸世界末日中最常见的错误之一就是拉开窗帘. 忘记拉上窗帘会导致僵尸在花园小路看到你, 然后就会过来吃掉你的大脑. <BR> 要关闭窗帘或百叶窗:使用 右键菜单. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固过的窗户也会让僵尸无法透过窗户看到你. <BR> 如果窗户没有窗帘, 又没有多余的木板, 或许你可以找点类似物品? 好好想想, 然后试试吧. <BR>",
 
-	SurvivalGuide_entrie7title = "生存指南 #7 - 美味佳肴",
-	SurvivalGuide_entrie7txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #7 - 美味佳肴 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒可不好玩.在大灾变之中尤其致命. <LINE> <LINE> 在僵尸末日中吃一顿热饭是必须的.",
-	SurvivalGuide_entrie7moreinfo = " <H1> 烹饪 <BR> <TEXT> 牛排,鸡肉还有很多其他的食物在食用前都需要先煮熟. (哈?这丧心病狂的游戏.) <BR> 除了降低食物中毒的风险,做好的饭菜更令人满意, 更有营养,并可在更长的时间内避免饥饿. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 把食物放在电磁炉/微波炉/就可以开始烹饪了,如果你已经离开城市的话,你可以想办法升起一堆营火来代替它们. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 按右键控制开关,使用后切记关闭火炉,否则你的所有努力可能毁于一旦,切记. <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
-            " <H1> 耕作 <BR> <TEXT> 你需要一把泥铲和种子方可种植, 翻土后放入种子再浇水. 很快你就有源源不断的食物了. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
-            " <H1> 搜寻 <BR> <TEXT> 在森林里找些浆果和其他水果吧. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> " ..
-			" <H1> 不作不死 <BR> <TEXT>在任何时候都请小心翼翼,作死会让你丢失所有物品和当前人物所有技能.",
+	SurvivalGuide_entrie7title = "#7 - 美味佳肴",
+	SurvivalGuide_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 美味佳肴 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒并不好玩, 尤其是在末日期间. <LINE> <LINE> 一顿热腾腾的饭菜会对你有很大的帮助.",
+	SurvivalGuide_entrie7moreinfo = " <H1> 烹饪 <BR> <TEXT> 肉类、鱼类和许多生食需要在进食前烹饪. 除了能降低食物中毒的风险外, 准备好的饭菜更令人满意、更有营养, 并且可以更长时间地避免饥饿. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 要烹饪食物, 只需将其放入电炉或微波炉中 - 如果你逃离了城镇, 也可以放在营火中. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 用右键菜单打开电器, 烤好后从物品窗口中取出烘焙食品. 完成后记得关闭电器, 除非你也想把整个房子都做成饭. 古董炉灶、壁炉和营火需要燃料, 所以记得储备木头 (或者书籍, 如果你不识字的话). <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+                                    " <H1> 耕作 <BR> <TEXT> 要自己种植食物, 只需找一把泥铲和一些种子. 犁土并撒播, 再浇水, 你的努力劳作很快就可让你实现温饱. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+                                    " <H1> 搜寻 <BR> <TEXT> 点击屏幕左上角的放大镜图标, 然后点击"启用搜寻模式", 找到浆果、石头、木棍和其他更有用的物品. <BR> 当"眼睛"图标出现在你的头顶时, 你可以通过往正确的方向走直到物品显示在搜寻半径中. 搜寻半径会根据你的技能等级、你的位置、该区域的光照水平等进行变化. 了解更多信息关于搜寻, 请参阅本指南的第 11 页, 或单击搜寻窗口左上角的信息图标. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
 
-	SurvivalGuide_entrie8title = "生存指南 #8 - 囤积物资",
-	SurvivalGuide_entrie8txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #8 - 囤积物资 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 目的明确的收集物资可以节省您的时间<br>甚至救你一命!",
-	SurvivalGuide_entrie8moreinfo = " <H1> 选择 <BR> <TEXT> 怎样去拿,取出,丢掉和使用呢?在僵尸毁灭工程里我们大部分时间都在做这些动作! <BR> 主要方法就是直接用滑鼠拉放物品 - 或者可以按右键选择菜单. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
-            " 按住LSHIFT可以同时选择多样物品. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 或者,你可以直接按住左键拉出一个大正方型去选择一个范围. <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
-            " 或者快速地按左键两下来进行拾取.或者在按物品栏右边的按钮. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  喔,如果你想一键拾取所有东西,这里还一个拾取全部的选择. <LINE> "..
-            " <H1> 有用的背包/袋子 <BR> <TEXT> 各种袋子和背包是非常重要的物品.它可帮你携带更多的物品. <BR> 如要装备袋子或背包,按右键选择装备(左手)，装备(右手) 或背上(背包才可以背上). "..
-            " <BR> 装备后,你就会看见背包在你的物品栏里 - 准备好可以直接把物品放入背包.重要的是,背包可以减轻你总体的重量. 那不是非常有用吗? <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
-            " <H1> 熟练使用快捷键  <BR> <TEXT> 在设定里可以设定快捷键,已经预设了一部分快捷键. "..
-            " <BR> 1 : 装备伤害最高的武器. " ..
-			" <BR> 2 : 装备伤害最高的枪械. (不要忘记R键是装填弹药!)  " ..
-			" <BR> 3 : 装置伤害最高的近战武器. " ..
-			" <BR> F : 装备(开启)可作为照明的道具. ",
+	SurvivalGuide_entrie8title = "#8 - 囤积物资",
+	SurvivalGuide_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 囤积物资 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速有效地管理物品栏 <BR> 可以节省你的时间 - 还有, 你的生活!",
+	SurvivalGuide_entrie8moreinfo = " <H1> 选择 <BR> <TEXT> 如何在 PZ 中翻找、拿取、放置和使用? 主要的方法是拖动, 或者右键单击以调出菜单. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+                                    " 按住 SHIFT 并点击要选物品第一个与最后一个, 之间的物品将会全部选择. <BR> <IMAGECENTRE:media/ui/tutimages/invshiftselect.png> <LINE> <TEXT> 也可以按住鼠标进行框取.  <BR> <IMAGECENTRE:media/ui/tutimages/invsquareselect.png> <LINE>  <BR> "..
+                                    " 双击战利品物品栏中的某些东西以快速拿取, 或单击所选内容右侧的按钮. <BR> <IMAGECENTRE:media/ui/tutimages/invctxbtn.png> <LINE> <TEXT>  如果你必须拿取全部东西, 也可以点击物品栏上的 ‘全部拿取’. <LINE> "..
+                                    " <BR> <H1> 包的荣耀 <BR> <TEXT> 包很重要. 它们可以帮助你携带更多东西. <BR> 装备一个包将你的物品扔进去:右键单击并将其装备到你的主手上, 副手或在你的背上. "..
+                                    " <BR> 然后你会在你的物品栏中看到装备好的包, 你可以将你的战利品拖放到里面. 最重要的是, 装备的包会减轻物品重量, 这样你就可以携带更多, 但要小心:如果你包里有很多东西, 它仍然会减慢你的移动速度. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+                                    " <H1> 腰带和快捷键  <BR> <TEXT> 你可以将某些物品装备到腰带、皮套或背部. 这些物品将显示在屏幕底部的方块中, 并且可以配备对应的快捷键显示的数字. 其他有用的快捷键包括:"..
+                                    " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 装备 (并打开)你最好的光源. 点击 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 配备光源将打开或关闭它, 然后长按 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 将让你访问其他选项，例如取出电池." ..
+			                        " <BR> <KEY:ReloadWeapon><SPACE> : 重新装填弹药. 长按 <SPACE><KEY:ReloadWeapon><SPACE> 以获得更多高级选项. 点击 <SPACE><KEY:Rack&nbsp;Firearm><SPACE> 清除卡壳/上膛你的武器.  " ..
+			                        " <BR> <KEY:VehicleRadialMenu><SPACE> : 如果在载具中或载具旁, 则显示载具选项. " ..
+			                        " <BR> <KEY:Shout><SPACE> : 喊叫. 吸引僵尸. 蹲下会更安静. 长按 <SPACE><KEY:Shout><SPACE> 以访问表情轮. 向朋友问好, 或给你最喜欢的僵尸竖起大拇指! "..
+			                        " <BR> <KEY:Toggle&nbsp;Search&nbsp;Mode><SPACE> : 切换搜寻模式开关.",
 
-    SurvivalGuide_entrie9title = "生存指南 #9 - 交通工具",
-    SurvivalGuide_entrie9txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 车辆给生存带来很多好处,但它们也会带来噪音! 一台高运转引擎会吸引很远的一大群人...",
-    SurvivalGuide_entrie9moreinfo = " <H1> 进入车辆 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果你走运的话,那么车主可能会把钥匙落在车门、点火装置或手套箱里. 或者,搜索附近的僵尸身上,车主或许就在其中.同样,如果你选择的车停在房子外面 - 请顺便搜索房间.钥匙可能就在房子里. <BR> 还是不行吗?为什么不破窗而入呢?砸碎车窗将其解锁.如果你有足够高的技工和电工技能,那么你就能给它短接. <BR> " ..
-            " <H1> 驾驶时光 <BR> <TEXT> 点击点火装置来插入你的钥匙,启动发动机并检查仪表盘读数.或者,只需按下前进键 (默认键: W) 即可启动. <BR> 如果汽车的发动机状况不好, 可能不会一次就启动.如果试了很多次还无法启动,你需要检查下技工窗口了... <BR> 小心开车! 汽车的声音越大,就会吸引更大范围的僵尸并跟随汽车...  <BR> " ..
-            " <H1> 仪表盘 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 在车辆的仪表盘上,您可以看到有用的信息读数,如油量,速度和转速. <BR> 仪表盘顶部的图标还将告诉您发动机状态,后备箱是否打开,前大灯是否开启等.单击这些图标将打开可用选项 - 因此单击 空调/加热器 将打开相关窗口. <BR> " ..
-            " <H1> 圆环菜单 <BR> <TEXT> 如果你在车内或旁边按'V'键,这将能打开它的圆环菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 从这里您可以交换座位,锁门, 控制灯,打开技工窗口等. <BR> " ..
-            " <H1> 技工窗口 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 没有技术的幸存者可以检查你的电池是否还行,查看燃油水平,并发现汽车的某些部分是否出现损坏. 拥有技工技能的幸存者将能够看到额外的细节,并安装和卸载部件. <BR> 有关此技能和技工技能的更多信息,请单击技工窗口左上角的信息图标.",
+    SurvivalGuide_entrie9title = "#9 - 交通工具",
+    SurvivalGuide_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 车辆会给你带来生存优势, 但也带来噪音! <BR>  一个高速运转的引擎会吸引远方的尸群...",
+    SurvivalGuide_entrie9moreinfo = " <H1> 进入车辆 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果幸运的话, 一个健忘的车主可能会把钥匙留在门上, 钥匙孔或手套箱. 还可以 搜索附近的僵尸, 其中一个或许就是车主. 同样, 如果车辆停在房子外面, 请搜索房屋. 钥匙可能在里面. <BR> 这样不酷? 那么选择盗车飞车? 砸车窗并解锁车门. 如果你有足够高的技工和电工技能, 你就可以短接车辆. <BR> " ..
+                                    " <H1> 驾驶时间 <BR> <TEXT> 点击点火开关插入钥匙, 然后点击仪表板上的发动机图标 (或点击 <SPACE><KEY:StartVehicleEngine> )启动发动机. 或者, 只需按前进键 <SPACE><KEY:Forward><SPACE> 开始启动. <BR> 如果汽车的发动机状态不高, 它可能不会一次启动. 如果它始终无法启动, 车可能没油了, 是时候检查一下车辆信息了... <BR> 小心驾驶!汽车的引擎声音越大, 吸引附近僵尸的半径就会越大, 僵尸会被惊动并开始跟随引擎噪音...  <BR> " ..
+                                    " <H1> 车辆信息 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 在车辆的仪表板上, 你可以看到有用的信息读数, 例如燃油辆、速度和档位. <BR> 仪表板顶部的图标还会告诉你发动机状态、后备箱是否开启、大灯是否工作等等. <BR> " ..
+                                    " <H1> 车辆菜单 <BR> <TEXT> 如果你在车辆内部或旁边, 请点击 <SPACE><KEY:VehicleRadialMenu>. 这将打开其互动菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 从这里你可以切换座位、锁门、操作灯、打开车辆信息等等. <BR> " ..
+                                    " <H1> 车辆检查 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 没有经验的幸存者可以检查他们的电池是否有电, 查看燃料水平, 并注意某些部分是否出现损坏. 技工技能较高的幸存者将能够看到额外的细节, 并安装和拆卸零件. <BR> 有关此和技工技能的更多信息, 请单击技工左上角的信息图标窗口. <BR>",
 
-    SurvivalGuide_entrie10title = "生存指南 #10 - 天气系统",
-    SurvivalGuide_entrie10txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #10 - 天气系统 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 雾, 风暴和雪使僵尸的威胁更具挑战性! 当冬天来临时做好保暖...",
-    SurvivalGuide_entrie10moreinfo = "<H1> 气候变化 <BR> <TEXT> 僵尸毁灭工程中的天气模式非常逼真.模拟气候系统会制造雨, 雪,雾和雷暴等天气. <LINE> " ..
-                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 寒冷和酷热都会对你的生存造成很大的影响. <LINE> " ..
-                                      " 如果你饮食充足,体力充沛并穿着冬装,那么冬天不会变的那么可怕,但是衣服潮湿或疾病在冬天依然是非常大的威胁. <LINE> <BR> " ..
-                                      " 在极端寒冷天气下,最好使用取暖设备进行取暖:壁炉,汽车暖气和室外篝火都可以取暖(但切记如果没有足够的经验,请勿在室内点燃篝火). <LINE> "..
-                                      " 在极端炎热天气下,最好随身携带充足的饮水,同时请尽量着装夏装. <LINE> <BR>" ..
-                                      " <H1> 获知温度 <BR> <TEXT> 如果你想知道现在的温度,请搜寻一只电子表,并随身携带.温度将显示在右上角. <LINE> <BR> " ..
-                                      " <H1> 风寒 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 特别是在冬季,风寒也是决定温度的一个因素,由于强风和暴雨. 暴风雪会严重降低温度. <LINE> <BR> " ..
-                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 风寒会影响你的健康,但它不会显示在电子表上.请时刻留意你的健康状态. <LINE> <BR> " ..
-                                      " 注意保暖!",
+    SurvivalGuide_entrie10title = "#10 - 气候无常",
+    SurvivalGuide_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 气候无常 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 请记住, 衣服不仅仅是防风用的...",
+    SurvivalGuide_entrie10moreinfo = "<H1> CLIMATE CHANGE <BR> <TEXT> 气候系统会制造雨, 雪,雾和雷暴等天气, 并且拥有跟现实世界一样的四季. 请穿对衣服, 使得冬暖夏凉, 记得保持良好状态!<LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 温度会影响你的生存. 如果你饮食充足, 体力充沛并穿着冬装, 那么冬天不会变的那么可怕, 但是衣服潮湿或疾病在冬天依然是非常大的威胁.. <LINE> " ..
+                                      " 在极端寒冷天气下, 最好使用取暖设备进行取暖: 壁炉, 汽车暖气和室外篝火都可以取暖. <LINE> "..
+                                      " 在极端炎热天气下, 最好随身携带充足的饮水, 同时请尽量穿着夏装. <LINE> <BR>" ..
+                                      " <H2> 知晓温度 <BR> <TEXT> 戴上电子手表会在你设定的 UI 位置显示温度. <LINE> <BR> " ..
+                                      " <H2> 寒风 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 在户外, 尤其是在冬季, 会让你感到寒冷. 大雨或暴风雪形成强风和低温的组合, 会严重降低你的体温. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 寒风会影响你的体温, 但不会在你的数字手表上显示直接的温度差异. 密切注意你的体温可以及时得知寒风是否在影响你. <LINE> <BR> "<H1> 防护衣物 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿着合适的衣服可以保护你免受咬伤、划伤和撕裂. 点击 P 打开服装保护面板可以查看幸存者当前保护概率. <BR> 你可以使用适当的材料和缝纫技能修复衣服上的破洞, 甚至可以添加填充物以增加保护. 只需右键单击物品栏中的服装项目并单击"检查", 然后右键单击要修补或修复的区域. 只需确保你的物品栏中有合适的织物条以及针和线即可. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
 
-    SurvivalGuide_entrie11title = "生存指南 #11 - 隐秘行动",
-    SurvivalGuide_entrie11txt = " <CENTRE> <SIZE:medium> 僵尸生存指南 <LINE> <SIZE:large> #11 - 隐秘行动 <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png> <LINE> <SIZE:medium> %1 - 潜行 <LINE> %2 - 冲刺 <LINE> %3 - 慢跑"
-    SurvivalGuide_entrie11moreinfo = "<H1> 蹲下 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE> 你可以蹲在墙和栅栏后面以降低他们的可见度! <LINE> 您还可以在此状态下慢跑. <LINE> <BR> " ..
-                                        "<H1> 冲刺 <BR> <TEXT> 如果慢跑不够快 - 请使用冲刺! <LINE> 按下 %1 进行冲刺 - 尽管碰到障碍物而跌倒. <LINE> <BR> " ..
-                                        "<H1> 自动翻越 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/vaultover.png> <LINE> 要翻越篱笆,只需要慢跑或冲刺就会自动翻越. <LINE> <BR> " ..
-                                        "<H1> 爆头 <BR> <TEXT> 当僵尸倒下时:请瞄准头部!打击非头部区域会消耗你更多体力. <LINE> <BR> " ..
-                                        "<H1> 长矛 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/spear.png> <LINE> 使用长矛需要合适的时机及距离.此外,为什么不试试长矛冲刺呢? <LINE> <BR> " ..
-                                        "<H1> 防护 <BR> <TEXT> 穿着防御高的衣服可以降低你受伤的几率. 按 %2 键打开着装面板来查看衣服的防护性(请注意,最好的防护依然是躲避僵尸攻击而不是和僵尸互相伤害). <LINE> <BR> ",
+    SurvivalGuide_entrie11title = "#11 - 搜寻物品",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 搜寻物品 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界上到处都是有用的东西, 如果你善于发现的话! <LINE> <LINE> 浆果, 蘑菇, 石头... 谁知道你会发现什么?",
+    SurvivalGuide_entrie11moreinfo = " <H1> 搜寻系统 <BR> " ..
+                                     " <TEXT> <SIZE:small>" ..
+                                     " 调查区域窗口可以显示你所在区域. 这会影响可以找到的物品." ..
+                                     " 将鼠标悬停在窗口上可以看到所在区域的物品类别/概率." ..
+                                     " 如果你看到 ????? , 那么就找不到任何有用的东西了. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+                                     " 要开始搜寻, 请单击启用 搜寻模式 . 搜寻半径将出现. 这是你的幸存者可以发现物品的区域. <LINE> <LINE>" ..
+                                     " 当幸存者发现物品时时会出现一个指向箭头. 当你的角色靠近时会出现一个眼睛图标, 并可以准确地看到它. <LINE> <LINE>" ..
+                                     " 双击一个发现的物品图标来拾取它. 右键单击以获得更多拾取选项. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 搜寻技巧 <TEXT> <BR> " ..
+                                     " 环顾四周 (通过瞄准)和蹲下都会增加搜寻半径. 黑暗、恶劣天气、技能、物品大小和负面情绪 (压力、伤疼等)都会影响物品的可见性. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 重要! <TEXT> <BR> " ..
+                                     " 请注意物品出现的区域!" ..
+                                     " 例如, 垃圾堆中经常发现垃圾, 道路裂缝和坑洼中经常发现碎石等等. <LINE> <LINE> ",
 
-}
+	SurvivalGuide_Joypad_entrie1title = "#1 - 角色控制",
+	SurvivalGuide_Joypad_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 角色控制 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来, 并且学习基础知识, 你就活不了多久.",
+	SurvivalGuide_Joypad_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在PZ中, 使用 <JOYPAD:LStick,28,28>来移动. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
+                                    "<LINE> <H1> 战斗 <BR> <TEXT>想要攻击僵尸, 你需要先按住 <JOYPAD:RStick,28,28> 来瞄准, 再点击 <JOYPAD:RTrigger,28,28> 攻击. 如果没有配备武器，你只能推搡(在装备了武器的情况下, 你也可以点击 <JOYPAD:LTrigger,28,28> 来推搡). 有关战斗的更多信息, 参见本指南的第 3 页. <BR> "..
+                                    "<LINE> <H1> 状态 <BR> <TEXT> 有时右上角会出现一些图标, 他们显示了角色的一些状态, 将鼠标光标停在图标上可以获取更多详细信息. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+                                    "<LINE> <H1> 手柄控制 <BR> <TEXT> 你可以单击 <JOYPAD:AButton,28,28> 与周围物品进行互动, 例如, 你可以点击门窗来打开或关闭门窗, 点击橱柜来查看橱柜中有哪些可以收集的物资. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 按下 <JOYPAD:RStick,28,28> 可以让你环顾四周或瞄准. 使用 <JOYPAD:YButton,28,28> 打开你的物品栏, 使用 <JOYPAD:DPad,28,28> 用于导航,  <JOYPAD:LBumper,28,28> 和 <JOYPAD:RBumper,28,28> 在你的物品栏和其他容器间切换. <BR>"..
+                                    "<LINE> <H1> 健康 <BR> <TEXT> 按 <JOYPAD:Back,28,28> 查看你的健康状况, 从这里你可以进行伤口急救 - 或检查可怕的咬痕. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+                                    "<LINE> <H1> 门和窗 <BR> <TEXT> 按 <JOYPAD:AButton,28,28> 可以将窗口打开或关闭, 按 <JOYPAD:BButton,28,28>时,  如果窗户已经打开 (或被打碎), 则可以爬过去. 按住 <JOYPAD:BButton,28,28> 打碎窗户 - 在紧急情况下很有用, 但要小心残留的碎玻璃. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+                                    "<LINE> <H1> 翻越 <BR> <TEXT> 按 <JOYPAD:BButton,28,28> 可以翻越栅栏. 你还可以通过慢跑或冲刺来自动翻越栅栏 (参见第 2 页了解更多信息). <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+                                    " <LINE> <H1> 交互菜单 <BR> <TEXT> 可以通过按 <JOYPAD:XButton,28,28> 调出更详细的交互菜单. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+                                    " <LINE> <H1> 时间 <BR> <TEXT> 想让游戏中时间加速(非单人游戏中), 可以按 <JOYPAD:Back,28,28> 使用环形菜单来加速. 你可以使用控制快进来使得你静止不动或快速执行动作(如阅读或建造). 你也可以在搜刮储藏点后, 使用暂停来思考之后的行动. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+                                    "<LINE> <H1> 地图 <BR> <TEXT> 按住 <JOYPAD:DPadRight,28,28> 打开你的地图. 当你在世界各地移动时, 你的地图会显示更多内容. 你可能还会在右下角有一个小地图. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+                                    -- ///<LINE> <H1> 放置物品 <BR> <TEXT> 右键单击大多数物品栏物品以获得"放置物品"选项. 这将允许你将物品放置在容器外的任何位置(较大的可移动世界物品, 如家具也可以使用左上角的"可移动物品"选项拾取和放置. 有关更多信息, 请参阅本指南的第 5 页). 记得保持整齐整洁! <BR>///
+                                    "<H1> 不要死 <BR> <TEXT> 任何时候都尽量不要死. <BR>",
 
+	SurvivalGuide_Joypad_entrie2title = "#2 - 隐秘行动",
+	SurvivalGuide_Joypad_entrie2txt = " <CENTRE> "<SIZE:medium> #2 - 隐秘行动 <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png> <LINE> <BR> 使用 RT 进行慢跑, 使用 B 进行冲刺, 但要小心!",
+	SurvivalGuide_Joypad_entrie2moreinfo = " <H1> 僵尸感知 <BR> <TEXT> 僵尸会对视线和声音做出反应. 要极其警惕警报器、警报和枪声等响亮的噪音, 因为附近的僵尸群肯定会来到这里. <LINE> <BR>"..
+                                    "<H1> 奔跑 <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png> <TEXT> <LINE> 使用 <JOYPAD:RTrigger,28,28> 进行慢跑, 使用 <JOYPAD:BButton,28,28> 进行冲刺. 冲刺时会产生较大的脚步声音, 让你更引人注目. 你可以在一段时间内跑进僵尸的视线死角躲起来, 但这不是永远."..
+                                    " <BR> <H1> 蹲下 <BR> <IMAGECENTRE:media/ui/spiffo/crouch.png> <TEXT> <LINE> 你可以通过使用 <JOYPAD:LStick,28,28> 蹲下来降低他们发现你的可能, 然后蹲在墙壁和栅栏旁边以进一步降低自己被发现的可能 (注意你的角色在掩体时蹲下更低). 你也可以在这种状态下慢跑. <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png> <LINE>" ..
+                                    " PZ 不是赛跑游戏, 僵尸们追着你也不是想要你的签名, 他们伸起双手也不是要拥抱你 - 它们只想吃掉你. <BR>",
+
+	SurvivalGuide_Joypad_entrie3title = "#3 - 精准打击",
+	SurvivalGuide_Joypad_entrie3txt = " <CENTRE> "<SIZE:large> #3 - 精准打击! <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png> <LINE> <SIZE:medium> 持续攻击直到你听到头骨的破碎声!",
+	SurvivalGuide_Joypad_entrie3moreinfo = " <H1> 战斗机制 <BR> <TEXT> 每把武器都能造成一定的伤害. 但是, 它的威力和精度取决于你的技能和你对武器的熟悉程度."..
+                                    " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png> <LINE> <TEXT> 使用 <JOYPAD:RStick,28,28> 瞄准, 使用 <JOYPAD:RTrigger,28,28> 攻击. 重新装填弹药点击 <JOYPAD:RBumper,28,28> 装填武器的弹药/弹匣, 当武器卡壳时使用 <JOYPAD:AButton,28,28> 清除卡壳. 低耐久度枪械会更容易卡壳. <BR> <LINE> 瞄准轮廓默认情况下只出现在枪械上. 红色轮廓表示命中率低, 绿色表示命中率高. 要同时打开近战武器的瞄准轮廓, 或完全关闭瞄准轮廓, 请按两次菜单按钮打开主菜单找到瞄准轮廓进行设置. <LINE>"..
+                                    " <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/aimingoutlines.png> <LINE> 像黄油刀等这类短武器可以在极近的距离内秒杀僵尸, 但对黄油刀期望太多是非常危险的. <BR> <IMAGECENTRE:media/ui/tutimages/combatknife.png> <LINE> "..
+                                    " <H2> 倒地追击 <BR> <TEXT> 杀死一个僵尸的最好方法是推搡它们直至倒地, 然后击打他们的脑袋. <BR> <IMAGECENTRE:media/ui/tutimages/combatknockdown.png> <LINE> 僵尸可以被攻击或推搡击倒. 在攻击范围内没有其他站立僵尸的情况下, 你将触发倒地追击. <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png> <LINE> <BR> 你也可以在击倒的僵尸旁边按 <JOYPAD:LTrigger,28,28> 来踩踏他们. 来踩踏他们. 记住瞄准头部. 踩踏僵尸的腿永远不会杀死他们, 而且看起来很傻. <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png> <LINE> <BR>  ",
+
+	SurvivalGuide_Joypad_entrie4title = "#4 - 求水之路",
+	SurvivalGuide_Joypad_entrie4txt = " <CENTRE> "<SIZE:large> #4 - 求水之路 <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png> <LINE> <SIZE:medium> 干净的水对你的持续生存至关重要.",
+	SurvivalGuide_Joypad_entrie4moreinfo = " <H1> 水源 <BR> <TEXT> 供水系统就像电力一样, 不会取之不尽. 如果你不想因缺水而渴死的话, 请储备好水... <BR> 你的角色会自动从你物品栏中的任何容器中喝水. <BR> 要喝水或装水, 只需在游戏中任何提供水的家具/物品上使用 <JOYPAD:XButton,28,28> 菜单. 例如水槽、浴缸、水龙头...这些东西. <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png> <LINE> 你也可以通过用平底锅等容器放在雨中、或河流中收集喝水, 也可以建造一个木制雨水收集桶. <BR> 但这样获取的水是被污染的, 必须煮沸才能安全饮用, 被污染的水可以安全地用于浇灌庄稼或洗衣服. <BR>",
+
+	SurvivalGuide_Joypad_entrie5title = "#5 - 建造达人",
+	SurvivalGuide_Joypad_entrie5txt = " <CENTRE> "<SIZE:large> #5 - 建造达人 <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png> <LINE> <SIZE:medium> 僵尸们在抓挠门窗! 最佳建议: 加固门窗!",
+	SurvivalGuide_Joypad_entrie5moreinfo = " <H1> 物品制作 <BR> <TEXT> 要制作列表的物品, 只需按 <JOYPAD:AButton,28,28> 打开制作菜单即可. <BR> <IMAGECENTRE:media/ui/tutimages/craftingrecipe.png> <LINE> 你可以用它制作任何可制作的物品, 以及你携带的东西, 都会神奇地展示出来! <BR> 烹饪、木工、医疗和生存等一系列技巧将让你在世界末日中占据优势. <BR> <H1> 加固 <BR> <TEXT> 你可以在窗户前使用 <JOYPAD:XButton,28,28> 打开菜单加固窗户. 你需要在物品栏中使用锤子、木板和钉子来设置木板, 或者使用丙烷焊枪、焊接面罩, 来焊接金属板. <BR> <IMAGECENTRE:media/ui/tutimages/barricademenu.png> <IMAGECENTRE:media/ui/tutimages/barricaded.png> <LINE> <H1> 木工和金属加工 <BR> <TEXT> 当你找到资源并变得更有能力时, 你可以建造建筑. 对于木制建筑, 你必须有一把锤子, 而金属结构需要丙烷焊枪、焊接面罩, 而对于大多数金属制品, 则需要焊条. 只需按 <JOYPAD:XButton,28,28> 获得更多建筑菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carpentrymenu.png> <LINE> 从这里你可以看到所能建筑的家具. <BR> 选择后, 你将看到建筑的透明表示, 然后你可以在世界各地移动, 按 <JOYPAD:AButton,28,28>放置. <BR> <IMAGECENTRE:media/ui/tutimages/placewall.png> <LINE> 这个过程并不快, 因为墙壁必须分阶段建造. PZ 是一款专注于现实主义的游戏, 如果你有过建筑知识, 你就会知道这些事情需要时间. (请注意, 如果有帮助, 我们确实允许你在游戏中制作心仪的东西). 你可以在放置前按住 <JOYPAD:LBumper,28,28> 或 <JOYPAD:RBumper,28,28>拖动. <BR> <IMAGECENTRE:media/ui/tutimages/wallbuilt.png> <LINE> 记住:你制作的越多, 你就会变得越强. 更高的技能水平意味着更好的质量, 以及更有用的物品. <BR> "..
+                                    "<BR> <LINE> <H1> 搬运家具 <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/movables.png> <BR> <TEXT> 这个世界大多数家具和静态物体都可以搬运. 只需按 <JOYPAD:Back,28,28> 选择菜单中的木制储物柜, 即可拾取世界物品, 旋转物品, 或将其分解. 按住 <JOYPAD:LBumper,28,28> 改变家具朝向. <BR> 搬运物体可能需要工具与最低技能等级才可能成功. 移动物体可能是快速封锁基地的有效方法 (将物品放在门窗前), 或将冰箱或板条箱等有用物品移至新位置. <BR>",
+
+	SurvivalGuide_Joypad_entrie6title = "#6 - 防止偷窥",
+	SurvivalGuide_Joypad_entrie6txt = " <CENTRE> "<SIZE:large> #6 - 防止偷窥 <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png> <LINE> <SIZE:medium> 它们或许死了, 但他们仍然可以透过窗户看你. <LINE> 没有窗帘? 找类似物品替代吧. ",
+	SurvivalGuide_Joypad_entrie6moreinfo = " <H1> 挡住他们的视线 <BR> <TEXT> 僵尸世界末日中最常见的错误之一就是拉开窗帘. 忘记拉上窗帘会导致僵尸在花园小路看到你, 然后就会过来吃掉你的大脑. <BR> 要关闭窗帘或百叶窗:使用 <JOYPAD:XButton,28,28> 打开菜单. <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png> <LINE> 加固过的窗户也会让僵尸无法透过窗户看到你. <BR> 如果窗户没有窗帘, 又没有多余的木板, 或许你可以找点类似物品? 好好想想, 然后试试吧. <BR>",
+
+	SurvivalGuide_Joypad_entrie7title = "#7 - 美味佳肴",
+	SurvivalGuide_Joypad_entrie7txt = " <CENTRE> "<SIZE:large> #7 - 美味佳肴 <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png> <LINE> <SIZE:medium> 食物中毒并不好玩, 尤其是在末日期间. <LINE> <LINE> 一顿热腾腾的饭菜会对你有很大的帮助.",
+	SurvivalGuide_Joypad_entrie7moreinfo = " <H1> COOKING <BR> <TEXT> 肉类、鱼类和许多生食需要在进食前烹饪. 除了能降低食物中毒的风险外, 准备好的饭菜更令人满意、更有营养, 并且可以更长时间地避免饥饿. <BR> <IMAGECENTRE:media/ui/tutimages/cookingsoup.png> <LINE> <TEXT> 要烹饪食物, 只需将其放入电炉或微波炉中 - 如果你逃离了城镇, 也可以放在营火中. <BR> <IMAGECENTRE:media/ui/tutimages/cookingoven.png> <LINE> 使用 <JOYPAD:AButton,28,28> 打开电器, 烤好后从物品窗口中取出烘焙食品. 完成后记得关闭电器, 除非你也想把整个房子都做成饭. 古董炉灶、壁炉和营火需要燃料, 所以记得储备木头 (或者书籍, 如果你不识字的话). <BR> <IMAGECENTRE:media/ui/tutimages/cookedsoup.png> <LINE> "..
+                                    " <H1> 耕作 <BR> <TEXT> 要自己种植食物, 只需找一把泥铲和一些种子. 犁土并撒播, 再浇水, 你的努力劳作很快就可让你实现温饱. <BR> <IMAGECENTRE:media/ui/tutimages/farming.png> <LINE> "..
+                                    " <H1> 搜寻 <BR> <TEXT> 使用 <JOYPAD:Back,28,28> 菜单中的眼睛图标找到浆果、石头、木棍和其他更有用的物品. <BR> 当"眼睛"图标出现在你的头顶时, 你可以通过往正确的方向走直到物品显示在搜寻半径中. 搜寻半径会根据你的技能等级、你的位置、该区域的光照水平等进行变化. 了解更多信息关于搜寻, 请参阅本指南的第 11 页, 或单击搜寻窗口左上角的信息图标. <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png> <LINE> <TEXT> ",
+
+	SurvivalGuide_Joypad_entrie8title = "#8 - 囤积物资",
+	SurvivalGuide_Joypad_entrie8txt = " <CENTRE> "<SIZE:large> #8 - 囤积物资 <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png> <LINE> <SIZE:medium> 快速有效地管理物品栏!",
+	SurvivalGuide_Joypad_entrie8moreinfo = " <H1> 选择 <BR> <TEXT> 如何在 PZ 中翻找、拿取、放置和使用? 使用 <JOYPAD:YButton,28,28> 打开你的物品栏, 并使用方向键选择. <JOYPAD:LBumper,28,28> 和 <JOYPAD:RBumper,28,28> 用来在不同物品中切换(你的物品栏或其他容器), 使用 <JOYPAD:XButton,28,28> 将物品转移到你的物品栏中. <BR> <IMAGECENTRE:media/ui/tutimages/invrbtnselect.png> <LINE> " ..
+                                    " 如果你必须拿取全部东西, 也可以点击 <JOYPAD:AButton,28,28> 菜单中的 ‘全部拿取’. <LINE> "..
+                                    " <BR> <H1> 包的荣耀 <BR> <TEXT> 包很重要. 它们可以帮助你携带更多东西. <BR> 装备一个包将你的物品扔进去: 按<JOYPAD:AButton,28,28> 菜单并选择将其装备到你的主手上, 副手或在你的背上. "..
+                                    " <BR> 然后你会在你的物品栏中看到装备好的包, 你可以将你的战利品拖放到里面. 最重要的是, 装备的包会减轻物品重量, 这样你就可以携带更多, 但要小心:如果你包里有很多东西, 它仍然会减慢你的移动速度. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
+                                    " <H1> 环形菜单 <BR> <TEXT> 按 <JOYPAD:Back,28,28> 可以打开一个环形菜单, 让你可以访问如健康, 家具移动模式, 搜寻等菜单! 使用 左方向键 打开你的武器菜单，快速装备你物品栏中的任何武器. 使用 左方向键 打开你的表情轮. 向朋友问好, 或给你最喜欢的僵尸竖起大拇指!",
+
+    SurvivalGuide_Joypad_entrie9title = "#9 - 交通工具",
+    SurvivalGuide_Joypad_entrie9txt = " <CENTRE> "<SIZE:large> #9 - 交通工具 <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png> <LINE> <SIZE:medium> 车辆会给你带来生存优势, 但也带来噪音! <BR>  一个高速运转的引擎会吸引远方的尸群...",
+    SurvivalGuide_Joypad_entrie9moreinfo = " <H1> 进入车辆 <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png> <LINE> <TEXT> 如果幸运的话, 一个健忘的车主可能会把钥匙留在门上, 钥匙孔或手套箱. 还可以 搜索附近的僵尸, 其中一个或许就是车主. 同样, 如果车辆停在房子外面, 请搜索房屋. 钥匙可能在里面. <BR> 这样不酷? 那么选择盗车飞车? 砸车窗并解锁车门. 如果你有足够高的技工和电工技能, 你就可以短接车辆. <BR> " ..
+                                    " <H1> 驾驶时间 <BR> <TEXT> 使用 <JOYPAD:RTrigger,28,28> 插入钥匙并启动你的引擎. <BR>如果汽车的发动机状态不高, 它可能不会一次启动. 如果它始终无法启动, 车可能没油了, 是时候检查一下车辆信息了... <BR> 小心驾驶!汽车的引擎声音越大, 吸引附近僵尸的半径就会越大, 僵尸会被惊动并开始跟随引擎噪音...  <BR> " ..
+                                    " <H1> 车辆信息 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/cardashboard.png> <LINE> 在车辆的仪表板上, 你可以看到有用的信息读数, 例如燃油辆、速度和档位. <BR> 仪表板顶部的图标还会告诉你发动机状态、后备箱是否开启、大灯是否工作等等. <BR> " ..
+                                    " <H1> 车辆菜单 <BR> <TEXT> 如果你在车辆内部或旁边, 请点击 <JOYPAD:DPadUp,28,28> . 这将打开其互动菜单. <BR> <IMAGECENTRE:media/ui/tutimages/carradialmenu.png> <LINE> 从这里你可以切换座位、锁门、操作灯、打开车辆信息等等. <BR> " ..
+                                    " <H1> 车辆检查 <BR> <TEXT><IMAGECENTRE:media/ui/tutimages/carmechanics.png> <LINE> 没有经验的幸存者可以检查他们的电池是否有电, 查看燃料水平, 并注意某些部分是否出现损坏. 技工技能较高的幸存者将能够看到额外的细节, 并安装和拆卸零件. <BR> 有关此和技工技能的更多信息, 请单击技工左上角的信息图标窗口. <BR>",
+
+    SurvivalGuide_Joypad_entrie10title = "#10 - 气候无常",
+    SurvivalGuide_Joypad_entrie10txt = " <CENTRE> "<SIZE:large> #10 - 气候无常 <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png> <LINE> <SIZE:medium> 请记住, 衣服不仅仅是防风用的...",
+    SurvivalGuide_Joypad_entrie10moreinfo = "<H1> 气候变化 <BR> <TEXT> 气候系统会制造雨, 雪,雾和雷暴等天气, 并且拥有跟现实世界一样的四季. 请穿对衣服, 使得冬暖夏凉, 记得保持良好状态! <LINE> " ..
+                                      " <BR> <IMAGECENTRE:media/ui/tutimages/groundsnow.png> <LINE> 温度会影响你的生存. 如果你饮食充足, 体力充沛并穿着冬装, 那么冬天不会变的那么可怕, 但是衣服潮湿或疾病在冬天依然是非常大的威胁. <LINE> " ..
+                                      " 在极端寒冷天气下, 最好使用取暖设备进行取暖: 壁炉, 汽车暖气和室外篝火都可以取暖. <LINE> "..
+                                      " 在极端炎热天气下, 最好随身携带充足的饮水, 同时请尽量穿着夏装. <LINE> <BR>" ..
+                                      " <H2> 知晓温度 <BR> <TEXT> 戴上电子手表会在你设定的 UI 位置显示温度. <LINE> <BR> " ..
+                                      " <H2> 寒风 <BR> <TEXT> <IMAGECENTRE:media/ui/tutimages/weatherrain.png> <LINE> 在户外, 尤其是在冬季, 会让你感到寒冷. 大雨或暴风雪形成强风和低温的组合, 会严重降低你的体温. <LINE> <BR> " ..
+                                      " <IMAGECENTRE:media/ui/tutimages/windchillmoodle.png> <LINE> 寒风会影响你的体温, 但不会在你的数字手表上显示直接的温度差异. 密切注意你的体温可以及时得知寒风是否在影响你. <LINE> <BR> "<H1> 防护衣物 <BR> <IMAGECENTRE:media/ui/spiffo/clothingprotection.png> <LINE> <TEXT> 穿着合适的衣服可以保护你免受咬伤、划伤和撕裂. 使用 <JOYPAD:Back,28,28> 打开的你角色页面 并按 <JOYPAD:RBumper,28,28> 切换到服装保护面板可以查看幸存者当前保护概率. <BR> 你可以使用适当的材料和缝纫技能修复衣服上的破洞, 甚至可以添加填充物以增加保护. 在物品栏选择你需要缝补的衣服并按 <JOYPAD:AButton,28,28> 打开菜单选择"检查". 只需确保你的物品栏中有合适的织物条以及针和线即可. <LINE> <BR> <IMAGECENTRE:media/ui/spiffo/tailoring.png> <BR>" ..,
+
+    SurvivalGuide_Joypad_entrie11title = "#11 - 搜寻物品",
+    SurvivalGuide_Joypad_entrie11txt = " <CENTRE> "<SIZE:large> #11 - 搜寻物品 <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> 世界上到处都是有用的东西, 如果你善于发现的话! <LINE> <LINE> 浆果, 蘑菇, 石头... 谁知道你会发现什么?",
+    SurvivalGuide_Joypad_entrie11moreinfo = " <H1> 搜寻系统 <BR> " ..
+                                     " <TEXT> <SIZE:small>" ..
+                                     " 调查区域窗口可以显示你所在区域. 这会影响可以找到的物品." ..
+                                     " 将鼠标悬停在窗口上可以看到所在区域的物品类别/概率." ..
+                                     " 如果你看到 ????? , 那么就找不到任何有用的东西了. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+                                     " 要开始搜寻, 请按 <JOYPAD:Back,28,28> 打开菜单选择启用 搜寻模式. 搜寻半径将出现. 这是你的幸存者可以发现物品的区域. <LINE> <LINE>" ..
+                                     " 当幸存者发现物品时时会出现一个指向箭头. 当你的角色靠近时会出现一个眼睛图标, 并可以准确地看到它. <LINE> <LINE>" ..
+                                     " 使用 <JOYPAD:XButton,28,28> 来拾取一个物品. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 搜寻技巧 <TEXT> <BR> " ..
+                                     " 环顾四周 (通过瞄准)和蹲下都会增加搜寻半径. 黑暗、恶劣天气、技能、物品大小和负面情绪 (压力、伤疼等)都会影响物品的可见性. <LINE> <LINE> " ..
+                                     " <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+                                     " <SIZE:medium> <CENTRE> 重要! <TEXT> <BR> " ..
+                                     " 请注意物品出现的区域!" ..
+                                     " 例如, 垃圾堆中经常发现垃圾, 道路裂缝和坑洼中经常发现碎石等等. <LINE> <LINE> ",}

@@ -9871,13 +9871,13 @@
 	f39b90b5-3046-47bd-a98e-2f77f08d6e06 = Вам надоело постоянно видеть кислые лица соседей?
 
 	//3287. ORIGINAL: You need a wall in there: a big one.
-	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = Ну так постройте стену. Большую.
+	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = Ну так постройте стену. Большую. Но для начала, нам нужна рама для стены!
 
 	//3288. ORIGINAL: Three nails, three planks... take that hammer and...
-	7e755ce2-145c-411c-8d8c-4c3022454141 = Три гвоздя, три доски… взяли молоток в руки и...
+	7e755ce2-145c-411c-8d8c-4c3022454141 = Доска, гвоздь и чуть-чуть усилий...
 
 	//3289. ORIGINAL: That there's a piece of wall.
-	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = Вот и стена.
+	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = А теперь стена. Две доски, четыре гвоздя...
 
 	//3290. ORIGINAL: Neat huh?
 	1b3090b7-2c5f-488a-bcb8-4ee536f59520 = Прикольно, да?
@@ -10507,7 +10507,7 @@
 	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = Йи-и-ха! Так что же нам понадобится?
 
 	//3499. ORIGINAL: Eight planks! Eight nails and an A-D-Vanced knowledge of Car-pen-try!
-	781b56bf-9b2e-455e-9b03-6540c5542ae8 = Восемь досок! Восемь гвоздей! И ПРО-двинутое стро-и-тель-ство!
+	781b56bf-9b2e-455e-9b03-6540c5542ae8 = Пятнадцать досок! Пятнадцать гвоздей! И ПРО-двинутое стро-и-тель-ство!
 
 	//3500. ORIGINAL: Gonna need some more over...Here...
 	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Еще буквально чуточку здесь, и...
@@ -10921,13 +10921,13 @@
 	9c31b20e-aa58-41d3-9075-2720b980a89a = [img=music] Бойкая музыка. [img=music]
 
 	//3637. ORIGINAL: 3rd December 1992. Personal diary of Albert Wellen QC.
-	434d45c0-832f-4c84-8ee8-f2839bb8e023 = Личный дневник Альберта Уэлена, СК. 3-е Декабря 1992 года.
+	434d45c0-832f-4c84-8ee8-f2839bb8e023 = Личный дневник Альберта Уэлена, королевского адвоката. 3-е Декабря 1992 года.
 
 	//3638. ORIGINAL: Life's rather tricky when you're 17.
 	fe78c652-284c-4ed1-b16d-15a3fded56ab = Жизнь странная штука, особенно когда тебе 17.
 
 	//3639. ORIGINAL: Life's even trickier when you're a Queen's Counsel in the British Judicial System.
-	3eecc27d-b503-4623-a63e-c0e089d328ac = Жизнь ещё более странная, когда ты являешься советником королевы в Британской Судебной Системе.
+	3eecc27d-b503-4623-a63e-c0e089d328ac = Жизнь ещё более странная, когда ты являешься королевским адвокатом в Британской Судебной Системе.
 
 	//3640. ORIGINAL: I've learned rather a lot of tough lessons today.
 	612026be-3c5f-40de-b75e-2b0973d05b97 = Я сегодня получил несколько тяжелых уроков...
@@ -11065,7 +11065,7 @@
 	a7457af3-6894-402d-84ad-d187a6f886ad = Возражение!
 
 	//3685. ORIGINAL: My Lord, the Queens Counsel is only seventeen!
-	4ecaae6a-42c3-493a-88a1-41e1901ac8bd = Милорд, Советнику Королевы всего семнадцать лет!
+	4ecaae6a-42c3-493a-88a1-41e1901ac8bd = Милорд, Королевскому Адвокату всего семнадцать лет!
 
 	//3686. ORIGINAL: Overruled!
 	53c9f3ad-f471-425e-a1b0-a02d6471ce79 = Отклонено!
@@ -11248,7 +11248,7 @@
 	c2a827ed-51db-4095-a45c-dd9130fd9fe4 = Но, если посмотреть на это как на… квадратное уравнение.
 
 	//3746. ORIGINAL: Ah, so you deigned to join us Mr Wellen QC?
-	01cea554-0ffc-400a-b055-e9d57908a7ab = О-о-о, Мистер Уэлен СК соизволил присоединиться к нам!
+	01cea554-0ffc-400a-b055-e9d57908a7ab = О-о-о, королевский адвокат Мистер Уэлен соизволил присоединиться к нам!
 
 	//3747. ORIGINAL: I'm so sorry sir. I was needed in court.
 	dff451e9-f2e1-47dd-9ffc-0209f0b0667a = Извините, сэр. Меня вызвали в суд.
@@ -11284,7 +11284,7 @@
 	28f9c8a0-b521-48a5-8699-4140f9f38d41 = Зато он находит время со мной видеться.
 
 	//3758. ORIGINAL: He doesn't always dash off to be... Queens Counsel.
-	b4714cfe-fa61-44ed-91af-bb0dfc7e4bcb = Ему не приходится постоянно сбегать чтобы … быть Советником Королевы.
+	b4714cfe-fa61-44ed-91af-bb0dfc7e4bcb = Ему не приходится постоянно сбегать чтобы … быть Королевским Адвокатом.
 
 	//3759. ORIGINAL: But, the British judicial system...
 	fb90d1ac-f8b1-40e0-bafa-9a601efd9148 = Но Британская Судебная Систе--...
@@ -12439,7 +12439,7 @@
 	67954a71-68b3-4c54-9418-060d16da83a3 = В бой!
 
 	//4143. ORIGINAL: Pancake the Hedgehog? Her eyes are so bright and so blue!
-	220d0778-0ed7-4556-bceb-03acac66f149 = Ёжик Оладья? У него такие светло-голубые глаза!
+	220d0778-0ed7-4556-bceb-03acac66f149 = Ёжик Блинчик? У него такие светло-голубые глаза!
 
 	//4144. ORIGINAL: Playing chess?
 	38ec0caf-e48c-4295-b317-f3b06ebda84c = Игра в шахматы?
@@ -12451,10 +12451,10 @@
 	962179d2-8853-4b39-b5b3-ecd4cc15f794 = Испытывать свои способности и помнить правила!
 
 	//4147. ORIGINAL: Don't dance on the chessboard Pancake!
-	6119c7d2-f626-4fe0-8f77-6d3af56bc8e8 = Оладья, не танцуйте на шахматной доске!
+	6119c7d2-f626-4fe0-8f77-6d3af56bc8e8 = Блинчик, не танцуй на шахматной доске!
 
 	//4148. ORIGINAL: Goodnight Pancake.
-	091bd276-fc5f-4e9a-a0f7-f7147d5eec6d = Спокойной ночи, Оладья.
+	091bd276-fc5f-4e9a-a0f7-f7147d5eec6d = Спокойной ночи, Блинчик.
 
 	//4149. ORIGINAL: Hey Joel, what are you playing?
 	13aabdde-68ea-42a9-8f8d-c192d867e6ea = Привет Джоэл, во что ты играешь?
