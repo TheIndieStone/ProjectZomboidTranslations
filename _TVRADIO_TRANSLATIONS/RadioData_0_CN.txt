@@ -9133,7 +9133,7 @@
 	68864e7b-853e-47ad-adc5-c672c9482df5 = 伙计们, 让我们直接连线现场记者, 理查德·格什温.
 
 	//3041. ORIGINAL: I've... I've been attacked. Bitten.
-	69ca6ea7-98a9-4c1f-a728-82a54eba199b = 我…… 我被攻击了, 被咬了.
+	69ca6ea7-98a9-4c1f-a728-82a54eba199b = 我... 我被攻击了, 被咬了.
 
 	//3042. ORIGINAL: This huge wave of...
 	c0ddc352-c0f8-4c76-8306-25613171f690 = 这是一大波...
