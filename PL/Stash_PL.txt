@@ -34,7 +34,7 @@ Stash_PL = {
     Stash_LVMap8_Text2 = "pospiesz się z tymi lekami, Diego",
     Stash_LVMap8_Text3 = "SĄ TU WSZĘDZIE, NIE IDŹ TAM",
 
-    Stash_LVMap9_Text1 = "broń i żarcie w dalszej stajni - bądźcie ostrożni!",
+    Stash_LVMap9_Text1 = "broń i żarcie w dalszej stajni – bądźcie ostrożni!",
     Stash_LVMap9_Text2 = "nie zgubcie się w lesie",
     Stash_LVMap9_Text3 = "tam też są ci zarażeni",
 
@@ -88,7 +88,7 @@ Stash_PL = {
     Stash_MulMap2_Text1 = "tu to zostawiłem dla ciebie",
     Stash_MulMap2_Text2 = "magazyn",
     Stash_MulMap2_Text3 = "zeszli się tutaj z całej okolicy",
-    Stash_MulMap3_Text1 = "strzelba z amunicją - ukryta, gdyby ktoś szukał",
+    Stash_MulMap3_Text1 = "strzelba z amunicją – ukryta, gdyby ktoś szukał",
     Stash_MulMap3_Text2 = "Narzędzia i klamoty",
     Stash_MulMap3_Text3 = "sporo tutaj",
     Stash_MulMap4_Text1 = "łatwiejsze rozwiązanie",
@@ -254,7 +254,7 @@ Stash_MulMap18_Text12 = "oby cała jego broń wciąż tam była",
 
     Stash_RiversideStashMap9_Text1 = "tu czeka na nas Tony",
     Stash_RiversideStashMap9_Text2 = "benzyna",
-    Stash_RiversideStashMap9_Text3 = "D został ugryziony, ale lekko - potrzebujemy antybiotyków na wszelki wypadek",
+    Stash_RiversideStashMap9_Text3 = "D został ugryziony, ale lekko – potrzebujemy antybiotyków na wszelki wypadek",
 
     Stash_RiversideStashMap10_Text1 = "bank", 
     Stash_RiversideStashMap10_Text2 = "Nie zapomnij o zapasowej broni", 
@@ -266,7 +266,7 @@ Stash_MulMap18_Text12 = "oby cała jego broń wciąż tam była",
     Stash_RosewoodStashMap2_Text3 = "tu był koniec",
     Stash_RosewoodStashMap3_Text1 = "Znalazłam trochę sprzętu, dzięki któremu ufortyfikujemy jakieś miejsce i przeczekamy.",
     Stash_RosewoodStashMap3_Text11 = "Stary dom mamy. Tu się spotkamy x",
-    Stash_RosewoodStashMap3_Text2 = "tu może być broń - tak na wszelki wypadek",
+    Stash_RosewoodStashMap3_Text2 = "tu może być broń – tak na wszelki wypadek",
     Stash_RosewoodStashMap3_Text3 = "tędy nie idź",
 
     Stash_RosewoodStashMap4_Text1 = "Zostawiłem tu trochę sprzętu na ewakuację",
@@ -297,7 +297,7 @@ Stash_WorldMap5_Text11 = "Zanim tam wejdziesz, sprawdź, czy nikt Cię nie obser
 Stash_WorldMap5_Text12 = "i nie zapomnij spalić tej mapy!!",
 
 Stash_WorldMap6_Text1 = "przydatny towar",
-Stash_WorldMap6_Text2 = "do przeszukania - za duży, żeby zabezpieczyć",
+Stash_WorldMap6_Text2 = "do przeszukania – za duży, żeby zabezpieczyć",
 Stash_WorldMap6_Text3 = "Andy",
 
 Stash_WorldMap7_Text1 = "tu zatankujcie",
@@ -318,10 +318,10 @@ Stash_WorldMap10_Text2 = "SKLEP Z CIUCHAMI",
 Stash_WorldMap10_Text3 = "RESTAURACJA SPIFFO'S",
 Stash_WorldMap10_Text4 = "SAMOCHODY",
 
-Stash_WorldMap11_Text1 = "Antena nr 3 na wieży nr 2 - traci sygnał na paśmie 6 GHz - problem z zasilaniem",
+Stash_WorldMap11_Text1 = "Antena nr 3 na wieży nr 2 – traci sygnał na paśmie 6 GHz – problem z zasilaniem",
 Stash_WorldMap11_Text11 = "Niech centrala sprawdzi to później z Lexingtonem",
 
-Stash_WorldMap12_Text1 = "DUŻE pole wypoczynkowe - wszystko, czego potrzebujemy (poza lekami dla Jane)",
+Stash_WorldMap12_Text1 = "DUŻE pole wypoczynkowe – wszystko, czego potrzebujemy (poza lekami dla Jane)",
 Stash_WorldMap12_Text11 = "trzeba oczyścić teren, ale jest tam kominek oraz dużo jedzenia i łóżek"
 Stash_WorldMap12_Text2 = "NIEBEZPIECZEŃSTWO: centrum handlowe na północ, setki zainfekowanych"
 

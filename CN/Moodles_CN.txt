@@ -213,7 +213,7 @@ Moodles_CN = {
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "感觉有点冷...",
 	Moodles_hypothermia_desc_lvl2 = "得想点办法保暖.",
-	Moodles_hypothermia_desc_lvl3 = "还活着.真的太冷了."
+	Moodles_hypothermia_desc_lvl3 = "还活着.真的太冷了.",
 	Moodles_hypothermia_desc_lvl4 = "身心都已被寒冷占据.",
     -- Windchill
     Moodles_windchill_desc_lvl1 = "感觉气温降低了5到10度.",
@@ -221,6 +221,6 @@ Moodles_CN = {
     Moodles_windchill_desc_lvl3 = "感觉气温降低了15到20度.",
     Moodles_windchill_desc_lvl4 = "感觉气温降低了20度以上.",
     -- CantSprint
-    Moodles_CantSprint = "行动能力受限"
-    Moodles_CantSprint_desc = "厚重的衣服,笨重的袋子或大件物品让你慢下来!"
+    Moodles_CantSprint = "行动能力受限",
+    Moodles_CantSprint_desc = "厚重的衣服,笨重的袋子或大件物品让你慢下来!",
 }

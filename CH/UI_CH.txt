@@ -1059,7 +1059,7 @@ UI_CH = {
     UI_ServerOption_Password_tooltip = "客戶端必須知道此密碼才能加入伺服器. (若用主持按鈕主持伺服器時忽略) ",
     UI_ServerOption_PauseEmpty_tooltip = "沒有玩家在線上時暫停遊戲時間流動",
     UI_ServerOption_GlobalChat_tooltip = "切換全域聊天開關. ",
-    UI_ServerOption_ServerWelcomeMessage_tooltip = "聊天面板第一個顯示的歡迎訊息. 這會在玩家加入後馬上顯示. 你可以使用 RGB 色碼來改變歡迎訊息的顏色. 你也可以使用 <LINE> 來換行. 使用: <RGB:1,0,0> 此訊息將會顯
+    UI_ServerOption_ServerWelcomeMessage_tooltip = "聊天面板第一個顯示的歡迎訊息. 這會在玩家加入後馬上顯示. 你可以使用 RGB 色碼來改變歡迎訊息的顏色. 你也可以使用 <LINE> 來換行. 使用: <RGB:1,0,0> 此訊息將會顯示成紅色! ",
     UI_ServerOption_Mods_tooltip = "在此輸入模組載入 ID. 可以在 \Steam\steamapps\workshop\modID\mods\模組名稱\info.txt 內找到",
     UI_ServerOption_Map_tooltip = "輸入在 \Steam\steamapps\workshop\modID\mods\模組名稱\media\maps\ 內的模組的資料夾名稱",
     UI_ServerOption_MaxPlayers_tooltip = "伺服器線上玩家的數量限制. 不包含管理員. <br>警告: 若伺服器同時有超過 32 名玩家在線上, 可能會造成地圖串流效能不佳或者是發生同步問題. ",
@@ -1080,7 +1080,7 @@ UI_CH = {
     UI_ServerOption_MaxAccountsPerUser_tooltip = "限制單個 Steam 使用者能創立的不同帳號數. 若使用主持按鈕時忽略. ",
     UI_ServerOption_SpawnPoint_tooltip = "強制所有新玩家於此 x,y,z 世界座標出生. 使用 map.projectzomboid.com 尋找座標. (設為 0,0,0 時忽略) ",
     UI_ServerOption_SpawnItems_tooltip = "新玩家出生時帶有的物品種類. \n使用逗號區分多數物品種類. \n範例: Base.Axe,Base.Bag_BigHikingBag",
-    UI_ServerOption_ServerPlayerID_tooltip = "ServerPlayerID 決定角色是來自其它伺服器, 或單人遊戲. 此數值可被軟重置改變. 若此號碼與客戶端相符, 客戶端必須建立新角色. 與 ResetID 一起使用. 強烈建議備份這些 ID",示成紅色! ",
+    UI_ServerOption_ServerPlayerID_tooltip = "ServerPlayerID 決定角色是來自其它伺服器, 或單人遊戲. 此數值可被軟重置改變. 若此號碼與客戶端相符, 客戶端必須建立新角色. 與 ResetID 一起使用. 強烈建議備份這些 ID",
     UI_ServerOption_Open_tooltip = "客戶端就算沒有在白名單上的帳號也可加入. 若為 false, 管理員必須手動建立使用者名稱 / 密碼組合",
     UI_ServerOption_AutoCreateUserInWhiteList_tooltip = "當玩家加入時將未知的使用者名稱加入白名單. 客戶端加入時將提供自己的使用者名稱 / 密碼. (用於 Open=true 的伺服器) ",
     UI_ServerOption_DropOffWhiteListAfterDeath_tooltip = "玩家死亡後從白名單移除帳號. 防止玩家死亡後建立新角色",
