@@ -113,9 +113,9 @@ Moodles_ES = {
 	-- Description of moodle
 	-- Endurance
 	Moodles_endurance_desc_lvl1 = "Date un respiro.",
-	Moodles_endurance_desc_lvl2 = "Apenas puedes correr.",
-	Moodles_endurance_desc_lvl3 = "Apenas puedes andar.",
-	Moodles_endurance_desc_lvl4 = "Apenas puedes moverte.",
+	Moodles_endurance_desc_lvl2 = "Apenas podés correr.",
+	Moodles_endurance_desc_lvl3 = "Apenas podés andar.",
+	Moodles_endurance_desc_lvl4 = "Apenas podés moverte.",
 	-- Angry
 	Moodles_angry_desc_lvl1 = "Un poco molesto.",
 	Moodles_angry_desc_lvl2 = "Un serio malhumor.",
@@ -129,7 +129,7 @@ Moodles_ES = {
 	-- Thirsty
 	Moodles_thirst_desc_lvl1 = "Con la boca seca.",
 	Moodles_thirst_desc_lvl2 = "Deshidratado.",
-	Moodles_thirst_desc_lvl3 = "Te sientes débil y mareado.",
+	Moodles_thirst_desc_lvl3 = "Te sentís débil y mareado.",
 	Moodles_thirst_desc_lvl4 = "Desesperado por beber.",
 	-- Tired
 	Moodles_tired_desc_lvl1 = "Estaría bien acostarse un poco.",
@@ -147,7 +147,7 @@ Moodles_ES = {
 	Moodles_panic_desc_lvl3 = "Puntería severamente reducida.",
 	Moodles_panic_desc_lvl4 = "Puntería y visión muy reducidas.",
 	-- Sickness
-	Moodles_sick_desc_lvl1 = "Tómatelo con calma.",
+	Moodles_sick_desc_lvl1 = "Tomatelo con calma.",
 	Moodles_sick_desc_lvl2 = "Fuerza y curación reducidos.",
 	Moodles_sick_desc_lvl3 = "Fuerza y curación severamente reducidos.",
 	Moodles_sick_desc_lvl4 = "En peligro de muerte.",
@@ -157,10 +157,10 @@ Moodles_ES = {
 	Moodles_bored_desc_lvl3 = "Altas probabilidades de volverte un infeliz.",
 	Moodles_bored_desc_lvl4 = "Muy altas probabilidades de volverte un infeliz.",
 	-- Unhappy
-	Moodles_unhappy_desc_lvl1 = "Busca la forma de alegrarte el día.",
-	Moodles_unhappy_desc_lvl2 = "Encuentra algo interesante, o contacto humano.",
+	Moodles_unhappy_desc_lvl1 = "Buscá la forma de alegrarte el día.",
+	Moodles_unhappy_desc_lvl2 = "Encontrá algo interesante, o contacto humano.",
 	Moodles_unhappy_desc_lvl3 = "Devastado por el luto y la desesperación.",
-	Moodles_unhappy_desc_lvl4 = "Busca una manera de evadir la realidad.",
+	Moodles_unhappy_desc_lvl4 = "Buscá una manera de evadir la realidad.",
 	-- Bleeding
 	Moodles_bleed_desc_lvl1 = "Vendaje requerido.",
 	Moodles_bleed_desc_lvl2 = "Fuerza y velocidad reducidos.",
@@ -187,7 +187,7 @@ Moodles_ES = {
 	Moodles_pain_desc_lvl3 = "Velocidad y puntería reducidos.",
 	Moodles_pain_desc_lvl4 = "Velocidad y puntería severamente reducidos.",
 	-- Heavy load
-	Moodles_heavyload_desc_lvl1 = "Llevas algunas cosas de más.",
+	Moodles_heavyload_desc_lvl1 = "Llevás algunas cosas de más.",
 	Moodles_heavyload_desc_lvl2 = "Velocidad de movimiento reducida.",
 	Moodles_heavyload_desc_lvl3 = "Velocidad de movimiento altamente reducida.",
 	Moodles_heavyload_desc_lvl4 = "¡No das más! Movimiento comprometido.",
@@ -195,9 +195,9 @@ Moodles_ES = {
 	Moodles_drunk_desc_lvl1 = "Te bajaste unas cuantas copas.",
 	Moodles_drunk_desc_lvl2 = "Coordinación algo afectada.",
 	Moodles_drunk_desc_lvl3 = "Coordinación afectada.",
-	Moodles_drunk_desc_lvl4 = "'Ssomos tú y yo contra el muuundo. Te quiero. TE QUIERO.'",
+	Moodles_drunk_desc_lvl4 = "'Somos vos y yo contra el muuundo. Te quiero. TE QUIERO.'",
 	-- Dead
-	Moodles_dead_desc_lvl1 = "Alto riesgo de convertite en comida para ratas.",
+	Moodles_dead_desc_lvl1 = "Alto riesgo de convertirte en comida para ratas.",
 	-- Zombified
 	Moodles_zombified_desc_lvl1 = "Deseo repentino de comer gente.",
 	-- Food eaten
