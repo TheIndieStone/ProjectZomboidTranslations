@@ -539,4 +539,12 @@ ContextMenu_TR = {
     ContextMenu_Yourself = "Kendin",
     ContextMenu_or = "veya",
     Puddle = "Su birikintisi",
+        ContextMenu_ItemWaterCapacity = "Eşya Su Kapasitesi",
+	ContextMenu_FoodType_Cocoa = "Kakao",
+	ContextMenu_EnableAutodrink = "Otomatik içmeyi etkinleştir",
+	ContextMenu_DisableAutodrink = "Otomatik içmeyi devre dışı bırak",
+	ContextMenu_PumpFuelAmount = "Benzin pompasında kalan yakıt",
+	ContextMenu_TooComplicated = "Yetenek seviyen bunu anlamak için yeterince yüksek değil.",
+	ContextMenu_Illiterate = "Okuma Yazma Bilmiyorsun.",
+	ContextMenu_AmmoType = "Cephane tipi",
 }

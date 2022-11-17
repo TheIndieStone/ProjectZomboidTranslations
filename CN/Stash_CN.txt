@@ -137,7 +137,7 @@ Stash_MulMap18_Text11 = "听说他转变了",
 Stash_MulMap18_Text12 = "希望他所有的枪都还在",
 
 	Stash_WpMap1_Text1 = "这肯定是他住的地方。",
-	Stash_WpMap1_Text2 = "僵尸太多，无法处理，谨慎使用枪支！";
+	Stash_WpMap1_Text2 = "僵尸太多，无法处理，谨慎使用枪支！",
 	Stash_WpMap2_Text1 = "可能有人住在这里。",
 	Stash_WpMap2_Text2 = "医疗中心。",
 	Stash_WpMap2_Text3 = "看到她在这附件徘徊，并没有带着枪",
@@ -173,7 +173,7 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
     Stash_WpMap13_Text2 = "斧头击杀数: 20",
     Stash_WpMap13_Text3 = "车辆击杀数: 11",
 
-    Stash_WpMap14_Text1 = "在这里和托尼亚重逢! 获得足够的食物."
+    Stash_WpMap14_Text1 = "在这里和托尼亚重逢! 获得足够的食物.",
     Stash_WpMap14_Text11 = "现在我们只需要等待科林和他的船",
 
     Stash_WpMap15_Text1 = "他们永远不会在这里找到我们, 相信我",
@@ -181,12 +181,12 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
     Stash_WpMap15_Text2 = "这里打猎很好",
 
     Stash_WpMap16_Text1 = "可能的攻击",
-    Stash_WpMap16_Text2 = "最安全的出口"
-    Stash_WpMap16_Text21 = "越过围栏, 然后向南穿过马路到森林"
-    Stash_WpMap16_Text3 = "生存机会:"
-    Stash_WpMap16_Text31 = "一个月: 58%"
-    Stash_WpMap16_Text32 = "整个冬天: 22%"
-    Stash_WpMap16_Text4 = "需要更多食物和能动的车"
+    Stash_WpMap16_Text2 = "最安全的出口",
+    Stash_WpMap16_Text21 = "越过围栏, 然后向南穿过马路到森林",
+    Stash_WpMap16_Text3 = "生存机会:",
+    Stash_WpMap16_Text31 = "一个月: 58%",
+    Stash_WpMap16_Text32 = "整个冬天: 22%",
+    Stash_WpMap16_Text4 = "需要更多食物和能动的车",
 
 	Stash_MarchRidgeMap1_Text1 = "枪在这里。",
 	Stash_MarchRidgeMap1_Text2 = "这可能有斧头和一些工具",
@@ -211,12 +211,12 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
 	Stash_MarchRidgeMap7_Text2 = "你可能需要一些工具。",
 	Stash_MarchRidgeMap7_Text3 = "他在这里，没有被咬，不过仍在发烧！",
 	
-    Stash_MarchRidgeMap8_Text1 = "把我的旧工具留在这里"
-    Stash_MarchRidgeMap8_Text2 = "不再需要它们"
+    Stash_MarchRidgeMap8_Text1 = "把我的旧工具留在这里",
+    Stash_MarchRidgeMap8_Text2 = "不再需要它们",
 
-    Stash_MarchRidgeMap9_Text1 = "欢迎幸存者加入我们"
-    Stash_MarchRidgeMap9_Text2 = "需要更多的食物、枪支和其他东西"
-    Stash_MarchRidgeMap9_Text3 = "杀了一些 Z 来获得更多的荣耀!"
+    Stash_MarchRidgeMap9_Text1 = "欢迎幸存者加入我们",
+    Stash_MarchRidgeMap9_Text2 = "需要更多的食物、枪支和其他东西",
+    Stash_MarchRidgeMap9_Text3 = "杀了一些 Z 来获得更多的荣耀!",
 
     Stash_MarchRidgeMap10_Text1 = "祝福善良的灵魂",
     Stash_MarchRidgeMap10_Text2 = "愿你再远离地狱一段时间",
@@ -247,7 +247,7 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
     Stash_RiversideStashMap7_Text2 = "现在前往吉加超市",
     Stash_RiversideStashMap7_Text21 = "我不在的时候不要和桑德拉打架",
 
-    Stash_RiversideStashMap8_Text1 = "给你留下了一些食物", 
+    Stash_RiversideStashMap8_Text1 = "给你留下了一些食物",
     Stash_RiversideStashMap8_Text11 = "吃完再走",
     Stash_RiversideStashMap8_Text2 = "感染者在这里游荡",
     Stash_RiversideStashMap8_Text3 = "我在哪里见过那群人 (现在可能已经死了)",
@@ -256,8 +256,8 @@ Stash_MulMap18_Text12 = "希望他所有的枪都还在",
     Stash_RiversideStashMap9_Text2 = "丙烷罐",
     Stash_RiversideStashMap9_Text3 = "D的情况不太好 - 需要抗生素",
 
-    Stash_RiversideStashMap10_Text1 = "银行", 
-    Stash_RiversideStashMap10_Text2 = "别忘了备用武器", 
+    Stash_RiversideStashMap10_Text1 = "银行",
+    Stash_RiversideStashMap10_Text2 = "别忘了备用武器",
     Stash_RiversideStashMap10_Text21 = "你的斧头看起来有点松了",
     Stash_RiversideStashMap10_Text3 = "马上向西出城, 你知道在哪里可以找到我",
 
@@ -322,29 +322,29 @@ Stash_WorldMap11_Text1 = "2号塔上的3号天线 - 在 6GHz频段上丢失信�
 Stash_WorldMap11_Text11 = "之后让总部与列克星敦进行测试",
 
 Stash_WorldMap12_Text1 = "大型露营地 - 我们需要一切 (简的药丸除外)",
-Stash_WorldMap12_Text11 = "需要先打扫, 但有很多食物, 床和壁炉"
-Stash_WorldMap12_Text2 = "唯一的危险: 购物中心向北, 那里有数百人被感染"
+Stash_WorldMap12_Text11 = "需要先打扫, 但有很多食物, 床和壁炉",
+Stash_WorldMap12_Text2 = "唯一的危险: 购物中心向北, 那里有数百人被感染",
 
-Stash_WorldMap13_Text1 = "哈尔, 我们要去这里, 应该很安全"
-Stash_WorldMap13_Text11 = "我知道这很难, 但不要带上宝拉"
-Stash_WorldMap13_Text12 = "你要自救"
+Stash_WorldMap13_Text1 = "哈尔, 我们要去这里, 应该很安全",
+Stash_WorldMap13_Text11 = "我知道这很难, 但不要带上宝拉",
+Stash_WorldMap13_Text12 = "你要自救",
 
-Stash_WorldMap14_Text1 = "奶奶"
-Stash_WorldMap14_Text2 = "他们抓到爷爷的地方"
-Stash_WorldMap14_Text3 = "上帝保佑他们"
+Stash_WorldMap14_Text1 = "奶奶",
+Stash_WorldMap14_Text2 = "他们抓到爷爷的地方",
+Stash_WorldMap14_Text3 = "上帝保佑他们",
 
-Stash_WorldMap17_Text1 = "巡逻盲点"
-Stash_WorldMap17_Text2 = "V 将在23:15时完全关闭运动传感器"
-Stash_WorldMap17_Text21 = "不要分心! 跟着V, 带上你的图, 出去"
+Stash_WorldMap17_Text1 = "巡逻盲点",
+Stash_WorldMap17_Text2 = "V 将在23:15时完全关闭运动传感器",
+Stash_WorldMap17_Text21 = "不要分心! 跟着V, 带上你的图, 出去",
 
-Stash_WorldMap18_Text1 = "本"
-Stash_WorldMap18_Text2 = "路径"
+Stash_WorldMap18_Text1 = "本",
+Stash_WorldMap18_Text2 = "路径",
 
-Stash_WorldMap19_Text1 = "顽固的杂种! 至少拿走我留在卡迪夫人家里的枪"
-Stash_WorldMap19_Text11 = "如果你死了, 我永远不会原谅你!!!"
+Stash_WorldMap19_Text1 = "顽固的杂种! 至少拿走我留在卡迪夫人家里的枪",
+Stash_WorldMap19_Text11 = "如果你死了, 我永远不会原谅你!!!",
 
-Stash_WorldMap19_Text1 = "白痴"
-Stash_WorldMap19_Text2 = "杂种"
-Stash_WorldMap19_Text3 = "混球"
+Stash_WorldMap19_Text1 = "白痴",
+Stash_WorldMap19_Text2 = "杂种",
+Stash_WorldMap19_Text3 = "混球",
 */
 }

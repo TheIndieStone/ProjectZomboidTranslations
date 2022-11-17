@@ -137,7 +137,7 @@ Stash_PTBR = {
     Stash_MulMap18_Text12 = "espero que todas as suas armas ainda estejam lá",
 
     Stash_WpMap1_Text1 = "Tenho certeza que era onde ele morava",
-    Stash_WpMap1_Text2 = "demais para lidar, não atire aqui perto, pelo amor de Deus";
+    Stash_WpMap1_Text2 = "demais para lidar, não atire aqui perto, pelo amor de Deus",
     Stash_WpMap2_Text1 = "acho que ela morava aqui",
     Stash_WpMap2_Text2 = "centro médico",
     Stash_WpMap2_Text3 = "a encontrei andando aqui, não estava carregando arma",
@@ -173,7 +173,7 @@ Stash_PTBR = {
     Stash_WpMap13_Text2 = "mortos com machado: 20",
     Stash_WpMap13_Text3 = "mortos com veículo: 11",
 
-    Stash_WpMap14_Text1 = "Me encontre aqui Tonya! Tem comida suficiente."
+    Stash_WpMap14_Text1 = "Me encontre aqui Tonya! Tem comida suficiente.",
     Stash_WpMap14_Text11 = "Agora é só esperar pelo Colin com o barco",
 
     Stash_WpMap15_Text1 = "Eles nunca vão nos encontrar aqui, confie em mim",
@@ -181,12 +181,12 @@ Stash_PTBR = {
     Stash_WpMap15_Text2 = "Boa caça aqui",
 
     Stash_WpMap16_Text1 = "Ataques prováveis",
-    Stash_WpMap16_Text2 = "Saída mais segura"
-    Stash_WpMap16_Text21 = "cerca, então sul através da estrada para a floresta"
-    Stash_WpMap16_Text3 = "chances de sobrevivência:"
-    Stash_WpMap16_Text31 = "um mês: 58%"
-    Stash_WpMap16_Text32 = "no inverno: 22%"
-    Stash_WpMap16_Text4 = "Preciso de mais comida e carro funcionando"
+    Stash_WpMap16_Text2 = "Saída mais segura",
+    Stash_WpMap16_Text21 = "cerca, então sul através da estrada para a floresta",
+    Stash_WpMap16_Text3 = "chances de sobrevivência:",
+    Stash_WpMap16_Text31 = "um mês: 58%",
+    Stash_WpMap16_Text32 = "no inverno: 22%",
+    Stash_WpMap16_Text4 = "Preciso de mais comida e carro funcionando",
 
     Stash_MarchRidgeMap1_Text1 = "Arma aqui",
     Stash_MarchRidgeMap1_Text2 = "machado e ferramentas aqui?",
@@ -211,12 +211,12 @@ Stash_PTBR = {
     Stash_MarchRidgeMap7_Text2 = "Você provavelmente precisará estar preparado",
     Stash_MarchRidgeMap7_Text3 = "Vi ele aqui. Nenhuma mordida, mas estava com febre.",
 
-    Stash_MarchRidgeMap8_Text1 = "Deixei minhas velhas ferramentas aqui"
-    Stash_MarchRidgeMap8_Text2 = "Não vou precisar mais delas"
+    Stash_MarchRidgeMap8_Text1 = "Deixei minhas velhas ferramentas aqui",
+    Stash_MarchRidgeMap8_Text2 = "Não vou precisar mais delas",
 
-    Stash_MarchRidgeMap9_Text1 = "sobreviventes são bem-vindos para se juntar a nós"
-    Stash_MarchRidgeMap9_Text2 = "sempre precisa de mais comida e armas e outras coisas"
-    Stash_MarchRidgeMap9_Text3 = "mate alguns Z's no caminho para obter elogios extras!"
+    Stash_MarchRidgeMap9_Text1 = "sobreviventes são bem-vindos para se juntar a nós",
+    Stash_MarchRidgeMap9_Text2 = "sempre precisa de mais comida e armas e outras coisas",
+    Stash_MarchRidgeMap9_Text3 = "mate alguns Z's no caminho para obter elogios extras!",
 
     Stash_MarchRidgeMap10_Text1 = "Bênção para uma boa alma",
     Stash_MarchRidgeMap10_Text2 = "Pode mantê-lo do inferno por mais um tempo",
@@ -247,7 +247,7 @@ Stash_PTBR = {
     Stash_RiversideStashMap7_Text2 = "Indo para o Gigamart agora",
     Stash_RiversideStashMap7_Text21 = "Não brigue com Sandra enquanto eu estiver fora",
 
-    Stash_RiversideStashMap8_Text1 = "te deixei um pouco de comida aqui", 
+    Stash_RiversideStashMap8_Text1 = "te deixei um pouco de comida aqui",
     Stash_RiversideStashMap8_Text11 = "Coma antes de sair",
     Stash_RiversideStashMap8_Text2 = "infectados vagando por aqui",
     Stash_RiversideStashMap8_Text3 = "onde eu vi aquele grupo de pessoas (provavelmente mortas agora)",
@@ -256,8 +256,8 @@ Stash_PTBR = {
     Stash_RiversideStashMap9_Text2 = "gasolina",
     Stash_RiversideStashMap9_Text3 = "D está mordido, mas não é sério - precisa de antibióticos no caso",
 
-    Stash_RiversideStashMap10_Text1 = "banco", 
-    Stash_RiversideStashMap10_Text2 = "Não se esqueça de uma arma reserva", 
+    Stash_RiversideStashMap10_Text1 = "banco",
+    Stash_RiversideStashMap10_Text2 = "Não se esqueça de uma arma reserva",
     Stash_RiversideStashMap10_Text21 = "A cabeça de seu machado parecia um pouco solta",
     Stash_RiversideStashMap10_Text3 = "Indo para o oeste fora da cidade em breve, você sabe onde me encontrar",
 
@@ -322,29 +322,29 @@ Stash_PTBR = {
     Stash_WorldMap11_Text11 = "Peça a sede da empresa para testar com Lexington depois",
 
     Stash_WorldMap12_Text1 = "Acampamentos GRANDES - tudo o que precisamos (exceto os comprimidos de Jane)",
-    Stash_WorldMap12_Text11 = "precisa ser limpo primeiro, mas tem muita comida, camas, lareira"
-    Stash_WorldMap12_Text2 = "ÚNICO PERIGO: Shopping ao norte, centenas de infectados lá"
+    Stash_WorldMap12_Text11 = "precisa ser limpo primeiro, mas tem muita comida, camas, lareira",
+    Stash_WorldMap12_Text2 = "ÚNICO PERIGO: Shopping ao norte, centenas de infectados lá",
 
-    Stash_WorldMap13_Text1 = "Hal, estamos indo aqui, deve ser seguro"
-    Stash_WorldMap13_Text11 = "Eu sei que é difícil, mas NÃO TRAGA PAULA"
-    Stash_WorldMap13_Text12 = "Você tem que se salvar pelo menos"
+    Stash_WorldMap13_Text1 = "Hal, estamos indo aqui, deve ser seguro",
+    Stash_WorldMap13_Text11 = "Eu sei que é difícil, mas NÃO TRAGA PAULA",
+    Stash_WorldMap13_Text12 = "Você tem que se salvar pelo menos",
 
-    Stash_WorldMap14_Text1 = "vovó"
-    Stash_WorldMap14_Text2 = "onde eles pegaram o vovô"
-    Stash_WorldMap14_Text3 = "Senhor os proteja"
+    Stash_WorldMap14_Text1 = "vovó",
+    Stash_WorldMap14_Text2 = "onde eles pegaram o vovô",
+    Stash_WorldMap14_Text3 = "Senhor os proteja",
 
-    Stash_WorldMap17_Text1 = "patrulhar ponto cego"
-    Stash_WorldMap17_Text2 = "V desligará os sensores de movimento exatamente às 23h15"
-    Stash_WorldMap17_Text21 = "Não se distraia! Siga V, tire suas fotos, saia"
+    Stash_WorldMap17_Text1 = "patrulhar ponto cego",
+    Stash_WorldMap17_Text2 = "V desligará os sensores de movimento exatamente às 23h15",
+    Stash_WorldMap17_Text21 = "Não se distraia! Siga V, tire suas fotos, saia",
 
-    Stash_WorldMap18_Text1 = "Ben"
-    Stash_WorldMap18_Text2 = "caminho"
+    Stash_WorldMap18_Text1 = "Ben",
+    Stash_WorldMap18_Text2 = "caminho",
 
-    Stash_WorldMap19_Text1 = "Teimoso de merda! Pelo menos pegue as armas que deixei na casa da Sra. Cuddy"
-    Stash_WorldMap19_Text11 = "Se você morrer eu nunca vou te perdoar!!!"
+    Stash_WorldMap19_Text1 = "Teimoso de merda! Pelo menos pegue as armas que deixei na casa da Sra. Cuddy",
+    Stash_WorldMap19_Text11 = "Se você morrer eu nunca vou te perdoar!!!",
 
-    Stash_WorldMap19_Text1 = "IDIOTA"
-    Stash_WorldMap19_Text2 = "FODIDO"
+    Stash_WorldMap19_Text1 = "IDIOTA",
+    Stash_WorldMap19_Text2 = "FODIDO",
     Stash_WorldMap19_Text3 = "CUZÃO"
     */
 }
