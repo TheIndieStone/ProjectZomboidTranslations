@@ -92,6 +92,7 @@ EvolvedRecipeName_IT = {
 	EvolvedRecipeName_Base.SugarPacket = "Bustina di zucchero",
 	EvolvedRecipeName_Base.SunflowerSeeds = "Semi di girasole",
 	EvolvedRecipeName_Base.Thistle = "Cardo",
+	EvolvedRecipeName_Base.TinnedSoupOpen = "Zuppa di verdure in scatola (Aperta)",
 	EvolvedRecipeName_Base.TomatoPaste = "Pasta di pomodoro",
 	EvolvedRecipeName_Base.TunaTinOpen = "Tonno in scatola (Aperto)",
 	EvolvedRecipeName_Base.Violets = "Viole",
