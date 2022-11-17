@@ -810,4 +810,7 @@ Moveables_TR = {
     Zippee_Market_Sign = "Zippee Market Tabelası",
     Zippee_Shelves_Rack = "Zippee Bölmeli Raf",
     Zippee_Wall_Shelves = "Zippee Duvar Rafı",
+        Oak_Left_Bar = "Meşe Sol Bar",
+	Oak_Middle_Bar = "Meşe Orta Bar",
+	Oak_Right_Bar = "Meşe Sağ Bar",
 }
