@@ -221,7 +221,7 @@ ContextMenu_CN = {
 	ContextMenu_EvolvedRecipe_Spice = " 作为调料",
     ContextMenu_EvolvedRecipe_Poison = " 作为毒药",
 	ContextMenu_EvolvedRecipe_Omelette = "煎蛋"
-    ContextMenu_EvolvedRecipe_Soup = "汤",
+    ContextMenu_EvolvedRecipe_Soup = "炖汤",
     ContextMenu_EvolvedRecipe_Stew = "炖菜",
     ContextMenu_EvolvedRecipe_Pie = "馅饼",
 	ContextMenu_EvolvedRecipe_PieSweet = "馅饼",
@@ -547,6 +547,5 @@ ContextMenu_CN = {
     ContextMenu_AmmoType = "弹药类型",
 	
 	--Add Text--
-
 
 }
