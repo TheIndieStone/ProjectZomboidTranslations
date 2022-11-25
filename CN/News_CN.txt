@@ -6968,3 +6968,44 @@ FileDifferent、FileNotOnServer 和 FileNotOnClient 错误现在将显示两个�
 修复了中文广播和电视内容的编码。
 修复了灯泡寿命沙箱值错误。
 修复了 35,32 单元格中棚子的游戏地图位置。
+
+[VERSION]41.78.11 Hotfix
+修复和修复脚本的丙烷火炬使用重新平衡，以适应容量的变化；全部减少到2。
+[NODOT]<BR>
+在空煎锅的食谱中添加了“AllowRottenItem:true”参数；干锅; 和烤盘。这将允许玩家在让炒菜和煎蛋变烂时收回所述平底锅。
+霉菌喷雾治疗和清空农产品袋等食谱现在具有字段“AllowRottenItem:true”，允许在该食谱中使用腐烂的物品。
+修复了制霉药配方不允许普通牛奶和罐装牛奶；因为在所有普通牛奶都变质后，玩家无法进行这种治疗。
+修复了无法使用 Rotten Milk 制作防霉喷雾剂的问题。
+[NODOT]<BR>
+注释掉“做一锅汤”的食谱；鉴于进化的配方系统可以更好地处理这个问题，它们已经过时了。
+修复了无法使用罐头汤制作进化配方汤的问题。
+将“罐头汤”的显示名称更改为“罐头蔬菜汤”。
+[NODOT]<INDENT:40> 注意：要用打开的罐头汤制作汤罐，您现在必须将它们添加到水罐中，作为进化配方汤。这修复了超级汤漏洞，并允许玩家向汤中添加其他成分。制作 Pots of Soup 的另一种方法是一种过时的方法，并且在许多方面与进化的配方系统之前不兼容。
+[NODOT]<BR>
+更新了清洁托盘的配方，使其适用于饼干面团托盘，并且适用于腐烂和煮熟的食材，因此玩家始终可以从腐烂的食物托盘中恢复托盘。
+[NODOT]<BR>
+对服装面具进行了一些调整。
+[NODOT]<BR>
+在手枪鞭子动画上添加了缺失的 SetMelee Delay。
+修复了连帽衫和背心面具以与基础网格一起正常工作。
+修复了 JokeKnife、JokeArrow、BunnyEars、FurryEars、Antlers 和 GodStar Headbopper 以适用于所有发型。
+[NODOT]<BR>
+固定情绪和心脏摆动速度，现在减少了一半。
+修复了 forageSystem.lua 不考虑新战利品稀有度设置的问题。
+修复了老兵有一些重复的服装选择选项。
+修复了在单元格 35,31 中弯曲的游戏内地图道路。
+修复了 JoyPadSetup.lua 中导致控制台日志中出现不必要消息的 print() 语句。
+修复了 Linux 上的 Lua 调试器中未加载源文件的问题。
+修复了未在 Lua 调试器中加载的 mod Lua 文件。
+[NODOT]<BR>
+修复了能够在烤箱中净化喷壶的问题。
+修复了能够将煮熟的鸡蛋变回生鸡蛋的问题。
+修复了具有 hasMetal 标签的披萨。
+修复了 SliceCooked 测试中的错误。
+修复了具有 DisplayCategory = WaterContainer 而不是 DisplayCategory = Junk 的 PopEmpty2 和 PopEmpty3。
+修复了具有 DisplayCategory = Material 而不是 DisplayCategory = Junk 的 PopEmpty。
+修复了 BeerCanEmpty 具有 DisplayCategory = WaterContainer 而不是 Junk。
+修复了 Buckets 没有更新为使用金属填充声音而不是塑料填充声音的问题。
+修复了当服务器选项允许时远处的玩家没有出现在游戏地图上的问题。
+修复了没有“OBSOLETE = TRUE”参数的 Male_Undies。还将它们从觅食池中移除。
+修复了运行状况面板漏洞。
