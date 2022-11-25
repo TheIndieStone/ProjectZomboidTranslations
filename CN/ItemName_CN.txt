@@ -55,6 +55,7 @@ ItemName_CN = {
     ItemName_Base.Bag_ALICEpack_Army = "军用背包",
     ItemName_Base.Bag_BigHikingBag = "登山包(大)",
     ItemName_Base.Bag_BowlingBallBag = "保龄球袋",
+    ItemName_Base.Bag_DoctorBag = "医生包",
     ItemName_Base.Bag_DuffelBag = "行李袋",
     ItemName_Base.Bag_DuffelBagTINT = "行李袋",
     ItemName_Base.Bag_FannyPackBack = "腰包(背面)",
@@ -65,6 +66,7 @@ ItemName_CN = {
     ItemName_Base.Bag_InmateEscapedBag = "行李袋",
     ItemName_Base.Bag_JanitorToolbox = "工具箱",
 	ItemName_Base.Bag_MedicalBag = "医疗救护包",
+    ItemName_Base.Bag_Military = "军用行李袋",
     ItemName_Base.Bag_MoneyBag = "行李袋",
     ItemName_Base.Bag_NormalHikingBag = "登山包(小)",
     ItemName_Base.Bag_Satchel = "单肩挎包",
@@ -1976,7 +1978,5 @@ ItemName_CN = {
 	
 	--Add Text--
 	ItemName_Base.Maggots2 = "蛆",
-	ItemName_Base.Bag_DoctorBag = "医生包",
-	ItemName_Base.Bag_Military = "军用行李袋",
 
 }
