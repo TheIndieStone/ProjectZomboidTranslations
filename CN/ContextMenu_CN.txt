@@ -87,7 +87,7 @@ ContextMenu_CN = {
 	ContextMenu_WaterSource = "水源",
 	Puddle = "水坑",
 	ContextMenu_NaturalWaterSource = "天然水源",
-	ContextMenu_ItemWaterCapacity = "物品水容量",
+	ContextMenu_ItemWaterCapacity = "容器水量",
 	
 	-- Crafting menu
 	ContextMenu_Door = "门",
