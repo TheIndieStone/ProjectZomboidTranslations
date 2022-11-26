@@ -75,7 +75,7 @@ Tooltip_CN = {
 	Tooltip_craft_woodenCrossDesc = "木制十字架. ",
 	Tooltip_craft_woodenPicketDesc = "木制纪念桩. ",
 	Tooltip_Painkillers = "减轻疼痛感.",
-	Tooltip_PillsAntidepressant = "在一段时间后持续减少抑郁.",
+	Tooltip_PillsAntidepressant = "持续减少抑郁.",
 	Tooltip_PillsBetablocker = "减少恐慌.",
 	Tooltip_PillsSleeping = "有助于入睡,焦虑或疼痛时有用.",
 	Tooltip_potentialRepair = "修复率:",
@@ -312,6 +312,6 @@ Tooltip_CN = {
 	Tooltip_compass_2 = "指南针方向: 东南",
 	Tooltip_compass_3 = "指南针方向: 东",
 	Tooltip_compass_6 = "指南针方向: 东北",
-	Tooltip_no_nails = "太笨拙了,不能钉钉子.",
-	
+	Tooltip_no_nails = "太过不便,无法钉钉子.",
+
 }
