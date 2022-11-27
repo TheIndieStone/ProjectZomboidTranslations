@@ -4,7 +4,6 @@ Farming_AR = {
     Farming_Broccoli = "Brócoli",
     Farming_Radishes = "Rábanos",
     Farming_Strawberry_plant = "Planta de frutilla",
-    Farming_Strawberry plant = "Planta de frutilla",
     Farming_Tomato = "Tomate",
     Farming_Tomato_Vine = "Planta de tomate",
     Farming_Potatoes = "Papa",
