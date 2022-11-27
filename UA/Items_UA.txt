@@ -4,8 +4,8 @@
  * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
  */
 Items_UA = {
-	/* для підсказки "потрібно: %1/%2" над пунктом "курити", коли немає сірників і зажигалки */
-	DisplayName_Lighter = "Зажигалка",
+	/* для підсказки "потрібно: %1/%2" над пунктом "курити", коли немає сірників та запальнички */
+	DisplayName_Lighter = "Запальничка",
 	DisplayName_Matches = "Сірники",
 	
 	/* для підсказки "потрібно" в меню "Зварити" (раніше - "Газозварка") - не спрацьовує ItemName */
