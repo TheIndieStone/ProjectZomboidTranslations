@@ -2101,4 +2101,12 @@ ItemName_PL = {
     ItemName_Base.brokenglass_1_1 = "Rozbite szkło",
     ItemName_Base.brokenglass_1_2 = "Rozbite szkło",
     ItemName_Base.brokenglass_1_3 = "Rozbite szkło",
+    
+    ItemName_Base.Bag_DoctorBag = "Torba lekarska",
+	ItemName_Base.Bag_Military = "Torba wojskowa",
+	ItemName_Base.Mov_HotdogMachine = "Maszyna do hotdogów",
+	ItemName_Base.Mov_NapkinDispenser = "Dystrubutor sklepowy",
+	ItemName_Base.Mov_PopcornMachine = "Maszyna do popcornu",
+	ItemName_Base.Mov_SodaMachine = "Dystrubutor napojów gazowanych",
+	ItemName_Base.Mov_WaterDispenser = "Dystrybutor wody",
 }
