@@ -846,7 +846,6 @@
 	//278. ORIGINAL: Pictures released to LBMW, however, show crowded streets...
 	3b32002a-8622-41b7-9dbb-f4ff4b797c5b = Las imágenes difundidas por la LBMW, sin embargo, muestran calles concurridas...
 
-  //WIP
 	//279. ORIGINAL: ...suggesting that, despite it all, some townsfolk are living as normal.
 	2f817b17-db18-45bc-a27a-02b63676236d = ...lo que sugiere que, a pesar de todo, algunos habitantes siguen viviendo con normalidad.
 
@@ -854,7 +853,7 @@
 	a7cbf66b-e9d5-444b-bfeb-8e4f8870c904 = Frank Hemingway y Jackie Jaye, LBMW.
 
 	//281. ORIGINAL: Stay safe everyone.
-	10ff4139-65db-4ea0-b3a3-7634552a605a = Cuidaos.
+	10ff4139-65db-4ea0-b3a3-7634552a605a = Cuidense.
 
 	//282. ORIGINAL: Breaking news on LBMW.
 	258eaa89-ae44-46e3-90f5-f19a9370d04d = Últimas noticias en LBMW.
@@ -920,7 +919,7 @@
 	303c01f4-a6ac-42b5-8ef6-d199e78dac28 = Sin embargo, a medida que el panorama se aclara, y nos facilitan más información...
 
 	//303. ORIGINAL: ... its likelihood is starting to recede.
-	c8a960ef-525e-4eb7-83b9-1924236072d7 = ...la probabilidad está empezando a retroceder.
+	c8a960ef-525e-4eb7-83b9-1924236072d7 = ...la probabilidad está empezando a bajar.
 
 	//304. ORIGINAL: We have been hesitant to discuss specifics, yes, but with reason.
 	0aa067d2-4cf5-427d-9a1e-1d3e02645066 = Hemos sido reacios a hablar de datos concretos, sí, pero con razón.
@@ -932,7 +931,7 @@
 	1937e940-813b-438e-8f1f-c262a3a98b28 = Queríamos establecer los hechos, pero la alarma pública no nos ha dejado tiempo.
 
 	//307. ORIGINAL: From 6pm tonight there will be curfews in some of our biggest cities.
-	c2184a83-3c08-4c2f-80d0-8afd1bc112eb = Desde las 6pm de esta noche habrá toque de queda en algunas de nuestras ciudades más importantes.
+	c2184a83-3c08-4c2f-80d0-8afd1bc112eb = Desde las 6 pm de esta noche habrá toque de queda en algunas de nuestras ciudades más importantes.
 
 	//308. ORIGINAL: This is for your protection. Please do not leave your house.
 	406a6cf9-4ffc-424d-ac53-eb5be1405448 = Es por su propia seguridad. Por favor que nadie salga de casa.
@@ -980,13 +979,13 @@
 	bb8b927b-addc-47dc-a4fc-c0adc3373678 = Para hablar sobre la difusión de rumores que ha crecido en torno al denominado 'Incidente de Knox'
 
 	//323. ORIGINAL: Stay tuned everyone...
-	72240b99-c4c1-4fb5-8023-756425cfe1df = Estad atentos...
+	72240b99-c4c1-4fb5-8023-756425cfe1df = Esten atentos...
 
 	//324. ORIGINAL: ... you need to hear what's coming up next.
 	6f2780bf-522c-48de-b03d-37bfc06049e5 = ...necesitan escuchar lo que viene después.
 
 	//325. ORIGINAL: Keep safe.
-	67712fa7-8e6f-4002-bb77-838c797e02d2 = Cuidaos.
+	67712fa7-8e6f-4002-bb77-838c797e02d2 = Cuidense.
 
 	//326. ORIGINAL: And I'm Frank Hemingway.
 	7d47477f-2204-4d6f-82f0-1c532dc94188 = Aquí Frank Hemingway.
@@ -1022,7 +1021,7 @@
 	0f184913-e960-4e66-9c5b-8cc0ebc3efae = ...sugirió que había una posibilidad de retroceso en la recuperación.
 
 	//337. ORIGINAL: But still a chance.
-	8a98a2e9-1cff-4885-ab3f-8a5c508dd58b = Pero aún había posibilidades.
+	8a98a2e9-1cff-4885-ab3f-8a5c508dd58b = Pero aún habría posibilidades.
 
 	//338. ORIGINAL: This new evidence would suggest this is...
 	f0d088c7-9254-4eed-993c-726da71310be = Esta nueva evidencia sugiere que esto es...
@@ -1115,10 +1114,10 @@
 	90ed9ed3-33e5-4fc3-a444-1598748676d1 = Ellos enfermaron, se volvieron locos, y murieron.
 
 	//368. ORIGINAL: Then they went for my fuckin' throat.
-	697636de-0b22-40f8-9454-c48b532bf96f = Entonces se lanzaron a mi puta garganta.
+	697636de-0b22-40f8-9454-c48b532bf96f = Entonces se me tiraron al cuello los muy forros.
 
 	//369. ORIGINAL: Sorry for the language.
-	770f0931-a3d4-4bf6-92d3-be9c5f4f3472 = Disculpa por el lenguaje.
+	770f0931-a3d4-4bf6-92d3-be9c5f4f3472 = Perdón por el lenguaje.
 
 	//370. ORIGINAL: That's okay Joe
 	9ba02d74-c5d2-464b-85e1-cbfd655ee6e8 = No pasa nada Joe
@@ -1175,7 +1174,7 @@
 	61a9a297-b964-4209-b35d-2ab872d1b001 = Haremos todo lo posible para seguir emitiendo en esta frecuencia.
 
 	//388. ORIGINAL: She's locked the fucking door!
-	407bba76-4773-418a-a4ee-4bb86608ef54 = ¡Ella ha cerrado la maldita puerta!
+	407bba76-4773-418a-a4ee-4bb86608ef54 = ¡Ella cerro la puta puerta!
 
 	//389. ORIGINAL: I've got some unhappy faces looking through the glass.
 	64ddb8e8-4a3d-4d52-92a5-d1e5277fa0cb = Veo algunas caras disgustadas mirando a través del cristal.
@@ -1226,7 +1225,7 @@
 	8886a095-c6a2-44fb-8b9c-5d363dd94feb = En esta etapa la infección sólo se contagia por el contacto DIRECTO de fluidos.
 
 	//405. ORIGINAL: This means bites. This means scratches.
-	d538d86a-053d-461d-9b40-a14cb7aefc79 = Esto quiere decir, mordeduras y rasguños.
+	d538d86a-053d-461d-9b40-a14cb7aefc79 = Esto quiere decir, mordiscos y rasguños.
 
 	//406. ORIGINAL: My thoughts are with those poor souls behind the Event line.
 	ce2f60c4-3c21-45d1-88c6-8c34b900ee9f = Mis pensamientos están con esas pobres almas dentro de la zona del Incidente.
@@ -1652,7 +1651,7 @@
 	0169ff6a-e38a-4c76-b6ec-d72c2a91d2a5 = Más gente ha venido diciendo que van a Louisville.
 
 	//547. ORIGINAL: They had a print-out. Said soldiers checked them for bites.
-	a9d94e4a-0222-49d5-922d-a1d1b5caa477 = Tenían un impreso. Dijeron que los soldados comprobaron si tenían mordeduras.
+	a9d94e4a-0222-49d5-922d-a1d1b5caa477 = Tenían un impreso. Dijeron que los soldados comprobaron si tenían mordiscos.
 
 	//548. ORIGINAL: Stuck a gun to their head and gave them a sheet of paper.
 	cdb3d6ef-2f4d-406d-8ac1-c610192afca1 = Les apuntaron con una pistola en la cabeza y les dieron una hoja de papel.
@@ -1718,7 +1717,7 @@
 	0c1fbae7-ca62-464a-a7e1-eb900f57bc62 = La enfermedad no se le transmitirá como a los demás...
 
 	//569. ORIGINAL: ... but through fluid contact, by which I mean bites...'
-	8d42995f-e71e-48fa-8f79-cc9e3036b83f = ...pero a través del contacto con fluidos, me refiero a mordeduras...
+	8d42995f-e71e-48fa-8f79-cc9e3036b83f = ...pero a través del contacto con fluidos, me refiero a mordiscos...
 
 	//570. ORIGINAL: ... it surely will.'
 	bb028c17-c5bf-4477-b85d-8c2dba3050ef = ...posiblemente si.
@@ -2435,7 +2434,7 @@
 	631ddccb-1fa3-4b97-be38-a05078af9cf4 = Le falta el otro. 
 
 	//808. ORIGINAL: He is bloody. Covered in what would appear to be bite marks.
-	2cb41a03-85ea-4596-9495-924040d97b02 = Está ensangrentado, cubierto de lo que parecen ser marcas de mordeduras.
+	2cb41a03-85ea-4596-9495-924040d97b02 = Está ensangrentado, cubierto de lo que parecen ser marcas de mordiscos.
 
 	//809. ORIGINAL: Or perhaps wounds inflicted by a bladed weapon.
 	764f33ea-a416-477f-912a-6389b3745abc = O tal vez heridas inflingidas por un arma blanca.
@@ -3074,7 +3073,7 @@
 	3ae41721-4122-4624-bb1e-144c22798a16 = La enfermedad no se le contagiará como a los otros...
 
 	//1021. ORIGINAL: ... but through fluid contact, by which I mean bites...
-	f7908f2a-9824-438e-9523-6e8c1ac2d392 = ...sino a través de contactos de fluídos, me refiero a mordeduras...
+	f7908f2a-9824-438e-9523-6e8c1ac2d392 = ...sino a través de contactos de fluídos, me refiero a mordiscos...
 
 	//1022. ORIGINAL: ... it surely will.
 	86c9cf8e-e7a6-4192-8dd6-cb3a108cc66b = ...probablemente.
@@ -4376,7 +4375,7 @@
 	c3a53a5d-2caa-4190-9e24-3ba9df76e281 = ¿Danny? Dinos lo que sabes.
 
 	//1455. ORIGINAL: It's spread through bites. Maybe scratches, but definitely bites.
-	319d8ce8-593f-4a04-b0ec-6df70589ed87 = Se transmite mediante mordeduras. Quizá con arañazos, pero seguro con mordeduras.
+	319d8ce8-593f-4a04-b0ec-6df70589ed87 = Se transmite mediante mordiscos. Quizá con arañazos, pero seguro con mordeduras.
 
 	//1456. ORIGINAL: Have you been in there Danny?
 	412e4a54-06dd-4006-b836-58d11a012427 = ¿Has estado allí Danny?
@@ -4709,7 +4708,7 @@
 	d6352f2f-7473-4806-b1b4-f41cb6db83c8 = Pero no tengo un rasguño.
 
 	//1566. ORIGINAL: No bite marks.
-	ab6679d2-3776-473a-9b00-a301845105f8 = Ni marcas de mordeduras.
+	ab6679d2-3776-473a-9b00-a301845105f8 = Ni marcas de mordiscos.
 
 	//1567. ORIGINAL: Closest I've been to those poor dead bastards is 20 feet.
 	4183de7e-4785-4861-897f-09b189a2cecd = Lo más cerca que he estado de esos pobres bastardos muertos son 10 metros.
@@ -7535,7 +7534,7 @@
 	2c91d62a-4d2e-4ac9-a3d6-28179f38d853 = Tenemos palabras de nuestro reportero en el lugar de los hechos, en Kentucky.
 
 	//2508. ORIGINAL: It's spreading without bites.
-	5a9245ea-d528-42c5-b05e-55e9a6b27551 = Se está contagiando sin mordedura.
+	5a9245ea-d528-42c5-b05e-55e9a6b27551 = Se está contagiando sin mordisco.
 
 	//2509. ORIGINAL: Get away from your television NOW.
 	0501b081-e2b4-4990-8edc-449b5e842409 = Aléjese de su televisión AHORA.
@@ -8753,7 +8752,7 @@
 	a5c6cfe7-6df8-499a-af07-c87ce9001924 = Cubierto de sangre.
 
 	//2914. ORIGINAL: A man covered in what analysts claim are bite marks.
-	b1cf08e1-5ccf-47ce-b704-5368d7ee0a76 = Lleno de lo que los analistas afirman que son marcas de mordeduras.
+	b1cf08e1-5ccf-47ce-b704-5368d7ee0a76 = Lleno de lo que los analistas afirman que son marcas de mordiscos.
 
 	//2915. ORIGINAL: There has been no official statement.
 	d89c583e-6230-44f7-a217-4c79b1a5307f = No hay comunicado oficial.
@@ -9386,7 +9385,7 @@
 	13cb8f3e-bff8-45be-a9fe-ec678b1991cb = Lo siento Mike, pero... la Triple-N está informando que...
 
 	//3125. ORIGINAL: That the Knox Infection is now spreading without bites.
-	c177c6de-bdb1-40c2-9394-32e0addf0aa4 = Que la Infección de Knox se contagia sin mordedura.
+	c177c6de-bdb1-40c2-9394-32e0addf0aa4 = Que la Infección de Knox se contagia sin que te muerdan.
 
 	//3126. ORIGINAL: It's what?
 	e414d31e-e8db-4093-b7f8-b9d13473b746 = ¿Que se...qué?
@@ -9521,28 +9520,28 @@
 	e33fd4a1-9667-4e67-825e-0ba5cf43c568 = Vamos a lo que vamos...
 
 	//3170. ORIGINAL: Cake!
-	cb326038-5384-469a-b8d3-e9163dcce967 = ¡El pastel!
+	cb326038-5384-469a-b8d3-e9163dcce967 = ¡La torta!
 
 	//3171. ORIGINAL: First you need a batter - take a bowl and mix in...
-	f035ab6e-45c4-4572-919c-7b7b31210b6d = Lo primero que necesitas es la masa, coge un bol y mezcla...
+	f035ab6e-45c4-4572-919c-7b7b31210b6d = Lo primero que necesitas es la masa, un bol y mezcla...
 
 	//3172. ORIGINAL: Flour! Butter! Sugar! Egg! Yeast! Milk!
-	5bd3ba61-8cbb-46fc-8056-f3ac787a35aa = ¡Harina! ¡Mantequilla! ¡Azúcar! ¡Huevos! ¡Levadura! ¡Leche!
+	5bd3ba61-8cbb-46fc-8056-f3ac787a35aa = ¡Harina! ¡Manteca! ¡Azúcar! ¡Huevos! ¡Levadura! ¡Leche!
 
 	//3173. ORIGINAL: You get all that?
-	c48a1eee-caca-405d-b38f-a17fc423d263 = ¿Lo tienes?
+	c48a1eee-caca-405d-b38f-a17fc423d263 = ¿Lo tenes?
 
 	//3174. ORIGINAL: Add it all into a Baking Pan and... add some flavor.
-	7bca042a-b269-416f-97d3-813d82f48323 = Ponlo en un molde de hornear y... añade un sabor.
+	7bca042a-b269-416f-97d3-813d82f48323 = Ponelo en un molde de hornear y... sazona a tu gusto.
 
 	//3175. ORIGINAL: Today I'm using banana, berries...
-	3824fb45-d8d5-4463-ad1c-83f74824d660 = Yo he puesto plátanos, bayas...
+	3824fb45-d8d5-4463-ad1c-83f74824d660 = Yo puse bananas, arandanos...
 
 	//3176. ORIGINAL: And a squeeze of lemon.
 	a0bdfc7c-bc61-4dc1-9829-e8aef411b8b9 = Y unas gotas de limón.
 
 	//3177. ORIGINAL: Then into the oven, and leave to get delicious!
-	5e29b81b-d45c-4fec-9a60-0e857843d364 = Luego ponlo en el horno, ¡y deja espera que se haga!
+	5e29b81b-d45c-4fec-9a60-0e857843d364 = Después ponelo en el horno, ¡y deja espera que se haga!
 
 	//3178. ORIGINAL: Can't beat that smell, huh?
 	85f20595-35a8-46be-a89b-83701bfa4db0 = Un olor insuperable, ¿eh?
@@ -9566,7 +9565,7 @@
 	03439fed-ba2e-4af7-a2b7-b567a080ee62 = Necesitarás cinco tablones y cuatro clavos.
 
 	//3185. ORIGINAL: Take your hammer like so... and...
-	2053ae50-7ea3-4885-adfe-36094265cdd5 = Coge tu martillo tal que así... y...
+	2053ae50-7ea3-4885-adfe-36094265cdd5 = Agarra tu martillo así... y...
 
 	//3186. ORIGINAL: *bang* *bang*
 	e31ef0c9-c3c5-4ed6-9202-96c5864638d9 = *bang* *bang*
@@ -9584,7 +9583,7 @@
 	f14f0a3c-e1ef-4b4e-aad3-361115ec3df0 = *suspiro*
 
 	//3191. ORIGINAL: Would you... dude...
-	b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9 = Tío... quieres...
+	b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9 = Chabon... queres...
 
 	//3192. ORIGINAL: Like to build a bar in your own home?
 	f8fed2e0-734d-4c3c-99b3-d5661e118762 = ¿Te gustaría construir una barra en tu propia casa?
@@ -9596,7 +9595,7 @@
 	9265f510-b857-4813-afac-f4a1b9083ec8 = Cuatro tablones, cuatro clavos y unos dedos ágiles.
 
 	//3195. ORIGINAL: Yee-hah. There y'all are.
-	01b17da1-87cc-4365-bc9b-696368c9a0ed = Ajá. Ya lo tienes.
+	01b17da1-87cc-4365-bc9b-696368c9a0ed = Ajá. Ya lo tenes.
 
 	//3196. ORIGINAL: And for the middle? The bar element?
 	fda5440a-1e04-4c18-abe9-91d1bc967213 = ¿Y para el centro?
@@ -9605,7 +9604,7 @@
 	8445073f-d3fc-48dd-9ec7-051a0b7fc2c5 = Lo mismo otra vez: cuatro tablones, cuatro clavos.
 
 	//3198. ORIGINAL: Put it all together and... you're good and ready.
-	3b0db071-d900-434e-8f58-896dc2f2df49 = Lo pones todo junto y... listos.
+	3b0db071-d900-434e-8f58-896dc2f2df49 = Lo pones todo junto y... listo.
 
 	//3199. ORIGINAL: Well, I need a drink.
 	38303a59-da0b-434e-9ed3-791755304faa = Bien, necesito un trago.
@@ -9632,10 +9631,10 @@
 	f6056be4-2d46-4024-8f12-a4a3aba823ee = Estás lejos de casa.
 
 	//3207. ORIGINAL: You're hungry, you're lost, you're alone.
-	86c4eae6-91fb-4ba4-a503-543d41d608a4 = Tienes hambre, te has perdido y estás solo.
+	86c4eae6-91fb-4ba4-a503-543d41d608a4 = Tenes hambre, te perdiste y estás solo.
 
 	//3208. ORIGINAL: Life isn't all... Coke Floats and laughing it up.
-	87be4172-cfa1-45a2-8aa8-c37444ad2df4 = La vida no es... risas y CocaCola.
+	87be4172-cfa1-45a2-8aa8-c37444ad2df4 = La vida no es... de color de rosas.
 
 	//3209. ORIGINAL: Find a river that's jumping with fish.
 	c1ee98c8-e7d0-46aa-84f6-e9c2341f39fa = Busca un río con peces.
@@ -9644,7 +9643,7 @@
 	afb4e491-aec5-4607-a6ef-ffb4f7977006 = Y fabrica una caña de pescar.
 
 	//3211. ORIGINAL: Take a stick or a branch, tie up some twine...
-	0340d3b8-402d-45bd-b498-67fc6719d4c9 = Coge un palo o una rama, ata un trozo de cuerda...
+	0340d3b8-402d-45bd-b498-67fc6719d4c9 = Agarra un palo o una rama, atale un pedazo de cuerda...
 
 	//3212. ORIGINAL: Like this...
 	e2a87468-49a6-4ed7-86a9-d8f2ec26fee5 = Así...
@@ -9653,13 +9652,13 @@
 	8bea8acf-6f00-4a38-8f62-dc96dd73e3f4 = Y usa un clip en el extremo para enganchar los peces.
 
 	//3214. ORIGINAL: Now if you're a smart-arse, you're saying:
-	b5466d25-25f2-4450-8a5f-69cc5895b5ed = Bien, si eres un listillo, dirás...
+	b5466d25-25f2-4450-8a5f-69cc5895b5ed = Bien, si sos un pillo, me vas a decir...
 
 	//3215. ORIGINAL: "Hey Dean, where'd the paperclip come from?"
 	a23769e9-1aa8-4afd-8a13-01401eca0917 = "Eh Dean, ¿de dónde salió el clip?"
 
 	//3216. ORIGINAL: I always carry a paperclip guys, and so should you.
-	eff1b184-fc08-4c16-b51a-7a46a3b8a8a1 = Siempre llevo un clip chicos, y ustedes deberían llevarlo también.
+	eff1b184-fc08-4c16-b51a-7a46a3b8a8a1 = Siempre llevo un clip bobos, y ustedes deberían llevarlo también.
 
 	//3217. ORIGINAL: It's the first thing they teach in the Army.
 	0da8d741-ccc6-4b08-90ec-3c60002425af = Es lo primero que enseñan en el Ejército.
@@ -9677,10 +9676,10 @@
 	01d55321-a94c-4b63-b442-4951a6535df0 = Hoy vamos a hacer una nutritiva sopa de pollo con fideos.
 
 	//3222. ORIGINAL: I don't know about you, but a good Chicken soup?
-	18f2d508-0c09-41d7-9c2a-7660a3a311bd = No sé a ti, pero a mí una buena sopa de pollo.
+	18f2d508-0c09-41d7-9c2a-7660a3a311bd = No sé a vos, pero a mí una buena sopa de pollo.
 
 	//3223. ORIGINAL: It solves everything.
-	686820ce-1ff5-495b-a146-deaca79b41fa = Me lo resuelve todo.
+	686820ce-1ff5-495b-a146-deaca79b41fa = Me lo resuelve la vida.
 
 	//3224. ORIGINAL: Nourishing, mood-lifting...
 	16102657-fb87-419d-ae7e-bd6d9b975625 = Nutre, eleva el estado de ánimo...
@@ -9698,7 +9697,7 @@
 	ce21bffc-3873-45a2-a161-e534d548138a = Luego busca una olla con agua.
 
 	//3229. ORIGINAL: Add it in, bring to the boil and add...
-	0fc5302f-8b25-48d5-8525-4fdcbada5d5d = Ponlo dentro, hierve el agua y añade...
+	0fc5302f-8b25-48d5-8525-4fdcbada5d5d = Ponelo adentro, hervi el agua y ponele...
 
 	//3230. ORIGINAL: Bell Pepper, Onion, Potato...
 	303298cd-2ea0-4568-ab6d-6852e93dc253 = Pimiento, cebolla, patata...
@@ -9740,7 +9739,7 @@
 	e9399ff8-a997-4d2a-81de-ef4d7f84082e = Coge tu martillo y...
 
 	//3243. ORIGINAL: Looks kinda nice like that huh?
-	75a03f86-d185-4049-b9e0-3221ecae6ed3 = Quedó chulo, ¿eh?
+	75a03f86-d185-4049-b9e0-3221ecae6ed3 = Quedó piola, ¿eh?
 
 	//3244. ORIGINAL: Know what else is good for practice?
 	595f10b5-8241-486f-99f4-7c89fd98df45 = ¿Saben qué es bueno para practicar?
@@ -9749,13 +9748,13 @@
 	b5f4b0a1-dd7e-4cd6-8e26-3597a36c6776 = Un letrero. Escribe lo que te parezca.
 
 	//3246. ORIGINAL: Hunk at work, maybe?
-	99923b85-f0f5-4f51-be33-6286b53492f2 = ¿Buenorro trabajando, quizás?
+	99923b85-f0f5-4f51-be33-6286b53492f2 = ¿Cachondo trabajando, quizás?
 
 	//3247. ORIGINAL: Like that ladies? Leadin' y'all straight to me!
-	9e26c82c-df8b-488f-985f-038acf75f50d = ¿Os gusta eso chicas? ¡Venid a mí!
+	9e26c82c-df8b-488f-985f-038acf75f50d = ¿Les gusta eso wachas? ¡Vengan!
 
 	//3248. ORIGINAL: Tomorrow we're takin' off the training wheels.
-	ca76da05-81b3-4f8b-af61-17be8dc204db = Mañana haremos algo un poco más elaborado.
+	ca76da05-81b3-4f8b-af61-17be8dc204db = Mañana vamos a hacer algo un poco más elaborado.
 
 	//3249. ORIGINAL: Door frames here we come!
 	396b76b9-9cc4-45b2-b44e-477d7368ba22 = ¡Marcos para las puertas, allá vamos!
@@ -9845,13 +9844,13 @@
 	8dce6f6f-0281-4137-bcdd-c68d923dfc24 = Cocina tu carne de conejo, mételo en una olla con agua...
 
 	//3278. ORIGINAL: Throw in your bacon, your tomato, your onion...
-	666e502f-eef9-4df1-bd77-c34a74cd64f5 = Añade el beicon, el tomate, la cebolla...
+	666e502f-eef9-4df1-bd77-c34a74cd64f5 = Ponele el beicon, el tomate, la cebolla...
 
 	//3279. ORIGINAL: ... your carrots, if you want.
-	bb32bf43-5e39-4fe1-8f83-a41f1e3293a0 = ...zanahorias si quieres.
+	bb32bf43-5e39-4fe1-8f83-a41f1e3293a0 = ...zanahorias si te pinta.
 
 	//3280. ORIGINAL: Then, if you're like me, just a bit of salt for flavor.
-	1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9 = Ahora, si eres como yo, añade sólo un poco de sal para el sabor.
+	1be68998-2d9c-4a1f-8d3c-5ffc9a381ee9 = Ahora, si sos como yo, ponele sólo un poco de sal para el sabor.
 
 	//3281. ORIGINAL: Seventy minutes on high heat will do ya.
 	8f7ef66d-ce51-4e58-9b2c-90fd6868a0c0 = Estará listo en 70 minutos con una temperatura alta.
@@ -9875,10 +9874,10 @@
 	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = Necesitas una pared ahí: una grande.
 
 	//3288. ORIGINAL: Three nails, three planks... take that hammer and...
-	7e755ce2-145c-411c-8d8c-4c3022454141 = Tres clavos, tres tablones... coge el martillo y...
+	7e755ce2-145c-411c-8d8c-4c3022454141 = Tres clavos, tres tablones... agarra el martillo y...
 
 	//3289. ORIGINAL: That there's a piece of wall.
-	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = Aquí tenemos un trozo de pared.
+	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = Ahí tenemos un pedazo de pared.
 
 	//3290. ORIGINAL: Neat huh?
 	1b3090b7-2c5f-488a-bcb8-4ee536f59520 = Práctico, ¿eh?
@@ -10055,7 +10054,7 @@
 	9d5cd69e-419b-48fa-a3ae-4ef6532e5a04 = Un lugar para sus joyas, y sus preciosas cosas.
 
 	//3348. ORIGINAL: TWO PLANKS! FOUR NAILS! GO!
-	99a0d48a-9801-4767-a473-4ea84aa19281 = ¡DOS TABLONES Y CUATRO CLAVOS! ¡AL TURRÓN!
+	99a0d48a-9801-4767-a473-4ea84aa19281 = ¡DOS TABLONES Y CUATRO CLAVOS! ¡A LABURAR!
 
 	//3349. ORIGINAL: Just gotta...
 	02b74df5-8d7a-4c55-92c0-4600764079f3 = Sólo...
@@ -10067,7 +10066,7 @@
 	dc272301-3518-4431-86fe-5d203e627b26 = Eso es todo.
 
 	//3352. ORIGINAL: Oh hey, sick of folk seeing you sunbathin'?
-	d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b = ¿Cansada de la gente te vea tomando el sol?
+	d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b = ¿Cansada de la gente te vea tomando sol?
 
 	//3353. ORIGINAL: I was. Get it all the time.
 	e3303d6e-fb75-45a2-a9ab-58cba3908982 = Yo lo estaba. Todo el tiempo.
@@ -10079,13 +10078,13 @@
 	889b6171-8199-4cfe-b01e-65e82d78e429 = Necesitas dos tablones, tres clavos... bang, bang.
 
 	//3356. ORIGINAL: And here she is!
-	5199193d-34cd-4d8d-aa82-9ca0bafab450 = ¡Y aquí está!
+	5199193d-34cd-4d8d-aa82-9ca0bafab450 = ¡Y acá está!
 
 	//3357. ORIGINAL: So if you'll excuse me, I'll just...
 	1e08f4fb-668d-4718-85e4-3641ddcace7b = Así que si me disculpan, voy a...
 
 	//3358. ORIGINAL: Get comfy with my shirt off...
-	2bae7e91-3251-4028-accd-f17eeda48982 = Quitarme la camiseta...
+	2bae7e91-3251-4028-accd-f17eeda48982 = Ponerme cómodo sacandome esta remera...
 
 	//3359. ORIGINAL: Next time on Woodcraft? Doors!
 	2537f8f1-4442-4bc7-9e0f-ffca93347f4f = El próximo día en Woodcraft, ¡puertas!
@@ -10130,16 +10129,16 @@
 	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = Súper afilado cuchillo Kitten.
 
 	//3373. ORIGINAL: Cut your pork to pieces and throw it into fry.
-	f39c4529-1e48-4153-86d7-acada2c63689 = Corta la carne de cerdo en trozos y ponla en la sartén.
+	f39c4529-1e48-4153-86d7-acada2c63689 = Corta la carne de cerdo en pedazos y ponela en la sartén.
 
 	//3374. ORIGINAL: Then add in some fresh vegetables.
-	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = Añade vegetales frescos.
+	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = Ponele vegetales frescos.
 
 	//3375. ORIGINAL: I'm using onion to start, then Bell Pepper and Eggplant.
-	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = Primero he usado cebolla, y luego pimiento y berenjena.
+	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = Primero use cebolla, luego pimiento y berenjena.
 
 	//3376. ORIGINAL: If you're hungry then try it out with some noodles.
-	0098df83-551b-4c76-a1e5-845646fcfdcb = Si tienes hambre, pruébalo con unos fideos.
+	0098df83-551b-4c76-a1e5-845646fcfdcb = Si tenes hambre, pruébalo con unos fideos.
 
 	//3377. ORIGINAL: See? Cooking can be fun and easy.
 	b8dd565e-5918-4d83-b087-f0f54df9ac99 = ¿Ves? Cocinar puede ser fácil y divertido.
@@ -10157,13 +10156,13 @@
 	c43d17b7-a0d1-4d43-bf58-0a5498612f42 = ¡Que tengan un maravilloso día!
 
 	//3382. ORIGINAL: Well hey! Y'all just caught me working out!
-	a79671d6-18b7-43cf-8336-bcb536ef8b14 = ¡Eh eh eeeh! ¡Me habéis pillado trabajando!
+	a79671d6-18b7-43cf-8336-bcb536ef8b14 = ¡Eh eh eeeh! ¡Me agarraron laburando!
 
 	//3383. ORIGINAL: Got a real sweat going on here!
-	81d34fa9-da8a-4f76-9504-6e37a7031f3a = ¡Esto que tengo aquí es sudor de verdad!
+	81d34fa9-da8a-4f76-9504-6e37a7031f3a = ¡Esto que tengo aquí es transpiración de verdad!
 
 	//3384. ORIGINAL: Next time I'll shut the door...
-	77198ade-b8ba-4402-8c08-d7470ec02c83 = La próxima vez cerraré la puerta...
+	77198ade-b8ba-4402-8c08-d7470ec02c83 = La próxima vez voy a cerrar la puerta...
 
 	//3385. ORIGINAL: But hey! There's no door!
 	b11ab71f-fae1-4431-9bec-aca3a845e6de = Pero... ¡No hay puerta!
@@ -10217,22 +10216,22 @@
 	1838e0b1-f471-4cce-88f8-c72573f89f73 = Pero está oscureciendo.
 
 	//3402. ORIGINAL: It's cold as hell, and oxygen isn't there.
-	f6e390bc-6e80-475a-9e52-19d7743dfef9 = Hace un frío que pela y no hay apenas oxígeno.
+	f6e390bc-6e80-475a-9e52-19d7743dfef9 = Hace un frío que te corta la jeta y no hay apenas oxígeno.
 
 	//3403. ORIGINAL: What do you do? You build a fire!
 	7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c = ¿Qué haces? ¡Un fuego!
 
 	//3404. ORIGINAL: Take three pieces of wood - planks maybe
-	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Coges tres trozos de madera, o tablones.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Coges tres pedazos de madera, o tablones.
 
 	//3405. ORIGINAL: Then you need fuel. Anything that burns.
-	645eb206-000b-499f-a452-b0000ab14c53 = Necesitas combustible y algo que arda.
+	645eb206-000b-499f-a452-b0000ab14c53 = Necesitas nafta y algo que prenda.
 
 	//3406. ORIGINAL: Old newspaper, books, bandages.
 	15e22dfd-2295-484b-ab82-811828ceaeac = Periódicos viejos, libros, vendas.
 
 	//3407. ORIGINAL: Add a bit of the old rocket fuel... get it, ey?
-	939dbae3-6db4-40a2-b4d9-18882f81fba2 = Añade un poco de combustible... ¿lo tienes?
+	939dbae3-6db4-40a2-b4d9-18882f81fba2 = Agregale un poco de nafta... ¿lo tenes?
 
 	//3408. ORIGINAL: And flick your lighter like... this...
 	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = Y enciende tu mechero tal que... así...
