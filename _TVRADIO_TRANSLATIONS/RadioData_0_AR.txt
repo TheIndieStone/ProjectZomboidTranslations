@@ -10228,13 +10228,13 @@
 	645eb206-000b-499f-a452-b0000ab14c53 = Necesitas nafta y algo que prenda.
 
 	//3406. ORIGINAL: Old newspaper, books, bandages.
-	15e22dfd-2295-484b-ab82-811828ceaeac = Periódicos viejos, libros, vendas.
+	15e22dfd-2295-484b-ab82-811828ceaeac = Diarios viejos, libros, vendas.
 
 	//3407. ORIGINAL: Add a bit of the old rocket fuel... get it, ey?
 	939dbae3-6db4-40a2-b4d9-18882f81fba2 = Agregale un poco de nafta... ¿lo tenes?
 
 	//3408. ORIGINAL: And flick your lighter like... this...
-	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = Y enciende tu mechero tal que... así...
+	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = Y enciende tu encendedor tal que... así...
 
 	//3409. ORIGINAL: There's a fire, right there.
 	8b07ad31-1eba-4e57-81cb-295f6ab4f71b = Ya hay fuego.
@@ -10246,7 +10246,7 @@
 	8498f3bc-0e70-422a-8c4d-1dca706f14cc = ¡Un gran saludo a la base 42!
 
 	//3412. ORIGINAL: Until next time guys!
-	ec3ecb39-e84d-42fd-bb38-6257446cc92a = ¡Hasta el próximo día chicos!
+	ec3ecb39-e84d-42fd-bb38-6257446cc92a = ¡Hasta el próximo día wachxs!
 
 	//3413. ORIGINAL: I don't know about you, but when I golf with my buddies...
 	0f8761f8-ef67-4c7d-9e75-b82a51364a1b = No sé tú, pero yo cuando juego al golf con mis amigos...
@@ -10255,7 +10255,7 @@
 	1350a861-3fd3-4edb-802c-7c89edace34a = Siempre tenemos ese momento especial.
 
 	//3415. ORIGINAL: You get your clubs out the trunk, your friend does the same...
-	4fbeaf13-594d-497c-9053-220a42155fd3 = Coges tus palos, tu amigo hace lo mismo...
+	4fbeaf13-594d-497c-9053-220a42155fd3 = Agarras tus palos, tu amigo hace lo mismo...
 
 	//3416. ORIGINAL: And you compare - right?
 	346a331b-4e6f-4f4e-a007-9c8e93f26b9e = Y comparas, ¿verdad?
@@ -10309,10 +10309,10 @@
 	09683445-71e0-4c98-9cdc-3d7ea76aa54d = Primero, cocina el beicon.
 
 	//3433. ORIGINAL: I like mine crispy as all heck, but do it to your liking.
-	1479d319-a621-44e6-abe0-ab561e0445fc = A mí me gusta súper crujiente, pero hazlo a tu gusto.
+	1479d319-a621-44e6-abe0-ab561e0445fc = A mí me gusta súper crujiente, pero hacelo a tu gusto.
 
 	//3434. ORIGINAL: Then take your bread, and add in that bacon.
-	43030225-2881-431f-a553-7ba7cf4d8173 = Luego coge tu pan y pon el beicon.
+	43030225-2881-431f-a553-7ba7cf4d8173 = Después agarra tu pan y pone el beicon.
 
 	//3435. ORIGINAL: Then tomato and your lettuce.
 	320d9059-11e3-4770-b42a-71d76ec10bd4 = Añade el tomate y la lechuga.
@@ -10354,10 +10354,10 @@
 	21934aeb-45d9-4cd4-8ce2-32a81e09329f = Necesitaba un sitio donde descansar, y lo necesitaba rápido.
 
 	//3448. ORIGINAL: So what did I do? I'll show you!
-	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = Así que, ¿qué hice? ¡Os lo enseñaré!
+	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = Así que, ¿qué hice? ¡Les voy a mostrar!
 
 	//3449. ORIGINAL: Let's build a bed ladies! Let's do it now!
-	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = ¡Vamos a fabricar una cama, señoras! ¡Ahora!
+	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = ¡Vamos a fabricar una cama, viejas! ¡Ahora!
 
 	//3450. ORIGINAL: Six planks! Four nails! One mattress!
 	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = ¡Seis tablones, cuatro clavos y un colchón!
@@ -10366,28 +10366,28 @@
 	7c465766-f93d-4cf9-9345-93c087861712 = ¡Bang! ¡Bang!
 
 	//3452. ORIGINAL: Yee-hah!
-	fb743edb-7220-4b3e-811e-5c22499b9c50 = ¡Toma ya!
+	fb743edb-7220-4b3e-811e-5c22499b9c50 = ¡Si carajo!
 
 	//3453. ORIGINAL: And there she is, but the test drive can wait.
-	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = ¡Y aquí está! ¿Quién quiere probarla?.
+	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = ¡Y acá está! ¿Quién quiere probarla?.
 
 	//3454. ORIGINAL: We done the exciting stuff...
-	0071b9ec-3368-4614-9721-b89c7eea9616 = Ya hemos hecho lo emocionante...
+	0071b9ec-3368-4614-9721-b89c7eea9616 = Ya hicimos lo emocionante...
 
 	//3455. ORIGINAL: ...but I've also gotta show you how to make a Large Table.
-	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ...pero también os tengo que enseñar cómo hacer una mesa grande.
+	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ...pero también les tengo que enseñar cómo hacer una mesa grande.
 
 	//3456. ORIGINAL: It's no bed, and that's for sure.
 	2976889b-47fb-4075-af81-550319e886f4 = No es una cama, eso seguro.
 
 	//3457. ORIGINAL: Take six planks and four nails.
-	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = Coge seis tablones y cuatro clavos.
+	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = Agarras seis tablones y cuatro clavos.
 
 	//3458. ORIGINAL: Neat, huh?
 	7637a703-c2f6-4481-9ddf-6e1c937e28ed = Práctico, ¿eh?
 
 	//3459. ORIGINAL: Next time: I'm taking y'all upstairs.
-	72bfe800-8f23-4f45-9556-0396734fb084 = El próximo día: les llevaré al piso de arriba.
+	72bfe800-8f23-4f45-9556-0396734fb084 = El próximo día: los voy a llevar al piso de arriba.
 
 	//3460. ORIGINAL: On stairs!
 	9167df6f-9e2c-45cf-a7f8-65614776d17e = ¡Por la escalera!
@@ -10402,7 +10402,7 @@
 	8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3 = Una vez estaba en el bosque en South Island y...
 
 	//3464. ORIGINAL: All of a sudden, I realized I'd lost my tent.
-	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = De repente, me di cuenta que había perdido mi tienda de campaña.
+	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = De repente, me di cuenta que había perdido mi carpa.
 
 	//3465. ORIGINAL: Nightmare, ey?
 	4c619e77-239e-4d88-8b8d-84dbe1d23722 = Una pesadilla, ¿eh?
