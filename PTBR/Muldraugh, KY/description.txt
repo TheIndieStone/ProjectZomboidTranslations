@@ -1,2 +1,11 @@
-Muldraugh - População: 3566
- <LINE> <LINE> Muldraugh é uma pequena comunidade em um lugar popularmente conhecido como 'Condado de Knox' - O ponto central do Estado do Kentucky. Ela cresceu como uma comunidade militar, mas agora abraça pessoas de todos os tipos; Algumas vindas das cidades maiores à volta, algumas famílias de militares e alguns ainda morando abaixo da pobreza. <LINE> <LINE> É um lugar pequeno, recheado de boas pessoas - sem mencionar melhor frango e biscoitos da Spiffos, que são os melhores dessa parte do Kentucky! Tá certo, não acontece muita coisa aqui mas… Isso não significa que a viver em Muldraugh seja sem graça...
+Muldraugh
+ <LINE> <LINE>
+ Muldraugh é uma pequena cidade em uma área que os habitantes locais conhecem como "Knox Country" -
+ o centro pacato do Estado de Kentucky. Cresceu como uma cidade do Exército, mas agora recebe
+ pessoas de todos os estilos de vida - alguns viajantes que se deslocam para as cidades maiores,
+ famílias de militares e outras que vivem abaixo da linha da pobreza.
+ <LINE> <LINE>
+ É um lugar pequeno, cheio de gente boa - sem mencionar o Spiffo's, o melhor
+ fast food deste lado de Kentucky! Claro, não acontece muita coisa aqui -
+ mas isso nÃo significa que a vida em Muldraugh seja chata.
+

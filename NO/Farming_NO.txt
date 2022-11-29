@@ -1,51 +1,68 @@
-Farming_EN = {
-  -- vegetables name (type of seed)
-  Farming_Carrots = "Gulrot",
+Farming_NO = {
+  -- grønnsaksnavn (type frø)
+  Farming_Carrots = "Gulrøtter",
   Farming_Broccoli = "Brokkoli",
-  Farming_Radishes = "Redikk",
+  Farming_Radishes = "Reddiker",
   Farming_Strawberry_plant = "Jordbærplante",
-  Farming_Tomato_Vine = "Tomatplante",
+  Farming_Tomato_Vine = "Tomatvinranke",
   Farming_Potatoes = "Poteter",
   Farming_Cabbages = "Kål",
-  -- growing phase
-  Farming_Seedling = "Spire",
+  -- Vekstfase
+  Farming_Seedling = "Frøplante",
   Farming_Young = "Ung",
-  Farming_Ready_for_Harvest = "Klar for innhøstning",
-  Farming_In_bloom = "I blomst",
-  Farming_Seed-bearing = "Frø-bærende",
-  Farming_Receding = "Avtagene",
+  Farming_Ready_for_Harvest = "Klar for innhøsting",
+  Farming_In_bloom = "Blomstrende",
+  Farming_Seed-bearing = "Frøbærende",
+  Farming_Receding = "Ter tilbake",
   Farming_Rotten = "Råtten",
   Farming_Destroyed = "Ødelagt",
-  -- farming info text
-  -- title
-  Farming_Plant_Information = "Plante Informasjon",
-  Farming_Current_growing_phase = "Nåværende gro fase",
-  Farming_Next_growing_phase = "Neste gro fase",
-  Farming_Last_time_watered = "sist vannet",
+  Farming_Seedling = "Frøplante",
+  Farming_Fully_grown = "Fullt utvokst",
+  Farming_Ready_to_harvest = "Klar til å høstes inn",
+  -- oppdrett info tekst
+  -- tittel
+  Farming_Plant_Information = "Planteinformasjon",
+  Farming_Current_growing_phase = "Nåværende vekstfase",
+  Farming_Next_growing_phase = "Neste vekstfase",
+  Farming_Last_time_watered = "Siste gang vannet",
   Farming_Fertilized = "Gjødslet",
   Farming_Health = "Helse",
   Farming_Disease = "Sykdom",
-  Farming_Water_levels = "Vann nivå",
-  -- water
+  Farming_Water_levels = "Vannstander",
+  -- vann
   Farming_Well_watered = "Godt vannet",
-  Farming_Fine = "Ok",
+  Farming_Fine = "Fint",
   Farming_Thirsty = "Tørst",
   Farming_Dry = "Tørr",
   Farming_Parched = "Uttørket",
-  -- growing phase
-  Farming_Seedling = "Spire",
-  Farming_Fully_grown = "Full vokst",
-  Farming_Ready_to_harvest = "Klar for innhøstning",
-  -- disease
+  -- sykdom
   Farming_Mildew = "Mugg",
-  Farming_Pest_Flies = "Fruktfluer",
-  Farming_Devil_Water_Fungi = "Djevelens Vann sopp",
-  -- hours
+  Farming_Pest_Flies = "Pestfluer",
+  Farming_Devil_Water_Fungi = "Djevelens vannsopp",
+  -- timer
   Farming_Hours = "Timer",
-  -- health
+  -- Helse
   Farming_Flourishing = "Blomstrende",
   Farming_Verdant = "Frodig",
-  Farming_Healthy = "Frisk",
-  Farming_Sickly = "Syk",
-  Farming_Stunted = "Forkrøplet",
-}
+  Farming_Healthy = "Sunn",
+  Farming_Sickly = "Sykelig",
+  Farming_Stunted = "Stagnert",
+  Farming_Tooltip_MinWater = "Min. vann: ",
+  Farming_Tooltip_MaxWater = "Maks. vann: ",
+  Farming_Tooltip_TimeOfGrow = "Gjennomsnittlig veksttid: ",
+  Farming_Tooltip_AverageWater = "Gjennomsnittlig vann: ",
+  Farming_Tooltip_FurrowNeedsSeed = "Fure trenger frø.",
+  Farming_Tooltip_ItemUsed = "Vare brukt",
+  Farming_Tooltip_NotAFurrow = "Ikke en fure.",
+  Farming_Tooltip_NotAPlant = "Ikke en plante.",
+  Farming_Tooltip_NotEnoughWaterInInventory = "Ikke nok vann i inventaret.",
+  Farming_Tooltip_NotReadyToHarvest = "Ikke klar til å bli høstet.",
+  Farming_Tooltip_PlantHasEnoughWater = "Planten har nok vann.",
+  Farming_Tooltip_FurrowHasSeeds = "Furen har allerede frø.",
+  Farming_Tooltip_RequiredSeeds = "Krever frø: ",
+  Farming_Strawberry plant = "Jordebærplante",
+  Farming_Tomato = "Tomat",
+  Farming_Plowed_Land = "Pløyd land",
+  Farming_MissingItem = "Du trenger %1",
+  }
+  

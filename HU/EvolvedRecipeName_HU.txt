@@ -1,0 +1,19 @@
+EvolvedRecipeName_HU = {
+EvolvedRecipeName_Base.CannedBologneseOpen = "Bolognai Konzerv",
+EvolvedRecipeName_Base.CannedCarrotsOpen = "Sárgarépa Konzerv",
+EvolvedRecipeName_Base.CannedChiliOpen = "Csili Konzerv",
+EvolvedRecipeName_Base.CannedCornOpen = "Kukorica Konzerv",
+EvolvedRecipeName_Base.CannedCornedBeefOpen = "Sózott Marhahús Konzerv",
+EvolvedRecipeName_Base.CannedPeasOpen = "Zöldborsó Konzerv",
+EvolvedRecipeName_Base.CannedPotatoOpen = "Krumpli Konzerv",
+EvolvedRecipeName_Base.CannedSardinesOpen = "Szardínia Konzerv",
+EvolvedRecipeName_Base.CannedTomatoOpen = "Paradicsom Konzerv",
+EvolvedRecipeName_Base.Teabag2 = "Tea",
+
+	-- v41.78b
+	-- Átnézve 2022.10.22
+	-- Legutóbbi változás:
+	-- Nincs változás.
+	-- Megjegyzés:
+	-- Egész átnézve. 100%!
+}

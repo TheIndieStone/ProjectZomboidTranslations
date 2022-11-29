@@ -1,0 +1,377 @@
+﻿// Localization Table
+// Language: Francais
+[Info]
+	version = 1
+	guid = b73aa63e-6286-4c32-9e48-3b0024c22b51
+	language = FR
+	translator = Teesee
+[/Info]
+
+[Translations]
+
+	//0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
+	// last record = Des recrues de l'US Army qui, il y a quatre jours, attendaient d'être envoyés dans des bases au-delà des mers...
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Des recrues de l'US Army qui, il y a quatre jours, attendaient d'être envoyés dans des bases au-delà des mers...
+
+	//1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
+	// last record = Troisième jour depuis l'évacuation de Knox.
+	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Troisième jour depuis l'évacuation de Knox.
+
+	//2. ORIGINAL [#FF00B050]: When I asked whether the military sensitivity of the region...
+	// last record = Lorsque je lui ai demandé si la présence de militaires auparavant dans la région...
+	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Lorsque je lui ai demandé si la présence de militaires auparavant dans la région...
+
+	//3. ORIGINAL [#FF00B050]: LBMW ask the questions...
+	// last record = LBMW s'occupe de poser les questions...
+	fb720674-250f-41ca-b269-e5e69da97c0c = LBMW s'occupe de poser les questions...
+
+	//4. ORIGINAL [#FF00B050]: 'We don't feel safe.'
+	// last record = "Nous ne nous sentons pas protégés."
+	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = "Nous ne nous sentons pas protégés."
+
+	//5. ORIGINAL [#FF00B0F0]: And for the rumor-mongering that has grown around the so-called 'Knox Event'.
+	fe80180c-2253-456a-bb7e-75bb249da8ba = Et pour les bruits qui ont couru autour du fameux "Évènement de Knox".
+
+	//6. ORIGINAL [#FF7030A0]: But there's still no official word on the true danger of the biological threat.
+	// last record = Mais toujours aucune sortie officielle sur le vrai risque biologique.
+	3fb56972-8f69-4657-b2c2-f11c96615ee9 = Mais toujours aucune sortie officielle sur le vrai risque biologique.
+
+	//7. ORIGINAL [Black]: <bzzt> <fzzt>
+	// last record = *bzzt* *bzzt*
+	16a40ca6-c815-4b5d-bcb2-fc332b817e1f = <bzzt> <fzzt>
+
+	//8. ORIGINAL [#FF00B050]: I was getting lunch in Spiffo's.
+	// last record = J'ai déjeuné chez Spiffo's.
+	f7d82c9d-d172-4134-a5b5-8829bc621648 = J'ai déjeuné chez Spiffo's.
+
+	//9. ORIGINAL [Black]: <click> <bzzt> <fzzt>
+	// last record = <clic> <bzz> <bzzt>
+	6df53ffe-6600-4fc5-87cb-3262c6fe44c7 = <clic> <bzz> <fzzt>
+
+	//10. ORIGINAL [#FF00B050]: <cough> I know what people will think.
+	// last record = *tousse* Je sais ce que vont penser les gens.
+	b3af859d-e0d4-4ede-a185-597b785489b4 = <tousse> Je sais ce que vont penser les gens.
+
+	//11. ORIGINAL [#FF00B050]: <cough> For me it's over. Whatever else happens to you...
+	// last record = *tousse* Je suis fini. Peu importe ce qui vous arrivera...
+	d37f1120-58df-4e90-87a7-213c1279927d = <tousse> Je suis fini. Peu importe ce qui vous arrivera...
+
+	//12. ORIGINAL [Black]: *distant explosion*
+	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *explosion au loin*
+
+	//13. ORIGINAL [#FF7030A0]: Warning shots.
+	// last record = Des coups de semonce.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Des coups de semonce.
+
+	//14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
+	// last record = [img=music] If I could say... [img=music]
+	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] If I could say... [img=music]
+
+	//15. ORIGINAL [#FF7030A0]: [img=music] Anything that would make you stay. [img=music]
+	// last record = [img=music] Anything that would make you stay. [img=music]
+	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] Anything that would make you stay. [img=music]
+
+	//16. ORIGINAL [#FF7030A0]: [img=music] You know I would. You know. [img=music]
+	// last record = [img=music] You know I would. You know. [img=music]
+	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] You know I would. You know. [img=music]
+
+	//17. ORIGINAL [#FF7030A0]: [img=music] I never wanted to step in your way... [img=music]
+	// last record = [img=music] I never wanted to step in your way... [img=music]
+	379dc781-6a7c-47d4-82c3-9709ed1743b3 = [img=music] I never wanted to step in your way... [img=music]
+
+	//18. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh... [img=music]
+	// last record = [img=music] And you... you know you love me too, ooh... [img=music]
+	91bb6cc4-50eb-4ab8-a872-692dfb9c1298 = [img=music] And you... you know you love me too, ooh... [img=music]
+
+	//19. ORIGINAL [#FF7030A0]: [img=music] You love me too. [img=music]
+	fc02e25d-971d-452f-b5c3-957eaa631e0f = [img=music] You love me too. [img=music]
+
+	//20. ORIGINAL [#FF7030A0]: [img=music] You do. [img=music]
+	b093f7d5-77a2-4f39-af2a-a73964baa7b0 = [img=music] You do. [img=music]
+
+	//21. ORIGINAL [#FF7030A0]: [img=music] Sweetheart darling, you... [img=music]
+	e95407c3-883e-46fe-a612-c4dbcd39ea3b = [img=music] Sweetheart darling, you... [img=music]
+
+	//22. ORIGINAL [#FF7030A0]: [img=music] Do... [img=music]
+	8b91c597-72e3-46eb-b7c2-cdd1a38493cf = [img=music] Do... [img=music]
+
+	//23. ORIGINAL [#FF7030A0]: [img=music] You just know, right where I'll be. [img=music]
+	// last record = [img=music] You just know, right where I'll be. [img=music]
+	d4aa0c1b-1560-49f3-97b4-c88ee5159cb8 = [img=music] You just know, right where I'll be. [img=music]
+
+	//24. ORIGINAL [#FF7030A0]: [img=music] Just turn around. It's me you'll see. [img=music]
+	// last record = [img=music] Just turn around. It's me you'll see. [img=music]
+	8dfc1882-c695-44df-91b2-7eddaddf1bb1 = [img=music] Just turn around. It's me you'll see. [img=music]
+
+	//25. ORIGINAL [#FF7030A0]: [img=music] I can't lie. [img=music]
+	// last record = [img=music] I can't lie. [img=music]
+	64ce4ff8-0728-4884-b091-7e9823320834 = [img=music] I can't lie. [img=music]
+
+	//26. ORIGINAL [#FF7030A0]: [img=music] You'll see me cry. [img=music]
+	// last record = [img=music] You'll see me cry. [img=music]
+	8d1175f0-2431-4edd-9aaa-2fa4e1d12b2e = [img=music] You'll see me cry. [img=music]
+
+	//27. ORIGINAL [#FF7030A0]: [img=music] You'll know that a true heart can bleed. [img=music]
+	// last record = [img=music] You'll know that a true heart can bleed. [img=music]
+	62afca05-35b8-4243-b686-bf160368826f = [img=music] You'll know that a true heart can bleed. [img=music]
+
+	//28. ORIGINAL [#FF7030A0]: [img=music] And you... you know you love me too, ooh. [img=music]
+	// last record = [img=music] And you... you know you love me too, ooh. [img=music]
+	8aa6b2be-38da-42c3-8a3a-98b83eb50ba9 = [img=music] And you... you know you love me too, ooh. [img=music]
+
+	//29. ORIGINAL [#FF7030A0]: ... by The Question.
+	// last record = Par The Question.
+	160c11a7-412b-4ee9-b5e5-a2d7f19435ce = ...par The Question.
+
+	//30. ORIGINAL [#FFFFC000]: [img=music] ... to get a dime stuck in your shoe. [img=music]
+	// last record = [img=music] ...to get a dime stuck in your shoe. [img=music]
+	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ...to get a dime stuck in your shoe. [img=music]
+
+	//31. ORIGINAL [#FFFFC000]: [img=music] And now yessir I'm sinking... [img=music]
+	// last record = [img=music] And now yessir I'm sinking... [img=music]
+	79b24afa-80a6-4491-ac53-4a85b0eccd26 = [img=music] And now yessir I'm sinking... [img=music]
+
+	//32. ORIGINAL [#FFFFC000]: [img=music] My boy once asked me, before he went away. [img=music]
+	// last record = [img=music] My boy once asked me, before he went away. [img=music]
+	f5701f80-6b79-478f-afa3-7ba249b24069 = [img=music] My boy once asked me, before he went away. [img=music]
+
+	//33. ORIGINAL [#FF7030A0]: A military perimeter set up almost overnight.
+	c85a50f3-2cdb-4b1b-9d1d-189ef275a38d = Un périmètre militaire établi presque entièrement cette nuit.
+
+	//34. ORIGINAL [#FF00B050]: I'd be confused too, if I woke up and someone had built a military cordon round me!
+	4f5162dd-e620-40e0-813e-2841fd354881 = Moi aussi, je serais confus, si je me retrouvais entouré d'un cordon militaire à mon réveil !
+
+	//35. ORIGINAL [#FF00B050]: So let's support our boys, people.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Alors montrons du soutien à nos gars.
+
+	//36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
+	// last record = "Cela fait longtemps que nous ne sommes plus prêts."
+	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = "Cela fait longtemps que nous ne sommes plus prêts."
+
+	//37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
+	// last record = Les gens ne savent pas quoi faire, et les militaires ne savent pas quoi faire d'eux.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = Les gens ne savent pas quoi faire, et les militaires ne savent pas quoi faire d'eux.
+
+	//38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
+	// last record = L'Armée attend son heure. S'asurant que nous sommes en sécurité.
+	3433cccb-5d67-467b-89f2-bcb69677b093 = L'armée attend son heure. S'asurant que nous sommes en sécurité.
+
+	//39. ORIGINAL [#FF00B0F0]: I will be able to provide more answers...
+	// last record = Je serai en mesure de vous apporter plus de réponses.
+	a33a9161-878b-47fc-a084-549ee52bbc6a = Je serai en mesure de vous apporter plus de réponses...
+
+	//40. ORIGINAL [#FFFFC000]: Owing to the threat of the spread of the Knox Event...
+	// last record = En raison de la menace d'une propagation de la maladie...
+	184e6db0-da2b-4262-abac-cc0dc1680fe1 = En raison de la menace d'une propagation de la maladie...
+
+	//41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
+	// last record = Voici des images d'aujourd'hui, montrant les affrontements entre des jeunes masqués...
+	ce98252a-4e30-4532-b46e-bdf328380815 = Voici des images d'aujourd'hui, montrant les affrontements entre des jeunes masqués...
+
+	//42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
+	// last record = Des troupes à Times Square. Des chars à Miami beach.
+	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = Des troupes à Times Square. Des chars à Miami Beach.
+
+	//43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
+	// last record = Des images terrifiantes, fournies à Triple-N, révèlent la brutalité à l'intérieur de la Zone d'Exclusion.
+	da14d0d0-b5e4-493d-bc55-4424e50cd975 = Des images terrifiantes, fournies à Triple-N, révèlent la brutalité à l'intérieur de la Zone d'Exclusion.
+
+	//44. ORIGINAL [#FF00B050]: We at Triple-N stand here thinking the same as you.
+	// last record = Ici, à Triple-N, nous pensons comme vous.
+	c99cd365-ac9d-463d-be67-2901750c1595 = Ici, à Triple-N, nous pensons comme vous.
+
+	//45. ORIGINAL [#FF7030A0]: If the fever didn't get to you...
+	1218ffa3-34d9-400e-85cf-95e1462ea1b3 = Si la fièvre ne vous a pas atteints...
+
+	//46. ORIGINAL [#FFFFC000]: Welcome to Talk the Night. With you until Dawn! I'm Dawn Stevenson.
+	// last record = Bienvenue dans Talk the Night, avec vous jusqu'à l'aube ! Je suis Dawn Stephenson.
+	7e5c3cdc-52a6-415b-a54b-4ad1c781f893 = Bienvenue dans Talk the Night, avec vous jusqu'à l'aube ! Je suis Dawn Stevenson.
+
+	//47. ORIGINAL [#FF00B050]: I realise that lessons were learned from the entire Raleigh episode.
+	// last record = ...je me demande s'ils ont vraiment retenu leur leçon après Raleigh.
+	109f693d-3ebc-451d-97f0-4fd6d093f26e = Je me rends compte que des leçons ont été tirées après l'épisode de Raleigh.
+
+	//48. ORIGINAL [#FF7030A0]: Thank you Richard. Keep the reports coming.
+	// last record = Merci Richard. Continuez à nous tenir au courant.
+	3f18f815-7017-41b2-ad00-6ddea2a2b19d = Merci Richard. Continuez à nous tenir au courant.
+
+	//49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
+	// last record = Les gens vont mal, ils sont paniqués et confus.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = Les gens vont mal, ils sont paniqués et confus.
+
+	//50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
+	// last record = L'Évènement de Knox nous a tous mis sur les nerfs.
+	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = L'Évènement de Knox nous a tous mis sur les nerfs.
+
+	//51. ORIGINAL [#FF00B050]: We've been told this is to: 'remove any element of doubt'...
+	// last record = Ou nous a dit que c'était pour "effacer tout soupçon"...
+	a5cd6429-d856-4662-9729-c9175f237540 = On nous a dit que c'était pour "effacer tout soupçon"...
+
+	//52. ORIGINAL [#FF00B050]: They don't want to risk more riots.
+	// last record = Ils ne voudraient pas provoquer d'autres émeutes.
+	e4b97f82-089f-448d-b0c2-bdd2315e0ac7 = Ils ne voudraient pas provoquer d'autres émeutes.
+
+	//53. ORIGINAL [#FF7030A0]: FUCK THIS SHIT!
+	// last record = ALLEZ VOUS FAIRE FOUTRE !
+	4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4 = ALLEZ VOUS FAIRE FOUTRE !
+
+	//54. ORIGINAL [#FFFFC000]: There were thousands of infected, and they left their mark.
+	// last record = Il y avait des milliers d'infectés, et ça a laissé des traces.
+	20a8ee60-553a-45ce-add3-dbe20fd5555f = Il y avait des milliers d'infectés, et ça a laissé des traces.
+
+	//55. ORIGINAL [#FFFFC000]: People who sustained infected attacks in yesterday's chaotic scenes.
+	// last record = Avec des personnes ayant été blessées durant les scènes de chaos d'hier.
+	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Avec des personnes ayant été blessées durant les scènes de chaos d'hier.
+
+	//56. ORIGINAL [#FFFFC000]: That can't be true.
+	// last record = Ce n'est pas vrai.
+	de1a7a5c-e799-4a92-b942-d7683f46449a = Ce n'est pas vrai.
+
+	//57. ORIGINAL [#FF00B050]: $15.99, plus postage and packing!
+	// last record = Le fait qu'il y ait un "autre lieu" est au centre de mes croyances.
+	47c01a90-d68e-483a-9271-24b7e7e60178 = 15,99$ hors emballage et livraison !
+
+	//58. ORIGINAL [#FF7030A0]: You know why we're here...
+	e034c2e5-cf61-45c9-be88-1fe3e7452bc9 = Vous savez pourquoi nous sommes ici...
+
+	//59. ORIGINAL [#FF00B050]: <sigh>
+	4d474699-6df3-4b02-beec-bdea6b0a8e55 = <soupir>
+
+	//60. ORIGINAL [#FFFFC000]: Take a trowel. A shovel... hell maybe even your bare hands.
+	// last record = Prenez un plantoir.
+	d5a7a459-120c-46d2-915a-84ba1453d013 = Prenez un plantoir. Une pelle... punaise, même vos mains nues.
+
+	//61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = Partout où je vais, les bons amis me disent "Merci docteur Cox".
+
+	//62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
+	// last record = L'autre jour, j'ai fait un tour sur la balance et...
+	fc89eb09-6ed8-4d34-a175-19b234f583fc = L'autre jour, j'ai fait un tour sur la balance et...
+
+	//63. ORIGINAL [#FF00B050]: Four planks! Four nails! One knob! Two hinges!
+	// last record = Quatre planches ! Quatre clous ! Une poignée ! Une charnière !
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Quatre planches ! Quatre clous ! Une poignée ! Deux charnières !
+
+	//64. ORIGINAL [#FFFFC000]: Take three pieces of wood - planks maybe.
+	// last record = Prenez trois morceaux de bois, des planches par exemples.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Prenez trois morceaux de bois, des planches par exemple.
+
+	//65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Je ne pensais pas que la Scandinavie était aussi INCROYABLE !
+
+	//66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
+	// last record = Ça va bien ? Vous êtes sur Cook Channel !
+	85b904e0-14e3-4daf-b354-33a7eb31df83 = Ça va bien ? Vous êtes sur le Cook Show !
+
+	//67. ORIGINAL [#FFFFC000]: I'm shutting the whole Paranormal department down!
+	// last record = Je dissous l'ensemble du département du paranormal !
+	819bf863-8eaf-4521-a433-e2f536815951 = Je dissous l'ensemble du département du paranormal !
+
+	//68. ORIGINAL [#FF00B0F0]: [img=music] Jaunty music [img=music]
+	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] Musique joyeuse [img=music]
+
+	//69. ORIGINAL [#FF00B0F0]: [img=music] Orchestral music [img=music]
+	4821dcbf-7084-4ad8-b681-f6eebbae29ad = [img=music] Musique d'orchestre [img=music]
+
+	//70. ORIGINAL [#FF7030A0]: Dr.Oids is the latest blockbuster to hit the big screen...
+	// last record = Dr Oids est la dernière superproduction arrivée sur grand écran...
+	4e76091e-9469-4004-9b8e-066d57cd91bc = Dr Oids est la dernière superproduction arrivée sur grand écran...
+
+	//71. ORIGINAL [#FF7030A0]: How did you prepare for your role as Dr.Oids?
+	// last record = Comment vous êtes vous préparé au rôle du Dr Oids ?
+	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Comment vous êtes vous préparé au rôle du Dr Oids ?
+
+	//72. ORIGINAL [#FF00B050]: Dr.Oids is out in theaters now folks
+	// last record = Dr Oids passe en ce moment au cinéma !
+	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = Dr Oids passe en ce moment au cinéma !
+
+	//73. ORIGINAL [Black]: *bang!* *bang*
+	// last record = <bang> <bang>
+	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = *bang* *bang*
+
+	//74. ORIGINAL [Black]: *Applause in Courtroom*
+	// last record = <la salle d'audience applaudit>
+	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = *la salle d'audience applaudit*
+
+	//75. ORIGINAL [#FF00B050]: Paul, you're on 2000 dollars! Well done!
+	// last record = Paul, vous en êtes à 2000$ ! Bien joué !
+	c0402817-3eb0-46ca-b709-64ae6638e745 = Paul, vous en êtes à 2000$ ! Bien joué !
+
+	//76. ORIGINAL [#FF00B050]: For $3000: your answer is 'Newcastle'.
+	// last record = Pour 3000$ : la réponse est "Newcastle".
+	d7e9480d-695c-4dd1-92af-ad2ec640d201 = Pour 3000$ : la réponse est "Newcastle".
+
+	//77. ORIGINAL [#FF00B050]: Robert Johnson, you're on 1000 dollars! Well done!
+	// last record = Robert Johnson, vous avez déjà 1000$ ! Bien joué !
+	c0f5bad6-1867-4f27-a21b-c9ca77bd4805 = Robert Johnson, vous avez déjà 1000$ ! Bien joué !
+
+	//78. ORIGINAL [#FF7030A0]: I see the fool that hurled ArchDuke OldWorld into the Chaos Abyss is among us?
+	c9b01cec-94a2-4fb0-95d2-0677e237538f = Je vois que l'imbécile qui a plongé l'Archiduc OldWorld dans l'Abysse du Chaos est parmi nous ?
+
+	//79. ORIGINAL [Red]: Sponsored by Spiffo's�!
+	980e2e5d-fb55-417d-a38d-7d08838abdaf = Sponsorisé par Spiffo's™ !
+
+	//80. ORIGINAL [Red]: And Zachary, would you like to play on the see-saw?
+	a706a64e-f46a-407f-b853-91c7e0b607bf = Et Zachary, tu veux jouer sur la balançoire à bascule ?
+
+	//81. ORIGINAL [#FF00B050]: That elegant swiss fondue set? $33.99
+	// last record = Cet élégant set à fondue savoyarde ? 33,99$
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Cet élégant set à fondue savoyarde ? 33,99$
+
+	//82. ORIGINAL [Yellow]: I... Die!
+	72ff543a-10c4-409f-a7c2-9603dc521c11 = Je... meurs !
+
+	//83. ORIGINAL [#FF7030A0]: Moley the Mole? Doesn't his nose twitch adorably?
+	a44a5560-5f13-4575-9cd4-9a931123f3fd = Taupy la Taupe ? Regardez son petit nez frétiller !
+
+	//84. ORIGINAL [#FF00B050]: Let's help your little friend here...
+	// last record = Aidons donc votre petit joujou...
+	845988d3-0acf-464a-952e-b0b05050ad46 = Donnons un coup de pouce à votre petit joujou...
+
+	//85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
+	// last record = 15,99$ plus les frais de port.
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = 15,99$ plus les frais de port.
+
+	//86. ORIGINAL [Red]: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME.
+	// last record = LORSQUE LE CIEL NOCTURNE S'ASSOMBRIRA, JE VEUX SEULEMENT QUE VOUS VOUS RAPPELIEZ DE MOI.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = LORSQUE LE CIEL NOCTURNE S'ASSOMBRIRA, JE VEUX SEULEMENT QUE VOUS VOUS RAPPELIEZ DE MOI.
+
+	//87. ORIGINAL [#FF7030A0]: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?
+	3707534c-49f2-4dc1-bbff-6ef689a945e7 = Tendrepied le Lapin tout doux ? Avez-vous déjà vu un lapin si tendrement délicieux ?
+
+	//88. ORIGINAL [#FF00B050]: LBMW this morning: tellin' us to 'stay indoors'.
+	// last record = Ce matin, LBMW nous disait de "rester à l'intérieur".
+	1046a459-6ead-4145-acc5-192fa0e4398d = Ce matin, LBMW nous disait de "rester à l'intérieur".
+
+	//89. ORIGINAL [#FF00B050]: You'll just need to find a way to distract the...
+	// last record = Il vous faudra juste un moyen de distraire la...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Il vous faudra juste un moyen de distraire la...
+
+	//90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
+	// last record = Hé bien, je sais où je vais aller !
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Hé bien, je sais où je vais aller !
+
+	//91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
+	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = Venez visiter "Je *coeur* Wok and Rolls" aujourd'hui !
+
+	//92. ORIGINAL [#FF00B050]: [img=music] Do the robot dance [img=music]
+	// last record = [img=music] Do the robot dance ! [img=music]
+	7c5dff7e-cf05-4071-a86f-229e0fee0764 = [img=music] Do the robot dance [img=music]
+
+	//93. ORIGINAL [#FF00B0F0]: Dr. Oids, Rated Universal.
+	// last record = Dr Oids, adapté à tout l'univers !
+	75fa01e1-5c17-493a-b539-1d009ade45f2 = Dr Oids, adapté à tout l'univers !
+
+	//94. ORIGINAL [#FF00B050]: Thanks for asking family doctors to recommend: Incontileve.
+	// last record = Merci de demander aux médecins de famille de recommander : Incontileve.
+	3bbc6875-ac2d-44bf-b44e-6458d0d2ac99 = Merci de demander aux médecins de famille de recommander : Incontileve.
+
+	//95. ORIGINAL [#FF00B050]: I'm Joe McKenzie, and I run the Knox Country Pony Roam-O.
+	// last record = Je suis Joe McKenzie, et je gère le Knox Country Pony Roam-O.
+	77383a36-ae45-466d-9c4c-78c036d2862f = Je suis Joe McKenzie, et je gère le Knox Country Pony Roam-O.
+
+	//96. ORIGINAL [#FF00B050]: Horses: the finest animals our nation has to offer.
+	// last record = Les chevaux sont les animaux les plus raffinés de notre nation.
+	c09412e4-f02c-4735-9397-5736fd0ac2e6 = Les chevaux sont les animaux les plus raffinés de notre nation.
+
+[/Translations]

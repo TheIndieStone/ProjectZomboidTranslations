@@ -23,7 +23,7 @@ Some languages use different encoding (See [issue #155](https://github.com/TheIn
 
 ## TV and Radio translations
 
-To translate TV and radio, refer to [this forum post](https://theindiestone.com/forums/index.php?/topic/19235-radio-translation-files/) as they aren't included in this repository yet.
+TV and Radio translations are located in "_TVRADIO_TRANSLATIONS". These cannot be tested ingame as they need to be parsed by WordZed for inclusion.
 
 ## TranslationZed
 
@@ -35,6 +35,8 @@ To test the translations (or modified English texts) in your game, place the fil
 
 You can back up the original translation first and then replace the folder or make a copy or a symbolic/hard link to a mirror of this repository.
 
+The TV and Radio translations are an exception to this.
+
 ## Joining As Contributor
 
 If you want to join as a contributor instead of forking, then create an issue or send a message to the repository maintainers/admins, or through Discord.
@@ -45,6 +47,6 @@ If you have questions you can click the link below to get to the Discord server 
 
 * Translation Discussion Thread: https://theindiestone.com/forums/index.php?/topic/23806-official-translation-files-v2/
 
-* Discord Server: https://discord.gg/0lGvMrCiUWbasJFh
+* Discord Server: https://discord.gg/theindiestone
 
 * Game Website: https://projectzomboid.com/

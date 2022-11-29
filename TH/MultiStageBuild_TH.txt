@@ -1,28 +1,28 @@
 MultiStageBuild_TH = {
     -- Wooden Wall
     MultiStageBuild_CreateWoodenWall_1 = "สร้างกำแพงไม้ ระดับ 1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "ปรับปรุงเป็นกำแพงไม้ ระดับ 2",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "อัปเกรดเป็นกำแพงไม้ ระดับ 2",
     MultiStageBuild_CreateWoodenWall_2 = "สร้างกำแพงไม้ ระดับ 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "ปรับปรุงเป็นกำแพงไม้ ระดับ 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "ปรับปรุงเป็นกำแพงไม้ ระดับ 3",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "อัปเกรดเป็นกำแพงไม้ ระดับ 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "อัปเกรดเป็นกำแพงไม้ ระดับ 3",
     MultiStageBuild_CreateWoodenWall_3 = "สร้างกำแพงไม้ ระดับ 3",
     -- Wooden Window
     MultiStageBuild_CreateWoodenWindow_1 = "สร้างหน้าต่างไม้ ระดับ 1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "ปรับปรุงเป็นหน้าต่างไม้ ระดับ 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "อัปเกรดเป็นหน้าต่างไม้ ระดับ 2",
     MultiStageBuild_CreateWoodenWindow_2 = "สร้างหน้าต่างไม้ ระดับ 2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "ปรับปรุงเป็นหน้าต่างไม้ ระดับ 3",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "ปรับปรุงเป็นหน้าต่างไม้ ระดับ 3",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "อัปเกรดเป็นหน้าต่างไม้ ระดับ 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "อัปเกรดเป็นหน้าต่างไม้ ระดับ 3",
     MultiStageBuild_CreateWoodenWindow_3 = "สร้างหน้าต่างไม้ ระดับ 3",
     -- Metal Wall
     MultiStageBuild_CreateMetalWall_1 = "สร้างกำแพงเหล็ก ระดับ 1",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "ปรับปรุงเป็นกำแพงเหล็ก ระดับ 2",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "อัปเกรดเป็นกำแพงเหล็ก ระดับ 2",
     MultiStageBuild_CreateMetalWall_2 = "สร้างกำแพงเหล็ก ระดับ 2",
     -- Metal Window
     MultiStageBuild_CreateMetalWindow_1 = "สร้างหน้าต่างเหล็ก ระดับ 1",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "ปรับปรุงเป็นหน้าต่างเหล็ก ระดับ 2",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "อัปเกรดเป็นหน้าต่างเหล็ก ระดับ 2",
     MultiStageBuild_CreateMetalWindow_2 = "สร้างหน้าต่างเหล็ก ระดับ 2",
     -- wooden door frame
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "ปรับปรุงเป็นกรอบประตูไม้ ระดับ 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "ปรับปรุงเป็นกรอบประตูไม้ ระดับ 3",
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "อัปเกรดเป็นกรอบประตูไม้ ระดับ 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "อัปเกรดเป็นกรอบประตูไม้ ระดับ 3",
 }
 

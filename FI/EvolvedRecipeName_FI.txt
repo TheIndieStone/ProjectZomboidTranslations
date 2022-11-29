@@ -1,0 +1,12 @@
+EvolvedRecipeName_FI = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Säilyke Bolognese",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Säilykkeet Porkkanat",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Säilykkeet Porkkanat",
+	EvolvedRecipeName_Base.CannedCornOpen = "Säilykemaissi",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Säilytetty naudanliha",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Säilykkeet herneet",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Säilytetty peruna",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Säilykkeet sardiinit",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Säilytetty tomaatti",
+	EvolvedRecipeName_Base.Teabag2 = "tee",
+}

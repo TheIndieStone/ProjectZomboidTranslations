@@ -1015,7 +1015,6 @@ IGUI_EN = {
     IGUI_VehicleLightbar_WAIL = "WAIL",
     IGUI_VehicleLightbar_YELP = "YELP",
     IGUI_Vehicle_SeatOccupied = "Seat Occupied",
-    IGUI_PlayerText_CanNotExitFromMovingCar = "I can not get out of a moving car.",
     IGUI_PlayerText_CanNotSleepInMovingCar = "Stop the car first.",
     IGUI_ConfirmLeaveGame = "Leave game?",
     IGUI_AdminPanel_AdminPower = "Edit your Admin Powers",

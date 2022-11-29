@@ -1,7 +1,0 @@
-﻿/* OUTDATED FORMAT
- * All changes and translations should go to ItemName_XX.txt instead of in Items_XX.txt.
- * DisplayName_<XX> breaks whenever the English DisplayName changes. 
- * Using ItemName_XX.txt makes sure your translations don't break with changes to the English names.
- */
-Items_CN = {
-}
