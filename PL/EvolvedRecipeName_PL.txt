@@ -104,4 +104,6 @@ EvolvedRecipeName_PL = {
 	EvolvedRecipeName_farming.BaconRashers = "Plasterki boczku",
 	EvolvedRecipeName_farming.Strewberrie = "Truskawki",
 	EvolvedRecipeName_Base.Violets = "Fiołki",
+	
+	EvolvedRecipeName_Base.TinnedSoupOpen = "Puszka z zupą – otwarta",
 }
