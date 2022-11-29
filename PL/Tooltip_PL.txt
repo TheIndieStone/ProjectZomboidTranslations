@@ -305,4 +305,13 @@ Tooltip_PL = {
 	Tooltip_item_TaintedWater_Plastic = "Woda niezdatna do picia.<br>Przegotuj ją w mikrofalówce.",
 	
 	Tooltip_no_nails = "Zbyt nieporęczny do wbijania gwoździ.",
+	
+	Tooltip_compass_9 = "Kompas wskazuje północ.",
+	Tooltip_compass_8 = "Kompas wskazuje północny zachód.",
+	Tooltip_compass_7 = "Kompas wskazuje zachód.",
+	Tooltip_compass_4 = "Kompas wskazuje południowy zachód.",
+	Tooltip_compass_1 = "Kompas wskazuje południe.",
+	Tooltip_compass_2 = "Kompas wskazuje południowy wschód.",
+	Tooltip_compass_3 = "Kompas wskazuje wschód.",
+	Tooltip_compass_6 = "Kompas wskazuje północny wschód.",
 }
