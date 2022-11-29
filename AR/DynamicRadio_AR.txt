@@ -30,7 +30,7 @@ DynamicRadio_AR {
     AEBS_weather_light_moderate = "se esperan lluvias de leves a moderadas...",
     AEBS_weather_heavy_rain = "fuertes lluvias",
     AEBS_weather_storm = "tormenta eléctrica",
-    AEBS_weather_tropical = "tropical storm",
+    AEBS_weather_tropical = "tormenta tropical",
     AEBS_weather_blizzard = "nevada",
     AEBS_weather_snowfall = " con posibilidad de nevada.",
     AEBS_weather_storm_C = "Tormenta eléctrica",
