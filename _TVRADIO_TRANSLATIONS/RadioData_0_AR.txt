@@ -1840,7 +1840,7 @@
 	95a753c5-1cc8-4b2e-a2ba-c55c3bd6fb31 = ...han subrayado que las maniobras militares a gran escala en los alrededores...
 
 	//610. ORIGINAL: ... the towns of Muldraugh and West Point are part of a 'long held and long term strategy'...
-	c926f26b-a503-4176-814e-26525a9fd565 = ...de Muldraught y West Point son parte de una "estrategia a largo plazo"... 
+	c926f26b-a503-4176-814e-26525a9fd565 = ...de Muldraught y West Point son parte de una "estrategia a largo plazo"...
 
 	//611. ORIGINAL: ... that's in place to deal with 'security events and localized contamination'.
 	24acb328-5f9b-4555-b563-072ee83ddedd = para hacer frente a 'eventos de seguridad y contaminaciÛn localizada'.
@@ -1919,7 +1919,7 @@
 
 	//636. ORIGINAL: City workers in hygiene masks on the New York subway.
 	97e1673e-ebb5-46f5-b486-f5204e6c7043 = Trabajadores de la ciudad con mascarillas en el metro de Nueva York.
-	
+
 	//637. ORIGINAL: Eyewitness reports suggest extreme flu-like symptoms followed by confusion.
 	854039cb-9ebe-4988-ad85-acaeda47ba54 = Informes de testigos indican sÌntomas similiares a la gripe seguidos de confusiÛn.
 
@@ -2005,7 +2005,7 @@
 	c70ce321-c955-475c-9779-651756916be5 = Dicen que est· controlada, por lo que sÛlo puedo imaginar...
 
 	//665. ORIGINAL: ...that the initial spread has slowed.
-	66d7c36d-f98a-471b-9d53-66628a08ab4e = ...que la propagaciÛn inicial se ha frenado. 
+	66d7c36d-f98a-471b-9d53-66628a08ab4e = ...que la propagaciÛn inicial se ha frenado.
 
 	//666. ORIGINAL: They think it's no longer easily communicable.
 	c2d58da5-0537-471c-b091-485b5da0b715 = Creen que ya no se tansmite f·cilmente.
@@ -2029,7 +2029,7 @@
 	76c9056e-24e2-4235-888f-25bcfd35c147 = Dependemos de hombres circulando en tanques y apostados en la carretera.
 
 	//673. ORIGINAL: You don't solve problems like this by pointing a gun.
-	0c36d173-c554-4d0b-9c38-a81441ef145d = Este problema no se resuelve apuntando con un arma. 
+	0c36d173-c554-4d0b-9c38-a81441ef145d = Este problema no se resuelve apuntando con un arma.
 
 	//674. ORIGINAL: But what is it? Do believe the reports of violence?
 	abbbf0f6-91ce-417b-8824-ee21c7f62e1e = Pero, øquÈ es? øSe cree los informes sobre violecia?
@@ -2362,7 +2362,7 @@
 	77c1aebd-612a-4352-b91d-72f35ed13a6c = Nos quieren lejos de allÌ.
 
 	//784. ORIGINAL: They put us in a school hall. Too many people, too few beds.
-	51c8a0a3-9b2f-4916-a199-8fcdc7f90433 = Nos pusieron en un salÛn del colegio. …ramos demasiada gente y muy pocas camas. 
+	51c8a0a3-9b2f-4916-a199-8fcdc7f90433 = Nos pusieron en un salÛn del colegio. …ramos demasiada gente y muy pocas camas.
 
 	//785. ORIGINAL: We started walking, and we ain't stopped.
 	0c00125f-d816-4c34-aa45-d7228a77a3e9 = Empezamos a caminar, y no nos detuvimos.
@@ -2371,7 +2371,7 @@
 	a3e85653-5529-452e-af2e-09f7a748879d = Esos tipos del EjÈrcito tienen miedo.
 
 	//787. ORIGINAL: You can see it in their eyes.
-	1fd4e6e5-5337-4476-b929-fca002f7e0a6 = Lo puedes ver en sus ojos. 
+	1fd4e6e5-5337-4476-b929-fca002f7e0a6 = Lo puedes ver en sus ojos.
 
 	//788. ORIGINAL: Good morning, you're listening to NNR.
 	dcd66921-debb-4bab-9742-3c16fbeac57d = Buenos dÌas. Est·s oyendo la NNR.
@@ -2383,7 +2383,7 @@
 	7f74357a-adf8-47ff-9210-0aa84027f7b9 = Toque de queda anunciado en Nueva York, Miami y Los ¡ngeles, y vendr·n m·s.
 
 	//791. ORIGINAL: The President addressed a press briefing just moments ago.
-	24240824-be1a-4352-a877-41239b75e53b = El Presidente se dirigÌa a una rueda de prensa hace unos momentos. 
+	24240824-be1a-4352-a877-41239b75e53b = El Presidente se dirigÌa a una rueda de prensa hace unos momentos.
 
 	//792. ORIGINAL: The Knox Event IS contained, but its panic and confusion are not.
 	2a4651d0-5ee1-4dd0-85bb-c93f5d9726b0 = El Evento de Knox est· controlado, pero no el p·nico y la confusiÛn.
@@ -2398,7 +2398,7 @@
 	663695b5-fb15-465d-b4c3-2bf4e8aaa581 = El Presidente ha anunciado toque de queda a partir de las 6pm en las principales ciudades.
 
 	//796. ORIGINAL: He went on to reiterate that the Knox Event is contained.
-	177a71b8-f31a-46f9-a73d-2b530ecc6adf = VolviÛ a reiterar que el Evento de Knox est· controlado. 
+	177a71b8-f31a-46f9-a73d-2b530ecc6adf = VolviÛ a reiterar que el Evento de Knox est· controlado.
 
 	//797. ORIGINAL: He, however, admitted responsibility for the 'perceived lack of communication'.
 	c630d0ae-d5f8-487e-9dbc-df61ce65ef46 = Sin embargo, admitiÛ responsabilidades por la 'aparente falta de comunicaciÛn'.
@@ -2431,7 +2431,7 @@
 	235642d5-b591-43d3-a784-9a3406db1ecd = Con un brazo levantado a modo de saludo.
 
 	//807. ORIGINAL: The other is missing.
-	631ddccb-1fa3-4b97-be38-a05078af9cf4 = Le falta el otro. 
+	631ddccb-1fa3-4b97-be38-a05078af9cf4 = Le falta el otro.
 
 	//808. ORIGINAL: He is bloody. Covered in what would appear to be bite marks.
 	2cb41a03-85ea-4596-9495-924040d97b02 = Est· ensangrentado, cubierto de lo que parecen ser marcas de mordiscos.
@@ -2492,7 +2492,7 @@
 
 	//827. ORIGINAL: The curfew will be enforced until further notice.
 	b5cfe549-6778-4ef5-8dd7-fd9e855aae68 = El toque de queda seguir· activo hasta nuevo aviso.
-	
+
 	//828. ORIGINAL: Your regional NNR station will have all the details.
 	4c230f0f-0aab-4ecc-bd3b-a7312f765b75 = Su emisora local NNR le dar· todos los detalles.
 
@@ -2530,7 +2530,7 @@
 	a5fad46f-019a-4a3f-b9d5-d3bcf8e79376 = Vamos directos hacia el General John McGrew.
 
 	//840. ORIGINAL: This was a statement from General John McGrew recorded earlier today.
-	76c07502-be0c-4f44-992f-3defd9aadb44 = Esta era una declaraciÛn del General John McGrew grabada el dÌa de hoy. 
+	76c07502-be0c-4f44-992f-3defd9aadb44 = Esta era una declaraciÛn del General John McGrew grabada el dÌa de hoy.
 
 	//841. ORIGINAL: The President left the White House through angry crowds last night.
 	d264c10a-799f-465a-aff7-fbbca7b3001c = El Presidente abandonÛ la Casa Blanca a travÈs de una multitud enardecida anoche.
@@ -2560,7 +2560,7 @@
 	585ad5c3-c5cd-4bd7-9c6a-717668cf3053 = Llegan informes de enfrentamiento violentos en el perÌmetro.
 
 	//850. ORIGINAL: We'll have news on that as it happens.
-	30b4edd0-4468-4d87-927c-39d9c11452fa = Tendremos noticias de lo que est· pasando. 
+	30b4edd0-4468-4d87-927c-39d9c11452fa = Tendremos noticias de lo que est· pasando.
 
 	//851. ORIGINAL: And as ever we must report:
 	f3b80c5b-740d-471a-868b-a67b210ffb6d = Y como siempre, informaremos.
@@ -3307,7 +3307,7 @@
 	95d7cd59-74b3-4147-9015-b7bc925eafb2 = Volvemos despuÈs de unos anuncios.
 
 	//1099. ORIGINAL: You're back with KnoxTalk radio.
-	861f6594-2da0-4e7e-958b-1fc0366c6105 = Est·s de vuelta con la emisora KnoxTalk. 
+	861f6594-2da0-4e7e-958b-1fc0366c6105 = Est·s de vuelta con la emisora KnoxTalk.
 
 	//1100. ORIGINAL: Today we're talking to people who made it out of the Exclusion Zone.
 	5ab6e5e1-b69a-4669-8fe0-e82151b70e93 = Estamos hablando con personas que han salido de la Zona de ExclusiÛn.
@@ -3538,7 +3538,7 @@
 	34c6fd2b-df4c-46a4-9ea8-8ef8a15ca107 = øY algo de corto alcance?
 
 	//1176. ORIGINAL: I'm in your boat James. I just don't know.
-	f28b7408-161a-485d-91aa-ddf2b7849fbb = Estoy contigo James. Simplemente no lo sÈ. 
+	f28b7408-161a-485d-91aa-ddf2b7849fbb = Estoy contigo James. Simplemente no lo sÈ.
 
 	//1177. ORIGINAL: What if they don't want to be heard?
 	317a7075-5b2a-4869-8590-0807b4cefa16 = øY si no quieren ser escuchados?
@@ -4213,7 +4213,7 @@
 	33b1b0ca-e02d-40c8-9183-a288852e2a19 = AsÌ es como ACABA.
 
 	//1401. ORIGINAL: Thank you John.
-	d731ea41-8a5a-4784-88f2-c038322a1502 = Gracias John. 
+	d731ea41-8a5a-4784-88f2-c038322a1502 = Gracias John.
 
 	//1402. ORIGINAL: Sure is starting to feel that way.
 	46ce2fbe-088f-4033-aaa2-69eacf17fd2a = Seguro que est· empezando a sentirse asÌ.
@@ -4624,7 +4624,7 @@
 	163621ca-4945-41f0-a1e7-4467e884d53e = Mary, øest·s ahÌ?
 
 	//1538. ORIGINAL: The Army are killing us! My Dad. He didn't even have a scratch!
-	58cc4e9d-5a16-4361-89b2-66b53e1acdff = øEl ejÈrcito nos est· asesinando! A mi padre. °No tenÌa ni un rasguÒo! 
+	58cc4e9d-5a16-4361-89b2-66b53e1acdff = øEl ejÈrcito nos est· asesinando! A mi padre. °No tenÌa ni un rasguÒo!
 
 	//1539. ORIGINAL: You're... kidding?
 	6f7cccd7-111d-4b52-995f-65e7cedcaa63 = øEst·s... de broma?
@@ -4720,7 +4720,7 @@
 	7025d83c-1098-4f88-9d51-71e12e263ae5 = A menos que sea un resfriado o alguna broma enfermiza.
 
 	//1570. ORIGINAL: *cough* *hack*
-	14cce52d-6f90-4a26-8e47-fe018c16c6b5 = *tos* *hack* 
+	14cce52d-6f90-4a26-8e47-fe018c16c6b5 = *tos* *hack*
 
 	//1571. ORIGINAL: This is it. I'm dying.
 	eed0107b-a13d-4217-a2be-e21fa39aa429 = Ahora sÌ. Me estoy muriendo.
@@ -5088,7 +5088,7 @@
 	//1692. ORIGINAL: [img=music] My eyes are open. [img=music]
 	3a1d276b-5d57-4072-9df7-428c256b9fd4 = [img=music] My eyes are open. [img=music]
 
-	//1693. ORIGINAL: We're over because... 
+	//1693. ORIGINAL: We're over because...
 	6b1fb9e9-3df0-442a-a6fd-e0aee09205fd = Hemos terminado porque...
 
 	//1694. ORIGINAL: [img=music] I saw you sat at the stoplight. [img=music]
@@ -5153,7 +5153,7 @@
 
 	//1714. ORIGINAL: [img=music] I don't know if she loves me. [img=music]
 	ac75eaa9-9b5e-4d8e-82d6-5a64428352e1 = [img=music] I don't know if she loves me. [img=music]
-	
+
 	//1715. ORIGINAL: [img=music] If only she could see me. [img=music]
 	69169a78-48b7-4a0c-b3a7-96e5aae41c75 = [img=music] If only she could see me. [img=music]
 
@@ -5420,7 +5420,7 @@
 
 	//1803. ORIGINAL: [img=music] ... with a holler n' a shout. [img=music]
 	8ba212f1-7782-49d1-907e-60c2b11aa571 = [img=music] ...with a holler n' a shout. [img=music]
-	
+
 	//1804. ORIGINAL: [img=music] She asked what in hell  I was doing. [img=music]
 	6562cddb-740d-4a66-b5c1-3ac4ee431ac3 = [img=music] She asked what in hell I was doing. [img=music]
 
@@ -5584,7 +5584,7 @@
 	d23e9bb4-bb76-4f8e-bc69-7f9d98141f1f = [img=music] It's hard to walk, and it's mighty cruel... [img=music]
 
 	//1858. ORIGINAL: [img=music] ...to get a dime stuck in your shoe. [img=music]
-	527954ff-cdf6-4beb-9f44-06b56583f528 = 
+	527954ff-cdf6-4beb-9f44-06b56583f528 =
 
 	//1859. ORIGINAL: We've got a request in from far off New York City.
 	ebbc2923-a342-464f-b2f3-261b135a6185 = Tenemos una peticiÛn desde lejos de la ciudad de Nueva York
@@ -6001,7 +6001,7 @@
 	195e66ea-d975-4ed9-b13a-aae53b9fa5f5 = Si est·s conmigo, es porque quieres cualquier cosa MENOS las noticias.
 
 	//1997. ORIGINAL: No requests tonight. Wires are hot with more important stuff.
-	46710573-d8d8-4789-a34e-4f4e344ebcaf = No aceptamos peticiones esta noche. Las lÌneas est·n saturadas con cosas m·s importantes. 
+	46710573-d8d8-4789-a34e-4f4e344ebcaf = No aceptamos peticiones esta noche. Las lÌneas est·n saturadas con cosas m·s importantes.
 
 	//1998. ORIGINAL: So here's one from me.
 	03a7ba7b-0e73-4d74-9f77-a9649b598e98 = AsÌ que aquÌ va una mÌa.
@@ -6286,7 +6286,7 @@
 	26a29815-fb68-48ff-a547-06bc4affee7c = Las autoridades militares nos han dicho que se espera un informe completo esta tarde.
 
 	//2092. ORIGINAL: Until then this is Kirsty Cormick for Triple-N on the Knox Event line.
-	54273a36-0029-43b7-9dc5-c3c7b4d60d9c = Hasta entonces, aquÌ estuvo Kirsty Cormick para la Triple-N en la frontera del Suceso de Knox. 
+	54273a36-0029-43b7-9dc5-c3c7b4d60d9c = Hasta entonces, aquÌ estuvo Kirsty Cormick para la Triple-N en la frontera del Suceso de Knox.
 
 	//2093. ORIGINAL: Thank you Kirsty.
 	a45a4b41-7c8e-4358-b831-a348c849a410 = Gracias Kirsty.
@@ -6433,7 +6433,7 @@
 	07335259-bd3d-4df0-b0cd-45195920e3fa = Gracias Daniel.
 
 	//2141. ORIGINAL: Now, Triple-N has received a statement overnight from the State Department.
-	118756bf-db4f-4303-bd07-10867849eb7f = La Triple-N ha recibido una declaraciÛn del Departamento de Estado. 
+	118756bf-db4f-4303-bd07-10867849eb7f = La Triple-N ha recibido una declaraciÛn del Departamento de Estado.
 
 	//2142. ORIGINAL: General John McGrew have apologised for a 'lack of clarity'.
 	d62cf80d-9370-47c4-a102-253175730071 = El General John McGrew se ha disculpado por una 'falta de claridad'.
@@ -6625,7 +6625,7 @@
 	bbd2eb2e-c400-4c51-ad6f-97ea36ecb5be = Lo que quiera que sea, no es divertido. Se habrÌa extendido.
 
 	//2205. ORIGINAL: Right now, you could be sick.
-	ff3b6d60-abb6-4b03-99a0-ed7baf6366bc = En estos momentos, podrÌas estar enfermo. 
+	ff3b6d60-abb6-4b03-99a0-ed7baf6366bc = En estos momentos, podrÌas estar enfermo.
 
 	//2206. ORIGINAL: Your kids could be sick.
 	eafb95d0-c842-4cdd-a5c1-64d98401a874 = Tus hijos podrÌan estar enfermos.
@@ -7306,7 +7306,7 @@
 	bbe2978f-fa64-4a6a-af03-2d33ce58fac3 = ...el Presidente ha pedido calma.
 
 	//2432. ORIGINAL: We've lost contact with our reporter Kirsty Cormick, but we have incoming reports...
-	d349a46f-1d21-48f5-a038-3aa6f304aa99 = Hemos perdido el contacto con nuestra reportera Kirsty Cormick, pero nos llegan informes... 
+	d349a46f-1d21-48f5-a038-3aa6f304aa99 = Hemos perdido el contacto con nuestra reportera Kirsty Cormick, pero nos llegan informes...
 
 	//2433. ORIGINAL: ... of gunfire and civilian casualties in the Knox border camp.
 	f337fdb6-3f8a-4f46-a16d-89b7fb028491 = ...de disparos y bajas civiles en el campamento fronterizo de Knox.
@@ -7402,7 +7402,7 @@
 	8175ed6c-b6bb-428a-86bd-6025ebbd5431 = Mi mundo se est· derrumbando.
 
 	//2464. ORIGINAL: Watch this on the VT... those people aren't human.
-	22298f17-75da-4ab3-843e-447421c117d3 = Mira la tele... esas personas no son humanas. 
+	22298f17-75da-4ab3-843e-447421c117d3 = Mira la tele... esas personas no son humanas.
 
 	//2465. ORIGINAL: There's an image in amongst it all.
 	a0bb50f4-11e4-42ca-9be7-f195b9c2acee = Hay una imagen entre todas.
@@ -7585,7 +7585,7 @@
 	e4f6d848-8d42-498c-9ee5-12a9a12e9a00 = Dios nos bendiga.
 
 	//2525. ORIGINAL: Bringing you the facts you need to know, as the Knox Event widens.
-	eebec746-f9cd-445b-9bd8-bf9486dccc68 = Le estamos ofreciendo la informaciÛn que necesita saber, como la propagaciÛn del Incidente de Knox. 
+	eebec746-f9cd-445b-9bd8-bf9486dccc68 = Le estamos ofreciendo la informaciÛn que necesita saber, como la propagaciÛn del Incidente de Knox.
 
 	//2526. ORIGINAL: The Knox Infection is spreading throughout Kentucky, and further North.
 	d1c3db5b-ae82-4083-8c79-ccf470bc71b2 = La InfecciÛn de Knox se est· extendiendo por todo Kentucky y hacia el norte.
@@ -7966,8 +7966,8 @@
 	b3b69cd2-6061-4992-9958-a3d5a6524715 = Diane, es una escena de p·nico y confusiÛn.
 
 	//2652. ORIGINAL: Roads are blocked, checkpoints have been set up.
-	cc9acd26-7ee6-4279-915b-b308fc1f6f9d = Las carreteras est·n cortadas, han puesto puntos de control. 
-	
+	cc9acd26-7ee6-4279-915b-b308fc1f6f9d = Las carreteras est·n cortadas, han puesto puntos de control.
+
 	//2653. ORIGINAL: Equipment waiting for overseas deployment is instead...
 	b0ab6447-c58f-4dcd-8bf9-1af8b85da72f = El equipo pensado para desplegarse en el extranjero, se...
 
@@ -8053,7 +8053,7 @@
 	c868d060-7f59-4638-9794-6515b6c0350f = Ni una palabra sobre el asunto de Telecomunicaciones Knox.
 
 	//2681. ORIGINAL: No explanation on why this... huge logistical operation is necessary.
-	c932a8ed-148b-4ba4-a746-7d9c48d9cf4f = Ninguna explicaciÛn sobre la necesidad de esta... enorme operaciÛn logÌstica. 
+	c932a8ed-148b-4ba4-a746-7d9c48d9cf4f = Ninguna explicaciÛn sobre la necesidad de esta... enorme operaciÛn logÌstica.
 
 	//2682. ORIGINAL: There's a lot of angry, scared people here.
 	54578124-87b1-4b7b-a636-294fbaa61d8f = Hay mucha gente asustada y enfadada.
@@ -9165,7 +9165,7 @@
 	//3051. ORIGINAL: They're stone cold. One of them...
 	6decb8d7-92a4-4833-af87-5c2e39457172 = Est·n frÌos como el hielo. Uno de ellos...
 
-	//3052. ORIGINAL: They're dead. They're actually dead. 
+	//3052. ORIGINAL: They're dead. They're actually dead.
 	4bd6b05e-fa81-4e82-b854-5659433b01d0 = Est·n muertos. En realidad, est·n muertos.
 
 	//3053. ORIGINAL: Are there people, uninfected people, who have died?
@@ -9984,7 +9984,7 @@
 	//3324. ORIGINAL: Ask your doctor today.
 	281289a5-de51-4005-9cd6-c279c762cc34 = Consulta a tu mÈdico.
 
-	//3325. ORIGINAL: Now, I stood on the scales the other day. 
+	//3325. ORIGINAL: Now, I stood on the scales the other day.
 	fc89eb09-6ed8-4d34-a175-19b234f583fc = El otro dÌa me subÌ a una b·scula.
 
 	//3326. ORIGINAL: I got a shock people!
@@ -10228,13 +10228,13 @@
 	645eb206-000b-499f-a452-b0000ab14c53 = Necesitas nafta y algo que prenda.
 
 	//3406. ORIGINAL: Old newspaper, books, bandages.
-	15e22dfd-2295-484b-ab82-811828ceaeac = PeriÛdicos viejos, libros, vendas.
+	15e22dfd-2295-484b-ab82-811828ceaeac = Diarios viejos, libros, vendas.
 
 	//3407. ORIGINAL: Add a bit of the old rocket fuel... get it, ey?
 	939dbae3-6db4-40a2-b4d9-18882f81fba2 = Agregale un poco de nafta... ølo tenes?
 
 	//3408. ORIGINAL: And flick your lighter like... this...
-	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = Y enciende tu mechero tal que... asÌ...
+	31783dfe-2c0c-4acf-a0dd-12f4a10cf8c3 = Y enciende tu encendedor tal que... asÌ...
 
 	//3409. ORIGINAL: There's a fire, right there.
 	8b07ad31-1eba-4e57-81cb-295f6ab4f71b = Ya hay fuego.
@@ -10246,7 +10246,7 @@
 	8498f3bc-0e70-422a-8c4d-1dca706f14cc = °Un gran saludo a la base 42!
 
 	//3412. ORIGINAL: Until next time guys!
-	ec3ecb39-e84d-42fd-bb38-6257446cc92a = °Hasta el prÛximo dÌa chicos!
+	ec3ecb39-e84d-42fd-bb38-6257446cc92a = °Hasta el prÛximo dÌa wachxs!
 
 	//3413. ORIGINAL: I don't know about you, but when I golf with my buddies...
 	0f8761f8-ef67-4c7d-9e75-b82a51364a1b = No sÈ t˙, pero yo cuando juego al golf con mis amigos...
@@ -10255,7 +10255,7 @@
 	1350a861-3fd3-4edb-802c-7c89edace34a = Siempre tenemos ese momento especial.
 
 	//3415. ORIGINAL: You get your clubs out the trunk, your friend does the same...
-	4fbeaf13-594d-497c-9053-220a42155fd3 = Coges tus palos, tu amigo hace lo mismo...
+	4fbeaf13-594d-497c-9053-220a42155fd3 = Agarras tus palos, tu amigo hace lo mismo...
 
 	//3416. ORIGINAL: And you compare - right?
 	346a331b-4e6f-4f4e-a007-9c8e93f26b9e = Y comparas, øverdad?
@@ -10309,10 +10309,10 @@
 	09683445-71e0-4c98-9cdc-3d7ea76aa54d = Primero, cocina el beicon.
 
 	//3433. ORIGINAL: I like mine crispy as all heck, but do it to your liking.
-	1479d319-a621-44e6-abe0-ab561e0445fc = A mÌ me gusta s˙per crujiente, pero hazlo a tu gusto.
+	1479d319-a621-44e6-abe0-ab561e0445fc = A mÌ me gusta s˙per crujiente, pero hacelo a tu gusto.
 
 	//3434. ORIGINAL: Then take your bread, and add in that bacon.
-	43030225-2881-431f-a553-7ba7cf4d8173 = Luego coge tu pan y pon el beicon.
+	43030225-2881-431f-a553-7ba7cf4d8173 = DespuÈs agarra tu pan y pone el beicon.
 
 	//3435. ORIGINAL: Then tomato and your lettuce.
 	320d9059-11e3-4770-b42a-71d76ec10bd4 = AÒade el tomate y la lechuga.
@@ -10354,10 +10354,10 @@
 	21934aeb-45d9-4cd4-8ce2-32a81e09329f = Necesitaba un sitio donde descansar, y lo necesitaba r·pido.
 
 	//3448. ORIGINAL: So what did I do? I'll show you!
-	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = AsÌ que, øquÈ hice? °Os lo enseÒarÈ!
+	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = AsÌ que, øquÈ hice? °Les voy a mostrar!
 
 	//3449. ORIGINAL: Let's build a bed ladies! Let's do it now!
-	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = °Vamos a fabricar una cama, seÒoras! °Ahora!
+	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = °Vamos a fabricar una cama, viejas! °Ahora!
 
 	//3450. ORIGINAL: Six planks! Four nails! One mattress!
 	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = °Seis tablones, cuatro clavos y un colchÛn!
@@ -10366,28 +10366,28 @@
 	7c465766-f93d-4cf9-9345-93c087861712 = °Bang! °Bang!
 
 	//3452. ORIGINAL: Yee-hah!
-	fb743edb-7220-4b3e-811e-5c22499b9c50 = °Toma ya!
+	fb743edb-7220-4b3e-811e-5c22499b9c50 = °Si carajo!
 
 	//3453. ORIGINAL: And there she is, but the test drive can wait.
-	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = °Y aquÌ est·! øQuiÈn quiere probarla?.
+	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = °Y ac· est·! øQuiÈn quiere probarla?.
 
 	//3454. ORIGINAL: We done the exciting stuff...
-	0071b9ec-3368-4614-9721-b89c7eea9616 = Ya hemos hecho lo emocionante...
+	0071b9ec-3368-4614-9721-b89c7eea9616 = Ya hicimos lo emocionante...
 
 	//3455. ORIGINAL: ...but I've also gotta show you how to make a Large Table.
-	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ...pero tambiÈn os tengo que enseÒar cÛmo hacer una mesa grande.
+	a60ec996-4b18-4d0f-ae18-9f40e2bfb11b = ...pero tambiÈn les tengo que enseÒar cÛmo hacer una mesa grande.
 
 	//3456. ORIGINAL: It's no bed, and that's for sure.
 	2976889b-47fb-4075-af81-550319e886f4 = No es una cama, eso seguro.
 
 	//3457. ORIGINAL: Take six planks and four nails.
-	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = Coge seis tablones y cuatro clavos.
+	cd8b48e9-a663-40c3-9a89-28ee467fcb62 = Agarras seis tablones y cuatro clavos.
 
 	//3458. ORIGINAL: Neat, huh?
 	7637a703-c2f6-4481-9ddf-6e1c937e28ed = Pr·ctico, øeh?
 
 	//3459. ORIGINAL: Next time: I'm taking y'all upstairs.
-	72bfe800-8f23-4f45-9556-0396734fb084 = El prÛximo dÌa: les llevarÈ al piso de arriba.
+	72bfe800-8f23-4f45-9556-0396734fb084 = El prÛximo dÌa: los voy a llevar al piso de arriba.
 
 	//3460. ORIGINAL: On stairs!
 	9167df6f-9e2c-45cf-a7f8-65614776d17e = °Por la escalera!
@@ -10402,10 +10402,10 @@
 	8a1113ad-11c4-4eb5-8fcc-6ce75553b0c3 = Una vez estaba en el bosque en South Island y...
 
 	//3464. ORIGINAL: All of a sudden, I realized I'd lost my tent.
-	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = De repente, me di cuenta que habÌa perdido mi tienda de campaÒa.
+	61ba27f8-ec9d-41c4-95c4-c4cf576d2bc2 = De repente, me di cuenta que habÌa perdido mi carpa.
 
 	//3465. ORIGINAL: Nightmare, ey?
-	4c619e77-239e-4d88-8b8d-84dbe1d23722 = Una pesadilla, øeh?
+	4c619e77-239e-4d88-8b8d-84dbe1d23722 = Una cagada, øeh?
 
 	//3466. ORIGINAL: What I did have was four tent pegs - and four sheets.
 	aeb93f9a-899b-4ee3-8cc9-143153b89993 = Lo que tenÌa era cuatro varillas y cuatro s·banas.
@@ -10459,13 +10459,13 @@
 	fb40646a-160c-4709-9030-c5d0c33823de = øCÛmo lo llevan? °Estamos en Cook Show!
 
 	//3483. ORIGINAL: Now today's recipe is a family favorite: pie!
-	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = La receta de hoy es la preferida de mi familia: °pastel!
+	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = La receta de hoy es la preferida de mi familia: °torta!
 
 	//3484. ORIGINAL: And not the sweet cherry pie kind...
-	d5a4b433-df99-4c56-b37c-9c42756fd528 = No el tÌpico pastel dulce de cerezas... 
+	d5a4b433-df99-4c56-b37c-9c42756fd528 = No el tÌpico torta de dulce de cerezas...
 
 	//3485. ORIGINAL: A delicious, hearty and wholesome savory pie...
-	f3d37cf1-c6e4-480d-a6b5-e01aee96be78 = Sino un delicioso, abundante y saludable pastel de...
+	f3d37cf1-c6e4-480d-a6b5-e01aee96be78 = Sino una deliciosa, abundante y saludable torta de...
 
 	//3486. ORIGINAL: Mutton, leek and carrot!
 	d0e634e6-5eec-4c20-8462-21010810f2e2 = °Cordero, puerro y zanahoria!
@@ -10474,7 +10474,7 @@
 	9c64c5ec-7e36-43d0-8e64-91859b927eba = Primero necesitas la base de tu pastel.
 
 	//3488. ORIGINAL: Mix in some flour, yeast, sugar and butter.
-	68fc612e-bf5d-40dd-a345-7f0314894861 = Mezcla harina, levadura, az˙car y mantequilla.
+	68fc612e-bf5d-40dd-a345-7f0314894861 = Mezcla harina, levadura, az˙car y manteca.
 
 	//3489. ORIGINAL: Use all that with your rolling pin...
 	158d96f8-9f48-4f28-809c-cd97a5409876 = Extiende todo con el rodillo...
@@ -10723,7 +10723,7 @@
 	299d0d6c-a7f5-4e07-8db4-9f52846cdbda = Esto es: °Exposure Survival!
 
 	//3571. ORIGINAL: Everyone gets thirsty, right? I know I do.
-	2f5141a6-192d-4dac-9491-e0d998251eab = Todo el mundo tiene sed, øverdad? 
+	2f5141a6-192d-4dac-9491-e0d998251eab = Todo el mundo tiene sed, øverdad?
 
 	//3572. ORIGINAL: If you're a way away from a river though, and there's no tap?
 	024f1e84-0a68-4179-af7b-f7fe07f8b036 = øQuÈ pasa si estas lejos de un rÌo y no hay un grifo cerca?
@@ -11830,7 +11830,7 @@
 	642a053d-1528-4fd1-a2a4-cb85b35344d0 = °Siento la rabia de mil soles!
 
 	//3940. ORIGINAL: Be calm! My frozen walls melt! They begin to flow free!
-	96207256-f95b-4cd1-896f-cb46895c9135 = °C·lmate! °Mis paredes de hielo se funden! °Est·n empezando a derretirse! 
+	96207256-f95b-4cd1-896f-cb46895c9135 = °C·lmate! °Mis paredes de hielo se funden! °Est·n empezando a derretirse!
 
 	//3941. ORIGINAL: Fellow Moderator!
 	2b51ad79-a027-48f1-9cd8-18667baed1f2 = °Asesor!
@@ -11960,7 +11960,7 @@
 
 	//3983. ORIGINAL: Now then, shall we hug?
 	81c92753-77b0-4360-b853-080d2cdc298f = Entonces, ønos damos un abrazo?
-	
+
 	//3984. ORIGINAL: Huuuu-
 	354e3bae-6902-4d5b-afef-ff4e6d954f71 = °Aaaaaaaaa-
 
@@ -12048,7 +12048,7 @@
 	//4012. ORIGINAL: I heard this thing comes with one WHOLE megabyte of RAM!
 	4651c092-dc9e-41ec-b853-2f0cab516916 = °He oÌdo que viene con UN megabyte de RAM!
 
-	//4013. ORIGINAL: That's like... a million bytes? That's insane! 
+	//4013. ORIGINAL: That's like... a million bytes? That's insane!
 	dd33948f-575f-4193-8fa4-7e01df18aff6 = Eso es... øun millÛn de bytes? °Es una locura!
 
 	//4014. ORIGINAL: You seen the graphics on this thing?
@@ -12588,8 +12588,8 @@
 	//4192. ORIGINAL: NO, I CANNOT! ALL WILL FADE!
 	68f38843-9859-4761-a11d-31331d70da0b = °NO PUEDO! °TODO DESAPARECER¡!
 
-	//4193. ORIGINAL: You can, ArchDuke. Look to me! Feel my compassion! 
-	001339b1-1904-480a-8b78-670892aae5d9 = °T˙ puedes, Archiduque! °MÌrame! °Siente mi compasiÛn! 
+	//4193. ORIGINAL: You can, ArchDuke. Look to me! Feel my compassion!
+	001339b1-1904-480a-8b78-670892aae5d9 = °T˙ puedes, Archiduque! °MÌrame! °Siente mi compasiÛn!
 
 	//4194. ORIGINAL: I... I... I SHALL.
 	ec848353-45a1-48aa-8a4b-3234352f8f7b = YO... YO... LO HAR….
@@ -12622,7 +12622,7 @@
 	653cc063-72cd-4968-bff7-6ace03113817 = °Hurra!
 
 	//4204. ORIGINAL: Fluffyfoot the Fluffy Bunny? Have you ever seen a rabbit so fluffily scrumptious?‚Äù
-	ad6b0586-a322-4201-8d85-8a9d9e3b8c1e = øFluffyfoot el Conejito? HabÌas visto alguna vez un conejito tan lindo? 
+	ad6b0586-a322-4201-8d85-8a9d9e3b8c1e = øFluffyfoot el Conejito? HabÌas visto alguna vez un conejito tan lindo?
 
 	//4205. ORIGINAL: Disco dancing?
 	ed19de0c-f9ea-4882-8a3e-1c14c9e6b528 = øBailar?
