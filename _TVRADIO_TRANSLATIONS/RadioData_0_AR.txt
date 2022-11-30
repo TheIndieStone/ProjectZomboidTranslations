@@ -1255,22 +1255,22 @@
 	2c98b587-49c1-4d3c-aed7-0f5b64054bf8 = Esta mañana nos hemos despertado con sonidos de disparos y el personal militar está...
 
 	//415. ORIGINAL: ... pushing back the crowds. Frank. Frank. Can you hear me?
-	5b1f9611-1e46-41c7-a19d-0a60ac547401 = ...haciendo retroceder a la multitud. Frank. Frank. ¿Puedes escucharme?
+	5b1f9611-1e46-41c7-a19d-0a60ac547401 = ...haciendo retroceder a la multitud. Frank. Frank. ¿Podes escucharme?
 
 	//416. ORIGINAL: I can hear you Jackie. I can confirm two people are dead.
 	7170250e-6570-4ed2-8b8c-603e1c8224d9 = Puedo oírte Jackie. Puedo confirmar dos fallecidos.
 
 	//417. ORIGINAL: MOVE BACK PEOPLE. YOU ARE SAFE.
-	e4f32ff2-d460-4df1-9aa2-1d15fed59b84 = ATRÁS TODO EL MUNDO. ESTÁIS A SALVO.
+	e4f32ff2-d460-4df1-9aa2-1d15fed59b84 = ATRÁS TODO EL MUNDO. ESTÁN A SALVO.
 
 	//418. ORIGINAL: THE INFECTION IS CONTAINED.
 	ef38b59c-d54b-453e-996f-ff6e86ae205a = LA INFECCIÓN ESTÁ CONTROLADA.
 
 	//419. ORIGINAL: Jackie! We're being moved back! Can you hear me?
-	3a5594ca-7177-4217-aefd-ec5a6a4b03f1 = ¡Jackie! ¡Nos están echando! ¿Puedes oírme?
+	3a5594ca-7177-4217-aefd-ec5a6a4b03f1 = ¡Jackie! ¡Nos están echando! ¿Podes escucharme?
 
 	//420. ORIGINAL: MA'AM! STAND DOWN! MA'AM! MOVE BACK!
-	ae1c33e7-bd2e-4418-a69c-84e3b60cba6f = ¡SEÑORA! ¡RETÍRESE! ¡SEÑORA! ¡HACIA ATRÁS!
+	ae1c33e7-bd2e-4418-a69c-84e3b60cba6f = ¡SEÑORA! ¡RETÍRESE! ¡VIEJA! ¡HACIA ATRÁS!
 
 	//421. ORIGINAL: THERE IS NO NEED FOR PANIC!
 	33ad4434-4506-423d-adb8-6d9f8615860b = ¡NO HAY NECESIDAD DE ENTRAR EN PÁNICO!
@@ -1318,7 +1318,7 @@
 	217f594a-0907-46f4-82a5-0e2134317a7a = Hay disparos al otro lado del campamento. ¡Frank!
 
 	//436. ORIGINAL: Frank. Can you hear me? We're live. We're live on air.
-	cfdd7257-a96b-4387-b9de-5a293db8b095 = Frank. ¿Puedes oirme? Estamos vivos. Estamos en directo.
+	cfdd7257-a96b-4387-b9de-5a293db8b095 = Frank. ¿Podes escucharme? Estamos vivos. Estamos en directo.
 
 	//437. ORIGINAL: Jackie! There's been an incursion!
 	a33fbe53-e6d8-48e5-9fa5-ac017f978774 = ¡Jackie! ¡Ha habido una incursión!
@@ -1333,10 +1333,10 @@
 	76576946-f56f-4911-b302-a2cbbd9bea3b = ¡Frank! ¿Qué son? ¿Qué aspecto tienen?
 
 	//441. ORIGINAL: Argh! ARGH! FUCK! GET OFF ME!
-	88ff315d-50ae-4dda-8ca8-42233fe803a5 = Argh! ARGH! ¡MIERDA! ¡SUÉLTAME!
+	88ff315d-50ae-4dda-8ca8-42233fe803a5 = Argh! ARGH! ¡MIERDA! ¡SOLTAME!
 
 	//442. ORIGINAL: GET OFF!
-	47555790-5883-4fcc-9a58-860cb0d56632 = ¡SUELTA!
+	47555790-5883-4fcc-9a58-860cb0d56632 = ¡SOLTA LA PUTA!
 
 	//443. ORIGINAL: Jesus Christ.
 	fdbd3c6d-0ee9-4b4c-97e7-5005187ad293 = Dios.
@@ -1399,7 +1399,7 @@
 	89b7bcc8-b356-4cf7-8b5d-d6db0da5f5b3 = El Incidente de Knox ya no está controlado.
 
 	//463. ORIGINAL: I think it's coming to you.
-	0ecf5330-1e91-4d95-96b1-2fe8072daafe = Creo que irán a por ti.
+	0ecf5330-1e91-4d95-96b1-2fe8072daafe = Creo que van a ir por vos.
 
 	//464. ORIGINAL: The military have pulled out.
 	fc36938b-3ad9-433c-ab78-611cfd9313cc = Los militares se han retirado.
@@ -1711,7 +1711,7 @@
 	4feea482-8a0a-4d8d-aba2-d3b4c6a3368e = Esto va dirigio a los no afectados por la segunda oleada de la infección de Knox.
 
 	//567. ORIGINAL: You might know who you are by now..'
-	5ad65a54-bd79-4986-b17a-cef4f8e04147 = Deberíais saber quienes sois por ahora...
+	5ad65a54-bd79-4986-b17a-cef4f8e04147 = Deberías saber quienes son por ahora...
 
 	//568. ORIGINAL: The disease will not spread to you as it has to others...'
 	0c1fbae7-ca62-464a-a7e1-eb900f57bc62 = La enfermedad no se le transmitirá como a los demás...
@@ -2074,7 +2074,7 @@
 	19f624a9-761b-475b-b4bd-49a18c3fdf3f = Se ha convocado una manifestación para esta tarde en Washington DC...
 
 	//688. ORIGINAL: ... where those unhappy with the President's stance aim to make their voices heard.
-	91a3f97e-9f32-4c2c-bf73-be1eb4976ad5 = ...donde aquellos que están descontentos con la postura del Presidente quieren hacer oir sus voces.
+	91a3f97e-9f32-4c2c-bf73-be1eb4976ad5 = ...donde aquellos que están descontentos con la postura del Presidente quieren hacer que sus voces sean escuchadas.
 
 	//689. ORIGINAL: They want answers? Is this a result of the area's chemical testing in the sixties?
 	e2f3f0c6-6bf4-4e2e-8c10-12e73de1d41b = Quieren respuestas. ¿Es esto el resultado de las pruebas químicas que se hicieron en la zona en los años 60?
@@ -2203,7 +2203,7 @@
 	93c0d0b9-c341-4b96-977f-5d190da6c9e9 = Esto no es suficiente para calmar a América.
 
 	//731. ORIGINAL: My aunt's in there. Why can't I hear her?
-	cc78baff-1d71-4ca7-b1db-d6a367ef3f0b = Mi tía está ahí. ¿Por qué no puedo oirla?
+	cc78baff-1d71-4ca7-b1db-d6a367ef3f0b = Mi tía está ahí. ¿Por qué no puedo escucharla?
 
 	//732. ORIGINAL: Why can't they tell us the truth!
 	2aaf789e-7149-438e-a1a9-f93c665903cd = ¡¿Por qué no nos dicen la verdad?!
@@ -2662,7 +2662,7 @@
 	e4f649fb-df80-4aab-bd2a-5411dd7b93ef = ¡No me mire así!
 
 	//884. ORIGINAL: Screw you man! Fu-
-	d21b55b1-f820-4852-8689-d0f267678b3c = ¡Te jodieron tío! Jod-
+	d21b55b1-f820-4852-8689-d0f267678b3c = ¡Anda a cagar chabon! La con-
 
 	//885. ORIGINAL: *bzzt* *fzzt*
 	16a40ca6-c815-4b5d-bcb2-fc332b817e1f = *bzzt* *fzzt*
@@ -2722,7 +2722,7 @@
 	997063a1-26bb-40c2-b4fc-741a98e23bc5 = Nuestro reportero está en la ruta 31W al sur de Louisville.
 
 	//904. ORIGINAL: Al. Al can you hear me?
-	a2e6317a-1fdd-4abd-b6c1-e06a798aaae1 = Al. Al, ¿puedes oirme?
+	a2e6317a-1fdd-4abd-b6c1-e06a798aaae1 = Al. Al, ¿puedes escucharme?
 
 	//905. ORIGINAL: I can.
 	ae08072e-22c0-4f56-a012-8cb6ac2db59d = Te oigo.
@@ -3298,7 +3298,7 @@
 	48014a8a-5626-418b-8cbd-7dcf49bde5b6 = ¿Asustada? No estoy asustada - ¡Estoy cabreada!
 
 	//1096. ORIGINAL: Who do these guys think they are?
-	92103426-1f1c-45cb-a8e5-0834e2d46fd3 = ¿Quién se creen estos tíos que son?
+	92103426-1f1c-45cb-a8e5-0834e2d46fd3 = ¿Quién se creen estos tipos que son?
 
 	//1097. ORIGINAL: They're the US Army ma'am.
 	f4c4e0d7-bdea-492c-9337-d5e7482be36a = Son el ejército de los Estados Unidos señora.
@@ -3361,7 +3361,7 @@
 	2c719698-817d-47d0-ad4e-3a4b5b3ff054 = Tenemos a alguien con novedades. Twiggy, ¿estás ahí?
 
 	//1117. ORIGINAL: Sure am. Figured you'd want to hear from someone from inside.
-	9149cf0b-61ab-44f5-b751-b782ce74cf1c = Estoy. Pensé que querrían oir a alguien de dentro.
+	9149cf0b-61ab-44f5-b751-b782ce74cf1c = Estoy. Pensé que querrían escuchar a alguien de dentro.
 
 	//1118. ORIGINAL: I live in West Point. Own a bar.
 	d5904cbf-dab7-40d5-90c4-c38a92ce42ce = Vivo en West point. Tengo un bar.
@@ -3685,13 +3685,13 @@
 	bcebaad6-6733-4203-92ab-11ba2f234e24 = Que todos lo oigan. Que TODOS lo oigan.
 
 	//1225. ORIGINAL: You get on your knees and repent.
-	e6411f9f-1885-4438-ae49-de2968d09154 = Arrodillaos y arrepentíos.
+	e6411f9f-1885-4438-ae49-de2968d09154 = Arrodillense y arrepientanse.
 
 	//1226. ORIGINAL: He knows your sins, and he's a comin'.
 	386eaf1b-1ac9-413b-b3df-1f65b1e952af = Él conoce tus pecados, es su venida.
 
 	//1227. ORIGINAL: No. In fact, he's already here. And you are JUDGED.
-	182d826b-fef4-4506-a436-aa9426169de7 = No, En realidad, ya está aquí. Y estáis JUZGADOS.
+	182d826b-fef4-4506-a436-aa9426169de7 = No, En realidad, ya está aquí. Y están JUZGADOS.
 
 	//1228. ORIGINAL: You know what it says in the book of Revelations?
 	a69f487d-fa0c-420f-9c0e-83d095cc52da = ¿Sabes qué dice el Apocalípsis?
@@ -4360,13 +4360,13 @@
 	5c32d26f-4883-4912-880d-6d6745545b84 = Estoy tumbada en el asiento de atrás del coche.
 
 	//1450. ORIGINAL: All I can hear is...
-	ecaecc3b-21d3-4938-803d-cc07fe1ffb09 = Todo lo que puedo oir es...
+	ecaecc3b-21d3-4938-803d-cc07fe1ffb09 = Todo lo que puedo escuchar es...
 
 	//1451. ORIGINAL: OH GOD. OH THEY'RE <bzzt> <fzzt>
 	5949cf0e-da4f-44ee-b343-a412b9038f12 = OH DIOS. OH ELLOS ESTÁN <bzzt> <bzzt>
 
 	//1452. ORIGINAL: Danielle, honey can you hear me?
-	ef89f2e7-e573-4098-8bbf-89da285de4e9 = Danielle, cariño ¿puedes oirme?
+	ef89f2e7-e573-4098-8bbf-89da285de4e9 = Danielle, cariño ¿puedes escucharme?
 
 	//1453. ORIGINAL: Let's get the message out there.
 	34ff9f38-bad0-4f26-a521-582c326c5b2e = Hagamos llegar el mensaje.
@@ -4420,7 +4420,7 @@
 	14d24576-8fc4-4b00-99d6-2a7f7a6e204f = De pie. Muerta.
 
 	//1470. ORIGINAL: How the fuck is this happening?
-	a4547e14-1f5e-4844-83d7-c9e709df7b3f = ¿Cómo cojones puede ser?
+	a4547e14-1f5e-4844-83d7-c9e709df7b3f = ¿Cómo mierda puede ser?
 
 	//1471. ORIGINAL: Hi it's Carla.
 	36a49529-ab51-4396-a5d8-3f4c1d3f07b1 = Hola, soy Carla.
@@ -4474,7 +4474,7 @@
 	1c37cd5e-0b7a-44a4-ae51-606c36662381 = ¿Mami? ¿Qué es ese...
 
 	//1488. ORIGINAL: LET US IN! WE CAN HEAR YOU IN THERE!
-	6ac62aa9-baaf-4605-a5e3-a7fe70c5a83c = ¡DÉJENOS ENTRAR! ¡PODEMOS OIRLE!
+	6ac62aa9-baaf-4605-a5e3-a7fe70c5a83c = ¡DÉJENOS ENTRAR! ¡PODEMOS ESCUCHARLO!
 
 	//1489. ORIGINAL: <crash!>
 	5f7f7172-3930-4ce0-aa46-a819d7af20c9 = <crash>
@@ -4594,7 +4594,7 @@
 	29e38bd0-c537-4d0a-9fbc-c616c408e8f2 = Alguien tiene que hacerlo.
 
 	//1528. ORIGINAL: Can you do it Brian?
-	6d9f4f24-6743-4230-8472-6cf576aff3a3 = ¿Tú puedes hacerlo Brian?
+	6d9f4f24-6743-4230-8472-6cf576aff3a3 = ¿Vos podes hacerlo Brian?
 
 	//1529. ORIGINAL: I'll find that out further up the road.
 	ab02ce8c-85d7-40db-8344-90221623a8d8 = Lo averiguaré más adelante en la carretera.
@@ -4795,7 +4795,7 @@
 	baf97375-d69a-4f90-9dc3-9ccb7744fef9 = Todos. Todo el mundo se dirige al norte por Louisville.
 
 	//1595. ORIGINAL: ...you're not gonna make it!
-	4937375d-c126-4b78-8b15-1bc46f2f9a78 = ...no lo vais a conseguir!
+	4937375d-c126-4b78-8b15-1bc46f2f9a78 = ...no lo van a conseguir!
 
 	//1596. ORIGINAL: How do you mean closing?
 	fbb011d6-1899-4b7d-84eb-db10b5c8c57c = ¿A qué te refieres con 'cerrando'?
@@ -5212,7 +5212,7 @@
 	1a7e3621-7dcf-49c3-9e03-9f16b3e3db3b = ¿Todavía te sientes seguro?
 
 	//1734. ORIGINAL: Still I guess if you wanted the news you'd be on Triple-N.
-	601cef57-56c5-4ba2-b84c-95a9ac2a100f = De todas formas, creo que si quisieras oir las noticias, estarías en la Triple-N.
+	601cef57-56c5-4ba2-b84c-95a9ac2a100f = De todas formas, creo que si quisieras escuchar las noticias, estarías en la Triple-N.
 
 	//1735. ORIGINAL: It's a beautiful day out there.
 	1021815b-78a3-4115-b926-12b5d9ea41b2 = Hace un día espléndido.
@@ -5227,7 +5227,7 @@
 	dc66bb0d-c0e6-4372-ba70-78246e6646ef = Malas noticias hoy, ¿eh?
 
 	//1739. ORIGINAL: If y'all are sick in the 'drough, maybe this can liven you up.
-	90b8d5d8-b4be-450c-8bf8-b2b83ab1ce24 = Si estáis enfermos, quizá esto pueda animaros.
+	90b8d5d8-b4be-450c-8bf8-b2b83ab1ce24 = Si están enfermos, quizá esto pueda animaros.
 
 	//1740. ORIGINAL: [img=music] Well I'm a boy from Kentucky... [img=music]
 	bdc39921-cabf-4664-bb99-536b095acc38 = [img=music] Well I'm a boy from Kentucky... [img=music]
@@ -5338,7 +5338,7 @@
 	e6ff8a23-7544-4b74-9909-9b698de5049f = Permanece donde estás.
 
 	//1776. ORIGINAL: Lots of folk trying to come in, but y'all are blocking the roads.
-	4398b38e-22b8-4943-81a8-51b2077c7541 = Muchos estáis intentando venir, pero estáis bloqueando las carreteras.
+	4398b38e-22b8-4943-81a8-51b2077c7541 = Muchos están intentando venir, pero están bloqueando las carreteras.
 
 	//1777. ORIGINAL: Please help the military help you. Thank you.
 	31339a52-1088-49de-a9a0-1915178fc8ff = Por favor, deja que los militares te ayuden. Gracias.
@@ -5371,10 +5371,10 @@
 	c17fa922-3dcc-42ba-af7f-5444e2e780de = Nos han pedido que os digamos: 'Permanezcan. Donde. Están.'
 
 	//1787. ORIGINAL: You guys listening in on the roads gettin' away?
-	03cdeaa3-9499-458f-a92b-667643ac3291 = ¿Me oís los que estáis huyendo por la carretera?
+	03cdeaa3-9499-458f-a92b-667643ac3291 = ¿Me escuchan los que están huyendo por la carretera?
 
 	//1788. ORIGINAL: You're in their way.
-	62916e1a-ef4a-4c14-8df2-0b3b4763c23a = Estáis entorpeciendo su camino.
+	62916e1a-ef4a-4c14-8df2-0b3b4763c23a = Están entorpeciendo su camino.
 
 	//1789. ORIGINAL: Hey General, maybe if you told us what was going on?
 	69011683-1257-455d-8fe7-dc03ffbf2903 = Hola General, quizá nos pueda decir qué está pasando.
@@ -5608,7 +5608,7 @@
 	f81a5b06-6f47-4f8e-9b64-a499b2200b9e = Siente haberte golpeado con el coche.
 
 	//1866. ORIGINAL: If you can hear this, it's for you.
-	65cd89d9-d9f6-47f6-9cdb-322137b2f12e = Si puedes oir esto, es para ti.
+	65cd89d9-d9f6-47f6-9cdb-322137b2f12e = Si puedes escuchar esto, es para ti.
 
 	//1867. ORIGINAL: [img=music] Your love... [img=music]
 	6e56436d-1888-41f0-bb5f-ff3a4e2b0858 = [img=music] Your love... [img=music]
@@ -5725,7 +5725,7 @@
 	69389fc6-d150-4165-96c0-0323bad45c56 = No sé mucho, pero sé cuando son tiempos difíciles.
 
 	//1905. ORIGINAL: Y'all are in Billy's thoughts.
-	024bd224-3bbd-4423-a45a-7c57f7348775 = Todos estáis en los pensamientos de Billy.
+	024bd224-3bbd-4423-a45a-7c57f7348775 = Todos están en los pensamientos de Billy.
 
 	//1906. ORIGINAL: Maybe this'll chase the rain away.
 	fb0a1eab-a70a-46fe-86cb-842b656867a7 = Quizá esto despeje la tormenta.
@@ -5908,7 +5908,7 @@
 	250e57f6-0208-41cd-9017-23263e847c02 = [img=music] And a good-livin' woman to lead y'all astray. [img=music]
 
 	//1966. ORIGINAL: Now why don't y'all ask me what happened twenty years later?
-	17ead38a-3180-4bce-85bd-3285cb7cfbcf = Ahora, ¿por qué no me preguntáis lo que pasó veinte años después?
+	17ead38a-3180-4bce-85bd-3285cb7cfbcf = Ahora, ¿por qué no me preguntán lo que pasó veinte años después?
 
 	//1967. ORIGINAL: [img=music] Well, the day my Betty left me? [img=music]
 	aec247f4-7332-44a1-a55c-15f4f66aa005 = [img=music] Well, the day my Betty left me? [img=music]
@@ -5995,7 +5995,7 @@
 	63e7bbb1-23c3-4610-9406-11600ca3da50 = Supongo que si queréis las noticias...
 
 	//1995. ORIGINAL: ... you'd be switched to the news.
-	ec2efe00-86a7-49a0-b44d-4fa9ed6bf864 = ...habríais sintonizado las noticias.
+	ec2efe00-86a7-49a0-b44d-4fa9ed6bf864 = ...habrían sintonizado las noticias.
 
 	//1996. ORIGINAL: If you're with me - you want anything BUT the news.
 	195e66ea-d975-4ed9-b13a-aae53b9fa5f5 = Si estás conmigo, es porque quieres cualquier cosa MENOS las noticias.
@@ -6568,7 +6568,7 @@
 	24fbfb19-e7a0-4f61-8f13-0d2166d1f5cb = Vamos directamente a Washington, con Daniel Sinclair.
 
 	//2186. ORIGINAL: Daniel - can you hear me?
-	3caa4f11-a6e2-4fd4-9ec1-acadcc701ca5 = Daniel, ¿puedes oirme?
+	3caa4f11-a6e2-4fd4-9ec1-acadcc701ca5 = Daniel, ¿puedes escucharme?
 
 	//2187. ORIGINAL: I can. Yes.
 	fef0a2dd-d37e-46db-ad1f-6b566862b096 = Puedo. Sí.
@@ -7189,7 +7189,7 @@
 	9f3421c7-7d5a-4c51-8263-f1af0e6180b4 = ...por esta información.
 
 	//2393. ORIGINAL: We know you're all inside watching this but...
-	e496207a-1cae-4516-b30e-35525707f4b1 = Sabemos que estáis todos en vuestras casas viendo esto pero...
+	e496207a-1cae-4516-b30e-35525707f4b1 = Sabemos que están todos en vuestras casas viendo esto pero...
 
 	//2394. ORIGINAL: ... we have been asked to remind you of the 6pm curfew.
 	852a2250-f7cf-4fac-b7b0-25c2c75f0158 = ...nos han pedido que les recordemos que el toque de queda comienza a las 6pm.
@@ -7198,7 +7198,7 @@
 	38dc82e5-b200-4208-8dfe-9dd07ff822f8 = Este se ha extendido a: Chicago, San Diego y Baltimore.
 
 	//2396. ORIGINAL: Information on this can be found on your local news channel.
-	98b483e1-eb6c-42dd-90ca-0d265911cfe1 = Puedes encontrar más información sobre esto en tu canal de noticias local.
+	98b483e1-eb6c-42dd-90ca-0d265911cfe1 = Podes encontrar más información sobre esto en tu canal de noticias local.
 
 	//2397. ORIGINAL: I wouldn't have the words to express my feelings...
 	ad02427e-7256-4e4b-8379-3b6f01e268f3 = No tendría palabras para expresar lo que siento...
@@ -7207,7 +7207,7 @@
 	d62f0832-fe01-4f49-8672-f8c20f3c6838 = ...aunque pudiera. O aunque quisiera.
 
 	//2399. ORIGINAL: You don't need to hear me. You need this guy. General John McGrew.
-	84550a81-5100-4a21-b545-9022904107ca = No tienes que oirme a mí. Tienes que oír a este tipo. El General John McGrew.
+	84550a81-5100-4a21-b545-9022904107ca = No tienes que escucharme a mí. Tienes que oír a este tipo. El General John McGrew.
 
 	//2400. ORIGINAL: This was recorded moments ago:
 	22794740-f4b2-4bfa-a929-222150782489 = Esto se grabó hace unos instantes:
@@ -7930,7 +7930,7 @@
 	76a2c3cb-c322-49e1-843c-3d93995a9ff7 = Estoy en paz con todo eso ahora. Desde el fallo del Tribunal.
 
 	//2640. ORIGINAL: But I spent so much of my time fighting to get Suzanne's voice heard.
-	ce8926d6-9488-46d2-bda9-ec3ddef406de = Pero he gastado mucho tiempo luchando por hacer oir la voz de Suzanne.
+	ce8926d6-9488-46d2-bda9-ec3ddef406de = Pero he gastado mucho tiempo luchando por hacer que la voz de Suzanne sea escuchada.
 
 	//2641. ORIGINAL: And when I look at how efficient the response to the Event has been...
 	7806ad81-2e36-4f4b-b577-56d5d0c7703e = Y cuando veo lo eficiente que ha sido la respuesta al Incidente...
@@ -8014,7 +8014,7 @@
 	319dc33c-4230-4a07-9c0b-02d9449cfdb5 = ...campamento militar que tengo detrás de mí, esta tarde.
 
 	//2668. ORIGINAL: A lot of angry people here want to hear what he has to say.
-	c6e3a12b-bd10-42f0-b12b-143b273c5ec6 = Mucha gente enfadada quiere oir lo que tiene que decir.
+	c6e3a12b-bd10-42f0-b12b-143b273c5ec6 = Mucha gente enfadada quiere escuchar lo que tiene que decir.
 
 	//2669. ORIGINAL: I bet they do. Okay Richard, thanks for the report.
 	b5cf4580-c984-4886-819f-3356850a387a = Apuesto a que sí. Bien Richard, gracias por informarnos.
@@ -8950,7 +8950,7 @@
 	f9e10857-2306-4a04-b56f-0f747e88e7be = ¡General! ¡General!
 
 	//2980. ORIGINAL: I said no questions Richard! When we have news you'll hear it.
-	58338de1-50ed-4311-b94e-cc511e2a8d56 = ¡He dicho que sin preguntas Richard! Cuando tengamos noticias las oirás.
+	58338de1-50ed-4311-b94e-cc511e2a8d56 = ¡He dicho que sin preguntas Richard! Cuando tengamos noticias las escucharas.
 
 	//2981. ORIGINAL: After shocking recent events we've been asking questions.
 	a073173d-d56b-4ddf-886f-a096dc3219a9 = Después de los últimos e impactantes acontecimientos nos hemos estado haciendo preguntas.
@@ -9280,7 +9280,7 @@
 	85ebda08-07c2-4006-8e23-16799aea256f = ...pero tenemos otro equipo en la carretera.
 
 	//3090. ORIGINAL: What are you guys hearing?
-	a88bd42c-5480-40cb-8925-3a04759fe296 = ¿Qué estáis oyendo chicos?
+	a88bd42c-5480-40cb-8925-3a04759fe296 = ¿Qué están oyendo chicos?
 
 	//3091. ORIGINAL: We've been stopped at a checkpoint, but it's gridlock in any case.
 	dd3947f9-ec2d-4e64-8a36-505bdcebeff3 = Nos han parado en un punto de control, pero de todas formas hay un atasco.
@@ -9574,10 +9574,10 @@
 	797d7ddd-c394-4c5f-b68a-c1c77b406d68 = Bien, parece que hoy nos dirigimos al público masculino.
 
 	//3188. ORIGINAL: Focus-testing. You got to love it, huh?
-	e40ea507-7a4d-47b2-a5f8-82153f6cf70f = Estoy seguro que esto os va a encantar.
+	e40ea507-7a4d-47b2-a5f8-82153f6cf70f = Estoy seguro que esto les va a encantar.
 
 	//3189. ORIGINAL: Anyway, men like bars. They like a beer.
-	7e28da39-6029-40a6-bff0-f99591bad1d9 = A lo que vamos, a los hombres les gustan las barras. Les gusta la cerveza.
+	7e28da39-6029-40a6-bff0-f99591bad1d9 = A lo que voy, a los hombres les gustan las barras. Les gusta la birra.
 
 	//3190. ORIGINAL: *sigh*
 	f14f0a3c-e1ef-4b4e-aad3-361115ec3df0 = *suspiro*
@@ -10090,7 +10090,7 @@
 	2537f8f1-4442-4bc7-9e0f-ffca93347f4f = El próximo día en Woodcraft, ¡puertas!
 
 	//3360. ORIGINAL: Can I hear a yee-hah?
-	fbc35c77-7a87-4917-befe-3141bfec8a0a = ¿He oído un '¡hurra!'?
+	fbc35c77-7a87-4917-befe-3141bfec8a0a = ¿Escuche un '¡VAMOO!'?
 
 	//3361. ORIGINAL: Now I'd like you to meet my good friend Tooks Bear.
 	5b256688-3ca3-4cb6-aa83-142fe98b55cc = Ahora me gustaría presentarte a mi buen amigo el oso Tooks.
@@ -10927,10 +10927,10 @@
 	fe78c652-284c-4ed1-b16d-15a3fded56ab = La vida es complicada cuando tenes 17 años.
 
 	//3639. ORIGINAL: Life's even trickier when you're a Queen's Counsel in the British Judicial System.
-	3eecc27d-b503-4623-a63e-c0e089d328ac = Mucho más cuando eres el Consejero de la Reina en el Sistema Judicial Británico.
+	3eecc27d-b503-4623-a63e-c0e089d328ac = Mucho más cuando sos el Consejero de la Reina en el Sistema Judicial Británico.
 
 	//3640. ORIGINAL: I've learned rather a lot of tough lessons today.
-	612026be-3c5f-40de-b75e-2b0973d05b97 = Hoy he aprendido algunas lecciones duras.
+	612026be-3c5f-40de-b75e-2b0973d05b97 = Hoy aprendí algunas lecciones duras.
 
 	//3641. ORIGINAL: Lessons about love. Lessons about life.
 	5aa763a4-f9b8-44d6-b9f8-99f69abf815e = Lecciones sobre la vida y el amor.
@@ -10945,7 +10945,7 @@
 	e004265b-cbff-4488-af74-2f4b5bdcc028 = Santo Dios. Creo que ya lo acabo de hacer.
 
 	//3645. ORIGINAL: Oh Albert, I've been waiting so long...
-	0009bc32-db7b-4795-b83d-47dd4ca27857 = Oh Albert, he esperado tanto...
+	0009bc32-db7b-4795-b83d-47dd4ca27857 = Oh Albert, estuve tanto tiempo esperandolo...
 
 	//3646. ORIGINAL: Sir, you're required in the James vs. Greggs hearing.
 	2cc0d3b1-b611-41d6-948a-82c8bbf32c3e = Señor, le requieren en la vista de James contra Greggs.
@@ -10972,13 +10972,13 @@
 	956c0a5e-2241-45a9-936d-a49ddbc71ee9 = <suspiro>
 
 	//3654. ORIGINAL: Come with haste sir.
-	9b99f2f4-c6a8-42f2-91dc-2433621f60e5 = Dese prisa señor.
+	9b99f2f4-c6a8-42f2-91dc-2433621f60e5 = Apurate chabon!
 
 	//3655. ORIGINAL: [img=music] Orchestral music. [img=music]
 	e347b12b-0b9e-4628-82ce-873117588dc8 = [img=music] Música orquestral. [img=music]
 
 	//3656. ORIGINAL: Joshie, what's wrong?
-	c89de8d8-ffcf-4369-ad62-b893ef6953d2 = Joshie, ¿qué ocurre?
+	c89de8d8-ffcf-4369-ad62-b893ef6953d2 = Joshie, ¿qué pasa?
 
 	//3657. ORIGINAL: You just won the Orange County Football tournament...
 	736dd5b0-2dd7-4e13-8a32-112958e8568d = Acabas de ganar el Orange County Football...
@@ -11017,25 +11017,25 @@
 	c70c3c28-297f-4f84-9648-475d1f8a40fb = ¡Ha cerrado el departamente de fenómenos paranormales!
 
 	//3669. ORIGINAL: You think I don't know that Mantell?
-	f1acf83c-26c2-4899-b616-cb5b016c1be4 = ¿Crees que no lo sé, Mantell?
+	f1acf83c-26c2-4899-b616-cb5b016c1be4 = ¿Te pensas que no lo sé, Mantell?
 
 	//3670. ORIGINAL: Well, clearly - as otherwise why would you be going to Cincinnati?
-	1c28e915-a563-4557-b089-bb1e703598ab = Bueno, es evidente, de lo contrario, ¿para qué ibas a ir a Cincinnati?
+	1c28e915-a563-4557-b089-bb1e703598ab = Bueno, esta clarisimo, de lo contrario, ¿para qué ibas a ir a Cincinnati?
 
 	//3671. ORIGINAL: Because in Cincinnati there's a ghost who turned a man's head inside-out!
-	7da0c766-9515-4a79-b06b-ac5dde1393ce = ¡Porque en Cincinnati hay un fantasma que le volvió la cabeza del revés a un hombre!
+	7da0c766-9515-4a79-b06b-ac5dde1393ce = ¡Porque en Cincinnati hay un fantasma que le dio vuelta la cabeza a un chabon!
 
 	//3672. ORIGINAL: A father of two Mantell!
-	97a0ec81-e7ef-4548-b883-c8dbc62fc34a = ¡El padre de dos niños, Mantell!
+	97a0ec81-e7ef-4548-b883-c8dbc62fc34a = ¡El papá de dos niños, Mantell!
 
 	//3673. ORIGINAL: I owe it to those kids.
-	1e5ed0b9-0743-4186-8ddd-705042f9cc32 = Se lo debo a esos críos.
+	1e5ed0b9-0743-4186-8ddd-705042f9cc32 = Se lo debo a esos pendejos.
 
 	//3674. ORIGINAL: Hargrave what happened to that man was... disturbing.
-	d87c7283-4252-49a1-a689-d31f5811ae23 = Hargave, lo que le pasó a ese hombre fue... inquietante.
+	d87c7283-4252-49a1-a689-d31f5811ae23 = Hargave, lo que le pasó a ese tipo fue... inquietante.
 
 	//3675. ORIGINAL: But ghosts who turn people's heads inside out?
-	7083ec42-78f1-4c11-98c4-d0af273e9e0b = Pero, ¿fantasmas que vuelven la cabeza de la gente del revés?
+	7083ec42-78f1-4c11-98c4-d0af273e9e0b = Pero, ¿fantasmas que le dan vuelta la cabeza a la gente?
 
 	//3676. ORIGINAL: It just doesn't make sense.
 	1662d7ce-0124-4640-ae0e-7a3c1fa94e37 = No tiene sentido.
@@ -11107,19 +11107,19 @@
 	08d126b7-680b-4dbc-aa0c-d7e7b4558b5e = ¡Aquí Stephanie o'Donoghue, con Charles McCoy!
 
 	//3699. ORIGINAL: Charles, how do the nerds do this?!
-	da3f82b3-0a5c-4b2b-a682-2ba780b437be = Charles, ¿cómo han hecho esto los cerebritos?
+	da3f82b3-0a5c-4b2b-a682-2ba780b437be = Charles, ¿cómo hicieron esto los nerds?
 
 	//3700. ORIGINAL: It's a cartoon, but it's all... in a computer?
 	ede51031-3dde-493a-9a5d-153847f89499 = Es un cómic, pero está todo ¿en un ordenador?
 
 	//3701. ORIGINAL: I know right? Those guys wear glasses and are all like 'horrdihooorrr'!
-	96b4e6fb-e957-42fa-9980-3541cf459091 = Lo sé. Esos tipos llevan gafas y son muy frikis.
+	96b4e6fb-e957-42fa-9980-3541cf459091 = Lo sé. Esos chabones tienen lentes y son re frikis.
 
 	//3702. ORIGINAL: I was like - how come these dorks can do something so cool?
-	4519255b-aac9-48e3-8321-c75210c67b32 = Era como... ¿cómo pueden estos idiotas hacer algo tan chulo?
+	4519255b-aac9-48e3-8321-c75210c67b32 = Era como... ¿cómo pueden estos pelotudos hacer algo tan piola?
 
 	//3703. ORIGINAL: And it is cool, right?
-	d44031af-c651-43ec-be6b-2078a99f6c9e = Y es genial, ¿verdad?
+	d44031af-c651-43ec-be6b-2078a99f6c9e = Y esta bueno, no, ¿verdad?
 
 	//3704. ORIGINAL: It sure is. I was A-MAZED.
 	273cbb94-b907-4f8f-98ee-a3a842df7a3f = Lo es. Es SOR-PREN-DENTE.
@@ -11137,22 +11137,22 @@
 	79e8f3ca-cec6-4b02-a7cf-6f1b24400df6 = ¿En serio?
 
 	//3709. ORIGINAL: Nah, I'm yanking your chain!
-	3c8d1078-dedc-4718-92b7-ed445a7c56b3 = No, ¡te estaba tomando el pelo!
+	3c8d1078-dedc-4718-92b7-ed445a7c56b3 = No, ¡te estaba jodiendo!
 
 	//3710. ORIGINAL: It was only a few of them!
 	e49a2bab-7655-4806-8844-86c1166e340d = ¡Sólo hice un par de ellos!
 
 	//3711. ORIGINAL: Charles, you're incorrigible - but I love you!
-	4aa164db-a232-4fe7-8e35-38f29bf49148 = Charles, eres incorregible, ¡pero te queremos!
+	4aa164db-a232-4fe7-8e35-38f29bf49148 = Charles, sos terrible, ¡pero te queremos!
 
 	//3712. ORIGINAL: I know right?!
-	06c1a644-a039-4e70-85f0-26bb3bc3bb00 = ¡Lo sé!
+	06c1a644-a039-4e70-85f0-26bb3bc3bb00 = ¡Si, ya se, jajaja!
 
 	//3713. ORIGINAL: Dr Oids is out in theaters now folks!
 	8b5bfe23-ac2d-459c-93de-8450789a9bc1 = ¡Dr. Oids ya está en el cine!
 
 	//3714. ORIGINAL: Hey that's my job!
-	412cb41f-ef3b-4fc8-bbc8-0d2c40f9b040 = ¡Oye, ese es mi trabajo!
+	412cb41f-ef3b-4fc8-bbc8-0d2c40f9b040 = ¡Ey, ese es mi trabajo!
 
 	//3715. ORIGINAL: Back to the studio!
 	06bc5bbf-559d-4176-90a8-0be914477b5d = ¡Volvemos al estudio!
@@ -11194,10 +11194,10 @@
 	c28aba0b-230f-48c4-bd28-2e9c2be7868c = Lo siento mucho. Fui débil.
 
 	//3728. ORIGINAL: I'm sorry sir, but is this really necessary?
-	fab62ad1-ee76-4b79-ad16-8a851dce3885 = Lo siento señor, pero ¿esto es realmente necesario?
+	fab62ad1-ee76-4b79-ad16-8a851dce3885 = Perdón señor, pero ¿esto es realmente necesario?
 
 	//3729. ORIGINAL: You're all present to hear your father's last will and testament.
-	42d897aa-94df-4991-bebd-1ddf504f0f6e = Está todos aquí para oir la última voluntad y el testamento de su padre.
+	42d897aa-94df-4991-bebd-1ddf504f0f6e = Está todos aquí para escuchar la última voluntad y el testamento de su padre.
 
 	//3730. ORIGINAL: You bet we are...
 	74648638-c8f9-4750-8378-b22a06241583 = Apueste por ello...
@@ -11206,31 +11206,31 @@
 	86c8758f-502b-4149-aae9-f7f4b097871b = [img=music] On Sun... set... Drive! [img=music]
 
 	//3732. ORIGINAL: What the hell are you doing in Cincinnati Hargave?
-	b5c1cbc8-4c76-4bf4-9146-466dc1907481 = ¿Qué demonios estás haciendo en Cincinnati, Hargave?
+	b5c1cbc8-4c76-4bf4-9146-466dc1907481 = ¿Qué mierda estás haciendo en Cincinnati, Hargave?
 
 	//3733. ORIGINAL: This time you're WAY outta line!
-	b40571fa-e023-4d5c-af29-217f60c05ee2 = ¡Esta vez se está PASANDO de la raya!
+	b40571fa-e023-4d5c-af29-217f60c05ee2 = ¡Esta vez se está re ZARPANDO! 
 
 	//3734. ORIGINAL: I shut you down! Is Mantell with you?
-	98e4470c-6d42-4bb1-bdb1-5bc64317af0c = ¡Te he cesado! ¿Está Mantell contigo?
+	98e4470c-6d42-4bb1-bdb1-5bc64317af0c = ¡Te doy de baja! ¿Está Mantell contigo?
 
 	//3735. ORIGINAL: No sir.
 	65f0b636-71e9-4af5-9b3e-3f11ad6fea4f = No señor.
 
 	//3736. ORIGINAL: I want you back. Right now.
-	dde36fdc-7b73-4183-9b24-e3cf936a3511 = Vuelve. Ahora mismo.
+	dde36fdc-7b73-4183-9b24-e3cf936a3511 = Volve. Ya mismo.
 
 	//3737. ORIGINAL: I'll be back right after I keep a promise, sir.
 	f8b6c97c-a665-44ed-acd1-79dfbfccc163 = Volveré después de que cumpla una promesa, señor.
 
 	//3738. ORIGINAL: A promise to a little girl whose Dad's head was turned inside out...
-	2b79529d-3878-41d1-bab0-ad32d6c3ef57 = Una promesa a una niña a cuyo padre le puso la cabeza del revés...
+	2b79529d-3878-41d1-bab0-ad32d6c3ef57 = Una promesa a una niña a cuyo padre le puso la cabeza dada vuelta...
 
 	//3739. ORIGINAL: ... by a ghost.
 	6156b1e8-39fa-4ddf-8e30-0612fed0c8e1 = ...un fantasma.
 
 	//3740. ORIGINAL: Godammit!
-	d8068156-1a49-417e-848f-af3030815ebc = ¡Maldita sea!
+	d8068156-1a49-417e-848f-af3030815ebc = ¡La concha de la lora!
 
 	//3741. ORIGINAL: He didn't sound happy.
 	f0494b08-9e4d-4292-9181-fb12f656118e = No parecía muy contento.
@@ -11239,10 +11239,10 @@
 	576fcb81-ece1-404c-9e81-60e0b62d504e = No importa. Este es el almacén.
 
 	//3743. ORIGINAL: This is where it happened.
-	42db1874-c93c-4a57-9df2-7c09ea2841e1 = Aquí es donde pasó.
+	42db1874-c93c-4a57-9df2-7c09ea2841e1 = Acá es donde pasó.
 
 	//3744. ORIGINAL: I'll get the flashlights.
-	2d78166a-f4cc-49d3-9691-8ea45ad11cff = Traeré las linternas.
+	2d78166a-f4cc-49d3-9691-8ea45ad11cff = Traigo las linternas.
 
 	//3745. ORIGINAL: So, of course, if we look at this as a ... quadratic equation.
 	c2a827ed-51db-4095-a45c-dd9130fd9fe4 = Así que, por supuesto, si miramos esto como una... ecuación de segundo grado.
@@ -11257,10 +11257,10 @@
 	aaff7d03-2ed2-49a5-a0bb-9cedcb789b7c = Y por supuesto, su papel en Las Cortes es más importante que su educación.
 
 	//3749. ORIGINAL: Oh just sit down boy. Don't dawdle.
-	399d87ae-4e4b-4a4e-a120-068306588b76 = Siéntate. No te entretengas.
+	399d87ae-4e4b-4a4e-a120-068306588b76 = Sentate. No te distraigas.
 
 	//3750. ORIGINAL: There, next to Ms Tupper-Waring.
-	da160b1e-038e-4f02-a7c2-705cfab1f7e5 = Ahí, junto a la Srta Tupper-Waring.
+	da160b1e-038e-4f02-a7c2-705cfab1f7e5 = Ahí, al lado a la Srta Tupper-Waring.
 
 	//3751. ORIGINAL: Hello Eliza.
 	f7baea70-b11a-4c9b-853f-66c1d68b558d = Hola Eliza.
@@ -12211,7 +12211,7 @@
 	4a998fe6-7e41-4ab9-905c-1267d3f12831 = ¡Sí Nanny Bunny!
 
 	//4067. ORIGINAL: WELCOME MODERATORS. YOU AWAKE IN CHAINS!
-	46a892b9-7380-456f-abcc-e431843c72d0 = BIENVENIDOS ASESORES. ¡ESTAIS ENCADENADOS!
+	46a892b9-7380-456f-abcc-e431843c72d0 = BIENVENIDOS ASESORES. ¡ESTAN ENCADENADOS!
 
 	//4068. ORIGINAL: THE ICE PALACE IS MELTING.
 	8865dd3d-f692-490c-9b47-4324a57f3142 = EL PALACIO DEL HIELO SE ESTÁ DERRITIENDO.
@@ -12355,7 +12355,7 @@
 	ebab8b16-3bad-40af-b77b-556d59e49e99 = ¡Jemima Bunny! ¡Zachary Bunny!
 
 	//4115. ORIGINAL: What are you doing?
-	803f0a0b-b68e-4a56-bb1f-80cf086d7821 = ¿Qué estáis haciendo?
+	803f0a0b-b68e-4a56-bb1f-80cf086d7821 = ¿Qué están haciendo?
 
 	//4116. ORIGINAL: Round here we have one rule!
 	57fa1818-066e-4601-85fb-cba0fba1f061 = ¡Por aquí tenemos una regla!
@@ -12496,7 +12496,7 @@
 	9979d19e-c400-4767-8406-2a4b2a96474b = ¡Vale la pena por 15.99 dólares más envío y embalaje, en una tirada!
 
 	//4162. ORIGINAL: Man, I LOVE THIS!
-	5e88686b-3fbe-47fa-a2fc-5fc4f3dba2bb = Tío ¡ME ENCANTA!
+	5e88686b-3fbe-47fa-a2fc-5fc4f3dba2bb = Chabon ¡ME ENCANTA!
 
 	//4163. ORIGINAL: My turn! I gotta get outta this tailback!
 	0040922e-c055-43ff-8033-d9ad7e59b02d = ¡Mi turno! ¡Tengo que salir de este atasco!
@@ -12982,7 +12982,7 @@
 	fcbec3d2-1dc9-4bf4-9edc-878b37617eb6 = No sé si esto aún tiene carga pero...
 
 	//4324. ORIGINAL: If you can hear this... we're...
-	87c1bc58-5fb5-421f-ac51-f71cde5be285 = Si pueden oir esto... estamos...
+	87c1bc58-5fb5-421f-ac51-f71cde5be285 = Si pueden escuchar esto... estamos...
 
 	//4325. ORIGINAL: Shit, I don't even know where we are.
 	469d90a3-d41f-4b1c-91a0-ac03f814c913 = Mierda, ni siquiera sé dónde estamos.
@@ -13021,7 +13021,7 @@
 	24c63251-bc2d-4a7b-93e5-8229317dc016 = Sólo gente amistosa.
 
 	//4337. ORIGINAL: You can trust us, but be aware that we will not trust you.
-	a00a1b84-e593-4b8e-b668-8873135df30c = Puedes confiar en nosotros, pero se consciente de que nosotros no vamos a confiar en ti.
+	a00a1b84-e593-4b8e-b668-8873135df30c = Podes confiar en nosotros, pero se consciente de que nosotros no vamos a confiar en ti.
 
 	//4338. ORIGINAL: Not for a while.
 	d18d82ed-10a7-49ce-b1fc-b2fd992fa0c3 = Al menos de inmediato.
@@ -13108,7 +13108,7 @@
 	6aab51d0-89c7-41bd-9400-079a6487ed76 = Nadie va a venir a por ti.
 
 	//4366. ORIGINAL: You can trust us.
-	2287ddb7-d7bf-44c9-b648-b8fb5dbdb0fb = Puedes confiar en nosotros.
+	2287ddb7-d7bf-44c9-b648-b8fb5dbdb0fb = Podes confiar en nosotros.
 
 	//4367. ORIGINAL: This is not some sick joke.
 	c81cc53e-9a35-4590-bd3c-4ec5597eb036 = Esto no es ningún tipo de broma enfermiza.
@@ -13291,7 +13291,7 @@
 	79f9a4c1-3828-4076-b099-20edfae888f3 = ...colocados prefectamente sobre una gruesa masa de Pizza Whirled!
 
 	//4427. ORIGINAL: What do you make of that, pal?
-	d33b5e45-70ea-41e4-8701-3c1127d10128 = ¿Qué piensas de esto, tío?
+	d33b5e45-70ea-41e4-8701-3c1127d10128 = ¿Qué pensas de esto, chabon?
 
 	//4428. ORIGINAL: Jolly fantastic!
 	f50686a6-f502-484b-9631-d92736853438 = ¡Formidable!
@@ -13516,7 +13516,7 @@
 	57de3430-ffc2-40f1-ae15-00643d98d4b4 = *tambores* *explosión*
 
 	//4502. ORIGINAL: Can't stand a little... magic, Buck?
-	835ecc09-513c-414c-a3bc-9c0d9f10c140 = ¿Puedes soportar un poco de... magia, Buck?
+	835ecc09-513c-414c-a3bc-9c0d9f10c140 = ¿Podes soportar un poco de... magia, Buck?
 
 	//4503. ORIGINAL: *Sprrring!*
 	f146413b-e69d-45c6-99e8-fed7c056f458 = *¡Boiiing!*
@@ -13786,7 +13786,7 @@
 	98889c66-39e6-4fbe-94ba-bc3f926aa286 = Usa las palabras mágicas...
 
 	//4592. ORIGINAL: Unleash the Bacon!
-	f8930cc1-ba72-4434-ae3d-aedde4165dfd = ¡Liberad al Beicon!
+	f8930cc1-ba72-4434-ae3d-aedde4165dfd = ¡Liberen al Beicon!
 
 	//4593. ORIGINAL: And watch delicious happen!
 	3dd45d56-0f6a-4ef3-81ec-b3e5396c3dce = ¡Y verás cómo ocurre una delicia!
@@ -13861,10 +13861,10 @@
 	2c1be35f-fd26-45ed-9d79-4e142b96605e = ¡He servido a los ciudadanos de Muldraugh y West Point durante veinte años!
 
 	//4617. ORIGINAL: Employment? Family? Marriage?
-	73b1b184-8e7d-4cc7-bbd2-fab4fbcda3b1 = ¿Empleo? ¿Familia? ¿Boda?
+	73b1b184-8e7d-4cc7-bbd2-fab4fbcda3b1 = ¿Laburo? ¿Familia? ¿Boda?
 
 	//4618. ORIGINAL: I know what you want and what you need.
-	95d103d1-2c48-4f25-80b1-02dc52323f22 = Sé lo que quieres y lo que necesitas.
+	95d103d1-2c48-4f25-80b1-02dc52323f22 = Sé lo que queres y lo que necesitas.
 
 	//4619. ORIGINAL: And a consultation is free!
 	46e5e7e6-1c87-4a10-8dcb-bee40a8052c9 = ¡Y la primera consulta es gratuíta!
