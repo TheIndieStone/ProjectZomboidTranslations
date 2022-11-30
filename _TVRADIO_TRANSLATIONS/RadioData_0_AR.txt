@@ -10480,7 +10480,7 @@
 	158d96f8-9f48-4f28-809c-cd97a5409876 = Extiende todo con el rodillo...
 
 	//3490. ORIGINAL: That right there is a Pie Preparation!
-	d606fe94-c699-43a3-8260-cfdec2ecbe50 = ¡Así se prepara un pastel!
+	d606fe94-c699-43a3-8260-cfdec2ecbe50 = ¡Así se prepara una torta!
 
 	//3491. ORIGINAL: Wrap in your lamb or mutton, your leeks and your carrots.
 	49b860f4-5611-4b14-962e-2e6ffb16c155 = Envuelve el cordero, el puerro y las zanahorias.
@@ -10492,16 +10492,16 @@
 	326b2a43-9e96-4001-865c-62c18cf87358 = Hornéalo.
 
 	//3494. ORIGINAL: This show is real special: it's for the ladies.
-	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = Este programa es realmente especial: es para las señoras.
+	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = Este programa es realmente especial: es para las viejas.
 
 	//3495. ORIGINAL: In my experience ladies LOVE stairs!
-	349efa40-ae15-46c6-96bb-3f4114d61309 = En mi opinión, a las señoras ¡les ENCANTA las escaleras!
+	349efa40-ae15-46c6-96bb-3f4114d61309 = En mi opinión, a las viejas ¡les ENCANTAN las escaleras!
 
 	//3496. ORIGINAL: They're smilin' when they go up them...
 	2b54a98e-1358-49e9-8033-3661b2e7d0f2 = Sonríen cuando las suben...
 
 	//3497. ORIGINAL: ...and they're smilin' more when they come back down.
-	3735f9c6-7588-4492-a061-8a3383c2c0bf = ...y sonríen aún más cuando las bajan.
+	3735f9c6-7588-4492-a061-8a3383c2c0bf = ...y sonríen aún más cuando bajan...
 
 	//3498. ORIGINAL: Yeehah! So what do we need?
 	30d58dce-0ab8-442a-a3f5-b74b6d100c1d = Así que, ¿qué necesitamos?
@@ -10510,58 +10510,58 @@
 	781b56bf-9b2e-455e-9b03-6540c5542ae8 = ¡Ocho tablones, ocho clavos y conocimientos A-van-zados de Car-pin-te-ría!
 
 	//3500. ORIGINAL: Gonna need some more over...Here...
-	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Vamos a necesitar algo más... Aquí...
+	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Vamos a necesitar algo más... Acá...
 
 	//3501. ORIGINAL: What goes good at the top of a flight of stairs?
-	b050eeb9-5e91-4c89-a023-e97a0677354e = ¿Qué queda bien en la parte superior de un tramo de escaleras?
+	b050eeb9-5e91-4c89-a023-e97a0677354e = ¿Qué queda bien en la al final de unas escaleras?
 
 	//3502. ORIGINAL: A table with a drawer in it, right? That make you yee-hah?
-	71137512-25bd-4173-886f-2479778cc093 = Una mesa con un cajón, ¿verdad? ¿Han dicho hurra?
+	71137512-25bd-4173-886f-2479778cc093 = Una mesa con un cajón, ¿no? ¿Dijeron "dale!"?
 
 	//3503. ORIGINAL: Makes me yee-hah anyways.
-	b5edf317-8dc9-42da-b5d4-23c2284bfa69 = Digan hurra de todas formas.
+	b5edf317-8dc9-42da-b5d4-23c2284bfa69 = Digan "dale!" de todas formas.
 
 	//3504. ORIGINAL: A lady could keep her valuables in it.
-	5132bbcf-64d0-422d-a26e-3c6ca11bc4eb = Una dama podría guardar sus objetos de valor ahí.
+	5132bbcf-64d0-422d-a26e-3c6ca11bc4eb = Una vieja podría guardar sus objetos de valor ahí.
 
 	//3505. ORIGINAL: Maybe a bible, maybe a gun.
-	1bad3260-46d1-4047-8574-6ce13254a8eb = Una biblia, una pistola...
+	1bad3260-46d1-4047-8574-6ce13254a8eb = Quizá una biblia, quizá una pistola...
 
 	//3506. ORIGINAL: Five planks! Four nails! Go!
 	224cfa55-b945-4883-b436-8bdda1b74b67 = ¡Cinco tablones y cuatro clavos! ¡Vamos!
 
 	//3507. ORIGINAL: That's enough for this week, huh?
-	9a3212d2-64ea-4338-a2e1-554c3dad3782 = Suficiente por esta semana, ¿no?
+	9a3212d2-64ea-4338-a2e1-554c3dad3782 = Ya fue por esta semana, ¿no?
 
 	//3508. ORIGINAL: If you're wantin' more - I'll be upstairs.
-	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = Si quieren más, estaré arriba.
+	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = Si quieren más, voy a estar arriba.
 
 	//3509. ORIGINAL: Hey, it's me. Dean - back with some nature.
 	2f29b7e4-f698-4339-aeb0-653303d4a031 = Hola, soy Dean, de vuelta con la naturaleza.
 
 	//3510. ORIGINAL: Now I hate killing little creature guys.
-	660bdbdf-eb14-494d-ad94-a7a3d5492a78 = Bueno, odio matar animalitos.
+	660bdbdf-eb14-494d-ad94-a7a3d5492a78 = Bueno, odio matar animales.
 
 	//3511. ORIGINAL: But sometimes you've just got to survive, right?
 	7291af6e-8dea-4011-ab2b-54b48ec9c9e8 = Pero a veces tienes que hacerlo para sobrevivir, ¿verdad?
 
 	//3512. ORIGINAL: Today we're building what I call a 'Wooden Cage Trap'.
-	1886312f-e076-4361-b745-f4e6bc8c9c10 = Hoy vamos a fabricar lo que yo llamo una 'Jaula de madera'
+	1886312f-e076-4361-b745-f4e6bc8c9c10 = Hoy vamos a fabricar lo que yo llamo una 'Trampa de madera'
 
 	//3513. ORIGINAL: It's this cage you build out of wood.
 	3e3dc4ba-124a-4db2-95bd-e64a66f7704c = Esta jaula se construye con madera.
 
 	//3514. ORIGINAL: Inside it you trap stuff.
-	21699af6-00ab-43a2-849f-4ec246019801 = Y dentro atrapas cosas.
+	21699af6-00ab-43a2-849f-4ec246019801 = Y adentro atrapas cosas.
 
 	//3515. ORIGINAL: So right now I'm taking this saw to three planks.
 	e5a10065-d958-4e40-998c-27f9278911ae = Así que ahora mismo voy a pasar la sierra a estos tres tablones.
 
 	//3516. ORIGINAL: Then, five nails should do you right.
-	4dba4aa0-770f-48c3-9eaa-88623d5bd144 = Y luego, cinco clavos deben bastar.
+	4dba4aa0-770f-48c3-9eaa-88623d5bd144 = Y después, cinco clavos deben ir bien.
 
 	//3517. ORIGINAL: Just hammer it all into place...
-	f40ec98e-99cc-4e24-807d-d8e62d6f9e91 = Sólo clávalos en su sitio...
+	f40ec98e-99cc-4e24-807d-d8e62d6f9e91 = Los clavas en su lugar...
 
 	//3518. ORIGINAL: ...like this.
 	85687551-21a6-471b-89b0-45e5693fa47c = ...así.
@@ -10573,7 +10573,7 @@
 	19040afe-7570-45e2-8101-d338702f8496 = Estoy en el bosque, poniendo la trampa.
 
 	//3521. ORIGINAL: Just... chuck in some bait like this and get outta there.
-	678c9acd-0d48-4b64-ade3-00e5e1d82854 = Pon algún cebo como este y vete.
+	678c9acd-0d48-4b64-ade3-00e5e1d82854 = Pon algún cebo como esté y picatelas.
 
 	//3522. ORIGINAL: When you come back?
 	07800c34-064f-47ab-975e-1160593e38b8 = Y cuando vuelvas...
@@ -10588,7 +10588,7 @@
 	9df26228-fd2d-45b6-94ac-18729eda5d8c = Una vez que lo hayas matado y destripado, claro.
 
 	//3526. ORIGINAL: It Steams! It Broils! It can even fricassee!
-	2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8 = ¡Cuece al vapor, asa e incluso guisa!
+	2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8 = ¡Vaporera, asadora e incluso fricasé!
 
 	//3527. ORIGINAL: What is this amazing machine Diane?
 	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = ¿Qué es esta maravilla Diane?
@@ -10597,22 +10597,22 @@
 	4e3d4f81-29aa-4e1e-9965-df044395234f = ¡Es la olla multiusos de cocción lenta, de Escandinavia!
 
 	//3529. ORIGINAL: It had NO idea that Scandinavia was such an AMAZING place!
-	55cb9d4b-c878-42b7-a601-e54d9f7b4d9b = ¡No tenía NI IDEA que Escandinavia era tan asombroso!
+	55cb9d4b-c878-42b7-a601-e54d9f7b4d9b = ¡No tenía NI IDEA que Escandinavia era tan piola!
 
 	//3530. ORIGINAL: Well now you do! Have you seen me do this yet?
-	cb1be025-e69b-48fc-926b-c33d192ff1de = ¡Ahora ya lo sabes! ¿Me has visto hacer esto alguna vez?
+	cb1be025-e69b-48fc-926b-c33d192ff1de = ¡Ahora lo sabes! ¿Me viste hacer esto alguna vez?
 
 	//3531. ORIGINAL: No way.
-	f63f3fe0-18ee-48c1-8aa9-ac7947c9d3c5 = Jamás
+	f63f3fe0-18ee-48c1-8aa9-ac7947c9d3c5 = Nunca
 
 	//3532. ORIGINAL: Uhuh!
-	fa6f8bf0-be16-4c8c-ac28-35cb5edbd6ee = ¡Yujuuu!
+	fa6f8bf0-be16-4c8c-ac28-35cb5edbd6ee = ¡VAMOO!
 
 	//3533. ORIGINAL: And what can I put in there?
 	9324de03-8d2b-42ed-ac5e-6d2a0e1efb18 = ¿Y qué puedo hacer ahí?
 
 	//3534. ORIGINAL: Vegetables, meat, your favourite snack....
-	0b6e75c7-55f6-43cb-9767-3fb4068b5ec3 = Vegetales, carne, tu plato preferido...
+	0b6e75c7-55f6-43cb-9767-3fb4068b5ec3 = Vegetales, carne, lo que te pinte...
 
 	//3535. ORIGINAL: This is the FIRST machine of its kind. And you know what?
 	7453d0f1-4255-4926-8f72-edecd6b57be9 = Es el PRIMER aparato de este tipo. ¿Y sabes qué?
@@ -10621,13 +10621,13 @@
 	8429889d-1767-46ff-911d-ff27774c9a02 = ¿Qué?
 
 	//3537. ORIGINAL: It's a DREAM to clean. Just watch.
-	abe8fe36-5e35-48a9-9a61-c1f091e37bb9 = Es una MARAVILLA limpiarlo. Observa.
+	abe8fe36-5e35-48a9-9a61-c1f091e37bb9 = Es un PLACER limpiarlo. Mira.
 
 	//3538. ORIGINAL: That is amazing. How do I get one?
-	5668ae1e-7da2-4543-a501-a6d2a75d9f8c = Es increíble. ¿Cómo me puedo hacer con uno?
+	5668ae1e-7da2-4543-a501-a6d2a75d9f8c = Es increíble. ¿Cómo puedo conseguir uno?
 
 	//3539. ORIGINAL: Just call the number on-screen!
-	a1fa1783-f2af-47b3-9a3c-2fe29537b7ec = ¡Sólo tienes que llamar al número que aparece en pantalla!
+	a1fa1783-f2af-47b3-9a3c-2fe29537b7ec = ¡Sólo tenes que llamar al número que aparece en la pantalla!
 
 	//3540. ORIGINAL: You know how this works by now!
 	3a43c293-cf5d-4795-a121-3276dec64176 = ¡Ya sabes cómo funciona!
@@ -10639,19 +10639,19 @@
 	4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e = Soy Dean, ¡de vuelta en Exposure Survival!
 
 	//3543. ORIGINAL: Hey guys! Welcome back to Nature!
-	d3279147-c24a-4441-991f-729d6804a4c8 = ¡Hola chicos! ¡Bienvenidos una vez más a la Naturaleza!
+	d3279147-c24a-4441-991f-729d6804a4c8 = ¡Hola chicxs! ¡Bienvenidxs una vez más a la Naturaleza!
 
 	//3544. ORIGINAL: All the time people ask: "Dean - where do you find all this stuff?"
-	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = La gente me pregunta todo el tiempo: "Dean, ¿dónde encuentras todas esas cosas?"
+	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = La gente me pregunta todo el tiempo: "Dean, ¿dónde encontras todas esas cosas?"
 
 	//3545. ORIGINAL: "You're in the middle of nowhere but you've got cool gear."
-	65516990-5571-425b-9073-2c16b613f033 = "Estás en medio de la nada, pero tienes materiales geniales"
+	65516990-5571-425b-9073-2c16b613f033 = "Estás en medio de la nada, pero tenes materiales re zarpados"
 
 	//3546. ORIGINAL: Well there's two answers to that question-asker.
 	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = Bueno, hay dos respuestas a esta pregunta.
 
 	//3547. ORIGINAL: One is the paperclip: which stays on me at ALL times.
-	ef497181-a22d-4e8b-8870-2187d81f285b = Una es el clip: que lo llevo conmigo TODO el rato.
+	ef497181-a22d-4e8b-8870-2187d81f285b = Una es el clip: que lo llevo conmigo TODO el tiempo.
 
 	//3548. ORIGINAL: The second is foraging.
 	dd875aa3-b6ff-4418-a377-35bdee71f20e = La segunda es rebuscar.
@@ -10666,10 +10666,10 @@
 	1cc3b153-1e07-4d52-a685-99322df5a52b = Mira a tu alrededor.
 
 	//3552. ORIGINAL: And when you've picked up what you can find?
-	d8981302-0c98-46d1-adea-d0510c30a87d = Cuando recoges lo que has encontrado...
+	d8981302-0c98-46d1-adea-d0510c30a87d = Cuando juntas lo que te encontraste...
 
 	//3553. ORIGINAL: Well that's just amazing, ey?
-	fa6ad372-4889-498b-ae6d-1a3bae3c9992 = ...es simplemente genial, ¿no?
+	fa6ad372-4889-498b-ae6d-1a3bae3c9992 = ...esta re piola, ¿no?
 
 	//3554. ORIGINAL: Then check out the woods next door.
 	8c9a85c8-04c3-4a71-a6c3-3426f2083892 = Echa un vistazo a los bosques de al lado.
@@ -10705,13 +10705,13 @@
 	9b4ce616-8e66-4b0f-823f-ff23c01cdeb4 = Ahora que se ha ido, te contaré un secreto.
 
 	//3565. ORIGINAL: Order today and you can bring life back into your home...
-	8e4b219c-1ad4-4179-b730-53902d9f97a0 = Pídelas hoy y devuelve la vida a tu hogar...
+	8e4b219c-1ad4-4179-b730-53902d9f97a0 = Pídelas hoy y devolve la vida a tu hogar...
 
 	//3566. ORIGINAL: ... with 10% off every order.
 	aedd5570-53cd-423a-b9fa-e841138c6b3a = ...con el 10% de descuento en cada pedido.
 
 	//3567. ORIGINAL: Be like me.
-	7fe11ef5-bbaf-4209-833f-18c550345415 = Haz como yo.
+	7fe11ef5-bbaf-4209-833f-18c550345415 = Hace como yo.
 
 	//3568. ORIGINAL: My life is illuminated, with Connall and Coble!
 	6c1b23db-580e-462d-b7ac-2f3e98380f1b = Mi vida está iluminada, ¡con Connal and Coble!
@@ -10726,13 +10726,13 @@
 	2f5141a6-192d-4dac-9491-e0d998251eab = Todo el mundo tiene sed, ¿verdad?
 
 	//3572. ORIGINAL: If you're a way away from a river though, and there's no tap?
-	024f1e84-0a68-4179-af7b-f7fe07f8b036 = ¿Qué pasa si estas lejos de un río y no hay un grifo cerca?
+	024f1e84-0a68-4179-af7b-f7fe07f8b036 = ¿Qué pasa si estas lejos de un río y no hay una canilla cerca?
 
 	//3573. ORIGINAL: What are you going to do when the sky stops providing?
 	ca117ee4-b696-452c-81cd-cb27acafad4a = ¿Qué vas a hacer cuando el cielo deje de dar agua?
 
 	//3574. ORIGINAL: I'm talking rain guys.
-	d1996bb9-c634-4f62-8de1-2c15328086c8 = Me refiero a la lluvia, chicos.
+	d1996bb9-c634-4f62-8de1-2c15328086c8 = Me refiero a la lluvia, chicxs.
 
 	//3575. ORIGINAL: Storing rain, or 'water', is vital to survival.
 	37354046-9ab5-4b76-ac75-9d45f8ca9f6f = Almacenar lluvia, o 'agua', es vital para la supervivencia.
@@ -10741,28 +10741,28 @@
 	51c11cc2-1a7d-48da-bd36-3fe363fe5a27 = Así que fabrica un barril recolector de lluvia para recoger el agua.
 
 	//3577. ORIGINAL: Take four wooden planks, four nails and...
-	2b119fb1-53d7-495a-a1ba-b3f995696f67 = Coge cuatro tablones de madera, cuatro clavos y...
+	2b119fb1-53d7-495a-a1ba-b3f995696f67 = Agarra cuatro tablones de madera, cuatro clavos y...
 
 	//3578. ORIGINAL: Whack 'em with your hammer.
 	7919285a-dba9-4d9f-824b-d48c2d11e6c4 = Clávalos con el martillo.
 
 	//3579. ORIGINAL: Then use rubbish bags, or 'garbage' bags, for the interior.
-	c76be599-e22c-4992-9d7a-e7a895e10930 = Usa bolsas de basura para el interior.
+	c76be599-e22c-4992-9d7a-e7a895e10930 = Usa bolsas de basura para ponerle adentro.
 
 	//3580. ORIGINAL: Then: look at the sky.
-	45bb7159-0a63-4e24-930d-477a4601583f = Luego: mira al cielo.
+	45bb7159-0a63-4e24-930d-477a4601583f = Después: mira al cielo.
 
 	//3581. ORIGINAL: When it rains just watch that thing fill.
 	de7c574d-48df-483d-9917-8585c8a58885 = Cuando llueva, sólo espera que se llene.
 
 	//3582. ORIGINAL: You'll think: 'Wow. I'm not going to die."
-	5d998990-8428-42bc-9220-a481f4918db8 = Pensarás: "Guau. No voy a morir"
+	5d998990-8428-42bc-9220-a481f4918db8 = Vas a pensar: "Guau. No voy a morir"
 
 	//3583. ORIGINAL: "And that is awesome!"
 	a168155a-98a2-418c-b13d-62c10750cb60 = "¡Y eso es genial!"
 
 	//3584. ORIGINAL: How you doing? You're on the Cook Channel!
-	85b904e0-14e3-4daf-b354-33a7eb31df83 = ¿Cómo lo llevas? ¡Estás en el canal de Cocina!
+	85b904e0-14e3-4daf-b354-33a7eb31df83 = ¿Que onda? ¡Estás en el canal de Cocina!
 
 	//3585. ORIGINAL: Today we're going to settle something!
 	c1683575-201b-4450-a96d-6f11c257d642 = ¡Hoy vamos a resolver algo!
@@ -10771,10 +10771,10 @@
 	80b0669b-91a1-4bdb-bc99-574fc3affb40 = ¡De una vez por todas!
 
 	//3587. ORIGINAL: Pancakes or waffles, which is best?
-	fbb4360f-2fe8-470b-b793-57ad6b083314 = ¿Qué es mejor, tortitas o gofres?
+	fbb4360f-2fe8-470b-b793-57ad6b083314 = ¿Qué es mejor, panqueques o waffles?
 
 	//3588. ORIGINAL: Well, I'll tell ya.
-	8555a4d0-c749-4951-aeb0-85fa9acdaccc = Bueno, te lo diré.
+	8555a4d0-c749-4951-aeb0-85fa9acdaccc = Bueno, te lo voy a decir.
 
 	//3589. ORIGINAL: TURBO: Your friend. Your entertainment!
 	0aca7dac-0f93-45b3-ad5d-801c8e987f3d = TURBO: ¡Tu amigo, tu diversión!
@@ -10804,13 +10804,13 @@
 	ea0e4801-8ee4-45bb-a360-fe31df050e2f = Soy Stephanie o'Donoghue, y estoy con Cindy Craddock.
 
 	//3598. ORIGINAL: Cindy, I've seen the movie and it's just AMAZING.
-	a6b00373-e902-4a7c-aa40-880eb5b42aa0 = Cindy, he visto la película y es IMPRESIONANTE.
+	a6b00373-e902-4a7c-aa40-880eb5b42aa0 = Cindy, he visto la película y esta RE ZARPADA.
 
 	//3599. ORIGINAL: How are you dealing with all this positive feedback?
-	ea40d57d-4f1e-461e-817c-5fcaba25cb27 = ¿Cómo llevas todos los comentarios positivos?
+	ea40d57d-4f1e-461e-817c-5fcaba25cb27 = ¿Cómo te sentis con todos los comentarios positivos?
 
 	//3600. ORIGINAL: Oh I hate it! No, just kidding!
-	f4113fb3-1325-44c0-82a7-264955b7910c = ¡Oh, lo odio! No, ¡estaba bromeando!
+	f4113fb3-1325-44c0-82a7-264955b7910c = ¡Ah, lo odio! No, ¡estaba bromeando!
 
 	//3601. ORIGINAL: I love it. Who doesn't love positive feedback?
 	c32b4dd4-9f02-4e93-b2e1-c7f69b49778d = Me encanta. ¿A quién no le gustan las críticas positivas?
@@ -10819,7 +10819,7 @@
 	3cc7a314-54ef-40ea-bb1b-b23ba95354ef = El papel sin embargo era un reto. ¿Fue duro?
 
 	//3603. ORIGINAL: Sure it was tough. I had to really get into the mindset of the character.
-	8693df23-2826-445d-8a37-d3d6e48ca6b4 = Vaya si lo fue. Tenía que meterme realmente en el modo de pensar del personaje.
+	8693df23-2826-445d-8a37-d3d6e48ca6b4 = Si, no sabes. Tenía que meterme realmente en el modo de pensar del personaje.
 
 	//3604. ORIGINAL: Sometimes I'd just sit in my trailer and I'd feel overwhelmed.
 	58b34105-fd64-475d-a730-55c5878132d4 = A veces, me sentaba en mi caravana y me sentía abrumada.
@@ -10840,7 +10840,7 @@
 	c4072b14-d69c-4154-b491-d2cffd9c27b4 = Sabes que la gente está hablando de un Oscar, ¿verdad?
 
 	//3610. ORIGINAL: Ha! Let's not get ahead of ourselves.
-	6582e9e2-3692-4fb9-b240-6432e784552d = ¡Ja! No adelantemos acontecimientos.
+	6582e9e2-3692-4fb9-b240-6432e784552d = ¡Ja! No flasheemos bola de cristal.
 
 	//3611. ORIGINAL: But if the Academy are watching! Go for it!
 	4248b8ff-ae68-4853-8ea8-7b50bef1062f = Pero si la Academia nos está viendo, ¡adelante!
@@ -10864,7 +10864,7 @@
 	c9c1f0b0-be4d-4e02-ae0b-93af0159ead1 = Sin confirmar las escenas violentas que algunos dicen haber sido testigos.
 
 	//3618. ORIGINAL: But still no reasoning behind the communication blackout:
-	ebb52799-6489-4c6d-9afe-ec1ada4cb72c = Y aún sigen sin explicaarnos el por qué del apagón en las comunicaciones:
+	ebb52799-6489-4c6d-9afe-ec1ada4cb72c = Y aún sigen sin explicarnos el por qué del apagón en las comunicaciones:
 
 	//3619. ORIGINAL: ... and evacuated to the North seem to be saying 'No'.
 	08e0c50c-355d-4267-a568-3e86a3c7e39d = ...y los evacuados al norte parecen estar diciendo 'No'.
@@ -10882,10 +10882,10 @@
 	9f66988e-7ced-496e-af44-9b945b81f8ce = Te estás pasando de la raya Hargrave.
 
 	//3624. ORIGINAL: You think this is a game?
-	c3e43834-8fff-4679-8469-2ea6ec5a505c = ¿Piensas que esto es un juego?
+	c3e43834-8fff-4679-8469-2ea6ec5a505c = ¿Te pensas que esto es un juego?
 
 	//3625. ORIGINAL: You cannot expect the FBI to fund these... ghost hunts.
-	680c709e-dab2-467b-a859-41954c5c1957 = No puedes esperar que el FBI financie estas... cacerías de fantasmas.
+	680c709e-dab2-467b-a859-41954c5c1957 = No podes esperar que el FBI financie estas... cacerías de fantasmas.
 
 	//3626. ORIGINAL: Ghost hunts? This is real. This is science.
 	245764d0-5054-4daa-b135-7214af803dba = ¿Cacerías de fantasmas? Esto es real. Esto es ciencia.
@@ -10900,10 +10900,10 @@
 	5b9a43d3-9a13-4ae4-b70b-da52bb9f6ebc = ¡Así que encuentren al asesino!
 
 	//3630. ORIGINAL: I've found the murderer! It's just outside your narrow range of perception!
-	35410de1-22d9-4a67-8ea7-4a4f16a13754 = ¡Yo he encontrado al asesino! ¡Es solo que está fuera de tu limitado pensamiento!
+	35410de1-22d9-4a67-8ea7-4a4f16a13754 = ¡Yo encontre al asesino! ¡Es solo que está fuera de tu limitado pensamiento!
 
 	//3631. ORIGINAL: A ghost turned his head inside out? Do you want me fired?
-	a8caa131-efec-4dec-b1cb-f4cbf475a31c = ¿Un fantasma que pone las cabezas del revés? ¿Quieres que me despidan?
+	a8caa131-efec-4dec-b1cb-f4cbf475a31c = ¿Un fantasma que pone las cabezas dadas vuelta? ¿Queres que me despidan?
 
 	//3632. ORIGINAL: I'm shutting you down!
 	8b4a70ca-2a13-47b5-b65d-90289a8ccd8b = ¡Voy a cesarte!
@@ -10924,7 +10924,7 @@
 	434d45c0-832f-4c84-8ee8-f2839bb8e023 = 3 de Diciembre de 1992. Diario personal del abogado de la Corona, Albert Wellen.
 
 	//3638. ORIGINAL: Life's rather tricky when you're 17.
-	fe78c652-284c-4ed1-b16d-15a3fded56ab = La vida es complicada cuando tienes 17 años.
+	fe78c652-284c-4ed1-b16d-15a3fded56ab = La vida es complicada cuando tenes 17 años.
 
 	//3639. ORIGINAL: Life's even trickier when you're a Queen's Counsel in the British Judicial System.
 	3eecc27d-b503-4623-a63e-c0e089d328ac = Mucho más cuando eres el Consejero de la Reina en el Sistema Judicial Británico.
