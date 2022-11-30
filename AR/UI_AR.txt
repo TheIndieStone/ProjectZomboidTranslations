@@ -1415,8 +1415,8 @@ UI_AR = {
     UI_NewGame_Builder_desc = "Foco en construir, explorar y cosechar.Una experiencia más relajada.",
     UI_NewGame_Sandbox_desc2 = "Diseña tu propia dificultad y estilo de juego",
     UI_News_Anim3 = "<H1> Bienvenidos al build 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffolockdown.png> <LINE><LINE> "..
-                    "<CENTRE> <SIZE:large> For the best experience when playing multiplayer you are STRONGLY advised to play on whitelisted servers, or with your friends in co-op. <LINE><LINE> " ..
-                    "<CENTRE> <SIZE:large> Please be understanding while we improve, fix and polish. <LINE><LINE>",
+                    "<CENTRE> <SIZE:large> Para tener la mejor experiencia jugando al multijugador te recomendamos FUERTEMENTE usar los servidores que tengan el parametro "Whitelist" activado o con tus amigxs en cooperativo. <LINE><LINE> " ..
+                    "<CENTRE> <SIZE:large> Por favor, comprender mientras estamos mejorando, arreglando y puliendo. <LINE><LINE>",
     UI_News_Anim = "<H1> ¡BIENVENIDO A LA BETA PÚBLICA BUILD 41! <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoCarpenter.png> <LINE><LINE> <CENTRE> <SIZE:large> Esta es una versión provisional de la mayor actualización de código que Project Zomboid haya tenido nunca. <LINE><LINE> <CENTRE> Habrá errores y problemas de equilibrio. Las mejoras en la optimización son continuas. <LINE><LINE> <CENTRE> Algunas funciones se han desactivado temporalmente. <LINE><LINE> <CENTRE> Si tienes problemas: no te enfades, involúcrate. Háznoslo saber en nuestros foros.",
                     "<CENTRE> <SIZE:large> This is a Work in Progress version of the biggest code update PZ has ever had. <LINE><LINE> " ..
                     "<CENTRE> There will be bugs and balance issues. Optimization improvements are ongoing. <LINE><LINE> " ..
