@@ -1254,6 +1254,8 @@ UI_PL = {
     UI_servers_showEmptyServer = "Pokaż puste serwery",
     UI_servers_showLargeServer = "Pokaż serwery z większą liczbą graczy",
     UI_servers_showLargeServer_warning = "<H1> INFORMACJA PUBLICZNA <BR> <TEXT> <IMAGECENTRE:media/ui/spiffoWarning.png> <LINE><LINE> ..",
+                                         "<CENTRE> <SIZE:large> Serwery z ponad 32 graczami mogą potencjalnie powodować słabe strumieniowanie map i desynchronizację. Zachowaj ostrożność. <LINE><LINE> " ..
+                                         "<CENTRE> <SIZE:large> Prosimy o wyrozumiałość, gdy będziemy poprawiać, naprawiać i szlifować grę. <LINE><LINE> ",
     UI_servers_showPwdProtectedServer = "Pokaż serwery chronione hasłem",
     UI_servers_showWhitelistServer = "Pokaż serwery z białą listą",
     UI_servers_username = "Nazwa użytkownika: ",
