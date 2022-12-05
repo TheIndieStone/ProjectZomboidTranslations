@@ -3795,8 +3795,8 @@ Colors.java -> 添加了 GetColorFromIndex、GetColorsCount。
  
  
 [VERSION] 41.53
-[消息]
-[粗体]请注意：
+[NEWS]
+[BOLD]请注意：
 [BOLD]此补丁包含对长期存在的错误的修复。
 [BOLD]我们一直希望在你准备近战攻击时让鼠标光标消失，以便只有 Iso-cursor 可见，因为这意味着新玩家会发现更容易适应 PZ 的战斗。
 [BOLD]如果你觉得这个修复很奇怪/烦人，那么我们还添加了一个显示选项以将其切换回以前的状态："瞄准时显示鼠标光标"。
@@ -3870,7 +3870,7 @@ Colors.java -> 添加了 GetColorFromIndex、GetColorsCount。
 希望在 MacOS 上修复全屏
  
 [VERSION] 41.54
-[消息]
+[NEWS]
 添加了 Noiseworks 声音改造 - 第 1 阶段
  
 [NODOT]<INDENT:40> 第 2 阶段将引入更广泛的僵尸语音集以及对音乐和氛围系统的进一步改进。近战武器音效——目前主要基于材料而不是相关武器——也将更加具体到武器本身；枪支也是如此。 <LINE> 
@@ -6970,7 +6970,7 @@ FileDifferent、FileNotOnServer 和 FileNotOnClient 错误现在将显示两个�
 修复了 35,32 单元格中棚子的游戏地图位置。
 
 [VERSION]41.78.11 Hotfix
-修复和修复脚本的丙烷火炬使用重新平衡，以适应容量的变化；全部减少到2。
+[SECTION]修复和修复脚本的丙烷火炬使用重新平衡，以适应容量的变化；全部减少到2。
 [NODOT]<BR>
 在空煎锅的食谱中添加了"AllowRottenItem:true"参数；干锅; 和烤盘。这将允许玩家在让炒菜和煎蛋变烂时收回所述平底锅。
 霉菌喷雾治疗和清空农产品袋等食谱现在具有字段"AllowRottenItem:true"，允许在该食谱中使用腐烂的物品。
