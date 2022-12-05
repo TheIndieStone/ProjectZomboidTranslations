@@ -1,9 +1,9 @@
 ------------------------ -
-gÅ‚Ã³wny tÅ‚umacz: -
+g³ówny t³umacz: -
 ------------------------ -
 geras
 ------------------------ -
-w tÅ‚umaczeniu gry pomagajÄ…/pomagali takÅ¼e: -
+w t³umaczeniu gry pomagaj¹/pomagali tak¿e: -
 ------------------------ -
 Insers
 Lord_Venom
@@ -18,8 +18,9 @@ Spazmatic
 welniok
 Svarog
 yaczesuaff
+Faalagorn
 ------------------------- -
-zawartoÅ›Ä‡ VHS i CD: -
+zawartoœæ VHS i CD: -
 ------------------------- -
 geras
 An Nickname
@@ -35,7 +36,7 @@ Algi
 Lubek
 yaczesuaff
 ------------------------- -
-zawartoÅ›Ä‡ radia i TV: -
+zawartoœæ radia i TV: -
 ------------------------- -
 geras
 Svarog
