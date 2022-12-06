@@ -1605,5 +1605,14 @@ IG_UI_PL = {
 	IGUI_ItemCat_Squirrel = "Wiewiórka"
 	IGUI_Sleep_NotSafe = "To nie jest bezpieczne miejsce do spania.",
 			
-	
+	IGUI_RequestID_ConnectionDetails = "szczegóły połączenia",
+	IGUI_RequestID_Descriptors = "informacje o odzieży",
+	IGUI_RequestID_MetaGrid = "dane meta mapy",
+	IGUI_RequestID_MapZone = "strefa mapy",
+	IGUI_RequestID_PlayerZombieDescriptors = "deskryptory zombie",
+	IGUI_RequestID_RadioData = "dane radia",
+	IGUI_MP_DownloadedLargeFile = "Odebrano %1% z %2.",
+	IGUI_UserPanel_ShowConnectionInfo = "Pokaż informacje o połączeniu",
+	IGUI_UserPanel_ShowServerInfo = "Pokaż informacje o serwerze",
+	IGUI_UserPanel_ShowPingInfo = "Pokaż informacje o pingu",
 }

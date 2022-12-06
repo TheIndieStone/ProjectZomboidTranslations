@@ -431,4 +431,8 @@ Recipes_PL = {
 	Recipe_Muffin = "Muffinka",
 	Recipe_Oatmeal = "Owsianka",
 	Recipe_Omelette = "Omlet",
+	
+	Recipe_Empty_Baking_Tray = "Opróżnij blachę do pieczenia",
+	Recipe_Make_Wooden_Box_Trap = "Zrób pułapkę - skrzynkę",
+	Recipe_Stir_fry_Griddle_Pan = "Zrób stir-fry",
 }

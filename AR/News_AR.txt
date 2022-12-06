@@ -22,7 +22,7 @@ Añadida opciones de "zona muerta" a la configuración del mando para aliviar lo
 [DOT2]Grandes montones de cadáveres podridos harán sentirte enfermo y triste si permaneces cerca de ellos por largos períodos de tiempo.
 [BOLD]Añadidas nuevas opciones de mundo personalizado:
 [DOT2]Aparición de generadores: aumenta/disminuye la probabilidad de que los generadores eléctricos aparezcan en el mapa.
-[DOT2]Consumo de combustible del generador: afecta a la cantidad de combustible que consumen los generadores. Un generador que no necesita combustible debe ser puesto a 0.0. (Sustituye a la opción de servidor GeneratorFuelConsumption).
+[DOT2]Consumo de nafta del generador: afecta a la cantidad de nafta que consumen los generadores. Un generador que no necesita combustible debe ser puesto a 0.0. (Sustituye a la opción de servidor GeneratorFuelConsumption).
 [DOT2]Posibilidad aleatorizada de casa: aumenta/disminuye la probabilidad de descubrir casas seguras aleatorias en el mapa: quemadas, que contienen escondites de botín, cadáveres de supervivientes muertos, etc.
 [DOT2]Mapa anotado: ajusta la frecuencia con que un mapa saqueado tendrá anotaciones marcadas en él por un superviviente muerto.
 [DOT2]Daño en construcción por zombies: determina si los zombies pueden o no destruir las construcciones y defensas de los jugadores.
