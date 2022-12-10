@@ -374,7 +374,7 @@ IGUI_EN = {
     IGUI_Campfire_Campfire = "Campfire",
     -- Fireplace window
     IGUI_Fireplace_Fireplace = "Fireplace",
-    IGUI_Fireplace_Smouldering = "smouldering",
+    IGUI_Fireplace_Smouldering = "smoldering",
     IGUI_Fireplace_Burning = "burning",
     IGUI_Fireplace_Unlit = "unlit",
     -- Rain Collector Barrel
