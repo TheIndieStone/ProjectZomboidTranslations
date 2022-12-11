@@ -1489,7 +1489,7 @@ IGUI_TH = {
 	IGUI_SafehouseUI_Pos2 = "x=%1 y=%2",
 	IGUI_SafehouseUI_Respawn = "เกิดใหม่ในเซฟเฮาส์",
 	IGUI_AdminPanel_CanSeeAll = "เห็นทุกคน",
-	IGUI_AdminPanel_NetworkTeleportEnabled = "เปิดใช้งานครือข่ายเทเลพอร์ต",
+	IGUI_AdminPanel_NetworkTeleportEnabled = "เปิดใช้งานเครือข่ายเทเลพอร์ต",
 	IGUI_AdminPanel_CanHearAll = "ได้ยินทุกคน (VOIP)",
 	IGUI_media_dragVHS = "ลากวิดีโอเทปมาที่นี่ หรือคลิกขวาเพื่อเอาออก",
 	IGUI_media_dragCD = "ลากซีดีมาที่นี่ หรือคลิกขวาเพื่อเอาออก",
