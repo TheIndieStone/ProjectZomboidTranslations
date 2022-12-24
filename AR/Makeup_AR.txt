@@ -1,5 +1,5 @@
 MakeUp_ES = {
-    MakeUpCategory_Eyes = "Ojos",
+	MakeUpCategory_Eyes = "Ojos",
 	MakeUpCategory_EyesShadow = "Sombra de ojos",
 	MakeUpCategory_FullFace = "Cara completa",
 	MakeUpCategory_Lips = "Labios",
@@ -10,8 +10,8 @@ MakeUp_ES = {
 	MakeUpType_EyesCamo1 = "Camuflaje 1",
 	MakeUpType_EyesCamo2 = "Camuflaje 2",
 	MakeUpType_EyesCamoStripes = "Rayas",
-	MakeUpType_EyesFootball = "Fútbol americano",
-	
+	MakeUpType_EyesFootball = "F¨²tbol americano",
+
 	MakeUpType_EyeShadowWhite = "Blanco",
 	MakeUpType_EyeShadowLightBlue = "Azul claro",
 	MakeUpType_EyeShadowBlue = "Azul",
