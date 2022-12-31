@@ -236,6 +236,7 @@ Sandbox_TH = {
     Sandbox_LootAmmo = "กระสุน",
     Sandbox_LootMechanics = "เครื่องยนต์กลไก",
     Sandbox_LootOther = "สิ่งของอื่น ๆ",
+    Sandbox_LootOther_tooltip = "ทุกอย่างที่เหลือ มีผลต่อการค้นหาสินค้าทั้งหมดในเขตเมือง/ถนนด้วย",
     --
     Sandbox_Character = "ปรับแต่งตัวละคร",
     Sandbox_XpMultiplier = "คูณค่าประสบการณ์",

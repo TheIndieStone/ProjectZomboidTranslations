@@ -30,11 +30,11 @@ DynamicRadio_TH {
     AEBS_weather_light_moderate = "คาดว่าจะมีฝนเล็กน้อยถึงปานกลาง...",
     AEBS_weather_heavy_rain = "ฝนปกคลุมทั่วพื้นที่และหรือฝนตกหนัก",
     AEBS_weather_storm = "พายุฟ้าคะนอง",
-    AEBS_weather_tropical = "พายุโซนร้อน",
+    AEBS_weather_tropical = "พายุเขตร้อน",
     AEBS_weather_blizzard = "พายุหิมะ",
     AEBS_weather_snowfall = " มีโอกาสเกิดหิมะตก",
     AEBS_weather_storm_C = "พายุฟ้าคะนอง",
-    AEBS_weather_tropical_C = "พายุโซนร้อน",
+    AEBS_weather_tropical_C = "พายุเขตร้อน",
     AEBS_weather_blizzard_C = "พายุหิมะ",
     AEBS_weather_warning = "แจ้งเตือนสภาพอากาศรุนแรง %s จะมาในอีก %s วัน...",
 
