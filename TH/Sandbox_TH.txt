@@ -239,7 +239,7 @@ Sandbox_TH = {
     Sandbox_LootOther_tooltip = "ทุกอย่างที่เหลือ มีผลต่อการค้นหาสินค้าทั้งหมดในเขตเมือง/ถนนด้วย",
     --
     Sandbox_Character = "ปรับแต่งตัวละคร",
-    Sandbox_XpMultiplier = "คูณค่าประสบการณ์",
+    Sandbox_XpMultiplier = "ตัวคูณค่าประสบการณ์",
     Sandbox_XpMultiplier_tooltip = "เปลี่ยนแปลงค่าประสบการณ์พื้นฐานที่ได้รับจากการกระทำด้วยค่านี้",
     Sandbox_XpMultiplierAffectsPassive = "ตัวคูณค่าประสบการณ์ส่งผลต่อทักษะติดตัว",
     Sandbox_XpMultiplierAffectsPassive_tooltip = "กำหนดว่าตัวคูณค่าประสบการณ์จะส่งผลต่อทักษะติดตัวด้วยหรือไม่ เช่น ความฟิตและพละกำลัง",
