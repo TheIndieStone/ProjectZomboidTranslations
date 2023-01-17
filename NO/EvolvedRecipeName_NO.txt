@@ -1,0 +1,12 @@
+EvolvedRecipeName_NO = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Bolognese på boks",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Hermetiske gulrøtter",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Hermetisk chili",
+	EvolvedRecipeName_Base.CannedCornOpen = "Hermetisk mais",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Hermetisk oksekjøtt på boks",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Hermetiske erter",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Hermetisk potet",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Sardiner på boks",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Hermetisk tomat",
+	EvolvedRecipeName_Base.Teabag2 = "Te",
+}

@@ -88,7 +88,7 @@ Stash_MulMap1_Text3 = "nagy tömeg",
 Stash_MulMap2_Text1 = "Itt hagyta neked",
 Stash_MulMap2_Text2 = "tároló",
 Stash_MulMap2_Text3 = "az egész környék itt volt",
-Stash_MulMap3_Text1 = "Sörétes puska és lőszer, elrejtve, arra az esetre, ha valaki más ellenőrizne.",
+Stash_MulMap3_Text1 = "Sörétes Puska és Lőszer, elrejtve, arra az esetre, ha valaki más ellenőrizne.",
 Stash_MulMap3_Text2 = "Fémáru, szerszámok és egyéb dolgok",
 Stash_MulMap3_Text3 = "sok itt",
 Stash_MulMap4_Text1 = "könnyebb kiút",
@@ -110,7 +110,7 @@ Stash_MulMap10_Text3 = "Tisztának tűnt errefelé",
 Stash_MulMap11_Text1 = "Fegyver a Spiffo-ban.",
 Stash_MulMap11_Text2 = "Itt drogok vannak.",
 Stash_MulMap11_Text3 = "baj",
-Stash_MulMap12_Text1 = "puska itt - étel a konyhában?.",
+Stash_MulMap12_Text1 = "Puska itt - étel a konyhában?.",
 Stash_MulMap12_Text2 = "orvosi szarság",
 Stash_MulMap12_Text3 = "nagy tömeg",
 Stash_MulMap13_Text1 = "Szereztem félúton visszafelé, de itt kellett hagynom az egészet, túl nehéz volt.",
@@ -172,7 +172,7 @@ Stash_WpMap12_Text3 = "Egyfajta Black Friday tömeg",
     Stash_WpMap13_Text2 = "axe kills: 20",
     Stash_WpMap13_Text3 = "car kills: 11",
 
-    Stash_WpMap14_Text1 = "Meet me here Tonya! Got enough food."
+    Stash_WpMap14_Text1 = "Meet me here Tonya! Got enough food.",
     Stash_WpMap14_Text11 = "Now we just have to wait for Colin with his boat",
 
     Stash_WpMap15_Text1 = "They'll never find us here, trust me",
@@ -180,12 +180,12 @@ Stash_WpMap12_Text3 = "Egyfajta Black Friday tömeg",
     Stash_WpMap15_Text2 = "Good hunting here",
 
     Stash_WpMap16_Text1 = "Likely attacks",
-    Stash_WpMap16_Text2 = "Safest egress"
-    Stash_WpMap16_Text21 = "fence, then south across road to forest"
-    Stash_WpMap16_Text3 = "chances of survival:"
-    Stash_WpMap16_Text31 = "one month: 58%"
-    Stash_WpMap16_Text32 = "through winter: 22%"
-    Stash_WpMap16_Text4 = "Need more food and working car"
+    Stash_WpMap16_Text2 = "Safest egress",
+    Stash_WpMap16_Text21 = "fence, then south across road to forest",
+    Stash_WpMap16_Text3 = "chances of survival:",
+    Stash_WpMap16_Text31 = "one month: 58%",
+    Stash_WpMap16_Text32 = "through winter: 22%",
+    Stash_WpMap16_Text4 = "Need more food and working car",
 
 Stash_MarchRidgeMap1_Text1 = "Itt a fegyver",
 Stash_MarchRidgeMap1_Text2 = "baltát és szerszámokat itt?",
@@ -210,12 +210,12 @@ Stash_MarchRidgeMap7_Text1 = "Ahol szerintem bujkált.",
 Stash_MarchRidgeMap7_Text2 = "Valószínűleg fel kell szerszámoznia magát",
 Stash_MarchRidgeMap7_Text3 = "Láttam itt. Nem harapott, de lázas volt.",
 
-    Stash_MarchRidgeMap8_Text1 = "Left my old tools here"
-    Stash_MarchRidgeMap8_Text2 = "Won't need em anymore"
+    Stash_MarchRidgeMap8_Text1 = "Left my old tools here",
+    Stash_MarchRidgeMap8_Text2 = "Won't need em anymore",
 
-    Stash_MarchRidgeMap9_Text1 = "survivors welcome to join us"
-    Stash_MarchRidgeMap9_Text2 = "always need more food and guns and stuff"
-    Stash_MarchRidgeMap9_Text3 = "kill some Z's on the way in for extra kudos!"
+    Stash_MarchRidgeMap9_Text1 = "survivors welcome to join us",
+    Stash_MarchRidgeMap9_Text2 = "always need more food and guns and stuff",
+    Stash_MarchRidgeMap9_Text3 = "kill some Z's on the way in for extra kudos!",
 
     Stash_MarchRidgeMap10_Text1 = "Blessing for a good soul",
     Stash_MarchRidgeMap10_Text2 = "May it keep you from Hell for another while",
@@ -312,45 +312,45 @@ Stash_WorldMap9_Text2 = "crates all around, could be filled with stuff",
 Stash_WorldMap8_Text3 = "offices, nothing",
 Stash_WorldMap8_Text4 = "warehouses?",
 
-Stash_WorldMap10_Text1 = "GAS STATION",
-Stash_WorldMap10_Text2 = "CLOTHES STORE",
-Stash_WorldMap10_Text3 = "SPIFFO'S",
-Stash_WorldMap10_Text4 = "CARS",
+Stash_WorldMap10_Text1 = "BENZINKÚT",
+Stash_WorldMap10_Text2 = "RUHABOLT",
+Stash_WorldMap10_Text3 = "SPIFFO-É",
+Stash_WorldMap10_Text4 = "AUTÓK",
 
 Stash_WorldMap11_Text1 = "Dish 3 on Tower 2 - loses signal around 6 GHz - power problem",
 Stash_WorldMap11_Text11 = "Get HQ to test with Lexington after",
 
 Stash_WorldMap12_Text1 = "LARGE campgrounds - everything we need (except Jane's pills)",
-Stash_WorldMap12_Text11 = "needs clearing first but has lots of food, beds, fireplace"
-Stash_WorldMap12_Text2 = "ONLY DANGER: Mall to north, hundreds of infected there"
+Stash_WorldMap12_Text11 = "needs clearing first but has lots of food, beds, fireplace",
+Stash_WorldMap12_Text2 = "ONLY DANGER: Mall to north, hundreds of infected there",
 
-Stash_WorldMap13_Text1 = "Hal, we're going here, should be safe"
-Stash_WorldMap13_Text11 = "I know it's hard but DO NOT BRING PAULA"
-Stash_WorldMap13_Text12 = "You have to save yourself at least"
+Stash_WorldMap13_Text1 = "Hal, we're going here, should be safe",
+Stash_WorldMap13_Text11 = "I know it's hard but DO NOT BRING PAULA",
+Stash_WorldMap13_Text12 = "You have to save yourself at least",
 
-Stash_WorldMap14_Text1 = "grandma"
-Stash_WorldMap14_Text2 = "where they got grampa"
-Stash_WorldMap14_Text3 = "Lord protect them"
+Stash_WorldMap14_Text1 = "grandma",
+Stash_WorldMap14_Text2 = "where they got grampa",
+Stash_WorldMap14_Text3 = "Lord protect them",
 
-Stash_WorldMap17_Text1 = "patrol blindspot"
-Stash_WorldMap17_Text2 = "V will turn off motion sensors at 23.15 exactly"
-Stash_WorldMap17_Text21 = "Don't get distracted! Follow V, take your pictures, get out"
+Stash_WorldMap17_Text1 = "patrol blindspot",
+Stash_WorldMap17_Text2 = "V will turn off motion sensors at 23.15 exactly",
+Stash_WorldMap17_Text21 = "Don't get distracted! Follow V, take your pictures, get out",
 
-Stash_WorldMap18_Text1 = "Ben"
-Stash_WorldMap18_Text2 = "path"
+Stash_WorldMap18_Text1 = "Ben",
+Stash_WorldMap18_Text2 = "path",
 
-Stash_WorldMap19_Text1 = "Stubborn fuck! At least take the guns I left in Mrs Cuddy's house"
-Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!"
+Stash_WorldMap19_Text1 = "Stubborn fuck! At least take the guns I left in Mrs Cuddy's house",
+Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!",
 
-Stash_WorldMap19_Text1 = "DICKHEAD"
-Stash_WorldMap19_Text2 = "FUCKER"
-Stash_WorldMap19_Text3 = "ASSHOLE"
+Stash_WorldMap19_Text1 = "FASZFEJ",
+Stash_WorldMap19_Text2 = "ROHADÉK",
+Stash_WorldMap19_Text3 = "SEGGFEJ",
 */
 
-	-- v41.72b
-	-- Átnézve 2022.07.08
+	-- v41.78b
+	-- Átnézve 2022.11.02
 	-- Legutóbbi változás:
-	-- 41.72 új sorok hozzáadva.
+	-- Vesszőpótlások.
 	-- Megjegyzés:
 	-- 41.72-es sorokat fordítani kell!
 }

@@ -356,11 +356,13 @@ Sandbox_KO = {
 	Sandbox_LootMechanics = "차량 부품",
 	Sandbox_LootOther = "기타",
 	Sandbox_LootFood = "신선한 음식",
-	Sandbox_Rarity_option1 = "매우 적음",
-	Sandbox_Rarity_option2 = "적음",
-	Sandbox_Rarity_option3 = "보통",
-	Sandbox_Rarity_option4 = "많음",
-	Sandbox_Rarity_option5 = "매우 많음",
+	Sandbox_Rarity_option1 = "없음",
+	Sandbox_Rarity_option2 = "미친듯이 적음",
+	Sandbox_Rarity_option3 = "매우 적음",
+	Sandbox_Rarity_option4 = "적음",
+	Sandbox_Rarity_option5 = "보통",
+	Sandbox_Rarity_option6 = "많음",
+    Sandbox_Rarity_option7 = "매우 많음",
 	Sandbox_LootWeapon = "근접무기류",
 	Sandbox_LootOther = "기타 물품",
 
@@ -441,9 +443,10 @@ Sandbox_KO = {
 
 	Sandbox_RecentlySurvivorVehicles = "생존자의 차량",
 	Sandbox_RecentlySurvivorVehicles_tooltip = "최초 감염사건 이후 유지관리가 된 차량을 플레이어가 발견할 가능성",
-	Sandbox_RecentlySurvivorVehicles_option1 = "적음",
-	Sandbox_RecentlySurvivorVehicles_option2 = "보통",
-	Sandbox_RecentlySurvivorVehicles_option3 = "많음",
+	Sandbox_RecentlySurvivorVehicles_option1 = "없음",
+	Sandbox_RecentlySurvivorVehicles_option2 = "적음",
+	Sandbox_RecentlySurvivorVehicles_option3 = "보통",
+	Sandbox_RecentlySurvivorVehicles_option4 = "많음",
 
 	Sandbox_CarSpawnRate = "차량 생성 비율",
 	Sandbox_CarSpawnRate_option1 = "없음",
@@ -542,7 +545,7 @@ Sandbox_KO = {
 	Sandbox_ZStrength_option4 = "무작위",
 
 	Sandbox_ZToughness = "체력",
-	Sandbox_ZToughness_option1 = "강함",
+	Sandbox_ZToughness_option1 = "튼튼함",
 	Sandbox_ZToughness_option2 = "보통",
 	Sandbox_ZToughness_option3 = "약함",
 	Sandbox_ZToughness_option4 = "무작위",
@@ -584,6 +587,7 @@ Sandbox_KO = {
 	Sandbox_ZMemory_option2 = "보통",
 	Sandbox_ZMemory_option3 = "짧음",
 	Sandbox_ZMemory_option4 = "없음",
+	Sandbox_ZMemory_option5 = "무작위",
 
 	Sandbox_ZDecomposition = "부패 속도"
 	Sandbox_ZDecomposition_option1 = "느림 + 약함",
@@ -595,11 +599,13 @@ Sandbox_KO = {
 	Sandbox_ZSight_option1 = "매의 눈",
 	Sandbox_ZSight_option2 = "보통",
 	Sandbox_ZSight_option3 = "잘 안 보임",
+	Sandbox_ZSight_option4 = "무작위",
 
 	Sandbox_ZHearing = "청각 능력",
 	Sandbox_ZHearing_option1 = "귀신같이 들림",
 	Sandbox_ZHearing_option2 = "보통",
 	Sandbox_ZHearing_option3 = "잘 안 들림",
+	Sandbox_ZHearing_option4 = "무작위",
 
 	Sandbox_ZSmell = "후각 능력",
 	Sandbox_ZSmell_option1 = "피에 굶주린 사냥개",
@@ -715,13 +721,14 @@ Sandbox_KO = {
     Sandbox_FuelStationGas = "초기 주유소 기름양 설정",
     Sandbox_FuelStationGas_tooltip = "게임 시작시, 주유소의 기름양을 설정합니다.",
     Sandbox_FuelStationGas_option1 = "비어있음",
-    Sandbox_FuelStationGas_option2 = "매우 적음",
-    Sandbox_FuelStationGas_option3 = "적음",
-    Sandbox_FuelStationGas_option4 = "보통",
-    Sandbox_FuelStationGas_option5 = "많음",
-    Sandbox_FuelStationGas_option6 = "매우 많음",
-    Sandbox_FuelStationGas_option7 = "가득 참",
-    Sandbox_FuelStationGas_option8 = "무한",
+    Sandbox_FuelStationGas_option2 = "진짜 적음",
+    Sandbox_FuelStationGas_option3 = "매우 적음",
+    Sandbox_FuelStationGas_option4 = "적음",
+    Sandbox_FuelStationGas_option5 = "보통",
+    Sandbox_FuelStationGas_option6 = "많음",
+    Sandbox_FuelStationGas_option7 = "매우 많음",
+    Sandbox_FuelStationGas_option8 = "가득 참",
+	Sandbox_FuelStationGas_option9 = "무한",
     Sandbox_Map = "게임 내 지도",
     Sandbox_AllowMiniMap = "미니 맵 허용",
     Sandbox_AllowWorldMap = "월드 맵 허용",
@@ -756,11 +763,44 @@ Sandbox_KO = {
     Sandbox_NightLength_option4 = "짧은 밤",
     Sandbox_NightLength_option5 = "항상 낮",
 
-    Sandbox_CarGasConsumption_tooltip = "자동차에 기름양이 얼마나 들어있는지 정합니다.",
+    Sandbox_CarGasConsumption_tooltip = "자동차의 연료 소비하는 정도를 설정합니다.",
     Sandbox_ZDecomposition_tooltip = "시간에 따라 부패하는 정도를 정합니다."
     Sandbox_EnableVehicles_tooltip = "활성화시 자동차가 나오게 됩니다.",
     Sandbox_ZInfectionMortality_tooltip = "감염의 발생 속도를 정합니다.",
     Sandbox_NightDarkness_tooltip = "야간에 주변 광원 정도를 정합니다"
     Sandbox_ZStrength_tooltip = "좀비에게 당하는 공격의 피해량을 정합니다.",
     Sandbox_WorldTemperature_tooltip = "세계 온도를 정합니다.",
+	
+	Sandbox_Default = "기본값=%1",
+	
+	
+	Sandbox_EnableTaintedWaterText = "'오염된 물' 도움말 활성화",
+    Sandbox_EnableTaintedWaterText_tooltip = "비활성화된 경우 오염된 물의 경고 표시하지 않습니다.",
+
+	
+	Sandbox_EnablePoisoning = "독성 음식 활성화",
+    Sandbox_EnablePoisoning_tooltip = "독성 음식의 중독을 활성화할지 선택합니다.",
+    Sandbox_EnablePoisoning_option1 = "활성화",
+    Sandbox_EnablePoisoning_option2 = "비활성화",
+    Sandbox_EnablePoisoning_option3 = "표백제 중독만 비활성화",
+	
+	
+	Sandbox_XpMultiplierAffectsPassive = "XP 배율, 패시브 스킬에 활성화",
+    Sandbox_XpMultiplierAffectsPassive_tooltip = "XP 배율이 패시브 스킬에도 영향을 미칩니다. 예시=근력 체력.",
+	
+	
+	Sandbox_LightBulbLifespan = "조명 전구 수명",
+    Sandbox_LightBulbLifespan_tooltip = "값이 높을수록, 전구 내구도가 더 오래갑니다. 0이면 전구는 절대 깨지지 않습니다. 차량의 등화장치에는 영향을 주지 않습니다.",
+	
+	
+	Sandbox_MaggotSpawn = "시체 구더기 생성",
+    Sandbox_MaggotSpawn_option1 = "신체 내부 및 주변",
+    Sandbox_MaggotSpawn_option2 = "신체 내부만",
+    Sandbox_MaggotSpawn_option3 = "없음",
+	
+	
+	Sandbox_DisableFakeDead = "죽은 척하는 좀비 설정",
+    Sandbox_DisableFakeDead_option1 = "세상에 있는 일부 좀비들만 죽은 척함.",
+    Sandbox_DisableFakeDead_option2 = "세상에 있는 일부 좀비들과 당신이 '죽인' 좀비들도 죽은 척함.",
+    Sandbox_DisableFakeDead_option3 = "죽은 척하는 좀비 비활성화",
 }

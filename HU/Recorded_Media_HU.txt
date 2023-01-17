@@ -5502,9 +5502,10 @@ RM_2cc871f4-2766-412f-9496-fb12f0503f25 = "That was for demonstration purposes o
 
 
 
-	-- v41.72b
-	-- Átnézve 2021.07.08
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- Fordításban nem volt változás.
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- Fordítani kell!
+	-- Folyamatban.
