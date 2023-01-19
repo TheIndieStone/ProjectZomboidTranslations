@@ -1841,5 +1841,35 @@
 
 	//610. ORIGINAL: ... the towns of Muldraugh and West Point are part of a 'long held and long term strategy'...
 	c926f26b-a503-4176-814e-26525a9fd565 = ...de Muldraught i West Point són part d'una “estratègia a llarg termini”... 
+	
+	//611. ORIGINAL: ... that's in place to deal with 'security events and localized contamination'.
+	24acb328-5f9b-4555-b563-072ee83ddedd = per fer front a 'esdeveniments de seguretat i contaminació localitzada'.
+
+	//612. ORIGINAL: The message seems clear: they know what they're doing.
+	dd4ea0e6-fc7b-4f2a-bc9e-5205d2cdd5de = El missatge sembla clar: saben què fan.
+
+	//613. ORIGINAL: But shouldn't America know what they're doing too?
+	63df3eab-0ecb-4045-a2f9-085ae67f67ed =Però, també hauria d'Amèrica saber què estan fent?
+
+	//614. ORIGINAL: So far no word from inside the Exclusion Zone...
+	df471477-dc1d-4c3d-8c5b-fc8da31e9dda = Fins ara ni una paraula des de l'interior de la Zona d'Exclusió...
+
+	//615. ORIGINAL: ... and journalists we know to have successfully cross the border have NOT yet re-emerged...
+	ba9988d6-1312-4fd2-ac4b-5e79418047aa = ...i els periodistes que sabem que van creuar la frontera amb èxit, encara NO han tornat a aparèixer...
+
+	//616. ORIGINAL: ... although there is reason to believe they are in the care of the military.
+	46ba5a24-1683-4211-98d5-ed23686e3440 = ...encara que no hi ha raons per creure que estiguin a les mans dels militars.
+
+	//617. ORIGINAL: The end of another troubled day in Kentucky.
+	3c99b09a-ed7a-4113-95b7-f363b821823e = El final d'un altre dia problemàtic a Kentucky.
+
+	//618. ORIGINAL: Here's everything NNR news sources have exclusively uncovered...
+	235664ba-d891-4805-bcb1-fc46c76b72b5 = Això és tot el que les fonts exclusives de NNR han descobert...
+
+	//619. ORIGINAL: ... over the last 48 hours.
+	65d8adc4-5620-4a24-986d-4e093092d0d7 = ...en les darreres 48 hores.
+
+	//620. ORIGINAL: The Knox Event outbreak is localized.
+	6b287fa2-ceb3-4404-ab6c-a40fc1bdc866 = El brot de l'Incident de Knox està localitzat.
 
 [/Translations]
