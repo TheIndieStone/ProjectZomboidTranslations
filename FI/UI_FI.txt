@@ -265,7 +265,6 @@ UI_FI = {
     UI_trait_Mechanics = "Amatöörimekaanikko",
     UI_trait_MechanicsDesc = "Hänellä on yksityiskohtaiset tiedot yleisistä ja hyötyajoneuvojen malleista ja korjauksista."
     UI_trait_axeman = "Kirvesmies",
-    UI_trait_cook = "Kokki",
     UI_prof_Metalworker = "Metallityöläinen",
     UI_profdesc_metalworker = "Voi hitsata rehumetallia esineiden ja barrikadejen luomiseksi."
     UI_prof_Smither = "Seppä",

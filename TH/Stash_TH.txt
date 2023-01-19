@@ -137,7 +137,7 @@ Stash_TH = {
     Stash_MulMap18_Text12 = "หวังว่าเขาจะทิ้งปืนไว้แถวนี้",
     
     Stash_WpMap1_Text1 = "เขาต้องเคยอยู่ที่นี่แน่ ๆ",
-    Stash_WpMap1_Text2 = "เยอะเกินไปแล้ว  ห้ามยิงแถวนี้นะ เห็นแก่พระเจ้าเถอะ";
+    Stash_WpMap1_Text2 = "เยอะเกินไปแล้ว  ห้ามยิงแถวนี้นะ เห็นแก่พระเจ้าเถอะ",
     Stash_WpMap2_Text1 = "เธอคงพักที่นี่",
     Stash_WpMap2_Text2 = "ศูนย์การแพทย์",
     Stash_WpMap2_Text3 = "เห็นเธอเดินอยู่ตรงนี้ ไม่ได้ถือปืน",
@@ -247,7 +247,7 @@ Stash_TH = {
     Stash_RiversideStashMap7_Text2 = "กำลังจะไปกิกะมาร์ต",
     Stash_RiversideStashMap7_Text21 = "ตอนที่ฉันไม่อยู่อย่าทะเลาะกับซานดรานะ",
     
-    Stash_RiversideStashMap8_Text1 = "เหลืออาหารไว้ให้คุณตรงนี้นะ", 
+    Stash_RiversideStashMap8_Text1 = "เหลืออาหารไว้ให้คุณตรงนี้นะ",
     Stash_RiversideStashMap8_Text11 = "กินอะไรสักหน่อยก่อนออกมา",
     Stash_RiversideStashMap8_Text2 = "พวกติดเชื้อเดินเพ่นพ่านเต็มไปหมด",
     Stash_RiversideStashMap8_Text3 = "เคยเห็นกลุ่มคนแถวนี้ (ตายหมดแล้วมั้ง)",
@@ -256,8 +256,8 @@ Stash_TH = {
     Stash_RiversideStashMap9_Text2 = "น้ำมัน",
     Stash_RiversideStashMap9_Text3 = "ดีถูกกัดแต่ไม่เป็นอะไรมาก - ต้องการยาปฏิชีวนะเพื่อป้องกันการติดเชื้อ",
     
-    Stash_RiversideStashMap10_Text1 = "ธนาคาร", 
-    Stash_RiversideStashMap10_Text2 = "เอาอาวุธเสริมมาด้วย", 
+    Stash_RiversideStashMap10_Text1 = "ธนาคาร",
+    Stash_RiversideStashMap10_Text2 = "เอาอาวุธเสริมมาด้วย",
     Stash_RiversideStashMap10_Text21 = "หัวขวานหลวมแล้วนะ",
     Stash_RiversideStashMap10_Text3 = "กำลังออกจากเมืองไปทางทิศตะวันตก คุณคงรู้ว่าจะหาผมเจอได้ที่ไหน",
     

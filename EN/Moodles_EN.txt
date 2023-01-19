@@ -213,7 +213,7 @@ Moodles_EN = {
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "It feels a bit nippy round here...",
 	Moodles_hypothermia_desc_lvl2 = "You need to find ways to keep warm.",
-	Moodles_hypothermia_desc_lvl3 = "Man alive. It is SO cold."
+	Moodles_hypothermia_desc_lvl3 = "Man alive. It is SO cold.",
 	Moodles_hypothermia_desc_lvl4 = "Body and mind obsessed by the cold.",
     -- Windchill
     Moodles_windchill_desc_lvl1 = "It's feeling 5 to 10 degrees colder than it actually is.",
@@ -221,6 +221,6 @@ Moodles_EN = {
     Moodles_windchill_desc_lvl3 = "It's feeling 15 to 20 degrees colder than it actually is.",
     Moodles_windchill_desc_lvl4 = "It's feeling more than 20 degrees colder than it actually is.",
     -- CantSprint
-    Moodles_CantSprint = "Restricted Movement"
+    Moodles_CantSprint = "Restricted Movement",
     Moodles_CantSprint_desc = "Heavy clothing, bulky bags or large items slowing you down!"
 }

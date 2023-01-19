@@ -29,7 +29,7 @@ Farming_RU = {
 	-- water
 	Farming_Well_watered = "Хорошо полито",
 	Farming_Fine = "Нормально",
-	Farming_Thirsty = "Иссохшее",
+	Farming_Thirsty = "Подсохшее",
 	Farming_Dry = "Сухое",
 	Farming_Parched = "Пересохшее",
 	-- growing phase

@@ -8,8 +8,8 @@ AEBS_Pre_today = "Ma,",
 AEBS_Pre_tomorrow = "Holnap,",
 AEBS_Pre_dayafter = "Holnapután,",
     --note: double '%%' at end required:
-AEBS_temperature = "átlagos hőmérséklet %s. Minimum: %s. Maximum: %s. páratartalom: %s%%...",
-AEBS_wind_0 = "%s szél %s -tól. Legfeljebb %s várható. %s",
+AEBS_temperature = "Átlagos hőmérséklet %s. Minimum: %s. Maximum: %s. Páratartalom: %s%%...",
+AEBS_wind_0 = "%s szél kezdése: %s. Legfeljebb %s várható. %s",
 AEBS_wind_1 = "Enyhe",
 AEBS_wind_2 = "Mérsékelt",
 AEBS_wind_3 = "Erős",
@@ -22,13 +22,13 @@ AEBS_clouds_4 = "Erősen felhős.",
 AEBS_fog_0 = "Enyhe köd.",
 AEBS_fog_1 = "Sűrű köd.",
 AEBS_fog_2 = "Nagyon sűrű köd.",
-AEBS_weather_0_a = "FIGYELMEZTETÉS: A előrejelzés szerinti időjárás várhatóan %s -ban kezdődik ... ",
-AEBS_weather_0_b = "Az időjárás egész nap... ",
-AEBS_weather_0_c = "AA előrejelzés szerinti időjárás várhatóan %s -ban végződik... ",
+AEBS_weather_0_a = "FIGYELMEZTETÉS: A előrejelzés szerinti időjárás várható kezdése: %s... ",
+AEBS_weather_0_b = "Az időjárás egész nap tart... ",
+AEBS_weather_0_c = "Az előrejelzés szerinti időjárás várható vége: %s... ",
 AEBS_weather_predicted = "várható ",
 AEBS_weather_and_a = " és egy ",
 AEBS_weather_light_moderate = "enyhe és mérsékelt eső várható...",
-AEBS_weather_heavy_rain = "záporok és / vagy heves esőzések",
+AEBS_weather_heavy_rain = "záporok és/vagy heves esőzések",
 AEBS_weather_storm = "zivatar",
 AEBS_weather_tropical = "trópusi vihar",
 AEBS_weather_blizzard = "hóvihar",
@@ -36,7 +36,7 @@ AEBS_weather_snowfall = " esély lehet havazásra.",
 AEBS_weather_storm_C = "Vihar",
 AEBS_weather_tropical_C = "Trópusi vihar",
 AEBS_weather_blizzard_C = "Hóvihar",
-AEBS_weather_warning = "Első fokú riasztás. %s fenyeget. ETA %s napok...",
+AEBS_weather_warning = "Első fokú riasztás. %s fenyeget. %s napig...",
 
 AEBS_rand_pre_0 = "rendellenes",
 AEBS_rand_pre_1 = "gyanús",
@@ -83,10 +83,10 @@ AEBS_segment_morning = "reggel",
 AEBS_segment_afternoon = "délután",
 AEBS_segment_evening = "este",
 
-	-- v41.69b
-	-- Átnézve 2022.04.29
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- Hiányzott az első sorból az = jel.
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- Nincs új sor és változás.
 }

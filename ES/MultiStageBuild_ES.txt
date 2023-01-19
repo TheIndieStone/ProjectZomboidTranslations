@@ -1,27 +1,28 @@
 MultiStageBuild_ES = {
-    -- Wooden Wall
-    MultiStageBuild_CreateWoodenWall_1 = "Construir pared de madera Nv1",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Mejorar a pared de madera Nv2",
-    MultiStageBuild_CreateWoodenWall_2 = "Construir pared de madera Nv2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Mejorar a pared de madera Nv3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Mejorar a pared de madera Nv3",
-    MultiStageBuild_CreateWoodenWall_3 = "Construir pared de madera Nv3",
-    -- Wooden Window
-    MultiStageBuild_CreateWoodenWindow_1 = "Construir ventana de madera Nv1",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Mejorar a ventana de madera Nv2",
+	-- Wooden Wall
+	MultiStageBuild_CreateWoodenWall_1 = "Construir pared de madera Nv1",
+	MultiStageBuild_UpgradeWoodenWall_1To2 = "Mejorar a pared de madera Nv2",
+	MultiStageBuild_CreateWoodenWall_2 = "Construir pared de madera Nv2",
+	MultiStageBuild_UpgradeWoodenWall_1To3 = "Mejorar a pared de madera Nv3",
+	MultiStageBuild_UpgradeWoodenWall_2To3 = "Mejorar a pared de madera Nv3",
+	MultiStageBuild_CreateWoodenWall_3 = "Construir pared de madera Nv3",
+	-- Wooden Window
+	MultiStageBuild_CreateWoodenWindow_1 = "Construir ventana de madera Nv1",
+	MultiStageBuild_UpgradeWoodenWindow_1To2 = "Mejorar a ventana de madera Nv2",
 	MultiStageBuild_CreateWoodenWindow_2 = "Construir ventana de madera Nv2",
 	MultiStageBuild_UpgradeWoodenWindow_1To3 = "Mejorar a ventana de madera Nv3",
 	MultiStageBuild_UpgradeWoodenWindow_2To3 = "Mejorar a ventana de madera Nv3",
 	MultiStageBuild_CreateWoodenWindow_3 = "Construir ventana de madera Nv3",
-    -- Metal Wall
-    MultiStageBuild_CreateMetalWall_1 = "Construir pared metálica Nv1",
-	MultiStageBuild_UpgradeMetalWall_1To2 = "Mejorar a pared metálica Nv2",
-	MultiStageBuild_CreateMetalWall_2 = "Construir pared metálica Nv2",
-    -- Metal Window
-    MultiStageBuild_CreateMetalWindow_1 = "Construir ventana metálica Nv1",
-	MultiStageBuild_UpgradeMetalWindow_1To2 = "Mejorar a ventana metálica Nv2",
-	MultiStageBuild_CreateMetalWindow_2 = "Construir ventana metálica Nv2",
+	-- Metal Wall
+	MultiStageBuild_CreateMetalWall_1 = "Construir pared metÃ¡lica Nv1",
+	MultiStageBuild_UpgradeMetalWall_1To2 = "Mejorar a pared metÃ¡lica Nv2",
+	MultiStageBuild_CreateMetalWall_2 = "Construir pared metÃ¡lica Nv2",
+	-- Metal Window
+	MultiStageBuild_CreateMetalWindow_1 = "Construir ventana metÃ¡lica Nv1",
+	MultiStageBuild_UpgradeMetalWindow_1To2 = "Mejorar a ventana metÃ¡lica Nv2",
+	MultiStageBuild_CreateMetalWindow_2 = "Construir ventana metÃ¡lica Nv2",
 	-- wooden door frame
 	MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Mejorar a bastidor de puerta Nv2",
 	MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Mejorar a bastidor de puerta Nv3",
 }
+

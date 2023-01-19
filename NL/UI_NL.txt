@@ -489,7 +489,6 @@ UI_NL = {
     UI_worldscreen_MapNotFound = "Deze kaart kan niet geladen worden.  Controleer of de vereiste mod geladen is.",
     UI_worldscreen_SavefileCorrupt = "Savefile schijnt corrupt te zijn.  World Version is nul.",
     UI_worldscreen_SavefileOld = "Deze savefile is te oud om te kunnen laden.",
-    UI_trait_cook = "Kok",
     UI_prof_Metalworker = "Metaalbewerker",
     UI_profdesc_metalworker = "Kan verzameld metaal en schroot lassen om barricades, muren en items maken.",
     UI_prof_Smither = "Smid",

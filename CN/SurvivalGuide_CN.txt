@@ -3,7 +3,7 @@ SurvivalGuide_CN = {
 	SurvivalGuide_entrie1title = "#1 - 角色控制",
 	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 角色控制 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来, 并且学习基础知识, <br>你就活不了多久. ",
 	SurvivalGuide_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在僵尸毁灭工程中, 使用WASD键来移动. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
-                                    "<LINE> <H1> 战斗 <BR> <TEXT>想要攻击僵尸, 你需要先按住鼠标右键或 <SPACE><KEY:Aim><SPACE> 来瞄准, 再点击 鼠标左键 攻击. 如果没有配备武器，您只能推搡(在装备了武器的情况下, 你也可以点击 <SPACE><KEY:Melee><SPACE> 来推搡). <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 鼠标光标附近有一个白色的光圈, 指示的就是你的攻击位置. 有关战斗的更多信息, 参见本指南的第 3 页. <BR> "..
+                                    "<LINE> <H1> 战斗 <BR> <TEXT>想要攻击僵尸, 你需要先按住鼠标右键或 <SPACE><KEY:Aim><SPACE> 来瞄准, 再点击 鼠标左键 攻击. 如果没有配备武器，你只能推搡(在装备了武器的情况下, 你也可以点击 <SPACE><KEY:Melee><SPACE> 来推搡). <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> 鼠标光标附近有一个白色的光圈, 指示的就是你的攻击位置. 有关战斗的更多信息, 参见本指南的第 3 页. <BR> "..
                                     "<LINE> <H1> 状态 <BR> <TEXT> 有时右上角会出现一些图标, 他们显示了角色的一些状态, 将鼠标光标停在图标上可以获取更多详细信息. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
                                     "<LINE> <H1> 鼠标控制 <BR> <TEXT> 单击鼠标左键即可与周围物品进行互动. 例如, 你可以使用鼠标单击门窗来打开或关闭门窗, 点击橱柜来查看橱柜中有哪些可以收集的物资. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 按下鼠标右键并移动光标可以让你环顾四周或瞄准. 滚动鼠标滚轮, 或使用 <SPACE><KEY:Zoom&nbsp;in><SPACE> 和 <SPACE><KEY:Zoom&nbsp;out><SPACE> 键, 来放大或缩小视角. <BR>"..
                                     "<LINE> <H1> 健康 <BR> <TEXT> 点击左上角的心形图标查看你的健康状况, 从这里你可以进行伤口急救 - 或检查可怕的咬痕. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
@@ -56,7 +56,7 @@ SurvivalGuide_CN = {
                                     " <BR> <H1> 包的荣耀 <BR> <TEXT> 包很重要. 它们可以帮助你携带更多东西. <BR> 装备一个包将你的物品扔进去:右键单击并将其装备到你的主手上, 副手或在你的背上. "..
                                     " <BR> 然后你会在你的物品栏中看到装备好的包, 你可以将你的战利品拖放到里面. 最重要的是, 装备的包会减轻物品重量, 这样你就可以携带更多, 但要小心:如果你包里有很多东西, 它仍然会减慢你的移动速度. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/invbag.png> <LINE> "..
                                     " <H1> 腰带和快捷键  <BR> <TEXT> 你可以将某些物品装备到腰带、皮套或背部. 这些物品将显示在屏幕底部的方块中, 并且可以配备对应的快捷键显示的数字. 其他有用的快捷键包括:"..
-                                    " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 装备 (并打开)你最好的光源. 点击 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 配备光源将打开或关闭它, 然后长按 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 将让您访问其他选项，例如取出电池." ..
+                                    " <BR> <KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> : 装备 (并打开)你最好的光源. 点击 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 配备光源将打开或关闭它, 然后长按 <SPACE><KEY:Equip/Turn&nbsp;On/Off&nbsp;Light&nbsp;Source><SPACE> 将让你访问其他选项，例如取出电池." ..
 			                        " <BR> <KEY:ReloadWeapon><SPACE> : 重新装填弹药. 长按 <SPACE><KEY:ReloadWeapon><SPACE> 以获得更多高级选项. 点击 <SPACE><KEY:Rack&nbsp;Firearm><SPACE> 清除卡壳/上膛你的武器.  " ..
 			                        " <BR> <KEY:VehicleRadialMenu><SPACE> : 如果在载具中或载具旁, 则显示载具选项. " ..
 			                        " <BR> <KEY:Shout><SPACE> : 喊叫. 吸引僵尸. 蹲下会更安静. 长按 <SPACE><KEY:Shout><SPACE> 以访问表情轮. 向朋友问好, 或给你最喜欢的僵尸竖起大拇指! "..
@@ -102,7 +102,7 @@ SurvivalGuide_CN = {
 	SurvivalGuide_Joypad_entrie1title = "#1 - 角色控制",
 	SurvivalGuide_Joypad_entrie1txt = " <CENTRE> "<SIZE:large> #1 - 角色控制 <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> 如果你不平静下来, 并且学习基础知识, 你就活不了多久.",
 	SurvivalGuide_Joypad_entrie1moreinfo = " <H1> 移动 <BR> <TEXT> 在PZ中, 使用 <JOYPAD:LStick,28,28>来移动. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
-                                    "<LINE> <H1> 战斗 <BR> <TEXT>想要攻击僵尸, 你需要先按住 <JOYPAD:RStick,28,28> 来瞄准, 再点击 <JOYPAD:RTrigger,28,28> 攻击. 如果没有配备武器，您只能推搡(在装备了武器的情况下, 你也可以点击 <JOYPAD:LTrigger,28,28> 来推搡). 有关战斗的更多信息, 参见本指南的第 3 页. <BR> "..
+                                    "<LINE> <H1> 战斗 <BR> <TEXT>想要攻击僵尸, 你需要先按住 <JOYPAD:RStick,28,28> 来瞄准, 再点击 <JOYPAD:RTrigger,28,28> 攻击. 如果没有配备武器，你只能推搡(在装备了武器的情况下, 你也可以点击 <JOYPAD:LTrigger,28,28> 来推搡). 有关战斗的更多信息, 参见本指南的第 3 页. <BR> "..
                                     "<LINE> <H1> 状态 <BR> <TEXT> 有时右上角会出现一些图标, 他们显示了角色的一些状态, 将鼠标光标停在图标上可以获取更多详细信息. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
                                     "<LINE> <H1> 手柄控制 <BR> <TEXT> 你可以单击 <JOYPAD:AButton,28,28> 与周围物品进行互动, 例如, 你可以点击门窗来打开或关闭门窗, 点击橱柜来查看橱柜中有哪些可以收集的物资. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> 按下 <JOYPAD:RStick,28,28> 可以让你环顾四周或瞄准. 使用 <JOYPAD:YButton,28,28> 打开你的物品栏, 使用 <JOYPAD:DPad,28,28> 用于导航,  <JOYPAD:LBumper,28,28> 和 <JOYPAD:RBumper,28,28> 在你的物品栏和其他容器间切换. <BR>"..
                                     "<LINE> <H1> 健康 <BR> <TEXT> 按 <JOYPAD:Back,28,28> 查看你的健康状况, 从这里你可以进行伤口急救 - 或检查可怕的咬痕. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..

@@ -193,10 +193,10 @@ SurvivalGuide_HU = {
                                      " For example, trash can be found in trash piles, chipped stones are often found in cracks and potholes on roads. <LINE> <LINE> ",}
 
 
-	-- v41.72b
-	-- Átnézve 2022.07.08
+	-- v41.78b
+	-- Átnézve 2022.10.22
 	-- Legutóbbi változás:
-	-- Joypad belekerült, még nincs fordítva. -- hozzáadva 2 sor elejére.
+	-- Nincs változás.
 	-- Megjegyzés:
 	-- Joypad nincs lefordítva.
 }

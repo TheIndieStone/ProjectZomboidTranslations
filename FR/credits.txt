@@ -9,6 +9,7 @@ Assistants
 -> Poulpe
 -> Chaudpeau (+ Recorded Media)
 -> Agreubill
+-> Padd
 
 __________________________
 
@@ -28,3 +29,8 @@ Assistants
 -> CareBearCorpse
 -> Furthick
 __________________________
+
+Radio & TV :
+
+-> Teesee
+-> ShadowHits

@@ -274,7 +274,7 @@ Moveables_CN = {
     Fossoil_Corner_Counter = "加油站转角柜台",
     Fossoil_Counter = "加油站柜台",
     Fossoil_Garbage_Bin = "加油站垃圾桶",
-    Fossoil_Sign = "诺克斯石化标牌",
+    Fossoil_Sign = "福斯石油标牌",
 	Fryers_Club_Industrial_2000 = "肯塔鸡2000商用电炸压力灶",
     Full_Grown_Corn = "成熟玉米",
     Full_Jorge_Foreguy_Barbecue = "豪尔赫·福尔盖烤肉全席",
@@ -350,7 +350,7 @@ Moveables_CN = {
     Hugo_Plush_Sign = "雨果毛绒标牌",
     Human_Hamster_Wheel = "跑步机",
     Hunting_Sign = "诺布溪狩猎标牌",
-	Imekagi_HK533P = "HK533P 架式摄像机",
+	Imekagi_HK533p = "HK533P 架式摄像机",
     Imitation_Flamingo = "仿火烈鸟",
     Incognito_Library_Painting = "图书馆匿名绘画",
     Industrial_Fridge = "工业冰箱",
@@ -494,6 +494,9 @@ Moveables_CN = {
     Oak_Corner_Bar_Counter = "橡木酒吧转角柜台",
     Oak_Corner_Counter = "橡木转角柜台",
     Oak_Counter = "橡木柜台",
+	Oak_Left_Bar = "酒吧橡木货架(左)",
+	Oak_Middle_Bar = "酒吧橡木货架(中)",
+	Oak_Right_Bar = "酒吧橡木货架(右)",
     Oak_Round_Table = "橡木圆桌",
     Oakwood_Bench = "橡木长椅",
     Oakwood_Floor = "橡木地板",
@@ -816,10 +819,10 @@ Moveables_CN = {
 
 	--Add Text--
 
-	Oak_Left_Bar = "酒吧橡木货架(左)",
-	Oak_Middle_Bar = "酒吧橡木货架(中)",
-	Oak_Right_Bar = "酒吧橡木货架(右)",
 	Small_Animal_Trough = "小型饲料槽",
+	Victorian_2_Chair = "维多利亚式2号椅",
+	Victorian_C3_Couch = "维多利亚式C3沙发",
+	Victorian_3_Chair = "维多利亚式3号椅",
 
 }
 
