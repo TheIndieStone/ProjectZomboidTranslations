@@ -1,6 +1,6 @@
 Challenge_TH = {
 	Challenge_YouHaveOneDay_name = "หนึ่งวันของคุณ",
-	Challenge_YouHaveOneDay_desc = "คุณกลับมาที่น็อกซ์เคาน์ตีอีกครั้ง นี่เป็นแผนที่แรกของโปรเจกต์ซอมบอยด์ <LINE> <LINE> คุณมีเวลาหนึ่งวันในการเตรียมตัวรับมือกับหายนะที่จะเกิดขึ้น ซอมบี้ฝูงใหญ่จะไล่ล่าคุณ คุณยังจำจุดที่คุณเคยซ่อนตัว หรือจุดที่คุณได้เปรียบในการสู้กับพวกซอมบี้ได้ไหม? ลองพยายามดูอีกครั้งก่อนที่จะสายเกินไป <LINE> <LINE> [ขอขอบคุณ BobHeckling ที่สร้างแผนจากเกมรุ่น 0.1.5 มาใช้กับเกมรุ่นปัจจุบัน]",
+	Challenge_YouHaveOneDay_desc = "คุณกลับมาที่น็อกซ์เคาน์ตีอีกครั้ง นี่เป็นแผนที่แรกของโปรเจกต์ซอมบอยด์ <LINE> <LINE> คุณมีเวลาหนึ่งวันในการเตรียมตัวรับมือกับหายนะที่จะเกิดขึ้น ซอมบี้ฝูงใหญ่จะไล่ล่าคุณ คุณยังจำจุดที่คุณเคยซ่อนตัว หรือจุดที่คุณได้เปรียบในการสู้กับพวกซอมบี้ได้ไหม? ลองพยายามดูอีกครั้งก่อนที่จะสายเกินไป <LINE> <LINE> [ขอขอบคุณ BobHeckling ที่สร้างแผนที่จากเกมรุ่น 0.1.5 มาใช้กับเกมรุ่นปัจจุบัน]",
 	
 	Challenge_WinterIsComing_name = "เหมันต์ใกล้มาเยือน",
 	Challenge_WinterIsComing_desc = "นี่คือช่วงกลางเดือนกรกฎาคม แต่แล้วก็มีลมหนาวพัดโชยมา นี่ต้องเป็นฤดูหนาว แบบที่ไม่เคยมีมาก่อนอย่างแน่นอน <LINE> <LINE> เมื่อความหนาวแผ่เข้ามา คุณจะตื่นขึ้นมาอย่างงุนงง ความเย็นปกคลุมไปทั่ว แม้กระทั่งพวกซอมบี้ที่รายล้อมอยู่ แต่พวกมันไม่มีความรู้สึกหนาวหรอก <LINE> <LINE> ทำตัวให้อบอุ่น และเอาตัวรอดเข้าไว้...",
@@ -47,8 +47,8 @@ Challenge_TH = {
 	Challenge_Challenge2_CurrentXp = "XP : %1",
 	Challenge_Challenge2_ButtonSkill = "%1 เลเวล %2 - %3 XP",
 	Challenge_Challenge2_ButtonSkillMax = "%1 เลเวลสูงสุด",
-	Challenge_Challenge2_GoldBonus = "เงินโบนัส",
-	Challenge_Challenge2_XpBonus = "XP โบนัส",
+	Challenge_Challenge2_GoldBonus = "เพิ่มเงิน",
+	Challenge_Challenge2_XpBonus = "เพิ่มค่าประสบการณ์",
 	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
 	Challenge_Challenge2_ButtonBonusMax = "%1 สูงสุด",
 	Challenge_Challenge2_ButtonStartGold = "+%1 เงินเริ่มต้น - %2 XP",

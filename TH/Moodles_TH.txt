@@ -1,22 +1,22 @@
 Moodles_TH = {
 	-- Moodle type :
  	-- Endurance
-	Moodles_endurance_lvl1 = "เหนื่อย",
-	Moodles_endurance_lvl2 = "เหนื่อยมาก",
-	Moodles_endurance_lvl3 = "เหนื่อยแทบหมดแรง",
-	Moodles_endurance_lvl4 = "หมดแรง",
+	Moodles_endurance_lvl1 = "เมื่อยล้า",
+	Moodles_endurance_lvl2 = "เมื่อยล้ามาก",
+	Moodles_endurance_lvl3 = "เมื่อยล้าสุดขีด",
+	Moodles_endurance_lvl4 = "หมดเรี่ยวแรง",
  	-- Heavy Load
 	Moodles_heavyload_lvl1 = "เริ่มหนัก",
 	Moodles_heavyload_lvl2 = "หนัก",
 	Moodles_heavyload_lvl3 = "หนักมาก",
 	Moodles_heavyload_lvl4 = "หนักสุดขีด",
  	-- Angry
-	Moodles_angry_lvl1 = "เริ่มหงุดหงิด",
-	Moodles_angry_lvl2 = "รำคาญ",
+	Moodles_angry_lvl1 = "หงุดหงิด",
+	Moodles_angry_lvl2 = "รำคาญใจ",
 	Moodles_angry_lvl3 = "โมโห",
 	Moodles_angry_lvl4 = "โกรธเป็นฟืนเป็นไฟ",
  	-- Stress
-	Moodles_stress_lvl1 = "เริ่มกังวล",
+	Moodles_stress_lvl1 = "วิตกกังวล",
 	Moodles_stress_lvl2 = "กระวนกระวาย",
 	Moodles_stress_lvl3 = "เครียด",
 	Moodles_stress_lvl4 = "สติแตก",
@@ -26,10 +26,10 @@ Moodles_TH = {
 	Moodles_thirst_lvl3 = "ขาดน้ำ",
 	Moodles_thirst_lvl4 = "ขาดน้ำเจียนตาย",
  	-- Tired
-	Moodles_tired_lvl1 = "เริ่มอ่อนล้า",
-	Moodles_tired_lvl2 = "เหนื่อย",
-	Moodles_tired_lvl3 = "หมดแรง",
-	Moodles_tired_lvl4 = "ใกล้จะเป็นลม",
+	Moodles_tired_lvl1 = "อ่อนแรง",
+	Moodles_tired_lvl2 = "เหนื่อยล้า",
+	Moodles_tired_lvl3 = "เหนื่อยมาก",
+	Moodles_tired_lvl4 = "เหนื่อยสุดขีด",
  	-- Hungry
 	Moodles_hungry_lvl1 = "หิวนิดหน่อย",
 	Moodles_hungry_lvl2 = "หิว",
@@ -47,7 +47,7 @@ Moodles_TH = {
 	Moodles_sick_lvl4 = "มีไข้สูง",
  	-- Bored
 	Moodles_bored_lvl1 = "เริ่มเบื่อ",
-	Moodles_bored_lvl2 = "เบื่อ",
+	Moodles_bored_lvl2 = "เบื่อหน่าย",
 	Moodles_bored_lvl3 = "เบื่อมาก",
 	Moodles_bored_lvl4 = "เบื่อสุดขีด",
  	-- Unhappy
@@ -66,20 +66,20 @@ Moodles_TH = {
 	Moodles_wet_lvl3 = "เปียกแฉะ",
 	Moodles_wet_lvl4 = "เปียกโชกไปทั้งตัว",
  	-- Has a cold
-	Moodles_hascold_lvl1 = "เริ่มมีน้ำมูก",
+	Moodles_hascold_lvl1 = "มีน้ำมูก",
 	Moodles_hascold_lvl2 = "ไอและจาม",
 	Moodles_hascold_lvl3 = "เป็นหวัด",
-	Moodles_hascold_lvl4 = "เป็นหวัดหนักมาก",
+	Moodles_hascold_lvl4 = "เป็นหวัดรุนแรง",
  	-- Injured
 	Moodles_injured_lvl1 = "รู้สึกเจ็บ",
 	Moodles_injured_lvl2 = "บาดเจ็บ",
 	Moodles_injured_lvl3 = "บาดเจ็บหนัก",
 	Moodles_injured_lvl4 = "บาดเจ็บร้ายแรง",
  	-- Pain
-	Moodles_pain_lvl1 = "รู้สึกปวด",
+	Moodles_pain_lvl1 = "ปวดเล็กน้อย",
 	Moodles_pain_lvl2 = "ปวด",
 	Moodles_pain_lvl3 = "ปวดมาก",
-	Moodles_pain_lvl4 = "ปวดแบบทรมาน",
+	Moodles_pain_lvl4 = "ปวดทรมานรุนแรง",
  	-- Drunk
 	Moodles_drunk_lvl1 = "เริ่มเมา",
 	Moodles_drunk_lvl2 = "เมา",
@@ -105,10 +105,10 @@ Moodles_TH = {
 	Moodles_hypothermia_lvl3 = "หนาวมาก",
 	Moodles_hypothermia_lvl4 = "หนาวจนสั่นไปทั้งตัว",
  	-- Windchill
-	Moodles_windchill_lvl1 = "ลมหนาวนิด ๆ",
+	Moodles_windchill_lvl1 = "ลมหนาวเบาบาง",
 	Moodles_windchill_lvl2 = "ลมหนาวสั่นสะท้าน",
 	Moodles_windchill_lvl3 = "ลมหนาวเยือกเย็น",
-	Moodles_windchill_lvl4 = "ลมหนาวแสนเลวร้าย",
+	Moodles_windchill_lvl4 = "ลมหนาวสุดขั้วหัวใจ",
 
  	-- Description of moodle
  	-- Endurance
