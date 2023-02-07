@@ -224,29 +224,29 @@ Stash_MarchRidgeMap7_Text3 = "Láttam itt. Nem harapott, de lázas volt.",
     Stash_RiversideStashMap1_Text11 = "hope to see you soon",
     Stash_RiversideStashMap1_Text2 = "careful along here!",
 
-    Stash_RiversideStashMap2_Text1 = "Room 208. Waiting for you",
-    Stash_RiversideStashMap2_Text11 = "Remember when we spent the whole day just staring at the river?",
-    Stash_RiversideStashMap2_Text12 = "Don't leave me alone here xxx",
+    Stash_RiversideStashMap2_Text1 = "208-as szoba vár rád",
+    Stash_RiversideStashMap2_Text11 = "Emlékszel arra, amikor az egész napot a folyó bámulásával töltöttük?",
+    Stash_RiversideStashMap2_Text12 = "Ne hagyj itt egyedül xxx",
 
-    Stash_RiversideStashMap3_Text1 = "video store",
-    Stash_RiversideStashMap3_Text2 = "booze",
+    Stash_RiversideStashMap3_Text1 = "Videó Bolt",
+    Stash_RiversideStashMap3_Text2 = "Ivászat",
 
-    Stash_RiversideStashMap4_Text1 = "daryl's sick, left him here",
-    Stash_RiversideStashMap4_Text11 = "going to find natalie, she'll know what to do",
-    Stash_RiversideStashMap4_Text2 = "saw them drag down two people here, awful",
+    Stash_RiversideStashMap4_Text1 = "Daryl beteg, itt hagytam őt",
+    Stash_RiversideStashMap4_Text11 = "Megkeresem Natalie-t, ő tudni fogja, mit kell csinálni.",
+    Stash_RiversideStashMap4_Text2 = "Láttam, hogy lerángatnak itt két embert, rettenetes",
 
     Stash_RiversideStashMap5_Text1 = "WHOEVER FINDS THIS DO NOT GO HERE",
     Stash_RiversideStashMap5_Text2 = "THE FUCKERS KILLED FRANK AND BIT ME",
 
-    Stash_RiversideStashMap6_Text1 = "Eddie must have some guns hidden here",
-    Stash_RiversideStashMap6_Text11 = "Fucker'd take over the town if he wasn't sick",
-    Stash_RiversideStashMap6_Text12 = "Hope that psycho Vicky didn't get to them",
+    Stash_RiversideStashMap6_Text1 = "Eddie-nek biztos van itt elrejtve néhány fegyvere",
+    Stash_RiversideStashMap6_Text11 = "A rohadék biztos átvenné a várost, ha nem lenne beteg",
+    Stash_RiversideStashMap6_Text12 = "Remélem, hogy a Pszicho Vicky nem jutott el hozzájuk",
 
     Stash_RiversideStashMap7_Text1 = "Looked in on way past - they've all turned",
     Stash_RiversideStashMap7_Text2 = "Heading to Gigamart now",
     Stash_RiversideStashMap7_Text21 = "Don't fight with Sandra while I'm gone",
 
-    Stash_RiversideStashMap8_Text1 = "left you some food here", 
+    Stash_RiversideStashMap8_Text1 = "left you some food here",
     Stash_RiversideStashMap8_Text11 = "Eat before you leave",
     Stash_RiversideStashMap8_Text2 = "infected wandering here",
     Stash_RiversideStashMap8_Text3 = "where I saw that group of people (probably dead now)",
@@ -255,8 +255,8 @@ Stash_MarchRidgeMap7_Text3 = "Láttam itt. Nem harapott, de lázas volt.",
     Stash_RiversideStashMap9_Text2 = "gas",
     Stash_RiversideStashMap9_Text3 = "D's bit but not serious - need antibiotics just in case",
 
-    Stash_RiversideStashMap10_Text1 = "bank", 
-    Stash_RiversideStashMap10_Text2 = "Don't forget a backup weapon", 
+    Stash_RiversideStashMap10_Text1 = "bank",
+    Stash_RiversideStashMap10_Text2 = "Don't forget a backup weapon",
     Stash_RiversideStashMap10_Text21 = "Your axe head looked a little loose",
     Stash_RiversideStashMap10_Text3 = "Heading west out of town soon, you know where to find me",
 
@@ -345,12 +345,12 @@ Stash_WorldMap19_Text11 = "If you die I'll never forgive you!!!",
 Stash_WorldMap19_Text1 = "FASZFEJ",
 Stash_WorldMap19_Text2 = "ROHADÉK",
 Stash_WorldMap19_Text3 = "SEGGFEJ",
-*/
 
-	-- v41.78b
-	-- Átnézve 2022.11.02
+
+	-- v41.78
+	-- Átnézve 2023.01.16
 	-- Legutóbbi változás:
-	-- Vesszőpótlások.
+	-- Néhány 41.72-es sor fordítva.
 	-- Megjegyzés:
-	-- 41.72-es sorokat fordítani kell!
+	-- A 41.72-es új sorok fordítása folyamatban.
 }

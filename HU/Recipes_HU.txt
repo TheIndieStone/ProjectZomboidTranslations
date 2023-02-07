@@ -342,7 +342,7 @@ Recipe_Reclaim_Scalpel_from_Spear = "Szike Lándzsáról leszedése",
 Recipe_Reclaim_Scissors_from_Spear = "Olló Lándzsáról leszedése",
 Recipe_Reclaim_Screwdriver_from_Spear = "Csavarhúzó Lándzsáról leszedése",
 Recipe_Reclaim_Spoon_from_Spear = "Kanál Lándzsáról leszedése",
-Recipe_Refill_Blow_Torch = "Gázégető újratöltése",
+Recipe_Refill_Blow_Torch = "Propán Égető újratöltése",
 Recipe_Remove_Battery = "Akku kiszedése",
 Recipe_Rip_Clothing = "Ruha széttépése",
 Recipe_Rip_Sheets = "Rongy széttépése",
@@ -389,9 +389,9 @@ Recipe_Make_Sandwich Baguette = "Szendvics készítés",
 
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2023.01.24
 	-- Legutóbbi változás:
-	-- 41.78-as új sorok hozzáadva.
+	-- Propán Égető szavak korrigálva
 	-- Egész átnézve, még nem 100%!
 	-- Maradt fordítani való, játék közben kell ellenőrizni.
 	-- A magyart ellenőrizni játék közben!

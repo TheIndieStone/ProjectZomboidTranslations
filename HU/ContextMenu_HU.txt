@@ -238,8 +238,8 @@ ContextMenu_EvolvedRecipe_RecipeName = "%1 %2",
 ContextMenu_EvolvedRecipe_RecipeNameNew = "%1 %2 %3 %4",
 ContextMenu_EvolvedRecipe_RecipeNameNew2 = "%1 %2 %3",
 ContextMenu_EvolvedRecipe_and = "és",
-ContextMenu_EvolvedRecipe_comma = ", ???",
-ContextMenu_EvolvedRecipe_with = "ezzel: ???",
+ContextMenu_EvolvedRecipe_comma = ", ???1",
+ContextMenu_EvolvedRecipe_with = "ezzel:",
 ContextMenu_EvolvedRecipe_PastaPan = "Lábas Tészta",
 ContextMenu_EvolvedRecipe_RicePan = "Lábas Rizs",
 ContextMenu_EvolvedRecipe_PastaPot = "Fazék Tészta",
@@ -391,16 +391,16 @@ ContextMenu_ContainerNotEmpty = "A tároló nem üres",
 ContextMenu_MetalRoof = "Fém Tető",
 ContextMenu_MetalBarBarricade = "Fémcső Torlasz",
 ContextMenu_Clear_Ashes = "Hamu feltakarítása",
-ContextMenu_Unfavorite = "Kedvenc Törlése",
+ContextMenu_Unfavorite = "Kedvenc törlése",
 ContextMenu_MissingTools = "Hiányzó eszközök:",
 ContextMenu_FullPercent = "% tele",
 ContextMenu_Compost = "Trágyázó",
 ContextMenu_EmptySandbagRequired = "Üres Homokzsák szükséges",
 ContextMenu_CompostPercentRequired = "%1% tele (%2%, vagy több szükséges)",
 ContextMenu_GetCompost = "Trágya kiszedése",
-ContextMenu_GetCompostItem = "%1 (felszedés %2%)",
+ContextMenu_GetCompostItem = "%1 (%2% felszedése)",
 ContextMenu_AddCompost = "Trágya hozzáadása",
-ContextMenu_AddCompostItem = "%1 (hozzáadás %2%)",
+ContextMenu_AddCompostItem = "%1 (%2% hozzáadása)",
 ContextMenu_Black = "Fekete",
 ContextMenu_Red = "Piros",
 ContextMenu_Empty = "Üres",
@@ -429,13 +429,13 @@ ContextMenu_Lock_Doors = "Összes ajtó lezárása",
 ContextMenu_Unlock_Doors = "Összes ajtó kinyitása",
 ContextMenu_VehicleMechanics = "Jármű mechanika",
 ContextMenu_Double_Wooden_Door = "Dupla Faajtó",
-ContextMenu_Double_Metal_Door = "Dupla Drótos Kerítéskapu",
-ContextMenu_BigMetalDoubleDoor = "Nagy Dupla Cölöpkapu",
+ContextMenu_Double_Metal_Door = "Dupla Drótkerítés Kapu",
+ContextMenu_BigMetalDoubleDoor = "Nagy Dupla Cölöp Kapu",
 ContextMenu_Hand = "Kéz",
 ContextMenu_VehicleStartEngine = "Motor indítása",
 ContextMenu_VehicleShutOff = "Leállítás",
-ContextMenu_VehicleHotwire = "Motor Rövidre zárása",
-ContextMenu_VehicleHotwireSkill = "Kulcs kell, vagy <br>1-es szintű Villanyszerelés és<br>2-es szintű Szerelés<br>a gyújtás rövidre zárásához",
+ContextMenu_VehicleHotwire = "Gyújtáskapcsoló rövidre zárása",
+ContextMenu_VehicleHotwireSkill = "Kulcs kell, vagy <br>1-es szintű Villanyszerelés és<br>2-es szintű Szerelés<br>a gyújtáskapcsoló rövidre zárásához",
 ContextMenu_VehicleHeadlightsOn = "Fényszórók bekapcsolása",
 ContextMenu_VehicleHeadlightsOff = "Fényszórók kikapcsolása",
 ContextMenu_VehicleHeaterOn = "Légkondi/Fűtés bekapcsolása",
@@ -551,11 +551,11 @@ Puddle = "Pocsolya???",
 
 
 	-- v41.78b
-	-- Átnézve 2022.10.22
+	-- Átnézve 2023.01.25
 	-- Legutóbbi változás:
-	-- 41.78-as sorok hozzáadva.
+	-- Kisebb módosítások a Gyújtáskapcsolóval kapcsolatban.
 	-- Megjegyzés:
-	-- Egész átnézve, még nem 100%!
-	-- Maradt fordítani való, játék közben kell ellenőrizni.
+	-- 100%!
+	-- Maradt fordítani való.
 	-- A magyart ellenőrizni játék közben!
 }

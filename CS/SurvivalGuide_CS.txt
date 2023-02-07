@@ -1,4 +1,5 @@
 SurvivalGuide_CS = {
+SurvivalGuide_WindowTitle = "PRŮVODCE PŘEŽITÍM ZOMBOID",
 SurvivalGuide_entrie1title = "PŘÍRUČKA PRO PŘEŽITÍ #1 - OVLÁDEJ SE",
 SurvivalGuide_entrie1txt = " <CENTRE> <SIZE:medium> PŘÍRUČKA PRO PŘEŽITÍ V ZOMBOIDU <LINE> <SIZE:large> #1 - OVLÁDEJ SE <LINE> <IMAGE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> Nepodaří se ti přežít dlouho, pokud se pořádně nenadechneš a nenaučíš se základy.",
 SurvivalGuide_entrie1moreinfo = " <H1> POHYB <BR> <TEXT> Pro pohyb v Project Zomboid používej klávesy WASD.  <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> " ..
