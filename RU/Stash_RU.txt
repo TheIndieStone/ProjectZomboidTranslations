@@ -1,7 +1,7 @@
 Stash_RU = {
 	Stash_AnnotedMap = "Карта с заметками",
 	
-    Stash_LVMap1_Text1 = "чудик с пушкой помер",
+    Stash_LVMap1_Text1 = "мёртвый чудик с пушкой",
     Stash_LVMap1_Text2 = "дом чудика с пушкой",
 
     Stash_LVMap2_Text1 = "подарок от мамы",
@@ -99,7 +99,7 @@ Stash_RU = {
 	Stash_MulMap6_Text21 = "Помни - антибиотики и бинты. Эта нога ещё не просрана.",
 	Stash_MulMap6_Text3 = "Видел целое стадо, направлявшееся сюда. Не иди! Люблю тебя, целую",
 	Stash_MulMap7_Text1 = "План Б.",
-	Stash_MulMap7_Text2 = "Магазин - ВСЁ ЕЩЁ ПОЛОН!",
+	Stash_MulMap7_Text2 = "Магазин - ВСЁ ЕЩЁ НЕ РАЗГРАБЛЕН!",
 	Stash_MulMap7_Text3 = "пиздец",
 	Stash_MulMap8_Text1 = "Забери мои вещи. Похорони меня, если можешь и если это безопасно. Храни тебя бог.",
 	Stash_MulMap8_Text2 = "Возьми попить, если нужно",
@@ -118,7 +118,7 @@ Stash_RU = {
 	Stash_MulMap13_Text3 = "выстрелы",
 	
 	Stash_MulMap14_Text1 = "безопасный дом - забаррикадируй его!",
-	Stash_MulMap14_Text2 = "везде",
+	Stash_MulMap14_Text2 = "они повсюду",
 	Stash_MulMap14_Text3 = "не стреляй - их привлекает звук",
 
 	Stash_MulMap15_Text1 = "старый доктор живет/жил здесь",
@@ -153,7 +153,7 @@ Stash_RU = {
 	Stash_WpMap6_Text3 = "тут полная жопа",
 	Stash_WpMap8_Text1 = "Джолин не заболела. Она может помочь.",
 	Stash_WpMap8_Text2 = "Оружейный магазин",
-	Stash_WpMap8_Text3 = "видел смерть парня",
+	Stash_WpMap8_Text3 = "видел смерть какого-то парня",
 	Stash_WpMap9_Text1 = "адская прорва зомби",
 	Stash_WpMap9_Text2 = "офис отца",
 	Stash_WpMap9_Text3 = "тело отца",
@@ -216,10 +216,10 @@ Stash_RU = {
 
     Stash_MarchRidgeMap9_Text1 = "Приглашаем вышивших присоединиться к нам"
     Stash_MarchRidgeMap9_Text2 = "нам всегда нужна еда, оружие и многое другое"
-    Stash_MarchRidgeMap9_Text3 = "убейте зомбяков по дороге, чтобы получить дополнительные бонусы!"
+    Stash_MarchRidgeMap9_Text3 = "если поубиваете зомбяков по дороге - уважуха!"
 
     Stash_MarchRidgeMap10_Text1 = "Благословение для доброй души",
-    Stash_MarchRidgeMap10_Text2 = "Пусть это убережет вас от ада еще на некоторое время",
+    Stash_MarchRidgeMap10_Text2 = "Пусть это убережет вас от ада ещё на некоторое время",
 
     Stash_RiversideStashMap1_Text1 = "мы пока здесь",
     Stash_RiversideStashMap1_Text11 = "надеюсь, скоро увидимся",
@@ -234,7 +234,7 @@ Stash_RU = {
 
     Stash_RiversideStashMap4_Text1 = "дэрил заболел, оставил его здесь",
     Stash_RiversideStashMap4_Text11 = "иду искать натали, она знает, что делать",
-    Stash_RiversideStashMap4_Text2 = "видел, как они завалили двух человек здесь, ужасно",
+    Stash_RiversideStashMap4_Text2 = "видел, как они завалили двух чуваков здесь, ужасно",
 
     Stash_RiversideStashMap5_Text1 = "КТО НАЙДЕТ ЭТО, НЕ ИДИТЕ СЮДА",
     Stash_RiversideStashMap5_Text2 = "ЭТИ УЁБКИ УБИЛИ ФРЭНКА И УКУСИЛИ МЕНЯ",
