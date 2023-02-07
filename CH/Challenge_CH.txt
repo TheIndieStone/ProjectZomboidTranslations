@@ -64,7 +64,6 @@ Challenge_CH = {
     -- WeaponRepairWindow
     Challenge_Challenge2_RepairWeapon = "修理武器",
     -- WeaponUpWindow
-    Challenge_Challenge2_Health = "健康值",
     
     Challenge_OpeningHoursInfoBox = " <CENTRE> 購物中心上午九點開幕.  <LINE> <LINE> 準備好迎接顧客...",
     Challenge_WinterIsComingInfoBox = " <CENTRE> 無盡冬日再三天就來臨.  <LINE> <LINE> 穿暖和點...",
