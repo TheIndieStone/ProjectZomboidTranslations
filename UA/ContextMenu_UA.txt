@@ -533,4 +533,13 @@ ContextMenu_UA = {
 	ContextMenu_ComboWasherDryer_SetModeWasher = "Встановити режим: Прати",
 	ContextMenu_ComboWasherDryer_SetModeDryer = "Встановити режим: Сушити",
 	ContextMenu_FuelCapacity = "Кількість палива: ",
+	-- 
+	ContextMenu_ItemWaterCapacity = "Ємність води:",
+	ContextMenu_FoodType_Cocoa = "Какао",
+	ContextMenu_EnableAutodrink = "Дозволити пити автоматична",
+	ContextMenu_DisableAutodrink = "Заборонити пити автоматично",
+	ContextMenu_PumpFuelAmount = "Кількість палива в колонці:",
+	ContextMenu_TooComplicated = "Рівень навику занадто малий",
+	ContextMenu_Illiterate = "Ви безграмотний",
+	ContextMenu_AmmoType = "Тип боєприпасів",
 }

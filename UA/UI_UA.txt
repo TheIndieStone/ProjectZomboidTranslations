@@ -525,7 +525,7 @@ UI_UA = {
 	UI_optionscreen_binding_PanCamera = "Панорамна камера",
 	UI_optionscreen_binding_Zoom in = "Наблизити камеру",
 	UI_optionscreen_binding_Zoom out = "Віддалити камеру",
-	UI_optionscreen_binding_Equip/Unequip Handweapon = "Екіп./зняти дробящу зброю",
+	UI_optionscreen_binding_Equip/Unequip Handweapon = "Екіп./зняти тупу зброю",
 	UI_optionscreen_binding_Equip/Unequip Firearm = "Екіп./зняти вогнепальну зброю",
 	UI_optionscreen_binding_Equip/Unequip Stab weapon = "Екіп./зняти холодну зброю",
 	UI_optionscreen_binding_Equip/Turn On/Off Light Source = "Джерело світла",
@@ -752,7 +752,7 @@ UI_UA = {
 	UI_WorkshopSubmit_Title7 = "ПУБЛІКАЦІЯ",
 	UI_WorkshopSubmit_Title8 = "ПОМИЛКИ ПУБЛІКАЦІЇ",
 	UI_WorkshopSubmit_Title9 = "МАЙСТЕРНЯ STEAM",
-	UI_WorkshopSubmit_BtnOpenWorkshopOverlay = "Відкрити Steam оверлей в майстерню Спиффо",
+	UI_WorkshopSubmit_BtnOpenWorkshopOverlay = "Відкрити Steam оверлей в майстерню Спіффо",
 	UI_WorkshopSubmit_BtnOpenWorkshopUserOverlay = "Відкрити Steam оверлей до файлів, створеним мною",
 	UI_WorkshopSubmit_BtnViewSubscriptions = "Перегляд підписок",
 	UI_WorkshopSubmit_BtnCreateAndUpdate = "Створити або оновити файли",
@@ -792,7 +792,7 @@ UI_UA = {
 	UI_WorkshopServerItemState_Installed = "Встановлено",
 	UI_WorkshopServerItemState_Error = "Помилка",
 	UI_trait_Herbalist = "Травник",
-	UI_trait_HerbalistDesc = "Може знаходити лікувальні трави і створювати з них припарки.<br>Розпізнає отруйні ягоди і гриби.",
+	UI_trait_HerbalistDesc = "Може знаходити лікарські трави і готувати з них припарки.<br>Розпізнає отруйні ягоди і гриби.",
 	-- Controller test panel
 	UI_ControllerTest_Combo = "Тестувати геймпад:",
 	UI_ControllerTest_Axis = "Ось %1:",
@@ -1542,4 +1542,10 @@ UI_UA = {
 	UI_TermsOfService_ButtonQuit = "ВИЙТИ",
 	UI_TermsOfService_MainMenu = "ЛІЦ.УГОДА",
 	UI_ServerOptionDesc_CheckModsNeedUpdate = "Визначає, чи був оновлений якийсь мод. Відповідь буде видано в лог-файлі",
+	-- 
+	UI_optionscreen_MaxTextureSize = "Максимальний розмір текстур",
+	UI_optionscreen_MaxTextureSize_tt = "Обмежити максимальни розмір текстур для не-автомобільних-моделей.\nМенше значення використовує менше графічної пам'яті.",
+	UI_optionscreen_MaxVehicleTextureSize = "Максимальний розмір текстур автомобілів",
+	UI_optionscreen_MaxVehicleTextureSize_tt = "Обмежити максимальни розмір текстур для автомобільних-моделей.\nМенше значення використовує менше графічної пам'яті.",
+	UI_ServerOption_AllowCoop_tooltip = "Дозволити кооперативних гравців через розділений екран",
 }
