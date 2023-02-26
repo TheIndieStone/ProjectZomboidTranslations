@@ -379,7 +379,7 @@ Sandbox_CH = {
     Sandbox_RallyGroupSeparation = "號召團體分離",
     Sandbox_RallyGroupRadius = "號召團體半徑",
     -- Zombie Config tooltips and zombie.ini comments
-    Sandbox_PopulationMultiplier_help = "由 \'殭屍量\' 數量選項設定. \n4.0 = 瘋狂, 3.0 = 非常高", 2.0 = 高, 1.0 = 正常, 0.35 = 低, 0.0 = 無. ",
+    Sandbox_PopulationMultiplier_help = "由 \'殭屍量\' 數量選項設定. \n4.0 = 瘋狂, 3.0 = 非常高, 2.0 = 高, 1.0 = 正常, 0.35 = 低, 0.0 = 無. ",
     Sandbox_PopulationStartMultiplier_help = "調整遊戲開始時的人口數. ",
     Sandbox_PopulationPeakMultiplier_help = "調整巔峰日的人口. ",
     Sandbox_PopulationPeakDay_help = "設定人口達到最高峰的天數. ",
