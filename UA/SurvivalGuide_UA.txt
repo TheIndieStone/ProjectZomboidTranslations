@@ -1,38 +1,20 @@
 SurvivalGuide_UA = {
-	SurvivalGuide_entrie1title = "ПІДРУЧНИК ВИЖИВАННЯ #1 - ТРИМАЙ СЕБЕ В РУКАХ",
-	SurvivalGuide_entrie1txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
-	   " <LINE> <SIZE:large> #1 - ТРИМАЙ СЕБЕ В РУКАХ"..
-	   " <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png>"..
-	   " <LINE> <SIZE:medium> Підніми свої шанси вижити - прочитай основи.",
-	SurvivalGuide_entrie1moreinfo = "<H1> ПЕРЕСУВАННЯ"..
-	   " <BR> <TEXT> Для пересування використовуйте клавіші 'W', 'A', 'S', 'D'."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png>"..
-	   " <LINE> Для бігу утримуйте клавішу 'SHIFT'."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/shiftrun.png>"..
-	   " <BR> <H1> БОРОТЬБА"..
-	   " <BR> <TEXT> Щоб увійти в режим боротьби - утримуйте праву кнопку миші (ПКМ)."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png>"..
-	   " <LINE> <TEXT> Продовжуйте тримати ПКМ, щоб зарядити удар. Попадання удару залежить від того, куди ви дивитеся. Ви також можете пересуватися в режимі бою з допомогою 'W', 'A', 'S', 'D'."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/combat2.png>"..
-	   " <LINE> <TEXT> Використовуйте ліву кнопку миші (ЛКМ), щоб вдарити. Пам'ятайте, що удари повинні бути заряджені. Так що безладно натискати на ЛКМ не варто."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/combat3.png>"..
-	   " <LINE> <TEXT>"..
-	   " <BR> Клавіша 'C' активує режим скритності. Якщо хочете пройти повз зомбі непомітно, то найкраще використовувати її."..
-	   " <BR> <H1> ВЗАЄМОДІЯ"..
-	   " <BR> <H2> КЛІКИ МИШКОЮ"..
-	   " <BR> <TEXT> Для взаємодії з предметами натискайте ЛКМ. Це наприклад, відкриє двері або висуне ящик з речами."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/clickdoor.png>"..
-	   " <LINE> <TEXT> <H2> КНОПКА ВЗАЄМОДІЇ"..
-	   " <BR> <TEXT> Інший спосіб взаємодії з предметами - це клавіша 'E'. Вона дозволяє вам відкривати двері та вікна навіть в режимі боротьби."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/contextdoor.png>"..
-	   " <LINE> Вона також корисна, якщо ви поспішаєте і вам ніколи зупинятися, щоб відкрити двері мишею."..
-	   " <BR> <TEXT> Утримання клавіші 'E' також грає свою роль. Наприклад, щоб перелізти через паркан або вікно - утримуйте 'E'."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/contexthold.png>"..
-	   " <LINE> <H2> МЕНЮ ВЗАЄМОДІЇ"..
-	   " <BR> <TEXT> Більш детальна взаємодія - наприклад, створення речей - доступна через контекстне меню, яке викликається натисканням ПКМ."..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/contextmenu.png>"..
-	   " <LINE> <TEXT>",
-	SurvivalGuide_entrie2title = "ПІДРУЧНИК ВИЖИВАННЯ #2 - НЕ БІГАЙ",
+	SurvivalGuide_WindowTitle = "ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID",
+	SurvivalGuide_entrie1title = "#1 - ОСНОВИ",
+	SurvivalGuide_entrie1txt = " <CENTRE> "<SIZE:large> #1 - ТРИМАЙ СЕБЕ В РУКАХ <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> You're not going to survive long if you don't take some deep breaths, and learn the basics.",
+	SurvivalGuide_entrie1moreinfo = " <H1> РУХ <BR> <TEXT> Щоб пересуватись використовуй клвавіші WASD. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
+                                    "<LINE> <H1> БІЙ <BR> <TEXT> Для початку натисніть ПКМ чи <SPACE><KEY:Aim><SPACE> щоб прицілитись, Тоді натисніть ЛКМ щоб атакувати. Без зброї, ви можете лише штовхатись (Також можете нажати <SPACE><KEY:Melee><SPACE> щоб штовхнути зі зброєю). <BR> <IMAGECENTRE:media/ui/tutimages/combat1.png> <LINE> <TEXT> Ви цілитесь завжди в ізометричний курсор, це біле коло на землі біля вашого курсору. На сторінці 3 цього гайду більш детальна інформація про бій <BR> "..
+                                    "<LINE> <H1> МУДЛИ <BR> <TEXT> Маленькі іконки які деколи появляються зверху з права на екрані називаються Мудли. Вони дозволяють швидко описати стан вашого пермонажу. Наведіть на них щоб побачити більше деталей. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+                                    "<LINE> <H1> МИШКА <BR> <TEXT> Ви можете взаємодіяти об'єктами довкола натиснувши на них ЛКМ. Наприклда ви можете відкривати двері чи відкривати шафки щоб зібрати з них здоч. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> Утримуючи ПКМ ви можете приціцюватись і озиратись довкола. Коліщатко миші, або <SPACE><KEY:Zoom&nbsp;in><SPACE> та <SPACE><KEY:Zoom&nbsp;out><SPACE> кнопки, відповідають за приблищення і віддаленя камери. <BR>"..
+                                    "<LINE> <H1> ЗДОРОВ'Я <BR> <TEXT> Натисніть на іконку серця зліва на екрані, щоб побачити своє здоров'я. Тут ви зможете надати першу допомогу - та перевірити чи вас вкусили. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+                                    "<LINE> <H1> КНОПКА ВЗАЄМОДІЇ <BR> <TEXT> Інший спосіб взаємодії <SPACE><KEY:Interact>. Це дозволить вам відкривати двері в крои в нападаючій позі. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextdoor.png> <LINE> <TEXT> НАТИСНІТЬ <SPACE><KEY:Interact><SPACE> біля вікна щоб відкрити та закрити, та УТРИМУЙТЕ <SPACE><KEY:Interact><SPACE> щоб прозщілти через нього коли вікно відкрите (чи розбите). НАТИСКАЮЧИ ДЕКІЛЬКА РАЗ <SPACE><KEY:Interact><SPACE> поки ви пробуєте відкрити вікно - розіб'є йогго. Корисно в непередбачуваних ситуаціях, але будьте обережні з розбитим склом. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+                                    "<LINE> <H1> ПЕРЕЛІЗАННЯ <BR> <TEXT> Натисність <SPACE><KEY:Interact><SPACE> щоб перелізти через паркан. Ви автоматично будете перелізати якщо спрнтуєте чи біжите підтюпцем (на сторінці 2 детальніше). <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+                                    " <LINE> <H1> КОНТЕКСТНЕ МЕНЮ <BR> <TEXT> Більш детальніші взаємодії такі як майстрування,  доступні через ПКМ, що відкриє контекстне меню.<BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+                                    " <LINE> <H1> ЧАС <BR> <TEXT> зазвичай час летить швидко в Project Zomboid, але якщо ні (і ви граєте Соло), управління знаходиться зверху зправа. Ви можете пришвидшувати час до різних степенів, якщо ви стоїте чи виконуєте якусь дію (наприклад читання чи будування). Ви також можете використовувати керування часом щоб обдумати ваш невдалий забіг за здобиччю. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+                                    "<LINE> <H1> КАРТА <BR> <TEXT> Натисніть <SPACE><KEY:Map><SPACE> чи на ікноку карти зліва, щоб відкрити карту. Поки ви подорожуєте карта буде наповнюватись деталями. Ви також  можете відкрити мінікарту. Утримуйте <SPACE><KEY:Map><SPACE> щоб відкрити налаштування карти, для того щоб включити мінікарту. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+                                    -- ///<LINE> <H1> PLACING INVENTORY ITEMS <BR> <TEXT> Right click on most inventory items for a 'place item' option. This will allow you to place the item wherever you want outside of a container. (Larger movable world items like furniture can also be picked up and placed using the 'movables' option at the top left. See page 5 of this guide for more information). Remember to keep the Knox event tidy! <BR>///
+                                    "<H1> НЕ ВМИРАЙ <BR> <TEXT> І постарайся не помирати постійно. <BR>",
+	SurvivalGuide_entrie2title = "#2 - НЕ БІГАЙ",
 	SurvivalGuide_entrie2txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #2 - НЕ БІГАЙ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/dontrun.png>"..
@@ -45,7 +27,7 @@ SurvivalGuide_UA = {
 	   " <BR> Розумні гравці утримують 'CTRL' (або ПКМ, як вам комфортніше). Так ви будете пересуватися повільніше, але тихіше. Вам також буде легше обертатися на місці, щоб ніхто не зміг підкрастися до вас."..
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/sneak.png>"..
 	   " <LINE> Project Zomboid не конкурс краси. Тримайтеся в тіні. Зомбі хочуть тільки їсти, а єдина їхня їжа - це ви.",
-	SurvivalGuide_entrie3title = "ПІДРУЧНИК ВИЖИВАННЯ #3 - ВЛУЧНІСТЬ",
+	SurvivalGuide_entrie3title = "#3 - ВЛУЧНІСТЬ",
 	SurvivalGuide_entrie3txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #3 - ВЛУЧНІСТЬ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/be_precise.png>"..
@@ -72,7 +54,7 @@ SurvivalGuide_UA = {
 	   " <BR> Коли зомбі впаде, вся атака буде спрямована вниз. Там буде кров і мізки."..
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/combatgroundattack.png>"..
 	   " <LINE>",
-	SurvivalGuide_entrie4title = "ПІДРУЧНИК ВИЖИВАННЯ #4 - ЗАПАСИ ВОДИ",
+	SurvivalGuide_entrie4title = "#4 - ЗАПАСИ ВОДИ",
 	SurvivalGuide_entrie4txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #4 - ЗАПАСИ ВОДИ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/drink_up.png>"..
@@ -83,7 +65,7 @@ SurvivalGuide_UA = {
 	   " <BR> Щоб пити або наповнити пляшку з джерела води, натисніть на неї ПКМ. Крани, туалети, колодязі ... Загалом, розберетеся."..
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/fillbottle.png>"..
 	   " <LINE>",
-	SurvivalGuide_entrie5title = "ПІДРУЧНИК ВИЖИВАННЯ #5 - СТВОРЮЙ",
+	SurvivalGuide_entrie5title = "#5 - СТВОРЮЙ",
 	SurvivalGuide_entrie5txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #5 - СТВОРЮЙ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/be_crafty.png>"..
@@ -109,7 +91,7 @@ SurvivalGuide_UA = {
 	   " <LINE> Повертати предмет перед його будівлею можна клавішею 'R'."..
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/flip.png>"..
 	   " <LINE> ПАМ'ЯТАЙТЕ: Чим більше і частіше ви будуєте, тим краще у вас буде виходити. Чим вище рівень, тим більш якісніші предмети ви зможете зводити.",
-	SurvivalGuide_entrie6title = "ПІДРУЧНИК ВИЖИВАННЯ #6 - СКРИТНІСТЬ",
+	SurvivalGuide_entrie6title = "#6 - СКРИТНІСТЬ",
 	SurvivalGuide_entrie6txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #6 - СКРИТНІСТЬ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/peeping_toms.png>"..
@@ -122,7 +104,7 @@ SurvivalGuide_UA = {
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/curtains.png>"..
 	   " <LINE> Барикадування також блокує їх огляд."..
 	   " <BR> Якщо штор немає, а останню дошку ви прибили до дверей, може є щось ще, що можна повісити на вікно? Давайте, спробуйте.",
-	SurvivalGuide_entrie7title = "ПІДРУЧНИК ВИЖИВАННЯ #7 - ЇЖ СВІЖУ ЇЖУ",
+	SurvivalGuide_entrie7title = "#7 - ЇЖ СВІЖУ ЇЖУ",
 	SurvivalGuide_entrie7txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #7 - НЕ ОБІДАЙ СИРИМ!"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/cook_it_up.png>"..
@@ -145,7 +127,7 @@ SurvivalGuide_UA = {
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/forrage.png>"..
 	   " <LINE> <TEXT> <H1> НЕ ВМИРАЙТЕ"..
 	   " <BR> <TEXT> Намагайтеся не вмирати.",
-	SurvivalGuide_entrie8title = "ПІДРУЧНИК ВИЖИВАННЯ #8 - ДОБУВАННЯ ПРИПАСІВ",
+	SurvivalGuide_entrie8title = "#8 - ДОБУВАННЯ ПРИПАСІВ",
 	SurvivalGuide_entrie8txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #8 - ДОБУВАННЯ ПРИПАСІВ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/packing.png>"..
@@ -173,17 +155,19 @@ SurvivalGuide_UA = {
 	   " <BR> '2', '3' : Взяти в руки зброю, яку ви повісили на пояс (зліва і зправа)."..
 	   " <BR> '4', '5' : Взяти в руки зброю з кобури (не забудьте для перезарядження використовувати клавішу 'R'!)."..
 	   " <BR> 'F' : Взяти в руки і включити / вимкнути джерело світла.",
-	SurvivalGuide_entrie9title = "ПІДРУЧНИК ВИЖИВАННЯ #9 - АВТОМОБІЛІ",
+	SurvivalGuide_entrie9title = "#9 - АВТОМОБІЛІ",
 	SurvivalGuide_entrie9txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #9 - АВТОМОБІЛІ"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/driver.png>"..
 	   " <LINE> <SIZE:medium> Автомобілі допоможуть вам з виживанням, але також вони створюють сильний шум! Гучний двигун приверне орду з великої відстані...",
 	SurvivalGuide_entrie9moreinfo = "<H1> СІДАЙ ВСЕРЕДИНУ"..
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/spiffovehicle.png>"..
-	   " <LINE> <TEXT> Якщо вам пощастить, ви знайдете ключі від автомобіля - можливо, власник кинув їх недалеко від авто, або залишив в бардачку, або навіть в замку запалювання. Також може бути, що власник машини вже перетворився в зомбі і бродить з ключем неподалік. Точно також, якщо машина припаркована поблизу будинку, ключ може виявитися всередині."..
-	   " <BR> Ще не весело? Чому б не зламати автомобіль? Розбийте вікно автомобіля, розблокуйте двері. І, якщо ви володієте достатніми навичками автомеханіки та електроніки, то ви зможете завести автомобіль і без ключа."..
+	   " <LINE> <TEXT> Якщо вам пощастить, ви знайдете ключі від автомобіля - можливо, власник кинув їх недалеко від авто, або залишив в бардачку, або навіть в замку запалювання."..
+		" Також може бути, що власник машини вже перетворився в зомбі і бродить з ключем неподалік. Точно також, якщо машина припаркована поблизу будинку, ключ може виявитися всередині."..
+	   " <BR> Ще не весело? Чому б не зламати автомобіль? Розбийте вікно автомобіля, розблокуйте двері."..
+		" І, якщо ви володієте достатніми навичками автомеханіки та електроніки, то ви зможете завести автомобіль і без ключа."..
 	   " <BR> <H1> ЧАС ПОГАНЯТИ"..
-	   " <BR> <TEXT> Вставте ключ в замок запалювання, щоб побачити показники приладової панелі. Або просто натисніть «Вперед» (за замовчуванням - клавіша 'W'), щоб завести двигун"..
+	   " <BR> <TEXT> Вставте ключ в замок запалювання, щоб побачити показники приладової панелі. Або просто натисніть «Вперед» (типово - клавіша 'W'), щоб завести двигун"..
 	   " <BR> Якщо стан двигуна нижче середнього, він може не завестися з першого разу. Якщо він не заводиться взагалі - можливо, прийшов час заглянути в панель автомеханіки."..
 	   " <BR> Керуйте авто обережно! Чим голосніше автомобіль, тим більше радіус на якому вас почують зомбі і побіжать на звук..."..
 	   " <BR> <H1> ПРИЛАДОВА ПАНЕЛЬ"..
@@ -196,9 +180,10 @@ SurvivalGuide_UA = {
 	   " <LINE> Звідси ви можете пересісти на інше сидіння, заблокувати двері, включити фари, відкрити панель автомеханіки і багато іншого."..
 	   " <BR> <H1> ПАНЕЛЬ АВТОМЕХАНІКИ"..
 	   " <BR> <IMAGECENTRE:media/ui/tutimages/carmechanics.png>"..
-	   " <LINE> <TEXT> Будь-який виживший може перевірити, чи все в порядку з рівнем палива, і дізнатися які частини автомобіля пошкоджені. Виживший з навичками автомеханіки зможе побачити більше деталей, а також встановити або зняти якусь деталь автомобіля."..
+	   " <LINE> <TEXT> Будь-який виживший може перевірити, чи все в порядку з рівнем палива, і дізнатися які частини автомобіля пошкоджені."..
+		" Виживший з навичками автомеханіки зможе побачити більше деталей, а також встановити або зняти якусь деталь автомобіля."..
 	   " <BR>",
-	SurvivalGuide_entrie10title = "ПІДРУЧНИК ВИЖИВАННЯ #10 - ПОГОДА",
+	SurvivalGuide_entrie10title = "#10 - ПОГОДА",
 	SurvivalGuide_entrie10txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
 	   " <LINE> <SIZE:large> #10 - ПОГОДА"..
 	   " <LINE> <IMAGECENTRE:media/ui/spiffo/winter.png>"..
@@ -224,35 +209,37 @@ SurvivalGuide_UA = {
 	   " <LINE> Холодний вітер буде впливати на ваше тіло, але ви не побачите різницю в температурі на вашому електронному годиннику. Слідкуйте за своїми відчуттями, щоб побачити коли стане особливо холодно."..
 	   " <LINE>"..
 	   " <BR> Одягніться тепліше, щоб вижити!",
-	SurvivalGuide_entrie11title = "ПІДРУЧНИК ВИЖИВАННЯ #11 - ХОВАЙСЯ ТА БІЖИ",
-	SurvivalGuide_entrie11txt = "<CENTRE> <SIZE:medium> ПІДРУЧНИК ВИЖИВАННЯ В ZOMBOID"..
-	   " <LINE> <SIZE:large> #11 - ХОВАЙСЯ ТА БІЖИ"..
-	   " <LINE> <IMAGECENTRE:media/ui/spiffo/crouch.png>"..
-	   " <LINE> <SIZE:medium> '%1' - Крастися"..
-	   " <LINE> '%2' - Бігти в Спринті"..
-	   " <LINE> '%3' - Бігти",
-	SurvivalGuide_entrie11moreinfo = "<H1> НАПІВПРИСІДІ"..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/sneak2.png>"..
-	   " <LINE> <TEXT> Ті, що вижили можуть тепер сховатися, присівши за вікном або парканом, щоб поліпшити свою невидимість!"..
-	   " <LINE> Ви також можете бігти в цьому положенні, але повільніше."..
-	   " <LINE>"..
-	   " <BR> <H1> СПРИНТ"..
-	   " <BR> <TEXT> Якщо ваш біг недостатньо швидкий, час перейти на спринт!!"..
-	   " <LINE> Натисніть '%1' для спринту, але будьте обережні - ви можете впасти зіткнувшись з зомбі."..
-	   " <LINE>"..
-	   " <BR> <H1> ПАРКУР"..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png>"..
-	   " <LINE> <TEXT> Щоб автоматично перелізти через паркани, просто біжіть через них!"..
-	   " <LINE>"..
-	   " <BR> <H1> ТОПЧИ ГОЛОВУ"..
-	   " <BR> <TEXT> Коли зомбі впав - цільтеся в голову! Удар по нижній частині тіла з меншою ймовірністю дасть потрібний ефект."..
-	   " <LINE>"..
-	   " <BR> <H1> СПИСИ"..
-	   " <BR> <IMAGECENTRE:media/ui/tutimages/spear.png>"..
-	   " <LINE> <TEXT> Володіння списом вимагає хорошого розуміння часу й прорахованої дистанції. Крім того, чому б не спробувати спринт зі списом, щоб атакувати самотнього зомбі?"..
-	   " <LINE>"..
-	   " <BR> <H1> ЗАХИСТ ОДЯГОМ"..
-	   " <BR> <TEXT> Носіння правильно підібраного одягу може захистити вас від укусів, подряпин і порізів. Натисніть '%2', щоб відкрити панель захисту одягу і побачити, наскільки захищений ваш виживший."..
-	   " <LINE>"..
-	   " <BR>",
+	SurvivalGuide_entrie11title = "#11 - ЗБИРАЛЬНИЦТВО",
+    SurvivalGuide_entrie11txt = " <CENTRE> "<SIZE:large> #11 - ЗБИРАЛЬНИЦТВО <LINE> <IMAGECENTRE:media/ui/spiffo/spiffoSurvivor2.png> <LINE> <SIZE:medium> Світ повний користних речей, якщо ти знаєш де, коли і як шукати! <LINE> <LINE> Ягоди, Гриби, Каміння... Хто зна що ти знайдеш, якщо ти будеш оглядати правильні місця?",
+    SurvivalGuide_entrie11moreinfo = " <H1> ЗБИРАЛЬНИЦТВО / СИСТЕМА ПОШУКУ <BR> " ..
+									" <TEXT> <SIZE:small>" ..
+									" Вікно Дослідити Область показує вашу зону. Це вприлає на здобич яку ви можете знайти." ..
+									" Наведіть ваш курсор поверх вікна щоб дослідити які категорії здобичі доступні в зоні де ви знаходитесь" ..
+									" Якщо ви бачите "?????", тоді тут немає нічого корисного що ви можете знайти. <LINE> <LINE> " ..
+									" <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/investigateArea.png> <LINE> " ..
+									" Щоб почати пошук, натисніть 'Увімкнути режим пошуку'. Радіус пошуку з'явиться. Це область в якій ваш виживший може побачити предмети. <LINE> <LINE>" ..
+									" Стрілка що вказує напрямок до предмету з'явиться якщо ви щоб побачили. Іконка ока з'явиться поки ваш персонаж підходить, щоб побачити що ви точно знайшли. <LINE> <LINE>" ..
+									" Подввійне натискання на знайдений предмет - піднімить його. Правою кнопкою щоб побачити більше опцій <LINE> <LINE> " ..
+									" <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spottingItems.png> <LINE> " ..
+									" <SIZE:medium> <CENTRE> ВДОСКОНАЛЕННЯ ЗБИРАЛЬНИЦТВА <TEXT> <BR> " ..
+									" Оглядатись довкола (в режимі боротьби) і в присяді збільшить ваш радіус пошуку. Ткмрява, негода, навички, розмір предметів і негативні відчуття (стресс, травми, і тд.) Повпливають на ваше бачення. <LINE> <LINE> " ..
+									" <LINE> <IMAGECENTRE:media/textures/Foraging/guideImages/spriteAffinities.png> <LINE> " ..
+									" <SIZE:medium> <CENTRE> ВАЖЛИВО! <TEXT> <BR> " ..
+									" Обов’язково перевіряйте відповідні та логічні місця!" ..
+									" Наприклад, сміття можна знайти в сміттєвих купах, в тріщинах і вибоїнах на дорогах знаходять відколоті камені. <LINE> <LINE> ",
+
+	SurvivalGuide_Joypad_entrie1title = "#1 - ОСНОВИ",
+	SurvivalGuide_Joypad_entrie1txt = " <CENTRE> "<SIZE:large> #1 - ТРИМАЙ СЕБЕ В РУКАХ <LINE> <IMAGECENTRE:media/ui/spiffo/control_yourself.png> <LINE> <SIZE:medium> Підніми свої шанси вижити - прочитай основи.",
+	SurvivalGuide_Joypad_entrie1moreinfo = " <H1> ПЕРЕСУВАННЯ <BR> <TEXT> Для пересування використовуйте <JOYPAD:LStick,28,28>. <BR> <IMAGECENTRE:media/ui/tutimages/walkwasd.png> <LINE> "..
+								"<LINE> <H1> БІЙ <BR> <TEXT>Для атаки, утримуйте <JOYPAD:RStick,28,28> щоб прицілитись, Тоді натисніть <JOYPAD:RTrigger,28,28> щоб атакувати. Без зброї в руках, Ви можете тільки штовхатись (Також натисніть <JOYPAD:LTrigger,28,28> щоб штовхнути, Навіть без зброї). На сторінці 3 ви діснаєтесь більше про бій <BR> "..
+								"<LINE> <H1> МУДЛИ  <BR> <TEXT> Маленькі іконки які деколи появляються зверху з права на екрані називаються Мудли. Вони дозволяють швидко описати стан вашого пермонажу. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/moodles.png> <LINE>"..
+								"<LINE> <H1> ОСНОВНЕ КЕРУВАННЯ <BR> <TEXT> Ви можете взаємодіяти з обєктами за допомогою <JOYPAD:AButton,28,28>. Наприклад відкривати двері, чи вікна. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/clickdoor.png> <LINE> Натискаючи <JOYPAD:RStick,28,28> Ви можете прицілюватись. Відкрийте інвентар натиснувши <JOYPAD:YButton,28,28>, використовуй <JOYPAD:DPad,28,28> шоб обирати, <JOYPAD:LBumper,28,28> та <JOYPAD:RBumper,28,28> Щоб міняти контейнер, ваш інвентар чи найблищий тайл в світі. <BR>"..
+								"<LINE> <H1> ЗДОРОВ'Я <BR> <TEXT> Натисніть <JOYPAD:Back,28,28> щоб відкрити радіальне меню та обреріть іконку серця, щоб побачити ваше здоров'я. Тут ви зможете надати першу допомогу - та перевірити чи вас вкусили. <LINE> <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/health.png> <LINE>"..
+								"<LINE> <H1> ДВЕРІ ТА ВІКНА <BR> <TEXT> Написніть <JOYPAD:AButton,28,28> біля вікна щобв відкрити чи закрити, щоб пролізти <JOYPAD:BButton,28,28> якщо вікно відкрите, чи розбите. Натисніть <JOYPAD:BButton,28,28> біля закритого вікна, щоб розбити його. Корисно в непередбачуваних ситуаціях, але будьте обережні з розбитим склом <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contexthold.png> "..
+								"<LINE> <H1> ПЕРЕЛІЗАННЯ <BR> <TEXT> Натисність <JOYPAD:BButton,28,28> щоб перелізти через паркан. Ви автоматично будете перелізати якщо спрнтуєте чи біжите підтюпцем (на сторінці 2 детальніше). <BR> <IMAGECENTRE:media/ui/tutimages/vaultover.png> "..
+								" <LINE> <H1> КОНТЕКСТНЕ МЕНЮ <BR> <TEXT> Більш детальніші взаємодії такі як майстрування,  доступні через кнопку <JOYPAD:XButton,28,28>, щ овідкриє контекстне меню. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/contextmenu.png> <LINE>"..
+								" <LINE> <H1> ЧАС <BR> <TEXT> зазвичай час летить швидко в Project Zomboid, але якщо ні (і ви граєте Соло), управління в радіальному меню на кнопку <JOYPAD:Back,28,28> . Ви можете пришвидшувати час до різних степенів, якщо ви стоїте чи виконуєте якусь дію (наприклад читання чи будування). Ви також можете використовувати керування часом щоб обдумати ваш невдалий забіг за здобиччю. <BR> <CENTER> <IMAGECENTRE:media/ui/tutimages/timecontrols.png> <LINE>"..
+								"<LINE> <H1> КАРТА <BR> <TEXT> Утримуйте <JOYPAD:DPadRight,28,28> щоб відкрити карту і її налаштування. Поки ви подорожуєте карта буде наповнюватись деталями.  Ви також  можете відкрити мінікарту. <LINE> <CENTER> <IMAGECENTRE:media/ui/tutimages/map.png> <LINE> <BR>"..
+								-- ///<LINE> <H1> PLACING INVENTORY ITEMS <BR> <TEXT> Right click on most inventory items for a 'place item' option. This will allow you to place the item wherever you want outside of a container. (Larger movable world items like furniture can also be picked up and placed using the 'movables' option at the top left. See page 5 of this guide for more information). Remember to keep the Knox event tidy! <BR>///
+								"<H1> НЕ ВМИРАЙ <BR> <TEXT> І постарайся не помирати постійно. <BR>",
 }
