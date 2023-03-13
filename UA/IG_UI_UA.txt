@@ -325,7 +325,7 @@ IGUI_UA = {
 	IGUI_CraftCategory_Welding = "Газозварка",
 	IGUI_CraftCategory_Smithing = "Ковальська справа",
 	IGUI_CraftUI_Name_Filter = "Фільтр по назві:",
-	
+
 	-- Tutorial Stuff
 	IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Ласкаво просимо в Project Zomboid! <LINE> <LINE> <SIZE:medium> Зовсім скоро ви помрете - який жах!<br>І ніхто навіть не згадає про вас,<br>а вся ваша праця піде нанівець. <LINE> <LINE> Так нумо подбаймо про те,<br>щоб ви змогли загинути в бою,<br>а не від якої-небудь нісенітниці! <LINE> <LINE> <SIZE:large> (натисніть 'SPACE' для продовження)",
 	IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> Насамперед - камера! Ви можете наблизити або віддалити її коліщатком миші або клавішами '%1' / '%2'. <LINE> <LINE> Нумо розгляньмо це покинуте місце,<br>де вам доведеться померти,<br>з висоти пташиного польоту! <LINE> <LINE> <SIZE:large> Віддаліть камеру!",
@@ -466,7 +466,7 @@ IGUI_UA = {
 	IGUI_PlayerText_VehicleSeatRemoved = "Сидіння відсутнє.",
 	IGUI_PlayerText_DoorBarricaded = "Двері забарикадовані.",
 	IGUI_PlayerText_DoorBlocked = "Двері заблоковані.",
-	
+
 	IGUI_GamePaused = "- ПАУЗА -",
 	IGUI_UnknownBerry = "Невідома ягода",
 	IGUI_PoisonousBerry = "Отруйна ягода",
@@ -474,11 +474,11 @@ IGUI_UA = {
 	IGUI_UnknownMushroom = "Невідомий гриб",
 	IGUI_PoisonousMushroom = "Отруйний гриб",
 	IGUI_Mushroom = "Гриб",
-	
+
 	IGUI_PostDeath_Quit = "ВИЙТИ З ГРИ",
 	IGUI_PostDeath_Exit = "ВИЙТИ В МЕНЮ",
 	IGUI_PostDeath_Respawn = "НОВИЙ ПЕРСОНАЖ",
-	
+
 	--MouseOver tooltips
 	IGUI_PrimaryTooltip = "Основна рука",
 	IGUI_SecondaryTooltip = "Додаткова рука",
@@ -486,7 +486,7 @@ IGUI_UA = {
 	IGUI_HealthTooltip = "Панель здоров'я",
 	IGUI_CraftingTooltip = "Створення предметів",
 	IGUI_MovableTooltip = "Пересування меблів",
-	
+
 	--movables
 	IGUI_Pickup = "Підняти",
 	IGUI_Place = "Поставити",
@@ -498,7 +498,7 @@ IGUI_UA = {
 	IGUI_Cycle3 = "перемикання між можливими сторонами",
 	IGUI_HoldButton = "Утримуйте ЛКМ і переміщайте мишку для повороту предмета",
 	IGUI_ToggleMode = "Натисніть '%1', щоб перемикатися між режимами.",
-	
+
 	IGUI_PickupItem = "Підняти предмет",
 	IGUI_PlaceObject = "Поставити предмет",
 	IGUI_ApplyRotation = "Застосувати поворот",
@@ -506,7 +506,7 @@ IGUI_UA = {
 	IGUI_CycleObject = "Перемикання предметів інвентарю",
 	IGUI_CycleItems = "Перемикання наземних предметів",
 	IGUI_CycleRotation = "Перемикання повороту",
-	
+
 	IGUI_NoMovable = "Неможливо пересунути",
 	IGUI_Name = "Ім'я",
 	IGUI_ItemsInContainer = "Контейнер містить предмети всередині.",
@@ -534,7 +534,7 @@ IGUI_UA = {
 	IGUI_RadioReleaseFocus = "Звільнити фокус",
 	IGUI_RadioSelectInner = "Обрати внутр.",
 	IGUI_RadioSelectOuter = "Обрати зовн.",
-	
+
 	IGUI_RadioGeneral = "Головне",
 	IGUI_RadioPower = "Живлення",
 	IGUI_RadioSignal = "Сигнал",
@@ -543,7 +543,7 @@ IGUI_UA = {
 	IGUI_RadioChannel = "Канал",
 	IGUI_RadioPowerNearby = "Поблизу є джерело живлення.",
 	IGUI_RadioRequiresPowerNearby = "Потребує джерела живлення.",
-	
+
 	IGUI_RadioTuneIn = "Перемикнутися",
 	IGUI_RadioAddPreset = "Додати",
 	IGUI_RadioEditPreset = "Змінити",
@@ -551,7 +551,7 @@ IGUI_UA = {
 	IGUI_RadioSelectChannel = "Вибрати",
 	IGUI_RadioDeselectChannelList = "Зняти виділення листа каналів",
 	IGUI_RadioSelectChannelList = "Виділити лист каналів",
-	
+
 	IGUI_RadioDevice = "Пристрій",
 	IGUI_RadioFrequency = "Частота",
 	IGUI_RadioFreqRange = "Діапазон частот",
@@ -1064,7 +1064,7 @@ IGUI_UA = {
 	IGUI_VehicleLightbar_WAIL = "ВОЙ",
 	IGUI_VehicleLightbar_YELP = "КОРОТКА",
 	IGUI_Vehicle_SeatOccupied = "Сидіння зайнято",
-	IGUI_PlayerText_CanNotExitFromMovingCar = "Я боюся вистрибувати з машини.",	
+	IGUI_PlayerText_CanNotExitFromMovingCar = "Я боюся вистрибувати з машини.",
 	IGUI_ConfirmLeaveGame = "Покинути гру?",
 	IGUI_AdminPanel_AdminPower = "Зміна адмінки",
 	IGUI_AdminPanel_TooltipEditAdminPower = "Змінюйте свої адмін-повноваження, такі як невидимість, необмежена вантажопідйомність та інше.",
@@ -1636,7 +1636,7 @@ IGUI_UA = {
 	IGUI_SearchMode_Vision_Effect_Trait_Profession_Bonuses = ""Бонуси за риси та професії: ",
 	IGUI_SearchMode_Tip_Tips_Tooltip_Title = "Поради по збиральництву",
 	IGUI_SearchMode_Tip_Tips_Tooltip_Text = "Натисніть, щоб показати/приховати підказки",
-	-- 
+	--
 	IGUI_ItemCat_Badger = "Борсук",
 	IGUI_ItemCat_Beaver = "Бобер",
 	IGUI_ItemCat_Bunny = "Кролик",
