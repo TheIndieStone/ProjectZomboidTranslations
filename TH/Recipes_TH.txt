@@ -370,10 +370,10 @@ Recipes_TH = {
     Recipe_Unstack_Logs = "แก้เชือกมัดไม้ซุง",
     Recipe_Waffles = "วาฟเฟิล",
 
-    Recipe_Make_Metal_Containers = "สร้างบรรจุภัณฑ์โลหะ",
-	Recipe_Make_Metal_Fences = "สร้างรั้วโลหะ",
-	Recipe_Make_Metal_Roof = "สร้างหลังคาโลหะ",
-	Recipe_Make_Metal_Walls = "สร้างกำแพงโลหะ",
+    Recipe_Make_Metal_Containers = "สร้างบรรจุภัณฑ์เหล็ก",
+	Recipe_Make_Metal_Fences = "สร้างรั้วเหล็ก",
+	Recipe_Make_Metal_Roof = "สร้างหลังคาเหล็ก",
+	Recipe_Make_Metal_Walls = "สร้างกำแพงเหล็ก",
     Recipe_Advanced_Mechanics = "ช่างยนต์ขั้นสูง",
 	Recipe_Basic_Mechanics = "ช่างยนต์พื้นฐาน",
 
