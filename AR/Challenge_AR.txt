@@ -1,6 +1,6 @@
 Challenge_AR = {
-    Challenge_YouHaveOneDay_name = "Tenes un día",
-    Challenge_YouHaveOneDay_desc = "Estás de vuelta en Knox County. Estás de vuelta en el mapa donde empezó la infección Project Zomboid. <LINE> <LINE> Tendras un dia de relativa tranquilidad. Los Zombies llegarán en grandes cantidades, y te encontraran. ¿Donde planeas aguantar? ¿En el mismo lugar que lo hacías en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestros agradecimientos al mapper de la comunidad BobHeckling por recrear el viejo mapa de la versión 0.1.5 con las herramientas actuales de PZ.]",
+    Challenge_YouHaveOneDay_name = "Tenés un día",
+    Challenge_YouHaveOneDay_desc = "Estás de vuelta en Knox County. Estás de vuelta en el mapa donde empezó la infección Project Zomboid. <LINE> <LINE> Tendrás un dia de relativa tranquilidad. Los Zombies llegarán en grandes cantidades, y te encontrarán. ¿Dónde planeas aguantar? ¿En el mismo lugar que lo hacías en los viejos tiempos? Mejor que lo encuentres rápido. <LINE> <LINE> [Nuestros agradecimientos al mapper de la comunidad BobHeckling por recrear el viejo mapa de la versión 0.1.5 con las herramientas actuales de PZ.]",
     Challenge_YouHaveOneDayInfoBox = " <CENTRE> En 24 horas tu viaje de vuelta a Knox County habrá sido tu peor idea...",
 
     Challenge_WinterIsComing_name = "Se viene el invierno",
