@@ -12,7 +12,7 @@ EvolvedRecipeName_TH = {
 
 	-- debugtranslations
 
-	EvolvedRecipeName_Base.Baguette = "บาแก็ต",
+	EvolvedRecipeName_Base.Baguette = "บาแกตต์",
 	EvolvedRecipeName_Base.BaloneySlice = "ไส้กรอกโบโลญญา",
 	EvolvedRecipeName_Base.BeanBowl = "ถั่วเขียว",
 	EvolvedRecipeName_Base.Beer = "เบียร์",
