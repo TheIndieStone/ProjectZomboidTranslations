@@ -10,7 +10,7 @@ Stash_PTBR = {
     Stash_LVMap2_Text4 = "faça uma oração por todos nós",
 
     Stash_LVMap3_Text1 = "escola",
-    Stash_LVMap3_Text2 = "o caminhão do zelador assustador deveria estar aqui",
+    Stash_LVMap3_Text2 = "o caminhão do zelador esquisito deveria estar aqui",
     Stash_LVMap3_Text3 = "cuidado com a cerca!",
 
     Stash_LVMap4_Text1 = "não se preocupe, perdi meu tempo procurando aqui",
@@ -32,18 +32,18 @@ Stash_PTBR = {
 
     Stash_LVMap8_Text1 = "estamos aqui na terceira casa abaixo",
     Stash_LVMap8_Text2 = "depressa com esse remédio Diego",
-    Stash_LVMap8_Text3 = "ESTÃO TODOS AQUI NÃO VAI",
+    Stash_LVMap8_Text3 = "ESTÃO TODOS AQUI, NÃO VAI",
 
     Stash_LVMap9_Text1 = "armas e comida no estábulo isolado - tenha cuidado!",
-    Stash_LVMap9_Text2 = "não se perca nas árvores",
+    Stash_LVMap9_Text2 = "não se perde nas árvores",
     Stash_LVMap9_Text3 = "essas coisas estão lá também",
 
-    Stash_LVMap10_Text1 = "velho desgraçado com a casa cheia de comida",
+    Stash_LVMap10_Text1 = "velho fodido com a casa cheia de comida",
     Stash_LVMap10_Text2 = "e nenhuma arma",
     Stash_LVMap10_Text3 = "só não traga toda essa maldita",
     Stash_LVMap10_Text4 = "horda com você desta vez!",
 
-    Stash_LVMap11_Text1 = "loja não looteada",
+    Stash_LVMap11_Text1 = "loja intocada",
     Stash_LVMap11_Text2 = "mas cheia de zumbis",
     Stash_LVMap11_Text3 = "depósito",
     Stash_LVMap11_Text4 = "LV General",
@@ -254,7 +254,7 @@ Stash_PTBR = {
 
     Stash_RiversideStashMap9_Text1 = "Ton está esperando por nós aqui",
     Stash_RiversideStashMap9_Text2 = "gasolina",
-    Stash_RiversideStashMap9_Text3 = "D está mordido, mas não é sério - precisa de antibióticos no caso",
+    Stash_RiversideStashMap9_Text3 = "D está mordido, mas não é sério - precisa de antibióticos só pra garantir",
 
     Stash_RiversideStashMap10_Text1 = "banco",
     Stash_RiversideStashMap10_Text2 = "Não se esqueça de uma arma reserva",
