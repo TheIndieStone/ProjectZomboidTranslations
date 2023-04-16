@@ -35,7 +35,7 @@ Stash_PTBR = {
     Stash_LVMap8_Text3 = "ESTÃO TODOS AQUI, NÃO VAI",
 
     Stash_LVMap9_Text1 = "armas e comida no estábulo isolado - tenha cuidado!",
-    Stash_LVMap9_Text2 = "não se perde nas árvores",
+    Stash_LVMap9_Text2 = "vê se não se perde nas árvores",
     Stash_LVMap9_Text3 = "essas coisas estão lá também",
 
     Stash_LVMap10_Text1 = "velho fodido com a casa cheia de comida",
