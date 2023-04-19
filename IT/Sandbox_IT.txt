@@ -271,6 +271,7 @@ Sandbox_IT = {
     Sandbox_LootMechanics = "Meccanica",
     Sandbox_LootMedical = "Medico",
     Sandbox_LootOther = "Altro:",
+	Sandbox_LootOther_tooltip = "Tutto il resto. Influisce anche sul foraggiamento di tutti gli oggetti nelle zone di città/strada.",
     Sandbox_LootRangedWeapon = "Armi a distanza",
     Sandbox_LootRarity = "Rarità oggetti",
     Sandbox_LootRespawn = "Rigenerazione oggetti:",
