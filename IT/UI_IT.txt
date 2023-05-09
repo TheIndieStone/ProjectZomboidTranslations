@@ -20,6 +20,7 @@ UI_IT = {
     UI_Close = "Chiudi",
     UI_ClothingInsPanel = " <CENTRE> <SIZE:medium> Questo è il pannello isolante per abbigliamento. <LINE> <LINE> <SIZE:small> <LEFT> Questa schermata mostra il livello di isolamento delle parti del corpo. <LINE> <LINE> Quando in ambienti freddi è richiesto un buon isolamento. <LINE> <LINE> Anche se nella calura estiva potresti volerti rinfrescare.",
     UI_ClothingTextureType = "Tipo %1",
+    UI_ClothingType_Outfit = "Completo",
     UI_ClothingType_Eyes = "Occhiali",
     UI_ClothingType_FullSuit = "Tute",
 	UI_ClothingType_Glasses = "Occhiali",
