@@ -86,7 +86,7 @@ IG_UI_IT = {
     IGUI_ContainerTitle_wardrobe = "Armadio",
     IGUI_ContainerTitle_woodstove = "Stufa",
 	-- Pannello della salute
-    IGUI_health_Scratched = "Graffo",
+    IGUI_health_Scratched = "Graffio",
     IGUI_health_Wounded = "Ferita",
     IGUI_health_Burned = "Ustione",
     IGUI_health_NeedCleaning = "Necessita pulizia",

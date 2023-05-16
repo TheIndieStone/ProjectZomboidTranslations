@@ -79,7 +79,7 @@ Moodles_IT = {
 	Moodles_pain_lvl1 = "Dolore lieve",
 	Moodles_pain_lvl2 = "Dolore",
 	Moodles_pain_lvl3 = "Dolore intenso",
-	Moodles_pain_lvl4 = "Agonia",
+	Moodles_pain_lvl4 = "Atroci sofferenze",
 	-- Ubriaco
 	Moodles_drunk_lvl1 = "Un po' brillo",
 	Moodles_drunk_lvl2 = "Inebriato",
