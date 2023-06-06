@@ -1,0 +1,27 @@
+MultiStageBuild_FI = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Luo puusein‰ taso 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "P‰ivit‰ puusein‰‰n taso 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Luo puusein‰ taso 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "P‰ivit‰ puusein‰‰n taso 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "P‰ivit‰ puusein‰‰n taso 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Luo puusein‰ taso 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Luo puuikkuna taso 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "P‰ivit‰ puuikkunaan taso 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Luo puuikkuna taso 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "P‰ivit‰ puuikkunaan taso 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "P‰ivit‰ puuikkunaan taso 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Luo puuikkuna taso 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Luo metallisein‰ taso 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "P‰ivit‰ Metal Wall taso 2:een",
+    MultiStageBuild_CreateMetalWall_2 = "Luo metallisein‰ taso 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Luo metalliikkuna taso 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "P‰ivit‰ Metal Window taso 2:een",
+    MultiStageBuild_CreateMetalWindow_2 = "Luo metalliikkuna taso 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "P‰ivit‰ puiseen ovenkarmiin taso 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "P‰ivit‰ puiseen ovenkarmiin taso 3",
+}
