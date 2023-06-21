@@ -1,5 +1,5 @@
 Stash_TH = {
-    Stash_AnnotedMap = "แผนที่มีข้อความเขียนไว้",
+    Stash_AnnotedMap = "แผนที่พร้อมข้อความ",
     
     Stash_LVMap1_Text1 = "ไอ้หนุ่มมือปืน",
     Stash_LVMap1_Text2 = "บ้านไอ้หนุ่มมือปืน",
