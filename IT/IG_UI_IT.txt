@@ -20,7 +20,7 @@ IG_UI_IT = {
     IGUI_invpanel_ascending = "Crescente",
     IGUI_invpanel_descending = "Decrescente",
 	-- Pagina dell'inventario
-    IGUI_invpage_Loot_all = "Prendi tutto",
+    IGUI_invpage_Loot_all = "Saccheggia tutto",
 	-- Schermata del personaggio
     IGUI_char_Age = "Età",
     IGUI_char_Sex = "Sesso",
