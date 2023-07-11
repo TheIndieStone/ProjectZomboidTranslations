@@ -1571,7 +1571,7 @@ IG_UI_IT = {
     IGUI_SearchMode_Debug_Overlay_Override_Darkness_Interior = "Oscurità (interno)",
     IGUI_SearchMode_Debug_TickBox_Enabled = "Abilitato",
     --Finestra di visualizzazione della zona in modalità di ricerca
-    IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "Scoperte possibili in questa regione: ",
+    IGUI_SearchMode_Window_Tooltip_Categories_In_Area = "Ritrovamenti possibili in quest'area: ",
     IGUI_SearchMode_Window_Tooltip_Nothing_In_Area = "Niente da trovare qui.",
     --Nomi delle zone in modalità di ricerca
     IGUI_SearchMode_Zone_Names_Unknown = "Qui niente",
