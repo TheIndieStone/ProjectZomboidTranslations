@@ -9,7 +9,7 @@ Moodles_UA = {
 	Moodles_heavyload_lvl1 = "Доволі важкий вантаж",
 	Moodles_heavyload_lvl2 = "Важкий вантаж",
 	Moodles_heavyload_lvl3 = "Дуже важкий вантаж",
-	Moodles_heavyload_lvl4 = "Непідйомний вантаж",
+	Moodles_heavyload_lvl4 = "Непіднімний вантаж",
 	-- Angry
 	Moodles_angry_lvl1 = "Нервовість",
 	Moodles_angry_lvl2 = "Роздратування",
@@ -83,8 +83,8 @@ Moodles_UA = {
 	-- Drunk
 	Moodles_drunk_lvl1 = "Випивший",
 	Moodles_drunk_lvl2 = "П'яний",
-	Moodles_drunk_lvl3 = "Нажрався",
-	Moodles_drunk_lvl4 = "Повністю в гавно",
+	Moodles_drunk_lvl3 = "Нажерся",
+	Moodles_drunk_lvl4 = "Напився вщент",
 	-- Dead
 	Moodles_dead_lvl1 = "Мрець",
 	-- Zombified
@@ -129,7 +129,7 @@ Moodles_UA = {
 	-- Thirsty
 	Moodles_thirst_desc_lvl1 = "Сухість в роті.",
 	Moodles_thirst_desc_lvl2 = "Зневоднений.",
-	Moodles_thirst_desc_lvl3 = "Відчуття слабкості і запаморочення.",
+	Moodles_thirst_desc_lvl3 = "Відчуття слабкості й запаморочення.",
 	Moodles_thirst_desc_lvl4 = "Відчайдушна потреба у воді.",
 	-- Tired
 	Moodles_tired_desc_lvl1 = "Не завадило б прилягти.",
@@ -149,7 +149,7 @@ Moodles_UA = {
 	-- Sickness
 	Moodles_sick_desc_lvl1 = "Неважливо себе почуваєте.",
 	Moodles_sick_desc_lvl2 = "Сила і загоєння знижена.",
-	Moodles_sick_desc_lvl3 = "Сильне зниження сили і загоєння",
+	Moodles_sick_desc_lvl3 = "Сильне зниження сили та загоєння",
 	Moodles_sick_desc_lvl4 = "Високий ризик летального кінця.",
 	-- Bored
 	Moodles_bored_desc_lvl1 = "Займіться чимось, знайдіть розвагу.",
@@ -206,10 +206,10 @@ Moodles_UA = {
 	Moodles_foodeaten_desc_lvl3 = "Шлунок задоволений. Здоров'я і сила допомагають.",
 	Moodles_foodeaten_desc_lvl4 = "Не зможу впоратися навіть з печивом.",
 	-- Hyperthermia
-	Moodles_hyperthermia_desc_lvl1 = "Може варто надіти більш легкий одяг? Спрага посилилась.",
+	Moodles_hyperthermia_desc_lvl1 = "Може варто надіти легший одяг? Спрага посилилась.",
 	Moodles_hyperthermia_desc_lvl2 = "Спрага. Запітнілий. Мокрий.",
 	Moodles_hyperthermia_desc_lvl3 = "Нудота, важко сконцентруватися, велике споживання води.",
-	Moodles_hyperthermia_desc_lvl4 = "Паморочиться в голові і нудить. Ознаки гіпертермії.",
+	Moodles_hyperthermia_desc_lvl4 = "Паморочиться в голові та нудить. Ознаки гіпертермії.",
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "Тут трохи холоднувато...",
 	Moodles_hypothermia_desc_lvl2 = "Вам потрібно знайти спосіб зігрітися.",
