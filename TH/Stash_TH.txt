@@ -211,8 +211,8 @@ Stash_TH = {
     Stash_MarchRidgeMap7_Text2 = "คุณอาจต้องมีเครื่องมือเตรียมพร้อม",
     Stash_MarchRidgeMap7_Text3 = "เห็นเขาตรงนี้ ไม่มีรอยกัด แต่มีไข้",
     
-    Stash_MarchRidgeMap8_Text1 = "ทิ้งเครื่องมือไว้ที่นี่"
-    Stash_MarchRidgeMap8_Text2 = "คงไม่ได้ใช้แล้ว"
+    Stash_MarchRidgeMap8_Text1 = "ทิ้งเครื่องมือเก่าไว้ที่นี่"
+    Stash_MarchRidgeMap8_Text2 = "คงไม่ได้ใช้แล้วแหละ"
     
     Stash_MarchRidgeMap9_Text1 = "ยินดีต้อนรับผู้รอดชีวิตทุกท่าน"
     Stash_MarchRidgeMap9_Text2 = "ต้องการอาหาร ปืน และสิ่งของจำเป็นต่าง ๆ"
@@ -232,9 +232,9 @@ Stash_TH = {
     Stash_RiversideStashMap3_Text1 = "ร้านเช่าวิดีโอ",
     Stash_RiversideStashMap3_Text2 = "เหล้า",
     
-    Stash_RiversideStashMap4_Text1 = "ดารีลติดเชื้อ ทิ้งเขาไว้ตรงนี้",
+    Stash_RiversideStashMap4_Text1 = "แดริลติดเชื้อ ทิ้งเขาไว้ตรงนี้",
     Stash_RiversideStashMap4_Text11 = "ไปหานาตาลี เธอรู้ว่าต้องจัดการยังไง",
-    Stash_RiversideStashMap4_Text2 = "เห็นพวกมันลากสองคนนั้นไปกิน เลวร้ายที่สุด",
+    Stash_RiversideStashMap4_Text2 = "เห็นพวกมันลากสองคนนั้นไป เเย่เหลือเกิน",
     
     Stash_RiversideStashMap5_Text1 = "ถึงคนอ่าน ห้ามไปตรงนี้เด็ดขาด",
     Stash_RiversideStashMap5_Text2 = "ไอ้ห่านรกพวกนี้ฆ่าแฟรงก์แล้วก็กัดผมด้วย",
@@ -245,7 +245,7 @@ Stash_TH = {
     
     Stash_RiversideStashMap7_Text1 = "พวกเขากลายเป็นซอมบี้ไปหมดแล้ว",
     Stash_RiversideStashMap7_Text2 = "กำลังจะไปกิกะมาร์ต",
-    Stash_RiversideStashMap7_Text21 = "ตอนที่ฉันไม่อยู่อย่าทะเลาะกับซานดรานะ",
+    Stash_RiversideStashMap7_Text21 = "ตอนที่ฉันไม่อยู่อย่าทะเลาะกับแซนดรานะ",
     
     Stash_RiversideStashMap8_Text1 = "เหลืออาหารไว้ให้คุณตรงนี้นะ",
     Stash_RiversideStashMap8_Text11 = "กินอะไรสักหน่อยก่อนออกมา",
