@@ -10,7 +10,7 @@
 [Translations]
 
 	////0. ORIGINAL [#FF7030A0]: US Army recruits who four days ago were waiting to ship out overseas from local military bases...
-	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Військові армії США, які 4 дні тому очікували відправки за межу...
+	e50ed454-bc93-42b1-ae0e-4c2f1ff557cf = Військові армії США, які 4 дні тому очікували відряджання за межу...
 
 	////1. ORIGINAL [#FF00B050]: It's day three of the Knox evacuation.
 	7627222d-39a5-42bc-9d4d-f3a32a538f27 = Вже настав третій день евакуації Нокс.
@@ -19,7 +19,7 @@
 	645bdef2-eca1-45d5-b1a8-6c8928ddd30f = Коли я запитав, чи має військова присутність в регіоні...
 
 	////3. ORIGINAL [#FF00B050]: LBMW ask the questions...
-	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' задає питання...
+	fb720674-250f-41ca-b269-e5e69da97c0c = 'LBMW' ставить питання...
 
 	////4. ORIGINAL [#FF00B050]: 'We don't feel safe.'
 	9fe638a4-fc1c-4796-9cec-9a248d8fe53e = 'Ми не відчуваємо себе в безпеці'.
@@ -49,13 +49,13 @@
 	45701263-1b73-4d7e-a4cc-61e7aac1bf1b = *звуки вибухів на фоні*
 
 	////13. ORIGINAL [#FF7030A0]: Warning shots.
-	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Были просто предупреждающими выстрелами.
+	f3439f8e-3452-48b5-9b6b-744d60c81e00 = Попереджувальні постріли.
 
 	////14. ORIGINAL [#FF7030A0]: [img=music] If I could say... [img=music]
 	cde3e217-4636-4c90-b8eb-673baa2e7c4e = [img=music] Якби я міг сказати ... [img=music]
 
 	////15. ORIGINAL [#FF7030A0]: [img=music] Anything that would make you stay. [img=music]
-	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] Будь що щоб тебе залишити [img=music]
+	25e6e6e3-1463-42c0-bbbe-af351d3fc5cc = [img=music] Будь-що, щоб тебе залишити [img=music]
 
 	////16. ORIGINAL [#FF7030A0]: [img=music] You know I would. You know. [img=music]
 	7f0901bb-4fed-4288-8374-771a736e1fd5 = [img=music] Ти знаєш я б. Ти знаєш. [img=music]
@@ -115,13 +115,13 @@
 	4f5162dd-e620-40e0-813e-2841fd354881 = Я б теж був здивований, якби я прокинувся і довкола мене збудували військовий кордон
 
 	////35. ORIGINAL [#FF00B050]: So let's support our boys, people.
-	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Тому давайте підтримаємо наштх хлопців, народ.
+	a61a997f-d433-4aaa-9e66-6d81f60cc012 = Тому підтримаймо наших хлопців, народ.
 
 	////36. ORIGINAL [#FFFFC000]: 'We haven't been ready for a long time.'
 	b1102d69-761a-4f1d-a4e8-a7559fed85e6 = 'Ми не були готові вже довгий час'.
 
 	////37. ORIGINAL [#FF7030A0]: People just don't know what to do, and the military don't know what to do with them.
-	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = Люди просто на знають що робити. І військові не знають що робити з ними.
+	8dc72ed3-0298-4fb5-8888-1ce2c3fb9beb = Люди просто не знають що робити. І військові не знають що робити з ними.
 
 	////38. ORIGINAL [#FF00B050]: The Army is biding its time. Making sure we stay safe.
 	3433cccb-5d67-467b-89f2-bcb69677b093 = Армія зараз очікує свого часу. І впевнюється в нашій безпеці.
@@ -133,10 +133,10 @@
 	184e6db0-da2b-4262-abac-cc0dc1680fe1 = Через загрозу поширення Події Нокс...
 
 	////41. ORIGINAL [#FFFFC000]: These images show today's running battle between masked youths...
-	ce98252a-4e30-4532-b46e-bdf328380815 = Ці зображення показують сьогоднішні бої між молодью в масках...
+	ce98252a-4e30-4532-b46e-bdf328380815 = Ці зображення показують сьогоднішні бої між молоддю в масках...
 
 	////42. ORIGINAL [#FFFFC000]: Troops in Times Square. Tanks on Miami Beach.
-	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = Війська на Таймс-сквер. Танки на бляжах Маямі.
+	8fd0fcd6-9f90-4c82-8ea6-b3ad7a76ab9b = Війська на Таймс-сквер. Танки на пляжах Маямі.
 
 	////43. ORIGINAL [#FF00B050]: Horrifying pictures handed to Triple-N reveal brutality inside the Exclusion Zone
 	da14d0d0-b5e4-493d-bc55-4424e50cd975 = Жахливі фотографії, передані Triple-N, показують жорстокість у Зоні відчуження.
@@ -157,7 +157,7 @@
 	3f18f815-7017-41b2-ad00-6ddea2a2b19d = Дякую Річард. Тримай нас в курсі.
 
 	////49. ORIGINAL [#FF00B050]: People are in a bad way, they are panicked and confused.
-	429d9b40-c818-4f7f-a07b-4931772fede1 = Людям зовсім погано, вони в тривозі і панікують.
+	429d9b40-c818-4f7f-a07b-4931772fede1 = Людям зовсім погано, вони в тривозі та панікують.
 
 	////50. ORIGINAL [#FF00B050]: The Knox Event has us all wired up.
 	3ff35868-e90c-4982-87f2-ab2c2a4f95f8 = Подія Нокс всіх нас тримає в заручниках.
@@ -193,7 +193,7 @@
 	d5a7a459-120c-46d2-915a-84ba1453d013 = візьміть кельму. Або лопату... Та навіть голими руками.
 
 	////61. ORIGINAL [#FF00B050]: Everywhere I go, good friends say 'Thank you Doctor Cox'.
-	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = Всуюди де я йдуб хороший друг говорить 'Дякую лікарю Кокс'
+	eb4e7345-68a5-4b3f-8cae-b78362fd34a8 = Всюди де я йду, хороший друг говорить 'Дякую лікарю Кокс'
 
 	////62. ORIGINAL [#FF7030A0]: Now, I stood on the scales the other day...
 	fc89eb09-6ed8-4d34-a175-19b234f583fc = Так ось, я стала якось на ваги...
@@ -205,13 +205,13 @@
 	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Візьміть три дерев'яні обрубки - можливо планки.
 
 	////65. ORIGINAL [#FF00B050]: I had NO idea that Scandinavia was such an AMAZING place!
-	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Я Взагалі НЕ уявляв що скандинавія таке прекрасмен місце!
+	5bf8f5a3-bbb1-4db0-a8b8-7036e8528588 = Я Взагалі НЕ уявляв що Скандинавія таке прекрасне місце!
 
 	////66. ORIGINAL [#FF00B0F0]: How you doing? You're on the Cook Show!
 	85b904e0-14e3-4daf-b354-33a7eb31df83 = Як справи? Ви дивитесь 'Кулінарне Шоу'!
 
 	////67. ORIGINAL [#FFFFC000]: I'm shutting the whole Paranormal department down!
-	819bf863-8eaf-4521-a433-e2f536815951 = Я закриваю ваш сесь перенормальний відділ!
+	819bf863-8eaf-4521-a433-e2f536815951 = Я закриваю ваш весь паранормальний відділ!
 
 	////68. ORIGINAL [#FF00B0F0]: [img=music] Jaunty music [img=music]
 	738da179-a60b-4c4c-bbc0-07a0e86bdde1 = [img=music] Жвава Музика [img=music]
@@ -262,7 +262,7 @@
 	a44a5560-5f13-4575-9cd4-9a931123f3fd = Кріт Молі? Хіба його носик не рухається чарівно?
 
 	////84. ORIGINAL [#FF00B050]: Let's help your little friend here...
-	845988d3-0acf-464a-952e-b0b05050ad46 = Давай допоможемо твому маленькому другу...
+	845988d3-0acf-464a-952e-b0b05050ad46 = Допоможімо твому маленькому другу...
 
 	////85. ORIGINAL [#FF7030A0]: $15.99, plus postage and packing.
 	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = $15.99, плюс доставка і пакування!
@@ -280,7 +280,7 @@
 	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Вам лише потрібно знайти як відволікти...
 
 	////90. ORIGINAL [#FFFFC000]: Well I know where I'm going!
-	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Я знаю киди я йду!
+	18bd8fb5-554d-417f-ac65-9a81cdfd11ef = Я знаю куди я йду!
 
 	////91. ORIGINAL [#FF00B050]: Come visit 'I *heart* Wok and Rolls' today!
 	ab0fa9e6-ba7a-4b23-ace1-0c594fee516d = Відвідайте 'Я *сердечко* Вок і Роли' сьогодні!
