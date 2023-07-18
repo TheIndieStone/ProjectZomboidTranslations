@@ -327,7 +327,7 @@ IGUI_UA = {
 	IGUI_CraftUI_Name_Filter = "Фільтр по назві:",
 	
 	-- Tutorial Stuff
-	IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Ласкаво просимо в Project Zomboid! <LINE> <LINE> <SIZE:medium> Зовсім скоро ви помрете - який жах!<br>І ніхто навіть не згадає про вас,<br>а вся ваша праця піде нанівець. <LINE> <LINE> Так нумо подбаймо про те,<br>щоб ви змогли загинути в бою,<br>а не від якої-небудь нісенітниці! <LINE> <LINE> <SIZE:large> (натисніть міть 'SPACE' для продовження)",
+	IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Ласкаво просимо в Project Zomboid! <LINE> <LINE> <SIZE:medium> Зовсім скоро ви помрете - який жах!<br>І ніхто навіть не згадає про вас,<br>а вся ваша праця піде нанівець. <LINE> <LINE> Так нумо подбаймо про те,<br>щоб ви змогли загинути в бою,<br>а не від якої-небудь нісенітниці! <LINE> <LINE> <SIZE:large> (натисніть 'SPACE' для продовження)",
 	IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> Насамперед - камера! Ви можете наблизити або віддалити її коліщатком миші або клавішами '%1' / '%2'. <LINE> <LINE> Нумо розгляньмо це покинуте місце,<br>де вам доведеться померти,<br>з висоти пташиного польоту! <LINE> <LINE> <SIZE:large> Віддаліть камеру!",
 	IGUI_Tutorial1_Welcome2bis = " <CENTRE> <SIZE:large> А тепер знову наблизьте...",
 	IGUI_Tutorial1_Welcome3 = " <CENTRE> <SIZE:medium> Добре, з цим розібралися! <LINE> <LINE> Тепер погляньмо на інформацію про вашого персонажа. <LINE> <LINE> <SIZE:large> Натисніть на піктограму серця, що з'явилася зліва.",

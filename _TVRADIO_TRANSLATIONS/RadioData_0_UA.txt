@@ -136,7 +136,7 @@
 	3abff103-77ff-4e58-8dac-07f41bd64d5c = Нам поки не відомо, Деніс.
 
 	////42. ORIGINAL: From what I've been told your Mom will be fine.
-	dad1efe1-ba60-417e-8e3d-88286945417d = Наскільки я розумію з твоєю мамою все буде файно.
+	dad1efe1-ba60-417e-8e3d-88286945417d = Наскільки я розумію з твоєю мамою все буде гаразд.
 
 	////43. ORIGINAL: You know that?
 	5ef17536-1286-450b-be93-80b41ad7cf6a = Ти так думаєш?
@@ -3436,10 +3436,10 @@
 	f6eba0b8-9cce-4633-8630-07472aadd24f = Не знаю, Медісон.
 
 	////1142. ORIGINAL: They have to plan for all contingencies.
-	243e368b-d883-4bf9-97b1-0c11cdcd5020 = У них повинен бути план на всі непередбачувані випадки.
+	243e368b-d883-4bf9-97b1-0c11cdcd5020 = У них повинен бути план на всі непередбачені випадки.
 
 	////1143. ORIGINAL: Cutting off counties south of the Ohio river is a HELL of a contingency.
-	927e1ab2-6a5c-4426-9241-dc961e314cea = Обрізати всі округи на півдні річки Огайо це ПЕКЕЛЬНА не передбачувальна ситуація.
+	927e1ab2-6a5c-4426-9241-dc961e314cea = Обрізати всі округи на півдні річки Огайо це ПЕКЕЛЬНО непередбачена ситуація.
 
 	////1144. ORIGINAL: Good point and well made.
 	23b6a98f-b9fb-4bf0-8b7a-2398e9667617 = Хороша ідея і гарно виконана.
@@ -5575,7 +5575,7 @@
 	dba3da33-f67b-4ba7-a30e-401d4584ac3a = [img=music] ... та світ прокинув через плече. [img=music]
 
 	////1855. ORIGINAL: [img=music] It put holes in my pants lining... [img=music]
-	ae3df8ea-a5a5-4c2a-b866-b2878f6b5b71 = [img=music] Я продірявив свої кинені... [img=music]
+	ae3df8ea-a5a5-4c2a-b866-b2878f6b5b71 = [img=music] Я продірявив свої кишені... [img=music]
 
 	////1856. ORIGINAL: [img=music] ... so my coins fell straight on through. [img=music]
 	f77259e6-2e33-459a-9b22-ee9c43b948f0 = [img=music] ... щоб копійки падали на землю. [img=music]
@@ -5584,7 +5584,7 @@
 	d23e9bb4-bb76-4f8e-bc69-7f9d98141f1f = [img=music] Так важко ходити, і дуже жорстоко... [img=music]
 
 	////1858. ORIGINAL: [img=music] ...to get a dime stuck in your shoe. [img=music]
-	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ... щоб попійка застрягла у твоєму черевику. [img=music]
+	527954ff-cdf6-4beb-9f44-06b56583f528 = [img=music] ... щоб копійка застрягла у твоєму черевику. [img=music]
 
 	////1859. ORIGINAL: We've got a request in from far off New York City.
 	ebbc2923-a342-464f-b2f3-261b135a6185 = У нас є прохання з далекого Нью-Йорку.
@@ -8859,10 +8859,10 @@
 	25ad8411-7594-4f09-adb0-71271f79b866 = Подія - так. Інформація - ні.
 
 	////2950. ORIGINAL: People are angry here.
-	bf2eb675-f925-4aba-8af7-b3f32d37cec7 = Люди тут злі.
+	bf2eb675-f925-4aba-8af7-b3f32d37cec7 = Люди тут злючі.
 
 	////2951. ORIGINAL: Angry as all hell, Diane.
-	d307b478-86f9-4957-9fcf-3a9926c85c97 = Злі як чорти, Діано.
+	d307b478-86f9-4957-9fcf-3a9926c85c97 = Злючі як чорти, Діано.
 
 	////2952. ORIGINAL: Thank you Richard, we'll be back with you after this.
 	71b925a8-6184-4582-af7e-9e22dde85813 = Дякую Річард, ми повернемось до вас пізніше.
@@ -8880,13 +8880,13 @@
 	ccbf1621-104d-47f0-914f-c47dabaa16ab = Не знаю чому, але їх відпустила Армія.
 
 	////2957. ORIGINAL: They have been held in a local military base in...
-	9821e99c-8c2f-4a0f-92f0-aa77e929713d = Їх тримали в місцевій військові базі у...
+	9821e99c-8c2f-4a0f-92f0-aa77e929713d = Їх тримали в місцевій військові базі...
 
 	////2958. ORIGINAL: ... some sort of quarantine.
-	890f6c86-6723-4e3b-b19b-e59f37705768 = ... певному роді карантині.
+	890f6c86-6723-4e3b-b19b-e59f37705768 = ... у якомусь карантині.
 
 	////2959. ORIGINAL: They are scared, hungry and come with shocking revelations.
-	91591fed-3123-4654-8029-297d8d14a290 = вони налякані, голодні і мають шокуючі одкровення.
+	91591fed-3123-4654-8029-297d8d14a290 = вони налякані, голодні та мають разючі одкровення.
 
 	////2960. ORIGINAL: First came the fever, then came violence and a hunger for blood.
 	a9b07fea-4c6a-4b05-baee-bd7811fb3807 = Спочатку була гарячка, потім насилля і спрага до крові.
@@ -8898,7 +8898,7 @@
 	abede077-0176-4a28-872b-69cf73c91707 = Не всі зараз з нами.
 
 	////2963. ORIGINAL: Everyone inside the Zone is now infected, it is claimed.
-	af5d1f28-1e16-4baa-b72d-431581715fba = Стверджується, що всі що в средині зони заражені.
+	af5d1f28-1e16-4baa-b72d-431581715fba = Стверджується, що всі що в середині зони заражені.
 
 	////2964. ORIGINAL: Everyone has succumbed.
 	b1c77527-d1bc-4cfb-9b37-8b88ff5bf3a3 = Всі піддались хворобі.
@@ -8931,19 +8931,19 @@
 	18fc3b77-7c6e-49b6-a193-4a49a1c1b16d = 'Чому нам нічого не сказали?'
 
 	////2974. ORIGINAL: This is Richard Gershwin, behind me General John McGrew is...
-	e0f43cae-7d7c-4056-9502-c362143b5d5c = Це Річард Гершвін, позаду мене Генерал Джоно МакГрю і...
+	e0f43cae-7d7c-4056-9502-c362143b5d5c = Це Річард Гершвін, позаду мене Генерал Джон МакГрю...
 
 	////2975. ORIGINAL: Good evening ladies and gentlemen.
-	6ef455d1-4db4-4d45-a952-67fa42a96831 = Доброго вечора леді і джентельмени.
+	6ef455d1-4db4-4d45-a952-67fa42a96831 = Доброго вечора леді та джентльмени.
 
 	////2976. ORIGINAL: Oh, we're starting.
 	8d1c9045-08ad-4f9c-a795-c5aa40820c3c = І ми починаємо.
 
 	////2977. ORIGINAL: Thank you for attending tonight. I only ask for orderly and responsible journalism.
-	5604e9d2-26f2-48c2-90d8-841328c6f149 = Дякую за участь цього вечора. Я лише попрошу відповідального журналізму.
+	5604e9d2-26f2-48c2-90d8-841328c6f149 = Дякую за участь цього вечора. Я лише попрошу відповідальної журналістики.
 
 	////2978. ORIGINAL: I have requested that this broadcast play on all media channels embedded with my troops.
-	3ca24d1f-240d-49e2-b35e-597dbe6328a8 = Я подав запит щоб це повідомлення показувалось по свім каналам що дивляться мої загони.
+	3ca24d1f-240d-49e2-b35e-597dbe6328a8 = Я подав запит, щоб це повідомлення показувалось по всім каналам які дивляться мої війська.
 
 	////2979. ORIGINAL: General! General!
 	f9e10857-2306-4a04-b56f-0f747e88e7be = Генерале! Генерале!
@@ -8952,31 +8952,31 @@
 	58338de1-50ed-4311-b94e-cc511e2a8d56 = Я сказав ніяких питань Річард! Коли в нас будуть новини ми повідомимо.
 
 	////2981. ORIGINAL: After shocking recent events we've been asking questions.
-	a073173d-d56b-4ddf-886f-a096dc3219a9 = Після недавніх шокуючих подій ми ставили питання.
+	a073173d-d56b-4ddf-886f-a096dc3219a9 = Після недавніх приголомшливих подій ми ставили питання.
 
 	////2982. ORIGINAL: "How?", "Why?"
 	ec8b5d09-ec0b-4763-a30c-1c72f7ee6b9d = 'Як?', 'Чому?'
 
 	////2983. ORIGINAL: With me tonight is Professor Peter Endsleigh...
-	e25e6e27-1001-41ad-80c1-e1a468fe55a9 = Чього вечора у мене в гостях Професор Пітер Ендслеіх...
+	e25e6e27-1001-41ad-80c1-e1a468fe55a9 = Цього вечора у мене в гостях Професор Пітер Ендслеіх...
 
 	////2984. ORIGINAL: ...who believes he has the answers.
-	358907c0-53bf-4111-b38d-2f2826446ce6 = ... який вважає що в нього є відповіді
+	358907c0-53bf-4111-b38d-2f2826446ce6 = ... який вважає що в нього є відповіді.
 
 	////2985. ORIGINAL: I've been warning people for years.
 	0e169720-c79b-48c6-8834-f36a652dd500 = Я вже багато років попереджав людей.
 
 	////2986. ORIGINAL: It's in the meat.
-	6bcc7097-0ad8-4021-b95c-0e5640eee581 = Воно в м'ясі.
+	6bcc7097-0ad8-4021-b95c-0e5640eee581 = Справа у м'ясі.
 
 	////2987. ORIGINAL: We've been feeding our cows on their own kind.
-	90a06275-f06f-4384-bb5a-1431206a2899 = Ми годували коров коровами.
+	90a06275-f06f-4384-bb5a-1431206a2899 = Ми годували своїх корів іншими коровами.
 
 	////2988. ORIGINAL: Misfolded prions. Brain matter fed back into the food chain.
-	776cfc09-6101-4fe4-8192-96be888add67 = Білкові Пріони. Частки мозку потрапили назад в жарчовий ланцюг
+	776cfc09-6101-4fe4-8192-96be888add67 = Неправильно складені пріони. Мозкова речовина повертається в харчовий ланцюг.
 
 	////2989. ORIGINAL: These prions have been building up in countless generations of cattle.
-	af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = Кількість пріонів збільшувалась в кожному наступно поколінні худоби.
+	af0fc0c2-cb7b-43ed-bd51-290e11bf1a5d = Кількість пріонів збільшувалась в кожному наступному поколінні худоби.
 
 	////2990. ORIGINAL: This is quite clearly a neurological disorder.
 	c615c381-d028-4520-9653-4ec8f73a7b3d = Добре видно що це неврологічний розлад.
@@ -8985,43 +8985,43 @@
 	5c7e245c-1b95-4e60-b0c2-be49eaa0b075 = Ви думаєте це якось пов'язано з коров'ячим сказом?
 
 	////2992. ORIGINAL: This is the Mad Cow crisis. Or at least the next step.
-	e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 = ЭЦе і є коров'ячий сказ. Принаймні його наступна форма.
+	e1fb5f47-ce6c-4bc1-ac0e-0f1be39356b5 = Це і є коров'ячий сказ. Принаймні його наступна форма.
 
 	////2993. ORIGINAL: We've all been ingesting it for years.
 	fffcbe71-dccf-40a3-a776-e79b3dcfb8d2 = Ми харчувались цим кожного року.
 
 	////2994. ORIGINAL: Every trip to Spiffos. Every pot roast.
-	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = Кожен подіж в 'Spiffo`. Кожне тушковане м'ясо
+	f000c8d8-fe06-479a-b0b9-9ad4636d20e3 = Кожна прогулянка в 'Spiffo`. Кожне тушковане м'ясо
 
 	////2995. ORIGINAL: It's lain dormant, and now the Knox Event has set it free.
 	8df463f6-6bbf-4e16-b643-f54faa0568a9 = Хвороба спала в кожному. Але Подія Нокс її пробудила.
 
 	////2996. ORIGINAL: Do you have evidence for this?
-	c05b044c-5821-4410-9d54-5b2712976af5 = В вас є докази?
+	c05b044c-5821-4410-9d54-5b2712976af5 = У вас є докази?
 
 	////2997. ORIGINAL: I've got this whole book!
-	e49397fd-74fe-43fd-a400-8c78e14d8f35 = Ціла книга
+	e49397fd-74fe-43fd-a400-8c78e14d8f35 = Ціла книга!
 
 	////2998. ORIGINAL: Factory farming! That's what's caused this!
 	4a3badd3-adc1-4aa3-887d-647548b1e2bb = Фабричне фермерство - ось причина цього всього!
 
 	////2999. ORIGINAL: An endless ambivalence to what our nation eats!
-	313b69b8-8363-4efa-adae-2aca3c304300 = Постійна амбівалентність того що їсть нашо нація!
+	313b69b8-8363-4efa-adae-2aca3c304300 = Постійна амбівалентність того що їсть наша нація!
 
 	////3000. ORIGINAL: It's certainly a theory...
-	84d572bd-97ac-4e8e-a5fe-ae435669b520 = але це лише теорія...
+	84d572bd-97ac-4e8e-a5fe-ae435669b520 = Звичайно це  теорія...
 
 	////3001. ORIGINAL: You have a better one?
-	5d97d31d-23c2-4dcd-b5a9-00f46276d376 = Ви можете запропонувати щось краще?
+	5d97d31d-23c2-4dcd-b5a9-00f46276d376 = Чи ви можете запропонувати щось краще?
 
 	////3002. ORIGINAL: I've heard there are people who can survive it.
-	cf7c572e-cb89-4411-8b20-6d2824a50772 = Я чув що є люди які змогли це пережити?
+	cf7c572e-cb89-4411-8b20-6d2824a50772 = Я чув що є люди які змогли це пережити.
 
 	////3003. ORIGINAL: They're vegan. I'd put every dollar in my wallet on that.
-	bf2ac8b5-c91e-4644-920d-2916d48732ba = Можу побитися об заклад, що вони вегетеріанці.
+	bf2ac8b5-c91e-4644-920d-2916d48732ba = Можу побитися об заклад, що вони вегани.
 
 	////3004. ORIGINAL: Professor Endsleigh thank you for...
-	5092f1f3-29fb-4529-8b28-a22ddbbdce75 = Дякую професоре Ендслі за...
+	5092f1f3-29fb-4529-8b28-a22ddbbdce75 = Дякую, професоре Ендслі за...
 
 	////3005. ORIGINAL: Have we mentioned my book?
 	72a3fbe6-19ea-4bea-83bc-02709360c329 = А можете згадати мою книгу?
@@ -9036,7 +9036,7 @@
 	4209c20d-92af-49f8-a7a9-72cd9279ddc2 = ...Дякую, що були з нами.
 
 	////3009. ORIGINAL: If you're still with us after those messages...
-	3e09cf35-792e-48be-86bc-9af9dd2b48ea = Якщо ви все ще з нами...
+	3e09cf35-792e-48be-86bc-9af9dd2b48ea = Якщо ви все ще з нами після всіх цих повідомлень...
 
 	////3010. ORIGINAL: ... we just lost contact with our correspondent Richard Gershwin on the Event boundary.
 	e26dde8f-d812-4a00-b2ee-a6bcf05b2b22 = ... Ми втратили зв'язок з нашим кореспондентом Річардом Геншвіном на межі Події.
@@ -9054,22 +9054,22 @@
 	9fc167c0-7eb4-4c8a-bfb2-9e36eeedafde = Що відбувається?
 
 	////3015. ORIGINAL: Some images might be shocking Diane. People are dead here.
-	b883c8d3-d6a4-4b86-9c91-afd7341fa58d = Діано, деякі каджи просто шокують. Люди тут мертві.
+	b883c8d3-d6a4-4b86-9c91-afd7341fa58d = Діано, деякі кадри просто шокують. Люди тут мертві.
 
 	////3016. ORIGINAL: There was a disturbance. A soldier opened fire.
 	3687a4b3-8a98-4a9e-a1c2-f261f64f9993 = Почались занепокоєння, солдати відкрили вогонь.
 
 	////3017. ORIGINAL: There are multiple casualties and...
-	efff2ced-5006-4217-9c37-79a10c2be53a = є втрати і...
+	efff2ced-5006-4217-9c37-79a10c2be53a = є втрати та...
 
 	////3018. ORIGINAL: ... tear gas! Agh!
-	fb060a34-59f2-45c7-82a8-a5a58c201bd2 = ... сьозогінний газ! Кхе!
+	fb060a34-59f2-45c7-82a8-a5a58c201bd2 = ... сльозогінний газ! Кхе!
 
 	////3019. ORIGINAL: Are you seeing this? Are you seeing this?
 	df6953c1-2ced-41e0-b8d3-1f0670e189b5 = Ви це бачите? Бачите?
 
 	////3020. ORIGINAL: I WANT THAT CAMERA SHUT OFF! NOW!
-	87ee3fbe-86ee-4beb-af29-a05c5b042ccd = НЕГАЙНО ВИМКНІТЬ КАМЕРУ! ВЖЕ!
+	87ee3fbe-86ee-4beb-af29-a05c5b042ccd = НЕГАЙНО ВИМКНІТЬ КАМЕРУ! ЗАРАЗ ЖЕ!
 
 	////3021. ORIGINAL: Run! Don't...
 	21b60679-3f98-4747-a2ca-8620c2da734b = Біжи! Ні...
@@ -9093,7 +9093,7 @@
 	45a2546f-878a-4ab4-94f5-5d604c2282a6 = ...в хаосі межі Зони Відчуження.
 
 	////3028. ORIGINAL: There are reported deaths at the hands of the military there.
-	397075d1-05f9-4d20-989e-4a92ed8179f9 = Як повідомлювалось військові несуть відповідпльність за смерті.
+	397075d1-05f9-4d20-989e-4a92ed8179f9 = Як повідомлялося, військові несуть відповідальність за смерті.
 
 	////3029. ORIGINAL: Though that is yet to be substantiated.
 	97a87216-9856-4391-9143-13341cb36a0b = Але це ще треба довести.
@@ -9114,19 +9114,19 @@
 	ee626b9d-ce70-4197-8727-3cf65d0324ca = ... до наступної сцени яка буна на межі Події.
 
 	////3035. ORIGINAL: THE KNOX EVENT IS CONTAINED.
-	4fe3843e-0e49-4567-b97f-c0f062418c60 = ПОДІЯ НОКС ЛОКАЛІЗОВАНО.
+	4fe3843e-0e49-4567-b97f-c0f062418c60 = ПОДІЯ НОКС ЛОКАЛІЗОВАНА.
 
 	////3036. ORIGINAL: IT HAS ALWAYS BEEN CONTAINED.
 	56802b0b-fb9f-4178-a303-10d277face62 = ВОНА ЗАВЖДИ БУЛА ЛОКАЛІЗОВАНА
 
 	////3037. ORIGINAL: Speaking as myself, not as WBLN, I have drawn my own conclusions.
-	4664f5dc-3424-4f1b-87e3-ef434e98125b = Моя власна думка, не як WBLN. Я зробив висновки.
+	4664f5dc-3424-4f1b-87e3-ef434e98125b = Говорячи від себе, а не від WBLN, я зробив власні висновки.
 
 	////3038. ORIGINAL: We don't have pictures but...
 	2cce27a9-25be-4742-be79-37c194fd8714 = Хоча в нас немає зв'язку...
 
 	////3039. ORIGINAL: Oh we do?
-	8d9f0c4f-f8b1-494a-a40d-dddeb09c961a = А ні, таки маємо!
+	8d9f0c4f-f8b1-494a-a40d-dddeb09c961a = А ні, все-таки є!
 
 	////3040. ORIGINAL: Folks we're going straight over to Richard Gerswin.
 	68864e7b-853e-47ad-adc5-c672c9482df5 = Люди, передаємо слово прямо до Річарда Гершвіна
@@ -9138,19 +9138,19 @@
 	c0ddc352-c0f8-4c76-8306-25613171f690 = Ця здоровенна хвиля...
 
 	////3043. ORIGINAL: They're dead, Diane.
-	e096acb2-272c-431a-8c8d-6dffd5e4aa6e = Діано, вони всі мерті.
+	e096acb2-272c-431a-8c8d-6dffd5e4aa6e = Діано, вони всі мертві.
 
 	////3044. ORIGINAL: There's no other way to say it.
 	cda15668-b9e3-4dce-a3a5-41a7ed446a9f = Інших слів не підібрати.
 
 	////3045. ORIGINAL: We were being held by the army for filming the...
-	b789f579-2d73-4adf-b849-047fd2b7a78e = Нас затримали військові за зйомку...
+	b789f579-2d73-4adf-b849-047fd2b7a78e = Нас затримали військові за фільмування цієї...
 
 	////3046. ORIGINAL: ... the guns. They were killing people.
-	db954327-4eb6-45df-aea6-0e4100f6d43a = ... зброї. Вони вбивали людей
+	db954327-4eb6-45df-aea6-0e4100f6d43a = ... цієї зброї. Вони вбивали людей.
 
 	////3047. ORIGINAL: Richard, slow down.
-	b8291f68-243a-42b0-8539-45131a2c60ae = Річард, тримате себе в руках.
+	b8291f68-243a-42b0-8539-45131a2c60ae = Річард, спокійніше.
 
 	////3048. ORIGINAL: The people. The dead people from the inside.
 	8f7b32ee-0a71-4729-a206-2524458d30e6 = Люди. Мертві люди з середини Зони.
@@ -9195,7 +9195,7 @@
 	4f9b7020-0eb0-4f15-bcda-1253285a4d4c = Ласкаво просимо на Нічну Бесіду. Я Дон Стівенсон.
 
 	////3062. ORIGINAL: It's been a tragic and worrying day today.
-	b3675a1e-1643-4224-8226-ef8fe8474b9e = Це був грагічний і хвилюючий день.
+	b3675a1e-1643-4224-8226-ef8fe8474b9e = Це був трагічний і неспокійний день.
 
 	////3063. ORIGINAL: Man fighting man. A huge incursion of the infected.
 	59b682fc-17c3-490e-b1be-6dde26c3fcf6 = Люди б'ються. Величезна навала заражених.
@@ -9213,7 +9213,7 @@
 	e0f23cb1-ce2d-479c-8522-f64a8372b1b9 = Завжди радий.
 
 	////3068. ORIGINAL: What are we seeing today?
-	b52360e9-d81f-4bc5-909f-bb843a4c5ab3 = на вашу думку, що відбувається?
+	b52360e9-d81f-4bc5-909f-bb843a4c5ab3 = На вашу думку, що відбувається?
 
 	////3069. ORIGINAL: Quite simply. The end is at hand.
 	f7d3ec6b-11cf-47c5-9112-04631ab014e8 = Це просто. Прийшов кінець світу.
@@ -9231,7 +9231,7 @@
 	5b731d32-e5e4-4015-a375-4e9c2c7b44d0 = Ціла нація заляпана збоченцями і грішниками.
 
 	////3074. ORIGINAL: So you think this an act of God?
-	af53deab-0b99-4af0-acd0-cee9e93aabb9 = То ви думаєте - це все воля Божа?
+	af53deab-0b99-4af0-acd0-cee9e93aabb9 = То ви думаєте — це все воля Божа?
 
 	////3075. ORIGINAL: This is the VOICE of God.
 	9109c68c-326d-4b8d-b11c-8d6edcecbf4b = Це ГОЛОС Божий.
@@ -9249,19 +9249,19 @@
 	d12c11fa-605a-4bb6-98ac-2cec5a8560f2 = Далі тільки пекло.
 
 	////3080. ORIGINAL: There is Hell here.
-	7c928342-7302-4e3e-9ada-b5a339f5b857 = Пекло вже тут
+	7c928342-7302-4e3e-9ada-b5a339f5b857 = Пекло вже тут.
 
 	////3081. ORIGINAL: There is Hell below.
-	abeb06cd-a960-417d-8533-3e669b2646d4 = Пекло під нами
+	abeb06cd-a960-417d-8533-3e669b2646d4 = Пекло під нами.
 
 	////3082. ORIGINAL: I'm sorry, but I can't let you... there must be some hope.
 	3ba260a5-c791-4751-8693-a8048fc618c5 = Я не можу дозволити вам... Надія завжди мусить бути.
 
 	////3083. ORIGINAL: We got you on to...
-	2967be3b-10b3-4949-976e-94c7d7b9f1cd = Ми вас покликали щоб--...
+	2967be3b-10b3-4949-976e-94c7d7b9f1cd = Ми вас покликали, щоб...
 
 	////3084. ORIGINAL: Your media elite. You are at fault too.
-	dd790c43-a55d-463d-871f-88335147b055 = Ваша медіа еліта. Це і ваша провина.
+	dd790c43-a55d-463d-871f-88335147b055 = Ваша медіаеліта! Це і ваша провина.
 
 	////3085. ORIGINAL: I'm sorry?
 	84b95184-dc64-49d2-bbad-90160eeea9ae = Перепрошую?
@@ -9270,22 +9270,22 @@
 	74f3f169-c15a-4d36-8e76-5ed98a1063e2 = Це ви привели нас під двері Диявола!
 
 	////3087. ORIGINAL: I'm ending this interview right now.
-	cfd4faf6-aa6a-40e8-b0a3-be395f6df793 = Я завершує це інтрев'ю негайно!
+	cfd4faf6-aa6a-40e8-b0a3-be395f6df793 = Я завершує це інтерв'ю негайно!
 
 	////3088. ORIGINAL: We have lost contact with our Event Boundary news team...
 	7379210c-9c0a-413b-916b-6dc4611ec36c = Ми втратили зв'язок з нашою командою з межі Події...
 
 	////3089. ORIGINAL: ... but we have another crew on the road.
-	85ebda08-07c2-4006-8e23-16799aea256f = ... але інша команд вже на шляху туди.
+	85ebda08-07c2-4006-8e23-16799aea256f = ... але інша команда вже на шляху туди.
 
 	////3090. ORIGINAL: What are you guys hearing?
-	a88bd42c-5480-40cb-8925-3a04759fe296 = Чо там чутно?
+	a88bd42c-5480-40cb-8925-3a04759fe296 = Що там чутно?
 
 	////3091. ORIGINAL: We've been stopped at a checkpoint, but it's gridlock in any case.
-	dd3947f9-ec2d-4e64-8a36-505bdcebeff3 = Ми зупинились на КПП, але тут корок.
+	dd3947f9-ec2d-4e64-8a36-505bdcebeff3 = Ми зупинились на КПП, але тут і так жахливий затор на дорозі.
 
 	////3092. ORIGINAL: Thousands of people, in cars or on foot.
-	b792ba72-7413-472a-a145-69af508b3f87 = ТИсячі людей машинамі і пішки.
+	b792ba72-7413-472a-a145-69af508b3f87 = Тисячі людей, з машинами й пішки.
 
 	////3093. ORIGINAL: All streaming past us.
 	29b1e6d0-6028-413c-9f4a-321471ea9d93 = Вони проходять повз нас.
@@ -9297,7 +9297,7 @@
 	b0e041d4-dae8-42d8-a97b-5d1576d0a62a = Військові відходять разом з ними.
 
 	////3096. ORIGINAL: A truce after the mayhem that attracted thousands of infected over...
-	a970d478-930a-4edc-b052-3032aec09089 = перемир'я після бійні що прикликала тисяці заражених...
+	a970d478-930a-4edc-b052-3032aec09089 = Перемир'я після бійні, яка привела тисячі заражених...
 
 	////3097. ORIGINAL: ... the Event boundary, and directly into harm's way.
 	cabe4245-d73e-445c-ba92-a3c6a206b2fb = ... до межі Події, та нашкодило напряму.
@@ -9306,16 +9306,16 @@
 	235d1cd8-6684-42f4-8b6a-37cf46ef8cc9 = Чи є докази поширення інфекції?
 
 	////3099. ORIGINAL: No Diane, there is not.
-	a3d132be-5e4a-4f99-8057-af4624bc2e21 = Ні, діано, немає.
+	a3d132be-5e4a-4f99-8057-af4624bc2e21 = Ні, Діано, немає.
 
 	////3100. ORIGINAL: I hate to say it, but many have been left behind.
 	6af9a428-1709-41f4-9722-5b9b84a0f8c8 = На превеликий жаль, багато кого прийшлось залишити позаду.
 
 	////3101. ORIGINAL: I think we can expect developments in that area.
-	25a2dc92-a0f9-4151-83eb-af396d703870 = Я думаю ми можемо оцікувати на розвиток подій в тому регіоні.
+	25a2dc92-a0f9-4151-83eb-af396d703870 = Я думаю ми можемо очікувати на розвиток подій в тому регіоні.
 
 	////3102. ORIGINAL: Are you saying that people expect more to get infected?
-	aefabd11-abd6-4071-a3b7-35df0d7655ff = Ви хочеье сказати що очікується більше число зараження?
+	aefabd11-abd6-4071-a3b7-35df0d7655ff = Ви хочете сказати що очікується більше число зараження?
 
 	////3103. ORIGINAL: There were thousands of infected, and they they left their mark.
 	20a8ee60-553a-45ce-add3-dbe20fd5555f = Заражених було тисячі, і вони залишили свій слід.
@@ -9324,10 +9324,10 @@
 	1a16d07c-c619-48af-9d0f-4732e9a12fee = Тоді чому військові відступають?
 
 	////3105. ORIGINAL: We think to form a new perimeter.
-	3b9822c0-777b-4ab5-affb-2ca0b9f315f0 = Ми підозрюємо що для того щоб утворити новий периметри.
+	3b9822c0-777b-4ab5-affb-2ca0b9f315f0 = Ми підозрюємо що для того, щоб утворити новий периметр.
 
 	////3106. ORIGINAL: And people are letting them? After what transpired yesterday?
-	e3c5719a-313c-49d9-b0b9-09f09842a08c = І люди їх це дозволяють після того що відбулось вчора?
+	e3c5719a-313c-49d9-b0b9-09f09842a08c = І люди їм дозволяють? Після того, що сталося вчора?
 
 	////3107. ORIGINAL: Being close to men with guns seems a good idea.
 	6df95981-5b7b-417f-a83c-d21d46d30932 = Бути поруч озброєних людей здається хорошою ідеєю.
@@ -9345,10 +9345,10 @@
 	7ec3ee42-e96e-453c-80dc-060f61ca3f35 = Ми одразу ж переходимо до репортерів...
 
 	////3112. ORIGINAL: ... who are on the road south of Louisville.
-	e0b21fba-bf43-4020-be05-4268c63d577b = ... які вже на південній дорозі Луїсвілю.
+	e0b21fba-bf43-4020-be05-4268c63d577b = ... які вже на південній дорозі Луїсвілля.
 
 	////3113. ORIGINAL: What you're seeing is an exodus.
-	179981f4-4c48-4b15-a98f-4ce2c1be1115 = Те що ви бачите - це Вихід.
+	179981f4-4c48-4b15-a98f-4ce2c1be1115 = Те що ви бачите — це Вихід.
 
 	////3114. ORIGINAL: But within this exodus there is a plague.
 	6415bff5-d361-4779-a5a4-81334351ef47 = Але цей Вихід несе з собою чуму.
@@ -9357,13 +9357,13 @@
 	7a410e8b-a081-4937-9d2b-9ef947d7fe19 = Налякані люди, поранені люди... всі йдуть на північ.
 
 	////3116. ORIGINAL: The scenes are the same on each side of the collapsed Event boundary.
-	d705e671-9069-4d09-80d2-15df8141ef75 = Плдібне відбувається на всіх сторонах розваленої межі.
+	d705e671-9069-4d09-80d2-15df8141ef75 = Подібне відбувається на всіх сторонах розваленої межі.
 
 	////3117. ORIGINAL: People who sustained infected attacks in yesterday's chaotic scenes
 	01b6a0ec-b4ac-4c3b-8cfe-37da947412b6 = Люди які вижили після вчорашнього нападу заражених.
 
 	////3118. ORIGINAL: This was a scene earlier today in which a mob... descended...
-	254d63ba-b57d-4d85-80c5-bda3ff25e037 = Зранку була подія - група людей... накинулась...
+	254d63ba-b57d-4d85-80c5-bda3ff25e037 = Зранку була подія — група людей... накинулась...
 
 	////3119. ORIGINAL: ... on a young man who showed symptoms of the Knox Infection.
 	9baa0f9e-da41-4127-86cc-b96aec57e9af = ... на молодого хлопця в якого появлялись симптоми Інфекції Нокс
@@ -9384,7 +9384,7 @@
 	13cb8f3e-bff8-45be-a9fe-ec678b1991cb = Вибачте Майк, але... В 'Triple-N' кажуть що...
 
 	////3125. ORIGINAL: That the Knox Infection is now spreading without bites.
-	c177c6de-bdb1-40c2-9394-32e0addf0aa4 = ... інфекція Нокс тепер передаєтья буз укусів.
+	c177c6de-bdb1-40c2-9394-32e0addf0aa4 = ... інфекція Нокс тепер передається без укусів.
 
 	////3126. ORIGINAL: It's what?
 	e414d31e-e8db-4093-b7f8-b9d13473b746 = Вона ЩО?
@@ -9393,7 +9393,7 @@
 	9d398bd5-bef5-44cb-8733-ac885d4aa7f3 = Народ, ви ще такого не бачили...
 
 	////3128. ORIGINAL: ... I'm telling you to tune into Triple-N right now.
-	275524de-7fa0-4dcb-a7ee-89fdbdc679a3 = ...я ражду вам переключитись і послухати 'Triple-N'.
+	275524de-7fa0-4dcb-a7ee-89fdbdc679a3 = ...я раджу вам перемикнутися і послухати 'Triple-N'.
 
 	////3129. ORIGINAL: That can't be true
 	de1a7a5c-e799-4a92-b942-d7683f46449a = Це не може бути правдою.
@@ -9408,7 +9408,7 @@
 	cdd0fc06-1f2d-4776-82b1-cd1391ee8a08 = Важливі новини.
 
 	////3133. ORIGINAL: The Knox Event infection is sweeping through Louisville.
-	0b808f8b-5914-4c41-8341-4658e2f81d4d = Інфекція Події Нокс пройшлась по Луїсвілю
+	0b808f8b-5914-4c41-8341-4658e2f81d4d = Інфекція Події Нокс пройшлась по Луїсвіллю
 
 	////3134. ORIGINAL: WBLN has obtained the following pictures.
 	914abbc9-5e38-4f50-93db-612265cdd73f = 'WBLN' отримує наступну картинку.
@@ -9435,19 +9435,19 @@
 	6b3d5c34-2763-42dd-87bd-52befc7c7bc7 = Ми, 'WBLN', будемо з вами на зв'язку так довго як зможемо.
 
 	////3142. ORIGINAL: We ask for patience, however, during these difficult times.
-	819edc14-1f16-4786-a8e9-d24d8e6da6e2 = Ми всього лиш просибо зберігати споків, в ці важкі часи.
+	819edc14-1f16-4786-a8e9-d24d8e6da6e2 = Ми всього лиш просимо зберігати спокій, в ці важкі часи.
 
 	////3143. ORIGINAL: Some of us are leaving to be with our families.
 	b6664ecf-adfd-492a-a8d2-3e0337d09dee = Дехто з нас йде додому, до рідних.
 
 	////3144. ORIGINAL: A skeleton crew have agreed to stay at the station until...
-	dae6f23f-b23b-47d2-aef7-163720741e24 = На станції залишуться лише декілька людей, до поки...
+	dae6f23f-b23b-47d2-aef7-163720741e24 = На станції залишатимуться лише декілька людей, до поки...
 
 	////3145. ORIGINAL: ... until whatever happens in the coming days happens.
-	3eccbff0-d158-4e36-b330-1af3b5a601be = ... поки не почнеться те що було передбачено .
+	3eccbff0-d158-4e36-b330-1af3b5a601be = ... поки не почнеться те що було передбачено.
 
 	////3146. ORIGINAL: I'd like to apologise for last night's guest.
-	00d1a98e-9595-4122-b6c2-232af60a5f52 = Я хотів би вибачитись за крайнього гостя, минулої ночі.
+	00d1a98e-9595-4122-b6c2-232af60a5f52 = Я хотів би просити вибачення за останнього гостя, минулої ночі.
 
 	////3147. ORIGINAL: Tonight we hope to avoid distress.
 	7f8d0ba6-0c24-45d8-b038-339d88606c8d = Надіюсь сьогодні цього не повториться.
@@ -9456,10 +9456,10 @@
 	946d1d89-5275-4bc3-ba3e-d7da925c7df5 = Поруч зі мною Преосвященніший Пітер Ватс.
 
 	////3149. ORIGINAL: The Bishop of Louisville.
-	b47f9b70-1ece-4486-a1ca-ef823c663def = Єпискоб Луїсвілю.
+	b47f9b70-1ece-4486-a1ca-ef823c663def = Єпископ Луїсвілля.
 
 	////3150. ORIGINAL: How do you react to the Knox Event as a man of faith?
-	856c37aa-f6df-4e10-ad56-56f4b078f367 = Як віруючий, як ви реагуєте на Подію Нокс?
+	856c37aa-f6df-4e10-ad56-56f4b078f367 = Як вірянин, як ви реагуєте на Подію Нокс?
 
 	////3151. ORIGINAL: I find it testing.
 	d7c69f59-aa8e-4b5b-bed7-9c9c6237d8f0 = Я думаю це перевірка.
@@ -9480,7 +9480,7 @@
 	5b8127db-e2cf-4af4-8f0c-d5dfa61b16db = Але як він міг дозволити такому статися?
 
 	////3157. ORIGINAL: It is central to my belief that there is another place.
-	47c01a90-d68e-483a-9271-24b7e7e60178 = В центрі моєї віри є їнше місце.
+	47c01a90-d68e-483a-9271-24b7e7e60178 = В центрі моєї віри є інше місце.
 
 	////3158. ORIGINAL: A better place, in his presence.
 	742ce42d-a412-4baf-9e6f-e7762abfc52d = Краще місце, з Його присутністю
@@ -9489,7 +9489,7 @@
 	4477c23b-1be2-416c-a1ff-efc9c2bae105 = Я вірю в те що ці... зміни.
 
 	////3160. ORIGINAL: Are a step closer. Maybe already at his side.
-	b36eafc4-ce21-48e6-92e3-4a7a9e23d650 = Вже на крок блище. Можливо вже біля Нього.
+	b36eafc4-ce21-48e6-92e3-4a7a9e23d650 = Вже на крок балище. Можливо вже біля Нього.
 
 	////3161. ORIGINAL: What else is there?
 	5e83be0b-90d4-4184-a934-1e650e352e24 = Що ще там є?
@@ -9498,7 +9498,7 @@
 	338e6724-fff8-4a7c-ba0b-93cf3efdd625 = Ви сумнівались? Ви хоч раз сумнівались?
 
 	////3163. ORIGINAL: I am human, and to doubt is human.
-	6e36fbcc-ca97-41be-9412-e9a625cf2d66 = Я людина. Сумніви - це людяність.
+	6e36fbcc-ca97-41be-9412-e9a625cf2d66 = Я людина, і сумніватися — це по-людськи.
 
 	////3164. ORIGINAL: Thomas doubted, but he was forgiven.
 	8899aea1-6410-40f7-8b41-02144519f1f9 = Томас сумнівався, але він був прощений.
@@ -9510,7 +9510,7 @@
 	f17f9259-0ab3-4928-9390-09e068ffc18f = Як Ваші справи? Ласкаво просимо на наше кулінарне шоу!
 
 	////3167. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware.
-	28f9b202-f015-43e5-a6bb-84e9822bcd25 = Наш сьогоднішній спонсор - КуХоні Ножі від 'Fine American Cookware'.
+	28f9b202-f015-43e5-a6bb-84e9822bcd25 = Наш сьогоднішній спонсор — Кухонні Ножі від 'Fine American Cookware'.
 
 	////3168. ORIGINAL: Let's quit fooling around!
 	50f68741-dfdb-4c53-96f1-720b66080a17 = Давайте до діла!
@@ -9519,7 +9519,7 @@
 	e33fd4a1-9667-4e67-825e-0ba5cf43c568 = Ти розумієш чому ми тут?...
 
 	////3170. ORIGINAL: Cake!
-	cb326038-5384-469a-b8d3-e9163dcce967 = Для приготування Торту, звичайно!
+	cb326038-5384-469a-b8d3-e9163dcce967 = Тортик!
 
 	////3171. ORIGINAL: First you need a batter - take a bowl and mix in...
 	f035ab6e-45c4-4572-919c-7b7b31210b6d = Спочатку ми приготуємо тісто, візьміть миску та починаємо перемішувати...
@@ -9528,10 +9528,10 @@
 	5bd3ba61-8cbb-46fc-8056-f3ac787a35aa = Борошно! Масло! Цукор! Яйця! Дріжджі! Молоко!
 
 	////3173. ORIGINAL: You get all that?
-	c48a1eee-caca-405d-b38f-a17fc423d263 = Встигаєте?
+	c48a1eee-caca-405d-b38f-a17fc423d263 = Ви все встигаєте?
 
 	////3174. ORIGINAL: Add it all into a Baking Pan and... add some flavor.
-	7bca042a-b269-416f-97d3-813d82f48323 = Виливаємо все в форму для випічки і... додаємо приправу.
+	7bca042a-b269-416f-97d3-813d82f48323 = Виливаємо все в форму для випічки та... додаємо приправу.
 
 	////3175. ORIGINAL: Today I'm using banana, berries...
 	3824fb45-d8d5-4463-ad1c-83f74824d660 = Сьогодні я приправляю бананами, ягодами...
@@ -9552,7 +9552,7 @@
 	d363f154-086a-44c8-bf79-db09bfa3299c = Ви дивитесь програму 'Дача'!
 
 	////3181. ORIGINAL: Your one stop shop for home improvement!
-	207759c5-e89e-421e-bc89-61170ee4ba03 = Ваш універсальний, домашній магазин для поліпшення вашого побуту!
+	207759c5-e89e-421e-bc89-61170ee4ba03 = Ваш універсальний, домашній посібник для поліпшення вашого побуту!
 
 	////3182. ORIGINAL: Today we're building a...
 	013188e0-3d64-43aa-863c-d481f4da6fd2 = Сьогодні ми будемо робити...
@@ -9561,7 +9561,7 @@
 	fb3483d5-474b-479b-850e-6505697572d5 = Книжкову полицю.
 
 	////3184. ORIGINAL: You'll need five planks and four nails.
-	03439fed-ba2e-4af7-a2b7-b567a080ee62 = Нам знадобляться п'ять дощок і чотири цвяха.
+	03439fed-ba2e-4af7-a2b7-b567a080ee62 = Нам знадобляться п'ять дощок і чотири цвяхи.
 
 	////3185. ORIGINAL: Take your hammer like so... and...
 	2053ae50-7ea3-4885-adfe-36094265cdd5 = Беремо молоток таким чином... та...
@@ -9570,7 +9570,7 @@
 	e31ef0c9-c3c5-4ed6-9202-96c5864638d9 = *тук* *тук*
 
 	////3187. ORIGINAL: Okay so we're talking to men today, apparently.
-	797d7ddd-c394-4c5f-b68a-c1c77b406d68 = Дивіться-но, здається, сьогодні ми розмовляємо з справжніми мужиками.
+	797d7ddd-c394-4c5f-b68a-c1c77b406d68 = Дивіться-но, здається, сьогодні ми розмовляємо зі справжніми чоловіками.
 
 	////3188. ORIGINAL: Focus-testing. You got to love it, huh?
 	e40ea507-7a4d-47b2-a5f8-82153f6cf70f = Маркетингові дослідження, обожнюю.
@@ -9585,7 +9585,7 @@
 	b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9 = Чувак... чи не хочеш ти, випадком...
 
 	////3192. ORIGINAL: Like to build a bar in your own home?
-	f8fed2e0-734d-4c3c-99b3-d5661e118762 = Побудувати власний бар в своєму будинку?
+	f8fed2e0-734d-4c3c-99b3-d5661e118762 = Побудувати власний бар у своєму будинку?
 
 	////3193. ORIGINAL: They say you really would. So... for the corners.
 	8c7e4b2d-9a89-4552-aecd-e8587fca9757 = Звичайно ж хочеш! Отже... почнемо з кутової частини.
@@ -9600,13 +9600,13 @@
 	fda5440a-1e04-4c18-abe9-91d1bc967213 = А щодо основної частини бару?
 
 	////3197. ORIGINAL: Same again: four planks, four nails.
-	8445073f-d3fc-48dd-9ec7-051a0b7fc2c5 = І знову: чотири цвяхи і чотири дошки.
+	8445073f-d3fc-48dd-9ec7-051a0b7fc2c5 = І знову: чотири цвяхи й чотири дошки.
 
 	////3198. ORIGINAL: Put it all together and... you're good and ready.
-	3b0db071-d900-434e-8f58-896dc2f2df49 = Складаємо ось так і... дивимось, який ти розумний!
+	3b0db071-d900-434e-8f58-896dc2f2df49 = З’єднайте все це разом, і... все готово.
 
 	////3199. ORIGINAL: Well, I need a drink.
-	38303a59-da0b-434e-9ed3-791755304faa = А тепер, мені требо випити.
+	38303a59-da0b-434e-9ed3-791755304faa = А тепер, мені слід випити.
 
 	////3200. ORIGINAL: Here's to the new era of Woodcraft.
 	61a8d178-0a4b-48ef-bbb8-f8d0cb7c295f = Вип'ємо за нову еру в справі 'Дача'!
@@ -9615,7 +9615,7 @@
 	c666c0c4-c7fc-4706-b660-10025c9472dd = Побачимось наступного разу.
 
 	////3202. ORIGINAL: [img=music] Wood... craft! [img=music]
-	00c08fac-3e3e-4be4-adfa-e74671a5f5ac = [img=music] Да... ча! [img=music]
+	00c08fac-3e3e-4be4-adfa-e74671a5f5ac = [img=music] Даааа... чааа! [img=music]
 
 	////3203. ORIGINAL: Welcome back to Exposure Survival guys.
 	1ccbd6ed-40a5-4659-b6bf-2f35f0915dde = Ласкаво просимо на програму 'Мистецтво виживання'.
@@ -9624,7 +9624,7 @@
 	4d751882-f643-42b4-a1d7-ba2fddc434f8 = Мене звуть Дін і я вирушаю на поклик природи.
 
 	////3205. ORIGINAL: Okay so here's the deal.
-	4a3ec703-ece6-47e6-8004-0453558b03d4 = Давайте представимо.
+	4a3ec703-ece6-47e6-8004-0453558b03d4 = Гаразд, уявімо...
 
 	////3206. ORIGINAL: You're a long way from home.
 	f6056be4-2d46-4024-8f12-a4a3aba823ee = Ви далеко від дому.
@@ -9636,7 +9636,7 @@
 	87be4172-cfa1-45a2-8aa8-c37444ad2df4 = Життя це не тільки похід за гамбургером і соком.
 
 	////3209. ORIGINAL: Find a river that's jumping with fish.
-	c1ee98c8-e7d0-46aa-84f6-e9c2341f39fa = Потрібно знайти річку.
+	c1ee98c8-e7d0-46aa-84f6-e9c2341f39fa = Потрібно знайти річку, де буде риба.
 
 	////3210. ORIGINAL: Then build a rod.
 	afb4e491-aec5-4607-a6ef-ffb4f7977006 = Зробити вудку.
@@ -9669,7 +9669,7 @@
 	7dea7ccd-9896-4937-bcff-d0fe9bf97b99 = Ласкаво просимо, знову, на наше кулінарне шоу.
 
 	////3220. ORIGINAL: Brought to you by Kitten Knives - Fine American Cookware
-	cbc81305-9643-4602-8686-425aaae53aed = Наш сьогоднішній спонсор - Кухонні Ножі від 'Fine American Cookware'.
+	cbc81305-9643-4602-8686-425aaae53aed = Наш сьогоднішній спонсор — Кухонні Ножі від 'Fine American Cookware'.
 
 	////3221. ORIGINAL: Today's the day for a nourishing Chicken and Noodle soup.
 	01d55321-a94c-4b63-b442-4951a6535df0 = Сьогодні ми приготуємо суп з Курятини та локшини.
@@ -9678,19 +9678,19 @@
 	18f2d508-0c09-41d7-9c2a-7660a3a311bd = Суп з курятини? Не знаю як для Вас...
 
 	////3223. ORIGINAL: It solves everything.
-	686820ce-1ff5-495b-a146-deaca79b41fa = ...аля для мене це рішення всіх проблем.
+	686820ce-1ff5-495b-a146-deaca79b41fa = ...аля для мене це розв'язання всіх проблем.
 
 	////3224. ORIGINAL: Nourishing, mood-lifting...
-	16102657-fb87-419d-ae7e-bd6d9b975625 = Настрій піднімає та ще й ситний.
+	16102657-fb87-419d-ae7e-bd6d9b975625 = Настрій підіймає, та ще й поживний.
 
 	////3225. ORIGINAL: The smell of home, y'know?
-	ba88efb8-6046-4b62-ba0b-a85346f7d459 = О-о-о. Вже відчуваю запахи домашньої кухні.
+	ba88efb8-6046-4b62-ba0b-a85346f7d459 = О-о-о. Вже відчуваю запахи домашньої кухні?
 
 	////3226. ORIGINAL: To start, you need some cooked chicken.
-	b31bcd26-273a-42e4-be83-0f6dbc362e6a = Спочатку Нам знадобиться курка, вже готова.
+	b31bcd26-273a-42e4-be83-0f6dbc362e6a = Для початку вам знадобиться трохи відвареної курки.
 
 	////3227. ORIGINAL: Broil, fry, bake - your choice.
-	08ad0333-2e95-4a1e-846e-fd5155b26712 = Смажена, варена чи печена - як Вам зручніше.
+	08ad0333-2e95-4a1e-846e-fd5155b26712 = Смажена, варена чи печена — як Вам зручніше.
 
 	////3228. ORIGINAL: Then get yourself a pot of water.
 	ce21bffc-3873-45a2-a161-e534d548138a = Наберіть воду в баняк.
@@ -9705,7 +9705,7 @@
 	7045520e-d6a1-40e3-a166-cad0e00ed5de = Не звертайте увагу, якщо продукти не свіжі.
 
 	////3232. ORIGINAL: Soup fixes everything.
-	6929e73c-f6d7-46db-b08c-014af1ca9299 = Суп - це рішення всіх проблем.
+	6929e73c-f6d7-46db-b08c-014af1ca9299 = Суп — це розв'язання всіх проблем.
 
 	////3233. ORIGINAL: Then don't forget those dry ramen noodles and...
 	c13613c6-ced4-4d1b-b565-f5c385f99875 = Не забудьте закинути локшину та...
@@ -9717,28 +9717,28 @@
 	533c0a62-b452-48d6-bb6a-2b3a0b66585d = Оп-па-на! Суп з курятиною та локшиною.
 
 	////3236. ORIGINAL: Guaranteed to lighten a rainy day.
-	a5f5d607-9e38-4853-9842-f860c85355a9 = Світ заграє іншими кольорами!
+	a5f5d607-9e38-4853-9842-f860c85355a9 = Світ заграє іншими барвами!
 
 	////3237. ORIGINAL: See y'all tomorrow!
 	67f2417d-cba8-4e2d-8870-0f31b0124a17 = Побачимось завтра!
 
 	////3238. ORIGINAL: We're startin' with the basics.
-	255e366a-1954-44ce-bed3-c43b4501c1cf = Давайте почнемо з основи.
+	255e366a-1954-44ce-bed3-c43b4501c1cf = Почнімо з основи.
 
 	////3239. ORIGINAL: The kinda stuff they teach at kindergarten.
 	451e2b1b-1aab-4bd9-9f0f-3d01735c135a = Речі яких вчать дітей в садку.
 
 	////3240. ORIGINAL: You like floors? I like floors.
-	251f9986-ddf1-48d0-b68a-6e81b7ac38f6 = Вам довподоби підлога? Мені - так.
+	251f9986-ddf1-48d0-b68a-6e81b7ac38f6 = Вам до вподоби підлога? Мені — так.
 
 	////3241. ORIGINAL: Take a plank and a nail like this...
-	6a59acba-6882-4435-a24b-81b91436d05e = Беремо дошку і цв'ях...
+	6a59acba-6882-4435-a24b-81b91436d05e = Беремо дошку і цвях...
 
 	////3242. ORIGINAL: Take your hammer and...
 	e9399ff8-a997-4d2a-81de-ef4d7f84082e = Потім молоток...
 
 	////3243. ORIGINAL: Looks kinda nice like that huh?
-	75a03f86-d185-4049-b9e0-3221ecae6ed3 = Гарно получилось, правда?
+	75a03f86-d185-4049-b9e0-3221ecae6ed3 = А виглядає нічогісінько, чи не так?
 
 	////3244. ORIGINAL: Know what else is good for practice?
 	595f10b5-8241-486f-99f4-7c89fd98df45 = А знаєте що ще добре для практики?
@@ -9762,13 +9762,13 @@
 	d3fc88d4-5e1e-4d80-9665-59ac5e4fbf86 = Вітаємо вас в програмі 'Мистецтво виживання'.
 
 	////3251. ORIGINAL: This is a show that'll teach you the basics of outdoor life.
-	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = Тут ви навчитесь базовим навичкам для життя на дворі.
+	1ea4d154-be9d-4ccf-ac8c-804ce251de42 = Тут ви дізнаєтеся основи життя поза хатою.
 
 	////3252. ORIGINAL: But before we get to survival - lets nail the basics.
-	47678484-cd61-4e31-b818-fad7262e80cb = Але перед виживанням, давайте вивчемо основи.
+	47678484-cd61-4e31-b818-fad7262e80cb = Але перед виживанням, вивчімо базу.
 
 	////3253. ORIGINAL: Let's fish.
-	1ced94ac-bf3d-4595-807f-2f5f4170493f = Давайте підемо на риболовлю.
+	1ced94ac-bf3d-4595-807f-2f5f4170493f = Ходімо на риболовлю.
 
 	////3254. ORIGINAL: Now I'm sure you've got your rod...
 	33b32f34-f359-482c-8f10-47ec8f84566e = Я впевнений що з вами ваша вудка...
@@ -9783,13 +9783,13 @@
 	dcfe96b8-c582-474c-9384-a80f8b505342 = Хробаки є всюди.
 
 	////3258. ORIGINAL: So dig, and get a bunch.
-	977cb9da-ab0c-492b-babf-adcc23f4d59c = Тому давай викопаємо жменю
+	977cb9da-ab0c-492b-babf-adcc23f4d59c = Тому викопаймо жменю
 
 	////3259. ORIGINAL: Or there's lures, or maybe smaller fish - ey?
-	8161a6b6-2819-42f6-a942-035f9e2aea74 = Або ще є приманки, або рибка поменше.
+	8161a6b6-2819-42f6-a942-035f9e2aea74 = Або ще є приманки, або маленька рибка?
 
 	////3260. ORIGINAL: Find your river, cast the line - wait a while.
-	4f5b5625-32cb-4162-9b54-c342cd37baeb = Шукаємо річку, закидаєм вудку і чекаємо.
+	4f5b5625-32cb-4162-9b54-c342cd37baeb = Шукаємо річку, закидаємо вудку і чекаємо.
 
 	////3261. ORIGINAL: Job done.
 	96b96624-9826-41b3-b41a-3167cd9af168 = Ост і все, рибка спіймана.
@@ -9810,10 +9810,10 @@
 	a87ba511-d5d3-44ec-9028-83d959beb72e = Ці ножі міцніші надійніші та гостріші.
 
 	////3267. ORIGINAL: Look at this handle, I mean just look at the handle.
-	dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2 = Тліьки гляньте на цю ручку! Вона прекрасна!
+	dcd30d29-2d1b-4cb7-a9e1-e7b3c385aae2 = Тільки гляньте на цю ручку! Вона прекрасна!
 
 	////3268. ORIGINAL: Chopping. Slicing. Dicing.
-	929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf = Рубання, нарізання та подріблення.
+	929fe83e-cbfe-48a0-bd02-e07b8ea3fdcf = Рубання, нарізання та подрібнення.
 
 	////3269. ORIGINAL: All a joy.
 	20a5303d-1e14-4266-a5d1-51d2d19ba303 = Все в задоволення!.
@@ -9858,13 +9858,13 @@
 	978b7301-fe57-4561-bbfc-eaee8130f154 = Класно. А пахне як... смакота.
 
 	////3283. ORIGINAL: Split into four bowls, or two if you're hungry.
-	e31cd106-bdfd-4528-8f90-32b6483db250 = Розливаємо на 4 миски, але якщо сильно голодні то на 2.
+	e31cd106-bdfd-4528-8f90-32b6483db250 = Розливаємо на 4 миски, але якщо сильно голодні, то на 2.
 
 	////3284. ORIGINAL: See y'all tomorrow.
 	80365889-9ba0-4056-8cb4-fa76f41d3b92 = Все, до нових зустрічей.
 
 	////3285. ORIGINAL: Intermediate carpentry! Yeehah!
-	7d4527c5-3fa0-4bb9-8551-3af3c01a190a = Будівнитство для просунутих! Ура!
+	7d4527c5-3fa0-4bb9-8551-3af3c01a190a = Будівництво для просунутих! Ура!
 
 	////3286. ORIGINAL: Sick of seein' your fella's face ladies?
 	f39b90b5-3046-47bd-a98e-2f77f08d6e06 = Втомились бачити лиця сусідів?
@@ -9873,7 +9873,7 @@
 	c6179b8f-0c9e-43fc-9fe5-ece0cc6442ec = Тоді вам потрібна велика стіна.
 
 	////3288. ORIGINAL: Three nails, three planks... take that hammer and...
-	7e755ce2-145c-411c-8d8c-4c3022454141 = Три цвяхи, три планки... молоток в руки і...
+	7e755ce2-145c-411c-8d8c-4c3022454141 = Три цвяхи, три планки... молоток в руки, і...
 
 	////3289. ORIGINAL: That there's a piece of wall.
 	69360d15-e3aa-4b61-8fe0-ff7c79bd271e = Стіна готова.
@@ -9894,16 +9894,16 @@
 	89f9ee40-99fb-466e-8cb0-81169bf0f161 = Віконні рами, одвірки... Немає різниці..
 
 	////3295. ORIGINAL: Four planks and nails! Let's go!
-	552b3b91-dbb7-4ec9-ad6d-9b87ef272a82 = Чотири дошки і цвяхи! До роботи!
+	552b3b91-dbb7-4ec9-ad6d-9b87ef272a82 = Чотири дошки та цвяхи! До роботи!
 
 	////3296. ORIGINAL: There you go ladies!
-	93c8a004-5612-443c-ac66-be1be4a309fa = Ну ось, в нас получилось!
+	93c8a004-5612-443c-ac66-be1be4a309fa = Ну ось, вдалося!
 
 	////3297. ORIGINAL: Most fun I had recently with ma shirt on!
-	7d09882f-c3c7-4c91-8679-26b8ff456db8 = Найбільше радості за довгий час, І рохдягатись не треба було!
+	7d09882f-c3c7-4c91-8679-26b8ff456db8 = Така радість за такий довгий час, І навіть роздягатись не треба було!
 
 	////3298. ORIGINAL: Next time - intermediary part 2!
-	fd350e46-62ba-4e34-9f83-4a9e7292b509 = В наступні програмі - будівництво рівень посередній!
+	fd350e46-62ba-4e34-9f83-4a9e7292b509 = В наступній програмі — будівництво рівень посередній!
 
 	////3299. ORIGINAL: We find somewhere you can rest that sweet be-hind!
 	8eb056c0-e42d-4df2-a28c-3a0432b258ec = Ми знайшли дещо що допоможе відпочити!
@@ -9927,13 +9927,13 @@
 	8ebdc86d-7ae5-4036-81b6-1b48ea023ae5 = Але ви тут на довго.
 
 	////3306. ORIGINAL: Let's Robinson Crusoe! Right?
-	47f643b5-3423-4bde-b50e-762ab4b96069 = Давайте прикинемось Робінзоном Крузо!
+	47f643b5-3423-4bde-b50e-762ab4b96069 = Прикиньмося Робінзоном Крузо!
 
 	////3307. ORIGINAL: Time to farm.
 	3e67beca-7ec8-43d8-817f-7e6246305821 = Чай зайнятись фермою.
 
 	////3308. ORIGINAL: You won't get anywhere without seeds - so find 'em.
-	030ea125-3258-4226-9766-1d36dac0ecd2 = Але без насіння нічого не получиться, тому знайдіть його.
+	030ea125-3258-4226-9766-1d36dac0ecd2 = Але без насіння нічого не вдасться, тому знайдіть його.
 
 	////3309. ORIGINAL: Take a trowel.
 	d5a7a459-120c-46d2-915a-84ba1453d013 = Візьміть кельму.
@@ -9945,10 +9945,10 @@
 	fb843536-c351-4c16-9636-cd7c7182d9fd = Посадіть насіння... підлийте їх
 
 	////3312. ORIGINAL: Keep 'em watered, don't trample 'em...
-	c7e0a365-1610-477d-865d-1268d0588a22 = Дивіться що не засохло, не топчіться по глядках...
+	c7e0a365-1610-477d-865d-1268d0588a22 = Дивіться що не зав'яли, не топчіться по нім...
 
 	////3313. ORIGINAL: ...and watch the sky.
-	a71c6b8f-9db6-46c9-8411-c2f6a2098e13 = ... насолоджуйтесь небом.
+	a71c6b8f-9db6-46c9-8411-c2f6a2098e13 = ... та насолоджуйтесь небом.
 
 	////3314. ORIGINAL: You're at the mercy of the elements here.
 	40f82a39-1039-458d-b95c-690497e00f5e = Природа зробить все інше сама.
@@ -9957,16 +9957,16 @@
 	6ccff037-d9e8-4267-a36c-4b2c4470ed3d = А хто не любить моркву?
 
 	////3316. ORIGINAL: I'm Doctor Cox, and I'm here to talk to YOU about bladder control.
-	7dbf5632-2364-4d52-a068-699e196fd66f = Я Лікар Кокс, і я поговорю з ВАМИ про контроль сечового міхура .
+	7dbf5632-2364-4d52-a068-699e196fd66f = Я Лікар Кокс, і я поговорю з ВАМИ про контроль сечового міхура.
 
 	////3317. ORIGINAL: Now I've been helping families for forty long years, but I have NEVER...
-	80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2 = Я допомагав сім'ям вже 40 з лишнім років. але НІКОЛИ...
+	80d55ec6-8a00-40d7-bb24-fcc4dfecfbc2 = Я допомагав сім'ям вже 40 років з гаком, але НІКОЛИ...
 
 	////3318. ORIGINAL: ... come across a treatment like Incontileve.
 	e3e517dd-45b7-427a-927a-7177148489ec =  ... не стикався з лікуванням як в 'Incontileve'.
 
 	////3319. ORIGINAL: Everywhere I go, good friends say 'Thank you Doctor Cox'
-	effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11 = Кому б ви не порадили всі мені дякують.
+	effacd4e-16a1-4fd3-a0d4-c7bb7d26ea11 = Куди б я не пішов, всі говорять мені 'Дякую, докторе Кокс'
 
 	////3320. ORIGINAL: Thanks for asking family doctors to recommend:
 	fa20ce59-7949-4d1a-8afa-e2e58e77d70a = Дякую що просите сімейного лікаря рекомендувати:
@@ -9975,7 +9975,7 @@
 	f065b2ee-813d-4323-903f-59b4a7d42f97 = 'Incontileve'.
 
 	////3322. ORIGINAL: Product may cause swelling of the urinary tract....
-	5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52 = Продук може призвезти до набряку сечового шляху...
+	5b8cef90-2cfe-4138-9a03-4d5f2e0cbf52 = Продукт може викликати набряк сечовивідних шляхів...
 
 	////3323. ORIGINAL: ...headaches, nausea and sudden irritation.
 	a8665b42-1528-4e6a-b717-04d71f809655 = ... головних болів, нудоти та раптового роздратування ...
@@ -9990,19 +9990,19 @@
 	99f46cc4-9931-4216-a556-876151731454 = І я була шокована!
 
 	////3327. ORIGINAL: Got me to thinking about a show that celebrates the healthy life?
-	08435f67-733d-4971-a8c2-c7aaa88aa658 = Я думала про шоу що звеличує здорове життя.
+	08435f67-733d-4971-a8c2-c7aaa88aa658 = Це змусило мене подумати про шоу, яке прославляє здоровий спосіб життя?
 
 	////3328. ORIGINAL: So here it is - the Salad Special.
-	78945f53-354c-4ae2-a6a5-e67160bf6c79 = Так ось. Салат Особливий.
+	78945f53-354c-4ae2-a6a5-e67160bf6c79 = Так. І ось він — Салат Особливий.
 
 	////3329. ORIGINAL: Just cause there's leaves, don't mean you'll heave.
-	7e4fbfd1-b736-4971-865b-9950e0db132c = Просто тому що там листя не означає шо вам буде зле.
+	7e4fbfd1-b736-4971-865b-9950e0db132c = Просто тому, що там листя, не означає що вам буде зле.
 
 	////3330. ORIGINAL: Take a bowl - and as a base throw in some lettuce.
 	97f3d925-0d4c-48f0-b2f4-0e95f4909601 = За основу візьмемо листя салату, кидаємо в миску.
 
 	////3331. ORIGINAL: Then we add cheese, ham - and we're almost at Bam!
-	56536c44-e816-4d22-bbc7-8fe3a89475e0 = Далі ми візьмимо твердий сир, шинку. Майже готово.
+	56536c44-e816-4d22-bbc7-8fe3a89475e0 = Далі ми візьмемо твердий сир, шинку. Майже готово.
 
 	////3332. ORIGINAL: Let's add in some mayo...
 	4eccab23-cf25-44b6-8845-214ddd435a87 = Трішечки майонезу...
@@ -10020,7 +10020,7 @@
 	86536db4-09dd-4971-b423-3c382f9c9909 = Просто не давайте застоятись!
 
 	////3337. ORIGINAL: Can't wait to hand this out to the team here!
-	ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a = Не можу дочекатись щоб команда спробувала.
+	ed67dc7a-5b21-4d6f-aea9-5c211fe3db1a = Не можу дочекатись, щоб команда спробувала.
 
 	////3338. ORIGINAL: We're at intermediary level still and...
 	2485b2e7-e0c6-4e47-9f5c-e1d542df2ce6 = Ми все ще на посередньому рівні...
@@ -10032,25 +10032,25 @@
 	eee34a0a-aae7-4d86-b291-be57da8d33d0 = Привіт денне телебачення. Проте це не моє.
 
 	////3341. ORIGINAL: Wore these pants nice and tight though. Huh?
-	aff6f93b-c6f0-46bf-9307-074baa74871c = Але я надів обтягаючі штани. як вам?
+	aff6f93b-c6f0-46bf-9307-074baa74871c = Але я надів обтягаючи штани. Як вам?
 
 	////3342. ORIGINAL: Hey! Pay attention! Today: it's chairs!
-	f5aa61a4-98a5-41f7-9534-888179e2443b = Ей! Уважніше! Сьогодні - крісла!
+	f5aa61a4-98a5-41f7-9534-888179e2443b = Ей! Уважніше! Сьогодні — крісла!
 
 	////3343. ORIGINAL: What do we need?
-	c05dbebd-9cdd-45fa-accb-46fba79f8f24 = то що нам потрібно?
+	c05dbebd-9cdd-45fa-accb-46fba79f8f24 = То що нам потрібно?
 
 	////3344. ORIGINAL: Five planks! Four nails! Yeehah!
 	04658bc8-0750-4ada-9fd5-bd8570f5aca0 = П'ять планок! Чотири цвяхи! Ї-ї-ха!
 
 	////3345. ORIGINAL: Ladies! Can you be-hi-lieve it?
-	0dc9767e-75eb-43aa-8b31-e1542f8281e3 = Двчатка, можете в це повірити?
+	0dc9767e-75eb-43aa-8b31-e1542f8281e3 = Дівчатка, можете в це повірити?
 
 	////3346. ORIGINAL: Now hows about some shelves?
 	1125fee2-3248-48d7-9ee6-78291961e7db = Тепер поговоримо про полички.
 
 	////3347. ORIGINAL: Someplace for your jewelleries, your precious stuff?
-	9d5cd69e-419b-48fa-a3ae-4ef6532e5a04 = Це там де ви тримаєте коштовності і ішні важливі речі.
+	9d5cd69e-419b-48fa-a3ae-4ef6532e5a04 = Це там де ви тримаєте коштовності та інші важливі речі.
 
 	////3348. ORIGINAL: TWO PLANKS! FOUR NAILS! GO!
 	99a0d48a-9801-4767-a473-4ea84aa19281 = ДВІ ПЛАНКИ! ЧОТИРИ ЦВЯХИ! ШВИДКО!
@@ -10065,7 +10065,7 @@
 	dc272301-3518-4431-86fe-5d203e627b26 = І це все.
 
 	////3352. ORIGINAL: Oh hey, sick of folk seeing you sunbathin'?
-	d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b = Набридло що сусіди підглядають як ви загораєте?
+	d52fc6d7-e763-4ec2-8e9e-fd45d1e9742b = Набридло що сусіди підглядають як ви загоряєте?
 
 	////3353. ORIGINAL: I was. Get it all the time.
 	e3303d6e-fb75-45a2-a9ab-58cba3908982 = Мені, особисто, так.
@@ -10077,7 +10077,7 @@
 	889b6171-8199-4cfe-b01e-65e82d78e429 = Я взяв дві планки, три цвяхи, стук-стук.
 
 	////3356. ORIGINAL: And here she is!
-	5199193d-34cd-4d8d-aa82-9ca0bafab450 = І ось овно готове.
+	5199193d-34cd-4d8d-aa82-9ca0bafab450 = І ось воно готове.
 
 	////3357. ORIGINAL: So if you'll excuse me, I'll just...
 	1e08f4fb-668d-4718-85e4-3641ddcace7b = А зараз прошу вибачення, я просто...
@@ -10089,19 +10089,19 @@
 	2537f8f1-4442-4bc7-9e0f-ffca93347f4f = Наступного разу в програмі Будівництво: Двері!
 
 	////3360. ORIGINAL: Can I hear a yee-hah?
-	fbc35c77-7a87-4917-befe-3141bfec8a0a = Давайте почнемо: 'Ї-ї-ха'!
+	fbc35c77-7a87-4917-befe-3141bfec8a0a = Почнімо: 'Ї-ї-ха'!
 
 	////3361. ORIGINAL: Now I'd like you to meet my good friend Tooks Bear.
 	5b256688-3ca3-4cb6-aa83-142fe98b55cc = А зараз я познайомлю Вас з моїм другом, ведмедиком Туксі.
 
 	////3362. ORIGINAL: Tooks Bear is the friendliest, smiliest, bounciest bear in town.
-	a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3 = Ведмедик Туксі най цікавіший та дружній ведмедик в місті.
+	a711f59c-bcd6-43b2-a3e8-7b5e7f5f37f3 = Ведмедик Туксі найцікавіший та дружній ведмедик в місті.
 
 	////3363. ORIGINAL: You know why you'll like him the most?
 	4009cbdb-f9db-4741-9258-de17df18b90e = Знаєте чому він вам сподобається?
 
 	////3364. ORIGINAL: He's only $49.99 plus postage and packing.
-	361268c6-0b75-4d1c-be51-020f7808e2b4 = Бо його ціна всього $49.99 з доставкою.
+	361268c6-0b75-4d1c-be51-020f7808e2b4 = Бо його ціна всього $49.99 з доставленням.
 
 	////3365. ORIGINAL: All I have to do is press this little button on his paw and...
 	fb798ae7-afae-43f2-9e14-a85f50c465c0 = Я натискаю йому на лапку і...
@@ -10119,7 +10119,7 @@
 	d6b66326-3d9f-4b04-89f5-dcbaf6a1c733 = І знову з вами кулінарне шоу.
 
 	////3370. ORIGINAL: Today, we're gettin' a taste of Asia - with a frying pan.
-	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = Сьогодні ми відчуємо смак Азії - з допомогою сковорідки.
+	6b9bdb5c-7a64-4010-88f9-28ac8f39a8cc = Сьогодні ми відчуємо смак Азії — з допомогою сковорідки.
 
 	////3371. ORIGINAL: Now, minding you don't cut yourself with this...
 	2eafacda-b10d-4b76-98cb-df605ee56082 = Будьте обережні, не поріжтесь з цим...
@@ -10128,16 +10128,16 @@
 	1c659b39-eae9-4ad8-8d6f-8751d7b6fb57 = Супер гострим Ножем від 'Kitten`.
 
 	////3373. ORIGINAL: Cut your pork to pieces and throw it into fry.
-	f39c4529-1e48-4153-86d7-acada2c63689 = Наріжте свинину кусочками і киньте на сковорідку.
+	f39c4529-1e48-4153-86d7-acada2c63689 = Наріжте свинину кусочками та киньте на сковорідку.
 
 	////3374. ORIGINAL: Then add in some fresh vegetables.
-	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = Потід додайте свіжих овочів.
+	16c25fd1-7728-4f1e-a2cf-041e01ae97ad = Потім додайте свіжих овочів.
 
 	////3375. ORIGINAL: I'm using onion to start, then Bell Pepper and Eggplant.
 	6d1fea56-0cf5-4394-8543-12a5e23c5d17 = Я використовую цибулю, солодкий перець і баклажан.
 
 	////3376. ORIGINAL: If you're hungry then try it out with some noodles.
-	0098df83-551b-4c76-a1e5-845646fcfdcb = Якщо ви дуже голодні, то додайте лапшу.
+	0098df83-551b-4c76-a1e5-845646fcfdcb = Якщо ви дуже голодні, то додайте локшину.
 
 	////3377. ORIGINAL: See? Cooking can be fun and easy.
 	b8dd565e-5918-4d83-b087-f0f54df9ac99 = Бачите? Кулінарія може бути веселою і простою.
@@ -10173,31 +10173,31 @@
 	3a5ce5d4-5c27-4284-ad1c-b1735bde470a = Ви знаєте що робити!
 
 	////3388. ORIGINAL: Four planks! Four nails! One knob! One hinge!
-	dbaceec5-1ead-424d-809b-61a681de22c8 = Чотири плвнки! Чотири цвяхи! Одна ручка! дві петлі!
+	dbaceec5-1ead-424d-809b-61a681de22c8 = Чотири планки! Чотири цвяхи! Одна ручка! дві петлі!
 
 	////3389. ORIGINAL: BANG! BANG!
 	65223764-0362-47b7-a14f-e6ed7b9e7cf4 = СТУК! СТУК!
 
 	////3390. ORIGINAL: Now I don't read books, but some folk do.
-	e52b4b27-a591-459b-9eb9-10b154f77e0c = Я не люблю читати книжки, але дехто - любить.
+	e52b4b27-a591-459b-9eb9-10b154f77e0c = Я не люблю читати книжки, але дехто — любить.
 
 	////3391. ORIGINAL: Books need cases, so next up: a bookcase.
 	d1ed5fe1-bdfe-4da1-90de-5029931e1c60 = А для книг потрібна книжкова шафа.
 
 	////3392. ORIGINAL: Something that'd look mighty fine next to the bed of a lady.
-	d3cbcede-e847-453b-ae04-beeaadf6c833 = Щось що буде гарно виглядати навіть біля ліжка дівчинки.
+	d3cbcede-e847-453b-ae04-beeaadf6c833 = Така, що буде мати гарний вигляд навіть біля ліжка дівчини.
 
 	////3393. ORIGINAL: A clever readin' lady, with three planks and four nails.
-	b603ccd1-dc28-4789-8a98-541feb8f9716 = Розумної, читаючої, дівчники. Тому три планки, чотири цвяхи
+	b603ccd1-dc28-4789-8a98-541feb8f9716 = Розумної, читаючої леді, з трьома дошками й чотирма цвяхами.
 
 	////3394. ORIGINAL: Now that's my best yet!
-	604aefc7-1277-4521-a86f-f7c44a434ca2 = Це поки найкраще що в мене получилось.
+	604aefc7-1277-4521-a86f-f7c44a434ca2 = Це поки найкраще що в мене виходило.
 
 	////3395. ORIGINAL: I'll put it here next to my four plank, four nail table.
 	8f9b54e2-0c16-4c5c-92c1-4180f4df63e8 = Я її поставлю біля столика з чотирьох планок і чотирьох цвяхів.
 
 	////3396. ORIGINAL: Next time? Beds!
-	5efb8e88-e84c-4939-a464-62d522519757 = А що дальше? Ліжко!
+	5efb8e88-e84c-4939-a464-62d522519757 = А що далі? Ліжко!
 
 	////3397. ORIGINAL: Bang bang ladies, and yee-hah!
 	1006b8b3-c428-4b98-bdb5-bb575549b919 = Дівчата, бум-бум і Ї-ї-ха!
@@ -10206,7 +10206,7 @@
 	046f3a29-112e-48d5-a4ce-8182bfcabf0a = І знову вітаю вас в передачі 'Мистецтво виживання'.
 
 	////3399. ORIGINAL: I'm Dean guys, and I'm back with nature.
-	54ce5b00-9903-4661-92b2-02230c24ad76 = З вами як завжди Дін, І я повернувня на природу.
+	54ce5b00-9903-4661-92b2-02230c24ad76 = З вами як завжди Дін, І я повернувся на природу.
 
 	////3400. ORIGINAL: Alright so you're closing in on Everest Base Camp.
 	d27641c5-0573-442b-9f9c-537dd9b5cc6f = Отож, ми доходимо до базового табору Евересту.
@@ -10221,7 +10221,7 @@
 	7fde1e06-bc4e-47a6-a7ad-f931cbf0d22c = То що ж робити? Розвезти вогонь!
 
 	////3404. ORIGINAL: Take three pieces of wood - planks maybe
-	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Візьміть три бульяких обрубка дерева, можлиов планки.
+	e89e8f7e-d633-420c-90fc-aa5dfc6a10c7 = Візьміть три буль яких обрубка дерева, можливо планки.
 
 	////3405. ORIGINAL: Then you need fuel. Anything that burns.
 	645eb206-000b-499f-a452-b0000ab14c53 = Тоді потрібен хмиз. Все що горить.
@@ -10248,13 +10248,13 @@
 	ec3ecb39-e84d-42fd-bb38-6257446cc92a = До нових зустрічей!
 
 	////3413. ORIGINAL: I don't know about you, but when I golf with my buddies...
-	0f8761f8-ef67-4c7d-9e75-b82a51364a1b = Я не знаюяк ви, але коли я граю в гольф з друзями...
+	0f8761f8-ef67-4c7d-9e75-b82a51364a1b = Я не знаю як ви, але коли я граю в гольф з друзями...
 
 	////3414. ORIGINAL: There's always this special moment.
 	1350a861-3fd3-4edb-802c-7c89edace34a = Настає особлива мить.
 
 	////3415. ORIGINAL: You get your clubs out the trunk, your friend does the same...
-	4fbeaf13-594d-497c-9053-220a42155fd3 = Ви з друзями відкриваєте багажники і дістаєте ключки...
+	4fbeaf13-594d-497c-9053-220a42155fd3 = Ви з друзями відкриваєте багажники та дістаєте ключки...
 
 	////3416. ORIGINAL: And you compare - right?
 	346a331b-4e6f-4f4e-a007-9c8e93f26b9e = І ви міряєтесь ними, правда?
@@ -10287,10 +10287,10 @@
 	7f8cc3e2-8a99-4618-87d0-da2f326340ce = І я вам розкажу...
 
 	////3426. ORIGINAL: I want to make healthy cooking as easy as...
-	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = Я шочу щоб здорове харчування було простим як...
+	f107d679-25d3-43ed-92d7-6f61c54d1ca8 = Я хочу, щоб здорове харчування було простим як...
 
 	////3427. ORIGINAL: ...standing in line at Spiffos' or sittin' in Pizza Whirled.
-	9b784828-ffa8-4735-bfb5-7c220501b804 = ... стояки в черзі 'Spiffo' чи очікувати доставку з 'Pizza Whirled'.
+	9b784828-ffa8-4735-bfb5-7c220501b804 = ... стояння у черзі 'Spiffo' чи очікування доставляння з 'Pizza Whirled'.
 
 	////3428. ORIGINAL: Now I love a BLT.
 	7ec30333-076d-490e-a761-fed0cdfe33d9 = Я люблю БСП сендвічі.
@@ -10299,13 +10299,13 @@
 	1c250bfa-5e0a-4b64-af85-5b1f39c04747 = Це означає Бекон, Салат, Помідор.
 
 	////3430. ORIGINAL: It's God's Gift to bread.
-	d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449 = Це просто подарунок для хлібу.
+	d0f96fca-8dac-4b8c-9fbd-ee5f2ec51449 = Це просто подарунок для хліба.
 
 	////3431. ORIGINAL: So let's make one together!
-	47c60ee5-afa9-4819-897d-eaccb2ed8959 = тому давайте зробимо їх разом!
+	47c60ee5-afa9-4819-897d-eaccb2ed8959 = Тому зробімо їх разом!
 
 	////3432. ORIGINAL: First - you cook up that bacon.
-	09683445-71e0-4c98-9cdc-3d7ea76aa54d = В першу чергу піджарте бекон.
+	09683445-71e0-4c98-9cdc-3d7ea76aa54d = В першу чергу нажарте бекон.
 
 	////3433. ORIGINAL: I like mine crispy as all heck, but do it to your liking.
 	1479d319-a621-44e6-abe0-ab561e0445fc = Я люблю коли мій бекон хрустить, а ви робіть як подобається.
@@ -10314,7 +10314,7 @@
 	43030225-2881-431f-a553-7ba7cf4d8173 = Візьміть хліб, і поставте бекон зверху.
 
 	////3435. ORIGINAL: Then tomato and your lettuce.
-	320d9059-11e3-4770-b42a-71d76ec10bd4 = Далі помідори і листя салату.
+	320d9059-11e3-4770-b42a-71d76ec10bd4 = Далі помідори та листя салату.
 
 	////3436. ORIGINAL: Not too much lettuce.
 	90ba018c-d084-4646-b163-5b6793f69e43 = Листя салату не давайте багато.
@@ -10323,10 +10323,10 @@
 	69a2eeef-e405-431d-a3eb-15127c386fc2 = І Бам! Просто!
 
 	////3438. ORIGINAL: Just like Mom used to make!
-	b3d9ee68-773b-4a22-ab5f-14e4a82e6314 = Саме так як моя мама готувала.
+	b3d9ee68-773b-4a22-ab5f-14e4a82e6314 = Саме так, як моя мама готувала.
 
 	////3439. ORIGINAL: And if you want to be a bit more decadent? One word:
-	e83866e4-3ec9-4295-8be1-7401989760a1 = Хочите щоб це було нездорово? Одне слово:
+	e83866e4-3ec9-4295-8be1-7401989760a1 = Хочете, щоб це було нездорово? Одне слово:
 
 	////3440. ORIGINAL: Meat patty!
 	832e055a-65f1-431e-9ef5-a421a1b249af = Бургер!
@@ -10350,16 +10350,16 @@
 	ced05294-7426-4a29-ad90-48572f61bbb2 = Не буду розказувати 'як', а то ще почервонієте.
 
 	////3447. ORIGINAL: I needed a new place to rest my head, and I needed it quick.
-	21934aeb-45d9-4cd4-8ce2-32a81e09329f = Тому мені потрібне нове місце щоб відпочити, і то швидко.
+	21934aeb-45d9-4cd4-8ce2-32a81e09329f = Тому мені потрібне нове місце, щоб відпочити, і потрібно вже зараз.
 
 	////3448. ORIGINAL: So what did I do? I'll show you!
 	c785d9dc-d0e2-4f1c-a1a5-5f901dd1684a = То що ж я зроблю? Дивіться!
 
 	////3449. ORIGINAL: Let's build a bed ladies! Let's do it now!
-	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = Давайте зробимо ліжко, і це вже!
+	3d5543af-17fa-4e30-a3c9-e6432f6ada90 = Давайте вже зробимо нарешті це ліжко!
 
 	////3450. ORIGINAL: Six planks! Four nails! One mattress!
-	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = Шість планок! Чотири цвяхи'! Один Матрац!
+	85fcaac6-eff7-407f-8c0c-3f615b7f42c5 = Шість планок! Чотири цвяхи! Один Матрац!
 
 	////3451. ORIGINAL: Bang! Bang! Yee-hah!
 	7c465766-f93d-4cf9-9345-93c087861712 = Бум-Бум! Ї-ї-ха!
@@ -10368,7 +10368,7 @@
 	fb743edb-7220-4b3e-811e-5c22499b9c50 = Ї-ї-ха!
 
 	////3453. ORIGINAL: And there she is, but the test drive can wait.
-	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = І ось вже готово. Але тест драйв може почекати.
+	89e23f3e-6738-491d-9afc-2810a9d6b0c2 = І ось вже готово. Але тест-драйв може почекати.
 
 	////3454. ORIGINAL: We done the exciting stuff...
 	0071b9ec-3368-4614-9721-b89c7eea9616 = Ми зробили захоплюючі речі...
@@ -10407,7 +10407,7 @@
 	4c619e77-239e-4d88-8b8d-84dbe1d23722 = Який, жах.
 
 	////3466. ORIGINAL: What I did have was four tent pegs - and four sheets.
-	aeb93f9a-899b-4ee3-8cc9-143153b89993 = Але те що я мав з собою це чотири кілочки і чотири простирадла.
+	aeb93f9a-899b-4ee3-8cc9-143153b89993 = Але те що я мав з собою це чотири кілочки й чотири простирадла.
 
 	////3467. ORIGINAL: Using a stick I found foraging I built... this.
 	23297493-a224-4874-a624-f07a148705a8 = Користуючись палкою, що я знайшов я збудував... це.
@@ -10425,7 +10425,7 @@
 	67d9ef10-3ffc-4065-8bbf-4e1b36f259c1 = Інколи цього достатньо.
 
 	////3472. ORIGINAL: We've got a caller! Hi Dean!
-	f2590d4b-839f-4b0b-ba56-d560094b6c5f = У нас здвінок! Привіт Дін!
+	f2590d4b-839f-4b0b-ba56-d560094b6c5f = У нас дзвінок! Привіт, Діне!
 
 	////3473. ORIGINAL: Thanks so much for taking the time out from your show on Life and Living!
 	eaa5808e-6955-4279-b296-fddc40f65734 = Дякую за твою передачу на каналі 'Life and Living'!
@@ -10440,7 +10440,7 @@
 	48c11481-3baa-47c8-9fe6-50e2b9c3e089 = ...просто ПРЕКРАСНЕ. Висока якість.
 
 	////3477. ORIGINAL: I love it when you get in touch Dean.
-	6b2af433-dc55-4bbd-a982-de04fbc5f185 = Я щасливий що вам сподобалосб, Дін.
+	6b2af433-dc55-4bbd-a982-de04fbc5f185 = Я щасливий що вам сподобалось, Дін.
 
 	////3478. ORIGINAL: It just looks like the BARGAIN of a LIFETIME.
 	11c97767-5da9-4fea-82d6-d9f56a03efae = Це просто АКЦІЯ НА ВСЕ ЖИТТЯ!
@@ -10449,7 +10449,7 @@
 	573fa5a3-cef6-4244-a1a5-a9ee901bca56 = Тільки сьогодні, я додам набір кліщів.
 
 	////3480. ORIGINAL: I'm sold. Put me through to sales line!
-	bbeacea6-4a8f-44c0-960c-3086f586718e = Вже я вже купую, звяжіть з відділом продаж!
+	bbeacea6-4a8f-44c0-960c-3086f586718e = Я вже продаю, звяжіть мене з відділом продаж!
 
 	////3481. ORIGINAL: Stocks are getting low folks! Call now!
 	60358177-6e51-42e4-9cfc-3de7745dc31c = На складі зовсім нічого не залишилось, Телефонуйте вже!
@@ -10458,7 +10458,7 @@
 	fb40646a-160c-4709-9030-c5d0c33823de = Як ви? З вами кулінарне шоу!
 
 	////3483. ORIGINAL: Now today's recipe is a family favorite: pie!
-	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = Сьогодні у меню те що сподобається всім - пиріг!
+	1cfcfacb-bc5a-4a72-a353-a0b696e1dc35 = Сьогодні у меню те що сподобається всім — пиріг!
 
 	////3484. ORIGINAL: And not the sweet cherry pie kind...
 	d5a4b433-df99-4c56-b37c-9c42756fd528 = І не простий солодкий пиріг з вишень...
@@ -10473,16 +10473,16 @@
 	9c64c5ec-7e36-43d0-8e64-91859b927eba = Спочатку зробимо основу для пирога.
 
 	////3488. ORIGINAL: Mix in some flour, yeast, sugar and butter.
-	68fc612e-bf5d-40dd-a345-7f0314894861 = Змішайте борошно, дріжджі, цукор і масло .
+	68fc612e-bf5d-40dd-a345-7f0314894861 = Змішайте борошно, дріжджі, цукор і масло.
 
 	////3489. ORIGINAL: Use all that with your rolling pin...
-	158d96f8-9f48-4f28-809c-cd97a5409876 = тепер сористуйтесь качалкою...
+	158d96f8-9f48-4f28-809c-cd97a5409876 = тепер скористайтеся качалкою...
 
 	////3490. ORIGINAL: That right there is a Pie Preparation!
-	d606fe94-c699-43a3-8260-cfdec2ecbe50 = І заготовка до пирога готова.
+	d606fe94-c699-43a3-8260-cfdec2ecbe50 = А тепер робимо сам пиріг!
 
 	////3491. ORIGINAL: Wrap in your lamb or mutton, your leeks and your carrots.
-	49b860f4-5611-4b14-962e-2e6ffb16c155 = Розмістіть в середині баранину, цибулю-порей і морку.
+	49b860f4-5611-4b14-962e-2e6ffb16c155 = Розмістіть в середині баранину, цибулю порей і моркву.
 
 	////3492. ORIGINAL: And season to taste!
 	30ac0d85-270f-47c4-afa2-bf5aca404f84 = додайте приправ!
@@ -10494,7 +10494,7 @@
 	9668d72c-1d0c-4d0f-8dae-70f0eb10e98d = Шоу сьогодні спеціально для дівчат!
 
 	////3495. ORIGINAL: In my experience ladies LOVE stairs!
-	349efa40-ae15-46c6-96bb-3f4114d61309 = На скільки я знаю дівчата ЛЮБЛЯТЬ сходи!
+	349efa40-ae15-46c6-96bb-3f4114d61309 = На скільки я знаю, дівчата ЛЮБЛЯТЬ сходи!
 
 	////3496. ORIGINAL: They're smilin' when they go up them...
 	2b54a98e-1358-49e9-8033-3661b2e7d0f2 = Вони посміхаються коли по них підіймаються...
@@ -10509,10 +10509,10 @@
 	781b56bf-9b2e-455e-9b03-6540c5542ae8 = Вісім планок! Вісім цвяхів! і ПРО-сунуте знання Буді-вни-цтва!
 
 	////3500. ORIGINAL: Gonna need some more over...Here...
-	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Ще чучуть і... Ось...
+	4b1e5f36-dbc8-4ac9-afdf-987190dbba41 = Ще трошки і... Ось...
 
 	////3501. ORIGINAL: What goes good at the top of a flight of stairs?
-	b050eeb9-5e91-4c89-a023-e97a0677354e = А що б гарно виглядато зверху на сходах?
+	b050eeb9-5e91-4c89-a023-e97a0677354e = А що б гарно виглядало зверху на сходах?
 
 	////3502. ORIGINAL: A table with a drawer in it, right? That make you yee-hah?
 	71137512-25bd-4173-886f-2479778cc093 = Столик з висувним ящиком! Аж хочеться гукнути Ї-ї-ха!
@@ -10530,13 +10530,13 @@
 	224cfa55-b945-4883-b436-8bdda1b74b67 = П'ять планок! П'ять цвяхів! Вперед!
 
 	////3507. ORIGINAL: That's enough for this week, huh?
-	9a3212d2-64ea-4338-a2e1-554c3dad3782 = На чей тиждень для вас достатньо.
+	9a3212d2-64ea-4338-a2e1-554c3dad3782 = На цей тиждень для вас достатньо.
 
 	////3508. ORIGINAL: If you're wantin' more - I'll be upstairs.
 	68fcd60c-72c0-402e-bfa8-4fcb2c09af36 = Якщо вам і цього замало, то я на верху.
 
 	////3509. ORIGINAL: Hey, it's me. Dean - back with some nature.
-	2f29b7e4-f698-4339-aeb0-653303d4a031 = Вітаю, це я - Дін. знову з природою.
+	2f29b7e4-f698-4339-aeb0-653303d4a031 = Вітаю, це я — Дін. знову з природою.
 
 	////3510. ORIGINAL: Now I hate killing little creature guys.
 	660bdbdf-eb14-494d-ad94-a7a3d5492a78 = Я не люблю вбивати маленьких тваринок.
@@ -10551,7 +10551,7 @@
 	3e3dc4ba-124a-4db2-95bd-e64a66f7704c = Це пастка яку ви робите з дерева
 
 	////3514. ORIGINAL: Inside it you trap stuff.
-	21699af6-00ab-43a2-849f-4ec246019801 = нею лювлять всяку дрібноту.
+	21699af6-00ab-43a2-849f-4ec246019801 = нею ловлять всяку дрібноту.
 
 	////3515. ORIGINAL: So right now I'm taking this saw to three planks.
 	e5a10065-d958-4e40-998c-27f9278911ae = Беремо пилку, три планки.
@@ -10581,22 +10581,22 @@
 	6e49f4b3-8706-413e-a92d-5f03f201eea6 = Можливо знайдемо маленьку тваринку.
 
 	////3524. ORIGINAL: Ready for the pot.
-	45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518 = Яку залишиться кинути в кастрюлю.
+	45e706f7-6b9b-4d1c-a9b4-2f5b1ee11518 = Яку залишиться кинути в каструлю.
 
 	////3525. ORIGINAL: Once you've killed and gutted him anyway.
-	9df26228-fd2d-45b6-94ac-18729eda5d8c = Звичайно після того як вб'єте і випатраєте.
+	9df26228-fd2d-45b6-94ac-18729eda5d8c = Звичайно після того, як вб'єте і випатраєте.
 
 	////3526. ORIGINAL: It Steams! It Broils! It can even fricassee!
 	2fcd2a97-8657-4d30-af3b-4c8ae7d15ef8 = Воно парить! Воно жарить! Воно навіть робить фрикасе!
 
 	////3527. ORIGINAL: What is this amazing machine Diane?
-	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = ЧЩо це за чудо маниша, Діано?
+	0fdb4770-75f6-4f75-ba50-f1020b3acf40 = Що це за чудо машина, Діано?
 
 	////3528. ORIGINAL: Why it's the Harakka all-purpose slow-broiler, from Scandinavia!
-	4e3d4f81-29aa-4e1e-9965-df044395234f = Так це ж 'Harakka', мультиварка повільного приготування з Скандинавії.
+	4e3d4f81-29aa-4e1e-9965-df044395234f = Так це ж 'Harakka', мультиварка повільного приготування зі Скандинавії.
 
 	////3529. ORIGINAL: It had NO idea that Scandinavia was such an AMAZING place!
-	55cb9d4b-c878-42b7-a601-e54d9f7b4d9b = Я навіть і не думав, що Скандинавія - таке гарне місце!
+	55cb9d4b-c878-42b7-a601-e54d9f7b4d9b = Я навіть і не думав, що Скандинавія — таке гарне місце!
 
 	////3530. ORIGINAL: Well now you do! Have you seen me do this yet?
 	cb1be025-e69b-48fc-926b-c33d192ff1de = Тепер ти знаєш! Чи ти бачив, як я готую в ній?
@@ -10605,7 +10605,7 @@
 	f63f3fe0-18ee-48c1-8aa9-ac7947c9d3c5 = Неймовірно.
 
 	////3532. ORIGINAL: Uhuh!
-	fa6f8bf0-be16-4c8c-ac28-35cb5edbd6ee = Тай таке!
+	fa6f8bf0-be16-4c8c-ac28-35cb5edbd6ee = Є таке!
 
 	////3533. ORIGINAL: And what can I put in there?
 	9324de03-8d2b-42ed-ac5e-6d2a0e1efb18 = А що ще в ній можна приготувати?
@@ -10620,7 +10620,7 @@
 	8429889d-1767-46ff-911d-ff27774c9a02 = Що?
 
 	////3537. ORIGINAL: It's a DREAM to clean. Just watch.
-	abe8fe36-5e35-48a9-9a61-c1f091e37bb9 = Її мити - одне задоволення! Ти тільки подивись!
+	abe8fe36-5e35-48a9-9a61-c1f091e37bb9 = Її мити — одне задоволення! Ти тільки подивись!
 
 	////3538. ORIGINAL: That is amazing. How do I get one?
 	5668ae1e-7da2-4543-a501-a6d2a75d9f8c = Надзвичайно! Де мені купити таку штуку собі?
@@ -10635,10 +10635,10 @@
 	e9d27efc-d1ec-4462-b09e-2416564d6d9a = Маркетингові дослідження, обожнюю.
 
 	////3542. ORIGINAL: It's Dean - back with Exposure Survival!
-	4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e = Я Дін і це - 'Мистецтво виживання'.
+	4ec7eb7a-8b00-4fa2-95de-6286ba8cb83e = Я Дін і це — 'Мистецтво виживання'.
 
 	////3543. ORIGINAL: Hey guys! Welcome back to Nature!
-	d3279147-c24a-4441-991f-729d6804a4c8 = Привіт! Вітаю вас на прирроді!
+	d3279147-c24a-4441-991f-729d6804a4c8 = Привіт! Вітаю вас на природі!
 
 	////3544. ORIGINAL: All the time people ask: "Dean - where do you find all this stuff?"
 	ea4dcbf6-f658-4be6-969f-411b88da5ff8 = Люди завжди питаються: 'Дін, звідки в тебе ці всі речі?'
@@ -10650,16 +10650,16 @@
 	329b4fd1-cc3f-4a11-8afc-ceccd9fcb5a8 = Для таких питань є дві відповіді.
 
 	////3547. ORIGINAL: One is the paperclip: which stays on me at ALL times.
-	ef497181-a22d-4e8b-8870-2187d81f285b = По-перше скріпка, котра завжди зі мною.
+	ef497181-a22d-4e8b-8870-2187d81f285b = По-перше, скріпка, котра ЗАВЖДИ зі мною.
 
 	////3548. ORIGINAL: The second is foraging.
-	dd875aa3-b6ff-4418-a377-35bdee71f20e = По-друге - збиральництво!
+	dd875aa3-b6ff-4418-a377-35bdee71f20e = По-друге — збиральництво!
 
 	////3549. ORIGINAL: It's amazing the sort of stuff that nature can provide.
 	3f50871d-a047-4314-af45-bbdf5d0f4782 = Ви не уявляєте скільки всього може дати природа.
 
 	////3550. ORIGINAL: So next time you're in the woods: open your eyes.
-	b34a4abf-d023-4eb9-b15b-9f58c2b37b02 = Тому наступного разу як будете в лісі - просто відкрийте очі
+	b34a4abf-d023-4eb9-b15b-9f58c2b37b02 = Тому наступного разу як будете в лісі — просто відкрийте очі
 
 	////3551. ORIGINAL: Look around.
 	1cc3b153-1e07-4d52-a685-99322df5a52b = Озирніться.
@@ -10680,10 +10680,10 @@
 	989baf87-0f8b-4d53-9724-1c0bb92728e2 = Цей будинок був сумним та темним, але...
 
 	////3557. ORIGINAL: ...with Connall and Coble overhead lights - life is illuminated.
-	6786ac9b-85ba-4299-b029-132131447ad4 = ... з світильниками 'Connall and Coble' - життя ясравішає.
+	6786ac9b-85ba-4299-b029-132131447ad4 = ... зі світильниками 'Connall and Coble' — життя яскравішає.
 
 	////3558. ORIGINAL: I'll see you later honey!
-	3350eb97-b888-45f4-972e-14e9b179d146 = ДДо зустрічі мила!
+	3350eb97-b888-45f4-972e-14e9b179d146 = До зустрічі мила!
 
 	////3559. ORIGINAL: Bye sweetie. Back at seven for pot roast!
 	94480020-c1de-47c8-931a-914c95174563 = До зустрічі милий! Після роботи буде печеня.
@@ -10701,10 +10701,10 @@
 	4666e4b7-d2d7-416d-b4dc-afd6b0d5f117 = Зроби свій день світлішим!
 
 	////3564. ORIGINAL: Now he's gone - I'll let you into a secret.
-	9b4ce616-8e66-4b0f-823f-ff23c01cdeb4 = І доки його немає - я поділюсь секретом.
+	9b4ce616-8e66-4b0f-823f-ff23c01cdeb4 = І доки його немає — я поділюсь секретом.
 
 	////3565. ORIGINAL: Order today and you can bring life back into your home...
-	8e4b219c-1ad4-4179-b730-53902d9f97a0 = Замовляйте сьогодні, і ви повернете життя в свій дім...
+	8e4b219c-1ad4-4179-b730-53902d9f97a0 = Замовляйте сьогодні, і ви повернете життя у свій дім...
 
 	////3566. ORIGINAL: ... with 10% off every order.
 	aedd5570-53cd-423a-b9fa-e841138c6b3a = ... 10% знижки за кожне замовлення!
@@ -10728,7 +10728,7 @@
 	024f1e84-0a68-4179-af7b-f7fe07f8b036 = То що ж робити якщо ви далеко від води?
 
 	////3573. ORIGINAL: What are you going to do when the sky stops providing?
-	ca117ee4-b696-452c-81cd-cb27acafad4a = Що ж ви будете робити, коли непо перестане надавати?
+	ca117ee4-b696-452c-81cd-cb27acafad4a = Що ж ви будете робити, коли небо перестане забезпечувати вас?
 
 	////3574. ORIGINAL: I'm talking rain guys.
 	d1996bb9-c634-4f62-8de1-2c15328086c8 = Я говорю про дощ.
@@ -10737,7 +10737,7 @@
 	37354046-9ab5-4b76-ac75-9d45f8ca9f6f = Зберігання дощу, чи води, необхідно для виживання.
 
 	////3576. ORIGINAL: So build a Rain Collector Barrel to collect water.
-	51c11cc2-1a7d-48da-bd36-3fe363fe5a27 = Тому побудуйте бочку для збору дощової води .
+	51c11cc2-1a7d-48da-bd36-3fe363fe5a27 = Тому побудуйте бочку для збору дощової води.
 
 	////3577. ORIGINAL: Take four wooden planks, four nails and...
 	2b119fb1-53d7-495a-a1ba-b3f995696f67 = Візьміть чотири планки, чотири цвяхи...
@@ -10764,7 +10764,7 @@
 	85b904e0-14e3-4daf-b354-33a7eb31df83 = Як ви? Ви на кулінарному шоу!
 
 	////3585. ORIGINAL: Today we're going to settle something!
-	c1683575-201b-4450-a96d-6f11c257d642 = Сьогодні з в вами дещо вирішимо!
+	c1683575-201b-4450-a96d-6f11c257d642 = Сьогодні ми з вами дещо вирішимо!
 
 	////3586. ORIGINAL: Something once and for all!
 	80b0669b-91a1-4bdb-bc99-574fc3affb40 = Раз і назавжди!
@@ -10785,19 +10785,19 @@
 	52155001-f962-44d8-ad8c-765112b1fde4 = Ми так само як і 'Triple-N', ще досі ведемо трансляцію...
 
 	////3592. ORIGINAL: ...on the developing situation in Kentucky.
-	3a54ce0d-534f-489d-b41a-e5698f19b881 = ... про ситуацію в Кентукі.
+	3a54ce0d-534f-489d-b41a-e5698f19b881 = ... про ситуацію в Кентуккі.
 
 	////3593. ORIGINAL: So let's support the our boys, people.
-	daf1795b-5995-4bbe-bf76-bb1c37d16205 = то ж давайте підтримаємо наших хлопців.
+	daf1795b-5995-4bbe-bf76-bb1c37d16205 = то ж підтримаймо наших хлопців.
 
 	////3594. ORIGINAL: I'm Stephanie O'Donoghue. This is Hollywood Insider!
-	1b736730-f98b-4e8c-bb73-fed756cd48e9 = Мене звати Стефані О'Донох'ю в 'Оглядач Голівуду'.
+	1b736730-f98b-4e8c-bb73-fed756cd48e9 = Мене звати Стефані О'Донох'ю в 'Оглядач Голлівуду'.
 
 	////3595. ORIGINAL: The Forgotten Element is the latest blockbuster to hit the big screen...
 	bb91a098-e88b-489c-8aca-2ad60ed61ad0 = 'Забуті Елементи' - новий фільм, який вийшов на великий екран...
 
 	////3596. ORIGINAL: ... and, as ever, Hollywood Insider had EXCLUSIVE access to the stars!
-	13404b7f-80e9-4fff-96ef-0a205a371f9f = ...і як завжди 'Оглядач Голівуду' бере ЕКСКЛЮЗИВНЕ інтерв'ю у зірок цього фільму!
+	13404b7f-80e9-4fff-96ef-0a205a371f9f = ...і як завжди 'Оглядач Голлівуду' бере ЕКСКЛЮЗИВНЕ інтерв'ю у зірок цього фільму!
 
 	////3597. ORIGINAL: My name's Stephanie O'Donoghue, and I'm here with Cindy Craddock.
 	ea0e4801-8ee4-45bb-a360-fe31df050e2f = Мене звати Стефані О'Донох'ю та зі мною Сідні Кредок.
@@ -10806,7 +10806,7 @@
 	a6b00373-e902-4a7c-aa40-880eb5b42aa0 = Я подивилась фільм, Сідні, і він ЧУДОВИЙ.
 
 	////3599. ORIGINAL: How are you dealing with all this positive feedback?
-	ea40d57d-4f1e-461e-817c-5fcaba25cb27 = Як справляєшся з позитивних відгукаами про фільм?
+	ea40d57d-4f1e-461e-817c-5fcaba25cb27 = Як справляєшся з позитивних відгуками про фільм?
 
 	////3600. ORIGINAL: Oh I hate it! No, just kidding!
 	f4113fb3-1325-44c0-82a7-264955b7910c = О, я їх ненавиджу! Жартую!
@@ -10821,7 +10821,7 @@
 	8693df23-2826-445d-8a37-d3d6e48ca6b4 = Звичайно, важка. Мені треба було увійти в образ, бути цим персонажем.
 
 	////3604. ORIGINAL: Sometimes I'd just sit in my trailer and I'd feel overwhelmed.
-	58b34105-fd64-475d-a730-55c5878132d4 = Інколи, я сиділа в своєму трейлері та почувала себе пустою.
+	58b34105-fd64-475d-a730-55c5878132d4 = Інколи, я сиділа у своєму трейлері та почувала себе пустою.
 
 	////3605. ORIGINAL: I'd just cry...
 	1221580a-c3c6-412d-908c-50f2e5ad66e3 = Я просто плакала...
@@ -10842,7 +10842,7 @@
 	6582e9e2-3692-4fb9-b240-6432e784552d = Хах, давайте не будемо лізти поперед батька в пекло!
 
 	////3611. ORIGINAL: But if the Academy are watching! Go for it!
-	4248b8ff-ae68-4853-8ea8-7b50bef1062f = Та якщо академія нас дивиться то я всіма руками за!
+	4248b8ff-ae68-4853-8ea8-7b50bef1062f = Та якщо академія нас дивиться, то я всіма руками за!
 
 	////3612. ORIGINAL: Cindy, the movie's great - and we love you!
 	4c7905f3-7da2-467e-b354-acfb493ca8a6 = Сідні, фільм чудесний, всі його обожнюють.
@@ -10857,7 +10857,7 @@
 	e49f580c-8cfb-409a-910d-c285ae42f04a = І знову ми передаємо слово колегам з 'Triple-N'.
 
 	////3616. ORIGINAL: Thanks for joining us. We have an announcement on the Knox crisis:
-	889fb21e-cd0c-4b50-82f0-8f9265a6b169 = Дякуємо що приєднались. У нас є новина про кризис Нокс:
+	889fb21e-cd0c-4b50-82f0-8f9265a6b169 = Дякуємо що приєднались. У нас є новина про кризу Нокс:
 
 	////3617. ORIGINAL: With no confirmation of the violent scenes some claim to have witnessed.
 	c9c1f0b0-be4d-4e02-ae0b-93af0159ead1 = Без підтверджень, але кажуть що відбувається насилля і є свідки.
@@ -10866,7 +10866,7 @@
 	ebb52799-6489-4c6d-9afe-ec1ada4cb72c = Все ще ніяких пояснень щодо відключення телефонних ліній:
 
 	////3619. ORIGINAL: ... and evacuated to the North seem to be saying 'No'.
-	08e0c50c-355d-4267-a568-3e86a3c7e39d = ... Ті що були евакуйовані на північ кажуть 'Ні' .
+	08e0c50c-355d-4267-a568-3e86a3c7e39d = ... Ті що були евакуйовані на північ кажуть 'Ні'.
 
 	////3620. ORIGINAL: We're now returning you to your regular programming.
 	eb7f9886-893b-4f5b-83d6-3fa7874a3b72 = І ми повертаємось до регулярної трансляції.
@@ -10878,22 +10878,22 @@
 	d4e2d45f-5706-4289-85c2-a5814dd36978 = [img=music] Вууу. [img=music]
 
 	////3623. ORIGINAL: You're way out of line Hargrave.
-	9f66988e-7ced-496e-af44-9b945b81f8ce = Харгрейв, ти вже давно за лінією.
+	9f66988e-7ced-496e-af44-9b945b81f8ce = Харгрейв, ти вже перетнув межу.
 
 	////3624. ORIGINAL: You think this is a game?
 	c3e43834-8fff-4679-8469-2ea6ec5a505c = Ти вважаєш що це гра?
 
 	////3625. ORIGINAL: You cannot expect the FBI to fund these... ghost hunts.
-	680c709e-dab2-467b-a859-41954c5c1957 = ФБР не буде спонсорувати це... полювання на привідів.
+	680c709e-dab2-467b-a859-41954c5c1957 = ФБР не буде спонсорувати це... полювання на привидів.
 
 	////3626. ORIGINAL: Ghost hunts? This is real. This is science.
-	245764d0-5054-4daa-b135-7214af803dba = Полювання на привідів? Це - реально, це - наука!
+	245764d0-5054-4daa-b135-7214af803dba = Полювання на привидів? Це - реально, це - наука!
 
 	////3627. ORIGINAL: And why should the Federal Bureau of Investigation be involved?
 	de3a8f28-52e4-42ca-a566-bf530b6c343e = І для чого ФБР має бути втягнуте?
 
 	////3628. ORIGINAL: Because a man, a father of two children, was found dead.
-	33ba1ad8-b33b-40d1-948f-83aa2b718a32 = Тому що вбили чоловіка. батька двох дітей.
+	33ba1ad8-b33b-40d1-948f-83aa2b718a32 = Бо вбили чоловіка, батька двох дітей.
 
 	////3629. ORIGINAL: Then find the murderer!
 	5b9a43d3-9a13-4ae4-b70b-da52bb9f6ebc = Тоді знайдіть вбивцю!
@@ -10902,7 +10902,7 @@
 	35410de1-22d9-4a67-8ea7-4a4f16a13754 = Я знайшов його! Він просто на іншому рівні сприйняття!
 
 	////3631. ORIGINAL: A ghost turned his head inside out? Do you want me fired?
-	a8caa131-efec-4dec-b1cb-f4cbf475a31c = Привид вивернув його голову на зовні? ти хочеш щоб мене звільнили?
+	a8caa131-efec-4dec-b1cb-f4cbf475a31c = Привид вивернув його голову на зовні? Ти хочеш, щоб мене звільнили?
 
 	////3632. ORIGINAL: I'm shutting you down!
 	8b4a70ca-2a13-47b5-b65d-90289a8ccd8b = Я закриваю вас!
@@ -10929,16 +10929,16 @@
 	3eecc27d-b503-4623-a63e-c0e089d328ac = Життя ще більш дивне, коли ти радник королеви в британському суді.
 
 	////3640. ORIGINAL: I've learned rather a lot of tough lessons today.
-	612026be-3c5f-40de-b75e-2b0973d05b97 = Сьогодні я отримав декільва важких уроків.
+	612026be-3c5f-40de-b75e-2b0973d05b97 = Сьогодні я отримав декілька важких уроків.
 
 	////3641. ORIGINAL: Lessons about love. Lessons about life.
 	5aa763a4-f9b8-44d6-b9f8-99f69abf815e = Уроків про любов. Уроків про життя.
 
 	////3642. ORIGINAL: Lessons about legislature...
-	52f8f07a-229a-4484-a4db-ee8d8fe644fb = Уроків про закородавчу владу...
+	52f8f07a-229a-4484-a4db-ee8d8fe644fb = Уроків про законодавчу владу...
 
 	////3643. ORIGINAL: Albert, are you asking me out on a date?
-	7ba94cc7-e5e3-4554-9b6f-3c842d7871fa = Альберт, ти мена на побачення кличеш?
+	7ba94cc7-e5e3-4554-9b6f-3c842d7871fa = Альберт, ти мене на побачення кличеш?
 
 	////3644. ORIGINAL: Golly gosh. I rather think I just did.
 	e004265b-cbff-4488-af74-2f4b5bdcc028 = Боже мій. Я радше б думав, що щойно зробив.
@@ -10959,7 +10959,7 @@
 	fa0593eb-eb20-4c72-89c7-ff6faac03c6e = Я можу почекати. Напевно.
 
 	////3650. ORIGINAL: I'm so sorry Eliza. I'll see you in Maths this afternoon?
-	9ad16d63-09d1-4447-87dc-e4d695bb110a = Еліза, мені так прикро. Зустрінемося на матиматиці вечером?
+	9ad16d63-09d1-4447-87dc-e4d695bb110a = Еліза, мені так прикро. Зустрінемося на математиці сьогодні?
 
 	////3651. ORIGINAL: Sir, the Defence has been called Sir.
 	18c65067-4204-4f0b-a8a9-6776a3c548e5 = Сер, Захист вже покликано.
@@ -11019,7 +11019,7 @@
 	f1acf83c-26c2-4899-b616-cb5b016c1be4 = Ти думаєш я цього не знав, Метнел?
 
 	////3670. ORIGINAL: Well, clearly - as otherwise why would you be going to Cincinnati?
-	1c28e915-a563-4557-b089-bb1e703598ab = Ясно що не знали - навіщо тобі було їхати в Цинцинатті?
+	1c28e915-a563-4557-b089-bb1e703598ab = Ясно що не знали - навіщо тобі було їхати в Цинциннаті?
 
 	////3671. ORIGINAL: Because in Cincinnati there's a ghost who turned a man's head inside-out!
 	7da0c766-9515-4a79-b06b-ac5dde1393ce = Тому що там знаходиться привид, що вивернув чоловіку голову!
@@ -11037,7 +11037,7 @@
 	7083ec42-78f1-4c11-98c4-d0af273e9e0b = Але привиди що вивертають голови?
 
 	////3676. ORIGINAL: It just doesn't make sense.
-	1662d7ce-0124-4640-ae0e-7a3c1fa94e37 = Це не вкладається в логові.
+	1662d7ce-0124-4640-ae0e-7a3c1fa94e37 = Це просто якась нісенітниця.
 
 	////3677. ORIGINAL: Well I'm going.
 	3df9a0d5-ee8f-4a06-9d20-1eb6abbc6629 = Що ж, Я їду.
@@ -11049,13 +11049,13 @@
 	5265b4ad-34ea-46af-900c-e73abcd74523 = Я вам повідомляю: в ніч 5-го Липня...
 
 	////3680. ORIGINAL: ... my client was *not* atop the roof of Greggs the pastry chef!
-	1dcdb35c-ffc7-4fa1-9622-1f8c2f744277 = ... мій клієнт НЕ був на даху будинка кондитера Ґрега.
+	1dcdb35c-ffc7-4fa1-9622-1f8c2f744277 = ... мій клієнт НЕ був на даху будинку кондитера Ґрега.
 
 	////3681. ORIGINAL: He was, in fact, saving the life of the Earl of Basildon.
 	99a00051-0073-4b94-b8e7-d32431e70b20 = В цей момент він рятував життя Ерлу з Базілдону.
 
 	////3682. ORIGINAL: Through the donation of... a kidney.
-	c6167fae-b87d-4cb8-924f-f713e37afe4f = Він пожертував йому... свою нирку.
+	c6167fae-b87d-4cb8-924f-f713e37afe4f = Він пожертвував йому... свою нирку.
 
 	////3683. ORIGINAL: <gasps from the courtroom>
 	2912692f-6ff2-4beb-b655-19a0ea440d0a = <здивовані зітхання в залі>
@@ -11070,7 +11070,7 @@
 	53c9f3ad-f471-425e-a1b0-a02d6471ce79 = Відхилено!
 
 	////3687. ORIGINAL: Mr Wellen, do you have any evidence for this outlandish claim?
-	f0e5e901-003b-4c4a-ad1b-13066ec5628a = Містере Веллен, в вас є докази цієї дивовижної заяви?
+	f0e5e901-003b-4c4a-ad1b-13066ec5628a = Містере Веллен, у вас є докази цієї дивовижної заяви?
 
 	////3688. ORIGINAL: I have two pieces of evidence!
 	c61668cd-a031-46eb-b7d1-df4532df5b92 = Навіть два!
@@ -11085,7 +11085,7 @@
 	dffd93b2-cc21-44fb-8195-6d369229c136 = По-друге!
 
 	////3692. ORIGINAL: The defence would like to call: the Earl of Basildon!
-	426841a2-483a-4d63-853c-15001b726168 = Змхист хоче викликати Ерла з Базілдону!
+	426841a2-483a-4d63-853c-15001b726168 = Захист хоче викликати Ерла з Базілдону!
 
 	////3693. ORIGINAL: How is he doing this? He's only seventeen!
 	053f4af7-0b0e-45ab-a1bd-63b7091a0f06 = Як він це робить!? йому всього сімнадцять!
@@ -11094,37 +11094,37 @@
 	4e76091e-9469-4004-9b8e-066d57cd91bc = 'Др.Оїди' - це останній блокбастер що вийшов на екрани...
 
 	////3695. ORIGINAL: ... and it's made inside a COMPUTER.
-	b4fc8156-e705-407f-b72a-29ed38ddfe5d = ... і він був зроблений всередині КОМП'ЮТЕРА .
+	b4fc8156-e705-407f-b72a-29ed38ddfe5d = ... і він був зроблений всередині КОМП'ЮТЕРА.
 
 	////3696. ORIGINAL: The HILARIOUS comedian Charles McCoy is lead robot.
-	28fe6e83-37c3-407b-8280-098deaefd5ff = ВЕСЕЛИЙ комік Чарсьз МакКой в ролі головного робота.
+	28fe6e83-37c3-407b-8280-098deaefd5ff = ВЕСЕЛИЙ комік Чарльз МакКой в ролі головного робота.
 
 	////3697. ORIGINAL: And WE had EXCLUSIVE access.
 	3968aadc-6fbb-47d6-b6f1-27bb56dd2c53 = І в НАС був ЕКСКЛЮЗИВНИЙ доступ.
 
 	////3698. ORIGINAL: This is Stephanie O'Donoghue, here with Charles McCoy!
-	08d126b7-680b-4dbc-aa0c-d7e7b4558b5e = З вами Стефані О'Донох'ю зі сною  Чарльз МакКой!
+	08d126b7-680b-4dbc-aa0c-d7e7b4558b5e = З вами Стефані О'Донох'ю, а також Чарльз МакКой!
 
 	////3699. ORIGINAL: Charles, how do the nerds do this?!
-	da3f82b3-0a5c-4b2b-a682-2ba780b437be = Чарльзе, як ботани це роблть?!
+	da3f82b3-0a5c-4b2b-a682-2ba780b437be = Чарльзе, як ботани це роблять?!
 
 	////3700. ORIGINAL: It's a cartoon, but it's all... in a computer?
 	ede51031-3dde-493a-9a5d-153847f89499 = Це мультфільм, але це все... в комп'ютері?
 
 	////3701. ORIGINAL: I know right? Those guys wear glasses and are all like 'horrdihooorrr'!
-	96b4e6fb-e957-42fa-9980-3541cf459091 = Вражає, правда? Ці хлопці носять окуляри і постійно бурмочать!
+	96b4e6fb-e957-42fa-9980-3541cf459091 = Вражає, правда? Ці хлопці носять окуляри та постійно бурмочуть!
 
 	////3702. ORIGINAL: I was like - how come these dorks can do something so cool?
-	4519255b-aac9-48e3-8321-c75210c67b32 = Я спочатку був вращений. Як ці придурки можуть зробити щось круте?
+	4519255b-aac9-48e3-8321-c75210c67b32 = Я спочатку був вражений. Як ці придурки можуть зробити щось круте?
 
 	////3703. ORIGINAL: And it is cool, right?
 	d44031af-c651-43ec-be6b-2078a99f6c9e = І це круто, правда?
 
 	////3704. ORIGINAL: It sure is. I was A-MAZED.
-	273cbb94-b907-4f8f-98ee-a3a842df7a3f = Це дійно так. Я теж в захопленні.
+	273cbb94-b907-4f8f-98ee-a3a842df7a3f = Це дійсно так. Я теж в захопленні.
 
 	////3705. ORIGINAL: It's so funny too!
-	390cb6ca-0a67-4e40-85a7-41d59e681e2b = І це все щей смішно!
+	390cb6ca-0a67-4e40-85a7-41d59e681e2b = І це все ще й смішно!
 
 	////3706. ORIGINAL: How did you prepare for your role as Dr Oids?
 	c819e3b2-fe41-4f1c-ae8f-e5cc618e646d = Як ви готувались до своєї ролі в Доктора Оїди?
@@ -11142,7 +11142,7 @@
 	e49a2bab-7655-4806-8844-86c1166e340d = Я побудував лише декілька!
 
 	////3711. ORIGINAL: Charles, you're incorrigible - but I love you!
-	4aa164db-a232-4fe7-8e35-38f29bf49148 = Чарльз, тебе невиправний, за це тебе і люблять!
+	4aa164db-a232-4fe7-8e35-38f29bf49148 = Чарльз, ти невиправний, за це тебе і люблять!
 
 	////3712. ORIGINAL: I know right?!
 	06c1a644-a039-4e70-85f0-26bb3bc3bb00 = Я знаю.
@@ -11154,7 +11154,7 @@
 	412cb41f-ef3b-4fc8-bbc8-0d2c40f9b040 = Єй, це ж моя робота!
 
 	////3715. ORIGINAL: Back to the studio!
-	06bc5bbf-559d-4176-90a8-0be914477b5d = Повертаємоь назад до студії!
+	06bc5bbf-559d-4176-90a8-0be914477b5d = Повертаємось назад до студії!
 
 	////3716. ORIGINAL: That's my job too!
 	412138d9-bd8f-40db-ae10-9cbee66e90b3 = Це теж моя робота!
@@ -11247,7 +11247,7 @@
 	c2a827ed-51db-4095-a45c-dd9130fd9fe4 = Звичайно, якщо глянути на це як на... квадратне рівняння.
 
 	////3746. ORIGINAL: Ah, so you deigned to join us Mr Wellen QC?
-	01cea554-0ffc-400a-b055-e9d57908a7ab = То що ж, ви дозволили собі до на приєднатись Раднику Веллен!
+	01cea554-0ffc-400a-b055-e9d57908a7ab = То що ж, ви дозволили собі до нас приєднатись Раднику Веллен?
 
 	////3747. ORIGINAL: I'm so sorry sir. I was needed in court.
 	dff451e9-f2e1-47dd-9ffc-0209f0b0667a = Перепрошую, сер. Мене викликали в суд.
@@ -11259,10 +11259,10 @@
 	399d87ae-4e4b-4a4e-a120-068306588b76 = Сідай вже.
 
 	////3750. ORIGINAL: There, next to Ms Tupper-Waring.
-	da160b1e-038e-4f02-a7c2-705cfab1f7e5 = Там біля Місіс Тупер-Варінг.
+	da160b1e-038e-4f02-a7c2-705cfab1f7e5 = Там біля Місис Тупер-Варінг.
 
 	////3751. ORIGINAL: Hello Eliza.
-	f7baea70-b11a-4c9b-853f-66c1d68b558d = Привіт, Еліза.
+	f7baea70-b11a-4c9b-853f-66c1d68b558d = Привіт, Елізо.
 
 	////3752. ORIGINAL: I'm not talking to you.
 	24589dad-9a9f-497c-a88b-3dd358787f07 = Я з тобою не розмовляю.
@@ -11274,7 +11274,7 @@
 	148ad271-361d-47bf-82e3-71a712d7e2f0 = Це буде не зручно.
 
 	////3755. ORIGINAL: I've been asked to the Wetherspoons ball by Edmund Fothergay-Stroud.
-	da43bc0c-e40e-47c7-a8b0-44d50c05a90f = Едмунд Фотергей-Страуд мене запросив на бал в Везерспунс.
+	da43bc0c-e40e-47c7-a8b0-44d50c05a90f = Едмунд Фотергей-Страуд мене запросив на бал у Везерспунс.
 
 	////3756. ORIGINAL: Fothergay-Stroud? The man's a monster!
 	83211f74-11b0-41bc-b496-ba663f9df799 = Фотергей-Страуд? Він справжній монстр!
@@ -11283,7 +11283,7 @@
 	28f9c8a0-b521-48a5-8699-4140f9f38d41 = Але він знайшов на мене час, Альберт.
 
 	////3758. ORIGINAL: He doesn't always dash off to be... Queens Counsel.
-	b4714cfe-fa61-44ed-91af-bb0dfc7e4bcb = Він ніколи на втікав щоб бути... Радником Королеви.
+	b4714cfe-fa61-44ed-91af-bb0dfc7e4bcb = Він ніколи не тікав від чогось, щоб бути... Радником Королеви.
 
 	////3759. ORIGINAL: But, the British judicial system...
 	fb90d1ac-f8b1-40e0-bafa-9a601efd9148 = Але британська судова система...
@@ -11301,7 +11301,7 @@
 	ea414a26-0f52-45ea-ae99-fb658f0ff293 = Увага! Ми перериваємо трансляцію для заяви Президента.
 
 	////3764. ORIGINAL: I've been your best friend since kindergarten Joshie.
-	3e3379b8-d06c-4280-bc2b-17b6978841b2 = Ми були найкращими друзями з садочку, Джоші.
+	3e3379b8-d06c-4280-bc2b-17b6978841b2 = Ми були найкращими друзями з самого дитсадочка, Джоші.
 
 	////3765. ORIGINAL: I know there's something wrong.
 	197baa71-f27c-48b2-987e-92e8ef40f589 = Я знаю що з тобою щось не так.
@@ -11367,22 +11367,22 @@
 	da84fbed-fe8e-4026-b3fc-de040e5fe1b0 = Харгрейв... в голові паморочиться.
 
 	////3786. ORIGINAL: Mantell your nose, it's bleeding.
-	688ba3c9-ca2d-42c2-9efb-c55d3c11a512 = Мантел, в тебе кров з носу.
+	688ba3c9-ca2d-42c2-9efb-c55d3c11a512 = Мантел, в тебе кров з носа пішла.
 
 	////3787. ORIGINAL: I feel like my brain is doing somersaults.
-	c4889a73-1820-49d1-b23b-78a0d68e327c = Здається, мій мозок зараз зробить сальто .
+	c4889a73-1820-49d1-b23b-78a0d68e327c = Здається, мій мозок зараз зробить сальто.
 
 	////3788. ORIGINAL: Mantell! Mantell! Wake up!
 	bd909e4a-a0a2-4faf-b9c8-87906a79ece2 = Мантел! Мантел! Прокинься!
 
 	////3789. ORIGINAL: When she awakes her head will be... inside out.
-	8f03b7d1-d843-477a-a21a-d2bd005d1bac = Коли вона прокинесть, її голова буде ... навиворіть.
+	8f03b7d1-d843-477a-a21a-d2bd005d1bac = Коли вона прокинеться, її голова буде ... навиворіт.
 
 	////3790. ORIGINAL: What? Who are you?
 	462447e8-4bb2-4726-9386-99304acaba11 = Що? Хто ти?
 
 	////3791. ORIGINAL: You have two choices: find out the truth about your father...
-	2f0e31cc-b084-4e12-858a-8579f226dd07 = В тебе є вибір: Або ти знаєш правбу про свого батька...
+	2f0e31cc-b084-4e12-858a-8579f226dd07 = В тебе є вибір: Або ти знайдеш правду про свого батька...
 
 	////3792. ORIGINAL: ... or watch her head go inside out.
 	cf308e39-50b6-4691-8936-219f8f4fa7df = ... або будеш дивитись як її голова вивернеться.
@@ -11400,13 +11400,13 @@
 	5ccc9fe3-77fc-4786-8e39-a25e36e4db19 = <бах!> <бах>
 
 	////3797. ORIGINAL: What... I don't remember what just happened.
-	b57a7b45-f55b-47a5-81a9-4359cc4bcdb6 = Що... Я не пам'ятаю що відболося.
+	b57a7b45-f55b-47a5-81a9-4359cc4bcdb6 = Що... Я не пам'ятаю що відбулося.
 
 	////3798. ORIGINAL: I just got a little closer to the truth Mantell.
-	97fdec46-0bc6-4d0a-b8b2-2e3b6540506b = Мантел, я ще блище до правди.
+	97fdec46-0bc6-4d0a-b8b2-2e3b6540506b = Мантел, я ще балище до правди.
 
 	////3799. ORIGINAL: We're getting closer.
-	d69df4e0-e725-48eb-bdd4-53b72af1a9a2 = Ми вже блище.
+	d69df4e0-e725-48eb-bdd4-53b72af1a9a2 = Ми підбираємося ближче.
 
 	////3800. ORIGINAL: Mr James, this court has found you not guilty...
 	480d089e-e38b-4f44-8103-b11bf324d271 = Містер Джеймс, суд визнає вас невинним...
@@ -11415,28 +11415,28 @@
 	624a7300-1dad-4ce0-843b-ee9ed6283d05 = ... в злочинах нападу і крадіжки у Ґрега Кондитера.
 
 	////3802. ORIGINAL: You may walk from this court a free man.
-	65f3e7fd-2b32-4129-a3cd-8dc6d309b2ba = Ви можете виходти з залу суду як вільна людина.
+	65f3e7fd-2b32-4129-a3cd-8dc6d309b2ba = Ви можете виходити з залу суду як вільна людина.
 
 	////3803. ORIGINAL: Were it not for the quite extraordinary defense raised by Albert Wellen QC...
-	57036de1-6b8a-4ddb-8adb-4bbde419e374 = Якщо б не екстраординараний захост від Радника Альберта Веллена..
+	57036de1-6b8a-4ddb-8adb-4bbde419e374 = Якби не екстраординарний захист від Радника Альберта Веллена..
 
 	////3804. ORIGINAL: Who is only seventeen...
 	9c90c4af-2421-4385-9a87-a2afd1b49582 = Якому всього то сімнадцять...
 
 	////3805. ORIGINAL: The day would have been very different.
-	0e9934f7-0e3b-4f05-acf1-a7fc91aec0dd = Ваш день міг би закінчитись зовсів по іншому.
+	0e9934f7-0e3b-4f05-acf1-a7fc91aec0dd = Ваш день міг би закінчитись зовсім по іншому.
 
 	////3806. ORIGINAL: Congratulations Mr Wellen.
-	fb4115aa-dd20-4d63-91cb-03d450d2781d = Вітаємо Мстер Веллен.
+	fb4115aa-dd20-4d63-91cb-03d450d2781d = Вітаємо Містер Веллен.
 
 	////3807. ORIGINAL: Mr Wellen? Where are you?
 	f70dd78a-91bc-47f5-abba-6bc26b09b2ca = Містер Веллен? Ви де?
 
 	////3808. ORIGINAL: He's gone to the Wetherspoons Ball my Lord!
-	87df0672-813f-43f3-a89a-4ada91fbc366 = Мілорд, Він відправився на бал в Везерспун.
+	87df0672-813f-43f3-a89a-4ada91fbc366 = Мілорд, Він відправився на бал у Везерспун.
 
 	////3809. ORIGINAL: Then let God go with him. The boy is a marvel.
-	0e0e4301-4adc-4157-b5f3-dbb030a5f437 = То нехай господь його оберігає. Хлопець - скарб.
+	0e0e4301-4adc-4157-b5f3-dbb030a5f437 = То нехай Господь його оберігає. Хлопець - скарб.
 
 	////3810. ORIGINAL: <Applause in Courtroom>
 	dd4cce95-7f72-4801-ad15-4ce1ad461f2e = <оплески в залі суду>
@@ -11481,25 +11481,25 @@
 	be9bfd66-020d-450f-be71-80096609834d = Ура! Я просто не можу в це повірити!
 
 	////3824. ORIGINAL: So glad I will not gan hym empty handed like!
-	83f99de4-3876-4c40-b42d-58ec425e7d9c = Я радий що повенусь додому не з пустими руками!
+	83f99de4-3876-4c40-b42d-58ec425e7d9c = Я радий що повернусь додому не з пустими руками!
 
 	////3825. ORIGINAL: We'll see Pauls' next answer, after these messages!
 	18939b5d-b3bf-4596-8ce9-fdddd9590941 = Ми побачимо наступну відповідь Пола після короткого повідомлення!
 
 	////3826. ORIGINAL: I'm Stephanie O'Donoghue. This is Hollywood Insider.
-	c77faff4-852f-4e26-8f71-10013edbace3 = Мене звати Стефані О'Донох'ю. це 'Оглядач Голівуду'.
+	c77faff4-852f-4e26-8f71-10013edbace3 = Мене звати Стефані О'Донох'ю. це 'Оглядач Голлівуду'.
 
 	////3827. ORIGINAL: This week we've seen a terrible story play out...
 	15aee4d7-2b86-469e-a0db-e0a8a173df7f = На цьому тижні ми спостерігали жахливу історію...
 
 	////3828. ORIGINAL: ... one that wouldn't be out of place in the wildest Hollywood dreams.
-	d8f469df-6d6d-43ca-a8ca-37840ffb9b0d = ... яка могла відбутися навіть в настрашніших жахах Голівуду.
+	d8f469df-6d6d-43ca-a8ca-37840ffb9b0d = ... яка могла відбутися навіть у найстрашніших жахах Голлівуду.
 
 	////3829. ORIGINAL: But what do the stars make of the Knox Event?
 	af13219f-7649-43dc-9d9b-da8328548b6c = Але що ж зірки думають про Подію Нокс?
 
 	////3830. ORIGINAL: I spoke to Cindy Craddock, star of The Forgotten Element.
-	e4529530-4652-460f-bc71-ed0b5b9228bc = Я поговорила з Сініді Креддок, зіркою 'Забутих Елементів'.
+	e4529530-4652-460f-bc71-ed0b5b9228bc = Я поговорила з Сінді Креддок, зіркою 'Забутих Елементів'.
 
 	////3831. ORIGINAL: Well it's so sad. Those poor people.
 	25764397-8113-4d02-9ff9-b7ecc9d8d493 = Це гнітить. Ці бідні люди.
@@ -11517,7 +11517,7 @@
 	6f89a97a-8b78-42b8-b585-406457bba6db = Звичайно. Я переживаю за свою маму і свою собаку.
 
 	////3836. ORIGINAL: I'm not sure dogs can catch it Cindy.
-	da0f6e33-aa07-4768-8498-8f19858a30a5 = Мені здається собаки не можуть захворіти цим, Сінді.
+	da0f6e33-aa07-4768-8498-8f19858a30a5 = Мені здається, що собаки не можуть захворіти на це, Сінді.
 
 	////3837. ORIGINAL: Really? That's good! Still: hating this!
 	2db4653f-b21d-4a8d-8f01-134fcb3f7555 = Правда? Це добре! Але все ще - це дратує.
@@ -11529,7 +11529,7 @@
 	8ccb703b-1ff3-4c22-9393-9505692d9414 = Боже, благослови людей в Події Нокс!
 
 	////3840. ORIGINAL: Same from Hollywood Insider!
-	cfc90e86-219b-43f7-b8a8-7bc28cfdb32f = 'Оглядач Голівуду' приєднюється до цього.
+	cfc90e86-219b-43f7-b8a8-7bc28cfdb32f = 'Оглядач Голлівуду' приєднується до цього.
 
 	////3841. ORIGINAL: We're going over to our colleagues at Triple-N for breaking news.
 	c685e182-92ee-48bb-9f82-8c2886afe7c6 = Ми перериваємось для важливих новин від колег з 'Triple-N'.
@@ -11544,7 +11544,7 @@
 	5058fa57-7ca5-4403-adda-c3174ee4617e = На разі ми з колегами з 'Triple-N' освітлюємо події Кризи Нокс.
 
 	////3845. ORIGINAL: <fzzt> gangs of youths <bzzt>
-	22ec4644-2006-4867-a9b3-bf3f702cc9cf = <фззт> банди підітків <бззт>
+	22ec4644-2006-4867-a9b3-bf3f702cc9cf = <фззт> банди підлітків <бззт>
 
 	////3846. ORIGINAL: <bzzt> night of Hell.
 	5386f3fd-fce6-463e-b5a0-18935cca75bb = <бззт> пекельна ніч.
@@ -11562,10 +11562,10 @@
 	64fd355d-9c72-41a7-b048-2187c1e402e1 = Ой-йой. Я думаю... 'Що таке несмачний пиріг?'
 
 	////3851. ORIGINAL: Lots of folk like fish pie RJ. Next try.
-	ab88a320-1026-4249-8794-a1dd52f6e4d9 = Роберт, багато хто люблють рибний пиріг. Наступна спроба.
+	ab88a320-1026-4249-8794-a1dd52f6e4d9 = Роберт, багато хто любить рибний пиріг. Наступна спроба.
 
 	////3852. ORIGINAL: 'What pie is bad... in France?'
-	7a5bc40d-57db-4f7b-96ed-b9870ba63279 = 'Який, пиріг несмачний... в Франції?'
+	7a5bc40d-57db-4f7b-96ed-b9870ba63279 = 'Який, пиріг несмачний... у Франції?'
 
 	////3853. ORIGINAL: I think you're gonna have to let go of the 'bad' thing.
 	4a358bb6-e6df-4172-8876-5ca55e7b1569 = Я думаю вам треба відмовитись від 'несмачного'.
@@ -11592,10 +11592,10 @@
 	e9d29d78-4b75-47ea-99dc-fb376f0219b8 = Сьогодні: Обурення Тінсельтауну щодо Події Нокс.
 
 	////3861. ORIGINAL: Icon Jeff Madingly, star of Rock Paper Scissors, has spoken out!
-	9777cd7f-6177-4ffe-8efc-81c17df9c787 = Джефф Мадінглі, зірка фільму 'Камінь, ножниці, Папір' сказав наступне:.
+	9777cd7f-6177-4ffe-8efc-81c17df9c787 = Джефф Мадінглі, зірка фільму 'Камінь, ножиці, Папір' сказав наступне:.
 
 	////3862. ORIGINAL: Hollywood has been too silent, for too long.
-	e49aadbf-0762-4453-b679-69a72c486173 = Голівуд мовчав, дуже довго.
+	e49aadbf-0762-4453-b679-69a72c486173 = Голлівуд мовчав, дуже довго.
 
 	////3863. ORIGINAL: We knew we didn't know the whole story.
 	3d683abd-ef78-4c94-8c1d-3c2c50094cc6 = Ми знали, що нам не все розказували.
@@ -11604,10 +11604,10 @@
 	c755a457-16bc-43d6-a942-5ecddb5cd393 = Ми підозрювали, що людей вбили.
 
 	////3865. ORIGINAL: But these pictures? These pictures just show true horror.
-	43fc6721-2e1b-4949-9e55-afb086b9d657 = Але ці фотографії... Вони показую. справжній жах.
+	43fc6721-2e1b-4949-9e55-afb086b9d657 = Але ці фотографії... На них справжній жах.
 
 	////3866. ORIGINAL: I, and my colleagues in Hollywood, want to go on the record.
-	11091ee0-6014-4bbb-b7c1-231747654584 = Я і мої колеги в Голівуді, хочемо зробити заяву.
+	11091ee0-6014-4bbb-b7c1-231747654584 = Я і мої колеги в Голлівуді, хочемо зробити заяву.
 
 	////3867. ORIGINAL: We REJECT the actions of the US military.
 	8aed5b1f-489b-491a-8c36-8b68ef0611d5 = Ми проти таких дій зі сторони Армії США.
@@ -11631,7 +11631,7 @@
 	2dbf2206-6cf2-4c41-8b20-91cc612c2f8f = Спершу я хочу привітати директора ФБР Андерсона на наших... зборах.
 
 	////3874. ORIGINAL: Gentlemen, it's a pleasure.
-	1fa5dbf8-eb6f-4398-a2dd-974702b09de0 = Джентельмени, маю честь.
+	1fa5dbf8-eb6f-4398-a2dd-974702b09de0 = Джентльмени, маю честь.
 
 	////3875. ORIGINAL: I'm sure it is. We want to talk to you about Hargrave.
 	0c1d542e-3869-47b6-81c8-17aa2040bc96 = Звичайно. Ми хочемо поговорити з вами про Харгрейва.
@@ -11640,7 +11640,7 @@
 	a17af003-2dec-4b6f-9feb-c72500e99d1d = Харгрейв? Він вже минуле. Не переживайте.
 
 	////3877. ORIGINAL: We want him back Director Anderson.
-	365229fb-355f-45cf-bed6-968db03e9d00 = Ми хочемо щоб він повернувся, Директоре.
+	365229fb-355f-45cf-bed6-968db03e9d00 = Ми хочемо, щоб він повернувся, Директоре.
 
 	////3878. ORIGINAL: That can't happen. The Paranormal department is shut down.
 	2c87fe46-926a-4e49-929e-0a21b6305fc6 = Це не можливо. Паранормальний відділ зачинено.
@@ -11694,7 +11694,7 @@
 	dcc4c36c-3630-477e-a8ac-4dbfdb41f316 = Він зайшов без тебе, правда?  Він монстр!
 
 	////3895. ORIGINAL: Oh Albert. I'm sorry for tiring of your legal success.
-	aa807f63-487f-46a8-b732-e143feb39b67 = Ох, Альберт! Мен так шкода що твій успіх в суді мене втомлювава.
+	aa807f63-487f-46a8-b732-e143feb39b67 = Ох, Альберт! Мен так шкода що твій успіх в суді мене втомлював.
 
 	////3896. ORIGINAL: I understand Eliza.
 	604b3ef6-e16e-4eec-9e69-12e279ae6698 = Я розумію Еліза.
@@ -11721,7 +11721,7 @@
 	a94250c7-1498-4b73-ada4-1dc9df498329 = Завтра буде новий день.
 
 	////3904. ORIGINAL: Another day of law... and love.
-	8d4a5289-3036-4b09-98de-4f4d167257de = Ще одни день з законом... і любов'ю.
+	8d4a5289-3036-4b09-98de-4f4d167257de = Ще один день з законом... і любов'ю.
 
 	////3905. ORIGINAL: Albert Wellen QC...
 	31b4a0d0-cb4a-4bc5-831e-d042be442b15 = Альберт Веллен РК...
@@ -11730,7 +11730,7 @@
 	08ca0476-69df-4eff-bd8f-1842fa60f102 = Побачимось в суді.
 
 	////3907. ORIGINAL: Is spreading fast, and it's spreading without fluid contact.
-	b757ffed-1b27-497f-a7fa-4494ea812794 = Це розноситься швидко. І воно розноситься без контаку з водою.
+	b757ffed-1b27-497f-a7fa-4494ea812794 = Це розноситься швидко. І воно розноситься без контакту рідин.
 
 	////3908. ORIGINAL: And now they're falling ill.
 	6a992e3d-84ad-4c99-a58d-b1f1ea78a8a0 = І зараз вони хворіють.
@@ -11739,7 +11739,7 @@
 	3260f8a0-a4f1-4496-8c2e-ae769993123d = Але він відлежався з гарячкою.
 
 	////3910. ORIGINAL: The others? He can't die! He can't die!
-	da91df0d-31c1-46d1-9041-c8acdd37213e = А як щодо інших? Він не можу померти! Не може!
+	da91df0d-31c1-46d1-9041-c8acdd37213e = А як щодо інших? Він не може померти! Не може!
 
 	////3911. ORIGINAL: Judge Matt Hass - on NNN!
 	37b5104d-3ad5-49c1-9c9c-8c4da6bd02af = З нами на 'Triple-N' суддя Метт Хас!
@@ -11748,7 +11748,7 @@
 	d10cc9d9-f406-47e8-bee4-7db1a4d1e4b4 = Ніхто не знає що відбувається.
 
 	////3913. ORIGINAL: So we move on to the Mr Gardner's final will and testament.
-	a01ddf3b-675f-460b-b2f0-f2c5b09dd701 = А зараз ми перейдео до заповіту Містера Гарднера.
+	a01ddf3b-675f-460b-b2f0-f2c5b09dd701 = А зараз ми перейдемо до заповіту Містера Гарднера.
 
 	////3914. ORIGINAL: "I leave the Sunset Spa and Hotel complex to..."
 	0b026c06-1675-498e-92b5-f08a5ec567a5 = 'Я заповідаю Сансет Спа і готельний комплекс...'
@@ -11757,10 +11757,10 @@
 	5d7caa8f-a14c-49b9-b2e4-a07c72f4e12c = '...'
 
 	////3916. ORIGINAL: "Janine Wachowski. My true love, and mother to my true heir."
-	2c69e384-39bd-4101-a946-4218629b225d = 'Джанін Вачовскі. Моєму спарвжньому коханню та матері мого наступника'.
+	2c69e384-39bd-4101-a946-4218629b225d = 'Джанін Вачовскі. Моєму справжньому коханню та матері мого наступника'.
 
 	////3917. ORIGINAL: You're out of here Michael! The Sunset Spa is mine!
-	25941f60-4a89-4a4a-aeb5-e8dda46c6d9b = Ти виходиш майкл! Сансет Спа моє!
+	25941f60-4a89-4a4a-aeb5-e8dda46c6d9b = Геть звідси, Майкле. Сансет Спа - моє!
 
 	////3918. ORIGINAL: NOOOOO!
 	4e82e50d-1a6e-4f56-a506-fd10a342db61 = НІ-І-І-І!
@@ -11775,7 +11775,7 @@
 	614d0099-8e3a-4c9d-836f-45c472e2f788 = Воно моє! Це все моє!
 
 	////3922. ORIGINAL: I'm afraid that by law this is the property of Ms Wachowski.
-	760c691d-64a1-4bc9-95b8-dcd2182a27e4 = Нажаль по закону це власність місс Вачовскі.
+	760c691d-64a1-4bc9-95b8-dcd2182a27e4 = На жаль по закону це власність пані Вачовскі.
 
 	////3923. ORIGINAL: And YOU are trespassing.
 	ca06c15a-9d27-42ca-a5c2-681aecefc9f7 = І ВИ тут порушник.
@@ -11784,25 +11784,25 @@
 	de59dc6a-b6e6-4689-9bb5-6f631845ac5b = Але куди ж мені йти?
 
 	////3925. ORIGINAL: You should've thought of that before you shot my sister!
-	d5fbd4df-cbd8-49d6-880e-7778f0e24f22 = Тобі треба було про це подумати перед тияк як застрілити мою сестру!
+	d5fbd4df-cbd8-49d6-880e-7778f0e24f22 = Тобі треба було про це подумати перед тим як застрілити мою сестру!
 
 	////3926. ORIGINAL: You haven't seen the end of me!
 	6b85334c-1469-49d9-86c7-30fd214fde93 = Ти ще не бачила мого завершення!
 
 	////3927. ORIGINAL: I'm COUNTING on it!
-	9a40ce0c-cd67-4731-b8aa-9dcc7d843920 = Я надійсю що побачу!
+	9a40ce0c-cd67-4731-b8aa-9dcc7d843920 = Сподіваюся що побачу!
 
 	////3928. ORIGINAL: [img=music] We are the Moderators! [img=music]
-	dcff2b1e-29ec-49dc-96d6-3966bbd4d8a7 = [img=music] В світі все підвладне очам... [img=music]
+	dcff2b1e-29ec-49dc-96d6-3966bbd4d8a7 = [img=music] Не все на світі підвладне очам... [img=music]
 
 	////3929. ORIGINAL: [img=music] Sworn to protect the innocent, there for every incident! [img=music]
 	ff2923c5-eee3-4ae1-80ee-64ce587bda7f = [img=music] ... Зробити свій вибір маєш ти сам! [img=music]
 
 	////3930. ORIGINAL: [img=music] Deep down in your hearts: We are the Moderators! [img=music]
-	15106e7f-524f-4b85-97ab-c150dc21c3cb = [img=music] Зустрітись з долею .... Бути Мо-де-ром! [img=music]
+	15106e7f-524f-4b85-97ab-c150dc21c3cb = [img=music] Зустрітись з долею.... БУТИ МО-ДЕ-РА-ТО-РООООМ! [img=music]
 
 	////3931. ORIGINAL: [img=music] Moderators! MODERATORS! [img=music]
-	5b4532cb-01ec-45ff-95cf-16c56e49aa70 = [img=music] МО-ДЕ-РОМ! [img=music]
+	5b4532cb-01ec-45ff-95cf-16c56e49aa70 = [img=music] Всіх модерів МО-ДЕ-РА-ТО-РООООООМ[img=music]
 
 	////3932. ORIGINAL: Welcome to my Ice Palace, friends. From here: we strike back.
 	cf7eb6b1-7bc4-450a-8dd0-13e0c7f115bd = Друзі, ласкаво просимо в крижаний палац. Звідси ми завдамо удару у відповідь.
@@ -11811,19 +11811,19 @@
 	83b5a758-ab73-4534-ba33-7a3405b9d713 = Як ми можемо змагатись з силою, створеною з наших сил?
 
 	////3934. ORIGINAL: I see the fool that who hurled ArchDuke OldWorld into the Chaos Abyss is among us?
-	c7604bc4-c689-4bd6-8fd2-8797fc1de922 = Я бачу, дурень, який кинув Архгерцога Старого Світу в Безодню Хаосу, серед нас?
+	c7604bc4-c689-4bd6-8fd2-8797fc1de922 = Я бачу, дурень, який кинув Ерцгерцог Старого Світу в Безодню Хаосу, серед нас?
 
 	////3935. ORIGINAL: I cast the fiend into the pit to SAVE all we know!
 	96e9b75d-5360-4606-935c-55b0066e88c9 = Я загнав біса в яму, щоб ВРЯТУВАТИ все те, що ми знаємо!
 
 	////3936. ORIGINAL: Yet now the ArchDuke runs rampant through our flock!
-	99bef947-fd40-4b0e-a364-0222ad1feca5 = Але тепер Архгерцога проходиться крізь нашу паству!
+	99bef947-fd40-4b0e-a364-0222ad1feca5 = Але тепер Ерцгерцог проходиться крізь нашу паству!
 
 	////3937. ORIGINAL: He bends and warps their reality! What is known becomes changed!
 	dcf8a2f2-f4ea-45fd-9297-52734831ecfb = Він спотворює їх реальність!  Все що знають змінюється!
 
 	////3938. ORIGINAL: The greatest calamity since the time of the Dark One is at hand!
-	d92c2158-d552-41b4-bd65-4ed85ed7a17f = До найбільшого лиха, з часів Великої Темряви, рукою подати!
+	d92c2158-d552-41b4-bd65-4ed85ed7a17f = До найбільшого лиха, з часів Великої Темряви, як палицею докинути!
 
 	////3939. ORIGINAL: I feel the rage of a thousand suns!
 	642a053d-1528-4fd1-a2a4-cb85b35344d0 = Я відчуваю лють тисячі сонць!
@@ -11838,13 +11838,13 @@
 	abc23f27-3ce2-4534-8b34-a11a8d97103a = Використовуйте свої таємні розуміння розуму!
 
 	////3943. ORIGINAL: Becalm him! Before my Celestial Ice Palace floods our land!
-	7c43bf8d-247f-403d-b976-73ff825e44b5 = Заспокійте його! Теред тип як мій Тисячолітній Крижаний Палац затопить нашу землю!
+	7c43bf8d-247f-403d-b976-73ff825e44b5 = Заспокойте його! Перед тим як мій Тисячолітній Крижаний Палац затопить нашу землю!
 
 	////3944. ORIGINAL: The end! It is near!
 	ad9f444b-cfc1-4b62-a49b-99d9d647f93b = Це кінець! Він близько!
 
 	////3945. ORIGINAL: Feel my ancestral power oh friend!
-	880f1159-3a40-4dfc-b64e-2262f6b74e1f = Відчуй силу моїх предків, друже мій!
+	880f1159-3a40-4dfc-b64e-2262f6b74e1f = Відчуй силу моїх пращурів, друже мій!
 
 	////3946. ORIGINAL: The anger! It burns!
 	7d52cf7d-373b-4e81-b828-8cfdb465b7c9 = Гнів! Він випалює!
@@ -11853,10 +11853,10 @@
 	6cb711ba-f180-45b2-87d6-e73cb26beb55 = Вже час прогулятись в Магічному лісі!
 
 	////3948. ORIGINAL: Sponsored by Spiffos™!
-	9233196b-97dc-4fd9-804c-f45715875d4d = Спонсором є Спіффо!?
+	9233196b-97dc-4fd9-804c-f45715875d4d = Спонсором є Спіффо!
 
 	////3949. ORIGINAL: Hi there Spiffo! Who's your little friend?
-	b8feed00-3e07-412c-bc23-390ca80efe8b = Привіт Спіффо! Хто твій друг?
+	b8feed00-3e07-412c-bc23-390ca80efe8b = Вітаннячка Спіффо! Хто твій друг?
 
 	////3950. ORIGINAL: What's that?
 	79d3b96b-90bf-44d9-900d-aaf616e84c93 = Це що?
@@ -11871,7 +11871,7 @@
 	77afb975-0f5a-434d-babd-2335596c9f25 = Пиляти деревину, створювати меблі!
 
 	////3954. ORIGINAL: Tables, bookcases, hat stands and chairs!
-	222945f3-9b4d-4cf8-bf8c-91b8d4d4329f = Столи, шафи, стійки і стільці!
+	222945f3-9b4d-4cf8-bf8c-91b8d4d4329f = Столи, шафи, стійки й стільці!
 
 	////3955. ORIGINAL: I never knew friends could have this much fun!
 	d69002fe-e44b-4f72-b9e8-ba52383b38ef = Я й подумати не міг, що це може сподобатись моїм друзям!
@@ -11907,10 +11907,10 @@
 	fea9193c-6853-4b25-9c92-c49bcb6cbec7 = [img=music] Радіємо щодня! [img=music]
 
 	////3966. ORIGINAL: Good morning Jemima Bunny!
-	c391b6d2-3f06-40a3-a329-5c108c69586a = Доброго ранку. Джемайма Зайченя!
+	c391b6d2-3f06-40a3-a329-5c108c69586a = Доброго ранку. Джамала Зайка!
 
 	////3967. ORIGINAL: Good morning Zachary Bunny!
-	47ff8349-c613-46d7-afd1-406c7a6a6d7b = Доброго ранку. Захарчик Зайченя!
+	47ff8349-c613-46d7-afd1-406c7a6a6d7b = Доброго ранку. Захарчик Зайчик!
 
 	////3968. ORIGINAL: What are you doing Jemima?
 	239d980c-5bda-46c3-8a16-0561de6655b6 = Джемайма, чим займаєшся?
@@ -11931,7 +11931,7 @@
 	0387efbb-fb54-49ab-b4c5-ac54d5a09003 = Няня Зайченя буде проти!
 
 	////3974. ORIGINAL: No! I won't wait my turn!
-	36d70f3c-4f53-45bd-b7ac-0ec71b203da4 = Ніт! Такі як я чергу не чекають!
+	36d70f3c-4f53-45bd-b7ac-0ec71b203da4 = А от зась! Такі як я чергу не чекають!
 
 	////3975. ORIGINAL: Zachary Bunny! What are you doing?
 	41488db3-5d88-423d-905e-c088d4249110 = Захарчик Милий! Що ти робиш?
@@ -11940,10 +11940,10 @@
 	f9d553f7-bf14-42c1-a019-87e651da1e6b = Джамала не дає мені рахувати її цеглу!
 
 	////3977. ORIGINAL: Zachary Bunny - round here we have one rule.
-	7090d052-9908-4102-91d5-3538ac82054e = Захарчик Милий - ти знаєш правило.
+	7090d052-9908-4102-91d5-3538ac82054e = Захарчик Зайчик, ти знаєш правило.
 
 	////3978. ORIGINAL: Be lovely!
-	deee28ee-cab6-4d89-b484-96735f6940d6 = Будь ласкавий!
+	deee28ee-cab6-4d89-b484-96735f6940d6 = Будь доброзичливим!
 
 	////3979. ORIGINAL: You can count your bricks... together.
 	dbc68f2f-60fe-4adb-b8d1-e274ded0ddce = Ви можете рахувати цеглу... разом.
@@ -11988,7 +11988,7 @@
 	57a37e10-a969-4de5-9696-0de7be2f96ad = Це реально... дивно.
 
 	////3993. ORIGINAL: As if no time has passed since ArchDuke OldWorld was hurled into the Chaos Abyss.
-	ed0da4a1-8e5f-4d5a-85c5-5fc2cc4c335e = Ніби не проходило часу з моменту, як Архгерцога Старого Світу був кинутий в Безодню Хаосу.
+	ed0da4a1-8e5f-4d5a-85c5-5fc2cc4c335e = Ніби не проходило часу з моменту, як Ерцгерцога Старого Світу був кинутий в Безодню Хаосу.
 
 	////3994. ORIGINAL: The people are restless. We must act.
 	e943c359-995b-49c5-b762-d95521474ff1 = Люди збожеволіли, нам треба щось робити.
@@ -11997,7 +11997,7 @@
 	30a34819-fe2c-4ae0-a135-ec66cc131e31 = ЯК ВИ МОЖЕТЕ ЩОСЬ РОБИТИ КОЛИ Я....
 
 	////3996. ORIGINAL: ARCHDUKE OLDWORLD... HAVE RETURNED!
-	cb402d0d-9da5-43e4-96bc-6a22875e7e16 = АРЦГЕРЦОГ СТАРОГО СВІТУ ПОВЕРНУВСЯ!
+	cb402d0d-9da5-43e4-96bc-6a22875e7e16 = ЕРЦГЕРЦОГ СТАРОГО СВІТУ ПОВЕРНУВСЯ!
 
 	////3997. ORIGINAL: But, how can this be?
 	cfe9f380-4dd3-4564-8c4c-8b6eb9925768 = Як це могло статись?
@@ -12009,7 +12009,7 @@
 	887b19ce-5c0a-4cbb-896c-205787fe9ed0 = Я ПОГЛИНУВ БЕЗОДНЮ ХАОСУ, ВИ ЛИШЕ НАПОВНИЛИ МЕНЕ...
 
 	////4000. ORIGINAL: WITH THE POWER OF THE MODERATORS THEMSELVES!
-	ce6f3a0b-785b-49b2-9f17-658f29a4f4fc = БЕЗПОСЕРЕДНЬ СИЛОЮ МОДЕРІАТОРІВ!
+	ce6f3a0b-785b-49b2-9f17-658f29a4f4fc = БЕЗПОСЕРЕДНЬО СИЛОЮ МОДЕРАТОРІВ!
 
 	////4001. ORIGINAL: But, this is what was foretold!
 	e19574c4-4278-4629-927c-a481d37a21bc = Та це те, що було передбачено!
@@ -12054,16 +12054,16 @@
 	efb2ca73-86c2-47d6-bccd-09be784a7bc5 = ви бачили його графічні можливості?
 
 	////4015. ORIGINAL: How about the hard drive?
-	9349899d-e846-4bce-a035-7de7e8cc0911 = А як щодо жорсткого диску?
+	9349899d-e846-4bce-a035-7de7e8cc0911 = А як щодо жорсткого диска?
 
 	////4016. ORIGINAL: Forty... two... megabytes.
 	c4ca66a7-f471-438e-bf09-a837da21a3df = Сорок... два... мегабайти!
 
 	////4017. ORIGINAL: Holy cow!
-	c3c759b6-658a-40c9-ac86-dd1b18dc9efa = Неймовірно!
+	c3c759b6-658a-40c9-ac86-dd1b18dc9efa = Збожеволіти можна!
 
 	////4018. ORIGINAL: Even better - Kirrus supply a mouse and keyboard for FREE!
-	de02b9d8-1407-4292-8606-78673ab34713 = Це ще не все - 'Kirrus' дарує БЕЗКОШТОВНО мишку і клавіатуру!
+	de02b9d8-1407-4292-8606-78673ab34713 = Це ще не все - 'Kirrus' дарує БЕЗКОШТОВНО мишу і клавіатуру!
 
 	////4019. ORIGINAL: HOLY COW!
 	19f9b5cb-76d7-44a0-ae20-6e7df2162ca5 = НЕЙМОВІРНО!!!
@@ -12081,13 +12081,13 @@
 	3e9bd5d1-c429-4319-96a4-e8ae9ad6f802 = Чим займаєшся, Захарчик?
 
 	////4024. ORIGINAL: I'm playing on the slide!
-	fe9501a4-3d3b-4bc7-8dca-75f91065f580 = Я граюсь на горці!
+	fe9501a4-3d3b-4bc7-8dca-75f91065f580 = Я граюсь на гірці!
 
 	////4025. ORIGINAL: Weeeeee!
 	a15e3039-d6be-4351-af89-c939e84fee33 = Вжу-у-ух!
 
 	////4026. ORIGINAL: I want to play on the slide!
-	dc2ef66e-1502-405a-8419-c3ccd03390bb = Я теж хочу погратись на горці!
+	dc2ef66e-1502-405a-8419-c3ccd03390bb = Я теж хочу погратись на гірці!
 
 	////4027. ORIGINAL: No! This is my slide!
 	a547324a-349a-49f1-8a67-46b233f7211b = Ніт! Це моя гірка!
@@ -12099,13 +12099,13 @@
 	207e7b28-0497-4b2c-abf6-2dc9147584e4 = Це МОЯ гірка!
 
 	////4030. ORIGINAL: Jemima Bunny! What are you doing?
-	e0b3f4e0-9e9c-4f58-a63c-fcbd4afc0d6d = Джамайла Зайченя! Що ти робиш?
+	e0b3f4e0-9e9c-4f58-a63c-fcbd4afc0d6d = Джамала Зайченя! Що ти робиш?
 
 	////4031. ORIGINAL: I am playing on my slide!
-	ee0ad01c-ae98-4264-8f8c-ddff7ded46c2 = Я зїжджаю з гірки!
+	ee0ad01c-ae98-4264-8f8c-ddff7ded46c2 = Я з'їжджаю з гірки!
 
 	////4032. ORIGINAL: Jemima Bunny - round here we have one rule.
-	69669556-f395-4e07-9097-d932a2ef75df = Джамайла Зайченя, ми тут маємо правило...
+	69669556-f395-4e07-9097-d932a2ef75df = Джамала Зайченя, ми тут маємо правило...
 
 	////4033. ORIGINAL: Would you like to play on the see-saw?
 	42a22b57-c4d6-4389-8005-056aaae14c34 = Хочеш погойдатись на гойдалці?
@@ -12126,7 +12126,7 @@
 	2dd0a404-16ef-4234-aa48-ca64441e49d4 = Скейтбординг?
 
 	////4039. ORIGINAL: Such fun! Rolling and rolling, scooting and skating!
-	fb2b9527-8f6f-44d7-a75f-278daa07ae2a = Як вечело, їхати, крутитись, і скейтити!
+	fb2b9527-8f6f-44d7-a75f-278daa07ae2a = Як весело, їхати, крутитись, і ковзати!
 
 	////4040. ORIGINAL: Fun in the sunny magical woodland glades!
 	f3e62cc3-e128-4bb7-bcbf-43c7f267a20a =  Весело на сонячній галявині магічного лісу!
@@ -12138,13 +12138,13 @@
 	8d0397ad-4ad3-463a-bb01-97a0ddbed2ce = Привіт! Я БО-ЖЕ-ВІЛЬНИЙ!
 
 	////4043. ORIGINAL: And on today's store? I got BARGAINS!
-	51738f11-f7a3-4891-95af-d507bb9c9549 = Согодні на вітрині: А маю ПРОПОЗИЦІЇ!
+	51738f11-f7a3-4891-95af-d507bb9c9549 = А що сьогодні на вітрині? У мене є ПРОПОЗИЦІЇ!
 
 	////4044. ORIGINAL: This steam cooker? $45.99.
-	f80b3fc0-508a-4fd7-b2a3-873f36f2e47a = Пароварка, вього за $45.99
+	f80b3fc0-508a-4fd7-b2a3-873f36f2e47a = Пароварка, всього за $45.99
 
 	////4045. ORIGINAL: That elegant swiss fondue set? L33.99
-	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Елегантне Швейцаське фондю за $33.99
+	65e87b5b-af44-4ab2-98e5-c515f6ffcbd3 = Елегантне Швейцарське фондю за $33.99
 
 	////4046. ORIGINAL: BARGAINS! BARGAINS! CRAAA-ZY BARGAINS!
 	dd5c5ab6-4aa9-467c-9a5d-753fc42a6c89 = ПРОПОЗИЦІЇ! ПРОПОЗИЦІЇ! БОЖЕВІЛЬНІ ПРОПОЗИЦІЇ!
@@ -12156,10 +12156,10 @@
 	360f8303-1130-4a5c-b15f-4b428898bb66 = Ніхто не знає!
 
 	////4049. ORIGINAL: But who cares when you can call today...
-	7c2eb83a-ab50-4791-82ac-70dec175ddcc = Але нікого не хвилює, якщо можна поздвонити сьогодні ..
+	7c2eb83a-ab50-4791-82ac-70dec175ddcc = Але кого це хвилює, якщо можна подзвонити сьогодні...
 
 	////4050. ORIGINAL: ...for this electric carving knife! $17.99!?
-	cd66b5ca-514d-4f40-9a22-4b326ff665a0 = ... Щоб отримати цей електроніж для вирізання! 17.99$?!
+	cd66b5ca-514d-4f40-9a22-4b326ff665a0 = ... щоб отримати цей електроніж для вирізання! 17.99$?!
 
 	////4051. ORIGINAL: Is he mad? No!
 	1d5cbade-26bf-422b-bdb4-0eed83f80101 = Він здурів? Ні!
@@ -12183,13 +12183,13 @@
 	c9ffd77a-eb36-4128-9977-1b2ed2b8abf4 = Хе-хе! Р-р-р-р! Я динозавр!
 
 	////4058. ORIGINAL: And I have the dinosaur tail!
-	69a636d9-21e3-4b8a-8f85-5d2599a4f753 = І в мене є хвіст динозавтра!
+	69a636d9-21e3-4b8a-8f85-5d2599a4f753 = І в мене є хвіст динозавра!
 
 	////4059. ORIGINAL: No Zachary Bunny!
 	87339d7c-3d89-4904-b661-3f7256b68cf7 = Ні, Зайчику Захарчику!
 
 	////4060. ORIGINAL: You can not have it! It is mine!
-	3170e602-4bdc-467d-9ef1-443a8002f783 = ТИ не можеш мати хвіст! Він мій!
+	3170e602-4bdc-467d-9ef1-443a8002f783 = Ти не можеш мати хвіст! Він мій!
 
 	////4061. ORIGINAL: Nanny Bunny!
 	e7468947-a90b-41c9-991d-6fbb09107916 = Няня Зайченя!
@@ -12201,7 +12201,7 @@
 	50f0c790-539a-4122-a386-4072207c458f = Так цікавіше!
 
 	////4064. ORIGINAL: Zachary Bunny, put the dinosaur tail in... here.
-	4e2aea3d-8f85-4062-9f48-c09895c1656c = Зайчику Захарчику, постав хвісти динозавра... сюди.
+	4e2aea3d-8f85-4062-9f48-c09895c1656c = Зайчику Захарчику, постав хвіст динозавра... сюди.
 
 	////4065. ORIGINAL: Now then, isn't that better?
 	2a1f5c48-6dd5-4d4d-a5b2-132b64b81a9a = Ось бачите, так краще!
@@ -12210,13 +12210,13 @@
 	4a998fe6-7e41-4ab9-905c-1267d3f12831 = Так Няня Зайченя!
 
 	////4067. ORIGINAL: WELCOME MODERATORS. YOU AWAKE IN CHAINS!
-	46a892b9-7380-456f-abcc-e431843c72d0 = ВІТАЮ МОДЕРИ. ВИ ПРОКИНУЛИСЬ В ЛАНЦЮГАХ!
+	46a892b9-7380-456f-abcc-e431843c72d0 = ВІТАЮ, МОДЕРАТОРИ. ВИ ПРОКИНУЛИСЬ В ЛАНЦЮГАХ!
 
 	////4068. ORIGINAL: THE ICE PALACE IS MELTING.
 	8865dd3d-f692-490c-9b47-4324a57f3142 = КРИЖАНИЙ ПАЛАЦ ТАНЕ.
 
 	////4069. ORIGINAL: THE AGE OF ARCHDUKE OLDWORLD BEGINS AGAIN.
-	9123e549-263e-4af3-ab7a-6a5236d35bd0 = ЧАСИ ГЕРЦОГА СТАРОГО СВІТУ ПОЧНУТЬСЯ ЗНОВУ!
+	9123e549-263e-4af3-ab7a-6a5236d35bd0 = ЧАСИ ЕРЦГЕРЦОГА СТАРОГО СВІТУ ПОЧНУТЬСЯ ЗНОВУ!
 
 	////4070. ORIGINAL: What? How can this be?
 	5325c27e-d502-4066-9660-332fddee5aac = Що? Хіба це можливо?
@@ -12252,7 +12252,7 @@
 	b6dd2822-f2fd-4f13-8bf7-3cd33feec883 = Це... ваш жезл, мій володарю. Візьміть його.
 
 	////4081. ORIGINAL: Reunite the Moderators, in this the people's time of need.
-	1ca97a85-f67c-47b9-92ed-6389c70a1475 = Об'єднайте модерів, в ці важкі часи.
+	1ca97a85-f67c-47b9-92ed-6389c70a1475 = Об'єднайте модераторів у ці важкі часи.
 
 	////4082. ORIGINAL: Can it be real? The Pole of Justice returned to my hand?
 	2feb4d0d-5953-48f6-8178-bbca6db2e7b5 = Невже це правда? Жезл Справедливості в моїй руці?
@@ -12273,7 +12273,7 @@
 	d1b29ffd-09ee-4898-a0ab-33943dbd1c5e = Футбол?
 
 	////4088. ORIGINAL: Such fun! Kick and dive, and score and scamper!
-	8ea72952-7c4d-4626-b3cb-1a67d9f5b4e8 = Це чудово! Копнув і біжиш і забиваєш і тишишся!
+	8ea72952-7c4d-4626-b3cb-1a67d9f5b4e8 = Це чудово! Копнув і біжиш і забиваєш і тішишся!
 
 	////4089. ORIGINAL: Playing games and learning besides!
 	a6eec51c-c0a9-480e-8c5b-9dcf942c95a2 = Граємо і вчимося одночасно!
@@ -12285,16 +12285,16 @@
 	1af46e16-9830-478f-bdfb-ea017c482c87 = Добраніч, Молі.
 
 	////4092. ORIGINAL: Hey Joel, what's that you've got?
-	2cdef805-2d43-4559-ad4e-342047f2614c = Дривіт Джоел, що в тебе?
+	2cdef805-2d43-4559-ad4e-342047f2614c = Привіт, Джоелю, що в тебе?
 
 	////4093. ORIGINAL: It's one of my daughter's toys. It's outta batteries!
-	6f29a2b9-bf2b-4d2a-98ce-00de1ea96af4 = Це іграшка моєї донько. Батарейки розрядились!
+	6f29a2b9-bf2b-4d2a-98ce-00de1ea96af4 = Це іграшка моєї доньки. Батарейки розрядились!
 
 	////4094. ORIGINAL: Seems to go through a set every week!
 	f8a03e00-cfc8-4f9b-a0ec-fcf21afafb26 = Витрачається пара в тиждень!
 
 	////4095. ORIGINAL: You're in luck! Today on the TV Store we've got the best!
-	50cd5b98-41eb-4faa-8c37-8014a927652e = Тоді вам пощастило! Сьогодні на теле-вітрині в нас:
+	50cd5b98-41eb-4faa-8c37-8014a927652e = Тоді вам пощастило! Сьогодні на телевітрині в нас:
 
 	////4096. ORIGINAL: SYFY batteries just keep on going.
 	4e1cce08-77d1-4922-b841-91df9147388b = Батарейки 'SYFY', працюють довше за інші.
@@ -12303,7 +12303,7 @@
 	5708d618-b713-481a-a67f-9a7194ac64f8 = ви можете не міняти їх місяцями
 
 	////4098. ORIGINAL: Let's help you your little friend here...
-	845988d3-0acf-464a-952e-b0b05050ad46 = Давайте допоможимо вашому мальнькому другу...
+	845988d3-0acf-464a-952e-b0b05050ad46 = Допоможімо вашому маленькому другу...
 
 	////4099. ORIGINAL: And he'll keep on going?
 	443dd526-b28d-42c5-be51-668cdb0f3fbe = І він продовжить працювати?
@@ -12315,7 +12315,7 @@
 	e0130246-7efd-4158-96ad-b8f11c9d5319 = Скільки?
 
 	////4102. ORIGINAL: Just $18.99 plus postage and packing...
-	1a6d70a6-dd1e-419f-b7ca-7411b538c02a = Всього $18.99$ плюс доставка...
+	1a6d70a6-dd1e-419f-b7ca-7411b538c02a = Всього $18.99$ плюс доставлення...
 
 	////4103. ORIGINAL: ... for ten.
 	a3fe2986-a843-45fc-8710-4971ee186e47 = ... за десять штук.
@@ -12336,7 +12336,7 @@
 	d8257277-e94e-4572-8326-78bcf7e5970b = Вона про космічний корабель!
 
 	////4109. ORIGINAL: Spaceships are very boring Zachary Bunny!
-	d16f2cf4-5bf6-4133-8002-2377fd1a656f = Космічні кораблі це нудно Зайкику Захарчику!
+	d16f2cf4-5bf6-4133-8002-2377fd1a656f = Космічні кораблі це нудно Зайчику Захарчику!
 
 	////4110. ORIGINAL: No they are not!
 	43e4a965-e473-40dd-b76c-a2ae446cb832 = Ні це не так!
@@ -12366,10 +12366,10 @@
 	8ff87b3c-47c1-48d1-be81-4270612ead28 = Захарчику Зайчику: Це добре що тобі подобаються Книги про Поні.
 
 	////4119. ORIGINAL: Would you like to read your books about spaceships and ponies to each other?
-	f705023e-9d9f-4dad-8b33-524785e1d951 = Можливо ви прочитаєте книжки про поні і космокороблі один ондому?
+	f705023e-9d9f-4dad-8b33-524785e1d951 = Можливо ви прочитаєте книжки про поні та космокораблі один одному?
 
 	////4120. ORIGINAL: Yes please!
-	e4f2ae96-3de2-449d-ace1-a80e6e8a6d37 = Так будь ласка!
+	e4f2ae96-3de2-449d-ace1-a80e6e8a6d37 = Так, будь ласка!
 
 	////4121. ORIGINAL: My ice palace is destroyed!
 	967c1010-4840-4857-b10a-e7377cb65e98 = Мій крижаний палац знищено!
@@ -12378,16 +12378,16 @@
 	e6425634-4e65-4461-b24a-c36047200f8d = Плювати я хотів! мій гнів ще не стих!
 
 	////4123. ORIGINAL: My powers of mental understanding begin to crumble!
-	96ee5ff8-0404-4e6e-acee-da2bbefacb79 = Моя сили ментального розуміння починають стихати!
+	96ee5ff8-0404-4e6e-acee-da2bbefacb79 = Мої сили ментального розуміння починають стихати!
 
 	////4124. ORIGINAL: Moderators! Quell your fires!
-	47ebff32-c19d-4d3d-9d53-94ba57eabc34 = Модери! Придушіть ваш вогонь!
+	47ebff32-c19d-4d3d-9d53-94ba57eabc34 = Модер! Придушіть ваш вогонь!
 
 	////4125. ORIGINAL: Is it... Is it he?
 	2572be66-da5c-4c69-a71f-1ddeb3f24c16 = Це... Це він?
 
 	////4126. ORIGINAL: I come from the dungeons of ArchDuke OldWorld with tragic news.
-	2de834a9-fe42-4833-a957-20752b45fbb7 = Я прийшов з підземелля Архгерцога Старого Світу з трагічними новинами.
+	2de834a9-fe42-4833-a957-20752b45fbb7 = Я прийшов з підземелля Ерцгерцога Старого Світу з трагічними новинами.
 
 	////4127. ORIGINAL: The young one, he is dead.
 	99dbb516-74be-4a5f-88a5-37171b5c15b0 = Наш молодший, він вмер.
@@ -12405,7 +12405,7 @@
 	a6635519-9616-4deb-aa02-20889409c958 =  Модери, час суперечок закінчився.
 
 	////4132. ORIGINAL: When first we discovered the Power of the Moderators, it was a time of dire need.
-	b9a28364-d37d-4a39-85d9-a870a2c8be6c = Коли ми вперше відкрили Силу МОдераторів, це був час великої потреби.
+	b9a28364-d37d-4a39-85d9-a870a2c8be6c = Коли ми вперше відкрили Силу Модераторів, це був час великої потреби.
 
 	////4133. ORIGINAL: The reign of the Dark One was at its height.
 	5bd39430-4b7f-4da3-a6e3-69eadc73ec44 = Володарювання Темного було важким.
@@ -12417,7 +12417,7 @@
 	801dc74e-da54-4bc8-b891-592b01ea61a8 = Тільки через єдність і дружбу ми можемо надіятись відбити те, що буде далі.
 
 	////4136. ORIGINAL: Who will stand with me in the fight against ArchDuke OldWorld?
-	ffd4368b-f933-43c0-94c4-ab924b4adc43 = Хто буде стояти поряд зі мною в битрві троти Архгерцога Старого Світу?
+	ffd4368b-f933-43c0-94c4-ab924b4adc43 = Хто буде стояти поряд зі мною в битві проти Ерцгерцога Старого Світу?
 
 	////4137. ORIGINAL: I shall.
 	e65bb414-d2d3-4f15-a740-4f7d271719c1 = Я буду.
@@ -12459,7 +12459,7 @@
 	13aabdde-68ea-42a9-8f8d-c192d867e6ea = Привіт Джоел, що ти граєш?
 
 	////4150. ORIGINAL: Ah nothing, just the latest board game from The DKF Company?
-	0174c37c-adbd-4e37-bd56-bb9d674a7b7a = Та так, нічого. Всьог лиш остання настільна гра від 'DKF Company'?
+	0174c37c-adbd-4e37-bd56-bb9d674a7b7a = Та так, нічого. Всього лиш остання настільна гра від 'DKF Company'?
 
 	////4151. ORIGINAL: I've heard of this! Is it...
 	4535c47d-31c1-4ca9-b262-fddcb6ed6114 = Так, я чув! це ж ...
@@ -12471,16 +12471,16 @@
 	5a47a944-993e-421c-ba5c-5db80970d43b = Гра для всієї сім'ї про те як добиратись на роботу вчасно!
 
 	////4154. ORIGINAL: So do I... choose a car?
-	39e21619-f5bd-403e-b45d-6946fed6955a = Я можу... обрати атвомобіль?
+	39e21619-f5bd-403e-b45d-6946fed6955a = Я можу... обрати автомобіль?
 
 	////4155. ORIGINAL: Sure you do!
-	d9a3706d-2153-47c0-970d-30c1af546044 = Звичано можеш!
+	d9a3706d-2153-47c0-970d-30c1af546044 = Звичайно можеш!
 
 	////4156. ORIGINAL: While I roll this dice... how much?
 	c9ac1721-cc0a-4da5-9b15-5050ebd7e1de = Поки я кидаю кубик... Скільки це буде коштувати?
 
 	////4157. ORIGINAL: $15.99, plus postage and packing
-	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = $15.99, плюс доставка!
+	72fd56a6-446a-4a7c-bf0b-5e2891e4ec8f = $15.99, плюс доставлення!
 
 	////4158. ORIGINAL: I rolled a six!
 	54c89282-9d4b-4266-92e3-d1790fbfef88 = У мене шість!
@@ -12492,19 +12492,19 @@
 	c3ce07cd-e463-4998-9fbb-389dca97c9e5 = ТАК!
 
 	////4161. ORIGINAL: That was worth $15.99 plus postage and packing, in one roll!
-	9979d19e-c400-4767-8406-2a4b2a96474b = Всього лише $15.99 плюс доставка!
+	9979d19e-c400-4767-8406-2a4b2a96474b = Всього лише $15.99 плюс доставлення!
 
 	////4162. ORIGINAL: Man, I LOVE THIS!
 	5e88686b-3fbe-47fa-a2fc-5fc4f3dba2bb = Я ОБОЖНЮЮ ЦЮ ГРУ!
 
 	////4163. ORIGINAL: My turn! I gotta get outta this tailback!
-	0040922e-c055-43ff-8033-d9ad7e59b02d = Моя чера, мені потрібно впасти з цього хвосту
+	0040922e-c055-43ff-8033-d9ad7e59b02d = Моя черга, мені потрібно впасти з цього хвоста.
 
 	////4164. ORIGINAL: Call now folks!
 	ccb90fa1-75f9-4d33-85d7-8efc9de64611 = Телефонуйте прямо зараз!
 
 	////4165. ORIGINAL: What are you doing Jemima Bunny?
-	505ae703-456a-4faa-ba0e-1a27148372af = ЧЩо ти робиш Джемайма Зайчик?
+	505ae703-456a-4faa-ba0e-1a27148372af = Що ти робиш Джамала Зайка?
 
 	////4166. ORIGINAL: I'm blowing bubbles!
 	81810aff-27ea-433a-8574-38bbf719d0f9 = Я дую бульки!
@@ -12516,13 +12516,13 @@
 	69d07a51-e2f4-495a-8109-f703c549b0fb = Я люблю тріскати бульки!
 
 	////4169. ORIGINAL: No Zachary Bunny! Don't burst my bubbles!
-	3a65dfd3-0c2f-4196-bdfd-c58470fa5364 = Ні зайчику Захарчику! Не тріскай бульки!
+	3a65dfd3-0c2f-4196-bdfd-c58470fa5364 = Ні Зайчику Захарчику! Не тріскай бульки!
 
 	////4170. ORIGINAL: Ha ha! Look at them pop!
 	f1b4f4e4-61f0-4b93-b4d3-186bf3f8f9a0 = Ха-ха! Глянь як вони лускають!
 
 	////4171. ORIGINAL: Jemima Bunny is very sad that you burst the bubbles!
-	efd6df37-d631-4ce4-bd08-3e607539d3e8 = Джемайма Зайчик дуже засмучена, бо ти лопаєш бульки!
+	efd6df37-d631-4ce4-bd08-3e607539d3e8 = Джамала Зайка дуже засмучена, бо ти лопаєш бульки!
 
 	////4172. ORIGINAL: Chase the bubbles!
 	608466fd-acbd-4ea2-98cd-0ded71a9d000 = Лови бульки!
@@ -12549,19 +12549,19 @@
 	69ee8880-2a1d-4b91-922a-06d349e8a17a = САМОТУЖКИ? НЕ ВИЙДЕ.
 
 	////4180. ORIGINAL: He does not strike back alone!
-	e555ff3f-50b0-4dd6-94a8-696ddb367c12 = Він не нанеса удар сам!
+	e555ff3f-50b0-4dd6-94a8-696ddb367c12 = Він не зможе завдати удару самотужки!
 
 	////4181. ORIGINAL: Behold, my power of ice!
 	9816a60c-6ed7-4270-af58-36a8e2ebbba4 = Відчуй мою силу льоду!
 
 	////4182. ORIGINAL: Burn in the rage of a thousands suns!
-	4ae929a7-5165-45d4-bbc8-bb8697af6d74 = Гори в щлості тисяч зірок!
+	4ae929a7-5165-45d4-bbc8-bb8697af6d74 = Гори в гніві тисяч сонць!
 
 	////4183. ORIGINAL: ARGH! HOW CAN I WITHSTAND THIS?
 	e6e83974-76ea-46bb-b851-861d56d7a137 = АРГХ! ЯК Я МОЖУ ЦЕ ВИТРИМАТИ?
 
 	////4184. ORIGINAL: THE POWER OF THE MODERATORS!
-	91d2b6cc-d170-426b-bf07-fe70fc8db975 = СИЛА МОДЕРІВ!
+	91d2b6cc-d170-426b-bf07-fe70fc8db975 = СИЛА МОДЕРАТОРІВ!
 
 	////4185. ORIGINAL: Ahah! Our revenge is at hand!
 	333fdf5b-2e3f-4a1c-85c0-2d50ee11b6fe = Ха-ха! Наша помста вже близько!
@@ -12576,34 +12576,34 @@
 	adbe859a-c558-428a-ac85-a32d78741d69 = РЕАЛЬНІСТЬ ПОВИННА БУТИ ЗНИЖЕНА!
 
 	////4189. ORIGINAL: No! ArchDuke OldWorld! I felt it then, and I feel it now!
-	799be616-289c-480b-9f28-923c3b19a302 = Ні! Архгерцог Старого світу! Я відчував це тоді, і відчуваю зараз!
+	799be616-289c-480b-9f28-923c3b19a302 = Ні! Ерцгерцог Старого світу! Я відчував це тоді, і відчуваю зараз!
 
 	////4190. ORIGINAL: There is still good in you!
 	e18ce0cd-61c5-4096-84e7-10f3bb5a85fd = в тобі все ще є добро!
 
 	////4191. ORIGINAL: Lay down your power, before our realm unbinds!
-	3a9a948b-14c8-4a1a-81db-938be4784476 = Залиш свої сили, поки наце царство не розєднається!
+	3a9a948b-14c8-4a1a-81db-938be4784476 = Залиш свої сили, поки наше царство не роз'єднається!
 
 	////4192. ORIGINAL: NO, I CANNOT! ALL WILL FADE!
 	68f38843-9859-4761-a11d-31331d70da0b = НІ, Я НЕ МОЖУ! ВСЕ ЗНИКНЕ!
 
 	////4193. ORIGINAL: You can, ArchDuke. Look to me! Feel my compassion!
-	001339b1-1904-480a-8b78-670892aae5d9 = Ти зможеш, Архгерцог! Зазирни мені у вічі! Відчуй співчуття!
+	001339b1-1904-480a-8b78-670892aae5d9 = Ти зможеш, Ерцгерцог! Зазирни мені у вічі! Відчуй співчуття!
 
 	////4194. ORIGINAL: I... I... I SHALL.
 	ec848353-45a1-48aa-8a4b-3234352f8f7b = Я... Я... Я ПОВИНЕН.
 
 	////4195. ORIGINAL: THE POWER OF THE MODERATORS IS BEYOND ALL COMPREHENSION.
-	1012194d-e3cc-462e-b046-293cb5e4d6fa = СИЛА МОДЕРІВ ЗА МЕЖЕЮ РОЗУМІННЯ .
+	1012194d-e3cc-462e-b046-293cb5e4d6fa = СИЛА МОДЕРІВ ЗА МЕЖЕЮ РОЗУМІННЯ.
 
 	////4196. ORIGINAL: I SHALL TAKE MY LEAVE. YOUR REALM IS SAFE.
 	549a6a13-2d65-47d6-822f-e5411d891542 = Я ПОВИНЕН ПІТИ. ВАШЕ ЦАРСТВО В БЕЗПЕЦІ.
 
 	////4197. ORIGINAL: I ONLY ASK THAT WHEN THE NIGHT SKY DARKENS, YOU REMEMBER ME
-	4f019495-c989-495d-8c31-ed833ef9c7e7 = Я ЛИШЕ ПОПРОШУ ЩОБ ЗГАДУВАЛИ МЕНЕ, КОЛИ НІЧ ТЕМНІШАЄ.
+	4f019495-c989-495d-8c31-ed833ef9c7e7 = Я ЛИШЕ ПОПРОШУ, ЩОБ ЗГАДУВАЛИ МЕНЕ, КОЛИ НІЧ ТЕМНІШАЄ.
 
 	////4198. ORIGINAL: We will find a way, ArchDuke OldWorld.
-	eb6eeb3f-0f5c-4387-9ad9-b7a088f70e04 = Я знайду шлях, Архгерцог Старого Світу.
+	eb6eeb3f-0f5c-4387-9ad9-b7a088f70e04 = Я знайду шлях, Ерцгерцог Старого Світу.
 
 	////4199. ORIGINAL: And should you ever choose to return...
 	1d245cb6-f8af-4abb-9df6-cef1db0f4d32 = І Якщо захочеш повернутись...
@@ -12651,7 +12651,7 @@
 	9aa4f5af-dbb6-4878-8610-e82eb08782b4 = Хлюп! Хлюп! Хі-хі!
 
 	////4214. ORIGINAL: My prettiest dress is all ruined!
-	c15aa686-bc8e-4070-9c8b-7b5bb73a7336 = Моє найкраще плаття зницене!
+	c15aa686-bc8e-4070-9c8b-7b5bb73a7336 = Моє найкраще плаття знищено!
 
 	////4215. ORIGINAL: Zachary Bunny!
 	9792ee4c-b6e4-4000-9e6a-028541d7fd06 = Зайчику Захарчику!
@@ -12675,7 +12675,7 @@
 	e583fe8b-09b3-4a7c-b23a-0bd32a371d89 = Кулінарія?
 
 	////4222. ORIGINAL: Such fun! Stirring, baking, mixing it altogether.
-	d97a0cfc-94a6-46a5-a582-c46f8ed47d6a = Це чудово! Чистити, різати, змішувати і запікати!
+	d97a0cfc-94a6-46a5-a582-c46f8ed47d6a = Це чудово! Чистити, різати, змішувати й запікати!
 
 	////4223. ORIGINAL: Making such delicious food!
 	c5186d62-b8ef-4672-bfe9-79bb42e218fc = Готувати смачну їжу!
@@ -12687,10 +12687,10 @@
 	6eb3f2f1-688d-4c94-b5d1-4026c4ca33b2 = Біг?
 
 	////4226. ORIGINAL: Such fun! Puff and pant, sprint and jog.
-	714d2f2e-51e8-44e8-a526-f09761a2a4f1 = Як весело! Вдих і видих, спрінт і біг.
+	714d2f2e-51e8-44e8-a526-f09761a2a4f1 = Як весело! Вдих і видих, спринт і біг.
 
 	////4227. ORIGINAL: Seeing how fast your little legs can go!
-	6062fcac-927b-46a4-9585-5d5019139768 = Бачити як швидко ножки можуть йти!
+	6062fcac-927b-46a4-9585-5d5019139768 = Бачити як швидко ніжки можуть йти!
 
 	////4228. ORIGINAL: Almost at the finish line Moley! Not far to go!
 	ef34c556-92f4-47f5-a995-9b27859a9657 = Вже фінішна лінія Молі! Ще не далеко!
@@ -12699,10 +12699,10 @@
 	dd579b44-7819-4abb-96f0-333994940a5e = Сьогодні я порушую графік.
 
 	////4230. ORIGINAL: You'll notice you haven't heard Tim the past few days.
-	3ec9a450-f0da-4c27-9053-ce202dee9cd9 = Ви як бачите, від Тіма нічого не чути кілька днів.
+	3ec9a450-f0da-4c27-9053-ce202dee9cd9 = Як ви могли помітити, Тіма не чутно вже кілька днів.
 
 	////4231. ORIGINAL: No recipes. No weather. No Tim.
-	936437d7-73ae-4051-b419-4eb7f0e76e7f = Ніяких рецепті. Ніякої погоди. Ніякого Тіма.
+	936437d7-73ae-4051-b419-4eb7f0e76e7f = Ніяких рецептів. Ніякої погоди. Ніякого Тіма.
 
 	////4232. ORIGINAL: He's inside the Exclusion Zone.
 	61b1d42c-56d4-41a1-b9f8-1424e54c18bc = Він знаходиться в Зоні Відчуження.
@@ -12711,7 +12711,7 @@
 	37bd503a-b2c0-4a49-a284-08cfac11c2d2 = Він навіть не знає що нам довелось приспати пса.
 
 	////4234. ORIGINAL: If you know anything, anything at all...
-	7da48909-92a1-439e-aa5f-a49aa2035d63 = Якщо ви знаєте хоча би щось...
+	7da48909-92a1-439e-aa5f-a49aa2035d63 = Якщо ви знаєте хоча б щось...
 
 	////4235. ORIGINAL: ...find a way to talk to us.
 	62dc5f59-a27a-41de-a0b4-b72bff620544 = ...знайдіть спосіб з нами зв'язатись.
@@ -12726,7 +12726,7 @@
 	9d044719-977a-4103-bfba-ded967693d2a = Це занадто багато.
 
 	////4239. ORIGINAL: Way too big for us to just... believe...
-	54ee3763-ded3-465e-abd4-93770265475a = Занадто багато для нас щоб вірити...
+	54ee3763-ded3-465e-abd4-93770265475a = Занадто багато для нас, щоб вірити...
 
 	////4240. ORIGINAL: ...what they say.
 	18d5aa17-8dbc-494e-858d-2426f9557e64 = ... вірити їх словам.
@@ -12735,7 +12735,7 @@
 	1046a459-6ead-4145-acc5-192fa0e4398d = 'LBMW' сьогодні зранку: рекомендують нам 'лишатись вдома'.
 
 	////4242. ORIGINAL: Thanks guys. How about you actually do some reports?
-	aeb6cc38-1589-4c3b-8962-b5f66a0409d9 = Вельми вдячний. А як на рахунок зробити репортажі?
+	aeb6cc38-1589-4c3b-8962-b5f66a0409d9 = Вельми вдячний. А як щодо того, щоб зробити репортаж?
 
 	////4243. ORIGINAL: Tell us what's going on in there.
 	8c5cd14c-d3fb-4448-8063-2fdbcb27be4f = Розкажіть нам що відбувається.
@@ -12744,22 +12744,22 @@
 	74702d9e-e206-4d1d-a847-00d5a5d58add = Ви не можете просто так вимкнути світло в стількох округах.
 
 	////4245. ORIGINAL: It's 1993, not the dark ages.
-	ac7f9d7b-3ea1-42da-9353-459494466f01 = Це 1993 год, а не середньовічча.
+	ac7f9d7b-3ea1-42da-9353-459494466f01 = Це 1993 год, а не середньовіччя.
 
 	////4246. ORIGINAL: You can't keep a lid on this stuff.
-	aa3bb915-7950-4f40-a1a3-b51a0406f5d9 = Ви не можете тримати це під контролем
+	aa3bb915-7950-4f40-a1a3-b51a0406f5d9 = Ви не можете тримати це під контролем.
 
 	////4247. ORIGINAL: Good day folks. I just got back from a drive.
-	f49d0666-165c-4f7b-80e8-ab08c7eac0fc = Доброго дня. Я тільки що повернувся з поїздки.
+	f49d0666-165c-4f7b-80e8-ab08c7eac0fc = Доброго дня, народ. Я тільки що повернувся з поїздки.
 
 	////4248. ORIGINAL: I thought I'd try to check out the camp over on the Event border.
-	e27bbbb1-7795-4a9f-87a9-7637214dd5c6 = Я думав що попробую зупинитися в таборі на межі Зони.
+	e27bbbb1-7795-4a9f-87a9-7637214dd5c6 = Я думав що спробую зупинитися в таборі на межі Зони.
 
 	////4249. ORIGINAL: Didn't get very far.
-	b6d1894b-ef90-400a-baf8-dc609e4d0a70 = Яле не дістався далеко
+	b6d1894b-ef90-400a-baf8-dc609e4d0a70 = Яле не дістався далеко.
 
 	////4250. ORIGINAL: I even tried this little back road. All blocked.
-	6368aab6-5aaa-4755-ae69-6228aad0274e = Я навіть пробував цю маленьку запасну дорогу. Все перекрито.
+	6368aab6-5aaa-4755-ae69-6228aad0274e = Я навіть пробував цю маленьку об'їзну дорогу. Але все перекрито.
 
 	////4251. ORIGINAL: One way traffic.
 	ef1f72a0-8229-46b5-bc5b-645ce2185a0f = Односторонній трафік.
@@ -12768,7 +12768,7 @@
 	d0602169-e031-4c5c-a4a4-1c8e3cef3747 = Всі КПП озброєні.
 
 	////4253. ORIGINAL: They say they're protecting us.
-	e63dcb6d-3ff7-4440-adfa-cd260546ffc9 = Воно говорять що нас захищають.
+	e63dcb6d-3ff7-4440-adfa-cd260546ffc9 = Вони говорять, що захищають нас.
 
 	////4254. ORIGINAL: They're dying in there, we know that right?
 	a975df1c-b4ae-49bb-b10a-a1978f287562 = Люди там помирають, ми ж це знаємо?
@@ -12777,16 +12777,16 @@
 	c3dae23b-ea74-4114-87b7-033a7767869a = Я дивлюсь телевізор. Слухаю Радіо.
 
 	////4256. ORIGINAL: I'm sorry to use the word but it's all... bull crap.
-	f63e897a-44ae-41e1-ae81-c5ff5f8ab098 = Вибачте за висловлювання, але це все... гімно собаче.
+	f63e897a-44ae-41e1-ae81-c5ff5f8ab098 = Вибачте за висловлювання, але це все... лайно собаче.
 
 	////4257. ORIGINAL: Reporters over there, sitting in bed with the Army.
-	78fe1f51-fc79-4184-ab60-6daf81951a46 = Репортери там, заодно з Армією.
+	78fe1f51-fc79-4184-ab60-6daf81951a46 = Репортери там заодно з Армією.
 
 	////4258. ORIGINAL: Feeding off their scraps.
-	367bd1f6-11d2-4e73-b99d-d807f4266baf = Харчуються їхнім обрізками.
+	367bd1f6-11d2-4e73-b99d-d807f4266baf = Харчуються їхніми недоїдками.
 
 	////4259. ORIGINAL: We KNOW there are guns being fired.
-	98c4da00-692d-426a-adb9-1ae1a22e7668 = Ми ЗНАЄМО що там сртіляли.
+	98c4da00-692d-426a-adb9-1ae1a22e7668 = Ми ЗНАЄМО що там стріляли.
 
 	////4260. ORIGINAL: We KNOW they didn't all catch cold.
 	4ad9ed92-b98a-4197-b6df-b314dcb9ed1d = Ми ЗНАЄМО що грип не всі підхопили.
@@ -12801,7 +12801,7 @@
 	aca8e4df-f458-4cff-a987-6fa9541f31d2 = Це все те що я чув.
 
 	////4264. ORIGINAL: Sorry for disappearing this morning guys.
-	d48a0d7a-598d-4175-ba23-22bbbf2393c4 = Вибачаюсь за те що я пропав цього ранку.
+	d48a0d7a-598d-4175-ba23-22bbbf2393c4 = Вибачте мені за те що я пропав цього ранку.
 
 	////4265. ORIGINAL: We had a major convoy headed through towards the Exclusion border.
 	d027f502-97bc-4798-93a0-8918fecbe87a = Великий конвой направився до межі Зони Відчуження.
@@ -12816,7 +12816,7 @@
 	8ea96027-e5e3-4f04-beb5-16b0fe1cc056 = мені здалось що за мною прийшли.
 
 	////4269. ORIGINAL: Guess they have bigger fish to fry.
-	02bc7ec5-e62e-41df-84e9-0a924931b0c1 = Але, напевно, були справи важливіші .
+	02bc7ec5-e62e-41df-84e9-0a924931b0c1 = Але, напевно, були справи важливіші.
 
 	////4270. ORIGINAL: They're pushing back the exclusion boundary.
 	61cb755b-b781-4bcd-b50a-33141f1008e2 = Вони розширюють Зону Відчуження.
@@ -12825,7 +12825,7 @@
 	c9756761-deca-47f4-ba2b-5ee61e9b53c0 = Я не можу вам сказати де я зараз знаходжусь.
 
 	////4272. ORIGINAL: I'm going to stay, and I'm going to keep on talking to you.
-	17dbdf7c-6f9b-463e-b648-36790928ac0a = Я залишуть тут, і буду продовжувати з вами говорити.
+	17dbdf7c-6f9b-463e-b648-36790928ac0a = Я залишусь тут, і буду продовжувати з вами говорити.
 
 	////4273. ORIGINAL: I'm taking my equipment.
 	6fe532f4-ee43-4c84-bff8-150906e4c1f4 = В мене з собою все необхідне.
@@ -12837,7 +12837,7 @@
 	01cfd0e3-494e-4d68-8dca-fa85844cb8b3 = Я бачив цю картину, можливо ви теж.
 
 	////4276. ORIGINAL: It's from West Point, taken a few days ago I guess.
-	63954b97-7bb4-4669-b7d4-a44448c30d12 = Це з Вест-Поінту, декілька днів тому.
+	63954b97-7bb4-4669-b7d4-a44448c30d12 = Це з Вест-Пойнта, декілька днів тому.
 
 	////4277. ORIGINAL: The film got out. Got processed.
 	8b3e61ce-348f-4c7c-b162-1edf403ae5a6 = Відео розійшлося. Його обробили.
@@ -12846,19 +12846,19 @@
 	5e78a099-f226-4d94-8800-ccfa1b45e430 = Там цей хлопчина. Всі губи в крові.
 
 	////4279. ORIGINAL: Arm hanging on him by a thread.
-	29b651a0-6642-4539-a82e-38f5abdfa3b6 = Йог овідрубана рука висіла як на нитках.
+	29b651a0-6642-4539-a82e-38f5abdfa3b6 = Його відрубана рука висіла як на нитках.
 
 	////4280. ORIGINAL: Still walking.
 	ad37c1c3-c0d4-4319-8960-dfb478323b49 = А він все ще стояв.
 	// і фурт-фурт ладував...
 	////4281. ORIGINAL: Still walking in this street full of corpses.
-	3cbdc6d5-23ff-4ab3-8ad8-ecc07c929bf9 = Досі ходить по вулицям повним мертвих.
+	3cbdc6d5-23ff-4ab3-8ad8-ecc07c929bf9 = Досі ходить по вулицях повними мертвих.
 
 	////4282. ORIGINAL: We know the truth now.
 	31663750-2b15-4fdc-88f3-b50d1bdc035d = Тепер ми знаємо правду.
 
 	////4283. ORIGINAL: The truth is... pure hell.
-	7a4c57ca-4360-4921-8713-d58551316a8f = Правда в тому... що це справже пекло.
+	7a4c57ca-4360-4921-8713-d58551316a8f = Правда в тому... що це справжнє пекло.
 
 	////4284. ORIGINAL: We KNOW we're being lied to.
 	0b5466b0-e674-400f-909c-ecdaf75a2461 = Ми знаємо що нам брешуть.
@@ -12873,16 +12873,16 @@
 	3025db04-a199-401d-9af1-dc0cdd4a2eeb = Спостерігати як знищується комуна?
 
 	////4288. ORIGINAL: It's because we're poor.
-	f886f7f9-ffef-4bb0-9a5c-ba0cc6d46fbe = Це тому що ми бідні
+	f886f7f9-ffef-4bb0-9a5c-ba0cc6d46fbe = Це тому, що ми бідні
 
 	////4289. ORIGINAL: If this was New York, or Chicago or... anywhere.
-	b5776491-1647-4dd4-84a0-03af2adf15b7 = Якби це був Нью Йорк, чи Чікаго... будь-де.
+	b5776491-1647-4dd4-84a0-03af2adf15b7 = Якби це був Нью-Йорк, чи Чикаго... будь-де.
 
 	////4290. ORIGINAL: People would care. They'd be up in arms.
 	86f9a8ed-5da8-46ce-93c9-654390452439 = Тоді б вони переживали. Вони б були озброєні.
 
 	////4291. ORIGINAL: The media would give a shit.
-	1556b8e7-af84-441a-a819-93a6884ebc6d = ЗМІ тоді би хвилювались.
+	1556b8e7-af84-441a-a819-93a6884ebc6d = ЗМІ тоді б хвилювались.
 
 	////4292. ORIGINAL: We don't get movies made about us.
 	866d4f08-e855-4a95-ac7a-4f9328c73687 = Про нас не знімуть фільми.
@@ -12912,10 +12912,10 @@
 	605dba57-91df-4fc9-b6f3-432aad90d13b = Немає ніяких перевірок.
 
 	////4301. ORIGINAL: They don't examine for any infection.
-	e13caba7-2e82-4051-a69f-87622707044d = Вони не перевіряють на зараженість .
+	e13caba7-2e82-4051-a69f-87622707044d = Вони не перевіряють на зараженість.
 
 	////4302. ORIGINAL: They shout a warning, then you get a bullet.
-	34bfd86e-e27b-4607-ac72-02ff12c02009 = Вони викрикують оппередження, а потім стріляють.
+	34bfd86e-e27b-4607-ac72-02ff12c02009 = Вони викрикують попередження, а потім стріляють.
 
 	////4303. ORIGINAL: I'm in a camp just south of the river.
 	e2dcf73a-7433-4d2c-9ab7-04cde91934a4 = Я в таборі на півдні річки.
@@ -12933,7 +12933,7 @@
 	d9b69c95-6760-4e8b-8f03-797ae1080074 = Ми не можемо вийти тому підемо в середину...
 
 	////4308. ORIGINAL: We're hoping Muldraugh or West Point will have supplies.
-	33e5e56e-7dc6-4eb5-bad1-4fc744daf304 = Ми сподіваємо, що в Малдро та Вест Поінті будуть припаси.
+	33e5e56e-7dc6-4eb5-bad1-4fc744daf304 = Ми сподіваємося, що в Малдро та Вест-Пойнті будуть припаси.
 
 	////4309. ORIGINAL: Maybe some other people caught up in all this shit.
 	3eb6de5a-a4f0-476d-8478-89f742395dc1 = Можливо буде ще хтось живий.
@@ -12942,7 +12942,7 @@
 	05e5acd4-46a0-496f-acd9-0f8bf438e6bc = Для радіо треба електрики.
 
 	////4311. ORIGINAL: So, unless we find someplace...
-	26e22d16-680a-4156-8f61-e6a88afd3f1a = Тому, якщо ми найдем місцину...
+	26e22d16-680a-4156-8f61-e6a88afd3f1a = Тому, якщо ми найдемо місцину...
 
 	////4312. ORIGINAL: ... I don't know.
 	70b32c3a-018a-472c-831e-9e3a523040cf = ... Не знаю.
@@ -12966,7 +12966,7 @@
 	24382085-5d0b-418e-a11e-124e8ad33925 = Як це можливо?
 
 	////4319. ORIGINAL: There's no flights, there's no way...
-	5d969f9f-e8d8-4162-a6c8-c222c7482efa = Польоти відмінені. немає шан....
+	5d969f9f-e8d8-4162-a6c8-c222c7482efa = Польоти скасовані, немає шан....
 
 	////4320. ORIGINAL: This could be it... couldn't it?
 	d06e47fb-b996-490c-a90a-aca28aef8150 = Це може бути все... Чи не так?
@@ -12987,10 +12987,10 @@
 	469d90a3-d41f-4b1c-91a0-ac03f814c913 = Срань, я навіть не знаю де ми є.
 
 	////4326. ORIGINAL: This is Hal broadcasting out of Nashville.
-	710fdcba-f246-410b-912a-321bab3cf755 = Я Хал, передаю з Нешвіля.
+	710fdcba-f246-410b-912a-321bab3cf755 = Я Хал, передаю з Нешвілла.
 
 	////4327. ORIGINAL: We're in the Nashville Air Guard Base.
-	ae7302bb-f246-41cf-b8c8-ffcde75b5bfd = Ми на військовій авіабазі в Нешвілі.
+	ae7302bb-f246-41cf-b8c8-ffcde75b5bfd = Ми на військовій авіабазі в Нешвіллі.
 
 	////4328. ORIGINAL: Right by the airport.
 	92788325-b86e-4bc6-b0f2-f738576b13e3 = Поруч з аеропортом.
@@ -13008,19 +13008,19 @@
 	576966f3-2e19-40e2-b2b9-38984646c05a = Якщо ви зможете до нас дістатись, в нас є їжа та ліжка.
 
 	////4333. ORIGINAL: You'll just need to find a way to distract  the...
-	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Вам лише треба буде знайти спосіб щоб відволікти...
+	54eaf3bf-6409-4851-81f3-f35c4812c6c4 = Вам лише треба буде знайти спосіб, щоб відволікти...
 
 	////4334. ORIGINAL: ... horde that's at our gates.
 	172dde79-c449-49bb-aaa3-7742b5c13a87 = ... орду що в нас під воротами.
 
 	////4335. ORIGINAL: That'd be one hell of a favor anyways.
-	5d6ef0fd-fbd6-43e9-a814-647c2223983f = В будь якому випадку це би було до чорта корисним.
+	5d6ef0fd-fbd6-43e9-a814-647c2223983f = В будь-якому випадку це було б до чорта корисним.
 
 	////4336. ORIGINAL: Friendlies only.
 	24c63251-bc2d-4a7b-93e5-8229317dc016 = Ми приймаємо лише дружній настрій.
 
 	////4337. ORIGINAL: You can trust us, but be aware that we will not trust you.
-	a00a1b84-e593-4b8e-b668-8873135df30c = Ви можене нам довіритись, але вам ми довіряти не будемо.
+	a00a1b84-e593-4b8e-b668-8873135df30c = Ви можете нам довіритись, але вам ми довіряти не будемо.
 
 	////4338. ORIGINAL: Not for a while.
 	d18d82ed-10a7-49ce-b1fc-b2fd992fa0c3 = Деякий час.
@@ -13041,7 +13041,7 @@
 	6c8389ea-2d80-4cc1-9bf1-f2604affb456 = Але ми живі.
 
 	////4344. ORIGINAL: We have supplies to share.
-	afc44223-90d0-47dd-8093-254dca162e7d = В нас є запаси шоб розділити.
+	afc44223-90d0-47dd-8093-254dca162e7d = В нас є запаси, щоб розділити.
 
 	////4345. ORIGINAL: No weapons.
 	450327cd-2090-421d-bf7f-83f3932bcc17 = Без зброї.
@@ -13080,7 +13080,7 @@
 	9c8e6c21-343d-4ba9-a8a1-b376f9a0af79 = Не звертайте уваги на цю дурню про 'лишатись вдома'.
 
 	////4357. ORIGINAL: Whoever recorded that is long gone.
-	ab549c29-c55d-40bc-b94c-63109c507a89 = Те, кто записывал это сообщение, уже канули в лету.
+	ab549c29-c55d-40bc-b94c-63109c507a89 = Тих, хто це записав, давно вже немає.
 
 	////4358. ORIGINAL: Come to us.
 	c9e03f12-8e8c-4751-affa-b9229ae4f094 = Йдіть до нас.
@@ -13113,7 +13113,7 @@
 	c81cc53e-9a35-4590-bd3c-4ec5597eb036 = Це не жарт.
 
 	////4368. ORIGINAL: We're in the Air National Guard Base.
-	9ed90d9b-06c9-4a54-87ef-3708d9aa67e3 = Ми на авіабазі .
+	9ed90d9b-06c9-4a54-87ef-3708d9aa67e3 = Ми на авіабазі.
 
 	////4369. ORIGINAL: Today we had four people get to the camp...
 	20cb5bce-f02f-4001-ba82-f6fbd246a0c8 = Сьогодні прийняли 4-х людей...
@@ -13128,7 +13128,7 @@
 	3149bba8-b690-4502-957b-2c940ee2a6d6 = Я знаю, що ви слухаєте
 
 	////4373. ORIGINAL: That safe house won't last forever.
-	667356b5-6ede-4d44-a166-d12f9fef8d28 = Ваш сховок не сможе вас захищати вічно.
+	667356b5-6ede-4d44-a166-d12f9fef8d28 = Ваш сховок не зможе вас захищати вічно.
 
 	////4374. ORIGINAL: You know where we are.
 	547c404c-265c-4900-8061-1844849239fe = Ви знаєте де нас знайти.
@@ -13137,7 +13137,7 @@
 	02fdcc3b-2079-4b36-8d90-845677188c6a = Місця закінчуються...
 
 	////4376. ORIGINAL: ... we've taken a vote and soon we raise the drawbridge.
-	88e5eba9-809e-4a11-82a1-6829855a77da = ...ми проголосували і скоро закриємось.
+	88e5eba9-809e-4a11-82a1-6829855a77da = ...ми проголосували та скоро закриємось.
 
 	////4377. ORIGINAL: It's a democracy over here still.
 	a9a2b682-c6a7-4ec2-8f84-1d7699c900b6 = В нас тут демократія.
@@ -13158,7 +13158,7 @@
 	d75e9d8b-3edc-4bd3-a69b-2c9dd05cd098 = Ми щойно захопили укріплення на Авіабазі.
 
 	////4383. ORIGINAL: It's close to Nashville. Right by the airport.
-	9c2e6077-2d2e-43f5-baba-5947754173e4 = Це недалеко від Нешвіля, поруч з аеропортом.
+	9c2e6077-2d2e-43f5-baba-5947754173e4 = Це недалеко від Нешвілла, поруч з аеропортом.
 
 	////4384. ORIGINAL: I'm going to broadcast every night here from now on.
 	53f0ce77-90c8-45e4-bd5d-3f3b3a53ac1a = Я буду транслювати звідси кожну ніч.
@@ -13197,7 +13197,7 @@
 	94a5667c-9037-4272-9dab-599bd0e1ca1f = Людей з імунітетом, що тут були, прогнали.
 
 	////4396. ORIGINAL: The Dead got to them.
-	afdc0773-c6ca-47e8-9fee-f7208129f6c9 = Мертвяки до них дістались .
+	afdc0773-c6ca-47e8-9fee-f7208129f6c9 = Мертвяки до них дістались.
 
 	////4397. ORIGINAL: We've rebuilt their defences.
 	dca45a47-a8f4-4a4a-990d-f4b00976e8d0 = Ми відремонтували укріплення.
@@ -13224,7 +13224,7 @@
 	0a96a0d5-e96e-4daf-9ed2-84320fc75c48 = Спочатку появляється гарячка, всі можуть підхопити.
 
 	////4405. ORIGINAL: People died real quick and... it happened.
-	cdfd6074-ef36-447f-b613-225bc8793f21 = Люид вмирають дуже швидко... потім це стається.
+	cdfd6074-ef36-447f-b613-225bc8793f21 = Люди вмирають дуже швидко... потім це стається.
 
 	////4406. ORIGINAL: Now: they get their teeth into you? You're one of them.
 	256909f6-2de6-462a-a64f-99954bc4e23f = Якщо вони вас вкусили - ви один з них.
@@ -13236,13 +13236,13 @@
 	687365f7-960d-4dbc-9282-d68e0efcb8ea = В них є снайпери.
 
 	////4409. ORIGINAL: They don't ask questions.
-	5eba4ccb-10c1-44c3-98c4-8cbd26ab0e9e = Вони не задають питання.
+	5eba4ccb-10c1-44c3-98c4-8cbd26ab0e9e = Вони не ставлять питання.
 
 	////4410. ORIGINAL: But making that kinda noise...
 	2ca2c8d3-7649-434b-90e9-bd10af7eaf32 = Але вони шумні...
 
 	////4411. ORIGINAL: Noise attracts the dead.
-	315fd99a-4c64-4386-9db1-549bdf3f2090 = Шум приваблює метрвих.
+	315fd99a-4c64-4386-9db1-549bdf3f2090 = Шум приваблює мертвих.
 
 	////4412. ORIGINAL: There are so many here, and so quickly.
 	338f601b-06ee-4735-905f-16eb8e471d65 = Їх тут багато, і збирають швидко.
@@ -13281,10 +13281,10 @@
 	e026c08a-32a1-4548-8cd0-b4a22830bae8 = Привіт, старий! Біп Біп!
 
 	////4424. ORIGINAL: England! With the Olde English Renaissance Pizza!
-	d4927b4f-393c-4461-8aae-81308f2de8c1 = Англія! З старою доброю англійсько-ренесаанською Піцою!
+	d4927b4f-393c-4461-8aae-81308f2de8c1 = Англія! Зі старою доброю англійсько-ренесаанською Піцою!
 
 	////4425. ORIGINAL: Cheddar cheese, black pudding, egg and bacon...
-	5063ee85-cb64-4eeb-877b-5063069ca6ad = Сир Чедар, кров'янка, яйце і бекон...
+	5063ee85-cb64-4eeb-877b-5063069ca6ad = Сир Чедер, кров'янка, яйце і бекон...
 
 	////4426. ORIGINAL: ... lovingly layered on a thick Pizza Whirled Crust!
 	79f9a4c1-3828-4076-b099-20edfae888f3 = ... з любов'ю розкладено на грубій паланиці від 'Pizza Whirled'!
@@ -13296,7 +13296,7 @@
 	f50686a6-f502-484b-9631-d92736853438 = Це фантастично!
 
 	////4429. ORIGINAL: I'll say!
-	c546dce2-5e65-49a0-a1f0-63f9bbd4998d = Я би сказав!
+	c546dce2-5e65-49a0-a1f0-63f9bbd4998d = А я що кажу!
 
 	////4430. ORIGINAL: Tough day?
 	9ebb8ef9-d841-475b-968f-51a1dfdab27f = Важкий день?
@@ -13317,10 +13317,10 @@
 	33d845cc-9440-4a98-aa8b-26d44c441835 = Шоколадний ріжок від 'Churn R' Us'!
 
 	////4436. ORIGINAL: Come visit today!
-	2248c033-d107-4cbf-894b-db2392e64577 = Приходіть сьогодні!
+	2248c033-d107-4cbf-894b-db2392e64577 = Приходьте сьогодні!
 
 	////4437. ORIGINAL: The Caramel Flan Latte!
-	9c0e616f-7795-4505-a20e-2f1b78727255 = Карамельний флан латте!
+	9c0e616f-7795-4505-a20e-2f1b78727255 = Карамельний Флан Латте!
 
 	////4438. ORIGINAL: Brand new at Seahorse Coffee!
 	c4c2b01d-48a1-44f6-a31e-feac6e8460b4 = З новим смаком, лише в кав'ярні "Морський коник"!
@@ -13332,22 +13332,22 @@
 	43c39d76-044a-4703-ac56-5201919b7850 = Він надає крила, ви хочете це!
 
 	////4441. ORIGINAL: There's no better way to start the day!
-	72a6f9f9-bd94-492a-bf8d-e0caacb73610 = Найкращій спосіб почати день!
+	72a6f9f9-bd94-492a-bf8d-e0caacb73610 = Найкращий спосіб почати день!
 
 	////4442. ORIGINAL: "Welcome to Seahorse Coffee! What can I get you today?"
 	976670d7-c82c-4844-bb70-d8971efd13e7 = Ласкаво прошу в "Морський коник"! Чим вам допомогти?
 
 	////4443. ORIGINAL: "One Caramel Flan Latte!"
-	127147cd-f820-4060-8556-3a0f16e81c98 = 'Один Карамельний флан латте!'
+	127147cd-f820-4060-8556-3a0f16e81c98 = 'Один Карамельний Флан Латте!'
 
 	////4444. ORIGINAL: "Coming right up!"
-	33e32af2-1f24-4138-8e3d-51fb0dbe1034 = 'Одну секундочу!'
+	33e32af2-1f24-4138-8e3d-51fb0dbe1034 = 'Одну секундочку!'
 
 	////4445. ORIGINAL: [img=music] Never let the music stop! [img=music]
 	04ed02bc-38b6-4384-8de8-fc5b20003ed9 = [img=music] Завжди наспівуй це! [img=music]
 
 	////4446. ORIGINAL: [img=music] Grab, grab, grab a can of... POP! [img=music]
-	684663bd-96d5-421c-ac90-e21e71d82c22 = [img=music] Гоп стоп! Чи маєш банку... ПОП? [img=music]
+	684663bd-96d5-421c-ac90-e21e71d82c22 = [img=music] Гоп-стоп! Чи маєш банку... ПОП? [img=music]
 
 	////4447. ORIGINAL: Have you tried new Orange-Lite Pop?
 	e24f218b-bf2f-4ccd-b1e4-3dc8fc1627ff = Ти куштував новий лимонад 'Гоп Поп'?
@@ -13389,7 +13389,7 @@
 	8cebc40e-3c73-4641-b171-d84856c530f5 = Цей світ мінливий.
 
 	////4460. ORIGINAL: You need people to rely on.
-	8a53eb2e-5940-4eef-a35e-a20011244b9e = Вам потрібні люди щоб довіряти.
+	8a53eb2e-5940-4eef-a35e-a20011244b9e = Вам потрібні люди, щоб довіряти.
 
 	////4461. ORIGINAL: People to trust.
 	93ab9c85-17a9-4094-adce-4e09d0584a7e = Надійні люди
@@ -13398,7 +13398,7 @@
 	f194e606-ffe3-4b8d-b42d-ef43eb15fa5a = У нас в 'Fossoil' це розуміють.
 
 	////4463. ORIGINAL: We've cleaned up the Gulf of Alaska.
-	e22a11be-41c4-439f-bac1-52dc3cce813c = Ми очистили затоки аляски.
+	e22a11be-41c4-439f-bac1-52dc3cce813c = Ми очистили затоки Аляски.
 
 	////4464. ORIGINAL: We've cleaned up our act.
 	ab5fb82a-3422-4146-98e2-6b7c111fc8db = Ми прибрали за собою.
@@ -13410,7 +13410,7 @@
 	78af54c5-9409-4788-ae76-52f152afc516 = Будемо йти в майбутнє разом.
 
 	////4467. ORIGINAL: Let's see others do the same.
-	450a1caa-8afa-4ec2-9d66-14734995bf49 = Побачим чи інші зроблять теж.
+	450a1caa-8afa-4ec2-9d66-14734995bf49 = Побачимо чи інші зроблять теж.
 
 	////4468. ORIGINAL: Deep in the Magical Woodland.
 	44bcf1a1-a0d5-4697-b799-8df576421cd1 = В темному магічному лісі.
@@ -13476,7 +13476,7 @@
 	45831fc2-f69e-40bd-bf79-a33e3098ba23 = ... але тривога є завжди.
 
 	////4489. ORIGINAL: You need a safety net.
-	de92d49e-0213-494e-89cf-b9f998db3302 = Вам потрібна страхівка.
+	de92d49e-0213-494e-89cf-b9f998db3302 = Вам потрібне страхування.
 
 	////4490. ORIGINAL: You need reassurance.
 	23cd8d14-0392-40d5-83e5-80a727565c51 = Вам потрібна впевненість.
@@ -13485,7 +13485,7 @@
 	460e7fad-8175-4501-9050-bfa919721fee = Сьогодні, друже, тобі потрібно 'ValuInsurance'.
 
 	////4492. ORIGINAL: Medical care to look after all of your tomorrows.
-	968ca2e3-f96d-4c42-a5a2-d35572a5d351 = Медична допомога щоб доглянути за всіма твоїми 'завтра'.
+	968ca2e3-f96d-4c42-a5a2-d35572a5d351 = Медична допомога, щоб доглянути за всіма твоїми 'завтра'.
 
 	////4493. ORIGINAL: [img=music] I love Wok and Rolls! [img=music]
 	7583e5a4-31cc-4155-aabb-3f4f913e5745 = [img=music] Я люблю Вок і Роли! [img=music]
@@ -13497,7 +13497,7 @@
 	f69ede64-4083-4cb7-b82e-ca8f29cfac93 = [img=music] Нумо разом скуштуємо! [img=music]
 
 	////4496. ORIGINAL: Our award winning breakfast menu is BACK through public demand!
-	efe9afbe-e3f6-4c28-a548-7964536bedf4 = За проханням людей ми повернули наші виграшні сніданки!
+	efe9afbe-e3f6-4c28-a548-7964536bedf4 = На прохання людей ми повернули наші виграшні сніданки!
 
 	////4497. ORIGINAL: Come visit 'I *heart* Wok and Rolls today!
 	671135b0-8cb2-4d1e-bf18-be82f7b08e3d = Приїжджайте в 'Я *сердечко* Вок і Роли' сьогодні!
@@ -13530,7 +13530,7 @@
 	eb21cefd-76a0-41de-b2dd-6a45822fb21c = Стихії сьогодні проти нас, а?
 
 	////4507. ORIGINAL: Not for long. Let's kick some butt!
-	2d2d1b9b-11c8-4ff4-a2c9-6a0161310e25 = Ще не довго. Давай надремо комусь сраку!
+	2d2d1b9b-11c8-4ff4-a2c9-6a0161310e25 = Ще не довго. Давай надеремо комусь сраку!
 
 	////4508. ORIGINAL: *tadaaaa!*
 	ad2512d5-908a-41b0-8e76-8a45ff9d121c = *та-да-а-а-а!*
@@ -13569,7 +13569,7 @@
 	75fa01e1-5c17-493a-b539-1d009ade45f2 = 'Др.Оїди', Рейтинг Універсальний.
 
 	////4520. ORIGINAL: It makes a difference to pick up your medication...
-	f5969765-ff22-4bff-9d35-05c5a5bb8098 = Я різниця коли ви купуєте лікарсво...
+	f5969765-ff22-4bff-9d35-05c5a5bb8098 = Є різниця, коли ви купуєте ліки...
 
 	////4521. ORIGINAL: ... and see a smile.
 	72516138-6dae-41b2-ba27-8003b91c2313 = ... і бачите посмішку.
@@ -13596,10 +13596,10 @@
 	9321a6af-16e3-426a-96a9-2a0d5c3274a0 = Запитайте вашого лікаря сьогодні!
 
 	////4529. ORIGINAL: "I'm Tooks Bear! Let's go on an adventure!"
-	0b529010-9da0-472f-a28d-3503859b308e = 'Я медведик Тукс! Давай  шукати пригоди!'
+	0b529010-9da0-472f-a28d-3503859b308e = 'Я Ведмедик Тукс! Нумо шукати пригоди!'
 
 	////4530. ORIGINAL: We sure will Tooks! For $49.99 who'd resist?
-	af296a0e-f561-4f4e-9fff-ae8a65900803 = Звичано Тукс! Хто встоїть за $49.99.
+	af296a0e-f561-4f4e-9fff-ae8a65900803 = Звичайно Тукс! Хто встоїть за $49.99.
 
 	////4531. ORIGINAL: I am a cow.
 	68b1fee8-5fd9-4166-a9ff-43331eae097d = Я корова.
@@ -13611,7 +13611,7 @@
 	d6fbe118-d041-4958-9501-8abf24255a52 = Щось.... за-му-ууу-рожене.
 
 	////4534. ORIGINAL: Come to Churn R Us.
-	a391af64-dbb9-4a0e-b46b-5f93b9ee10d8 = Заходіть до 'Churn R Us'.
+	a391af64-dbb9-4a0e-b46b-5f93b9ee10d8 = Заходьте до 'Churn R Us'.
 
 	////4535. ORIGINAL: Enjoy ice cream from our very own Daisy Dairy.
 	9ab797ee-1cca-4957-80f7-477c6beb0773 = Насолоджуйтесь морозивом від власної корівки.
@@ -13620,7 +13620,7 @@
 	0f2ad995-891c-4b6d-813d-defe5d4772fc = Відчуй найситніший вибух смаку, відомий людству.
 
 	////4537. ORIGINAL: This. This is the message of the cows.
-	2a3e552a-4c36-493c-a896-6ca247132fd3 = Це. це послання коров.
+	2a3e552a-4c36-493c-a896-6ca247132fd3 = Це послання корів.
 
 	////4538. ORIGINAL: [img=music] Churn R Us! Arms above your head! [img=music]
 	94dc1227-a766-43c3-b4aa-fdccb467bff3 = [img=music] Churn R Us! Торкніться руками до неба! [img=music]
@@ -13668,16 +13668,16 @@
 	88b95c0d-7275-4416-985b-2380e806ef22 = [img=music] Дуже СМАЧНО! смачна рибка та чипси! [img=music]
 
 	////4553. ORIGINAL: Authentic British cuisine!
-	b007b91a-52f6-4841-9060-cafffdb5be5a = Автентнична Британська кухня!
+	b007b91a-52f6-4841-9060-cafffdb5be5a = Автентична Британська кухня!
 
 	////4554. ORIGINAL: Try our new Biscuit and Gravy menu!
 	15e6f9df-6254-42ba-9b93-1197880cc88a = Спробуйте наше нове меню печива та соусів !
 
 	////4555. ORIGINAL: Bottomless iced tea!
-	e9408199-ae4e-4da6-89b1-bb72a548e748 = Безкінечний чай з льодом!
+	e9408199-ae4e-4da6-89b1-bb72a548e748 = Нескінченний чай з льодом!
 
 	////4556. ORIGINAL: Come today!
-	b688524b-9cb0-4c4f-b994-9d68448e8eef = Приходіть сьогодні!
+	b688524b-9cb0-4c4f-b994-9d68448e8eef = Приходьте сьогодні!
 
 	////4557. ORIGINAL: Howdy Neighbor!
 	51a63f37-9d4f-41d3-be4e-260a0b70212a = Привіт, Сусіде!
@@ -13701,7 +13701,7 @@
 	c26f3053-fffe-4b98-a5c9-fbcbc8201f2b = Приїжджайте до нас сьогодні!
 
 	////4564. ORIGINAL: What's your gun to you Kentucky?
-	e5267375-5a38-4ebd-b965-8ebfe6a7bd5f = Що таке зброя для вас, Кентукі?
+	e5267375-5a38-4ebd-b965-8ebfe6a7bd5f = Що таке зброя для вас, Кентуккі?
 
 	////4565. ORIGINAL: "Freedom. Plain and simple."
 	8d92ea8f-54e0-47ec-8d1a-4c5b8d1f2103 = 'Свобода. Просто і легко.'
@@ -13713,22 +13713,22 @@
 	14048716-7e38-40f6-b158-06ece3f3e4a1 = 'Моя зброя? Це моя п'ятниця з друзами на стрільбищі!'
 
 	////4568. ORIGINAL: The West Point Gun Range and Hunting Center.
-	897897c3-1f31-4922-b334-c023786ab5c5 = Центр полювання та Стрільбище Вест Поінт.
+	897897c3-1f31-4922-b334-c023786ab5c5 = Центр полювання та Стрільбище Вест-Пойнт.
 
 	////4569. ORIGINAL: Are you ready for Popcorn Thursday?
-	b142a86b-713f-44e9-a4b6-05e380ae1d5f = Готові до попкорн Четверга?
+	b142a86b-713f-44e9-a4b6-05e380ae1d5f = Готові до Попкорн Четверга?
 
 	////4570. ORIGINAL: Come to the Star-E-Plex theater for action.
-	ff50b345-fae7-4719-b1ca-3a0fd59350a7 = Заходіть до 'Star-E-Plex', театр дій.
+	ff50b345-fae7-4719-b1ca-3a0fd59350a7 = Заходьте до 'Star-E-Plex', театру дій.
 
 	////4571. ORIGINAL: Come to the Star-R-Plex theater for romance.
-	fc2762a5-7718-4b27-a0f6-eea867f1d7ca = Зоходіть до 'Star-R-Plex', Театр романсу.
+	fc2762a5-7718-4b27-a0f6-eea867f1d7ca = Заходьте до 'Star-R-Plex', театру романсу.
 
 	////4572. ORIGINAL: Come every Thursday for HALF PRICE popcorn.
-	ba9f23dc-b241-49de-8306-ec6bb20abcb6 = Заходіть кожного четверга, попкорн за ПІВ ЦІНИ.
+	ba9f23dc-b241-49de-8306-ec6bb20abcb6 = Заходьте кожного четверга, попкорн за ПІВ ЦІНИ.
 
 	////4573. ORIGINAL: Find us at the Cross Roads Mall!
-	4418e5c3-f3e8-4935-90a6-eaa939de12a9 = Шукайте нах в ТЦ 'Cross Roads'!
+	4418e5c3-f3e8-4935-90a6-eaa939de12a9 = Шукайте нас в ТЦ 'Cross Roads'!
 
 	////4574. ORIGINAL: The Barge-N-Clothes discount sale is now on!
 	28f7e457-3ae9-4b8d-ae6c-4fd839e1f804 = Знижки в 'Barge-N-Clothes', почались!
@@ -13743,22 +13743,22 @@
 	69a70ba7-487e-4197-a4e5-f2456098486d = Чи можете ви пропустити такі знижки?
 
 	////4578. ORIGINAL: Come on down to Barge-N-Clothes!
-	c353aa82-8d97-44f4-810a-a6052ce2e1a6 = Приходіть в 'Barge-N-Clothes'!
+	c353aa82-8d97-44f4-810a-a6052ce2e1a6 = Приходьте у 'Barge-N-Clothes'!
 
 	////4579. ORIGINAL: It's hot. It's too darn hot.
 	7ac1420f-ce1e-4eac-8dfa-98e4437b564b = Жарко. До біса жарко.
 
 	////4580. ORIGINAL: You feel that? That's Kentucky heat y'all.
-	81716bc9-ea18-4f60-a26c-82844e1b381f = Ви це відчуваєте? Це тепло від Кентукі.
+	81716bc9-ea18-4f60-a26c-82844e1b381f = Ви це відчуваєте? Це тепло від Кентуккі.
 
 	////4581. ORIGINAL: You know what science just created?
 	614113fd-44f8-453a-a745-13220385a0ae = Ви знаєте що вчені придумали?
 
 	////4582. ORIGINAL: The Slurp Burp - the number one iced drink to take that heat away.
-	193d40c2-60e2-4b6c-8905-50c9d5632ea7 = 'Slurp Burp' - номер один серед охолоджуючих напоїв.
+	193d40c2-60e2-4b6c-8905-50c9d5632ea7 = 'Slurp Burp' - номер один серед охолоджувальних напоїв.
 
 	////4583. ORIGINAL: What's more - you turn up at a Zippee Market and say 'it's too darn hot'...
-	2d03c03b-8463-46f3-ab49-4c2338901490 = А краще - аи приїжаєте в 'Zippee Market' і говорите 'бляха, як тут жарко'...
+	2d03c03b-8463-46f3-ab49-4c2338901490 = А краще - ви приїжджаєте у 'Zippee Market' і говорите 'бляха, як тут жарко'...
 
 	////4584. ORIGINAL: That's 10% off your Slurp Burp purchase!
 	b24b6004-76da-4633-8c82-ffbce69b4522 = І це знижка 10% на купівлю 'Slurp Burp'!
@@ -13779,7 +13779,7 @@
 	62aeb60a-ae50-4f48-ba6d-c5c5712b4871 = Подвійний XL-Бекон!
 
 	////4590. ORIGINAL: Next time you're in a participating Spiffo's store...
-	213f7f20-9a8b-47c3-ac9c-86df6e99d62d = Наступного разу як зайтеде в 'Spiffo'...
+	213f7f20-9a8b-47c3-ac9c-86df6e99d62d = Наступного разу як зайдете у 'Spiffo'...
 
 	////4591. ORIGINAL: Just use the magic words...
 	98889c66-39e6-4fbe-94ba-bc3f926aa286 = ...просто використайте магічні слова...
@@ -13797,10 +13797,10 @@
 	bd78a2b6-1aca-4271-b884-8c81c32f018f = Ей, мене звуть Панчо.
 
 	////4596. ORIGINAL: I am a leetle puppy dog!
-	e20c46c3-f2a9-4298-b495-2bfd25560188 = А мавенький песик!
+	e20c46c3-f2a9-4298-b495-2bfd25560188 = Я маленький песик!
 
 	////4597. ORIGINAL: I am 'ere to tell you one thing.
-	bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f = Я туть шоб дешо вам сказати.
+	bcd6bf7c-fb93-44f1-a49f-16d3fdfb397f = Я туть щоб дешо вам сказати.
 
 	////4598. ORIGINAL: TACOS! BURRITOS! ENCHILLLLADAS!
 	df856737-76e0-48c3-9c06-43fa97bb4ad2 = ТАКО! БУР-РІТО! ЕНХІЛАДО!
@@ -13809,7 +13809,7 @@
 	8c1e5c92-b42e-4222-ad8d-4c0f90bae572 = ЦЕ ДУЖЕ СМАЧНО!
 
 	////4600. ORIGINAL: COME TO THE TACO DEL PANCHO!
-	8af01ccb-40bd-4863-b668-b16fb1eeb746 = ПРИХОДІТЬ ДО ТАКО ДЕ ПАНЧО!
+	8af01ccb-40bd-4863-b668-b16fb1eeb746 = ПРИХОДЬТЕ ДО ТАКО ДЕ ПАНЧО!
 
 	////4601. ORIGINAL: Take it from me! I'm wearing a hat!
 	5ec18628-1f94-4560-ae72-a3b26c54e1bc = Купуйте в мене! Я в шапці!
@@ -13818,13 +13818,13 @@
 	2885a9cf-878c-4f67-a6ca-3a417c0666d7 = Арріба!
 
 	////4603. ORIGINAL: My name's Valerie Pontin, and I work for Gas to Go!
-	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = Моє їм'я Валері Понтін, я працюю на 'Gas to Go'!
+	c2548cbd-2d91-42b8-ac10-7ab406729cc1 = Моє ім'я Валері Понтін, я працюю на 'Gas to Go'!
 
 	////4604. ORIGINAL: Sure, we're a big name - but we know family.
 	ad5f91f7-05f5-4766-bfa0-2293f82d307c = Звичайно ми велика компанія - але ми знаємо сім'ї.
 
 	////4605. ORIGINAL: I need to take Jimmy to ball practice.
-	ddb77846-e734-4334-8ba4-6cf5a1f0a63b = Мені треба завезти Джимі на бейсбол.
+	ddb77846-e734-4334-8ba4-6cf5a1f0a63b = Мені треба відвезти Джимі на бейсбол.
 
 	////4606. ORIGINAL: Sally-Anne needs to meet her friends at the mall by five.
 	992f9072-8c18-404d-8125-e1ce0a12e7b6 = Саллі-Анн має зустрітись з друзями в ТЦ о п'ятій.
@@ -13833,7 +13833,7 @@
 	263c30c5-0783-492c-8966-73adb6ecffed = Тому я можу бути спокійна знаючи що я заливаю найдешевший газ в окрузі.
 
 	////4608. ORIGINAL: Come on, join the Gas to Go family!
-	21d0bfad-29f5-4d2a-9d6f-6e482638c666 = Приходіть до 'Gas to Go', свайте членом родини!
+	21d0bfad-29f5-4d2a-9d6f-6e482638c666 = Приходьте до 'Gas to Go', ставайте членом родини!
 
 	////4609. ORIGINAL: Gas to Go, a Fossoil company.
 	3209af3f-1c7f-402c-8137-fb94b69f48f5 = 'Gas to Go', філія 'Fossoil'.

@@ -668,7 +668,7 @@ UI_UA = {
 	UI_trait_Scout = "Колишній скаут",
 	UI_trait_ScoutDesc = "",
 	UI_prof_Carpenter = "Столяр",
-	UI_prof_Burglar = "Зламувач",
+	UI_prof_Burglar = "Крадій",
 	UI_prof_Chef = "Кухар",
 	UI_prof_Repairman = "Ремонтник",
 	UI_prof_Farmer = "Фермер",
@@ -948,7 +948,7 @@ UI_UA = {
 	UI_ServerSettings_ButtonAddRegion = "Додати регіон",
 	UI_ServerSettings_ButtonRemoveRegion = "Прибрати регіон",
 	UI_ServerSettings_ButtonEditRegion = "Редагувати",
-	UI_ServerSettings_ButtonEditRegion_tooltip1 = "Файли в media/maps/ або інших текх не можуть бути відредаговані.",
+	UI_ServerSettings_ButtonEditRegion_tooltip1 = "Файли в media/maps/ або інших теках не можуть бути відредаговані.",
 	UI_ServerSettings_ButtonEditRegion_tooltip2 = "Назва файлу повинна бути «spawnpoints.lua».",
 	-- Sandbox Presets
 	UI_ServerSettingsGroup_SandboxPresets = "Налаштування світу",
