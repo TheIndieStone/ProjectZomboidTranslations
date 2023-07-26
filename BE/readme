@@ -1,0 +1,33 @@
+Belarusian (be-tarask) translation files for Project Zomboid
+===========
+NOTA BENE:
+These translations try to follow belarusian grammar described here: (https://knihi.com/storage/pravapis2005.html).
+These translations are not professional - you may encounter some mistakes.
+The quality of translations may vary due to the time-span during which they were made - translations, that were made at the start MAY be bad or even blatantly wrong (MAY does not necessarily mean that they WILL).
+If you don't understand why certain words were chosen -
+These translations try to rely on non-Krapiva-like dictionaries and non-russian words.
+So if you see an unfamiliar word - try researching it in the recommended dictionaries, archives and other translations beforehand.
+Before deleting or changing anything try to understand why it was put there in the first place.
+On some VERY RARE occasions you may encounter neologisms - they were used in places, where the traditional boundaries of the language ended.
+Feel free to replace these neologisms if you know traditional belarusian words that they can be replaced with.
+The use of dialectal words is encouraged if it diversifies and improves the overall quality of the translation.
+===========
+! DO NOT use Krapiva dictionary !
+! NEVER use Krapiva dictionary to translate things !
+! DO NOT use Krapiva dictionary at all !
+! DO NOT change translations based only on YOUR opinion !
+===========
+List of recommended dictionaries (from top to bottom, the best are at the top):
+https://slounik.org/bn
+https://slounik.org/nb
+https://slounik.org/stanbr
+https://slounik.org/rbSauka
+https://slounik.org/starbiel
+https://slounik.org/lahojsk
+https://slounik.org/bulykarb [USE WITH CAUTION]
+https://slounik.org/bulykabr [USE WITH CAUTION]
+You are not prohibited to use other dictionaries, but these are the most reliable.
+===========
+!! ABOUT IN-GAME TEXTS (Tutorials, etc.):
+Please do not use "Pryvitańnie" in the in-game texts to maintain general translation style.
+The list of acceptable alternatives: various other hellos (e.g. "Zdaroŭ/Zdarova", "Dzień/Viečar dobry", "Dabrydzień/Dabryviečar", etc).

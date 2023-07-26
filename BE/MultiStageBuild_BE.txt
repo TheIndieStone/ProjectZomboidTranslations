@@ -1,0 +1,27 @@
+MultiStageBuild_BE = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Пабудаваць драўляную сьцяну I узроўня",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Умацаваць сьцяну да II узроўня",
+    MultiStageBuild_CreateWoodenWall_2 = "Пабудаваць драўляную сьцяну II узроўня",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Умацаваць сьцяну да III узроўня",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Умацаваць сьцяну да III узроўня",
+    MultiStageBuild_CreateWoodenWall_3 = "Пабудаваць драўляную сьцяну III узроўня",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Пабудаваць драўляную аконную выйму I узроўня",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Умацаваць аконную выйму да II узроўня",
+    MultiStageBuild_CreateWoodenWindow_2 = "Пабудаваць драўляную аконную выйму II узроўня",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Умацаваць аконную выйму да III узроўня",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Умацаваць аконную выйму да III узроўня",
+    MultiStageBuild_CreateWoodenWindow_3 = "Пабудаваць драўляную аконную выйму III узроўня",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Пабудаваць мэталічную сьцяну I узроўня",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Умацаваць сьцяну да II узроўня",
+    MultiStageBuild_CreateMetalWall_2 = "Пабудаваць мэталічную сьцяну II узроўня",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Пабудаваць мэталічную аконную выйму I узроўня",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Умацаваць аконную выйму да II узроўня",
+    MultiStageBuild_CreateMetalWindow_2 = "Пабудаваць мэталічную аконную выйму II узроўня",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Умацаваць прахон да II узроўня",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Умацаваць прахон да III узроўня",
+}

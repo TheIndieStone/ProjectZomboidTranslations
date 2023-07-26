@@ -1,0 +1,72 @@
+Challenge_BE = {
+	Challenge_YouHaveOneDay_name = "01. Маеце адзін дзень",
+	Challenge_YouHaveOneDay_desc = "Вы вярнуліся ў Ноччыну. Вы вярнуліся на тую мапу, дзе аб ліпле ўпершыню даведаліся. <LINE> <LINE> У вас толькі дзень параўнальнай бясьпекі. Арды прыйдуць вялікімі колькасьцямі, і яны будуць шукаць вас. Вы яшчэ памятае, дзе быў вашы прытулак? <LINE> <LINE> [Каманда IndieStone дзякуе мапэра супольніцтва BobHeckling за реканструяваньне мапы Замбойду вэрсіі 0.1.5 з дапамогай даступных струмантаў.]",
+	
+	Challenge_WinterIsComing_name = "02. Зіма набліжаецца",
+	Challenge_WinterIsComing_desc = "Знадворку пасяродак ліпеня, але нечакана вы адчулі рапт лядзянога ветру. Пасьля трох дзён наступіць суровая зіма, якую вы ніколі ня бачылі. <LINE> <LINE> Вы жывеце ў ізаляванае лякацыі. У вас бедная колькасьць харчу, а мерцьвякі, хоць і запаволеныя моцным холадам, працягваюць быць такімі ж сьмяротнымі. <LINE> <LINE> Апранайцеся цяплей...",
+	
+	Challenge_OpeningHours_name = "10. Мы адкрыліся!",
+	Challenge_OpeningHours_desc = "Гандлёвы цэнтар атачаны. Калісьці гэтае месца ўяўляла для іх важнасьць... Інстынкты прывялі іх сюды - успаміны аб тым, чым яны калісьці займаліся... <LINE> <LINE> Вы адны, але неўзабаве гэта зьменіцца. А 9-ю гадзіну раніцы гандлёвы цэнтар адчыніць дзьверы для новых наведвальнікаў: аканіцы й дзьверы адчыняцца, арды паваляць ўнутар. <LINE> <LINE> Будзьце да іх гатовыя.",
+	
+	Challenge_AReallyCDDAy_name = "05. Кепска пані Грыгоры, чым далі, тым горы",
+	Challenge_AReallyCDDAy_desc = "Вылазаючы з душы, вы пасьлізнуліся. Да таго ж вы напіліся да божай моцы й ў вас празяба. <LINE> Ды й да таго ж - вашая хата гарыць! Сёньня сапраўды ня вашы дзень.",
+	
+	Challenge_Challenge1_name = "06. Хаціна ў гушчары - Апошні рубеж",
+	Challenge_Challenge1_desc = "Падрыхтуйцеся да кароткай й баявой гульні ў Zomboid. Мерцьвякі лезуць з усіх дзіркаў. <LINE> Гэтая халупа стане вашае могліцай, але наколькі доўга вы пратрымаецеся супраць ордаў мерцьвякоў? <LINE> Надышоў час скарыстаць тую старую стрэльбу, якая зьбірае пыл... <BR> Характэрныя орды мерцьвякоў, колькасьць якіх з часам павялічваецца. <LINE> Выжывайце як мага даўжэй, карыстаючы прыбочныя (і не бясконцыя) рэсурсы.",
+	
+	Challenge_Challenge2_name = "07. Хаціна ў гушчары - Апошні рубеж (вэрсія 2)",
+	Challenge_Challenge2_desc = "Падрыхтуйцеся да кароткай й баявой гульні ў Zomboid. Мерцьвякі лезуць з усіх дзіркаў. <LINE> Гэтая халупа стане вашай могліцай, але наколькі доўга вы пратрымаецеся супраць ордаў мерцьвякоў? <LINE> Надышоў час выкарыстоўваць тую самую стрэльбу, якая зьбірае пыл... <BR> Характэрныя орды мерцьвякоў, колькасьць якіх з часам павялічваецца. <LINE> Выкарыстоўвайце заробленыя грошы для куплі й рамонту вашае збраёўні.",
+	
+	Challenge_AStormIsComing_name = "03. Ідзе навальніца",
+	Challenge_AStormIsComing_desc = "Хмары згушчаюцца над Кентукі. Удалечыні чуюцца грымоты. <LINE> <LINE> Калі цямнее, мёртвыя, спатыкаючыся аб зямлю, становяцца неспакойнымі. <LINE> <LINE> Гэтая бура будзе тое ўзмацняцца, тое слабець, але яна ніколі ня скончыцца.",
+	-- On-screen UI
+	Challenge_TheDescendingFog_name = "04. Сыходжаньне туману",
+	Challenge_TheDescendingFog_desc = "Людзі ўпершыню ўбачылі яго на вадзе. Лёгкую белую коўдру над ракой Агаё. <LINE> <LINE> Гэта быў проста туман. Потым ён ахутаў места. Мястоўцы крычалі, паміраючы ў змроку. Цяпер яны ходзяць там. <LINE> <LINE> Нябачныя, нячутныя й няўмольныя, яны перасьледуюць жывых.",
+	
+	Challenge_Kingsmouth_name = "08. Кінґзмут",
+	Challenge_Kingsmouth_desc = "Насалоджвайцеся лагодным адпачынкам на высьпе Кінґзмут!",
+	
+	Challenge_Studio_name = "09. Студыя",
+	Challenge_Studio_desc = "Месца, дзе здымаюцца ўсе найлепшыя фільмы!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "Націсьніце 'O' для разьмеркаваньня пунктаў досьведу й куплі зброі.",
+	Challenge_Challenge2_WaveStart = "Хваля %1 пачнецца праз: %2 (націсьніце 'ENTER', каб прапусьціць адлік)",
+	Challenge_Challenge2_WaveDuration = "Хваля %1: %2",
+	Challenge_Challenge2_ZombiesLeft = "Засталося мерцьвякоў: %1",
+	Challenge_Challenge2_Money = "Грошы: %1",
+	Challenge_Challenge2_Money2 = "Грошы гульца %1: %2",
+	Challenge_Challenge2_WaveFinished = "Хваля %1 скончана за: %2",
+	Challenge_Challenge2_MoneyGained = "Зароблена грошай: %1",
+	Challenge_Challenge2_XPGained = "Атрымана досьведу: %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "Апошні рубеж",
+	Challenge_Challenge2_TabPlayer = "Гулец",
+	Challenge_Challenge2_Weapons = "Зброя",
+	Challenge_Challenge2_TabItems = "Рэчы",
+	Challenge_Challenge2_TabRepair = "Рамонт",
+	Challenge_Challenge2_CurrentXp = "Досьвед: %1XP",
+	Challenge_Challenge2_GoldBonus = "Бонус да грошаў",
+	Challenge_Challenge2_XpBonus = "Бонус да досьведу",
+	Challenge_Challenge2_ButtonSkill = "%1, ур.%2 - %3XP",
+	Challenge_Challenge2_ButtonSkillMax = "%1 - больш няма куды!",
+	Challenge_Challenge2_ButtonBonus = "%2 %1% - %3XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 - больш няма куды!",
+	Challenge_Challenge2_ButtonStartGold = "+%1 да пачатковых грошаў - %2XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "+%1 да пачатковых грошаў - больш няма куды!",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "Навычкі",
+	Challenge_Challenge2_PermanentBonus = "Дажывотны бонус",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "Будоўля",
+	Challenge_Challenge2_Health = "Здароўе",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x %2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "Адрамантаваць зброю",
+	
+	Challenge_OpeningHoursInfoBox = " <CENTRE> Гандлёвы цэнтар адчыняе дзьверы для сваіх наведвальнікаў а 9-ю гадзіну раніцы...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> Праз тры дні наступіць бясконцая зіма. <LINE> <LINE> Шукайце цёплую вопратку...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> Праз 24 гадзіны вашы паход на Ноччыну зробіца для вас сапраўдным пеклам...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> Бясконцая нягода...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> Гэты праклінаны туман...",
+}

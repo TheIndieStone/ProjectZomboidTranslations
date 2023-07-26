@@ -1,0 +1,12 @@
+EvolvedRecipeName_BE = {
+    EvolvedRecipeName_Base.CannedBologneseOpen = "Бляшанка баляньезы",
+    EvolvedRecipeName_Base.CannedCarrotsOpen = "Бляшанка морквы",
+    EvolvedRecipeName_Base.CannedChiliOpen = "Бляшанка мяса з чылі",
+    EvolvedRecipeName_Base.CannedCornOpen = "Бляшанка кіяхаў",
+    EvolvedRecipeName_Base.CannedCornedBeefOpen = "Бляшанка ялавічыны",
+    EvolvedRecipeName_Base.CannedPeasOpen = "Бляшанка гароху",
+    EvolvedRecipeName_Base.CannedPotatoOpen = "Бляшанка бульбы",
+    EvolvedRecipeName_Base.CannedSardinesOpen = "Бляшанка сардыны",
+    EvolvedRecipeName_Base.CannedTomatoOpen = "Бляшанка тамату",
+    EvolvedRecipeName_Base.Teabag2 = "Пакуначак чаю",
+}
