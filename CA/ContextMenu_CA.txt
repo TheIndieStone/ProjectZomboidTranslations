@@ -542,7 +542,6 @@ ContextMenu_CA = {
     ContextMenu_FuelCapacity = "Capacitat de combustible: ",
     ContextMenu_EnableAutodrink = "Permetre beure automàtic",
     ContextMenu_DisableAutodrink = "Desactivar beure automàtic",
-    ContextMenu_DisableAutodrink = "Desactivar beure automàtic",
 	ContextMenu_PumpFuelAmount = "Posar combustible restant",
     ContextMenu_TooComplicated = "Habilitat massa baixa per a llegir",
     ContextMenu_Illiterate = "Eres analfabet",
