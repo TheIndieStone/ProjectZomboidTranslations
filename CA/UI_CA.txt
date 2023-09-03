@@ -279,7 +279,6 @@ UI_CA = {
     UI_prof_SmitherDesc = "Pot construir forns de pedra i treballar el metall.",
     UI_trait_Metalworker = "Soldador",
     UI_trait_MetalworkerDesc = "Pot soldar metall trobat per a crear mobles i barricades.",
-    UI_trait_Cook = "Cuiner",
     UI_trait_CookDesc = "Coneix totes les receptes de cuina.",
     UI_trait_Blacksmith = "Ferrer",
     UI_trait_BlacksmithDesc = "Usa una enclusa per a crear coses de metall.",
