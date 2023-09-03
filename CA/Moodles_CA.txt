@@ -213,7 +213,7 @@ Moodles_CA = {
 	-- Hypothermia
 	Moodles_hypothermia_desc_lvl1 = "Fa frescor per ací...",
 	Moodles_hypothermia_desc_lvl2 = "Mira com abrigar-te.",
-	Moodles_hypothermia_desc_lvl3 = "Mare meua. Quin fred que fa."
+	Moodles_hypothermia_desc_lvl3 = "Mare meua. Quin fred que fa.",
 	Moodles_hypothermia_desc_lvl4 = "Cos i ment entumits pel fred.",
     -- Windchill
     Moodles_windchill_desc_lvl1 = "Sensació tèrmica entre 2 i 5 graus menys que la temperatura.",
@@ -221,6 +221,6 @@ Moodles_CA = {
     Moodles_windchill_desc_lvl3 = "Sensació tèrmica entre 7 i 10 graus menys que la temperatura.",
     Moodles_windchill_desc_lvl4 = "Sensació tèrmica de més de 10 graus menys que la temperatura real.",
     -- CantSprint
-    Moodles_CantSprint = "Dificultats de moviment"
+    Moodles_CantSprint = "Dificultats de moviment",
     Moodles_CantSprint_desc = "La roba pesada, les motxilles plenes i els objectes grans t'enlenteixen!"
 }
