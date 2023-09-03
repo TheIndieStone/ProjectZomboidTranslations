@@ -1,5 +1,5 @@
 UI_CA = {
-    -- Main screen (lua) :
+    -- Main screen (lua)
     UI_mainscreen_laststand = "ÚLTIMA BATALLA",
     UI_mainscreen_option = "OPCIONS",
     UI_mainscreen_debug = "DEBUG",
@@ -420,6 +420,8 @@ UI_CA = {
     UI_servers_username_tt = "Vist pels altres jugadors al servidor.\nInclòs al nom de l'arxiu de desada.",
     UI_servers_pwd = "Contrasenya del compte:",
     UI_servers_pwd_tt = "Impedix a altres usar el teu nom d'usuari del compte.\nNo uses una contrasenya important.",
+    UI_servers_connectionOptions = "Opcions de connexió",
+    UI_servers_useSteamRelay = "Usar Steam Relay",
     UI_servers_erase = "ESBORRA",
     UI_servers_add = "AFIG",
     UI_servers_quickJoin = "UNIÓ RÀPIDA",
@@ -434,7 +436,10 @@ UI_CA = {
     UI_servers_err_port = "Per favor, introduïx un port de servidor.",
     UI_servers_err_saved_server_exists = "Ja existix un favorit amb aqueix nom.",
     UI_servers_err_version_mismatch = "La versió del servidor (%1) no es correspon amb la del client (%2).",
-    UI_servers_Connecting = "Contactant servidor...",
+    UI_servers_Connecting = "Contactant amb el servidor...",
+    UI_servers_GettingServerInfo = "Agafant la informació del servidor...",
+    UI_servers_UDPConnecting = "Intentant connexió directa...",
+    UI_servers_SteamConnecting = "Intentant connexió per Steam...",
     UI_servers_AuthPending = "Autoritzant amb Steam...",
     UI_servers_ConnectionPending = "Connectant...",
     UI_servers_ServerFailedToRespond = "El servidor no ha pogut respondre.",
@@ -508,6 +513,8 @@ UI_CA = {
     UI_optionscreen_CorpseShadows = "Ombres de cadàvers",
     UI_optionscreen_AutoDrink = "Beu automàticament quan tingues set",
     UI_optionscreen_LeaveKeyInIgnition = "Deixar clau al pany",
+    UI_optionscreen_AutoWalkContainer = "Auto camina fins al contenidor clicat"
+    UI_optionscreen_AutoWalkContainer_tt "Si s'activa, caminaràs automàticament fins al contenidor clicat si està prop"
     UI_optionscreen_iso_cursor = "Visibilitat de l'isocursor",
     UI_optionscreen_ShowCursorWhileAiming = "Mostrar cursor del ratolí quan s'apunta",
     UI_optionscreen_ShowCursorWhileAiming_tt = "Per defecte, el cursor del ratolí s'amaga quan l'isocursor és visible.",
@@ -601,7 +608,7 @@ UI_CA = {
     UI_optionscreen_binding_VehicleMechanics = "Informació del vehicle",
     UI_optionscreen_binding_VehicleRadialMenu = "Menú radial del vehicle",
     UI_optionscreen_binding_VehicleSwitchSeat = "Canviar seient",
-    UI_optionscreen_binding_VehicleSwitchSeat = "Sigil",
+    UI_optionscreen_binding_WalkTo = "Caminar a",
     UI_servers_LastUpdate = "Última actualització: ",
     UI_servers_Users = "Usuaris: ",
     UI_servers_LogAs = "Entra com a: ";
@@ -639,6 +646,7 @@ UI_CA = {
     UI_Scoreboard_SteamName = "Nom de Steam: %1",
     UI_Scoreboard_SteamID = "Steam ID: %1",
     UI_Ping = "Ping: %1 ms",
+    UI_DirectConnectionPortWarning = "AVÍS: EL SERVIDOR TÉ EL PORT %1 TANCAT. EL RENDIMENT ES POT VEURE SEVERAMENT AFECTAT",
     UI_Intro1 = "AÇÒ ÉS LA FI DELS TEMPS",
     UI_Intro2 = "NO HI HAVIA ESPERANÇA DE SUPERVIVÈNCIA",
     UI_Intro3 = "AIXÍ VAS MORIR",
@@ -713,7 +721,7 @@ UI_CA = {
     UI_trait_WeakStomachDesc = "Alta probabilitat d'agafar intoxicacions alimentàries.",
     UI_trait_IronGut = "Estómac de ferro",
     UI_trait_IronGutDesc = "Baixa probabilitat d'agafar intoxicacions alimentàries.",
-    UI_trait_Hemophobic = "Hemofòbic",
+    UI_trait_Hemophobic = "Amb por a la sang",
     UI_trait_HemophobicDesc = "Pànic quan s'autoaplica primers auxilis, no pot fer-los en d'altres i s'estressa quan està ple de sang.",
     UI_trait_Asthmatic = "Asmàtic",
     UI_trait_AsthmaticDesc = "Pèrdua més ràpida de resistència.",
@@ -1068,6 +1076,7 @@ UI_CA = {
     UI_ServerOption_DiscordChannelID_tooltip  = "ID del canal de Discord (Usa-la si tens dificultats amb l'opció del nom del canal de Discord)",
     UI_ServerOption_WorkshopItems_tooltip  = "Llista de les ID dels mods del taller perquè el servidor els descarregue. Han de separar-se amb punt i coma. Per exemple WorkshopItems=514427485;513111049",
     UI_ServerOption_SteamVAC_tooltip  = "Activar el sistema VAC de Steam.",
+    UI_ServerOption_SendBufferSize_tooltip  = "La xarxa de Steam envia la mida del buffer. (Usar si es té l'error RakNetSendTo)",
     UI_ServerOption_ResetID_tooltip = "Determina si el servidor ha sofrit algun reinici suau (soft-reset). Si aquest nombre coincidix amb el del client, el client haurà de crear un nou personatge. S'usa juntament amb PlayerServerID. Per favor, fes una còpia de seguretat d'aquestes ID en algun lloc.",
     UI_ServerOption_MaxAccountsPerUser_tooltip = "Limita el nombre de comptes diferents que un usuari únic de Steam pot crear a aquest servidor. S'ignora si s'usa el botó Amfitrió.",
     UI_ServerOption_SpawnPoint_tooltip = "Força que tots els nous jugadors apareguen en les coordenades del món x,y,z. Troba les coordenades desitjades en map.projectzomboid.com (S'ignora quan 0,0,0)",
@@ -1256,6 +1265,8 @@ UI_CA = {
     UI_mainscreen_userpanel = "PANELL D'USUARI",
     UI_PPT_Key = "Tecla prem-per-a-parlar: %1",
     UI_optionscreen_objHighlightColor = "Color del contenidor remarcat",
+    UI_optionscreen_goodHighlightColor = "Color remarcat 'bo'",
+    UI_optionscreen_badHighlightColor = "Color remarcat 'dolent'",
     UI_userpanel_tickets = "Tíquets",
     UI_Scoreboard_TeleportToYou = "Teletransporta fins a tu",
     UI_TradingUIHelp = " <CENTRE> <SIZE:medium> Usa aquesta UI per a intercanviar de forma segura amb d'altres. <LINE> <LINE> <SIZE:small> <LEFT> Necessites arrossegar i amollar coses del teu inventari principal a la llista \"La teua oferta\" per a afegir coses a l'intercanvi, les coses de la teua motxilla o de terra no s'hi poden afegir. <LINE> <LINE> Quan hages acabat amb la teua oferta, has de clicar en "Segella la teua oferta" <LINE> Quan ambdós jugadors hagen clicat aquesta casella, un dels dos pot clicar el botó "Acabar tracte" per a transferir totes les coses. <LINE> <LINE> Si l'altre jugador canvia la seua oferta mentres que tu ja has segellada la teua, hauràs de tornar a segellar-la.",
@@ -1423,7 +1434,15 @@ UI_CA = {
                     "<CENTRE> <SIZE:large> Açò és una versió en progrés de la major actualització de codi que mai ha tingut PZ. <LINE><LINE> " ..
                     "<CENTRE> Hi haurà errors i problemes d'equilibri. Hi ha en curs millores en l'optimització. <LINE><LINE> " ..
                     "<CENTRE> Algunes funcionalitats poden haver sigut temporalment desactivades. <LINE><LINE> " ..
-                    "<CENTRE> Si tens problemes: no t'enfades, involucar-t'hi. Fes-nos-ho saber als nostres fòrums.",
+    UI_TermsOfService_Title = "CONTRACTE DE TERMES DE SERVEI I PRIVACITAT",
+    UI_TermsOfService_Prompt1 = "Benvingut, desgraciat supervivent! Abans que coves la infecció... <BR> Seleccionant ACCEPTAR, estàs d'acord amb els nostres Termes de Servei i coneixes la Política de Privacitat.",
+    UI_TermsOfService_Prompt2 = "[Clicant estos botons obriran una pàgina al teu navegador.]",
+    UI_TermsOfService_Button1 = "VEURE TERMES DE SERVEI",
+    UI_TermsOfService_Button2 = "VEURE POLÍTICA DE PRIVACITAT",
+    UI_TermsOfService_ButtonAccept = "ACCEPTAR",
+    UI_TermsOfService_ButtonQuit = "TANCAR",
+    UI_TermsOfService_MainMenu = "LEGAL",
+                    "<CENTRE> Si tens problemes: no t'enfades, involucra-t'hi. Fes-nos-ho saber als nostres fòrums.",
     UI_optionscreen_binding_Hotbar 1 = "Arma 1",
     UI_optionscreen_binding_Hotbar 2 = "Arma 2",
     UI_optionscreen_binding_Hotbar 3 = "Arma 3",
@@ -1498,4 +1517,5 @@ UI_CA = {
     UI_ServerOption_AntiCheatProtectionType15ThresholdMultiplier_tooltip = "Límit del multiplicador de valor per a la protecció anti-trampes: tipus 15.",
     UI_ServerOption_AntiCheatProtectionType20ThresholdMultiplier_tooltip = "Límit del multiplicador de valor per a la protecció anti-trampes: tipus 20.",
     UI_ServerOption_MapRemotePlayerVisibility_tooltip = "Controla la visualització dels jugadors llunyans en el mapa del joc.\n1=Amagat 2=Amics 3=Tothom",
+    UI_ServerOptionDesc_CheckModsNeedUpdate = "Indica si un mod s'ha actualitzat. Escriu la resposta al fitxer de registre",
 }
