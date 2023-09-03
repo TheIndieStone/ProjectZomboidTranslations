@@ -129,6 +129,7 @@ UI_CA = {
     UI_optionscreen_flies_volume_tt = "Soroll de les mosques al voltant dels cadàvers.",
     UI_optionscreen_heart_volume = "Volum del cos",
     UI_optionscreen_heart_volume_tt = "Els dos sons principals sentits en un cor normal sonen com "lub dub". <BR> El "lub" és el primer so del cos, normalment anomenat S1, i és causat per una turbulència causada pel tancament de les vàlvules mitral i tricúspide al començament del sístole. <BR> El segon so, "dub" o S2, és causat pel tancament de les vàlvules aòrtica i pulmonar, que marquen el final del sístole.",
+    UI_optionscreen_jumpscare_volume = "Volum SFX de l'ensurt",
     UI_optionscreen_vehicle_engine_volume = "Volum del motor dels vehicles",
     UI_optionscreen_vehicle_engine_volume_tt = "Vroom! Vroom! VROOM!",
     UI_optionscreen_controller = "CONTROLADOR",
