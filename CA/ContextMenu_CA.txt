@@ -87,6 +87,7 @@ ContextMenu_CA = {
 	ContextMenu_WaterSource = "Font d'aigua",
 	Puddle = "Toll",
 	ContextMenu_NaturalWaterSource = "Font natural d'aigua",
+	ContextMenu_ItemWaterCapacity = "Capacitat d'aigua",
 
 	-- Crafting menu
 	ContextMenu_Door = "Porta",
@@ -303,6 +304,7 @@ ContextMenu_CA = {
     ContextMenu_FoodType_Bacon = "Bacó",
     ContextMenu_FoodType_HotPepper = "Vitets",
     ContextMenu_FoodType_Rice = "Arròs",
+    ContextMenu_FoodType_Cocoa = "Cacau",
     ContextMenu_or = "o",
     ContextMenu_RemoveBush = "Llevar arbust",
     ContextMenu_RemoveGrass = "Llevar brossa",
@@ -538,4 +540,11 @@ ContextMenu_CA = {
     ContextMenu_ComboWasherDryer_SetModeWasher = "Ajustar mode: llavadora",
     ContextMenu_ComboWasherDryer_SetModeDryer = "Ajustar mode: eixugadora",
     ContextMenu_FuelCapacity = "Capacitat de combustible: ",
+    ContextMenu_EnableAutodrink = "Permetre beure automàtic",
+    ContextMenu_DisableAutodrink = "Desactivar beure automàtic",
+    ContextMenu_DisableAutodrink = "Desactivar beure automàtic",
+	ContextMenu_PumpFuelAmount = "Posar combustible restant",
+    ContextMenu_TooComplicated = "Habilitat massa baixa per a llegir",
+    ContextMenu_Illiterate = "Eres analfabet",
+    ContextMenu_AmmoType = "Tipus de munició",
 } 
