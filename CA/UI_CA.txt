@@ -513,7 +513,7 @@ UI_CA = {
     UI_optionscreen_AutoDrink = "Beu automàticament quan tingues set",
     UI_optionscreen_LeaveKeyInIgnition = "Deixar clau al pany",
     UI_optionscreen_AutoWalkContainer = "Auto camina fins al contenidor clicat"
-    UI_optionscreen_AutoWalkContainer_tt "Si s'activa, caminaràs automàticament fins al contenidor clicat si està prop"
+    UI_optionscreen_AutoWalkContainer_tt = "Si s'activa, caminaràs automàticament fins al contenidor clicat si està prop"
     UI_optionscreen_iso_cursor = "Visibilitat de l'isocursor",
     UI_optionscreen_ShowCursorWhileAiming = "Mostrar cursor del ratolí quan s'apunta",
     UI_optionscreen_ShowCursorWhileAiming_tt = "Per defecte, el cursor del ratolí s'amaga quan l'isocursor és visible.",
