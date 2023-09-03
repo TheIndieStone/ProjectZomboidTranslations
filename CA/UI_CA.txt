@@ -1264,6 +1264,7 @@ UI_CA = {
     UI_mainscreen_userpanel = "PANELL D'USUARI",
     UI_PPT_Key = "Tecla prem-per-a-parlar: %1",
     UI_optionscreen_objHighlightColor = "Color del contenidor remarcat",
+    UI_optionscreen_do_container_outline = "Mostra la vora al contenidor marcat",
     UI_optionscreen_goodHighlightColor = "Color remarcat 'bo'",
     UI_optionscreen_badHighlightColor = "Color remarcat 'dolent'",
     UI_userpanel_tickets = "Tíquets",
