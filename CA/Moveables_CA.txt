@@ -496,7 +496,7 @@ Moveables_CA = {
     Oak_Counter = "Banc de roure",	
 	Oak_Left_Bar = "Barra esquerra de roure",
 	Oak_Middle_Bar = "Barra central de roure",
-	Oak_Right_Bar "Barra dreta de roure",
+	Oak_Right_Bar = "Barra dreta de roure",
     Oak_Round_Table = "Taula redona de roure",
     Oakwood_Bench = "Banc de roure",
     Oakwood_Floor = "Pis de roure",
