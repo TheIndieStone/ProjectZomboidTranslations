@@ -558,7 +558,7 @@ IGUI_Tutorial1_Welcome2Joypad = " <SIZE:medium> El primer és el primer: pots fe
     IGUI_PlayerText_VehicleSeatRemoved = "No hi ha seient.",
     IGUI_PlayerText_DoorBarricaded = "La porta està barricada.",
     IGUI_PlayerText_DoorBlocked = "La porta està bloquejada.",
-    IGUI_PlayerText_ItemNameTooLong = "El nom no pot ser més llarg de %1 caràcters.",
+    IGUI_PlayerText_ItemNameTooLong = "El nom no pot tindre més de %1 caràcters.",
 
     IGUI_GamePaused = "- Joc pausat -",
     IGUI_UnknownBerry = "Baia desconeguda",
