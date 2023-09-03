@@ -16,7 +16,7 @@ IGUI_CA = {
     IGUI_invpanel_Melting = "Fonent-se",
     IGUI_invpanel_FreezingTime = "Congelant-se",
     IGUI_invpanel_Inspect = "Inspeccionar",
-    IGUI_invpanel_weight = "Pes",
+    IGUI_invpanel_weight = "Aguant",
     IGUI_invpanel_ascending = "Ascendent",
     IGUI_invpanel_descending = "Descendent",
 	-- InventoryPage
