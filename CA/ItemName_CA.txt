@@ -873,7 +873,6 @@ ItemName_CA = {
     ItemName_Base.HotDrinkSpiffo = "Beguda calenta",
     ItemName_Base.HotDrinkTea = "Té calent",
     ItemName_Base.HotDrinkWhite = "Beguda calenta",
-    ItemName_Base.Hotdog = "Gos calent",
     ItemName_Base.Hotsauce = "Salsa coenta",
     ItemName_Base.HottieZ = "Calentots",
     ItemName_Base.HuntingKnife = "Ganivet de caça",
