@@ -20,8 +20,8 @@ MakeUp_FI = {
     MakeUpType_EyeShadowGreen = "Vihreä luomiväri",
     MakeUpType_EyeShadowYellow = "Keltainen luomiväri",
 
-    MakeUpType_FullFaceCamo1 = "Täysi Camo 1",
-    MakeUpType_FullFaceCamo2 = "Täysi Camo 2",
+    MakeUpType_FullFaceCamo1 = "Kokokamouflage 1",
+    MakeUpType_FullFaceCamo2 = "Kokokamouflage 2",
     MakeUpType_FullFaceWarrior = "Soturi",
     MakeUpType_FullFaceClown1 = "Pelle 1",
     MakeUpType_FullFaceClown2 = "Pelle 2",
