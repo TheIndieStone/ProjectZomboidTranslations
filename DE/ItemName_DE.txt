@@ -1235,9 +1235,8 @@ ItemName_DE = {
     ItemName_Base.Perch = "Flussbarsch",
     ItemName_Base.Perfume = "Parfüm",
     ItemName_Base.Perogies = "Piroggen",
-                                                            
-    ItemName_Base.PetrolCan = "Benzinkanister",
     ItemName_Base.PetrolBleachBottle = "Flasche mit Benzin",
+    ItemName_Base.PetrolCan = "Benzinkanister",
     ItemName_Base.PetrolPopBottle = "Flasche mit Benzin",
     ItemName_Base.PickAxe = "Spitzhacke",
     ItemName_Base.PickAxeHandle = "Spitzhackengriff",
@@ -1594,16 +1593,13 @@ ItemName_DE = {
     ItemName_Base.Splint = "Schiene",
     ItemName_Base.Sponge = "Schwamm",
     ItemName_Base.Spoon = "Löffel",
-    ItemName_Base.Springroll = "Frühlingsrolle",
-    ItemName_Base.Squid = "Tintenfisch",
-    ItemName_Base.SquidCalamari = "Calamares",
     ItemName_Base.SportCarSeat1 = "Sportsitz",
     ItemName_Base.SportCarSeat2 = "Sportsitz",
     ItemName_Base.SportCarSeat3 = "Sportsitz",
+    ItemName_Base.Springroll = "Frühlingsrolle",
+    ItemName_Base.Squid = "Tintenfisch",
+    ItemName_Base.SquidCalamari = "Calamares",
     ItemName_Base.Stairs = "Treppe",
-                                        
-                                                         
-                                          
     ItemName_Base.Stake = "Pfahl",
     ItemName_Base.Stapler = "Hefter",
     ItemName_Base.Staples = "Heftklammern",
@@ -1856,9 +1852,8 @@ ItemName_DE = {
     ItemName_Base.WeldingRods = "Schweißstäbe",
     ItemName_Base.WestpointMap = "Karte von Westpoint",
     ItemName_Base.WhiskeyEmpty = "Flasche (leer)",
-                                          
-    ItemName_Base.WhiskeyPetrol = "Flasche mit Benzin",
     ItemName_Base.WhiskeyFull = "Bourbon",
+    ItemName_Base.WhiskeyPetrol = "Flasche mit Benzin",
     ItemName_Base.WhiskeyWaterFull = "Flasche mit Wasser",
     ItemName_Base.WildEggs = "Wilde Eier",
     ItemName_Base.WildGarlic = "Bärlauch",
