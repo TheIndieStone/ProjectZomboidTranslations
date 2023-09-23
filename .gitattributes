@@ -25,12 +25,13 @@ PTBR/*.txt text working-tree-encoding=cp1252 encoding=utf-8,
 RU/*.txt text working-tree-encoding=cp1251 encoding=utf-8,
 TH/*.txt text working-tree-encoding=utf-8 encoding=utf-8,
 TR/*.txt text working-tree-encoding=cp1254 encoding=utf-8,
-UA/*.txt text working-tree-encoding=cp1251 encoding=utf-8,
+UA/*.txt text working-tree-encoding=utf-8 encoding=utf-8,
 
 _TVRADIO_TRANSLATIONS/*RU.txt text working-tree-encoding=cp1251 encoding=utf-8,
 _TVRADIO_TRANSLATIONS/*PL.txt text working-tree-encoding=cp1250 encoding=utf-8,
 _TVRADIO_TRANSLATIONS/*CA.txt text working-tree-encoding=cp1252 encoding=utf-8,
 _TVRADIO_TRANSLATIONS/*CH.txt text working-tree-encoding=utf-8 encoding=utf-8,
+_TVRADIO_TRANSLATIONS/*UA.txt text working-tree-encoding=utf-8 encoding=utf-8,
 _TVRADIO_TRANSLATIONS/*PTBR.txt text working-tree-encoding=cp1252 encoding=utf-8,
 
 # exception: keep the language definition/credits utf-8
