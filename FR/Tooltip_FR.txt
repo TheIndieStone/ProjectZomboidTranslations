@@ -313,4 +313,6 @@ Tooltip_FR = {
 	Tooltip_compass_3 = "Boussole : Est.",
 	Tooltip_compass_6 = "Boussole : Nord-Est.",
 	Tooltip_no_nails = "Trop encombrant pour planter des clous.",
+
+	Tooltip_food_Stale = "Rassis",
 }
