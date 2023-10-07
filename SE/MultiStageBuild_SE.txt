@@ -1,0 +1,28 @@
+MultiStageBuild_SE = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "Tillverka trävägg nivå 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Uppgradera till trävägg nivå 2",
+    MultiStageBuild_CreateWoodenWall_2 = "Tillverka trävägg nivå 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Uppgradera till trävägg nivå 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Uppgradera till trävägg nivå 3",
+    MultiStageBuild_CreateWoodenWall_3 = "Tillverka trävägg nivå 3",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "Tillverka träfönster nivå 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Uppgradera till träfönster nivå 2",
+    MultiStageBuild_CreateWoodenWindow_2 = "Tillverka träfönster nivå 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Uppgradera till träfönster nivå 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Uppgradera till träfönster nivå 3",
+    MultiStageBuild_CreateWoodenWindow_3 = "Tillverka träfönster nivå 3",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "Tillverka metallvägg nivå 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Uppgradera till metallvägg nivå 2",
+    MultiStageBuild_CreateMetalWall_2 = "Tillverka metallvägg nivå 2",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "Tillverka metallfönster nivå 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Uppgradera till metallfönster nivå 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Tillverka metallfönster nivå 2",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Uppgradera till trädörrkarm nivå 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Uppgradera till trädörrkarm nivå 3",
+}
+

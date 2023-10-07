@@ -1,0 +1,38 @@
+MakeUp_SE = {
+    MakeUpCategory_Eyes = "Ögon",
+    MakeUpCategory_EyesShadow = "Ögonskugga",
+    MakeUpCategory_FullFace = "Hela ansiktet",
+    MakeUpCategory_Lips = "Läppar",
+
+    MakeUpType_EyesCrow = "Kråka",
+    MakeUpType_EyesRedStripes1 = "Röda streck 1",
+    MakeUpType_EyesRedStripes2 = "Röda streck 2",
+    MakeUpType_EyesCamo1 = "Kamouflage 1",
+    MakeUpType_EyesCamo2 = "Kamouflage 2",
+    MakeUpType_EyesCamoStripes = "Streck",
+    MakeUpType_EyesFootball = "Fotboll",
+
+    MakeUpType_EyeShadowWhite = "Vit ögonskugga",
+    MakeUpType_EyeShadowLightBlue = "Ljusblå ögonskugga",
+    MakeUpType_EyeShadowBlue = "Blå ögonskugga",
+    MakeUpType_EyeShadowRed = "Röd ögonskugga",
+    MakeUpType_EyeShadowPink = "Rosa ögonskugga",
+    MakeUpType_EyeShadowGreen = "Grön ögonskugga",
+    MakeUpType_EyeShadowYellow = "Gul ögonskugga",
+
+    MakeUpType_FullFaceCamo1 = "Kamouflage 1",
+    MakeUpType_FullFaceCamo2 = "Kamouflage 2",
+    MakeUpType_FullFaceWarrior = "Krigare",
+    MakeUpType_FullFaceClown1 = "Clown 1",
+    MakeUpType_FullFaceClown2 = "Clown 2",
+    MakeUpType_FullFaceSkull1 = "Skalle 1",
+    MakeUpType_FullFaceSkull2 = "Skalle 2",
+
+    MakeUpType_LipsRed = "Rött läppstift",
+    MakeUpType_LipsLightBlue = "Ljusblått läppstift",
+    MakeUpType_LipsBlue = "Blått läppstift",
+    MakeUpType_LipsBlack = "Svart läppstift",
+    MakeUpType_LipsGreen = "Grönt läppstift",
+    MakeUpType_LipsPink = "Rosa läppstift",
+}
+

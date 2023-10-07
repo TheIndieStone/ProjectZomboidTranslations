@@ -1,0 +1,12 @@
+EvolvedRecipeName_SE = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "Konservburk med bolognese",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "Konservburk med morötter",
+	EvolvedRecipeName_Base.CannedChiliOpen = "Konservburk med chili",
+	EvolvedRecipeName_Base.CannedCornOpen = "Konservburk med majs",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "Konservburk med kött",
+	EvolvedRecipeName_Base.CannedPeasOpen = "Konservburk med ärtor",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "Konservburk med potatis",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "Konservburk med sardiner",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "Konservburk med tomater",
+	EvolvedRecipeName_Base.Teabag2 = "Te",
+}

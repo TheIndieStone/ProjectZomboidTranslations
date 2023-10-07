@@ -1,0 +1,4 @@
+VERSION = 1,
+text = Swedish,
+charset = Cp1252,
+

@@ -1,0 +1,11 @@
+West Point
+ <LINE> <LINE>
+ Whether you're strolling through the town square, chowing on one of our pies
+ or just chatting with friendly locals - West Point is the true Small Town USA.
+ <LINE> <LINE>
+ Don't let sleepy streets, affordable housing and acres
+ of rolling farmland fool you - this is the Knox Country administrative
+ hub. If our mayor isn't busy rubber-stamping public ordinances in the
+ town hall, you might just find him in the famous Twiggy's Bar!
+ No matter how long your stay: a West Point welcome is guaranteed!
+
