@@ -30,7 +30,7 @@ Challenge_SE = {
     Challenge_Studio_desc = "Vart alla de bästa filmerna är inspelade!",
 	-- On-screen UI
 	Challenge_Challenge2_PressKey = "Tryck "o" för en permanent boost och för att spendera lite pengar.",
-	Challenge_Challenge2_WaveStart = "Våg %1 in : %2 (tryck Enter för att skippa)",
+	Challenge_Challenge2_WaveStart = "Våg %1 om : %2 (tryck Enter för att skippa)",
 	Challenge_Challenge2_WaveDuration = "Våg %1 : %2",
 	Challenge_Challenge2_ZombiesLeft = "Kvarstående zomboids: %1",
 	Challenge_Challenge2_Money = "Pengar : %1",
