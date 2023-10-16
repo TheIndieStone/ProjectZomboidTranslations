@@ -1,7 +1,7 @@
 Farming_UA = {
 	-- vegetables name (type of seed)
 	Farming_Carrots = "Морква",
-	Farming_Broccoli = "Брокколі",
+	Farming_Broccoli = "Броколі",
 	Farming_Radishes = "Редис",
 	Farming_Strawberry_plant = "Полуниця",
 	Farming_Tomato_Vine = "Томатна лоза",
@@ -11,11 +11,11 @@ Farming_UA = {
 	Farming_Seedling = "Саджанець",
 	Farming_Young = "Молод.",
 	Farming_Ready_for_Harvest = "Готовий урожай",
-	Farming_In_bloom = "В цвіті",
+	Farming_In_bloom = "У розквіті",
 	Farming_Seed-bearing = "Сім'яник",
-	Farming_Receding = "Завядающ.",
+	Farming_Receding = "В'яне",
 	Farming_Rotten = "Згнив.",
-	Farming_Destroyed = "Знищенн.",
+	Farming_Destroyed = "Знищено",
 	-- farming info text
 	-- title
 	Farming_Plant_Information = "Інформація про рослину",
@@ -23,7 +23,7 @@ Farming_UA = {
 	Farming_Next_growing_phase = "Наступна фаза росту",
 	Farming_Last_time_watered = "Останній раз полито",
 	Farming_Fertilized = "Удобрено",
-	Farming_Health = "Здоровя",
+	Farming_Health = "Здоров'я",
 	Farming_Disease = "Хвороба",
 	Farming_Water_levels = "Рівень поливу",
 	-- water
@@ -55,7 +55,7 @@ Farming_UA = {
 	Farming_Tooltip_RequiredSeeds = "Потрібно насіння: ",
 	Farming_Strawberry plant = "Полуниця",
 	Farming_Tomato = "Томат",
-	Farming_Plowed_Land = "Вспахана земля",
+	Farming_Plowed_Land = "Пахана земля",
 	Farming_Tooltip_FurrowNeedsSeed = "Борозні потрібне насіння.",
 	Farming_Tooltip_ItemUsed = "Елемент використовується",
 	Farming_Tooltip_NotAFurrow = "Немає борозни.",

@@ -1,1 +1,8 @@
-Muldraugh <LINE> <LINE> Muldraugh on pieni kaupunki alueella, joka tunnetaan paikallisten nimellä "Knox Country" - Kentuckyn osavaltion keskus. Se alun perin sotilaskaupunkina, mutta nyt se toivottaa tervetulleeksi ihmisiä kaikilta elämänaloilta - jotkut matkustavat suuriin lähikaupunkeihin, jotkut sotilasperheet ja jotkut elävät köyhyysrajan alapuolella. <LINE> <LINE> Se on pieni paikka, täynnä hyviä ihmisiä - puhumattakaan Spiffoista, parhaista keksistä ja kanasta tällä puolella Kentuckya! Tietenkään täällä ei tapahdu paljon, mutta se ei tarkoita, että Muldraughin elämä olisi tylsää...
+Muldraugh
+ <LINE> <LINE>
+ Muldraugh on pieni kaupunki alueella, jota paikalliset kutsuvat nimellä "Knox Country" - Kentuckyin osavaltion keskusta. Se kasvoi alun perin armeijan kaupunkina, mutta nykyään se toivottaa tervetulleeksi ihmisiä kaikilta elämänaloilta - osa matkaa lähikaupunkeihin töihin, osa on sotilasperheitä ja osa elää köyhyysrajan alapuolella.
+ <LINE> <LINE>
+ Se on pieni paikka, täynnä hyviä ihmisiä - puhumattakaan Spiffo'n herkullisista kanasta ja kekseistä, jotka ovat Kentuckyn parhaita tällä puolella! Totta, täällä ei tapahdu paljon
+-
+mutta se ei tarkoita, että Muldraughin elämä olisi tylsää...
+

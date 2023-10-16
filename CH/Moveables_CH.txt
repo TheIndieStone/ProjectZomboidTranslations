@@ -143,7 +143,6 @@ Moveables_CH = {
     Childs_Drawing = "小孩塗鴉",
     Childrens_Drawing = "兒童繪畫",
     Childrens_Play_Castle = "兒童遊戲城堡",
-    Childs_Drawing = "小孩塗鴉",
     China_Cabinet = "瓷器櫥櫃",
     Chromatic_Accident_Painting = "時光意外畫",
     Chrome_Microwave = "鍍鉻微波爐",

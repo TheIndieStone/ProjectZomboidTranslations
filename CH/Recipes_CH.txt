@@ -28,7 +28,7 @@ Recipes_CH = {
     Recipe_Clean_Denim_Strips = "清理丹寧條",
     Recipe_Clean_Leather_Strips = "清理皮革條",
     Recipe_Clean_Rag = "清理碎布",
-    Recipe_Clean_Tray = "清空托盤",
+    Recipe_Clean_Tray = "倒空馬芬烤盤",
     Recipe_Close_Umbrella = "收起雨傘",
     Recipe_Craft_Makeshift_HAM_Radio = "製作自製電台",
     Recipe_Craft_Makeshift_Radio = "製作自製收音機",
@@ -367,4 +367,7 @@ Recipes_CH = {
     Recipe_Taco = "製作塔可",
     Recipe_Unstack_Logs = "解開捆木",
     Recipe_Waffles = "製作格子鬆餅",
+    Recipe_Make_Wooden_Box_Trap = "製作木箱陷阱",
+    Recipe_Open_Canned_Fruit_Beverage = "打開罐裝水果飲料",
+    Recipe_Empty_Baking_Tray = "倒空烘焙托盤",
 }
