@@ -31,11 +31,11 @@ DynamicRadio_UA = {
 	AEBS_weather_heavy_rain = "зливи, можливо сильні дощі",
 	AEBS_weather_storm = "гроза",
 	AEBS_weather_tropical = "тропічний шторм",
-	AEBS_weather_blizzard = "снігова буря",
+	AEBS_weather_blizzard = "сніжна буря",
 	AEBS_weather_snowfall = " ймовірно снігопад.",
 	AEBS_weather_storm_C = "Гроза",
 	AEBS_weather_tropical_C = "Тропічний шторм",
-	AEBS_weather_blizzard_C = "Снігова буря",
+	AEBS_weather_blizzard_C = "Сніжна буря",
 	AEBS_weather_warning = "Попередження про небезпечну погоду. %s неминучий. РВП %s днів...",
 	
 	AEBS_rand_pre_0 = "аномальний",

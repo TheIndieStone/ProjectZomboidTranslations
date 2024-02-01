@@ -1,22 +1,27 @@
 MultiStageBuild_IT = {
-    MultiStageBuild_CreateMetalWall_1 = "Crea muro di metallo Lvl 1",
-    MultiStageBuild_CreateMetalWall_2 = "Crea muro di metallo Lvl 2",
-    MultiStageBuild_CreateMetalWindow_1 = "Crea finestra di metallo Lvl 1",
-    MultiStageBuild_CreateMetalWindow_2 = "Crea finestra di metallo Lvl 2",
+    -- Muro di legno
     MultiStageBuild_CreateWoodenWall_1 = "Crea muro di legno Lvl 1",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "Aggiorna a muro di legno Lvl 2",
     MultiStageBuild_CreateWoodenWall_2 = "Crea muro di legno Lvl 2",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "Aggiorna a muro di legno Lvl 3",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "Aggiorna a muro di legno Lvl 3",
     MultiStageBuild_CreateWoodenWall_3 = "Crea muro di legno Lvl 3",
+    -- Finestra di legno
     MultiStageBuild_CreateWoodenWindow_1 = "Crea finestra di legno Lvl 1",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Aggiorna a finestra di legno Lvl 2",
     MultiStageBuild_CreateWoodenWindow_2 = "Crea finestra di legno Lvl 2",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Aggiorna a finestra di legno Lvl 3",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Aggiorna a finestra di legno Lvl 3",
     MultiStageBuild_CreateWoodenWindow_3 = "Crea finestra di legno Lvl 3",
-    MultiStageBuild_UpgradeMetalWall_1To2 = "Aggiornamento a Metal Wall Lvl 2",
-    MultiStageBuild_UpgradeMetalWindow_1To2 = "Aggiornamento a Finestra di metallo Lvl 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Passa al telaio della porta di legno Lvl 2",
-    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Passa al telaio della porta in legno Lvl 3",
-    MultiStageBuild_UpgradeWoodenWall_1To2 = "Aggiorna a Muro di legno Lvl 2",
-    MultiStageBuild_UpgradeWoodenWall_1To3 = "Aggiorna a Muro di legno Lvl 3",
-    MultiStageBuild_UpgradeWoodenWall_2To3 = "Aggiorna a Muro di legno Lvl 3",
-    MultiStageBuild_UpgradeWoodenWindow_1To2 = "Aggiornamento a Finestra di legno Lvl 2",
-    MultiStageBuild_UpgradeWoodenWindow_1To3 = "Aggiornamento a Finestra di legno Lvl 3",
-    MultiStageBuild_UpgradeWoodenWindow_2To3 = "Aggiornamento a Finestra di legno Lvl 3",
+    -- Muro di metallo
+    MultiStageBuild_CreateMetalWall_1 = "Crea muro di metallo Lvl 1",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "Aggiorna a muro di metallo Lvl 2",
+    MultiStageBuild_CreateMetalWall_2 = "Crea muro di metallo Lvl 2",
+    -- Finestra di metallo
+    MultiStageBuild_CreateMetalWindow_1 = "Crea finestra di metallo Lvl 1",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "Aggiorna a finestra di metallo Lvl 2",
+    MultiStageBuild_CreateMetalWindow_2 = "Crea finestra di metallo Lvl 2",
+    -- Telaio per porta in legno
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "Aggiorna a telaio per porta in legno Lvl 2",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "Aggiorna a telaio per porta in legno Lvl 3",
 }

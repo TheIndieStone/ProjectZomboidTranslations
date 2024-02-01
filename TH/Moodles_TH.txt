@@ -221,6 +221,6 @@ Moodles_TH = {
 	Moodles_windchill_desc_lvl3 = "รู้สึกหนาวกว่าปกติ 15 ถึง 20 องศา",
 	Moodles_windchill_desc_lvl4 = "รู้สึกหนาวกว่าปกติเกิน 20 องศา",
  	-- CantSprint
-	Moodles_CantSprint = "การเคลื่อนที่ถูกจำกัด"
-	Moodles_CantSprint_desc = "เสื้อผ้าที่มีน้ำหนักมาก กระเป๋าขนาดใหญ่ หรือสิ่งของชิ้นใหญ่ทำให้ช้าลง!"
+	Moodles_CantSprint = "การเคลื่อนที่ถูกจำกัด",
+	Moodles_CantSprint_desc = "เสื้อผ้าที่มีน้ำหนักมาก กระเป๋าขนาดใหญ่ หรือสิ่งของชิ้นใหญ่ทำให้ช้าลง!",
 }
