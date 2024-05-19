@@ -1,20 +1,20 @@
 GameSound_FIN = {
-    GameSound_ButtonAdvanced = "PitkÃƒÂ¤lle kehittynyt",
-    GameSound_ButtonReload = "ladata",
-    GameSound_ButtonReload_tt = "Lataa kaikki sounds.txt-tiedostot uudelleen.",
-    GameSound_VolumeControlTooltip = "Äänenvoimakkuus: %1%<br>Master Ääenvoimakkuus: %2 %3%",
+    GameSound_ButtonAdvanced = "Edistynyt",
+    GameSound_ButtonReload = "Lataa uudelleen",
+    GameSound_ButtonReload_tt = "Lataa uudelleen kaikki sounds.txt-tiedostot.",
+    GameSound_VolumeControlTooltip = "Äänenvoimakkuuden säätö: %1%<br>Pää -äänenvoimakkuus: %2 %3%",
 
     /* These are the names of tabs in the ui. */
     /* The AUTO category is for GameSounds that aren't defined in sounds.txt. */
     GameSound_Category_AUTO = "AUTO",
-    GameSound_Category_Item = "Tuote",
+    GameSound_Category_Item = "Esine",
     GameSound_Category_Meta = "Meta",
     GameSound_Category_Music = "Musiikki",
-    GameSound_Category_Object = "Esine",
+    GameSound_Category_Object = "Objekti",
     GameSound_Category_Player = "Pelaaja",
     GameSound_Category_Vehicle = "Ajoneuvo",
-    GameSound_Category_World = "Maailman",
-    GameSound_Category_Zombie = "Zombie",
+    GameSound_Category_World = "Maailma",
+    GameSound_Category_Zombie = "Zombi",
 
     /* You can provide translations for every GameSound if you want to, some might appear in the menu but not in this file */
 
