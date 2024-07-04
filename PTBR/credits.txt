@@ -1,17 +1,11 @@
 Official Brazilian Translation Server 
 ___________________________________________
 Translation Team:
-Ranieri "Gravedigger" Welenkens
 Rafael "R4to0" Alves
-Guilherme "NãoéoGui" Alves
+Guilherme "NÃ£oÃ©oGui" Alves
 Marcos "coda" Gaius
 Pedro "pedrosegato" Segato
-Júlia "Polaris" de Oliveira
-
-___________________________________________
-Reviewer:
-Ranieri "Gravedigger" Welenkens
-
+JÃºlia "Polaris" de Oliveira
 ___________________________________________
 SPECIAL THANKS to the Former Translation 
 Team who did an epic job for our community
@@ -20,6 +14,7 @@ in previous builds and updates.
 ZonaryQuasar
 NezukeOkami
 Victor "Benin" Hugo
+Ranieri "Gravedigger" Welenkens
 Bruno "DuMA" Duarte 
 Alan "JohnySouzac" Johny 
 Pedro "JokerQuinn" Thiago 

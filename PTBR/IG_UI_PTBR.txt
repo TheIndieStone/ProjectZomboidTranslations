@@ -434,7 +434,7 @@ IGUI_PTBR = {
     IGUI_CraftUI_Name_Filter = "Filtrar por Nome:",
 
  -- Tutorial
-    IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Bem-vindo ao Project Zomboid! <LINE> <LINE> <SIZE:medium> Em breve, você morrerá horrivelmente. Ninguém vai chorar por você, e você será rapidamente esquecido. Tudo terá sido em vão!<LINE> <LINE> Então vamos garantir que você saia lutando!",
+    IGUI_Tutorial1_Welcome1 = " <CENTRE> <SIZE:large> Bem-vindo ao Project Zomboid! <LINE> <LINE> <SIZE:medium> Em breve, você morrerá horrivelmente. Ninguém vai chorar por você, e você será rapidamente esquecido. Tudo terá sido em vão! <LINE> <LINE> Então vamos garantir que você saia lutando!",
     IGUI_Tutorial1_Welcome2 = " <CENTRE> <SIZE:medium> Primeiro o essencial: você pode dar zoom com a roda do mouse ou com as teclas %1/%2. <LINE> <LINE>  Vamos ter uma visão panorâmica do lugar solitário onde você está prestes a morrer - miserável e sozinho! <LINE> <LINE> <SIZE:large> Dê um zoom para longe!",
     IGUI_Tutorial1_Welcome3 = " <CENTRE> <SIZE:medium> Você é ótimo nisso! <LINE> <LINE> Vamos dar uma olhada nas informações do seu personagem. <LINE> <LINE> <SIZE:large> Clique no Coração que está piscando à esquerda!",
     IGUI_Tutorial1_Welcome4 = " <CENTRE> <SIZE:medium> Aqui você pode ver seu Estado de Saúde. <LINE> <LINE> Arranhões, mordidas, sangramento, fraturas: tudo mostrado aqui para sua conveniência! <LINE> <LINE> Também é aqui que você poderá se curar e tratar os ferimentos.",
