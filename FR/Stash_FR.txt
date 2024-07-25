@@ -30,7 +30,7 @@ Stash_FR = {
     Stash_LVMap7_Text1 = "Merci d'avoir tout saccagé",
     Stash_LVMap7_Text2 = "C'était ma maison",
     Stash_LVMap7_Text3 = "J'avais tout ce dont j'avais besoin",
-    Stash_LVMap7_Text4 = "Du moins, je croyais...",
+    Stash_LVMap7_Text4 = "Du moins, je croyais ...",
 
     Stash_LVMap8_Text1 = "On est là, 3ème porte en bas",
     Stash_LVMap8_Text2 = "Dépêche-toi avec les médocs Diego",
@@ -64,7 +64,7 @@ Stash_FR = {
     Stash_LVMap14_Text2 = "Sinon ces saloperies vont rentrer",
     Stash_LVMap14_Text3 = "N'oublie pas !",
     Stash_LVMap14_Text4 = "Ne laisse jamais personne entrer quand je ne suis pas là !",
-    Stash_LVMap14_Text5 = "J'en ai pour une demi-heure (Il est 2h30)",
+    Stash_LVMap14_Text5 = "J'en ai pour une demi-heure (il est 2h30)",
     Stash_LVMap14_Text6 = "Si ça dure plus, contacte Édouard à la radio",
     Stash_LVMap14_Text7 = "Bisous",
 
@@ -81,7 +81,7 @@ Stash_FR = {
     Stash_LVMap16_Text1 = "Toute cette rue est dangereuse",
     Stash_LVMap16_Text2 = "Ils ont ton fils ici",
     Stash_LVMap16_Text3 = "Rejoins-nous, c'est sécurisé",
-    Stash_LVMap16_Text4 = "Nous allons nous diriger vers le Sud",
+    Stash_LVMap16_Text4 = "Nous allons nous diriger vers le sud",
     Stash_LVMap16_Text5 = "Viens avec nous s'il te plaît",
     
 ----- MULD MAP -----
@@ -110,7 +110,7 @@ Stash_FR = {
     Stash_MulMap7_Text2 = "Magasin - ENCORE PLEIN",
     Stash_MulMap7_Text3 = "Gros merdier",
     
-    Stash_MulMap8_Text1 = "Prends mon matos. Enterre-moi si tu le peux et c'est sécurisé. Que dieu te garde",
+    Stash_MulMap8_Text1 = "Prends mon matos. Enterre-moi si tu le peux et si c'est sécurisé. Que dieu te gardes.",
     Stash_MulMap8_Text2 = "Prends un verre si tu en as besoin",
     Stash_MulMap8_Text3 = "Gros groupe, n'a pas bougé depuis des jours",
     
@@ -145,7 +145,7 @@ Stash_FR = {
     Stash_MulMap17_Text2 = "Vérifiez la seconde porte de la boulangerie",
     Stash_MulMap17_Text3 = "Attention Maman, Papa erre toujours par ici",
 
-    Stash_MulMap18_Text1 = "Crazy Willy's trailer",
+    Stash_MulMap18_Text1 = "La remorque de Crazy Willy",
     Stash_MulMap18_Text11 = "On m'a dit qu'il s'était transformé",
     Stash_MulMap18_Text12 = "J'espère que toutes ses armes sont encore là",
     
@@ -155,11 +155,11 @@ Stash_FR = {
     
     Stash_WpMap2_Text1 = "Je crois qu'elle vivait là",
     Stash_WpMap2_Text2 = "Centre médical",
-    Stash_WpMap2_Text3 = "Je l'ai trouvé dans ce coin, sans arme",
+    Stash_WpMap2_Text3 = "Je l'ai trouvée dans ce coin, sans arme",
     
     Stash_WpMap4_Text1 = "Du courage. Je t'aime.",
-    Stash_WpMap4_Text3 = "NE VAS PAS LA. Megan est dans les parages - elle est l'un deux.",
-    Stash_WpMap4_Text31 = "Je ne savais même pas qu'elle était en ville. N'y va pas",
+    Stash_WpMap4_Text3 = "NE VAS PAS LÀ. Mégane est dans les parages - elle est l'un d'eux.",
+    Stash_WpMap4_Text31 = "Je ne savais même pas qu'elle était en ville. N'y vas pas",
     
     Stash_WpMap5_Text1 = "Les outils que j'ai laissés dans la chambre devraient bien t'aider",
     Stash_WpMap5_Text11 = "Repousse-les aussi longtemps que tu peux JE T'AIME",
@@ -170,7 +170,7 @@ Stash_FR = {
     Stash_WpMap6_Text2 = "Twiggy's",
     Stash_WpMap6_Text3 = "Chaud patate par là",
     
-    Stash_WpMap8_Text1 = "Jolene n'est pas tombée malade. Elle peut aider.",
+    Stash_WpMap8_Text1 = "Jolène n'est pas tombée malade. Elle peut aider.",
     Stash_WpMap8_Text2 = "Armurerie",
     Stash_WpMap8_Text3 = "J'ai vu un mec mourir",
     
