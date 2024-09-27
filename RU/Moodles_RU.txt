@@ -224,6 +224,6 @@ Moodles_RU = {
 	Moodles_windchill_desc_lvl4 = "На 20+ градусов холоднее. Шанс простудиться.",
 	-- CantSprint
 	Moodles_CantSprint = "Скованные движения"
-	Moodles_CantSprint_desc = "Значительное замедление из-за чрезмерного перегруза или иной причине."
+	Moodles_CantSprint_desc = "Значительное замедление из-за чрезмерного перегруза или по иной причине."
 
 }

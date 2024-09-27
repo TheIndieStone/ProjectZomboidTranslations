@@ -214,7 +214,7 @@ Stash_RU = {
 	Stash_MarchRidgeMap8_Text1 = "Оставил здесь свои старые инструменты"
     Stash_MarchRidgeMap8_Text2 = "Мне они больше не нужны"
 
-    Stash_MarchRidgeMap9_Text1 = "Приглашаем вышивших присоединиться к нам"
+    Stash_MarchRidgeMap9_Text1 = "Приглашаем выживших присоединиться к нам"
     Stash_MarchRidgeMap9_Text2 = "нам всегда нужна еда, оружие и многое другое"
     Stash_MarchRidgeMap9_Text3 = "если поубиваете зомбяков по дороге - уважуха!"
 
