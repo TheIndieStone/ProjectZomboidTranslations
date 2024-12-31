@@ -105,10 +105,10 @@ Moodles_CS = {
 	Moodles_hypothermia_lvl3 = "Mrznutí",
 	Moodles_hypothermia_lvl4 = "Hypotermie",
   -- Windchill
-        Moodles_windchill_lvl1 = "Mírný studený vítr",
-        Moodles_windchill_lvl2 = "Nepříjemný studený vítr",
-        Moodles_windchill_lvl3 = "Mrazivý studený vítr",
-        Moodles_windchill_lvl4 = "Příšerně ledový vítr",
+	Moodles_windchill_lvl1 = "Mírný studený vítr",
+	Moodles_windchill_lvl2 = "Nepříjemný studený vítr",
+	Moodles_windchill_lvl3 = "Mrazivý studený vítr",
+	Moodles_windchill_lvl4 = "Příšerně ledový vítr",
 
   -- Description of moodle
   -- Endurance
@@ -187,7 +187,7 @@ Moodles_CS = {
 	Moodles_pain_desc_lvl3 = "Snížila se ti rychlost s přesností.",
 	Moodles_pain_desc_lvl4 = "Značně se ti snížila rychlost s přesností.",
   -- Heavy load
-	Moodles_heavyload_desc_lvl1 = "Máš toho trochu moc.",
+	Moodles_heavyload_desc_lvl1 = "Neseš toho trochu moc.",
 	Moodles_heavyload_desc_lvl2 = "Rychlost pohybu se snížila.",
 	Moodles_heavyload_desc_lvl3 = "Rychlost pohybu se hodně snížila.",
 	Moodles_heavyload_desc_lvl4 = "Hrozí ti poranění zad. Nebudeš moct už chodit vůbec.",
@@ -216,11 +216,11 @@ Moodles_CS = {
 	Moodles_hypothermia_desc_lvl3 = "Tělo a mysl ti posedl chlad. Tvé zdraví je ohroženo.",
 	Moodles_hypothermia_desc_lvl4 = "Jsi v deliriu z teplotního šoku. Tvé zdraví je značně ohroženo.",
   -- Windchill
-        Moodles_windchill_desc_lvl1 = "Pocitově je o 5 stupňů chladnější, než ve skutečnosti je.",
-        Moodles_windchill_desc_lvl2 = "Pocitově je o 10 stupňů chladnější, než ve skutečnosti je.",
-        Moodles_windchill_desc_lvl3 = "Pocitově je o 15 stupňů chladnější, než ve skutečnosti je.",
-        Moodles_windchill_desc_lvl4 = "Pocitově je o 20 stupňů chladnější, než ve skutečnosti je.",
+	Moodles_windchill_desc_lvl1 = "Pocitově je o 5 stupňů chladnější, než ve skutečnosti je.",
+	Moodles_windchill_desc_lvl2 = "Pocitově je o 10 stupňů chladnější, než ve skutečnosti je.",
+	Moodles_windchill_desc_lvl3 = "Pocitově je o 15 stupňů chladnější, než ve skutečnosti je.",
+	Moodles_windchill_desc_lvl4 = "Pocitově je o 20 stupňů chladnější, než ve skutečnosti je.",
   -- CantSprint
-        Moodles_CantSprint = "Omezený pohyb"
-        Moodles_CantSprint_desc = "Těžké oblečení, objemné tašky nebo velké předměty tě zpomalují!"		
+	Moodles_CantSprint = "Omezený pohyb"
+	Moodles_CantSprint_desc = "Těžké oblečení, objemné tašky nebo velké předměty tě zpomalují!"
 }
