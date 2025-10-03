@@ -7,7 +7,7 @@ DynamicRadio_UA = {
 	AEBS_Pre_today = "Сьогодні,",
 	AEBS_Pre_tomorrow = "Завтра,",
 	AEBS_Pre_dayafter = "Післязавтра,",
-	--note: double '%%' at end required:
+    --note: double '%%' at end required:
 	AEBS_temperature = "середня температура %s; мінімальна: %s, максимальна: %s, вологість: %s%% ...",
 	AEBS_wind_0 = "%s вітер з %s, швидкість вітру %s . %s",
 	AEBS_wind_1 = "Невеликий",
@@ -31,17 +31,20 @@ DynamicRadio_UA = {
 	AEBS_weather_heavy_rain = "зливи, можливо сильні дощі",
 	AEBS_weather_storm = "гроза",
 	AEBS_weather_tropical = "тропічний шторм",
-	AEBS_weather_blizzard = "сніжна буря",
+	AEBS_weather_blizzard = "снігова буря",
 	AEBS_weather_snowfall = " ймовірно снігопад.",
 	AEBS_weather_storm_C = "Гроза",
 	AEBS_weather_tropical_C = "Тропічний шторм",
-	AEBS_weather_blizzard_C = "Сніжна буря",
+	AEBS_weather_blizzard_C = "Снігова буря",
 	AEBS_weather_warning = "Попередження про небезпечну погоду. %s неминучий. РВП %s днів...",
-	
+
+    AEBS_KpH = "км/год"
+    AEBS_MpH = "миль/год"
+
 	AEBS_rand_pre_0 = "аномальний",
 	AEBS_rand_pre_1 = "підозрілий",
 	AEBS_rand_pre_2 = "ворожий",
-	--AEBS_rand_pre_3 = "немертвий",
+    --AEBS_rand_pre_3 = "нежить",
 	AEBS_rand_pre_4 = "клас 5",
 	AEBS_rand_pre_5 = "клас 4",
 	AEBS_rand_pre_6 = "клас 3",
@@ -51,7 +54,7 @@ DynamicRadio_UA = {
 	AEBS_rand_pre_10 = "дружній",
 	AEBS_rand_pre_11 = "невідомий",
 	AEBS_rand_pre_12 = "нейтральний",
-	
+
 	AEBS_zone_name_s = "півдня",
 	AEBS_zone_name_sw = "південного заходу",
 	AEBS_zone_name_nw = "північного заходу",
@@ -61,12 +64,12 @@ DynamicRadio_UA = {
 	AEBS_zone_name_w = "заходу",
 	AEBS_zone_name_e = "сходу",
 	AEBS_zone_name_se = "південного сходу",
-	
+
 	AEBS_random_0 = "Всьому персоналу - тимчасове радіомовчання для %s забороненої зони... сектора %i, %i, %i і %i",
 	AEBS_random_1 = "чарлі <фззт> індіа - альфа, <бззт> визначена зона <бззт> сектор %i <вззт>",
 	AEBS_random_2 = "всьому персоналу <бззт> наказ <фззт> %i був схвалений<вззт>",
 	AEBS_random_3 = "...%s <бззт> активність в секторі %i <вззт>",
-	--AEBS_random_4 = "<фззт>",
+    --AEBS_random_4 = "<бззт>",
 	AEBS_random_5 = "<бззт>..ожіть мені! <бззт> з любові до <сззт> , БУДЬ ЛАСКА, НІ!! <бззт> допомога... <вззт>",
 	AEBS_random_6 = "<бззт>..вони намагаються витягнути його... <бззт> роби оскільки... <вззт>",
 	AEBS_random_7 = "<бззт>..ЦЕ ПРОРИВ!... <бззт> ДІДЬКА ЛИСОГО, УТРИМУЙТЕ ЇХ! НАМ ПОТРІБНА ПІДТРИ...<вззт>",
@@ -76,7 +79,7 @@ DynamicRadio_UA = {
 	AEBS_random_11 = "<бззт>... хто відправляє їх? <бззт> Я розумію, що ми отримали накази, але ...<вззт>",
 	AEBS_random_12 = "<бззт>... я не довіряю йому <бззт> хто говорить... не правий<вззт>",
 	AEBS_random_13 = "<бззт>... говорили, що вони прибули зі Сходу <бззт> повторюю: зі Сходу...<вззт>",
-	
+
 	AEBS_segment_night = "вночі",
 	AEBS_segment_early_morning = "раннім ранком",
 	AEBS_segment_morning = "вранці",

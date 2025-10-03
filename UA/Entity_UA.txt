@@ -1,0 +1,51 @@
+Entity_UA = {
+    EC_Entity_DisplayName_Default = "Загальна назва сутності",
+    EC_Entity_BuildDescription_Default = "Опис створення загальної сутності",
+
+    -- Energy
+    EC_Energy = "Енергія",
+    EC_Energies = "Енергії",
+    EC_Energy_Not_Set = "Немає встановленої енергії",
+    -- Energy types
+    EC_Energy_Electric = "Електрика",
+    EC_Energy_Mechanical = "Механічна",
+    EC_Energy_Thermal = "Теплова",
+    EC_Energy_Steam = "Парова",
+
+    -- Common
+    EC_Locked = "Зачинено",
+    EC_Stored = "Збережено",
+    EC_Weight = "Перевантаження",
+    EC_Progress = "Прогрес",
+
+    -- Component
+    EC_Workstation = "Робоча станція",
+    EC_Recipes = "Рецепти",
+    
+    -- Slots
+    EC_CraftLogic_Inputs = "Вхід",
+    EC_CraftLogic_Outputs = "Вихід",
+    EC_CraftLogic_Completed = "Готово",
+    EC_CraftLogic_Tools = "Інструменти",
+    EC_CraftLogic_Progress = "В процесі",
+    EC_CraftLogic_Duration = "Необхідний час: %1",
+    EC_CraftLogic_Duration_Unknown = "Час виконання: ??",
+    EC_CraftLogic_Inputs_Full = "Слоти заповнені!",
+    
+    -- Tooltips
+    EC_CraftLogicTooltip_NoCraftInProgress = "Немає активного ремесла.",
+    EC_CraftLogicTooltip_Progress = "Прогрес",
+    EC_CraftLogicTooltip_TimeRemaining = "Час, що залишився",
+    EC_CraftLogicTooltip_Temperature = "Температура",
+    EC_CraftLogicTooltip_TemperatureNormal = "Нормальний",
+    EC_CraftLogicTooltip_TemperatureFrozen = "Заморожено",
+    EC_CraftLogicTooltip_TemperatureCold = "Застуда",
+    EC_CraftLogicTooltip_TemperatureWarm = "Тепло",
+    EC_CraftLogicTooltip_TemperatureHot = "Гаряче",
+    EC_CraftLogicTooltip_Wetness = "Вологість",
+    EC_CraftLogicTooltip_Paused = "Призупинено",
+    EC_CraftLogicTooltip_Wet = "Мокрий",
+    EC_CraftLogicTooltip_DryingRate = "Швидкість висихання",
+    EC_CraftLogicTooltip_NoOutput = "Немає результату для наданих ресурсів.",
+    
+}
