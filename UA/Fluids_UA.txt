@@ -19,7 +19,7 @@ Fluids_UA = {
     Fluid_Items_Inventory = "Предмети повинні бути в інвентарі перед перетягуванням на панель.",
 
     Fluid_Empty = "Порожньо",
-    Fluid_HoldingNone = "Спорожнити %1",
+    Fluid_HoldingNone = "%1 без рідини",
     Fluid_HoldingOneType = "%2 (%1)",
     Fluid_HoldingTwoTypes = "%2 та %3 (%1)",
     Fluid_Of = "з",
