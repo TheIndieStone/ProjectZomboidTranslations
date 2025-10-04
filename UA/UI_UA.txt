@@ -1873,7 +1873,7 @@ UI_UA = {
     UI_advWorld_X_label = "Комірки по X",
     UI_advWorld_Y_label = "Комірки Y",
     UI_modselector_UnknownMod = "Невідомий мод",
-    UI_Reload = "Перезарядити",
+    UI_Reload = "Перезавантажити",
 	
 	"map" = "Карта",
 	"vehicle" = "Транспортний засіб",
