@@ -1,0 +1,1690 @@
+Print_Media_UA = {
+Print_Media_WindowTitle = "Вікно налагодження друкованих медіа",
+
+Print_Media_KnoxKnews_July1_title = "Knox Knews - 1 липня 1993",
+
+Print_Media_KnoxKnews_July1_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:792, height:900, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.01, pivotY:0, angle:-0.5, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:789, height:900, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:900, height:789, pivotX:0, pivotY:0, scaleX:-1, scaleY:1, angle:90, a:0.4>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Рейнджери тріумфують^у Вест-Пойнті"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Місцевий учитель отримав^національну нагороду"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. сторінку 3"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. сторінку 4"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>Кошти на відновлення^Бранденбурга^вже в дорозі,^заявив губернатор"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>ЧЕТВЕР"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>1 липня 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>НАДРУКОВАНО В ІРВІНГТОНІ"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>№ 905"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>Губернатор Кал Фейрвезер виступив учора у Франкфорті."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>ФРАНКФОРТ – Губернатор Кал Фейрвезер запевнив мера Бранденбурга, що давно обіцяні федеральні кошти на відбудову міста «вже в дорозі». Незважаючи на швидку початкову реакцію після торнадо 18 квітня, коли постраждалим була надана значна допомога, обіцяні федеральні кошти на відновлення досі не надійшли. Будівлі досі підлатані дерев’яними дошками, а серйозні руйнування залишаються помітними. Завдяки ранньому попередженню багато жителів сховалися, коли торнадо торкнулося північно-східної частини міста, але сильні вітри забрали життя трьох людей і поранили десятки. Торнадо F2 знищило автомобілі та зрівняло з землею будинки. Сотні людей залишаються бездомними, мешкаючи в готелях або трейлерних парках за рахунок штату, інші – у родичів чи друзів. До 40% житла і 30% бізнесів у районі не застраховані, що може обійтися платникам податків більш ніж у 50 мільйонів доларів. У Кентуккі часто трапляються торнадо, але квітневий вихор застав владу зненацька.^ (продовження на стор. 2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Мисливець поранений^під час нападу оленя"..
+"<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>РІВЕРСАЙД – Джон Натан, мисливець з Нью-Йорка, заявив, що йому пощастило уникнути важких травм після сутички з оленем у лісі на захід від Ріверсайду. «Я багато років полюю в районі Нокс», – сказав Натан, – «але такого ще не бачив, особливо не під час шлюбного сезону. Я прицілювався в кролика, коли раптом вискочив білохвостий олень…» ^(продовження на стор. 4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Найстаріша жителька^Екрона розкрила секрет^довголіття"..
+"<type:text, x:550, y:733, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>ЕКРОН – Жвава у розмові та піснях, важко повірити, що Ненсі Х'юм, найстаріша мешканка Екрона, має 103 роки. «Я пережила всіх друзів», – каже вона, а тоді з усмішкою додає: «Але й усіх ворогів теж!» У чому її секрети? «Бурбон до вечері, спати до 10-ї, і ніколи не зв’язуватись із чоловіками. Ніколи!»"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly1A.png"), width:130, height:97, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly1B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly1.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July2_title = "Knox Knews — 2 липня 1993",
+
+Print_Media_KnoxKnews_July2_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:792, height:900, pivotX:-0.011, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:794, height:900, pivotX:-0.01, pivotY:0, angle:-0.4, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.006, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.003, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:1, pivotY:1, scaleX:-1, scaleY:-1, angle:0, a:0.4>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Делайла в^Бранденбурзі^«безстроково»"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Chapelmount Downs^планує трек у Вірджинії"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 2"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 4"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>П'ЯТНИЦЯ"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>2 липня 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>НАДРУКОВАНО В ІРВІНГТОНІ"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>№ 906"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>Масові^перебої^телефонного зв'язку^в окрузі Нокс"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>KT заявляє, що їхні інженери працюють «цілодобово»."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>ОКРУГ НОКС — Knox Telecommunications вибачилася за багатогодинний збій у своїх мережах, який на момент друку триває, залишивши тисячі мешканців Нокса без доступу до телефонного та інтернет-зв'язку.                                            Неплановий збій спричинив хаос: кілька бізнесів, що покладаються на віддалену роботу, були змушені не відкриватися цього дня, інші ж не могли зв'язатися з клієнтами чи постачальниками. Причину такого серйозного, хоч і локалізованого збою не оголошено, але в KT кажуть, що «працюють над цим», і десятки інженерів лагодять лінії на стовпах по всьому району.                                         Експерт Кевін Гоґан повідомив Knox Knews: «Такі відмови надзвичайно рідкісні. Здається, це не пов'язано з якоюсь однією комутаційною панеллю чи центральною системою. Я чув про обриви або від'єднані дроти. Або їх усі перевантажив удар блискавки, або це робота вандалів чи диверсантів». ^(продовження на стор. 2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Місцеві змагаються^за приз м'ятного джулепа"..
+"<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>ОКРУГ НОКС — Не одна дружба в Кентуккі була безповоротно зруйнована суперечками про ідеальний м'ятний джулеп. І все ж конкурс Mint Julep Prize, що відбувся минулої суботи в Бранденбурзі, пройшов у дусі легкої бесіди та вільних, здорових дискусій про улюблений коктейль штату. Нагороду «Найкращий традиційний джулеп» здобула Кейсі Стокгом. Судді визнали її ^(продовження на стор. 4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Мешканка Ірвінгтона^«щаслива, що вижила»"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>ІРВІНГТОН —  Місцева мешканка Саллі Ґрем сказала, що їй пощастило лишитися живою після пекельної автотрощі на південь від міста у четвер. Саллі врізалася в стіну, і авто зайнялося. Швидкі дії випадкового перехожого врятували Ґрем життя: «Він витяг мене з машини й зупинив кровотечу, доки не прибула швидка. Це зайняло так довго, бо телефонні лінії були^(продовження на стор. 3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly2A.png"), width:130, height:97, x:261, y:24, scaleX:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly2B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly2.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July3_title = "Knox Knews — 3 липня 1993",
+
+Print_Media_KnoxKnews_July3_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:794, height:900, pivotX:-0.01, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.008, pivotY:0, angle:-0.4, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:793, height:900, pivotX:-0.007, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.001, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:900, height:789, pivotX:0, pivotY:1, scaleX:1, scaleY:1, angle:-90, a:0.3>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Два арешти^у розслідуванні шахрайства^з ремонтом будинків"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Річка Огайо^забруднена^як ніколи^"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 3"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 5"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>СУБОТА"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>3 липня 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>НАДРУКОВАНО В ІРВІНГТОНІ"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>№ 907"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>«Операція^Кентавр^завершується»^ — ФБР"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>Директор ФБР Іан Кларк виступає в Луїсвіллі."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>ЛУЇСВІЛЛ — Розслідування ФБР корупції в Генеральній асамблеї Кентуккі, що мало кодову назву «Операція Кентавр», досягло своїх головних цілей і нині згасає, заявив учора на пресконференції в Луїсвіллі директор ФБР Іан Кларк.^    У межах операції понад дюжину законодавців Кентуккі було звинувачено та засуджено за отримання хабарів, пов'язаних із захороненням токсичних відходів, здирництвом, рекетом і змовою з метою шахрайства проти штату Кентуккі. Спікер Палати представників Ден Даллфорд уже подав у відставку після висунення звинувачень у здирництві, рекеті та наданні неправдивих свідчень ФБР.                  Губернатор Кал Ферверзер також опинився в центрі скандалу й у лютому був змушений дистанціюватися від двох своїх помічників після їхнього арешту за прийняття хабарів «без відома чи згоди губернатора».^    Скандал не має партійних меж: звинувачення висунуто і демократам, і республіканцям. Інші законодавці, що постануть перед судом, серед яких  ^(продовження на стор. 2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Телефонні лінії все ще^не працюють у всьому районі"..
+"<type:text, x:305, y:715, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>ОКРУГ НОКС  —  Knox  Telecommuni- cations вибачилася за другий день перебоїв телефонного зв'язку в регіоні Нокс. Прийом сигналу на мобільні та автомобільні телефони також порушено, що спричинило хаос і в бізнесі, і в оселях. У KT заявили, що збої пов'язані з «серйозними проблемами місцевої телефонної  станції»   та   попереджають,   що^(продовження на стор. 4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Житель Вест-Пойнта помер^після того, як з'їв^60 хот-догів"..
+"<type:text, x:550, y:732, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>ВЕСТ-ПОЙНТ —  16-ті щорічні змагання з поїдання хот-догів у Вест-Пойнті завершилися трагедією: переможець Болтон Юпітер помер невдовзі після здобутої перемоги. «Він підняв трофей, — розповів очевидець, — маленьку сосиску в окулярах. А потім звалився на відро майонезу».^(продовження на стор. 3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly3A.png"), width:130, height:97, scaleX:1, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly3B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly3.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July4_title = "Knox Knews — 4 липня 1993",
+
+Print_Media_KnoxKnews_July4_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:791, height:900, pivotX:-0.008, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.01, pivotY:0, angle:-0.2, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:789, height:900, pivotX:-0.006, pivotY:0, angle:-0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:793, height:900, pivotX:-0.002, pivotY:0, angle:0.4, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:0, pivotY:0, scaleX:1, scaleY:1, angle:0, a:0.3>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Спека^протримається^наступного тижня"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Тім Джонсон^"ймовірно вибув^до кінця сезону""..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 2"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 4"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>НЕДІЛЯ"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>4 липня 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>НАДРУКОВАНО В ІРВІНГТОНІ"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>№ 908"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>"Немає загрози^для населення"^після аварії,^заявляє армія"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>Місце події перекрито та взято під охорону військовими."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>МАРЧ РІДЖ — Військова вантажівка, що перевозила небезпечні відходи, перекинулася трохи північніше Марч Рідж приблизно о 15:15 у суботу. Вміст вантажівки не розкривають громадськості, але полковник Нiall О'Меллі заявив: "матеріали, хоч і засекречені з оперативних причин, становили б незначну небезпеку, навіть якби контактували з населенням — чого не сталося."                 Свідки розповідають, що вантажівка втратила керування на трасі 60, на південь від фермерського ринку, виїхала на узбіччя після того, як ледь не зіткнулася з авто, та перекинулася на насипі. Посадовці не заперечували, що вантажівка була перевантажена.                                                 Інцидент — один із кількох, пов'язаних із небезпечними матеріалами в окрузі Нокс. Екологічні активісти розкритикували дуже "поблажливі" стандарти; токсичні хімікати та сполуки з неналежно зберіганих боєприпасів називають причиною підвищених випадків респіраторних захворювань у районі Нокс. Нещодавно законодавці штату скасували кілька природоохоронних законів — крок, який^(продовження на стор. 2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Автодром може^прийняти Formula X"..
+"<type:text, x:305, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>ІРВІНГТОН — Організатори Formula X попередньо схвалили трек Irvington Speedway як можливе місце проведення Гран-прі США 1996 року. Хоч остаточний вибір траси ще обговорюється, посадовці неофіційно віддають перевагу автодрому через його близькість до Луїсвілла, інноваційний дизайн траси та  відкритість  владних   органів до  ^(продовження на стор. 4)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>З Днем^незалежності^від Knox Knews!"..
+"<type:text, x:550, y:732, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>НОКС — Для Knox Knews було честю працювати вже другий поспіль 4 липня. Бажаємо читачам чудового дня, згадуючи, чому була заснована Америка, — і мріючи, якою вона може стати одного дня.^З найкращими побажаннями,^Іан Дж. МакКеррок^Головний редактор"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly4A.png"), width:130, height:97, x:261, y:24, scaleX:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly4B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly4.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July5_title = "Knox Knews — 5 липня 1993",
+
+Print_Media_KnoxKnews_July5_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:790, height:900, pivotX:-0.009, pivotY:0, angle:0.15, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:792, height:900, pivotX:-0.007, pivotY:0, angle:-0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:791, height:900, pivotX:-0.005, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.001, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:0, pivotY:1, scaleX:1, scaleY:-1, angle:0, a:0.3>"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>ПОНЕДІЛОК"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>5 липня 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>НАДРУКОВАНО В ІРВІНГТОНІ"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>№ 909"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>«Кінця-краю не видно»^перебоям зв’язку^в окрузі Нокс"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>«Незвична хвороба»^вражає мешканців^Малдро"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 4"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 6"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>ЕКСКЛЮЗИВ:^Нокс відсвяткував^найкращий День^незалежності!"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>На параді в Ноксі — рекордна кількість відвідувачів."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>ОКРУГ НОКС — Попри зірвані плани через триваючі перебої телефонного зв’язку, вчора тисячі мешканців влаштували сімейні барбекю, вечірки та феєрверки, разом святкуючи 217-й день народження Америки.                                                           Через Нокс у напрямку Луїсвілла пройшов пишний парад із двадцяти прикрашених платформ; учениця початкової школи Уна Тернер очолювала колону в образі Леді Свободи, а духові оркестри з Вест-Поінта, Ріверсайда та Бранденбурга виконували патріотичні мелодії.                                      На дрег-треку біля Вест-Поінта відбулася спецподія: серед глядачів був і всесвітньо відомий автогонщик Круз Ділан — щоправда, переконати чемпіона самому сісти за кермо не вдалося: він «не хотів, щоб інші виглядали гірше».                                                                 Увечері небо засяяло червоними, білими та синіми салютами, келихи з лимонадом і пивом піднімали за Америку та в пам’ять про багатьох^(продовження на стор. 2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.78, scaleY:0.78, textLeading:-4, font:UIFont.SdfOldBold>Сморід може бути^«природним процесом»"..
+"<type:text, x:305, y:715, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>РІЧКА ОГАЙО — Вчителька географії Джоан Делагант припустила, що відразливий сморід у регіоні Нокс іде від річки Огайо і може бути спричинений нашестям водоростей, що вкорінюються на ділянках русла.                Делагант кілька днів тому помітила на березі клапті бурих водоростей. «Це нагадало (продовження на стор. 2)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Хвиля нападів собак —^«тривожний» сигнал"..
+"<type:text, x:550, y:715, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>ОКРУГ НОКС — Шериф Джон Керролл нагадав мешканцям про відповідальність тримати своїх собак під контролем після серії нападів на свійських тварин і людей. «Собаки ніколи не мають бігати самі по собі», — сказав шериф. «Вдома їх слід утримувати в огорожі або в приміщенні, щоб вони не втекли. Якщо собака кусає людину, собака^(продовження на стор. 3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly5A.png"), width:130, height:97, scaleX:1, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly5B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly5.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KnoxKnews_July6_title = "Knox Knews — 6 липня 1993",
+
+Print_Media_KnoxKnews_July6_info = "<type:parent, width:805, height:910>"..
+"<type:texture, width:790, height:900, pivotX:-0.011, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:790, height:900, pivotX:-0.008, pivotY:0, angle:0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:791, height:900, pivotX:-0.005, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:789, height:900, pivotX:-0.002, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:400, y:20, width:375, height:105, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, x:24, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, x:404, y:24, width:367, height:97, r:200/255, g:200/255, b:200/255>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:789, height:900, pivotX:1, pivotY:0, scaleX:-1, scaleY:1, angle:0, a:0.3>"..
+"<type:text, x:35, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Убитий місцевий —^«член злочинної^банди»"..
+"<type:text, x:35+380, y:35, r:0, g:0, b:0, a:0.9, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>Дискусія щодо^обмежень швидкості^в Ірвінгтоні"..
+"<type:text, x:180, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 2"..
+"<type:text, x:180+380, y:95, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-4, font:UIFont.SdfOldBold>див. стор. 4"..
+"<type:text, x:22, y:285, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.2, scaleY:1.2, textLeading:-4, font:UIFont.SdfOldBold>Таємнича хвороба^вражає місцевих,^перевантажує^владу"..
+"<type:text, x:410, y:135, r:0, g:0, b:0, a:1, pivotX:0.5, scaleX:0.6, scaleY:0.6, font:UIFont.SdfOldBold>ВІВТОРОК"..
+"<type:text, x:15, y:245, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>6 липня 1993"..
+"<type:text, x:410, y:245, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>НАДРУКОВАНО В ІРВІНГТОНІ"..
+"<type:text, x:770, y:245, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>№ 910"..
+"<type:text, x:295, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.41, scaleY:0.41, font:UIFont.SdfOldBoldItalic>Люди вдаються до короткодіапазонних рацій, щоб зв’язатися з владою."..
+"<type:text, x:25, y:470, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:247/0.4, textLeading:3, font:UIFont.SdfOldRegular>МАЛДРО — Невідома хвороба вразила десятки мешканців регіону Малдро, її симптоми — висока гарячка та блювання. Марч-Рідж відкрив свою військову лікарню для цивільних, аби стримати недугу, хоча вважають, що від людини до людини вона не передається. Очікується прибуття фахівців Центрів контролю та профілактики захворювань для допомоги у з’ясуванні причин спалаху.         Відомо, що кілька постраждалих мали укуси; місцева лікарка Джанін Кортман припускає, що йдеться про спалах сказу. «Я того самого дня лікувала чотирьох пацієнтів з однаковими симптомами, — каже д-р Кортман. — У мене закінчився імуноглобулін проти сказу, тож я надзвичайно вдячна військовим за відкриття їхньої лікарні у Форт-Ноксі для цивільних».                                           Раніше про сказ повідомляли серед дикої фауни регіону, однак випадки у людей рідкісні. «До сьогодні, — каже д-р Кортман, — я бачила лише три безсумнівні випадки сказу в людей. Тривожно, що це^(продовження на стор. 2)"..
+"<type:text, x:305, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Телефонні лінії^в окрузі досі^лежать"..
+"<type:text, x:305, y:700, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:217/0.4, textLeading:3, font:UIFont.SdfOldRegular>ОКРУГ НОКС — Компанія Knox Telecommunications попросила вибачення у роздратованих клієнтів за позапланові «роботи з обслуговування», через які телефонний зв’язок у регіоні не працює майже тиждень. Перебої ускладнили реагування на спалах хвороби в Малдро: багато хто звертається по допомогу через короткорадіозв’язок із поліцією та медичними службами^(продовження на стор. 2)"..
+"<type:text, x:550, y:640, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>«Спіффо» вибачається^після історії з^Secret Sauce"..
+"<type:text, x:550, y:732, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:220/0.4, textLeading:3, font:UIFont.SdfOldRegular>РАЛІ, ПІВН. КАРОЛІНА — Мережа фастфудів Spiffo’s вибачилась після того, як її Secret Sauce «залишив гіркий присмак» у місцевих поціновувачів бургерів. Керівниця логістики Пола Імптон заявила, що плутанина сталася, коли партію нового експериментального гарячого соусу випадково перенаправили до Кентуккі замість звичної^(продовження на стор. 3)"..
+"<type:texture, width:760, height:7, x:790/2, y:265, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:3, height:230, x:290, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, width:3, height:230, x:535, y:645, pivotX:0, pivotY:0, r:0.3, g:0.3, b:0.3, a:0.8>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6A.png"), width:130, height:97, scaleX:1, x:261, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6B.png"), width:130, height:97, x:261+380, y:24>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/kk.png"), width:675, height:200, x:790/2, y:200, pivotX:0.5, pivotY:0.5, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6_2.png"), width:389, height:260, x:290, y:285, scaleX:1.25, scaleY:1.25>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:789, height:901, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_KentuckyHerald_July6_title = "The Kentucky Herald — 6 липня 1993",
+
+Print_Media_KentuckyHerald_July6_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.01, angle:0.3 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.012, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.008, pivotY:0.008, angle:0.2 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.006, pivotY:0.006, angle:0.1 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:900, height:750, pivotX:0, pivotY:0, a:0.6>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Том 277, № 23"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>ЛУЇСВІЛЛ, ВІВТОРОК, 6 ЛИПНЯ 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 СТОРІНКИ — 35¢"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.95, scaleY:1.95, textLeading:-4, font:UIFont.SdfOldBold>Спалах хвороби в Малдро"..
+"<type:text, x:120, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:-4, font:UIFont.SdfOldBold>Виставка зібрала^натовп у галереї"..
+"<type:text, x:120, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>Роботи художниці дуже^популярні в Луїсвіллі"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Луїсвілл, Кентуккі — Нова виставка Луїсвілльської художньої галереї з роботами ірландської мисткині Ешлінґ Дваєр зібрала великий натовп у понеділок увечері.                                        Дваєр, лауреатка премії Сіу-Чонг 1992 року, представила дві нові картини — «Рожева завіса» та «Жовтий, жовтий, жовтий». Обидві одразу здобули оплески та визнання за сміливе використання кольору, глибоко емоційні абстрактні візерунки та вправне застосування сучасних мистецьких технік.                                             Дваєр належить до нової хвилі ірландських митців, що гучно заявляють про себе на міжнародній арені. Серед її інших робіт — Chromatic Accident і перформанс «48 каструль»"..
+"<type:text, x:782, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>Десятки випадків^зафіксовано в регіоні"..
+"<type:text, x:780, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>Реагування ускладнене^    відключеннями телефону"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Малдро, Кентуккі — У районі Малдро, невеликого містечка на північ від Форт-Нокса, повідомлено про десятки випадків грипоподібної недуги з симптомами сильної нудоти та гарячки.                         Через численні військові об’єкти та звалища токсичних відходів у цій місцевості лікарі розглядають версію хімічного витоку у водопостачання чи харчовий ланцюг, хоча звернення по допомогу до зовнішніх органів, за повідомленнями, зустрічають відмовками і запереченнями.                                  За даними, армія США відкрила свої карантинні приміщення у лікарні Форт-Нокса для "..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Карета швидкої біля будинку в районі Малдро, імовірно пов’язана зі спалахом."..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>   Тіло ідентифіковано^ як місцевого адвоката"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>Президент скасовує^  поїздку на G7 у Токіо"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly6.png"), pivotX:0.5, x:900/2, y:252, width:416, height:346, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), pivotX:0.0004, pivotY:-0.0004, width:915, height:750, a:1>",
+
+Print_Media_KentuckyHerald_July13_title = "The Kentucky Herald — 13 липня 1993",
+
+Print_Media_KentuckyHerald_July13_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.01, angle:0.4 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.012, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.009, pivotY:0.008, angle:-0.25 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.006, angle:0.3 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:900, height:750, scaleX:-1, scaleY:1, pivotX:0, pivotY:1, angle:180, a:0.6>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Том 277, № 30"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>ЛУЇСВІЛЛ, ВІВТОРОК, 13 ЛИПНЯ 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 СТОРІНКИ — 35¢"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>"Подію в Ноксі локалізовано" - посадовці"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> "Комендантська година не потрібна"^   - мер Луїсвілла"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   Мер применшує чутки^     після витоку фото й паніки"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>     Луїсвілл — Мер Терренс Шталь відкинув чутки, що Луїсвілл запровадить добровільну комендантську годину у відповідь на те, що так зробили кілька інших міст.                                             'Хай ті прибережні еліти панікують,' сказав мер Шталь на прескон- ференції в понеділок. "Жителі Луїсвілла зроблені з міцнішого матеріалу. Ми нічого не знаємо про цю хворобу, чи вірус, чи що це таке. Влада повністю контролює ситуацію. Страх зашкодить нам значно більше, ніж будь-який спалах. Відверто кажучи, це доволі огидно — стверджувати, що комендантська година робить щось інше, окрім як погіршує і без того напружену ситуацію. Не кажучи вже про фінансовий удар по економіці, якщо місцеві бари,  бізнеси  та  рестора-""..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>  Витік фото^породжує питання"..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Посадовці намагаються втишити^            зростаючу паніку"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Зона Події Нокс, Кентуккі — Президент разом із представниками CDC та військовими оперативно запевнили громадськість, що "вірус Нокс" і далі ізольований у зоні відчуження після витоку моторошного фото із Зони Події Нокс учора.                 Світлина нібито показує інфіковану вірусом особу на вулиці, всіяній тілами, що спричинило паніку серед населення та плутанину щодо серйозності вірусу.        Крапельна подача інформації від військових інсайдерів, а також коротко- дальні радіоповідомлення від тих, хто застряг у Зоні Події, підривають заяви військових"..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Світлина, тут показана з цензурою з поваги до жертв, зображує чоловіка з тяжкими травмами руки, який стоїть на вулиці, заповненій закривавленими тілами. "..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>Зону Нокс^не забезпечують"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>Землетрус^ на Хоккайдо, Японія"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:420, height:350, x:900/2, y:250, pivotX:0.5, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly13.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), width:915, height:750, pivotX:0.0004, pivotY:-0.0004, a:1>",
+
+Print_Media_KentuckyHerald_July14_title = "The Kentucky Herald — 14 липня 1993",
+
+Print_Media_KentuckyHerald_July14_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.01, angle:0.4 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.01, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.008, angle:-0.25 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.004, pivotY:0.006, angle:0.3 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:750, height:900, scaleX:1, scaleY:1, pivotX:1, pivotY:0, angle:90, a:0.6>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Том 277, № 31"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>ЛУЇСВІЛЛ, СЕРЕДА, 14 ЛИПНЯ 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 СТОРІНКИ — 35¢"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>"Немає причин для паніки" — ген. МакҐрю"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold> Ватикан, Мекка,^    зачинені для паломників"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   Два головні релігійні місця^    зачинені через страх вірусу"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Ватикан — резиденція Папи Римського — та Мекка, найсвятіше місто ісламу, зачиняються для зовнішнього світу через загрозу "вірусу Нокс".           Понтифік попросив "прощення й молитов", оскільки укріплене місто в центрі Рима закрило свої брами для відвідувачів. Швейцарська гвардія заявила, що "готова до найгіршого", адже тисячі паломників, уже заблокованих через міжнародне приземлення авіарейсів, будуть змушені обмежити переміщення за новими обмеженнями в італійській столиці.                      Саудівська Аравія, яка вчора безстроково закрила кордони, також оголосила, що місто"..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>  Вірус смертельний,^але "локалізований""..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Президент залишає столицю^   — "не пов'язано зі спалахом""..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Зона Події Нокс — Генерал Джон МакҐрю у вівторок оприлюднив заяву, визнавши, що "вірус Нокс" є дегенеративним, але стверджуючи, що його поширення стримано в межах Кордону Події, який тепер охоплює сотні квадратних миль штату Кентуккі.               CDC опублікувало заяву, що попри те, що вірус, здається, спричиняє велику агресію між хворими, його передавання через контакт із рідинами є неефективним способом поширення.          Посадовці також заперечили, що Президент залишив Вашингтон, округ Колумбія, через вірус, заявивши, що його відсутність пов'язана з приватною сімейною"..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Генерал Джон МакҐрю заявив, що "немає потреби у подальшій паніці" на тлі зростаючих побоювань щодо смертельності та темпів інфікування "вірусу Нокс"."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold> Демократи приєдналися^до критики президента"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>  Мер Луїсвілла:^"Ми лишаємося відкритими""..
+"<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly14.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), pivotX:0.0004, pivotY:-0.0004, width:915, height:750, a:1>",
+
+Print_Media_KentuckyHerald_July15_title = "The Kentucky Herald — 15 липня 1993",
+
+Print_Media_KentuckyHerald_July15_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.009, pivotY:0.01, angle:0.4 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.006, pivotY:0.008, angle:-0.25 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.003, pivotY:0.006, angle:0.3 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:750, height:900, scaleX:-1, scaleY:1, pivotX:0, pivotY:0, angle:90, a:0.4>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Том 277, № 32"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>ЛУЇСВІЛЛ, ЧЕТВЕР, 15 ЛИПНЯ 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>32 СТОРІНКИ — 35¢"..
+"<type:text, x:900/2, y:212, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:2.2, scaleY:2.2, textLeading:-4, font:UIFont.SdfOldBold>Кордон Нокс прорвано"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  Штати обговорюють^ рішення щодо Нокс"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>     Влада розглядає ^         "радикальні рішення""..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Законодавці штату Теннессі проголосували за надання безкоштовної вогнепальної зброї всім «урівноваженим» мешканцям. Верховний суд Каліфорнії переїжджає на острів Санта-Каталіна. Обидві палати Конгресу обмежили присутність до 25%. Це лише деякі зі дивних картин на тлі дискусій про те, що робити з вірусом Нокс.                                      Дебати зосередилися на двох темах: як діяти щодо інфікованих і де можна створити безпечні зони для захисту неінфікованих громадян. Пропозиції варіювалися від карантину до негайної страти інфікованих.                                           Повідомлення після прориву кордону Нокс свідчать, що"..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold> Десятки загиблих,^армія відступає"..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Перестрілка та втрати^   на кордоні Нокс"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Зона Події Нокс — Десятки людей загинули після того, як військову лінію оборони на південь від Луїсвілла прорвала юрба з кількох сотень осіб, інфікованих «вірусом Нокс».                                   Попри політику «стріляти на ураження», запроваджену владою, військових швидко взяли числом, а інфіковані напали на вижилих, що мешкали у наметах у Прикордонному таборі.                                                    Лінія кордону Нокс рухається на північ у бік Луїсвілла, оскільки військові відступають. Зв’язок ускладнений — мережі ледь витримують шалений по- пит з боку цивільних, які намагаються"..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Сотні людей із «вірусом Нокс» бездумно нападали на персонал і барикади голіруч, беручи числом і військових, і цивільних."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>  Скасування подій^  "На розсуд організаторів""..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>Губернатор визнає^потребу у федеральній допомозі"..
+"<type:texture, pivotX:0.5, x:900/2, y:250, width:420, height:350, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly15.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), width:915, height:750, pivotX:0.0004, pivotY:-0.0004, a:1>",
+
+Print_Media_KentuckyHerald_July16_title = "The Kentucky Herald — 16 липня 1993",
+
+Print_Media_KentuckyHerald_July16_info = "<type:parent, width:915, height:750>"..
+"<type:texture, width:900, height:750, pivotX:-0.009, pivotY:0.01, angle:0.3 , r:125/255.0, g:125/255.0, b:125/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.007, pivotY:0.012, angle:-0.4 , r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.005, pivotY:0.008, angle:0.2 , r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:900, height:750, pivotX:-0.002, pivotY:0.006, angle:0.1 , r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:900, height:750, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:900, height:750, scaleX:-1, scaleY:1, pivotX:1, pivotY:0, angle:0, a:0.4>"..
+"<type:text, x:5, y:135, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Том 277, № 33"..
+"<type:text, x:900/2, y:135, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>ЛУЇСВІЛЛ, П’ЯТНИЦЯ, 16 ЛИПНЯ 1993"..
+"<type:text, x:890, y:135, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>8 СТОРІНОК — БЕЗКОШТОВНО"..
+"<type:text, x:900/2, y:205, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0.5, scaleX:1.75, scaleY:1.75, textLeading:-4, font:UIFont.SdfOldBold>Вірус Нокс поширюється повітрям"..
+"<type:text, x:115, y:260, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textLeading:-4, font:UIFont.SdfOldBold>  Особливе звернення^   від Herald"..
+"<type:text, x:110, y:335, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>   Дякуємо всім^  нашим читачам"..
+"<type:text, x:10, y:395, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       Імовірно, це — останній випуск Kentucky Herald. Вірус уже в Луїсвіллі. Декілька з нас тут мають гарячку, а на вулицях — сотні інфікованих.         Ми бажаємо подякувати всім нашим читачам за те, що були з нами в ці безпрецедентні часи. Якщо ви — один із небагатьох імунних, ви — розпорядник нового світу. Тепер ваш обов’язок — нести світло людяності та цивілізації. Навіть одна свічка розріже найглибшу темряву.                                   Нехай Бог помилує решту з нас і наших близьких."..
+"<type:text, x:780, y:265, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:1, scaleY:1, textLeading:-4, font:UIFont.SdfOldBold>Відчай охоплює^країну й світ"..
+"<type:text, x:770, y:350, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.6, scaleY:0.6, textLeading:-4, font:UIFont.SdfOldBold>    Лише жменька імунні^     до «повітряного штаму»"..
+"<type:text, x:672, y:415, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:222/0.45, textLeading:3, font:UIFont.SdfOldRegular>       CDC підтвердив, що вірус Нокс швидко поширюється повітрям, хоча невеликий відсоток людей імунні до «повітряного варіанта» вірусу. Для всіх інших імовірність ліків або лікування тепер майже нульова. Допоможіть вашим літнім і вразливим сусідам. Діліться їжею, якщо маєте більше, ніж потрібно. За будь-яку ціну уникайте натовпів.                                 Як ми бачили на кордоні, стрілянина їх приваблює. Майте напоготів бейсбольну биту або іншу просту у користуванні зброю й не бійтеся атакувати їх. Коли вони помирають і повертаються, вони хочуть лише поширювати вірус."..
+"<type:text, x:590, y:600, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:text, x:247, y:615, r:0, g:0, b:0, a:0.9, scaleX:0.45, scaleY:0.45, autoWidth:410/0.45, textLeading:3, font:UIFont.SdfOldBold>Групу інфікованих зафіксовано на фото одним із членів нашої команди по дорозі до редакції в четвер, поблизу центру Луїсвілла. Їм вдалося пройти повз безпечно."..
+"<type:text, x:335, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBold>   Конгрес евакуюється^    до Маунт-Везер"..
+"<type:text, x:550, y:700, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.7, scaleY:0.7, textLeading:-4, font:UIFont.SdfOldBoldItalic>   Ймовірно, вірус^«вже глобальний»"..
+"<type:texture, width:890, height:7, x:900/2, y:25, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:3, x:900/2, y:130, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:890, height:7, x:900/2, y:150, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:420, height:350, pivotX:0.5, x:900/2, y:250, scaleX:1, scaleY:1, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:235, height:2, x:120, y:251, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252, x:238, y:250, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:325, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:79, y:385, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:252, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:750-252-430, x:664, y:250+430, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:340, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:742, y:405, pivotX:0, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:320, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:80, height:2, x:550, y:680, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KnoxJuly16.png"), width:416, height:346, pivotX:0.5, x:900/2, y:252, scaleX:1, scaleY:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/TheKentuckyHerald.png"), width:660, height:80, x:900/2, y:38, pivotX:0.5, pivotY:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KH_Gradient_1.png"), width:915, height:750, pivotX:0.0004, pivotY:-0.0004, a:1>",
+
+Print_Media_NationalDispatch_July6_title = "The National Dispatch — 6 липня 1993",
+
+Print_Media_NationalDispatch_July6_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.007, pivotY:0, angle:0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.002, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, scaleX:-1, scaleY:-1, pivotX:1, pivotY:1, angle:0, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Нью-Йорк, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>6 липня 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-59"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.058, scaleY:1.058, font:UIFont.SdfOldBoldItalic>ІРАК МОЖЕ ПРИПИНИТИ СПІВПРАЦЮ З ООН"..
+"<type:text, x:670, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold> Два арешти^  за «зухвале» ^    паризьке^  пограбування коштовностей"..
+"<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Джефф Френкс"..
+"<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       ПАРИЖ, Франція — Поліція французької столиці в понеділок здійснила два арешти після багатомісячного розслідування зухвалого пограбування в одному з найелітніших паризьких готелів.                                 Марі-Крістін Лакур та Клод Бомарше були звинувачені в ошуканстві, крадіжці зі зломом, нападі, зберіганні наркотиків та великій крадіжці після того, як поліція пов’язала їх із крадіжкою в готелі Paris Havisham у жовтні минулого року. Пару, відомих світських левів, звинувачують у тому, що вони проникли до готелю під виглядом персоналу та, спустившись по мотузці на сьомий поверх до балкона номера, де зупинився високопоставлений європейський монарх, висвердлили отвір у вікні номера"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(Див. "Heist," A12)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Моллі Аоїде"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>        БАГДАД, Ірак — На пресконференції в понеділок президент Іраку заявив, що країна може припинити співпрацю з Організацією Об’єднаних Націй щодо знищення неконвенційної зброї, якщо протистояння навколо моніторингу ракетних об’єктів не буде швидко вирішене.                                 "Американці думають, що ми слабкі," сказав президент зі свого палацу. "Ми маємо зброю такої страшної сили, що вони завили б, як собаки, навіть дізнавшись про неї. І все ж ми готові відмовитися від таких речей і йти шляхом миру, якщо з нами поводитимуться справедливо." Речник президента США відмовився коментувати припущення, що скасування президентом своєї участі в зустрічі G7 у Токіо, запланованій на середу, пов’язане з іракською заявою.                                         Інші шість країн-членів G7 — Японія, Канада,    Франція,   Італія,"..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:381, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Німеччина та Велика Британія разом з Європейським Співтовариством — мають обговорити низку міжнародних питань, зокрема допомогу для подальших"..
+"<type:text, x:347, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>приватизацій у Росії, ядерну зброю в колишньому СРСР і Північній Кореї, а також погіршення ситуації на території, раніше відомій"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>як Югославія. Ця зустріч G7, дев’ятнадцята, стане першою для Президента"..
+"<type:texture, width:146, height:1, x:510, y:770, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:782, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(Див. "Iraq," A10)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Президент Іраку виступає перед міжнародними ЗМІ в Багдаді."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly6.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July7_title = "The National Dispatch — 7 липня 1993",
+
+Print_Media_NationalDispatch_July7_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.012, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.001, pivotY:0, angle:0.25, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, pivotY:0, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Нью-Йорк, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>7 липня 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-60"..
+"<type:text, x:60, y:140, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.33, scaleY:1.33, font:UIFont.SdfOldBoldItalic>БЛОКАДА В КЕНТУККІ"..
+"<type:text, x:690, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, textTracking:0.5, font:UIFont.SdfOldBold>    Колонка думок:^  Кентукська^непрозорість^  підживить^   параною"..
+"<type:text, x:680, y:295, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Кіт Гарольдсон"..
+"<type:text, x:680, y:311, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Автор колонки"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       Рішення військових заблокувати велику частину Кентуккі, за чутками через якийсь витік токсичних відходів, а також повна відмова відповідати на запитання щодо подій, лячно відлунюють нещодавні протистояння між федеральною владою та різними озброєними групами.                          Хоча ті групи загалом майже напевно були ворожими й дуже небезпечними, нова операція підкине дров до вогню теорій змови — включно з американськими сепаратистськими рухами та антифедералістами, які вважають, що федеральний уряд дедалі більше топче права своїх громадян.           Справді, навіть для тих із нас, хто тримається центру, рішення"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Paranoia", A11)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Джефф Френкс"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:379, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>             КЕНТУККІ — У понеділок Збройні сили США перекрили дороги й автостради до та з території штату, неофіційно відомої як "Knox Country" — округів поблизу Форт-Нокс, — не повідомивши причину.                                   Сотні військовослужбовців, повністю озброєних і в бойовому спорядженні, прибули до району у вівторок уранці, оточивши тисячі цивільних усередині кордону, а також виселивши сотні людей, що мешкають поза межами. Чутки ширяться про військові навчання, але всі дзвінки до армійських посадовців лишилися без відповіді.                      Телефонні лінії також не працюють у регіоні вже кілька днів, що робить зв’язок із відгородженою зоною майже неможливим.                     Один мешканець Вест-Пойнта, Ларрі Стоддард, сказав, що, повертаючись після звичної нічної зміни медбрата в Луїсвіллі, він побачив "солдатів у далині."..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Нічого незвичного для Нокса, але потім я побачив, як вони ставлять паркани вздовж усієї дороги. Це було як у кіно. Потім поряд зі мною зупинилася велетенська вантажівка, і"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>мені сказали, що далі їхати не можна. Я відповів водієві, що живу у Вест-Пойнті, але він сказав, що я не можу туди їхати." Декілька жителів за межами кордону повідомляють"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>про наказ виїхати; один стверджує, що солдати були "співчутливими", коли це робили, і"..
+"<type:texture, width:146, height:1, x:510, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Blockade", A10)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Ларрі Стоддард говорить із місцевими ЗМІ. Військові відмовилися^від усіх запитів на інтерв’ю чи коментар."..
+"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly7.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July12_title = "The National Dispatch — 12 липня 1993",
+
+Print_Media_NationalDispatch_July12_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.014, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.01, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.007, pivotY:0, angle:-0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:820, height:865, scaleX:1, scaleY:1, pivotX:1, angle:90, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Нью-Йорк, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>12 липня 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-65"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.22, scaleY:1.22, font:UIFont.SdfOldBoldItalic>ВООЗ: "ПРИЗУПИНИТИ ВСІ РЕЙСИ""..
+"<type:text, x:700, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>   Колонка думок:^  Тривожна^   тиша^панує в^ Луїсвіллі"..
+"<type:text, x:680, y:295, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Кіт Гарольдсон"..
+"<type:text, x:680, y:311, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Автор колонки"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       ЛУЇСВІЛЛ, Кентуккі — Попри заворушення та безлад у великих містах, вулиці Луїсвілла, що за крок від Зони відчуження Нокс, тихіші, ніж будь-коли. І все ж, попри спроби багатьох мешканців триматися оптимізму й применшувати загрозу, очевидно, що чимало хто відчуває ниючу тривогу через вірус Нокс.              Влада нині запевняє, що вірус, хоча й смертельний, передається лише через контакт із рідинами, проводячи паралелі зі спалахами еболи, які зрештою вдавалося стримати. Але ніколи ще спалаху еболи не було так близько до великого міста, і деякі мешканці вже перебралися через річку Огайо. Інші планують приєднатися до них, і"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Silence", A13)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Моллі Аойде"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>    ЖЕНЕВА, Швейцарія — Мільйони мандрівників опинилися у підвішеному стані, коли Всесвітня організація охорони здоров’я в неділю порадила призупинити всі авіарейси по всьому світу, окрім військових і медичних, щоб зупинити поширення "вірусу Нокс".                                 Хоч ВООЗ і не має юридичних повноважень примусово виконувати цю пораду, авіалінії майже негайно приземлили всі рейси, шоковані раптовістю оголошення.                             На брифінгу в Білому домі Президент назвав заяву ВООЗ "небажаною та економічно необґрунтованою".                                    Генеральний директор Air Erin Раян Бірн сказав: "Ми знали, що це неминуче, але думали, що матимемо бодай трохи часу на підготовку. Ми мусимо виконувати. Ніхто з нас не хоче бути відповідальним за спалах, але в нас є бізнес. Ліки не можуть бути гіршими за хворобу."..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>        Тим часом Європейське співтовариство порадило всім своїм державам-членам превентивно закрити внутрішні та зовнішні кордони."..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Очікується, що всі країни ЄС виконають рекомендацію, хоча Сполучене Королівство попросило коротку відстрочку перед запровадженням."..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Безпрецедентна порада викликала занепокоєння, що"..
+"<type:texture, width:146, height:1, x:510, y:755, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:766, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Flights", A9)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Мільйони мандрівників у світі можуть застрягти."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly12.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July13_title = "The National Dispatch — 13 липня 1993",
+
+Print_Media_NationalDispatch_July13_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:864, height:820, pivotX:-0.01, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:866, height:820, pivotX:-0.005, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:-0.2, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.001, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, scaleX:-1, scaleY:1, pivotX:0, pivotY:1, angle:180, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Нью-Йорк, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>13 липня 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-66"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.22, scaleY:1.22, font:UIFont.SdfOldBoldItalic>КРИВАВЕ ФОТО З НОКС ОПРИЛЮДНЕНО"..
+"<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold> Hundreds^    Dead^  In Japan^Earthquake"..
+"<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Доріс Гант"..
+"<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>       ХОККАЙДО, Японія — Потужний землетрус стався біля узбережжя Японії приблизно о 22:15 за місцевим часом (9:15 ранку за Східним часом) у понеділок. Землетрус, попередньо оцінений у 7,5 бала за шкалою Ріхтера, спричинив цунамі, яке затопило частини острова Хоккайдо та вдарило по узбережжю південно-східної Росії.             Є побоювання, що загинули сотні людей; надходять повідомлення про пожежі та зсув у містечку Окушірі на однойменному малому острові поблизу Хоккайдо. Місто вже потерпало від сильного землетрусу в січні цього року, коли загинули двоє та постраждали понад тисячу осіб. Понеділковий поштовх виявився набагато руйнівнішим,     і     "..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Japan", A13)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Річард Карлсон"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:380, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>     КОРДОН ЗОНИ ВИКЛЮЧЕННЯ НОКС, Кентуккі — Нова фотографія, що з’явилася в понеділок і на якій видно інфікованого, понівеченого, але, вочевидь, ще живого чоловіка на вулиці, заповненій тілами, у місті Вест-Пойнт у межах Зони відчуження Нокс, викликала нові питання щодо реакції уряду на Подію Нокс.                        Тисячі мешканців опинилися в пастці всередині очепленої зони, що охоплює сотні квадратних миль Кентуккі, починаючи з 6 липня, з мінімальним зв’язком із зовнішнім світом.                                       Витік фото додав ще більшого гніву до заворушень, що охопили міста по всій країні; комендантська година майже не впливає на ситуацію. Оскільки армію та нацгвардію вже залучено у великих містах, проти учасників заворушень повсюдно застосовують сльозогінний газ та водомети, а військові в кількох районах відкривали вогонь бойовими, хоча про жертви не повідомлялося."..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Влада заявила, що навіть мирні денні протести, ймовірно, доведеться скасувати через високий ризик їх переростання в насильство.^"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>    Фондові ринки, які вже падали після оголошення ВООЗ у неділю про приземлення всіх рейсів, просіли ще більше, щойно фото розповсюдили інформагентства"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>по всьому світу. Індекси Доу-Джонса було призупинено"..
+"<type:texture, width:146, height:1, x:510, y:755, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:766, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Leaked", A10)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Зображення приховано з поваги до гідності постраждалого."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly13_2.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July14_title = "The National Dispatch — 14 липня 1993",
+
+Print_Media_NationalDispatch_July14_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.009, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.006, pivotY:0, angle:0.2, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.007, pivotY:0, angle:-0.4, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.003, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:820, height:865, scaleX:-1, scaleY:1, pivotX:0, pivotY:0, angle:90, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Нью-Йорк, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>14 липня 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-67"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:1.1, scaleY:1.1, font:UIFont.SdfOldBoldItalic>ООН ЗАСУДЖУЄ РЕАКЦІЮ НА НОКС"..
+"<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold>    WHO^   Decries^   Threats"..
+"<type:text, x:680, y:255, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Доріс Гант"..
+"<type:text, x:680, y:271, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:678, y:305, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>   ЖЕНЕВА, Швейцарія — Всесвітня організація охорони здоров’я засудила сотні погроз бомбами та вбивством проти своєї штаб-квартири й співробітників у Женеві, назвавши їх "надзвичайно недоречною реакцією в час безпрецедентної кризи". Поліція Швейцарії уважно відстежує ситуацію, що виникла після рекомендації ВООЗ від 11 липня приземлити міжнародні рейси по всьому світу через спалах у Нокс.        Рекомендація, хоч і добровільна, була виконана майже всіма авіакомпаніями світу, залишивши мільйони внутрішніх та міжнародних мандрівників у підвішеному стані та змусивши уряди по всьому світу мати справу з раптовим застряганням величезної кількості туристів у їхніх кордонах у розпал"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Threats", A11)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Кіт Гарольдсон"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>           НЬЮ-ЙОРК, NY — Тридцять вісім країн оприлюднили спільну заяву через Організацію Об’єднаних Націй, засудивши те, що вони назвали "повною відсутністю ясності" щодо подробиць спалаху хвороби Нокс. Заява пролунала за кілька годин після того, як генерал Джон МакҐрю, військовий куратор Зони стримування Нокс, сказав, що "немає потреби у подальшій паніці" після витоку жахливої фотографії із Зони в понеділок та підтвердження крайньої жорстокості між інфікованими.                                    Президент залишив Вашингтон, округ Колумбія, і був недоступний для коментарів.                                Китай став одним із найгостріших критиків США: його делегати заявили, що Сполучені Штати ставлять "збереження багатства Волл-стріт вище за спільне благо людства", заяви, які союзники США оперативно засудили.  Тим часом, Ватикан"..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>закривається через загрозу хвороби Нокс. Швейцарська гвардія міста наказала всім відвідувачам евакуюватися, за повідомленнями — всупереч"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>бажанню Папи, який закликав до "прощення і молитви". Фортеця в самому серці Рима запровадить суворі заходи"..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>для забезпечення здоров’я та безпеки приблизно       1000 "..
+"<type:texture, width:146, height:1, x:510, y:772, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:786, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Response", A9)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Китайський делегат в ООН різко розкритикував дії США щодо спалаху."..
+"<type:text, x:180, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly14.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_NationalDispatch_July15_title = "The National Dispatch — 15 липня 1993",
+
+Print_Media_NationalDispatch_July15_info = "<type:parent, width:880, height:825>"..
+"<type:texture, width:865, height:820, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.01, pivotY:0, angle:-0.5, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, width:865, height:820, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, width:864, height:820, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, width:865, height:820, r:225/255.0, g:220/255.0, b:215/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:865, height:820, scaleX:-1, scaleY:1, pivotX:1, a:0.4>"..
+"<type:text, x:15, y:105, r:0, g:0, b:0, a:0.9, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>Нью-Йорк, NY"..
+"<type:text, x:840/2, y:105, r:0, g:0, b:0, a:0.9, pivotX:0.5, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>15 липня 1993"..
+"<type:text, x:825, y:105, r:0, g:0, b:0, a:0.9, pivotX:1, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldRegular>REF: NDITKOUT 76-68"..
+"<type:text, x:15, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.95, scaleY:0.95, font:UIFont.SdfOldBoldItalic>ІНФІКОВАНІ ПРОРВАЛИ КОРДОН НОКС"..
+"<type:text, x:685, y:145, r:0, g:0, b:0, a:0.9, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, font:UIFont.SdfOldBold>     Вірус^ може^ переда-^ ватися^   повітрям"..
+"<type:text, x:680, y:290, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Доріс Гант"..
+"<type:text, x:680, y:306, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:678, y:339, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.4, textLeading:3, font:UIFont.SdfOldRegular>      РЕГІОН НОКС, KY — Деякі біженці та співробітники поза Зоною виключення заявляють, що захворіли на «вірус Нокс», попри відсутність контакту з інфікованими. Ці свідчення поставили під сумнів заяви влади про те, що хвороба поширюється лише через укуси та подряпини.                 Представник CDC сказав, що поява аерогенного передавання становить «більшу загрозу для людства, ніж іспанський грип або Чорна смерть». ВООЗ заявила, що вірус, імовірно, вже по всьому світу, а її порада приземлити рейси «майже напевно надійшла надто пізно, аби щось змінити». Програми скринінгу на цю хворобу"..
+"<type:texture, width:146, height:1, x:680, y:786, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:826, y:798, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Virus", A11)"..
+"<type:text, x:15, y:195, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldBold>Автор: Моллі Аоїде"..
+"<type:text, x:15, y:211, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>Штатний кореспондент"..
+"<type:text, x:15, y:240, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:378, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>       КОРДОН ЗОНИ ВИКЛЮЧЕННЯ НОКС, KY — Близько 5-ї ранку середи сотні людей, інфікованих «вірусом Нокс», прорвалися крізь військові барикади зсередини Зони виключення на південь від Луїсвілла, штат Кентуккі. Інтенсивний вогонь по живій силі не зміг зупинити просування великої групи.                      Загинули до 100 військовослужбовців та цивільних, поранено багато сотень. Свідки повідомляють, що звуки бою привабили ще більше інфікованих з широкої околиці. І військові, і біженці біля кордону відступили до Луїсвілла.                    Великі групи інфікованих протягом дня нападали на будинки в передмістях, повільно просуваючись на північ у бік міста, зустрічаючи лише епізодичний опір — здебільшого з боку озброєних цивільних. Вулиці та мости з Луїсвілла швидко заповнилися переляканими громадянами, що тікали через річку Огайо; повідомлялося про затори"..
+"<type:text, x:180, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>аж до Колумбуса (Огайо) та Індіанаполіса (Індіана). Буйства й мародерство в інших великих містах здебільшого поступилися місцем впорядкованому відчаю, адже містяни"..
+"<type:text, x:345, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>запасаються їжею, набо- ями та іншими товарами на випадок, якщо сцени паніки й грабунків у Кентуккі повторяться деінде."..
+"<type:text, x:510, y:716, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>    Військові власті відмовляються відповідати на запитання щодо їхньої"..
+"<type:texture, width:146, height:1, x:510, y:772, r:0, g:0, b:0, a:0.9>"..
+"<type:text, x:660, y:786, r:0, g:0, b:0, a:0.9, scaleX:0.4, scaleY:0.4, pivotX:1, autoWidth:375, textTracking:0.5, textLeading:3, font:UIFont.SdfOldRegular>(See "Border", A9)"..
+"<type:text, x:180, y:675, r:0, g:0, b:0, a:0.9, scaleX:0.43, scaleY:0.43, font:UIFont.SdfOldBold>Сотні інфікованих прорвали паркани, бездумно атакуючи будь-кого^неінфікованого в зоні досяжності."..
+"<type:text, x:590, y:690, r:0, g:0, b:0, a:0.9, scaleX:0.26, scaleY:0.26, font:UIFont.SdfRegular>АФІЛІЙОВАНА ПРЕСА"..
+"<type:texture, width:810, height:2, x:840/2, y:100, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:810, height:2, x:840/2, y:120, pivotX:0.5, pivotY:0.5, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, width:2, height:664, x:669, y:140, pivotX:0.5, pivotY:0, r:0, g:0, b:0, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/NDJuly15_2.png"), width:480, height:470, x:840/2, y:430, pivotX:0.5, pivotY:0.5, r:225/255.0, g:223/255.0, b:220/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/NewspaperNationalLogo.png"), width:1000, height:121, x:840/2, y:-40, pivotX:0.5, scaleX:1.06, scaleY:1.06, a:0.9>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:865, height:821, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July6_title = "Louisville Sun Times — 6 липня 1993",
+
+Print_Media_LouisvilleSunTimes_July6_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.014, pivotY:0, angle:-0.4, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.014, pivotY:0, angle:-0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:-0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:-0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.008, pivotY:0, angle:0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.008, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.006, pivotY:0, angle:-0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.006, pivotY:0, angle:-0.2, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:805, height:800, scaleX:-1, scaleY:1, pivotX:0, pivotY:1, angle:180, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:800, height:805, pivotX:0, pivotY:0, scaleX:-1, scaleY:1, angle:90, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>ПІЗНІЙ МІСЬКИЙ ВИПУСК"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Вівторок, 6 липня 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ у Луїсвіллі, 50¢ в інших місцях"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly6.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ЩО ВІДБУВАЄТЬСЯ ^У МАЛДРО?"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Загадкова ХВОРОБА^поширюється в регіоні"..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>CDC МОВЧИТЬ, а^військові НА МАРШІ"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Чи це ВИТІК з^ВІЙСЬКОВОЇ ЛАБОРАТОРІЇ?"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, a:1, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July13_title = "Louisville Sun Times — 13 липня 1993",
+
+Print_Media_LouisvilleSunTimes_July13_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:0.4, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.01, pivotY:0, angle:0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.009, pivotY:0, angle:-0.3, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.009, pivotY:0, angle:-0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.008, pivotY:0, angle:-0.4, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.008, pivotY:0, angle:-0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.3, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.3, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:800, height:805, scaleX:1, scaleY:1, pivotX:1, pivotY:0, angle:90, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:800, height:805, pivotX:0, pivotY:1, scaleX:1, scaleY:1, angle:-90, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>ПІЗНІЙ МІСЬКИЙ ВИПУСК"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Вівторок, 13 липня 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ у Луїсвіллі, 50¢ в інших місцях"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly13.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ЖИВИЙ ЧИ МЕРТВИЙ?"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>"Knox Virus" створює^"ХОДЯЧІ ТРУПИ""..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Зону Вилучення Нокс^РОЗШИРИЛИ"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Загальнонаціональна КОМЕНДАНТСЬКА ГОДИНА,^заворушення тривають"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July14_title = "Louisville Sun Times - 14 липня 1993",
+
+Print_Media_LouisvilleSunTimes_July14_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.2, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.012, pivotY:0, angle:0.2, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:-0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:-0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.007, pivotY:0, angle:-0.4, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.007, pivotY:0, angle:-0.4, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.1, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:800, height:805, scaleX:-1, scaleY:1, pivotX:0, pivotY:0, angle:90, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:800, height:805, pivotX:1, pivotY:0, scaleX:1, scaleY:1, angle:90, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>ОСТАННЄ МІСЬКЕ ВИДАННЯ"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Середа, 14 липня 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ у Луїсвіллі, 50¢ в інших місцях"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly14.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ПРЕЗИДЕНТ ПОКИНУВ^ВАШИНГТОН – ^“ВИ САМІ^ЗА СЕБЕ!”"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>«Вірус Нокс» поширюється^через РІДИННИЙ контакт"..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Військові ЗОНИ ЗВІЛЬНИЛИ^затриманих цивільних"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Сигнали ПОРУШЕНІ^через перешкоди"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July15_title = "Louisville Sun Times - 15 липня 1993",
+
+Print_Media_LouisvilleSunTimes_July15_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.3, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.012, pivotY:0, angle:0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:0.1, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.007, pivotY:0, angle:-0.1, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.007, pivotY:0, angle:-0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.2, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:805, height:800, pivotX:0, pivotY:0, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:805, height:800, pivotX:0, pivotY:0, scaleX:1, scaleY:1, angle:0, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>ОСТАННЄ МІСЬКЕ ВИДАННЯ"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>Четвер, 15 липня 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ у Луїсвіллі, 50¢ в інших місцях"..
+"<type:texture, width:778, height:660, x:5, y:132, r:0, g:0, b:0>"..
+"<type:texture, x:9, y:136, width:770, height:652, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly15.png")>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ІНФІКОВАНІ ПРОРИВАЮТЬСЯ^ЧЕРЕЗ БАР’ЄР^ЗОНИ НОКС"..
+"<type:text, x:450, y:490, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>СОТНІ інфікованих^ПРОРВАЛИ барикади"..
+"<type:text, x:450, y:580, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ПАНІКА, цивільні^втікають з Луїсвілля, штат"..
+"<type:text, x:450, y:670, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Мер: «Ми ВСЕ ЩЕ^у безпеці.»"..
+"<type:texture, x:420, y:505, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:595, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:685, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+Print_Media_LouisvilleSunTimes_July16_title = "Louisville Sun-Times - 16 липня 1993",
+
+Print_Media_LouisvilleSunTimes_July16_info = "<type:parent, width:820, height:810>"..
+"<type:texture, width:805, height:800, pivotX:-0.012, pivotY:0, angle:0.1, r:145/255.0, g:145/255.0, b:145/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:0, g:0, b:0, width:805.3, height:800, pivotX:-0.012, pivotY:0, angle:0.1, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.01, pivotY:0, angle:-0.5, r:165/255.0, g:165/255.0, b:165/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:145/255.0, g:145/255.0, b:145/255.0, width:805.2, height:800, pivotX:-0.01, pivotY:0, angle:-0.5, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.006, pivotY:0, angle:-0.3, r:185/255.0, g:185/255.0, b:185/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:165/255.0, g:165/255.0, b:165/255.0, width:805.2, height:800, pivotX:-0.006, pivotY:0, angle:-0.3, a:0.8>"..
+"<type:texture, width:805, height:800, pivotX:-0.003, pivotY:0, angle:0.2, r:205/255.0, g:205/255.0, b:205/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), r:185/255.0, g:185/255.0, b:185/255.0, width:805.2, height:800, pivotX:-0.003, pivotY:0, angle:0.2, a:0.8>"..
+"<type:texture, width:805, height:800, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_wrinkles_1.png"), width:805, height:800, scaleX:-1, scaleY:1, pivotX:1, pivotY:0, angle:0, a:0.6>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LST_Gradient_1.png"), width:804.8, height:800, r:205/255.0, g:205/255.0, b:205/255.0, pivotX:0, pivotY:0, angle:0, y:800, scaleY:-1, a:1>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/paper_stains_1.png"), width:805, height:800, pivotX:0, pivotY:0, scaleX:1, scaleY:-1, y:800, angle:0, a:0.2>"..
+"<type:texture, width:320, height:15, x:5, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:texture, width:318, height:15, x:465, y:107, r:199/255, g:37/255, b:37/255>"..
+"<type:text, x:789/2, y:115, r:0, g:0, b:0, a:1, pivotX:0.5, pivotY:0.5, scaleX:0.6, scaleY:0.6, textLeading:-12, font:UIFont.SdfItalic>ОСТАННЄ МІСЬКЕ ВИДАННЯ"..
+"<type:text, x:10, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>П’ятниця, 16 липня 1993"..
+"<type:text, x:580, y:105, r:1, g:1, b:1, a:1, scaleX:0.4, scaleY:0.4, textLeading:-12, font:UIFont.SdfBold>40¢ у Луїсвіллі, 50¢ в інших місцях"..
+"<type:texture, width:778, height:660, x:789/2, y:132, r:0, g:0, b:0, pivotX:0.5, pivotY:0,>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/LSTJuly16.png"), x:9, y:136, width:770, height:652>"..
+"<type:text, x:30, y:135, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:1.5, scaleY:1.5, textLeading:-22, shadow:true, outlineThick:0.3, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>ЛУЇСВІЛЛЬ ЗАХОПЛЕНО^— МОЛІТЬСЯ ЗА НАС"..
+"<type:text, x:450, y:450, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Військо РОЗГРОМЛЕНЕ^вірусом Нокс"..
+"<type:text, x:450, y:540, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Вірус поширюється^БЕЗ укусів"..
+"<type:text, x:450, y:630, r:1, g:1, b:1, a:1, pivotX:0, pivotY:0, scaleX:0.67, scaleY:0.67, textLeading:-12, shadow:true, outlineThick:0.6, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRobertoSans>Забарикадуйте дім^і заряджайте ЗБРОЮ,^поки не пізно"..
+"<type:texture, x:420, y:465, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:555, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, x:420, y:645, width:22, height:22, r:199/255, g:37/255, b:37/255, a:1>"..
+"<type:texture, width:789, height:300, x:0, y:-100,texture:getTexture("media/textures/printMedia/logos/LST.png")>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/NewspaperPics/KK_Gradient_1.png"), width:805, height:801, pivotX:0.0004, pivotY:0.0004, a:1>",
+
+
+Print_Media_PonyRoamO_title = "Pony Roam-O",
+
+Print_Media_McCoyLoggingCorp_title = "McCoy Logging Co.",
+
+Print_Media_NolansUsedCars_title = "Вживані авто Нолана",
+
+Print_Media_WestMapleCountryClub_title = "Кантрі-клуб Вест Мейпл",
+
+Print_Media_FashionaBelle_title = "ФешенаБель",
+
+Print_Media_TacodelPancho_title = "Тако дель Панчо",
+
+Print_Media_CrossRoadsMall_title = "ТЦ Кросроудс",
+
+Print_Media_UStoreItRiverside_title = "U-Store It (Ріверсайд)",
+
+Print_Media_UStoreItLouisville_title = "U-Store It (Луїсвілль)",
+
+Print_Media_UStoreItMuldraugh_title = "U-Store It (Малдро)",
+
+Print_Media_Fossoil1_title = "Fossoil (Малдро)",
+
+Print_Media_Fossoil2_title = "Fossoil (Вест-Пойнт)",
+
+Print_Media_Fossoil3_title = "Fossoil (Роузвуд)",
+
+Print_Media_Fossoil4_title = "Fossoil (Екрон)",
+
+Print_Media_Fossoil5_title = "Fossoil (Ріверсайд)",
+
+Print_Media_Fossoil6_title = "Fossoil (Бранденбург)",
+
+Print_Media_Fossoil7_title = "Fossoil (Південно-Західний Луїсвілль)",
+
+Print_Media_Fossoil8_title = "Fossoil (Південний Луїсвілль)",
+
+Print_Media_Delilah_title = "PS Делайла",
+
+Print_Media_ChapelmountDownsRacetrack_title = "Іподром Чапелмаунт Даунс",
+
+Print_Media_BensCabin_title = "Оренда кабіни (Вест-Пойнт)",
+
+Print_Media_GrandOhioMall_title = "ТЦ Гранд Огайо",
+
+Print_Media_DragRacingTrack_title = "Трек для дрег-рейсингу",
+
+Print_Media_ArtGalleryofLouisville_title = "Художня галерея Луїсвілля",
+
+Print_Media_FossoilField_title = "Стадіон Фосоіл",
+
+Print_Media_SunstarMotel_title = "Мотель Санстар",
+
+Print_Media_HavishamSuites_title = "Сюїти Хевішем",
+
+Print_Media_LouisvilleBruiser_title = "Фабрика Луїсвілль Брюзер",
+
+Print_Media_TheSeaShanty_title = "Морська Шанті",
+
+Print_Media_ScarletOakDistillery_title = "Дистилерія Скарлет Оук",
+
+Print_Media_ReadyPrep_title = "Реді Преп",
+
+Print_Media_WellingtonHeightsGolfClub_title = "Гольф-клуб Веллінгтон Гайтс",
+
+Print_Media_LSU_title = "Державний університет Луїсвілля",
+
+Print_Media_LectromaxManufacturingJobAd_title = "Оголошення про роботу на Lectromax Manufacturing",
+
+Print_Media_SpiffosHiringDixie_title = "Spiffo's набирає! (Діксі)",
+
+Print_Media_SpiffosHiringLouisville_title = "Spiffo's набирає! (Луїсвілль)",
+
+Print_Media_SpiffosHiringWestPoint_title = "Spiffo's набирає! (Вест-Пойнт)",
+
+Print_Media_PizzaWhirled_title = "Pizza Whirled",
+
+Print_Media_PizzaWhirledJobAdRosewood_title = "Pizza Whirled (Роузвуд)",
+
+Print_Media_PileoCrepeJobAdCrossRoadsMall_title = "Pile o' Crepe (ТЦ Кросроудс)",
+
+Print_Media_HitVidsJobAdMarchRidge_title = "Hit Vids (Марч Рідж)",
+
+Print_Media_MarchRidgeSchoolJobAd_title = "Школа Марч Рідж — вакансія",
+
+Print_Media_KnoxBankJobAdRosewood_title = "Knox Bank (Роузвуд)",
+
+Print_Media_FarmersMarket_title = "Фермерський ринок",
+
+Print_Media_MuldraughBakeSale_title = "Випічка на продаж — Комітет леді Малдро",
+
+Print_Media_KnoxGunOwnersClubGetTogether_title = "Збори клубу зброярів Нокс (Velvet Tassel)",
+
+Print_Media_HouseforSale895_title = "Будинок на продаж (№895)",
+
+Print_Media_HouseforSale903_title = "Будинок на продаж (№903)",
+
+Print_Media_HouseforSale922_title = "Будинок на продаж (№922)",
+
+Print_Media_HouseforSale934_title = "Будинок на продаж (№934)",
+
+Print_Media_OnyxDriveinTheater_title = "Автокінотеатр Онікс",
+
+Print_Media_RedOakApartments_title = "Апартаменти Ред Оук",
+
+Print_Media_DuCaseApartments_title = "Апартаменти Дю Кейс",
+
+Print_Media_HighStreetApartments_title = "Апартаменти на Гай-стріт",
+
+Print_Media_LowryCourt_title = "Лоурі Корт",
+
+Print_Media_UpscaleMobility_title = "Апгрейд Мобіліті",
+
+Print_Media_RoxysRollerRink_title = "Роллердром Роксі",
+
+Print_Media_ElveeArena_title = "Арена Елві",
+
+Print_Media_July4PartyEasternLouisville_title = "Свято незалежності (Східний Луїсвілль)",
+
+Print_Media_RiversideIndependenceDayPartyAllWelcome_title = "Свято незалежності (Ріверсайд)",
+
+Print_Media_FourthofJulyCelebrationDixieMobilePark_title = "Свято незалежності (Діксі Мобайл Парк)",
+
+Print_Media_SureFitnessBoxingClub_title = "Фітнес та боксерський клуб Sure",
+
+Print_Media_BrooksLibrary_title = "Публічна бібліотека Брукс (Луїсвілль)",
+
+Print_Media_LouisvilleAnimalShelter_title = "Притулок для тварин Луїсвілля",
+
+Print_Media_KnoxPackKitchens_title = "Кухні Нокс Пак",
+
+Print_Media_SunsetPinesFuneralHome_title = "Похоронне бюро Сансет Пайнз",
+
+Print_Media_CardinalPlaza_title = "Кардинал Плаза",
+
+Print_Media_CircuitalHealing_title = "Циркулярне зцілення",
+
+Print_Media_GnomeSweetGnome_title = "Дім милий Ґном",
+
+Print_Media_MeadshireEstate_title = "Мідшир Естейт",
+
+Print_Media_IrvingtonSpeedway_title = "Ірвінгтон Спідвей",
+
+Print_Media_CivilWarfort_title = "Форт Проспект",
+
+Print_Media_GreenesJobAdEkron_title = "Greene's — вакансія (Екрон)",
+
+Print_Media_MailCarrierAdEkron_title = "Вакансія листоноші (Екрон)",
+
+Print_Media_PremiseswithApartmentsforLeaselistingno891_title = "Приміщення з апартаментами в оренду (оголошення №891)",
+
+Print_Media_HouseforSale907_title = "Будинок на продаж (№907)",
+
+Print_Media_YourLocalShelterBrandenburg_title = "Місцевий притулок (Бранденбург)",
+
+Print_Media_BrandenburgAirfield_title = "Аеродром Бранденбург",
+
+Print_Media_HouseforSale935_title = "Будинок на продаж (№935)",
+
+Print_Media_PonyRoamO_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>"..,
+
+Print_Media_McCoyLoggingCorp_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/McCoyLogging.png"), width:800, height:1131>"..,
+
+Print_Media_NolansUsedCars_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Nolans.png"), width:800, height:1131>"..,
+
+Print_Media_WestMapleCountryClub_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WMCC.png"), width:1616, height:1131>",
+
+Print_Media_FashionaBelle_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fashionabelle.png"), width:1616, height:1131>",
+
+Print_Media_TacodelPancho_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TacoDelPancho.png"), width:800, height:1131>",
+
+Print_Media_CrossRoadsMall_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Crossroads.png"), width:1616, height:910>",
+
+Print_Media_UStoreItRiverside_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt1.png"), width:800, height:1131>",
+
+Print_Media_UStoreItLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt2.png"), width:800, height:1131>",
+
+Print_Media_UStoreItMuldraugh_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/UStoreIt3.png"), width:800, height:1131>",
+
+Print_Media_Fossoil1_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil1.png"), width:800, height:1131>",
+
+Print_Media_Fossoil2_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil2.png"), width:800, height:1131>",
+
+Print_Media_Fossoil3_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil3.png"), width:800, height:1131>",
+
+Print_Media_Fossoil4_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil4.png"), width:800, height:1131>",
+
+Print_Media_Fossoil5_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil5.png"), width:800, height:1131>",
+
+Print_Media_Fossoil6_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil6.png"), width:800, height:1131>",
+
+Print_Media_Fossoil7_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil7.png"), width:800, height:1131>",
+
+Print_Media_Fossoil8_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Fossoil8.png"), width:800, height:1131>",
+
+Print_Media_Delilah_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Delilah.png"), width:800, height:1131>",
+
+Print_Media_ChapelmountDownsRacetrack_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>"..
+
+Print_Media_BensCabin_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WestPointCabin.png"), width:800, height:1131>",
+
+Print_Media_GrandOhioMall_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GrandOhio.png"), width:1616, height:910>",
+
+Print_Media_DragRacingTrack_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DragRacing.png"), width:800, height:1131>",
+
+Print_Media_ArtGalleryofLouisville_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Gallery.png"), width:1616, height:1131>",
+
+Print_Media_FossoilField_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FossoilField.png"), width:800, height:1131>",
+
+Print_Media_SunstarMotel_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Sunstar.png"), width:800, height:1131>",
+
+Print_Media_HavishamSuites_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Havisham.png"), width:1616, height:1131>",
+
+Print_Media_LouisvilleBruiser_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bruiser.png"), width:800, height:1131>",
+
+Print_Media_TheSeaShanty_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SeaShanty.png"), width:800, height:1131>",
+
+Print_Media_ScarletOakDistillery_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ScarletOak.png"), width:800, height:1131>",
+
+Print_Media_ReadyPrep_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ReadyPrep.png"), width:800, height:1131>",
+
+Print_Media_WellingtonHeightsGolfClub_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WHGC.png"), width:1616, height:1131>",
+
+Print_Media_LSU_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LSU.png"), width:1616, height:1131>",
+
+Print_Media_LectromaxManufacturingJobAd_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Lectromax.png"), width:800, height:1131>",
+
+Print_Media_SpiffosHiringDixie_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SpiffosDixie.png"), width:800, height:1131>",
+
+Print_Media_SpiffosHiringLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SpiffosLV.png"), width:800, height:1131>",
+
+Print_Media_SpiffosHiringWestPoint_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SpiffosWP.png"), width:800, height:1131>",
+
+Print_Media_PizzaWhirledJobAdRosewood_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/PizzaWhirledRosewood.png"), width:800, height:1131>",
+
+Print_Media_PileoCrepeJobAdCrossRoadsMall_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/PileOCrepeJob.png"), width:800, height:1131>",
+
+Print_Media_HitVidsJobAdMarchRidge_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/HitVids1.png"), width:800, height:1131>",
+
+Print_Media_MarchRidgeSchoolJobAd_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MarchRidgeSchoolJob.png"), width:800, height:1131>",
+
+Print_Media_KnoxBankJobAdRosewood_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/KnoxBank1.png"), width:800, height:1131>",
+
+Print_Media_FarmersMarket_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmersMarket.png"), width:800, height:1131>",
+
+Print_Media_MuldraughBakeSale_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/BakeSale.png"), width:800, height:1131>",
+
+Print_Media_KnoxGunOwnersClubGetTogether_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/KnoxGunClub.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale895_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house895.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale903_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house903.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale922_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house922.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale934_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house934.png"), width:800, height:1131>",
+
+Print_Media_OnyxDriveinTheater_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Onyx.png"), width:800, height:1131>",
+
+Print_Media_RedOakApartments_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RedOak.png"), width:800, height:1131>",
+
+Print_Media_DuCaseApartments_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DuCase.png"), width:800, height:1131>",
+
+Print_Media_HighStreetApartments_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/HighStreetApts.png"), width:800, height:1131>",
+
+Print_Media_LowryCourt_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LowryCourt.png"), width:800, height:1131>",
+
+Print_Media_UpscaleMobility_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Upscale.png"), width:800, height:1131>",
+
+Print_Media_RoxysRollerRink_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Roxy.png"), width:800, height:1131>",
+
+Print_Media_ElveeArena_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ElveeArena.png"), width:800, height:1131>",
+
+Print_Media_July4PartyEasternLouisville_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_RiversideIndependenceDayPartyAllWelcome_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RiversideJuly4.png"), width:800, height:1131>",
+
+Print_Media_FourthofJulyCelebrationDixieMobilePark_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/July4Dixie.png"), width:800, height:1131>",
+
+Print_Media_SureFitnessBoxingClub_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SureFitness.png"), width:800, height:1131>",
+
+Print_Media_BrooksLibrary_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Library.png"), width:800, height:1131>",
+
+Print_Media_LouisvilleAnimalShelter_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_KnoxPackKitchens_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/KnoxPack.png"), width:800, height:1131>",
+
+Print_Media_SunsetPinesFuneralHome_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SunsetPines.png"), width:1616, height:1131>",
+
+Print_Media_CardinalPlaza_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CardinalPlaza.png"), width:1616, height:910>",
+
+Print_Media_CircuitalHealing_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CircuitalHealing.png"), width:800, height:1131>",
+
+Print_Media_GnomeSweetGnome_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Gnome.png"), width:800, height:1131>",
+
+Print_Media_MeadshireEstate_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Meadshire.png"), width:800, height:1131>",
+
+Print_Media_IrvingtonSpeedway_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Speedway.png"), width:800, height:1131>",
+
+Print_Media_CivilWarfort_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_GreenesJobAdEkron_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GreenesEkron.png"), width:800, height:1131>",
+
+Print_Media_MailCarrierAdEkron_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MailJobEkron.png"), width:800, height:1131>",
+
+Print_Media_PremiseswithApartmentsforLeaselistingno891_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house891.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale907_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house907.png"), width:800, height:1131>",
+
+Print_Media_YourLocalShelterBrandenburg_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/ShelterBBurg.png"), width:1616, height:1131>",
+
+Print_Media_BrandenburgAirfield_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/TEST.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale912_title = "Будинок на продаж (№912)",
+
+Print_Media_HouseforSale912_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house912.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale915_title = "Будинок на продаж (№915)",
+
+Print_Media_HouseforSale915_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house915.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale943_title = "Будинок на продаж (№943)",
+
+Print_Media_HouseforSale943_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house943.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale930_title = "Будинок на продаж (№930)",
+
+Print_Media_HouseforSale930_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house930.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale929_title = "Будинок на продаж (№929)",
+
+Print_Media_HouseforSale929_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house929.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale919_title = "Будинок на продаж (№919)",
+
+Print_Media_HouseforSale919_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house919.png"), width:800, height:1131>",
+
+Print_Media_LeafhillHeights_title = "Офіси Leafhill Heights",
+
+Print_Media_LeafhillHeights_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Leafhill.png"), width:800, height:1131>",
+
+Print_Media_AmericanTire_title = "American Tire",
+
+Print_Media_AmericanTire_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AmericanTire.png"), width:800, height:1131>",
+
+Print_Media_FarmingAndRuralSupplyDoeValley_title = "Сільськогосподарський та фермерський магазин (Доу-Веллі)",
+
+Print_Media_FarmingAndRuralSupplyDoeValley_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FarmingDV.png"), width:1616, height:1131>",
+
+Print_Media_LennysCarRepair_title = "Автосервіс Lenny's",
+
+Print_Media_LennysCarRepair_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Lennys.png"), width:800, height:1131>",
+
+Print_Media_CarFixation_title = "Автомобільна справа",
+
+Print_Media_CarFixation_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CarFixation.png"), width:800, height:1131>",
+
+Print_Media_AlsAutoShop_title = "Автосервіс Al's",
+
+Print_Media_AlsAutoShop_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AlsAutoShop.png"), width:800, height:1131>",
+
+Print_Media_NailsAndNuts_title = "Цвяхи і гайки",
+
+Print_Media_NailsAndNuts_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NailsandNuts.png"), width:800, height:1131>",
+
+Print_Media_WPDIY_title = "West Point DIY",
+
+Print_Media_WPDIY_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPDIY.png"), width:1616, height:1131>",
+
+Print_Media_EPToolsLV_title = "E.P. Tools (Луїсвілль)",
+
+Print_Media_EPToolsLV_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/EPTools.png"), width:800, height:1131>",
+
+Print_Media_RosewoodFD_title = "Пожежна служба Роузвуд",
+
+Print_Media_RosewoodFD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RosewoodFD.png"), width:800, height:1131>",
+
+Print_Media_BrandenburgFD_title = "Пожежна служба Бранденбург",
+
+Print_Media_BrandenburgFD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/BBurgFire.png"), width:800, height:1131>",
+
+Print_Media_LVFD_title = "Пожежна служба Луїсвілля",
+
+Print_Media_LVFD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LVFD.png"), width:800, height:1131>",
+
+Print_Media_MuldraughPD_title = "Поліція Молдро",
+
+Print_Media_MuldraughPD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MuldraughPD.png"), width:800, height:1131>",
+
+Print_Media_LVPDHQ_title = "Головне управління поліції Луїсвілля",
+
+Print_Media_LVPDHQ_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LVPD.png"), width:800, height:1131>",
+
+Print_Media_RiversidePD_title = "Поліція Ріверсайду",
+
+Print_Media_RiversidePD_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RiversidePD.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale845_title = "Будинок і земля на продаж (оголошення №845)",
+
+Print_Media_HouseforSale845_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house845.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale851_title = "Будинок на продаж (№851)",
+
+Print_Media_HouseforSale851_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house851.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale855_title = "Будинок на продаж (№855)",
+
+Print_Media_HouseforSale855_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house855.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale860_title = "Будинок на продаж (№860)",
+
+Print_Media_HouseforSale860_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house860.png"), width:800, height:1131>",
+
+Print_Media_PremisesforLease863_title = "Приміщення в оренду (оголошення №863)",
+
+Print_Media_PremisesforLease863_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house863.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale867_title = "Будинок на продаж (№867)",
+
+Print_Media_HouseforSale867_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house867.png"), width:800, height:1131>",
+
+Print_Media_CabinforRentDixie_title = "Будиночок в оренду (Діксі)",
+
+Print_Media_CabinforRentDixie_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DixieCabin.png"), width:800, height:1131>",
+
+Print_Media_WPTownHall_title = "Міська рада Вест-Пойнта",
+
+Print_Media_WPTownHall_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WPTownHall.png"), width:800, height:1131>",
+
+Print_Media_DinerInTheWoods_title = "Закусочна в лісі",
+
+Print_Media_DinerInTheWoods_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/DinerInTheWoods.png"), width:800, height:1131>",
+
+Print_Media_FallasLakeChurch_title = "Церква Фаллас-Лейк",
+
+Print_Media_FallasLakeChurch_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FallasChurch.png"), width:800, height:1131>",
+
+Print_Media_OldCGECorpBuilding_title = "Стара будівля корпорації CGE",
+
+Print_Media_OldCGECorpBuilding_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CGECorp.png"), width:800, height:1131>",
+
+Print_Media_RustyRifle_title = "Іржавий Карабін",
+
+Print_Media_RustyRifle_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/RustyRifle.png"), width:800, height:1131>",
+
+Print_Media_A1Hay_title = "A1 Сіно",
+Print_Media_A1Hay_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/A1Hay.png"), width:800, height:1131>",
+
+Print_Media_Airport_title = "Міжнародний аеропорт Луїсвілля",
+Print_Media_Airport_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LVA.png"), width:1616, height:1131>",
+
+Print_Media_AMZSteel_title = "AMZ Сталь",
+Print_Media_AMZSteel_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/AMZ.png"), width:800, height:1131>",
+
+Print_Media_BeefChunk_title = "Компанія Beef Chunk Jerky",
+Print_Media_BeefChunk_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/BeefChunk.png"), width:800, height:1131>",
+
+Print_Media_BlueandWhiteBar_title = "Бар «Синьо-Білий»",
+Print_Media_BlueandWhiteBar_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_BrottAuction_title = "Аукціон ферми великої рогатої худоби Бротт",
+Print_Media_BrottAuction_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Brott.png"), width:800, height:1131>",
+
+Print_Media_CabanCenter_title = "Центр реабілітації дикої природи Caban",
+Print_Media_CabanCenter_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/NAME.png"), width:800, height:1131>",
+
+Print_Media_CatonaHotTinGrill_title = "Кіт на розпеченому грилі",
+Print_Media_CatonaHotTinGrill_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/CatfishRestaurant.png"), width:800, height:1131>",
+
+Print_Media_Coalfield_title = "Вугільне поле",
+Print_Media_Coalfield_info = "<type:parent, width:1616, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Coalfield.png"), width:1616, height:1131>",
+
+Print_Media_ColdWarBunker_title = "Бункер Холодної війни (March Ridge)",
+Print_Media_ColdWarBunker_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Bunker.png"), width:1616, height:910>",
+
+Print_Media_DarkwallowGuestHouse_title = "Гостьовий дім Дарквеллоу",
+Print_Media_DarkwallowGuestHouse_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Darkwallow.png"), width:800, height:1131>",
+
+Print_Media_EkronCollege_title = "Екронський громадський коледж",
+Print_Media_EkronCollege_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/EkronCC.png"), width:800, height:1131>",
+
+Print_Media_FiveAlarmChili_title = "Пожежний чилі «П’ять сирен»",
+Print_Media_FiveAlarmChili_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/FiveAlarm.png"), width:800, height:1131>",
+
+Print_Media_GoldenSunset_title = "Будинок для літніх «Золотий Захід»",
+Print_Media_GoldenSunset_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GoldenSunset.png"), width:800, height:1131>",
+
+Print_Media_GunsUnlimitedEchoCreek_title = "Безмежна зброя (Echo Creek)",
+Print_Media_GunsUnlimitedEchoCreek_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/GunsUnlimited.png"), width:800, height:1131>",
+
+Print_Media_HobbsandPerkinsHardware_title = "Господарський магазин Hobbs & Perkins (Ірвінгтон)",
+Print_Media_HobbsandPerkinsHardware_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/HobbsPerkins.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale787_title = "Будинок на продаж (№ 787)",
+Print_Media_HouseforSale787_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house787.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale799_title = "Будинок на продаж (№ 799)",
+Print_Media_HouseforSale799_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house799.png"), width:800, height:1131>",
+
+Print_Media_HouseforSale818_title = "Будинок на продаж (№ 818)",
+Print_Media_HouseforSale818_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/house818.png"), width:800, height:1131>",
+
+Print_Media_IrvingtonGunClub_title = "Стрілецький клуб Ірвінгтона",
+Print_Media_IrvingtonGunClub_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/IrvingtonGunClub.png"), width:800, height:1131>",
+
+Print_Media_LoveDuet_title = "Love Duet — бутік для наречених",
+Print_Media_LoveDuet_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/LoveDuet.png"), width:800, height:1131>",
+
+Print_Media_MadDansDen_title = "Бар «Шалений Ден»",
+Print_Media_MadDansDen_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MadDansDen.png"), width:800, height:1131>",
+
+Print_Media_MusicFest93_title = "Музичний фестиваль Луїсвілля 1993",
+Print_Media_MusicFest93_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/MusicFest.png"), width:800, height:1131>",
+
+Print_Media_OvoFarms_title = "Ферми Ово",
+Print_Media_OvoFarms_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/OvoFarms.png"), width:800, height:1131>",
+
+Print_Media_Pondview_title = "Торговий центр Pondview",
+Print_Media_Pondview_info = "<type:parent, width:1616, height:910>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Pondview.png"), width:1616, height:910>",
+
+Print_Media_QuillManor_title = "Особняк Брэнфорда Quill",
+Print_Media_QuillManor_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Brenford.png"), width:800, height:1131>",
+
+Print_Media_Sammies_title = "Закусочна Sammie's (Бранденбург)",
+Print_Media_Sammies_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Sammies.png"), width:800, height:1131>",
+
+Print_Media_Sanatorium_title = "Санаторій Сандерленд-Гіллз",
+Print_Media_Sanatorium_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SHS.png"), width:800, height:1131>",
+
+Print_Media_SleepEazzzeInn_title = "Готель Sleep EaZZZe (аеропорт Луїсвілля)",
+Print_Media_SleepEazzzeInn_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/SleepEazzze.png"), width:800, height:1131>",
+
+Print_Media_StuartandLogScrapyard_title = "Металобрухт Stuart and Log",
+Print_Media_StuartandLogScrapyard_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/StuartandLog.png"), width:800, height:1131>",
+
+Print_Media_TheWizardsKeep_title = "Замок Чаклуна",
+Print_Media_TheWizardsKeep_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/WizardsKeep.png"), width:800, height:1131>",
+
+Print_Media_Twiggys_title = "Twiggy's",
+Print_Media_Twiggys_info = "<type:parent, width:800, height:1131>"..
+"<type:texture, x:0, y:0, texture:getTexture("media/textures/printMedia/FlyerPics/Twiggys.png"), width:800, height:1131>",
+
+
+
+
+Print_Media_FlyerTemplate1_info = "<type:parent, width:484, height:800>"..
+"<type:texture, width:483, height:800, r:48/255.0, g:72/255.0, b:199/255.0>"..
+"<type:texture, width:483, height:144, x:0, y:0, texture:getTexture("media/textures/printMedia/logos/nolanLogo.png")>"..
+"<type:texture, width:483, height:350, x:0, y:144, texture:getTexture("media/textures/printMedia/FlyerPics/Nolan.png")>"..
+"<type:texture, width:130, height:90, x:12, y:670, r:246/255.0, g:208/255.0, b:0>"..
+"<type:texture, width:130, height:90, x:12+165, y:670, r:246/255.0, g:208/255.0, b:0>"..
+"<type:texture, width:130, height:90, x:10+330, y:670, r:246/255.0, g:208/255.0, b:0>"..
+"<type:text, x:484/2, y:400, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0.5, pivotY:0, scaleX:0.8, scaleY:0.8, textLeading:0, outlineThick:0.7, outlineColorR:1, outlineColorG:1, outlineColorB:1, outlineColorA:1, font:UIFont.SdfRobertoSans>Завітайте до Nolan's!"..
+"<type:text, x:12, y:500, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBold>1993 MERCIA^LANG 4000"..
+"<type:text, x:12+165, y:500, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBold>1989 CHEVALIER^COSSETTE"..
+"<type:text, x:10+330, y:500, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBold>1991 MERCIA^LANG 4000S"..
+"<type:text, x:12, y:540, scaleX:0.35, scaleY:0.35, textLeading:-10, autoWidth:130/0.35, font:UIFont.SdfBold>Цей чудовий екземпляр німецької інженерії, у величному блакитному кольорі, нещодавно припав до душі сину сенатора штату, який швидко придбав його у нас."..
+"<type:text, x:12+165, y:540, scaleX:0.35, scaleY:0.35, textLeading:-10, autoWidth:130/0.35, font:UIFont.SdfBold>Ця улюблена класика, зібрана в Кентуккі, нещодавно знайшла свого третього власника — банкіра з Луїсвілля. Він пообіцяв не перевищувати швидкість (занадто часто)."..
+"<type:text, x:10+330, y:540, scaleX:0.35, scaleY:0.35, textLeading:-10, autoWidth:135/0.35, font:UIFont.SdfBold>Ця білосніжна Mercia тепер мчить альпійськими перевалами під керуванням швейцарського дипломата. Він залишився нейтральним у всьому, окрім вигідних угод."..
+"<type:text, x:12, y:646, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>ЦІНА: $"..
+"<type:text, x:73, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>85,000"..
+"<type:text, x:12+165, y:646, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>ЦІНА: $"..
+"<type:text, x:73+165, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>40,000"..
+"<type:text, x:10+330, y:646, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>ЦІНА: $"..
+"<type:text, x:71+330, y:646, r:246/255.0, g:208/255.0, b:0, a:1, pivotX:0, pivotY:0, scaleX:0.5, scaleY:0.5, textLeading:-10, font:UIFont.SdfBoldItalic>72,000"..
+"<type:text, x:484/2, y:770, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfBold>23501 Dixie Highway, Kentucky"..
+"<type:texture, width:130-6, height:90-6, x:12+3, y:670+3,  texture:getTexture("media/textures/printMedia/FlyerPics/PoshCar3.png")>"..
+"<type:texture, width:130-6, height:90-6, x:12+165+3, y:670+3, texture:getTexture("media/textures/printMedia/FlyerPics/PoshCar1.png")>"..
+"<type:texture, width:130-6, height:90-6, x:10+330+3, y:670+3, texture:getTexture("media/textures/printMedia/FlyerPics/PoshCar2.png")>",
+
+Print_Media_FlyerTemplate2_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/WestMapleCountryClub.png"), width:480, height:124, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:101, r:225/255.0, g:225/255.0, b:225/255.0, pivotX:0.5, pivotY:0.5, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>ЗАРАЗ"..
+"<type:text, x:20, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:20, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:20, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Lorem ipsum"..
+"<type:text, x:170, y:150, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>West Maple Country Club — це маленький шматочок спортивного^раю, і набір 1993 року^вже відкритий!"..
+"<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua."..
+"<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:332, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:380, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:382, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:358, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>ПОЧИНАЄМО ЗАРАЗ!"..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Адреса, КЕНТУККІ"..
+"<type:text, x:10, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Тел.:"..
+"<type:text, x:40, y:682, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:670, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY",
+
+Print_Media_FlyerTemplate3_info = "<type:parent, width:551, height:800>"..
+"<type:texture, width:550, height:800>"..
+"<type:texture, width:550, height:87, x:0, y:0, texture:getTexture("media/textures/printMedia/logos/homewardTop.png")>"..
+"<type:texture, width:550, height:81, x:0, y:800-81, texture:getTexture("media/textures/printMedia/logos/homewardDown.png")>"..
+"<type:texture, width:529, height:253, x:550/2, y:100, pivotX:0.5, texture:getTexture("media/textures/printMedia/homewardHouse.png")>"..
+"<type:texture, width:250, height:201, x:25, y:530, texture:getTexture("media/textures/printMedia/FlyerPics/homewardMap.png")>"..
+"<type:text, x:550/2, y:372, scaleX:0.64, scaleY:0.64, pivotX:0.5, r:0, g:0, b:0, outlineThick:0.1, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfOldItalic>АДРЕСА РОЗТАШУВАННЯ"..
+"<type:text, x:25, y:410, scaleX:0.64, scaleY:0.64, r:0, g:0, b:0, autoWidth:500/0.64, font:UIFont.SdfOldRegular>Цей вражаючий будинок у стилі початку століття потрібно побачити, щоб повірити. Два просторих поверхи та великий горище, наповнені природним світлом завдяки численним великим вікнам. Це яскравий і затишний дім, ідеальний для вечерь та розваг."..
+"<type:text, x:280, y:550, scaleX:0.55, scaleY:0.55, r:0, g:0, b:0, font:UIFont.SdfOldRegular>Спальні: 4^Ванні: 2^Площа: 4165 кв. футів^^Ціна: $200,000"..
+"<type:text, x:280, y:700, scaleX:0.4, scaleY:0.4, r:0, g:0, b:0, font:UIFont.SdfOldItalic>Лістинг №935"..
+"<type:text, x:550/2, y:755, scaleX:1, scaleY:1, pivotX:0.5, r:1, g:1, b:1, font:UIFont.SdfOldBold>Телефонуйте: 555-9029",
+
+Print_Media_FlyerTemplate4_info = "<type:parent, width:960, height:670>"..
+"<type:texture, width:960, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:220, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>МІСЦЕ ПРОВЕДЕННЯ"..
+"<type:text, x:5, y:75, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>ОФІС СІЛЬСЬКОГОСПОДАРСЬКОГО РАЙОНУ XXXXX^XXXXXXXXX, з 27 по 29 жовтня 1994^^Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:220, y:325, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>МІСЦЕ ПРОВЕДЕННЯ"..
+"<type:text, x:30, y:370, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:5, y:550, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam."..
+"<type:text, x:610, y:160, r:0, g:0, b:0, a:0.9, scaleX:0.7, scaleY:0.7, textLeading:-6, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRegular>КУРС З ДОГЛЯДУ^      ТА УТРИМАННЯ КОНЕЙ"..
+"<type:text, x:580, y:610, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, textLeading:-6, font:UIFont.SdfRegular>    ОФІС СІЛЬСЬКОГОСПОДАРСЬКОГО РАЙОНУ XXXXX^XXXXXXXXX, з 27 по 29 жовтня 1994"..
+"<type:text, x:800, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>МІСЦЕ ПРОВЕДЕННЯ"..
+"<type:text, x:800, y:60, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-2, font:UIFont.SdfBoldItalic>       ВІДДІЛ ВОДНОГО ГОСПОДАРСТВА, РИБАЛЬСТВА Й^ОРГАНІЗАЦІЇ ШВИДКОНОГИХ СЬЄРРА-КАРІОКАСІВ^                                         СВІТУ"..
+"<type:texture, texture:getTexture("media/textures/printMedia/spiffos.png"), x:490, y:3, width:150, height:110>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/clownTEST.png"), x:610, y:236, width:260, height:367>",
+
+Print_Media_FlyerTemplate5_info = "<type:parent, width:370, height:670>"..
+"<type:texture, width:370, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:220, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>МІСЦЕ ПРОВЕДЕННЯ"..
+"<type:text, x:5, y:75, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>ОФІС СІЛЬСЬКОГОСПОДАРСЬКОГО РАЙОНУ XXXXX^XXXXXXXXX, з 27 по 29 жовтня 1994^^Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:220, y:325, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>МІСЦЕ ПРОВЕДЕННЯ"..
+"<type:text, x:30, y:370, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam,^^quis nostrud exercitation ullamco laboris nisi ut^aliquip ex ea commodo consequat. Duis aute irure^dolor in reprehenderit in voluptate velit esse."..
+"<type:text, x:5, y:550, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textLeading:-11, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfCaveat>Lorem ipsum dolor sit amet, consectetur adipiscing^elit, sed do eiusmod tempor incididunt ut labore et^dolore magna aliqua. Ut enim ad minim veniam.",
+
+Print_Media_FlyerTemplate6_info = "<type:parent, width:960/2, height:670>"..
+"<type:texture, width:960/2, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:300, y:30, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.75, scaleY:0.75, textTracking:-2, font:UIFont.SdfBoldItalic>МІСЦЕ ПРОВЕДЕННЯ"..
+"<type:text, x:300, y:80, r:0, g:0, b:0, a:0.9, pivotX:0.5, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-2, font:UIFont.SdfBoldItalic>       ВІДДІЛ ВОДНОГО ГОСПОДАРСТВА, РИБАЛЬСТВА Й^ОРГАНІЗАЦІЇ ШВИДКОНОГИХ СЬЄРРА-КАРІОКАСІВ^                                         СВІТУ"..
+"<type:text, x:960/4, y:160, r:0, g:0, b:0, a:0.9, scaleX:0.7, scaleY:0.7, pivotX:0.5, outlineThick:0.08, outlineColorR:0, outlineColorG:0, outlineColorB:0, outlineColorA:1, font:UIFont.SdfRegular>КУРС З ДОГЛЯДУ^      ТА УТРИМАННЯ КОНЕЙ"..
+"<type:text, x:960/4, y:610, r:0, g:0, b:0, a:0.9, scaleX:0.5, scaleY:0.5, pivotX:0.5,pivotY:0, font:UIFont.SdfRegular>ОФІС СІЛЬСЬКОГОСПОДАРСЬКОГО РАЙОНУ XXXXX XXXXXXXXX^                   з 27 по 29 жовтня 1994"..
+"<type:texture, texture:getTexture("media/textures/printMedia/spiffos.png"), x:10, y:20, width:150, height:110>"..
+"<type:texture, texture:getTexture("media/textures/printMedia/clownTEST.png"), x:960/4, y:236, width:260, height:367, pivotX:0.5>",
+
+Print_Media_FlyerTemplate7_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/FlyerPics/WestMapleCountryClub.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:22, y:132, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:170, y:140, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Клуб West Maple Country Club — це маленький куточок спортивного^раю. Наш першокласний 18-лунковий гольф-поле^приваблює професіоналів з усього світу,^але гольф — лише одна з наших принад."..
+"<type:text, x:170, y:210, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Плавайте в нашому басейні, зіграйте партію-дві в теніс,^сквош чи більярд, вирушайте на галоп на одному з наших коней,^або підкріпіться в затишному лаунжі, барі чи ресторані."..
+"<type:text, x:170, y:270, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, font:UIFont.SdfOldBold>Зі вступними внесками від лише $3999 і знижкою 5%^для нових членів — ніколи ще не було^кращого часу долучитися до чудової компанії у West Maple."..
+"<type:texture, x:10, y:330, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:332, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:380, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:382, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:358, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold>МИ ЧЕКАЄМО САМЕ НА ВАС."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Адреса, КЕНТУККІ"..
+"<type:text, x:10, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Тел.:"..
+"<type:text, x:40, y:682, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:680, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:670, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY",
+
+Print_Media_FlyerTemplate8_info = "<type:parent, width:480, height:650>"..
+"<type:texture, width:480, height:650, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/PonyRoamO.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:22, y:132, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold>Клуб West Maple Country Club — це маленький куточок спортивного раю. Наш першокласний 18-лунковий гольф-поле приваблює професіоналів з усього світу, але гольф — лише одна з наших принад."..
+"<type:text, x:20, y:350, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:450, font:UIFont.SdfOldBold>Клуб West Maple Country Club — це маленький куточок спортивного раю. Наш першокласний 18-лунковий гольф-поле приваблює професіоналів з усього світу, але гольф — лише одна з наших принад."..
+"<type:texture, x:300, y:350, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:302, y:352, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:10, y:560, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Адреса, КЕНТУККІ"..
+"<type:text, x:10, y:600, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold>Тел.:"..
+"<type:text, x:40, y:602, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.35, scaleY:0.35, font:UIFont.SdfOldBold>+"..
+"<type:text, x:45, y:600, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.55, scaleY:0.55, font:UIFont.SdfOldBold> 943"..
+"<type:text, x:95, y:590, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.9, scaleY:0.9, textTracking:-3, font:UIFont.SdfOldBold>XX XX XX XX / YY YY YY YY",
+
+Print_Media_FlyerTemplate9_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/ChapelmountDowns.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:130, width:460, height:255, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:132, width:456, height:251, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:20, y:395, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>Клуб West Maple Country Club — це маленький куточок спортивного раю. Наш першокласний 18-лунковий гольф-поле приваблює професіоналів з усього світу, але гольф — лише одна з наших принад."..
+"<type:texture, x:10, y:580, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:582, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:605, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold>МИ ЧЕКАЄМО САМЕ НА ВАС."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Адреса, КЕНТУККІ",
+
+Print_Media_FlyerTemplate10_info = "<type:parent, width:480, height:690>"..
+"<type:texture, width:480, height:560, r:244/255.0, g:201/255.0, b:71/255.0>"..
+"<type:texture, x:18, y:10, texture:getTexture("media/textures/printMedia/logos/TacoDelPancho.png"), width:450, height:75>"..
+"<type:texture, x:20, y:130, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:22, y:132, width:126, height:181, texture:getTexture("media/textures/printMedia/FlyerPics/pancho.png")>"..
+"<type:text, x:170, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:375, font:UIFont.SdfOldBold>Гей, мене звати Панчо! Я маленьке цуценя, і я тут, щоб сказати вам одну річ."..
+"<type:text, x:170, y:230, r:190/255, g:71/255, b:51/255, pivotX:0, pivotY:0, scaleX:1, scaleY:1, font:UIFont.SdfOldBold>ТАКО!^БУРІТО!^ЕНЧІЛАДАС!"..
+"<type:text, x:20, y:360, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.8, scaleY:0.8, autoWidth:300, font:UIFont.SdfOldBold>У нас є всі ці смаколики в Taco del Pancho! Можете довіряти мені! Я знаюся на смачній їжі! Арріба!"..
+"<type:texture, x:300, y:350, width:130, height:185, r:0, g:0, b:0>"..
+"<type:texture, x:302, y:352, width:126, height:181, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:0, y:560, width:480, height:150, r:0.5, g:0.1, b:0>"..
+"<type:text, x:15, y:570, r:238/255, g:232/255, b:177/255, pivotX:0, pivotY:0, textTracking:-3, autoWidth:450,font:UIFont.SdfOldBold>Принесіть цей флаєр до нашої точки в фуд-корті Crossroads Mall — отримайте 20% знижки на будь-яке тако та БЕЗКОШТОВНЕ гуакамоле!*"..
+"<type:text, x:350, y:670, r:238/255, g:232/255, b:177/255, pivotX:0, pivotY:0, scaleX:0.4, scaleY:0.4, textTracking:-3, autoWidth:450,font:UIFont.SdfOldBold>*пропозиція дійсна до 7/10/93",
+
+Print_Media_FlyerTemplate11_info = "<type:parent, width:450, height:750>"..
+"<type:texture, width:450, height:750, r:79/255.0, g:129/255.0, b:241/255.0>"..
+"<type:texture, x:70, y:10, texture:getTexture("media/textures/printMedia/logos/Fossoil.png"), pivotX:-0.6, width:120, height:60>"..
+"<type:text, x:15, y:80, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>За низьких цін на бензин і з меншим умістом свинцю, ніж будь-коли, ніколи не було кращого часу заправлятися на Fossoil. Від доступного звичайного бензину до першокласного преміуму — ваш двигун і ваш гаманець скажуть «дякую». А якщо ви застрягли в дорозі, зголодніли чи просто робите запаси — у Fossoil знайдете все потрібне.^^Актуальні ціни на пальне (5/20/93)^- Звичайний $1.06^- Плюс $1.15^- Преміум $1.24^- Дизель $1.05 ^^Ось лише кілька наших станцій у вашому районі!"..
+"<type:texture, x:450/4, y:450, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450/4, y:555, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1"..
+"<type:texture, x:450*0.75, y:450, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450*0.75, y:555, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1"..
+"<type:texture, x:450/4, y:600, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450/4, y:705, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1"..
+"<type:texture, x:450*0.75, y:600, pivotX:0.5, width:100, height:100, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:450*0.75, y:705, pivotX:0.5, r:232/255, g:230/255, b:228/255, a:0.9, autoWidth:700, scaleX:0.6, scaleY:0.6, textLeading:-11, font:UIFont.SdfBold>location1",
+
+Print_Media_FlyerTemplate12_info = "<type:parent, width:500, height:700>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:100, y:10, texture:getTexture("media/textures/printMedia/logos/Fossoil.png"), width:300, height:110, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:texture, x:10, y:400, width:460, height:205, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:402, width:456, height:201, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:20, y:130, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>Завітайте до мотелю Sunstar: повністю умебльовані, зручні номери з кондиціонером і кольоровим ТБ. Харчування — окремо в нашій закусочній.^^ТАРИФИ^Стандарт: двомісний/два односпальні — $55^Подвійне ліжко й односпальне — $65^Спальня з двоспальним ліжком та вітальня — $70^^10% знижка для ветеранів і людей поважного віку. Запитуйте про наші спеціальні дискретні кімнати для денних зустрічей."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Адреса, КЕНТУККІ",
+
+Print_Media_FlyerTemplate13_info = "<type:parent, width:960/2, height:670>"..
+"<type:texture, width:960/2, height:670, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:0, y:30, r:0, g:0, b:0, a:0.9, pivotX:-0.25, pivotY:0, scaleX:1, scaleY:1, textTracking:-2, font:UIFont.SdfRegular>ПОТРІБНІ ЛІСОРУБИ"..
+"<type:text, x:20, y:80, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, textTracking:-2, autoWidth:430/0.6, font:UIFont.SdfRegular>Потрібні надійні чоловіки для важкої роботи на нашій базі на захід від Мулдрау. Повне навчання забезпечується. Робота включає використання промислового обладнання, а також сокир і пилок для дрібніших робіт із розколювання та індивідуального столярства. Уміння керувати вантажівкою буде перевагою."..
+"<type:texture, texture:getTexture("media/textures/printMedia/clownTEST.png"), x:960/4, y:236, width:260, height:300, pivotX:0.5>"..
+"<type:text, x:960/4, y:620, r:0, g:0, b:0, a:0.9, scaleX:0.6, scaleY:0.6, pivotX:0.5,pivotY:0, font:UIFont.SdfBoldItalic>Робимо дерева корисними з 1914 року."..
+"<type:texture, texture:getTexture("media/textures/printMedia/logos/spiffos.png"), x:170, y:550, width:150, height:60>",
+
+Print_Media_FlyerTemplate14_info = "<type:parent, width:480, height:715>"..
+"<type:texture, width:480, height:715, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:240, y:15, r:0, g:0, b:0, pivotX:0.5, pivotY:0, scaleX:1.5, scaleY:1.5, autoWidth:440/0.6, font:UIFont.SdfOldBold>ВЕЛИКИЙ ЗАГОЛОВОК"..
+"<type:texture, x:240, y:200, pivotX:0.5, width:200, height:200, r:0, g:0, b:0>"..
+"<type:text, x:20, y:85, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>Клуб West Maple Country Club — маленький куточок спортивного раю. Наш світового рівня 18-лунковий гольф-майданчик приваблює професіоналів з усього світу, але гольф — лише одна з наших принад."..
+"<type:texture, x:240, y:202, pivotX:0.5, width:196, height:196, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:20, y:420, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.6, scaleY:0.6, autoWidth:440/0.6, font:UIFont.SdfOldBold>Клуб West Maple Country Club — маленький куточок спортивного раю. Наш світового рівня 18-лунковий гольф-майданчик приваблює професіоналів з усього світу, але гольф — лише одна з наших принад."..
+"<type:texture, x:10, y:580, width:460, height:45, r:0, g:0, b:0>"..
+"<type:texture, x:12, y:582, width:456, height:41, r:225/255.0, g:225/255.0, b:225/255.0>"..
+"<type:text, x:241, y:605, r:0, g:0, b:0, pivotX:0.5, pivotY:0.5, scaleX:0.75, scaleY:0.75, font:UIFont.SdfOldBold>МИ ЧЕКАЄМО САМЕ НА ВАС."..
+"<type:text, x:10, y:640, r:0, g:0, b:0, pivotX:0, pivotY:0, scaleX:0.7, scaleY:0.7, font:UIFont.SdfOldBold>Адреса, КЕНТУККІ",
+
+maptext = "<type:map, x:60, y:100, width:100, height:150, mapID:"RustyRifle">",
+wrinkles = "<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:900, height:789, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:90, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:180, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:900, height:789, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:270, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:789, height:900, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, scaleX:-1, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>",
+"<type:texture, width:900, height:789, r:225/255.0, g:225/255.0, b:225/255.0, a:0.075, x:789/2, y:900/2, pivotX:0.5, pivotY:0.5, angle:90, scaleX:-1, texture:getTexture("media/textures/printMedia/NewspaperPics/paperwrinkle.png")>"",
+}

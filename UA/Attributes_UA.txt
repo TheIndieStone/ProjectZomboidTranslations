@@ -1,0 +1,16 @@
+Attributes_UA = {
+    Attributes_Type_None = "Немає",
+    Attributes_Type_Quality = "Якість",
+	Attributes_Type_Durability = "Міцність",
+	Attributes_Type_WoodWetness = "Вологість деревини",
+	Attributes_Type_Uses = "Використання",
+	Attributes_Type_DurabilityOnUse = "Міцність при використанні",
+	Attributes_Type_CraftedBy = "Виготовлено",
+	Attributes_Type_MetalType = "Тип металу",
+	Attributes_Type_WoodType = "Тип деревини",
+	Attributes_Type_ContainsWood = "Містить дерево",
+	Attributes_Type_ContainsMetal = "Містить метал",
+
+	-- Tooltip overrides
+	Attributes_TooltipOverride_Durability = "Використання міцності",
+}

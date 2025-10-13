@@ -1,0 +1,16 @@
+MapLabel_UA = {
+    MapLabel_Brandenburg = "БРАНДЕНБУРГ",
+    MapLabel_EchoCreek = "ЕКО-КРІК",
+    MapLabel_Ekron = "ЕКРОН",
+    MapLabel_FallasLake = "ОЗ. ФАЛЛЕС",
+    MapLabel_Irvington = "ІРВІНГТОН",
+    MapLabel_Louisville = "ЛУЇСВІЛЛ",
+    MapLabel_MarchRidge = "МАРЧ-РІДЖ",
+    MapLabel_Muldraugh = "МАЛДРО",
+    MapLabel_Riverside = "РІВЕРСАЙД",
+    MapLabel_Rosewood = "РОУЗВУД",
+    MapLabel_WestPoint = "ВЕСТ-ПОЙНТ",
+    MapLabel_OhioRiver = "Р. ОГАЙО",
+    MapLabel_SaltRiver = "Р. СОЛТ",
+    MapLabel_ValleyStation = "ВЕЛЛІ-СТЕЙШН",
+}
