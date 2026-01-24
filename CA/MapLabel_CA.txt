@@ -1,0 +1,16 @@
+MapLabel_CA = {
+    MapLabel_Brandenburg = "BRANDENBURG",
+    MapLabel_EchoCreek = "ECHO CREEK",
+    MapLabel_Ekron = "EKRON",
+    MapLabel_FallasLake = "LLAC FALLAS",
+    MapLabel_Irvington = "IRVINGTON",
+    MapLabel_Louisville = "LOUISVILLE",
+    MapLabel_MarchRidge = "MARCH RIDGE",
+    MapLabel_Muldraugh = "MULDRAUGH",
+    MapLabel_Riverside = "RIVERSIDE",
+    MapLabel_Rosewood = "ROSEWOOD",
+    MapLabel_WestPoint = "WEST POINT",
+    MapLabel_OhioRiver = "RIU OHIO",
+    MapLabel_SaltRiver = "RIU SALT",
+    MapLabel_ValleyStation = "VALLEY STATION",
+}

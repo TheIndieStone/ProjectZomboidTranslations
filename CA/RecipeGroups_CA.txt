@@ -1,0 +1,3 @@
+RecipeGroups_CA = {
+    RecipeGroup_OpenBox = "Obrir caixa",
+}

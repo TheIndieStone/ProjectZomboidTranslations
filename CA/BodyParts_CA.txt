@@ -1,0 +1,13 @@
+BodyParts_CA = {
+    BODYPART_PELVIS = "Pelvis",
+    BODYPART_SPINE = "Columna vertebral",
+    BODYPART_HEAD = "Cap",
+    BODYPART_LEFT_UPPER_LEG = "Cama superior esquerra",
+    BODYPART_LEFT_LOWER_LEG = "Cama inferior esquerra",
+    BODYPART_RIGHT_UPPER_LEG = "Cama superior dreta",
+    BODYPART_RIGHT_LOWER_LEG = "Cama inferior dreta",
+    BODYPART_LEFT_UPPER_ARM = "Braç superior esquerre",
+    BODYPART_LEFT_LOWER_ARM = "Braç inferior esquerre",
+    BODYPART_RIGHT_UPPER_ARM = "Braç superior dret",
+    BODYPART_RIGHT_LOWER_ARM = "Braç inferior dret",
+}
