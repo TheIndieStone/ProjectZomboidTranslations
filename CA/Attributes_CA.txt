@@ -1,0 +1,14 @@
+Attributes_CA = {
+    Attributes_Type_None = "Cap",
+    Attributes_Type_Quality = "Qualitat",
+    Attributes_Type_Durability = "Durabilitat",
+    Attributes_Type_WoodWetness = "Humitat de la fusta",
+    Attributes_Type_Uses = "Usos",
+    Attributes_Type_DurabilityOnUse = "Durabilitat per ús",
+    Attributes_Type_CraftedBy = "Fabricat per",
+    Attributes_Type_MetalType = "Tipus de metall",
+    Attributes_Type_WoodType = "Tipus de fusta",
+    Attributes_Type_ContainsWood = "Conté fusta",
+    Attributes_Type_ContainsMetal = "Conté metall",
+    Attributes_TooltipOverride_Durability = "Usos de durabilitat",
+}

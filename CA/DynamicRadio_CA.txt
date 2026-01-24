@@ -82,4 +82,6 @@ DynamicRadio_CA = {
     AEBS_segment_morning = "matí",
     AEBS_segment_afternoon = "vesprada",
     AEBS_segment_evening = "nit",
+    AEBS_KpH = " km/h",
+    AEBS_MpH = " mph",
 }
