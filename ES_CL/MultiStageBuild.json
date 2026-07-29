@@ -1,0 +1,22 @@
+{
+    "MultiStageBuild_CreateWoodenWall_1": "Crear pared de madera precaria",
+    "MultiStageBuild_UpgradeWoodenWall_1To2": "Mejorar a pared de madera",
+    "MultiStageBuild_CreateWoodenWall_2": "Crear pared de madera",
+    "MultiStageBuild_UpgradeWoodenWall_1To3": "Mejorar a pared de madera reforzada",
+    "MultiStageBuild_UpgradeWoodenWall_2To3": "Mejorar a pared de madera reforzada",
+    "MultiStageBuild_CreateWoodenWall_3": "Crear pared de madera reforzada",
+    "MultiStageBuild_CreateWoodenWindow_1": "Crear ventana de madera precaria",
+    "MultiStageBuild_UpgradeWoodenWindow_1To2": "Mejorar a ventana de madera",
+    "MultiStageBuild_CreateWoodenWindow_2": "Crear ventana de madera",
+    "MultiStageBuild_UpgradeWoodenWindow_1To3": "Mejorar a ventana de madera reforzada",
+    "MultiStageBuild_UpgradeWoodenWindow_2To3": "Mejorar a ventana de madera reforzada",
+    "MultiStageBuild_CreateWoodenWindow_3": "Crear ventana de madera reforzada",
+    "MultiStageBuild_CreateMetalWall_1": "Crear pared de metal",
+    "MultiStageBuild_UpgradeMetalWall_1To2": "Mejorar a pared de metal reforzada",
+    "MultiStageBuild_CreateMetalWall_2": "Crear pared de metal reforzada",
+    "MultiStageBuild_CreateMetalWindow_1": "Crear ventana de metal",
+    "MultiStageBuild_UpgradeMetalWindow_1To2": "Mejorar a ventana de metal reforzada",
+    "MultiStageBuild_CreateMetalWindow_2": "Crear ventana de metal reforzada",
+    "MultiStageBuild_UpgradeWoodenDoorFrame_1To2": "Mejorar a marco de puerta firme",
+    "MultiStageBuild_UpgradeWoodenDoorFrame_2To3": "Mejorar a marco de puerta reforzado"
+}
