@@ -1,0 +1,12 @@
+EvolvedRecipeName_KA = {
+	EvolvedRecipeName_Base.CannedBologneseOpen = "ბოლონეზეს კონსერვი",
+	EvolvedRecipeName_Base.CannedCarrotsOpen = "სტაფილოს კონსერვი",
+	EvolvedRecipeName_Base.CannedChiliOpen = "ჩილის კონსერვი",
+	EvolvedRecipeName_Base.CannedCornOpen = "სიმინდის კონსერვი",
+	EvolvedRecipeName_Base.CannedCornedBeefOpen = "საქონლის ხორცის კონსერვი",
+	EvolvedRecipeName_Base.CannedPeasOpen = "ბარდის კონსერვი",
+	EvolvedRecipeName_Base.CannedPotatoOpen = "კარტოფილის კონსერვი",
+	EvolvedRecipeName_Base.CannedSardinesOpen = "სარდინის კონსერვი",
+	EvolvedRecipeName_Base.CannedTomatoOpen = "პომიდვრის კონსერვი",
+	EvolvedRecipeName_Base.Teabag2 = "ჩაი",
+}
