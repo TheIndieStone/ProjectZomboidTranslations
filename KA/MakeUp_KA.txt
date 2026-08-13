@@ -1,0 +1,37 @@
+MakeUp_KA = {
+    MakeUpCategory_Eyes = "თვალები",
+    MakeUpCategory_EyesShadow = "თვალის ჩრდილები",
+    MakeUpCategory_FullFace = "მთელი სახე",
+    MakeUpCategory_Lips = "ტუჩები",
+
+    MakeUpType_EyesCrow = "ყვავი",
+    MakeUpType_EyesRedStripes1 = "წითელი ზოლები 1",
+    MakeUpType_EyesRedStripes2 = "წითელი ზოლები 2",
+    MakeUpType_EyesCamo1 = "კამუფლაჟი 1",
+    MakeUpType_EyesCamo2 = "კამუფლაჟი 2",
+    MakeUpType_EyesCamoStripes = "ზოლები",
+    MakeUpType_EyesFootball = "ფეხბურთი",
+
+    MakeUpType_EyeShadowWhite = "თეთრი თვალის ჩრდილი",
+    MakeUpType_EyeShadowLightBlue = "ღია ცისფერი თვალის ჩრდილი",
+    MakeUpType_EyeShadowBlue = "ლურჯი თვალის ჩრდილი",
+    MakeUpType_EyeShadowRed = "წითელი თვალის ჩრდილი",
+    MakeUpType_EyeShadowPink = "ვარდისფერი თვალის ჩრდილი",
+    MakeUpType_EyeShadowGreen = "მწვანე თვალის ჩრდილი",
+    MakeUpType_EyeShadowYellow = "ყვითელი თვალის ჩრდილი",
+
+    MakeUpType_FullFaceCamo1 = "სრული კამუფლაჟი 1",
+    MakeUpType_FullFaceCamo2 = "სრული კამუფლაჟი 2",
+    MakeUpType_FullFaceWarrior = "მებრძოლი",
+    MakeUpType_FullFaceClown1 = "კლოუნი 1",
+    MakeUpType_FullFaceClown2 = "კლოუნი 2",
+    MakeUpType_FullFaceSkull1 = "თავის ქალა 1",
+    MakeUpType_FullFaceSkull2 = "თავის ქალა 2",
+
+    MakeUpType_LipsRed = "წითელი პომადა",
+    MakeUpType_LipsLightBlue = "ღია ცისფერი პომადა",
+    MakeUpType_LipsBlue = "ლურჯი პომადა",
+    MakeUpType_LipsBlack = "შავი პომადა",
+    MakeUpType_LipsGreen = "მწვანე პომადა",
+    MakeUpType_LipsPink = "ვარდისფერი პომადა",
+}

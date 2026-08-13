@@ -1,0 +1,27 @@
+MultiStageBuild_KA = {
+    -- Wooden Wall
+    MultiStageBuild_CreateWoodenWall_1 = "ხის კედლის აშენება (დონე 1)",
+    MultiStageBuild_UpgradeWoodenWall_1To2 = "ხის კედლის გაუმჯობესება დონე 2-მდე",
+    MultiStageBuild_CreateWoodenWall_2 = "ხის კედლის აშენება (დონე 2)",
+    MultiStageBuild_UpgradeWoodenWall_1To3 = "ხის კედლის გაუმჯობესება დონე 3-მდე",
+    MultiStageBuild_UpgradeWoodenWall_2To3 = "ხის კედლის გაუმჯობესება დონე 3-მდე",
+    MultiStageBuild_CreateWoodenWall_3 = "ხის კედლის აშენება (დონე 3)",
+    -- Wooden Window
+    MultiStageBuild_CreateWoodenWindow_1 = "ხის ფანჯრის აშენება (დონე 1)",
+    MultiStageBuild_UpgradeWoodenWindow_1To2 = "ხის ფანჯრის გაუმჯობესება დონე 2-მდე",
+    MultiStageBuild_CreateWoodenWindow_2 = "ხის ფანჯრის აშენება (დონე 2)",
+    MultiStageBuild_UpgradeWoodenWindow_1To3 = "ხის ფანჯრის გაუმჯობესება დონე 3-მდე",
+    MultiStageBuild_UpgradeWoodenWindow_2To3 = "ხის ფანჯრის გაუმჯობესება დონე 3-მდე",
+    MultiStageBuild_CreateWoodenWindow_3 = "ხის ფანჯრის აშენება (დონე 3)",
+    -- Metal Wall
+    MultiStageBuild_CreateMetalWall_1 = "ლითონის კედლის აშენება (დონე 1)",
+    MultiStageBuild_UpgradeMetalWall_1To2 = "ლითონის კედლის გაუმჯობესება დონე 2-მდე",
+    MultiStageBuild_CreateMetalWall_2 = "ლითონის კედლის აშენება (დონე 2)",
+    -- Metal Window
+    MultiStageBuild_CreateMetalWindow_1 = "ლითონის ფანჯრის აშენება (დონე 1)",
+    MultiStageBuild_UpgradeMetalWindow_1To2 = "ლითონის ფანჯრის გაუმჯობესება დონე 2-მდე",
+    MultiStageBuild_CreateMetalWindow_2 = "ლითონის ფანჯრის აშენება (დონე 2)",
+    -- wooden door frame
+    MultiStageBuild_UpgradeWoodenDoorFrame_1To2 = "ხის კარის ჩარჩოს გაუმჯობესება დონე 2-მდე",
+    MultiStageBuild_UpgradeWoodenDoorFrame_2To3 = "ხის კარის ჩარჩოს გაუმჯობესება დონე 3-მდე",
+}

@@ -1,0 +1,226 @@
+Moodles_KA = {
+	-- Moodle type :
+	-- Endurance
+	Moodles_endurance_lvl1 = "ზომიერი დაღლილობა",
+	Moodles_endurance_lvl2 = "მაღალი დაღლილობა",
+	Moodles_endurance_lvl3 = "გადამეტებული დაღლილობა",
+	Moodles_endurance_lvl4 = "გამოფიტული",
+	-- Heavy Load
+	Moodles_heavyload_lvl1 = "საკმაოდ მძიმე ტვირთი",
+	Moodles_heavyload_lvl2 = "მძიმე ტვირთი",
+	Moodles_heavyload_lvl3 = "ძალიან მძიმე ტვირთი",
+	Moodles_heavyload_lvl4 = "უკიდურესად მძიმე ტვირთი",
+	-- Angry
+	Moodles_angry_lvl1 = "გაღიზიანებული",
+	Moodles_angry_lvl2 = "შეწუხებული",
+	Moodles_angry_lvl3 = "გაბრაზებული",
+	Moodles_angry_lvl4 = "განრისხებული",
+	-- Stress
+	Moodles_stress_lvl1 = "შეშფოთებული",
+	Moodles_stress_lvl2 = "აღელვებული",
+	Moodles_stress_lvl3 = "სტრესში",
+	Moodles_stress_lvl4 = "ნერვული აშლილობა",
+	-- Thirst
+	Moodles_thirst_lvl1 = "ოდნავ მწყურვალი",
+	Moodles_thirst_lvl2 = "მწყურვალი",
+	Moodles_thirst_lvl3 = "გამომშრალი",
+	Moodles_thirst_lvl4 = "წყურვილით კვდება",
+	-- Tired
+	Moodles_tired_lvl1 = "მთვლემარე",
+	Moodles_tired_lvl2 = "დაღლილი",
+	Moodles_tired_lvl3 = "ძალიან დაღლილი",
+	Moodles_tired_lvl4 = "სასტიკად დაღლილი",
+	-- Hungry
+	Moodles_hungry_lvl1 = "ოდნავ მშიერი",
+	Moodles_hungry_lvl2 = "მშიერი",
+	Moodles_hungry_lvl3 = "ძალიან მშიერი",
+	Moodles_hungry_lvl4 = "შიმშილით კვდება",
+	-- Panic
+	Moodles_panic_lvl1 = "მსუბუქი პანიკა",
+	Moodles_panic_lvl2 = "პანიკა",
+	Moodles_panic_lvl3 = "ძლიერი პანიკა",
+	Moodles_panic_lvl4 = "უკიდურესი პანიკა",
+	-- Sick
+	Moodles_sick_lvl1 = "გულისრევის შეგრძნება",
+	Moodles_sick_lvl2 = "გულისრევა",
+	Moodles_sick_lvl3 = "ავად",
+	Moodles_sick_lvl4 = "სიცხე",
+	-- Bored
+	Moodles_bored_lvl1 = "იწყენს",
+	Moodles_bored_lvl2 = "მოწყენილი",
+	Moodles_bored_lvl3 = "ძალიან მოწყენილი",
+	Moodles_bored_lvl4 = "უკიდურესად მოწყენილი",
+	-- Unhappy
+	Moodles_unhappy_lvl1 = "ოდნავ მოწყენილი გრძნობს თავს",
+	Moodles_unhappy_lvl2 = "ცოტა ეტირება",
+	Moodles_unhappy_lvl3 = "დეპრესიაში",
+	Moodles_unhappy_lvl4 = "მძიმე დეპრესიაში",
+	-- Bleeding
+	Moodles_bleeding_lvl1 = "მცირე სისხლდენა",
+	Moodles_bleeding_lvl2 = "სისხლდენა",
+	Moodles_bleeding_lvl3 = "ძლიერი სისხლდენა",
+	Moodles_bleeding_lvl4 = "სისხლის მასიური დანაკარგი",
+	-- Wet
+	Moodles_wet_lvl1 = "ნესტიანი",
+	Moodles_wet_lvl2 = "სველი",
+	Moodles_wet_lvl3 = "გაჟღენთილი",
+	Moodles_wet_lvl4 = "გალუმპული",
+	-- Has a cold
+	Moodles_hascold_lvl1 = "ცხვირიდან გამონადენი",
+	Moodles_hascold_lvl2 = "სურდო",
+	Moodles_hascold_lvl3 = "შენ გაციებული ხარ",
+	Moodles_hascold_lvl4 = "შენ საშინლად გაციებული ხარ",
+	-- Injured
+	Moodles_injured_lvl1 = "დისკომფორტი",
+	Moodles_injured_lvl2 = "დაშავებული",
+	Moodles_injured_lvl3 = "მძიმე დაზიანებები",
+	Moodles_injured_lvl4 = "კრიტიკული დაზიანებები",
+	-- Pain
+	Moodles_pain_lvl1 = "მცირე ტკივილი",
+	Moodles_pain_lvl2 = "ტკივილი",
+	Moodles_pain_lvl3 = "ძლიერი ტკივილი",
+	Moodles_pain_lvl4 = "აგონია",
+	-- Drunk
+	Moodles_drunk_lvl1 = "ოდნავ შეზარხოშებული",
+	Moodles_drunk_lvl2 = "მთვრალი",
+	Moodles_drunk_lvl3 = "გალეშილი",
+	Moodles_drunk_lvl4 = "სასტიკად მთვრალი",
+	-- Dead
+	Moodles_dead_lvl1 = "გარდაცვლილი",
+	-- Zombified
+	Moodles_zombie_lvl1 = "ზომბიფიცირებული",
+	-- Food eaten
+	Moodles_foodeaten_lvl1 = "დანაყრებული",
+	Moodles_foodeaten_lvl2 = "კარგად ნაკვები",
+	Moodles_foodeaten_lvl3 = "გამოტენილი",
+	Moodles_foodeaten_lvl4 = "გასკდომამდე სავსე",
+	-- Hyperthermia
+	Moodles_hyperthermia_lvl1 = "უსიამოვნოდ ცხელა",
+	Moodles_hyperthermia_lvl2 = "გადახურებული",
+	Moodles_hyperthermia_lvl3 = "მზის დაკვრა",
+	Moodles_hyperthermia_lvl4 = "ჰიპერთერმული",
+	-- Hypothermia
+	Moodles_hypothermia_lvl1 = "გრილა",
+	Moodles_hypothermia_lvl2 = "ცივა",
+	Moodles_hypothermia_lvl3 = "იყინება",
+	Moodles_hypothermia_lvl4 = "ჰიპოთერმული",
+    -- Windchill
+    Moodles_windchill_lvl1 = "მსუბუქი გამყინვარება",
+    Moodles_windchill_lvl2 = "უსიამოვნო გამყინვარება",
+    Moodles_windchill_lvl3 = "გამყინავი გამყინვარება",
+    Moodles_windchill_lvl4 = "საშინელი გამყინვარება",
+
+	-- Description of moodle
+	-- Endurance
+	Moodles_endurance_desc_lvl1 = "შეისვენე.",
+	Moodles_endurance_desc_lvl2 = "ძლივს დარბიხარ.",
+	Moodles_endurance_desc_lvl3 = "ძლივს დადიხარ.",
+	Moodles_endurance_desc_lvl4 = "ძლივს ინძრევი.",
+	-- Angry
+	Moodles_angry_desc_lvl1 = "ცოტა გაღიზიანებული.",
+	Moodles_angry_desc_lvl2 = "სერიოზულად ცუდ ხასიათზე.",
+	Moodles_angry_desc_lvl3 = "ბრაზის ბურთი.",
+	Moodles_angry_desc_lvl4 = "ჩხუბს ეძებ.",
+	-- Stress
+	Moodles_stress_desc_lvl1 = "ზღვარზე.",
+	Moodles_stress_desc_lvl2 = "ნერვიული და შეშინებული.",
+	Moodles_stress_desc_lvl3 = "ოფლიანი ხელისგულები. მღრღნელი შიში.",
+	Moodles_stress_desc_lvl4 = "შეშინებული.",
+	-- Thirsty
+	Moodles_thirst_desc_lvl1 = "პირის სიმშრალე.",
+	Moodles_thirst_desc_lvl2 = "გაუწყლოებული.",
+	Moodles_thirst_desc_lvl3 = "სისუსტის და თავბრუსხვევის შეგრძნება.",
+	Moodles_thirst_desc_lvl4 = "სასოწარკვეთილი წყლისთვის.",
+	-- Tired
+	Moodles_tired_desc_lvl1 = "წამოწოლა არ გაწყენდა.",
+	Moodles_tired_desc_lvl2 = "შემცირებული ყურადღება.",
+	Moodles_tired_desc_lvl3 = "ყურადღება სასტიკად შემცირებულია.",
+	Moodles_tired_desc_lvl4 = "ისე დაღლილი. ისე სასოწარკვეთილად, არაადამიანურად დაღლილი.",
+	-- Hungry
+	Moodles_hungry_desc_lvl1 = "ერთი ლუკმის შეჭმა არ გაწყენდა.",
+	Moodles_hungry_desc_lvl2 = "ახლა ცხენსაც კი შეჭამდი.",
+	Moodles_hungry_desc_lvl3 = "ძალა და განკურნება შემცირებულია.",
+	Moodles_hungry_desc_lvl4 = "ჯანმრთელობა ახლა უბრალოდ ქრება...",
+	-- Panic
+	Moodles_panic_desc_lvl1 = "შეეცადე შეინარჩუნო სიმშვიდე.",
+	Moodles_panic_desc_lvl2 = "სიზუსტე შემცირებულია.",
+	Moodles_panic_desc_lvl3 = "სიზუსტე სასტიკად შემცირებულია.",
+	Moodles_panic_desc_lvl4 = "სიზუსტე და ხედვა სასტიკად შემცირებულია.",
+	-- Sickness
+	Moodles_sick_desc_lvl1 = "დაისვენე.",
+	Moodles_sick_desc_lvl2 = "ძალა და განკურნება შემცირებულია.",
+	Moodles_sick_desc_lvl3 = "ძალა და განკურნება სასტიკად შემცირებულია.",
+	Moodles_sick_desc_lvl4 = "სიკვდილის მზარდი საშიშროება.",
+	-- Bored
+	Moodles_bored_desc_lvl1 = "დაკავდი რამით, ან ეძებე გართობა.",
+	Moodles_bored_desc_lvl2 = "მოწყენილობის საფრთხე.",
+	Moodles_bored_desc_lvl3 = "მოწყენილობის მაღალი შანსი.",
+	Moodles_bored_desc_lvl4 = "მოწყენილობის ძალიან მაღალი შანსი.",
+	-- Unhappy
+	Moodles_unhappy_desc_lvl1 = "იპოვე გზა განწყობის ასამაღლებლად.",
+	Moodles_unhappy_desc_lvl2 = "ეძებე რაიმე მღელვარება ან ადამიანური კონტაქტი.",
+	Moodles_unhappy_desc_lvl3 = "განადგურებული გლოვითა და სასოწარკვეთით.",
+	Moodles_unhappy_desc_lvl4 = "იპოვე გზა, რომ დაივიწყო რეალობა.",
+	-- Bleeding
+	Moodles_bleed_desc_lvl1 = "საჭიროა ბინტი.",
+	Moodles_bleed_desc_lvl2 = "ძალა და სიჩქარე შემცირებულია.",
+	Moodles_bleed_desc_lvl3 = "ძალა და სიჩქარე სასტიკად შემცირებულია.",
+	Moodles_bleed_desc_lvl4 = "სიკვდილი გარდაუვალია.",
+	-- Wet
+	Moodles_wet_desc_lvl1 = "ოდნავ ნესტიანი. წვიმა, თუ ოფლი?",
+	Moodles_wet_desc_lvl2 = "უფრო ოფლიანი, თუ უფრო ნაწვიმარი?",
+    Moodles_wet_desc_lvl3 = "გაციების შანსი.",
+    Moodles_wet_desc_lvl4 = "გაციების მაღალი შანსი.",
+	-- Has a cold
+	Moodles_hasacold_desc_lvl1 = "შემთხვევითი ცემინება.",
+	Moodles_hasacold_desc_lvl2 = "მიდრეკილია ცემინებისკენ.",
+	Moodles_hasacold_desc_lvl3 = "ცემინება და ხველა. სიჩქარე და განკურნება შემცირებულია.",
+	Moodles_hasacold_desc_lvl4 = "სიჩქარე და განკურნება ახლა სასტიკად შემცირებულია.",
+	-- Injured
+	Moodles_injured_desc_lvl1 = "რაღაც არ არის კარგად...",
+	Moodles_injured_desc_lvl2 = "ძალა და სიჩქარე შემცირებულია.",
+	Moodles_injured_desc_lvl3 = "ძალა და სიჩქარე სასტიკად შემცირებულია.",
+	Moodles_injured_desc_lvl4 = "არ მიდის მშვიდად იმ კარგ ღამეში...",
+	-- Pain
+	Moodles_pain_desc_lvl1 = "გრძნობს მსუბუქ ტკივილს.",
+	Moodles_pain_desc_lvl2 = "სიჩქარე და სიზუსტე ოდნავ შემცირებულია.",
+	Moodles_pain_desc_lvl3 = "სიჩქარე და სიზუსტე შემცირებულია.",
+	Moodles_pain_desc_lvl4 = "სიჩქარე და სიზუსტე სასტიკად შემცირებულია.",
+	-- Heavy load
+	Moodles_heavyload_desc_lvl1 = "ცოტა მეტი მოგაქვს.",
+	Moodles_heavyload_desc_lvl2 = "მოძრაობის სიჩქარე შემცირებულია.",
+	Moodles_heavyload_desc_lvl3 = "მოძრაობის სიჩქარე ძლიერ შემცირებულია.",
+	Moodles_heavyload_desc_lvl4 = "მეტი აღარ შეგიძლია! მოძრაობა გართულებულია.",
+	-- Drunk
+	Moodles_drunk_desc_lvl1 = "ცოტა სასმელი დალიე.",
+	Moodles_drunk_desc_lvl2 = "კოორდინაცია ოდნავ დარღვეულია.",
+	Moodles_drunk_desc_lvl3 = "კოორდინაცია დარღვეულია.",
+	Moodles_drunk_desc_lvl4 = "'მე და შენ ვართ მთელი მსოფლიოს წინააღმდეგ. მე შენ მიყვარხარ. მე შენ მიყვარხარ.'",
+	-- Dead
+	Moodles_dead_desc_lvl1 = "ვირთხების საჭმლად გადაქცევის მაღალი რისკი.",
+	-- Zombified
+	Moodles_zombified_desc_lvl1 = "ხალხის ჭამის უეცარი სურვილი.",
+	-- Food eaten
+	Moodles_foodeaten_desc_lvl1 = "მღრღნელი შიმშილი სრულიად არ არის.",
+	Moodles_foodeaten_desc_lvl2 = "მუცელი სავსეა. სიკეთე გადის შენს სისტემაში.",
+	Moodles_foodeaten_desc_lvl3 = "კუჭი კმაყოფილია. ჯანმრთელობა და ძალა გაუმჯობესებულია.",
+	Moodles_foodeaten_desc_lvl4 = "კიდევ ერთ, ერთადერთ ლუკმასაც ვერ შეჭამდი.",
+	-- Hyperthermia
+	Moodles_hyperthermia_desc_lvl1 = "იფიქრე ტანსაცმლის გახდაზე. წყურვილი გაიზარდა.",
+	Moodles_hyperthermia_desc_lvl2 = "მწყურვალი. ოფლიანი. ზედმეტად გამოფენილი.",
+	Moodles_hyperthermia_desc_lvl3 = "გულისრევა, კონცენტრირების უუნარობა და სითხის სასოწარკვეთილი მოთხოვნილება.",
+	Moodles_hyperthermia_desc_lvl4 = "ბოდვა სითბური დარტყმისა და მზისგან. სასტიკი საფრთხის ქვეშ.",
+	-- Hypothermia
+	Moodles_hypothermia_desc_lvl1 = "აქ ცოტა ცივა...",
+	Moodles_hypothermia_desc_lvl2 = "უნდა იპოვო გზები, რომ სითბო შეინარჩუნო.",
+	Moodles_hypothermia_desc_lvl3 = "ღმერთო ჩემო. ასე ცივა.",
+	Moodles_hypothermia_desc_lvl4 = "სხეული და გონება შეპყრობილია სიცივით.",
+    -- Windchill
+    Moodles_windchill_desc_lvl1 = "იგრძნობა 5-დან 10 გრადუსით უფრო ცივად, ვიდრე სინამდვილეშია.",
+    Moodles_windchill_desc_lvl2 = "იგრძნობა 10-დან 15 გრადუსით უფრო ცივად, ვიდრე სინამდვილეშია.",
+    Moodles_windchill_desc_lvl3 = "იგრძნობა 15-დან 20 გრადუსით უფრო ცივად, ვიდრე სინამდვილეშია.",
+    Moodles_windchill_desc_lvl4 = "იგრძნობა 20 გრადუსზე მეტად ცივად, ვიდრე სინამდვილეშია.",
+    -- CantSprint
+    Moodles_CantSprint = "შეზღუდული მოძრაობა",
+    Moodles_CantSprint_desc = "მძიმე ტანსაცმელი, დიდი ჩანთები ან დიდი ნივთები გინელებენ!"
+}

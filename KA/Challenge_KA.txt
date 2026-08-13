@@ -1,0 +1,74 @@
+Challenge_KA = {
+    Challenge_YouHaveOneDay_name = "შენ გაქვს ერთი დღე",
+	Challenge_YouHaveOneDay_desc = "შენ დაბრუნდი ნოქსის ოლქში (Knox County). შენ დაბრუნდი რუკაზე, სადაც Project Zomboid-ის ინფექცია პირველად დაიწყო. <LINE> <LINE> შენ გაქვს ერთი შედარებით უსაფრთხო დღე. ზომბები უზარმაზარი რაოდენობით მოვლენ და გიპოვიან. სად იდექი ბოლომდე ადრე? სად იბრძოდი ბოლო წვეთამდე ძველ დროში? ჯობია სწრაფად იპოვო ის ადგილი. <LINE> <LINE> [მადლობა ჩვენი საზოგადოების რუკების შემქმნელ BobHeckling-ს ძველი 0.1.5 რუკის აღდგენისთვის ახლანდელი PZ ინსტრუმენტებით.]",
+
+    Challenge_WinterIsComing_name = "ზამთარი მოდის",
+	Challenge_WinterIsComing_desc = "შუა ივლისია, მაგრამ უეცრად ნიავში სიცივემ დაჰბერა. სულ რაღაც სამ დღეში ისეთი ზამთარი დაიწყება, როგორიც არასდროს ყოფილა. <LINE> <LINE> შენ იღვიძებ იზოლირებულ ადგილას. შენ გაქვს მწირი მარაგი და მკვდრების ურდოები შეიძლება შენელდნენ ძლიერი სიცივით - მაგრამ ისინი არანაკლებ მომაკვდინებლები არიან. <LINE> <LINE> თბილად ჩაიცვი, გადარჩენილო...",
+
+	Challenge_OpeningHours_name = "სამუშაო საათები",
+    Challenge_OpeningHours_desc = "სავაჭრო ცენტრი ალყაშია. ოდესღაც ეს იყო მნიშვნელოვანი ადგილი მათ ცხოვრებაში. ინსტინქტმა ისინი მის კარებამდე მიიყვანა. იმის მოგონებამ, რასაც ადრე აკეთებდნენ... <LINE> <LINE> შენ მარტო ხარ, მაგრამ არც ისე დიდხანს. დილის 9 საათზე სავაჭრო ცენტრი მზად იქნება სამუშაოდ: კარები გაიღება და ურდოები შემოვლენ. <LINE> <LINE> მზად იყავი მათთვის.",
+
+	Challenge_AReallyCDDAy_name = "ძალიან ცუდი დღე",
+	Challenge_AReallyCDDAy_desc = "შხაპიდან გამოდიხარ და ცუდად ეცემი. სასტიკად მთვრალი ხარ და საშინლად გაციებული. <LINE> <LINE> ამ ყველაფერთან ერთად სახლი იწვის! დღეს ნამდვილად არ არის შენი დღე. <LINE> <LINE> [გამოწვევა შთაგონებულია A Really Bad Day-თ შესანიშნავი, საოცარი და აუცილებლად სათამაშო Cataclysm: Dark Days Ahead-დან] ",
+
+	Challenge_Challenge1_name = "სახლი ტყეში - ბოლო ბრძოლა",
+	Challenge_Challenge1_desc = "შენ გესმის მათი მოახლოება. მკვდრების ურდოები, რომლებიც ყოველი მხრიდან უახლოვდებიან შენს იზოლირებულ ქოხს. სიკვდილი გარდაუვალია, მაგრამ თოფი ხელთ გაქვს. <LINE> <LINE> ბოლო ბრძოლა (Last Stand) შეიცავს ზომბების დაუსრულებელ ტალღებს მზარდი რაოდენობით. გადარჩი რაც შეიძლება დიდხანს უზარმაზარი უპირატესობის წინააღმდეგ.",
+
+	Challenge_Challenge2_name = "სახლი ტყეში - ბოლო ბრძოლის აკუმულატორი",
+	Challenge_Challenge2_desc = "კიდევ ერთი დღე, კიდევ ერთი ქოხი, რომელიც მზად არის სისხლით შეიღებოს. ურდოები შენს წინააღმდეგ არიან და შენი სიკვდილი ისეთივე მტკივნეული იქნება, როგორც საზარელი. ასე რომ, იბრძოლე ბოლომდე... <LINE> <LINE> ბოლო ბრძოლა - აკუმულატორი (Last Stand – Accumulator) შეიცავს ზომბების დაუსრულებელ ტალღებს მზარდი რაოდენობით. გამოიყენე ზომბების მოკვლით გამომუშავებული ფული აღჭურვილობის შესაძენად, დონის ასამაღლებლად და სისხლით გაჟღენთილი იარაღის შესაკეთებლად.",
+
+    Challenge_AStormIsComing_name = "ქარიშხალი მოდის",
+	Challenge_AStormIsComing_desc = "კენტუკის თავზე ღრუბლები გროვდება. შორიდან ელვის გრუხუნი ისმის. <LINE> <LINE> როგორც კი ცა ბნელდება, მკვდრები, რომლებიც დედამიწაზე დაეხეტებიან, უფრო მოუსვენრები ხდებიან. <LINE> <LINE> ეს არის ქარიშხალი, რომელიც გაძლიერდება და შესუსტდება თავისი სისასტიკით, მაგრამ არასოდეს დასრულდება.",
+
+    Challenge_TheDescendingFog_name = "ჩამოწოლილი ნისლი",
+    Challenge_TheDescendingFog_desc = "ხალხმა ის პირველად წყალზე დაინახა. მკრთალი თეთრი საბანი მდინარე ოჰაიოზე. <LINE> <LINE> ეს დაიწყო როგორც ნისლი. შემდეგ მან მოიცვა ქალაქი. ქალაქელები ბინდში ყვირილით დაიხოცნენ. ახლა ისინი იქ დადიან. <LINE> <LINE> უხილავი, გაუგონარი და დაუნდობელი ცოცხლების დევნაში.",
+
+    Challenge_Kingsmouth_name = "კინგსმუთი (Kingsmouth)",
+    Challenge_Kingsmouth_desc = "ისამოვნე დასვენებით კინგსმუთის კუნძულზე!",
+
+    Challenge_Studio_name = "სტუდია",
+    Challenge_Studio_desc = "სადაც ყველა საუკეთესო ფილმია გადაღებული!",
+	-- On-screen UI
+	Challenge_Challenge2_PressKey = "დააჭირე \"o\"-ს მუდმივი გაძლიერებისთვის და ფულის დასახარჯად.",
+	Challenge_Challenge2_WaveStart = "ტალღა %1 : %2 -ში (დააჭირე Enter-ს გამოსატოვებლად)",
+	Challenge_Challenge2_WaveDuration = "ტალღა %1 : %2",
+	Challenge_Challenge2_ZombiesLeft = "დარჩენილი ზომბები : %1",
+	Challenge_Challenge2_Money = "ფული : %1",
+	Challenge_Challenge2_Money2 = "მოთამაშის %1 ფული : %2",
+	Challenge_Challenge2_WaveFinished = "ტალღა %1 დასრულდა : %2 -ში",
+	Challenge_Challenge2_MoneyGained = "მიღებული ფული : %1",
+	Challenge_Challenge2_XPGained = "მიღებული გამოცდილება : %1",
+	-- Window
+	Challenge_Challenge2_WindowTitle = "ბოლო ბრძოლა (Last Stand)",
+	Challenge_Challenge2_TabPlayer = "მოთამაშე",
+	Challenge_Challenge2_Weapons = "იარაღები",
+	Challenge_Challenge2_TabItems = "ნივთები",
+	Challenge_Challenge2_TabRepair = "შეკეთება",
+	Challenge_Challenge2_CurrentXp = "გამოცდილება (XP) : %1",
+	Challenge_Challenge2_ButtonSkill = "%1 დონე (Lvl) %2 - %3 XP",
+	Challenge_Challenge2_ButtonSkillMax = "%1 დონე (Lvl) მაქსიმალური",
+	Challenge_Challenge2_GoldBonus = "ოქროს ბონუსი",
+	Challenge_Challenge2_XpBonus = "XP ბონუსი",
+	Challenge_Challenge2_ButtonBonus = "%1% %2 - %3 XP",
+	Challenge_Challenge2_ButtonBonusMax = "%1 მაქსიმალური",
+	Challenge_Challenge2_ButtonStartGold = "+%1 საწყისი ოქრო - %2 XP",
+	Challenge_Challenge2_ButtonStartGoldMax = "მაქსიმალური საწყისი ოქრო %1",
+	-- PlayerUpWindow
+	Challenge_Challenge2_Skills = "უნარები",
+	Challenge_Challenge2_PermanentBonus = "მუდმივი ბონუსი",
+	-- VariousItemWindow
+	Challenge_Challenge2_Carpentry = "დურგლობა",
+	Challenge_Challenge2_Health = "ჯანმრთელობა",
+	Challenge_Challenge2_ItemButton = "%1 - %2",
+	Challenge_Challenge2_ItemButton2 = "%1 x%2 - %3",
+	-- WeaponRepairWindow
+	Challenge_Challenge2_RepairWeapon = "იარაღის შეკეთება",
+	-- WeaponUpWindow
+	Challenge_Challenge2_Health = "ჯანმრთელობა",
+
+	Challenge_OpeningHoursInfoBox = " <CENTRE> სავაჭრო ცენტრი იღება დილის 9 საათზე. <LINE> <LINE> მოემზადე ბრბოსთვის...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> სამ დღეში დაუსრულებელი ზამთარი დაიწყება. <LINE> <LINE> თბილად ჩაიცვი...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 24 საათში შენი მოგზაურობა ნოქსის ოლქში ჯოჯოხეთად იქცევა დედამიწაზე...",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> დაუსრულებელი ცუდი ამინდი გელით...",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> ნისლი იზრდება...",
+}
